@@ -1,0 +1,1920 @@
+SRVE0
+error.notifying.listeners.of.WebApp.start=SRVE0265E: Error occured while notifying listeners of WebApp start: {0}
+This is a system error.
+
+Review the logs.
+
+
+Illegal.Argument:.Missing.flag.value=SRVE0108E: Illegal Argument Exception: Missing flag value
+Missing flag value.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+error.obtaining.session.context=SRVE0268E: Error obtaining Session Context for the WebApp: {0}
+Could not obtain a valid Session Context for the WebApp. System action is required.
+
+Check if the Session Manager is configured correctly.
+
+
+Object.Pool.Disabled=SRVE0305W: ObjectPoolService is unavailable. SRTConnectionContext pooling disabled.
+The object pool service improves the performance of the webcontainer, but it has been disabled. This is a system error.
+
+It is recommended to enable the object pool service.
+
+
+Uncaught.service().exception.root.cause.{0}:.{1}=SRVE0014E: Uncaught service() exception root cause {0}: {1}
+Uncaught exception created in servlet service method. This is an application error.
+
+Varies by root cause.
+
+
+unable.to.use.default.temp.directory=SRVE0291E: Unable to use default temp directory: {0} read:{1} write:{2}
+System action is required.
+
+Check the status of the directory, including existence, access privileges and available space.
+
+
+Application.classpath=SRVE0234I: Application class path=[{0}]
+none
+
+none
+
+
+extension.processor.failed.to.initialize.in.factory=SRVE0280E: Extension processor failed to initialize in factory [{0}]: {1}
+This is a system error.
+
+Review the logs.
+
+
+Cannot.set.buffer.size.after.data=SRVE0186E: Can't set buffer size after data has been written to stream
+Some data has already been written to the stream, and hence the buffer size can no longer be controlled. This is an application error.
+
+Either set the buffer size before writing data or reset the buffer before setting the size.
+
+
+unsupported.request.encoding.[{0}]=SRVE0254E: Failed to set request character encoding: [{0}].
+Request encoding specified on the request is not valid. This is an application error.
+
+Review logs to determine whether the specified encoding is a valid encoding.
+
+
+Uncaught.initialization.exception.thrown.by.servlet=SRVE0207E: Uncaught initialization exception created by servlet
+The target threw an exception during initialization that was not caught by the user code. This is an application error.
+
+Account for the exception in target code.
+
+
+[{0}].Destroy.successful=SRVE0253I: [{2}] [{1}] [{0}]: Destroy successful.
+The destroy() method of the target resource ran successfully and the target has been removed from service.
+
+none.
+
+
+webcontainer.not.initialized=SRVE0256E: WebContainer has not been initialized.
+WebContainer is not initialized until an application has been installed. This is a system error.
+
+Install an application to initialize the webcontainer.
+
+
+illegal.servlet.mapping=SRVE0270E: Illegal servlet mapping encountered for servlet {0}.
+A servlet mapping specified in the webconfig.xml is not valid. System action is required.
+
+Check the servlet mappings in webconfig.xml and make appropriate changes
+
+
+loading.web.module=SRVE0169I: Loading Web Module: {0}.
+WebModule is starting and being made available for service.
+
+none.
+
+
+Illegal.Argument:.{0}.is.not.a.directory.=SRVE0031E: Illegal Argument Exception: {0} is not a directory.
+The specified path is not a directory.
+
+Make sure the directory exists or that you are requesting the right directory.
+
+
+web.container.jsp.spec.level=SRVE0163I: Supported JSP Specification Level: 2.1
+The JSP specification level supported by the application server.
+
+none.
+
+
+filtering.by.asterisk=SRVE0308E: Filtering by asterisk is not allowed.
+Filtering by asterisk is not allowed because disabling serving all servlets by classname is handled by the com.ibm.ws.webcontainer.disallowserveservletsbyclassname custom property. This is an application error.
+
+Set com.ibm.ws.webcontainer.disallowserveservletsbyclassname to true to block serving all classes by classname.
+
+
+annotation.helper.cannot.create=SRVE0263E: The annotation helper {0} cannot be instantiated.
+The specified annotation helper could not be instantiated. This is a system error.
+
+Check the exception logs for the reason that the annotation helper could not be instantiated.
+
+
+encountered.problems.while.removing.servlet=SRVE0301I: Encountered problems while removing servlet {0}. Details: {1}
+This is a system error.
+
+Review the logs.
+
+
+Unsupported.conversion=SRVE0208E: Unsupported conversion
+The code tried to do an illegal conversion of a header value. eg., from int to Data, when such a conversion is not possible. This is an application error.
+
+Modify the failing servlet/JSP.
+
+
+reaper.unloading.servlet.[{0}]=SRVE0244I: Reaper thread unloading servlet: [{0}].
+The reaper thread removes servlets that have been inactive for longer than the reaper inactive limit.
+
+none.
+
+
+Illegal.from.included.servlet=SRVE0194E: Illegal from included servlet
+The attempted operation cannot be performed in an included servlet/JSP (Refer to the Servlet specification). This is an application error.
+
+Modify the failing servlet/JSP.
+
+
+Illegal.Argument:.Unsupported.flag=SRVE0056E: Illegal Argument Exception: Unsupported flag
+This is an internal system error and is probably caused by an earlier failure.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+ExtensionFactory.[{0}].registered.successfully=SRVE0239I: Extension Factory [{0}] was registered successfully.
+none.
+
+none.
+
+
+error.initializing.filters=SRVE0267E: Error occured while initializing filters: {0}
+This is a system error.
+
+Review the logs.
+
+
+error.adding.servlet.mapping.file.handler=SRVE0278E: Error while adding servlet mapping --> {0}.
+This is an application error.
+
+Set fileServingEnabled=false in the ibm-web-ext.xmi file which is under WEB-INF folder.
+
+
+usertransaction.rollback.exception=SRVE0160E: Exception while rolling back UserTransaction: {0}
+Problem encountered rolling back the specified user transaction. This is an application error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+servletrequestwrapper.is.not.an.instance.of.so.wrapped.logic.may.be.bypassed=SRVE0304E: ServletRequestWrapper [{0}] is not an instance of [{1}] so wrapped logic may be bypassed.
+WebContainer expects a wrapped request object to be an instance of a class of which it is not. This is an application error.
+
+Change code to implement the expected interface.
+
+
+Invalid.Content.Length=SRVE0080E: Invalid content length
+Internal server error. This could be caused by network tuning issues, the content-length being specified incorrectly, or the length or size of an attachment. This is an application error.
+
+Gather logs and contact IBM service.
+
+
+failed.to.remove.webmodule=SRVE0314E: Failed to remove webmodule {0}: {1}
+This is a system error.
+
+Review the logs.
+
+
+Servlet.not.a.servlet.class=SRVE0201E: Servlet [{0}]: not a servlet class
+This is an application error.
+
+Modify the failing class to implement javax.servlet.Servlet or extend one of javax.servlet.GenericServlet or javax.servlet.http.HttpServlet
+
+
+no.jsp.extension.handler.found=SRVE0269W: No Extension Processor found for handling JSPs
+This is a system error.
+
+Review the logs.
+
+
+Illegal.Argument:.ScriptName.must.be.the.first.part.of.the.URI=SRVE0103E: Illegal Argument Exception: ScriptName must be the first part of the URI
+This is an internal system error and is probably caused by an earlier failure.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+[{0}].Initialization.successful=SRVE0242I: [{2}] [{1}] [{0}]: Initialization successful.
+The init() method of the target resource ran successfully and the target has been places into service.
+
+none.
+
+
+Missing.required.initialization.parameter=SRVE0196E: Missing required initialization parameter: {0}
+The parameter with the mentioned name has no value. This is a required parameter. This is an application error.
+
+Supply a value to the mentioned parameter.
+
+
+server.root.is.null=SRVE0287E: server.root is null
+This is a system error.
+
+none.
+
+
+Failed.to.initialize.webapp.{0}=SRVE0015E: Failure to initialize Web application {0}
+Could not initialize the web application specified in the message. Check the error log for more details.
+
+Look in the error log to determine the root cause of this problem.
+
+
+web.container.servlet.spec.level=SRVE0162I: Servlet Specification Level: 2.5
+The servlet specification level supported by the application server.
+
+none.
+
+
+Serving.JSP.Not.Allowed=SRVE0221E: Serving contents of JSP files is not allowed.
+Cannot serve the contents of a JSP file
+
+none.
+
+
+cannot.use.error.page=SRVE0260E: The server cannot use the error page specified for your application to handle the Original Exception printed below.
+none.
+
+See the Error Page Exception for a description of the problem with the specified error page.
+
+
+servlet.on.blocked.list.{0}=SRVE0309E: Servlet on the blocked list: {0}
+The requested servlet is on the block list provided by the custom property com.ibm.ws.webcontainer.donotservebyclassname. This is an application error.
+
+If this is not the desired behavior, update the property com.ibm.ws.webcontainer.donotservebyclassname.
+
+
+postInvoke.Security.Exception.=SRVE0138E: postInvoke Security Exception
+Security problem encountered during request processing. This is a system error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Servlet.unloaded:.{0}=SRVE0021I: Servlet unloaded: {0}
+The specified servlet has been unloaded after the destroy method has been called.
+
+none.
+
+
+class.not.found=SRVE0213E: class not found
+Internal exception.
+
+If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+
+
+exception.caught.in.notifyServletContextCreated=SRVE0284E: Exception caught in notifyServletContextCreated: {0}
+This is a system error.
+
+Review the logs.
+
+
+Listener.found.but.injection.failure=SRVE0322E: The [{0}] listener class was found, but a resource injection failure has occurred.
+The listener failed to initialize because an error occured when a resource was injected.
+
+Verify that the injected resources exist and are accessible to the listener. To re-initialize the listener, restart the listener application.
+
+
+be.debugged.by.recompiling.the.servlet.using.only.the.classes.in.the.application's.runtime.classpath=SRVE0210I: This problem can be debugged by recompiling the servlet using only the classes in the application's runtime class path
+This is an application error.
+
+Recompile the servlet using only the classes in the application's runtime class path.
+
+
+[{0}].reported.an.error=SRVE0235E: [{0}] reported an error
+See reported error.
+
+none.
+
+
+Illegal.Argument:.Invalid.Content.Length=SRVE0042E: Illegal Argument Exception: Invalid content length
+This is an internal system error and is probably caused by an earlier failure. This is an application error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+No.Error.to.Report=SRVE0219I: No Error to Report
+DefaultErrorReport was invoked but no error was found. This is a system error.
+
+Review application to determine cause of problem.
+
+
+exception.occured.while.creating.wrapper.for.servlet=SRVE0298E: Exception occured while creating wrapper for servlet [{0}]: {1}
+This is a system error.
+
+Review the logs.
+
+
+class.resides.in.proper.package.directory=SRVE0227E: Check that the class resides in the proper package directory.
+Package name of resource does not match the compiled class file's package. This is an application error.
+
+Check that the class resides in the proper package directory.
+
+
+[{0}][{1}][Servlet.LOG]:.{2}:.{3}=SRVE0181I: [{0}] [{1}] [Servlet.LOG]: {2}: {3}
+Informational message {2} logged via ServletContext.log from application {0} with context root {1} and stack trace {3}.
+
+none.
+
+
+Illegal.Argument:.Bootstrap.File.Not.Found=SRVE0041E: Illegal Argument Exception: Bootstrap file not found
+This is an internal system error and is probably caused by an earlier failure.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+module.[{0}].successfully.bound.to.virtualhost.[{1}]=SRVE0250I: Web Module {0} has been bound to {1}.
+The specified web module has been associated to the virtualhost mentioned, and can be accessed through any of the host/port combinations for that virtualhost.
+
+none.
+
+
+Error.occurred.while.invoking.error.reporter=SRVE0115E: Error occurred while invoking error reporter {0}
+Problem invoking the specified error reporter.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Filter.found.but.injection.failure=SRVE0320E: The [{0}] filter was found, but a resource injection failure has occurred.
+The filter failed to initialize because an error occurred when a resource was injected.
+
+Verify that the injected resources exist and are accessible to the filter.
+
+
+jsp.processor.not.defined.skipping=SRVE0272W: JSP Processor not defined. Skipping : {0}
+This is a system error.
+
+none.
+
+
+could.not.create.wrapper.for.servlet=SRVE0299E: Could not create wrapper for servlet [{0}]
+This is a system error.
+
+Review the logs.
+
+
+Illegal.Argument:.Invalid.Date.Format=SRVE0053E: Illegal Argument Exception: Invalid date format
+Date format is not valid.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Exception=SRVE0315E: An execption occurred: {0}
+An exception occurred.
+
+Review the logs.
+
+
+{0}.is.not.a.valid.class=SRVE0217E: {0} is not a valid class
+This error occurred when the webcontainer tried to load an internal implementation class. This is a system error.
+
+Check to make sure the original WAS class path has not been modified.
+
+
+Uncaught.init().exception.thrown.by.servlet.{0}:.{2}=SRVE0100E: Uncaught init() exception created by servlet {0} in application {1}: {2}
+Could not initialize the specified servlet. This is an application error.
+
+Make sure the servlet class file is available on the application class path.
+
+
+transports.detected=SRVE0252W: Transports and Chains have been detected! The transports have been changed to use a new model. Use the migration utilities to migrate the transports to the new model. The threadpool configuration under the webcontainer will not be used with these transports.
+Transports have been changed to use Channel Chains. Refer to the information center to review information on Channel Chains, and how to migrate the existing transports to be channel chain based. The thread pool configuration under the webcontainer will not be used to these transports.
+
+Use the migration utilities to migrate your configuration model from the transports to the new channel chains.
+
+
+Using.[{0}].as.server.root=SRVE0241I: Using [{0}] as the server root in getTempDirectory().
+none.
+
+none.
+
+
+property.has.changed=SRVE0257W: The semantics for the {0} property on the transport have changed.
+A thread is no longer tied to a single connection. System action is required.
+
+Refer to the information center for more details.
+
+
+Servlet.wait.for.destroy.timeout.has.expired,.destroy.will.be.forced:.{0}=SRVE0055I: Servlet wait for destroy time-out has expired, destroy will be forced: {0}
+Servlet is being destroyed after wait has timed out.
+
+none.
+
+
+WebApp.destroy.encountered.errors=SRVE0297E: WebApp {0} destroy encountered errors: {1}
+This is a system error.
+
+Review the logs.
+
+
+Forbidden.Web.Security.Exception=SRVE0218E: Forbidden: Web Security Exception
+The request tried to access a forbidden resource.
+
+Make sure the requesting entity has the required privileges.
+
+
+property.not.applicable=SRVE0258W: The {0} attribute under the transport no longer applies.
+System action is required.
+
+Configure this property under the Logging Service (see information center for more details on HTTP Access Logger).
+
+
+failed.to.create.temp.directory=SRVE0289E: Failed to create temp directory: {0}
+This is a system error.
+
+none.
+
+
+exception.caught.in.notifyServletContextDestroyed=SRVE0286E: Exception caught in notifyServletContextDestroyed: {0}
+This is a system error.
+
+Review the logs.
+
+
+error.on.collaborator.started.call=SRVE0237E: Error occurred while invoking initialization collaborator on started() call
+This is a system error.
+
+Check the FFDC logs for more details on the error
+
+
+error.while.setting.WebAppAttributes=SRVE0282E: Error occured while setting WebAppAttribues: {0}
+This is a system error.
+
+Review the logs.
+
+
+log.servlet.message=SRVE0292I: Servlet Message - [{0}]:.{1}
+none.
+
+none.
+
+
+need.to.add.a.new.virtual.host.alias=SRVE0317W: You may need to add a new virtual host alias of *:<your port> to the same virtual host that [{0}] is under.
+The request path maps to a context root on a non-matching virtual host.
+
+Follow the instructions in the Information Center to add a new virtual host alias.
+
+
+resource.path.has.to.start.with.slash=SRVE0238E: Resource paths should have a leading slash
+This is an application error.
+
+Supply a leading slash before the path and try again.
+
+
+host.has.not.been.defined=SRVE0204E: The host {0} has not been defined
+The virtual host was not found. System action is required.
+
+Check the virtual host configuration in the virtualhosts.xml file, or through the administrative console.
+
+
+Session.releaseSession().threw.an.unexpected.exception=SRVE0105E: An exception occurred in Session.releaseSession()
+Problem releasing a session.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Servlet.was.found.but.is.missing.another.required.class=SRVE0203E: Servlet [{0}]: {1} was found, but is missing another required class.
+A required class was not found. This is an application error.
+
+Make sure all required classes are placed in the folders/jars representing the class path
+
+
+host.on.port.has.not.been.defined=SRVE0205E: The host {0} on port {1} has not been defined.
+Unable to locate Virtual Host defined to handle this request URI. System action is required.
+
+Check the virtual host configuration in the virtualhosts.xml file, or through the administrative console.
+
+
+exception.while.initializing.context=SRVE0283E: Exception caught while initializing context: {0}
+This is an application error.
+
+Review the logs.
+
+
+transport.error=SRVE0311E: There was an error in the transport: {0}
+This is a system error.
+
+Review the logs.
+
+
+threadpool.not.used=SRVE0251W: The threadpool configured under the webcontainer is not being used.
+There exists a ThreadPool configuration under the webcontainer. Any changes made to this configuration item will not result in changes in the system.
+
+none.
+
+
+class.transfered.using.binary.mode=SRVE0229E: Check that the class was transferred to the filesystem using a binary transfer mode.
+This is an application error.
+
+Check that the class was transferred to the filesystem using a binary transfer mode.
+
+
+Illegal.Argument:.Trying.to.write.<.0.bytes=SRVE0121E: Illegal Argument Exception: Trying to write &lt; 0 bytes
+Attempting to output a buffer of size less than 0. This is an application error.
+
+Only write buffers of size of 0 or greater.
+
+
+File.not.found=SRVE0190E: File not found: {0}
+The mentioned file was not found. This is an application error.
+
+Ensure that the mentioned file is in place.
+
+
+Illegal.Argument:.Missing.Resource.Bootstrap.Properties=SRVE0086E: Illegal Argument Exception: Missing resource bootstrap properties
+Internal server error.
+
+Gather logs and contact IBM service.
+
+
+failed.to.load.converter.properties=SRVE0156E: Failed to load converter.properties file {0}
+Could not load the specified file. System action is required.
+
+Be sure the specified file existsand is in the correct format according to java.utils.Properties.
+
+
+reaper.destroying.servlet.[{0}]=SRVE0246I: Reaper thread destroying servlet: [{0}].
+none.
+
+none.
+
+
+Error.Report=SRVE0233E: Error Report
+none
+
+none
+
+
+error.while.adding.servlet.mapping.for.path=SRVE0274W: Error while adding servlet mapping for path-->{0}, wrapper-->{1}, application-->{2}.
+This is an application error.
+
+Check for mapping clash in webconfig.xml
+
+
+log.servlet.error=SRVE0293E: [Servlet Error]-[{0}]: {1}
+none.
+
+none.
+
+
+classname.defined.in.server.using.proper.case.and.fully.qualified.package=SRVE0228E: Check that the classname has been defined in the server using the proper case and fully qualified package.
+This is an application error.
+
+Check that the classname has been defined in the server using the proper case and fully qualified package.
+
+
+reaper.with.interval.[{0}].limit.[{1}].started=SRVE0243I: Reaper thread interval: [{0}] and inactive limit:[{1}] started.
+none.
+
+none.
+
+
+log.servlet.error.and.message=SRVE0294E: [Servlet Error]-[{0}]: {1}: {2}
+none.
+
+none.
+
+
+error.while.initializing.servlets=SRVE0266E: Error occured while initializing servlets: {0}
+This is a system error.
+
+Review the logs.
+
+
+OutputStream.already.obtained=SRVE0199E: OutputStream already obtained
+Application requested a PrintWriter after the ServletResponse OutputStream had already been obtained. This is an application error.
+
+Review application to determine if both PrintWriter and OuputStream were obtained. Modify the failing servlet/JSP to only obtain one or the other.
+
+
+exception.caught.destroying.context=SRVE0285E: Exception caught while destroying context: {0}
+This is a system error error.
+
+Review the logs.
+
+
+request.matches.context.root=SRVE0316W: Request matches the context root [{0}] under the virtual host alias of [{1}].
+The request path maps to a context root on a non-matching virtual host.
+
+Check to see if an additional virtual host alias needs to be added.
+
+
+uncaught.init.exception.thrown.by.servlet=SRVE0271E: Uncaught init() exception created by servlet [{0}] in application [{1}]: {2}
+This is an application error.
+
+Review the logs.
+
+
+error.initializing.servlet=SRVE0276E: Error while initializing Servlet [{0}]: {1}
+This is an application error.
+
+Review the logs.
+
+
+error.initializing.extension.factories=SRVE0264E: Error occured while initializing Extension Factories: {0}
+This is a system error.
+
+Review the logs.
+
+
+preInvoke.Security.Exception.=SRVE0139E: Exception in Security preInvoke {0}
+Security problem encountered during request processing. This is a system error.
+
+Varies with root cause.
+
+
+Waiting.servlet.to.finish.servicing.requests:.{0}=SRVE0066I: Waiting for servlet to finish servicing requests: {0}
+Servlet is still handling the request. Waiting for request to complete before calling destroy.
+
+none.
+
+
+Error.Parsing.Parameters=SRVE0133E: An error occurred while parsing parameters. {0}
+Problem encountered parsing servlet parameters.
+
+Verify the client is sending the full request.
+
+
+log.servlet.message.with.throwable=SRVE0296E: [{0}][{1}][Servlet.LOG]:.{2}:.{3}
+none.
+
+none.
+
+
+ExtensionFactory.[{0}].associated.with.patterns.[{1}]=SRVE0240I: Extension Factory [{0}] has been associated with patterns [{1}].
+none.
+
+none.
+
+
+invalid.count=SRVE0214E: invalid count
+Internal exception.
+
+If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+
+
+Servlet.found.but.injection.failure=SRVE0319E: For the [{0}] servlet, {1} servlet class was found, but a resource injection failure has occurred.
+The servlet failed to initialize because an error occurred when a resource was injected.
+
+Verify that the injected resources exist and are accessible to the servlet.
+
+
+mapping.already.exists=SRVE0300E: Mapping already Exists [{0}][{1}]: {2}
+The desired path is already assigned in a servlet mapping. This is an application error.
+
+Change or remove the mapping from your application configuration.
+
+
+Uncaught.destroy().exception.thrown.by.servlet.{0}:.{2}=SRVE0058E: Did not realize destroy() exception created by servlet {0} in application {1}: {2}
+Could not destroy specified servlet. This is an application error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+setbuffer.size.called.after.write=SRVE0157E: setBufferSize() called after first write to Output Stream/Writer
+An attempt was made to set the response buffer size after the response was already committed. This is an application error.
+
+Remove the setBufferSize() call or move it to a position before the response commit.
+
+
+This.error.implies.servlet.was.originally.compiled.with.classes.which.cannot.be.located.by.server=SRVE0206E: This error typically implies that the servlet was originally compiled with classes which cannot be located by the server.
+This is an application error.
+
+Re-compile the servlet with all required components placed in the class path.
+
+
+class.compiled.using.proper.case=SRVE0230E: Check that the class was compiled using the proper case (as defined in the class definition).
+This is an application error.
+
+Check that the class was compiled using the proper case (as defined in the class definition).
+
+
+chown.failed=SRVE0288E: chown failed, tried to run command: [{0}] Exit Code: [{1}]
+This is a system error.
+
+none.
+
+
+Servlet.Could.not.find.required.servlet.class=SRVE0200E: Servlet [{0}]: Could not find required class - {1}
+Servlet could not find a required class needed to service the request. This is an application error.
+
+Verify the class exists within the application.
+
+
+Wrapped.Error=SRVE0220I: Wrapped Error-
+Error that caused the problem.
+
+none.
+
+
+mapping.for.directorybrowsingservlet.already.exists=SRVE0277W: Mapping for DirectoryBrowsingServlet already exists
+This is an application error.
+
+Remove the duplicate mapping.
+
+
+Writer.already.obtained=SRVE0209E: Writer already obtained
+The writer for this response has already been obtained. Use the existing writer. This is an application error.
+
+Review application to determine if both PrintWriter and OuputStream were obtained. Modify the failing servlet/JSP to only obtain one or the other.
+
+
+annotation.helper.wrong.type=SRVE0262E: The annotation helper {0} is not of type com.ibm.wsspi.webcontainer.AnnotationHelper.
+The specified annotation helper is not of the expected type. This is a system error.
+
+Check the annotation helper implementation class and fix it.
+
+
+reaper.removing.mapping.[{0}].for.servlet.[{1}]=SRVE0245I: Reaper thread removing mapping: [{0}] for servlet: [{0}].
+The reaper thread removes the mappings for jsps and other extensions that have been inactive longer the the reaper inactive limit.
+
+none.
+
+
+error.while.initializing.jsp.as.servlet=SRVE0273E: Error while initializing JSP as servlet [{0}] in application [{1}]: {1}
+This is an application error.
+
+Review the logs.
+
+
+Illegal.Argument:.Invalid.Directory.Specified:.{0}=SRVE0061E: Illegal Argument Exception: Invalid directory specified: {0}
+The specified directory is not valid.
+
+Check directory specification for errors.
+
+
+Servlet.has.become.temporarily.unavailable.for.service:.{0}=SRVE0095I: Servlet has become temporarily unavailable for service: {0}
+Specified servlet is temporarily unavailable.
+
+Wait and retry operation. Servlet might have been removed from service by server administrator.
+
+
+waiting.to.destroy.filter.[{0}]=SRVE0248I: Requests are currently being processed. Waiting up to 60 seconds before forcing filter destroy.
+none.
+
+none.
+
+
+Check.your.classpath.ensure.all.classes.present=SRVE0187E: Check your class path to ensure that all classes required by the servlet are present.
+A required class was not found. This is an application error.
+
+Make sure your class path reflects all the classes you may be accessing
+
+
+non-HTTP.request.or.response=SRVE0215E: non-HTTP request or response
+The servlet chain that has been defined can only handle HTTP requests. This is an application error.
+
+none.
+
+
+Illegal.Argument.Trying.to.write.chars=SRVE0011E: Illegal Argument Exception: Trying to write < 0 chars
+Attempting to output a buffer of size less than 0. This is an application error.
+
+Only write buffers of size of 0 or greater.
+
+
+failed.to.load.encoding.properties=SRVE0155E: Failed to load encoding.properties file {0}
+Could not load the specified file. System action is required.
+
+Be sure the specified file exists and is in the correct format according to java.utils.Properties.
+
+
+error.while.adding.static.file.processor=SRVE0302E: Error while adding static file processor: {0}
+This is a system error.
+
+Review the logs.
+
+
+Uncaught.service().exception.thrown.by.servlet.{0}:.{2}=SRVE0068E: Uncaught exception created in one of the service methods of the servlet {0} in application {1}. Exception created : {2}
+Uncaught exception created in one of the service methods of the servlet. This is an application error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+transport.migration.error=SRVE0313E: Error occured while migrating transport at port {0} to the corresponding chain: {1}
+This is a system error.
+
+Review the logs.
+
+
+property.configuration.change=SRVE0259W: The {0} property is now configurable only at the WebContainer level.
+The {0} property can no longer be configured at the transport level and must be configured at the webcontainer level. System action is required.
+
+Configure this property at the webcontainer level.
+
+
+Servlet.unload.initiated:.{0}=SRVE0097I: Servlet unload initiated: {0}
+The specified servlet is being unloaded from service.
+
+none.
+
+
+unable.to.use.specified.temp.directory=SRVE0290E: Unable to use specified temp directory: {0} read:{1} write:{2}
+System action is required.
+
+Check the status of the directory, including existence, access privileges and available space.
+
+
+invalid.query.string=SRVE0318W: Invalid character in query string.
+A character, which is not valid, exists in the query string and has been ignored.
+
+A user action is not required.
+
+
+init.exception.thrown.by.filter.at.startup=SRVE0321E: The [{0}] filter did not load during start up.
+The filter did not load during startup.
+
+Examine the server logs to determine the root cause of the problem.
+
+
+web.container.copyright=SRVE0161I: IBM WebSphere Application Server - Web Container. Copyright IBM Corp. 1998-2008
+Application server identifier.
+
+none.
+
+
+reaper.thread.error=SRVE0247E: Error during reaper thread execution.
+Exception occurred in the reaper thread processing. This is a system error.
+
+Reaper processing is just a form of garbage collection.
+
+
+request.processor.already.present.for.mapping=SRVE0281E: Request Processor already present for mapping: {0}
+This is a system error.
+
+Review the logs.
+
+
+Error.Initializing.for.Next.Request=SRVE0070E: Error initializing for next request
+Internal web container error.
+
+Gather server logs and contact IBM service.
+
+
+Class.{0}.does.not.implement.servlet=SRVE0188E: Class {0} does not implement servlet
+This is an application error.
+
+=The class mentioned needs to implement javax.servlet.Servlet or extend one of javax.servlet.GenericServlet or javax.servlet.http.HttpServlet
+
+
+[{0}][{1}][Servlet.LOG]:.{2}=SRVE0180I: [{0}] [{1}] [Servlet.LOG]: {2}
+Informational message {2} logged via ServletContext.log from application {0} with context root {1}.
+
+none.
+
+
+Illegal.Argument:.Invalid.ObjectPool.Instantiated.=SRVE0109E: Illegal Argument Exception: Invalid ObjectPool instantiated.
+This is an internal system error and is probably caused by an earlier failure.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Null.Filter.Mapping=SRVE0307W: null mapping for filter. This may occur if you try to specify a * mapping on a pre-2.5 app.
+There was no servlet mapping for the filter so it cannot be added. This is an application error.
+
+Change the application descriptors to 2.5 level if you are using a * mapping.
+
+
+error.adding.servlet.mapping.for.servlet=SRVE0275E: Error while adding servlet mapping for servlet [{0}] in application [{1}]: {2}
+This is an application error.
+
+Verify the mapping is valid.
+
+
+class.not.renamed.after.compiled=SRVE0231E: Check that the class file was not renamed after it was compiled.
+This is an application error.
+
+Check that the class file was not renamed after it was compiled.
+
+
+WebAppSecurityCollaborator=SRVE0035E: WebAppSecurityCollaborator
+WebAppSecurityCollaborator. This is a system error.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+sync.tothread.not.set.for.server.[{0}]=SRVE0249W: Application {0} has requested SyncToOSThread, but the server is not enabled for SyncToOSThread
+SyncToOSThread synchronizes the Java EE role identity to the OS thread, meaning that the OS thread identity is made equal to the Java EE role identity for the duration of the request. This message indicates that while an application has been configured to utilize SyncToOSThread functionality, the server it is installed into is not configured to support SyncToOSThread capabilities. System action is required.
+
+If SyncToOSThread capabilities are desired for the server in question, refer to the information center for a description as to how to enable SyncToOSThread for a server.
+
+
+Illegal.Argument:.Invalid.Header.Format=SRVE0016E: Illegal Argument Exception: Invalid header format
+Format found for a request header is not valid.
+
+Check client header creation.
+
+
+error.on.collaborator.starting.call=SRVE0236E: Error occurred while invoking initialization collaborator on starting() call
+This is a system error.
+
+Check the FFDC logs for more details on the error.
+
+
+context.root.already.in.use=SRVE0164E: Web Application {0} uses the context root {1}, which is already in use by Web Application {2}. Web Application {3} will not be loaded.
+Two web applications on the same virtual host share the same context root. This is an application error.
+
+Either change the context root of one of the web applications or move one to a different virtual host.
+
+
+Servlet.found.but.corrupt=SRVE0202E: Servlet [{0}]: {1} was found, but is corrupted:
+The servlet class was found to be corrupted. This is an application error.
+
+Re-compile the class and try again.
+
+
+error.processing.global.listeners.for.webapp=SRVE0279E: Error occured while processing global listeners for the application {0}: {1}
+This is an application error.
+
+Review the logs.
+
+
+Invalidation.Exception:.{0}.was.created=SRVE0126E: Invalidation Exception: {0} was created
+This is an internal system error and is probably caused by an earlier failure.
+
+Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+
+
+Unable.to.bind.hostname.[{0}].to.servletHost.[{1}]=SRVE0060E: Unable to bind host name [{0}] to servletHost [{1}]
+Could not bind the specified host name to the specified servlet host.
+
+Make sure the host name has been specified correctly and that the servlet host has been specified in virtualhosts.xml.
+
+
+IO.Error=SRVE0120E: IO Error {0}
+IO error encountered.
+
+Varies depending on reported root cause.
+
+
+Web.Group.VHost.Not.Found=SRVE0255E: A WebGroup/Virtual Host to handle {0} has not been defined.
+Could not find a web group (web module) or virtual host to handle the request. This is an application error.
+
+Be sure the web group and virtual host is defined and deployed.
+
+
+error.occurred.processing.request=SRVE0185E: An error has occurred while processing request:
+Exception that occurred when processing the request.
+
+Review the message to determine the root cause of the problem.
+
+
+StackTrace=SRVE0223I: StackTrace:
+none.
+
+none.
+
+
+Error.occurred.while.finishing.request=SRVE0189E: Error occurred while finishing request
+This is an error that occurs when the request was being completed. This could have happened because of a communication error within the Application Server but should not have affected the processing of the request. This is a system error.
+
+none.
+
+
+Error.in.WebContainer.custom.property.value=SRVE0310E: There was an error in a custom property: {1}
+System action is required.
+
+Verify the custom property is correct
+
+
+post.body.contains.less.bytes.than.specified=SRVE0216E: post body contains less bytes than specified by content-length
+The incoming request may be corrupted. This is an application error.
+
+none.
+
+
+instantiate.collaborator.exception=SRVE0140E: Could not instantiate the security collaborator {0}
+Internal server error.
+
+Gather logs and contact IBM service.
+
+
+Target.Servlet=SRVE0224I: Target Servlet:
+none.
+
+none.
+
+
+Root.Error=SRVE0225I: Root Error-
+none.
+
+none.
+
+
+ARD.Not.Enabled=SRVE0306W: ARD is not enabled so so attempts to do asynchronous includes and insertFragment calls will all be synchronous
+ARD is not enabled correctly. System action is required.
+
+Make sure ARD is enabled in the WebContainer settings and a dispatch type of CLIENT_SIDE or SERVER_SIDE is specified in the application settings.
+
+
+annotation.helper.not.defined=SRVE0261E: The annotation helper {0} has not been defined.
+The specified annotation helper has not been defined. This is a system error.
+
+Check for the definition of the specified annotation helper and add it if necessary.
+
+
+error.adding.channel=SRVE0312E: There was an adding while adding a channel: {0}
+This is a system error.
+
+Review the logs.
+
+===
+
+SRVE
+SRVE0011E: Illegal Argument Exception: Trying to write < 0 chars
+Explanation	Attempting to output a buffer of size less than 0. This is an application error.
+Action	Only write buffers of size of 0 or greater.
+SRVE0014E: Uncaught service() exception root cause {0}: {1}
+Explanation	Uncaught exception created in servlet service method. This is an application error.
+Action	Varies by root cause.
+SRVE0015E: Failure to initialize Web application {0}
+Explanation	Could not initialize the web application specified in the message. Check the error log for more details.
+Action	Look in the error log to determine the root cause of this problem.
+SRVE0016E: Illegal Argument Exception: Invalid header format
+Explanation	Format found for a request header is not valid.
+Action	Check client header creation.
+SRVE0021I: Servlet unloaded: {0}
+Explanation	The specified servlet has been unloaded after the destroy method has been called.
+Action	none.
+SRVE0031E: Illegal Argument Exception: {0} is not a directory.
+Explanation	The specified path is not a directory.
+Action	Make sure the directory exists or that you are requesting the right directory.
+SRVE0035E: WebAppSecurityCollaborator
+Explanation	WebAppSecurityCollaborator. This is a system error.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0041E: Illegal Argument Exception: Bootstrap file not found
+Explanation	This is an internal system error and is probably caused by an earlier failure.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0042E: Illegal Argument Exception: Invalid content length
+Explanation	This is an internal system error and is probably caused by an earlier failure. This is an application error.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0053E: Illegal Argument Exception: Invalid date format
+Explanation	Date format is not valid.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0055I: Servlet wait for destroy time-out has expired, destroy will be forced: {0}
+Explanation	Servlet is being destroyed after wait has timed out.
+Action	none.
+SRVE0056E: Illegal Argument Exception: Unsupported flag
+Explanation	This is an internal system error and is probably caused by an earlier failure.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0058E: Did not realize destroy() exception created by servlet {0} in application {1}: {2}
+Explanation	The servlet destroy() method threw an exception. This is an application error.
+Action	Examine the exception message, the source code of the servlet, and the server logs to determine the root cause of the problem.
+SRVE0060E: Unable to bind host name [{0}] to servletHost [{1}]
+Explanation	Could not bind the specified host name to the specified servlet host.
+Action	Make sure the host name has been specified correctly and that the servlet host has been specified in virtualhosts.xml.
+SRVE0061E: Illegal Argument Exception: Invalid directory specified: {0}
+Explanation	The specified directory is not valid.
+Action	Check directory specification for errors.
+SRVE0066I: Waiting for servlet to finish servicing requests: {0}
+Explanation	Servlet is still handling the request. Waiting for request to complete before calling destroy.
+Action	none.
+SRVE0068E: An exception was thrown by one of the service methods of the servlet [{0}] in application [{1}]. Exception created : [{2}]
+Explanation	An exception was thrown by one of the service methods of the servlet. This is an application error.
+Action	Examine the exception message, the source code of the servlet, and the server logs to determine the root cause of the problem.
+SRVE0070E: Error initializing for next request
+Explanation	Internal web container error.
+Action	Gather server logs and contact IBM service.
+SRVE0080E: Invalid content length
+Explanation	The content length does not match the length of the post data. This is an application error.
+Action	Investigate the client to determine why the content-length field does not match the size of the post data. If the client is setting it correctly, investigate where in the network the content-length field becomes invalid.
+SRVE0086E: Illegal Argument Exception: Missing resource bootstrap properties
+Explanation	Internal server error.
+Action	Gather logs and contact IBM service.
+SRVE0095I: Servlet has become temporarily unavailable for service: {0}
+Explanation	Specified servlet is temporarily unavailable.
+Action	Wait and retry operation. Servlet might have been removed from service by server administrator.
+SRVE0096E: A session cannot be accessed. The session manager feature set has not been started.
+Explanation	A session cannot be accessed. The session manager feature set has not been started.
+Action	Make sure that the server configuration depends upon the session feature set.
+SRVE0097I: Servlet unload initiated: {0}
+Explanation	The specified servlet is being unloaded from service.
+Action	none.
+SRVE0099E: Object Pool Exception: Class [{0}] could not be instantiated.
+Explanation	Could not instantiate a class for use by the object pool. This is a system error.
+Action	Be sure the class exists and is visible on the application class path.
+SRVE0100E: Uncaught init() exception created by servlet {0} in application {1}: {2}
+Explanation	Could not initialize the specified servlet. This is an application error.
+Action	Make sure the servlet class file is available on the application class path.
+SRVE0103E: Illegal Argument Exception: ScriptName must be the first part of the URI
+Explanation	This is an internal system error and is probably caused by an earlier failure.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0105E: An exception occurred in Session.releaseSession()
+Explanation	Problem releasing a session.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0108E: Illegal Argument Exception: Missing flag value
+Explanation	Missing flag value.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0109E: Illegal Argument Exception: Invalid ObjectPool instantiated.
+Explanation	This is an internal system error and is probably caused by an earlier failure.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0115E: Error occurred while invoking error reporter {0}
+Explanation	There was a problem invoking the specified error reporter.
+Action	If the problem persists, see problem determination information on the WebSphere Application Server Support page at http://www.ibm.com/software/webservers/appserv/was/support/
+SRVE0120E: IO Error {0}
+Explanation	IO error encountered.
+Action	Varies depending on reported root cause.
+SRVE0121E: Illegal Argument Exception: Trying to write &lt; 0 bytes
+Explanation	Attempting to output a buffer of size less than 0. This is an application error.
+Action	Only write buffers of size of 0 or greater.
+SRVE0126E: Invalidation Exception: {0} was created
+Explanation	This is an internal system error and is probably caused by an earlier failure.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0133E: An error occurred while parsing parameters. {0}
+Explanation	Problem encountered parsing servlet parameters.
+Action	Verify the client is sending the full request.
+SRVE0138E: postInvoke Security Exception
+Explanation	A security problem was encountered during request processing.
+Action	Examine the server logs to determine the root cause of the problem.
+SRVE0139E: Exception in Security preInvoke {0}
+Explanation	Security problem encountered during request processing. This is a system error.
+Action	Varies with root cause.
+SRVE0140E: Could not instantiate the security collaborator {0}
+Explanation	Internal server error.
+Action	Gather logs and contact IBM service.
+SRVE0155E: Failed to load encoding.properties file {0}
+Explanation	Could not load the specified file. System action is required.
+Action	Be sure the specified file exists and is in the correct format according to java.utils.Properties.
+SRVE0156E: Failed to load converter.properties file {0}
+Explanation	Could not load the specified file. System action is required.
+Action	Be sure the specified file existsand is in the correct format according to java.utils.Properties.
+SRVE0157E: setBufferSize() called after first write to Output Stream/Writer
+Explanation	An attempt was made to set the response buffer size after the response was already committed. This is an application error.
+Action	Remove the setBufferSize() call or move it to a position before the response commit.
+SRVE0160E: Exception while rolling back UserTransaction: {0}
+Explanation	Problem encountered rolling back the specified user transaction. This is an application error.
+Action	Examine the server logs in order to determine the root cause of the problem. If there are no related messages or they do not help to resolve the problem, contact IBM Support.
+SRVE0161I: IBM WebSphere Application Server - Web Container. Copyright IBM Corp. 1998-2012
+Explanation	Application server identifier.
+Action	none.
+SRVE0162I: Servlet Specification Level: 3.0
+Explanation	The servlet specification level supported by the application server.
+Action	none.
+SRVE0163I: Supported JSP Specification Level: 2.2
+Explanation	The JSP specification level supported by the application server.
+Action	none.
+SRVE0164E: Web Application {0} uses the context root {1}, which is already in use by Web Application {2}. Web Application {3} will not be loaded.
+Explanation	Two web applications on the same virtual host share the same context root. This is an application error.
+Action	Either change the context root of one of the web applications or move one to a different virtual host.
+SRVE0169I: Loading Web Module: {0}.
+Explanation	Web module is starting and being made available for service.
+Action	none.
+SRVE0180I: [{0}] [{1}] [Servlet.LOG]: {2}
+Explanation	Informational message logged via ServletContext.log from an application.
+Action	none.
+SRVE0181I: [{0}] [{1}] [Servlet.LOG]: {2}: {3}
+Explanation	Informational message and stack trace logged via ServletContext.log from an application.
+Action	none.
+SRVE0185E: An error has occurred while processing request:
+Explanation	Exception that occurred when processing the request.
+Action	Review the message to determine the root cause of the problem.
+SRVE0186E: Can't set buffer size after data has been written to stream
+Explanation	Some data has already been written to the stream, and hence the buffer size can no longer be controlled. This is an application error.
+Action	Either set the buffer size before writing data or reset the buffer before setting the size.
+SRVE0187E: Check your class path to ensure that all classes required by the servlet are present.
+Explanation	A required class was not found. This is an application error.
+Action	Make sure your class path reflects all the classes you may be accessing
+SRVE0188E: Class {0} does not implement servlet
+Explanation	This is an application error.
+Action	=The class mentioned needs to implement javax.servlet.Servlet or extend one of javax.servlet.GenericServlet or javax.servlet.http.HttpServlet
+SRVE0189E: Error occurred while finishing request
+Explanation	This is an error that occurs when the request was being completed. This could have happened because of a communication error within the Application Server but should not have affected the processing of the request. This is a system error.
+Action	none.
+SRVE0190E: File not found: {0}
+Explanation	The mentioned file was not found. This is an application error.
+Action	Ensure that the mentioned file is in place.
+SRVE0194E: Illegal from included servlet
+Explanation	The attempted operation cannot be performed in an included servlet/JSP (Refer to the Servlet specification). This is an application error.
+Action	Modify the failing servlet/JSP.
+SRVE0196E: Missing required initialization parameter: {0}
+Explanation	The parameter with the mentioned name has no value. This is a required parameter. This is an application error.
+Action	Supply a value to the mentioned parameter.
+SRVE0199E: OutputStream already obtained
+Explanation	Application requested a PrintWriter after the ServletResponse OutputStream had already been obtained. This is an application error.
+Action	Review application to determine if both PrintWriter and OuputStream were obtained. Modify the failing servlet/JSP to only obtain one or the other.
+SRVE0200E: Servlet [{0}]: Could not find required class - {1}
+Explanation	Servlet could not find a required class needed to service the request. This is an application error.
+Action	Verify the class exists within the application.
+SRVE0201E: Servlet [{0}]: not a servlet class
+Explanation	This is an application error.
+Action	Modify the failing class to implement javax.servlet.Servlet or extend one of javax.servlet.GenericServlet or javax.servlet.http.HttpServlet
+SRVE0202E: Servlet [{0}]: {1} was found, but is corrupted:
+Explanation	The servlet class was found to be corrupted. This is an application error.
+Action	Re-compile the class and try again.
+SRVE0203E: Servlet [{0}]: {1} was found, but is missing another required class.
+Explanation	A required class was not found. This is an application error.
+Action	Make sure all required classes are placed in the folders/jars representing the class path
+SRVE0204E: The host {0} has not been defined
+Explanation	The virtual host was not found. System action is required.
+Action	Check the virtual host configuration in the virtualhosts.xml file, or through the administrative console.
+SRVE0205E: The host {0} on port {1} has not been defined.
+Explanation	Unable to locate Virtual Host defined to handle this request URI. System action is required.
+Action	Check the virtual host configuration in the virtualhosts.xml file, or through the administrative console.
+SRVE0206E: This error typically implies that the servlet was originally compiled with classes which cannot be located by the server.
+Explanation	This is an application error.
+Action	Re-compile the servlet with all required components placed in the class path.
+SRVE0207E: Uncaught initialization exception created by servlet
+Explanation	The target threw an exception during initialization that was not caught by the user code. This is an application error.
+Action	Account for the exception in target code.
+SRVE0208E: Unsupported conversion
+Explanation	The code tried to do an illegal conversion of a header value. eg., from int to Data, when such a conversion is not possible. This is an application error.
+Action	Modify the failing servlet/JSP.
+SRVE0209E: Writer already obtained
+Explanation	The writer for this response has already been obtained. Use the existing writer. This is an application error.
+Action	Review application to determine if both PrintWriter and OuputStream were obtained. Modify the failing servlet/JSP to only obtain one or the other.
+SRVE0210I: This problem can be debugged by recompiling the servlet using only the classes in the application's runtime class path
+Explanation	This is an application error.
+Action	Recompile the servlet using only the classes in the application's runtime class path.
+SRVE0211E: The class {0} could not be instantiated
+Explanation	Internal exception.
+Action	If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+SRVE0212E: class {0} not accessible
+Explanation	Internal exception.
+Action	If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+SRVE0213E: class not found
+Explanation	Internal exception.
+Action	If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+SRVE0214E: invalid count
+Explanation	Internal exception.
+Action	If the problem persists, additional information might be available if you search for the message ID on the following Web sites: WebSphere Application Server Support page: http://www.ibm.com/software/webservers/appserv/was/support/ WebSphere Application Server for z/OS Support page: http://www.ibm.com/software/webservers/appserv/zos_os390/support/ .
+SRVE0215E: non-HTTP request or response
+Explanation	The servlet chain that has been defined can only handle HTTP requests. This is an application error.
+Action	none.
+SRVE0216E: post body contains less bytes than specified by content-length
+Explanation	The incoming request may be corrupted. This is an application error.
+Action	none.
+SRVE0217E: {0} is not a valid class
+Explanation	This error occurred when the web container tried to load an internal implementation class. This is a system error.
+Action	Check to make sure the original product class path has not been modified.
+SRVE0218E: Forbidden: Web Security Exception
+Explanation	The request tried to access a forbidden resource.
+Action	Make sure the requesting entity has the required privileges.
+SRVE0219I: No Error to Report
+Explanation	DefaultErrorReport was invoked but no error was found. This is a system error.
+Action	Review application to determine cause of problem.
+SRVE0220I: Wrapped Error-
+Explanation	Error that caused the problem.
+Action	none.
+SRVE0221E: Serving contents of JSP files is not allowed.
+Explanation	Cannot serve the contents of a JSP file
+Action	none.
+SRVE0223I: StackTrace:
+Explanation	none.
+Action	none.
+SRVE0224I: Target Servlet:
+Explanation	none.
+Action	none.
+SRVE0225I: Root Error-
+Explanation	none.
+Action	none.
+SRVE0227E: Check that the class resides in the proper package directory.
+Explanation	Package name of resource does not match the compiled class file's package. This is an application error.
+Action	Check that the class resides in the proper package directory.
+SRVE0228E: Check that the classname has been defined in the server using the proper case and fully qualified package.
+Explanation	This is an application error.
+Action	Check that the classname has been defined in the server using the proper case and fully qualified package.
+SRVE0229E: Check that the class was transferred to the filesystem using a binary transfer mode.
+Explanation	This is an application error.
+Action	Check that the class was transferred to the filesystem using a binary transfer mode.
+SRVE0230E: Check that the class was compiled using the proper case (as defined in the class definition).
+Explanation	This is an application error.
+Action	Check that the class was compiled using the proper case (as defined in the class definition).
+SRVE0231E: Check that the class file was not renamed after it was compiled.
+Explanation	This is an application error.
+Action	Check that the class file was not renamed after it was compiled.
+SRVE0232E: Internal Server Error. <br> Exception Message: [{0}]
+Explanation	An unexpected exception occurred and details were provided on the resulting error page. This is a system error.
+Action	Check the System.out and System.err logs for more information on the exception generated.
+SRVE0233E: Error Report
+Explanation	none
+Action	none
+SRVE0234I: Application class path=[{0}]
+Explanation	none
+Action	none
+SRVE0235E: [{0}] reported an error
+Explanation	See reported error.
+Action	none.
+SRVE0236E: Error occurred while invoking initialization collaborator on starting() call
+Explanation	This is a system error.
+Action	Check the FFDC logs for more details on the error.
+SRVE0237E: Error occurred while invoking initialization collaborator on started() call
+Explanation	This is a system error.
+Action	Check the FFDC logs for more details on the error
+SRVE0238E: Resource paths should have a leading slash
+Explanation	This is an application error.
+Action	Supply a leading slash before the path and try again.
+SRVE0239I: Extension Factory [{0}] was registered successfully.
+Explanation	none.
+Action	none.
+SRVE0240I: Extension Factory [{0}] has been associated with patterns [{1}].
+Explanation	none.
+Action	none.
+SRVE0241I: Using [{0}] as the server root in getTempDirectory().
+Explanation	none.
+Action	none.
+SRVE0242I: [{2}] [{1}] [{0}]: Initialization successful.
+Explanation	The init() method of the target resource ran successfully and the target has been places into service.
+Action	none.
+SRVE0243I: Reaper thread interval: [{0}] and inactive limit:[{1}] started.
+Explanation	none.
+Action	none.
+SRVE0244I: Reaper thread unloading servlet: [{0}].
+Explanation	The reaper thread removes servlets that have been inactive for longer than the reaper inactive limit.
+Action	none.
+SRVE0245I: Reaper thread removing mapping: [{0}] for servlet: [{0}].
+Explanation	The reaper thread removes the mappings for jsps and other extensions that have been inactive longer the the reaper inactive limit.
+Action	none.
+SRVE0246I: Reaper thread destroying servlet: [{0}].
+Explanation	none.
+Action	none.
+SRVE0247E: Error during reaper thread execution.
+Explanation	Exception occurred in the reaper thread processing. This is a system error.
+Action	Reaper processing is just a form of garbage collection.
+SRVE0248I: Requests are currently being processed. Waiting up to 60 seconds before forcing filter destroy.
+Explanation	none.
+Action	none.
+SRVE0249W: Application {0} has requested SyncToOSThread, but the server is not enabled for SyncToOSThread
+Explanation	SyncToOSThread synchronizes the Java EE role identity to the OS thread, meaning that the OS thread identity is made equal to the Java EE role identity for the duration of the request. This message indicates that while an application has been configured to utilize SyncToOSThread functionality, the server it is installed into is not configured to support SyncToOSThread capabilities. System action is required.
+Action	If SyncToOSThread capabilities are desired for the server in question, refer to the information center for a description as to how to enable SyncToOSThread for a server.
+SRVE0250I: Web Module {0} has been bound to {1}.
+Explanation	The specified web module has been associated to the virtualhost mentioned, and can be accessed through any of the host/port combinations for that virtualhost.
+Action	none.
+SRVE0251W: The thread pool configured under the web container is not being used.
+Explanation	There exists a thread pool configuration under the web container. Any changes made to this configuration item will not result in changes in the system.
+Action	none.
+SRVE0252W: Transports and Chains have been detected! The transports have been changed to use a new model. Use the migration utilities to migrate the transports to the new model. The thread pool configuration under the web container will not be used with these transports.
+Explanation	Transports have been changed to use Channel Chains. Refer to the information center to review information on Channel Chains, and how to migrate the existing transports to be channel chain based. The thread pool configuration under the web container will not be used to these transports.
+Action	Use the migration utilities to migrate your configuration model from the transports to the new channel chains.
+SRVE0253I: [{2}] [{1}] [{0}]: Destroy successful.
+Explanation	The destroy() method of the target resource ran successfully and the target has been removed from service.
+Action	none.
+SRVE0254E: Failed to set request character encoding: [{0}].
+Explanation	Request encoding specified on the request is not valid. This is an application error.
+Action	Review logs to determine whether the specified encoding is a valid encoding.
+SRVE0255E: A WebGroup/Virtual Host to handle {0} has not been defined.
+Explanation	Could not find a web group (web module) or virtual host to handle the request. This is an application error.
+Action	Be sure the web group and virtual host is defined and deployed.
+SRVE0256E: Web Container has not been initialized.
+Explanation	Web Container is not initialized until an application has been installed. This is a system error.
+Action	Install an application to initialize the web container.
+SRVE0257W: The semantics for the {0} property on the transport have changed.
+Explanation	A thread is no longer tied to a single connection. System action is required.
+Action	Refer to the information center for more details.
+SRVE0258W: The {0} attribute under the transport no longer applies.
+Explanation	System action is required.
+Action	Configure this property under the Logging Service (see information center for more details on HTTP Access Logger).
+SRVE0259W: The {0} property is now configurable only at the web container level.
+Explanation	The property can no longer be configured at the transport level and must be configured at the web container level. System action is required.
+Action	Configure this property at the web container level.
+SRVE0260E: The server cannot use the error page specified for your application to handle the Original Exception printed below.
+Explanation	none.
+Action	See the Error Page Exception for a description of the problem with the specified error page.
+SRVE0261E: The annotation helper {0} has not been defined.
+Explanation	The specified annotation helper has not been defined. This is a system error.
+Action	Check for the definition of the specified annotation helper and add it if necessary.
+SRVE0262E: The annotation helper {0} is not of type com.ibm.wsspi.webcontainer.AnnotationHelper.
+Explanation	The specified annotation helper is not of the expected type. This is a system error.
+Action	Check the annotation helper implementation class and fix it.
+SRVE0263E: The annotation helper {0} cannot be instantiated.
+Explanation	The specified annotation helper could not be instantiated. This is a system error.
+Action	Check the exception logs for the reason that the annotation helper could not be instantiated.
+SRVE0264E: Error occured while initializing Extension Factories: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0265E: Error occured while notifying listeners of web application start: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0266E: Error occured while initializing servlets: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0267E: Error occured while initializing filters: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0268E: Error obtaining Session Context for the web application: {0}
+Explanation	Could not obtain a valid Session Context for the web application. System action is required.
+Action	Check if the Session Manager is configured correctly.
+SRVE0269W: No Extension Processor found for handling JSPs
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0270E: Illegal servlet mapping encountered for servlet {0}.
+Explanation	A servlet mapping specified in the webconfig.xml is not valid. System action is required.
+Action	Check the servlet mappings in webconfig.xml and make appropriate changes
+SRVE0271E: Uncaught init() exception created by servlet [{0}] in application [{1}]: {2}
+Explanation	This is an application error.
+Action	Review the logs.
+SRVE0272W: JSP Processor not defined. Skipping : {0}
+Explanation	This is a system error.
+Action	none.
+SRVE0273E: Error while initializing JSP as servlet [{0}] in application [{1}]: {1}
+Explanation	This is an application error.
+Action	Review the logs.
+SRVE0274W: Error while adding servlet mapping for path-->{0}, wrapper-->{1}, application-->{2}.
+Explanation	This is an application error.
+Action	Check for mapping clash in webconfig.xml
+SRVE0275E: Error while adding servlet mapping for servlet [{0}] in application [{1}]: {2}
+Explanation	This is an application error.
+Action	Verify the mapping is valid.
+SRVE0276E: Error while initializing Servlet [{0}]: {1}
+Explanation	This is an application error.
+Action	Review the logs.
+SRVE0277W: Mapping for DirectoryBrowsingServlet already exists
+Explanation	This is an application error.
+Action	Remove the duplicate mapping.
+SRVE0278E: Error while adding servlet mapping --> {0}.
+Explanation	This is an application error.
+Action	Set fileServingEnabled=false in the ibm-web-ext.xmi file which is under WEB-INF folder.
+SRVE0279E: Error occured while processing global listeners for the application {0}: {1}
+Explanation	This is an application error.
+Action	Review the logs.
+SRVE0280E: Extension processor failed to initialize in factory [{0}]: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0281E: Request Processor already present for mapping: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0282E: Error occured while setting web application attribues: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0283E: Exception caught while initializing context: {0}
+Explanation	This is an application error.
+Action	Review the logs.
+SRVE0284E: Exception caught in notifyServletContextCreated: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0285E: Exception caught while destroying context: {0}
+Explanation	This is a system error error.
+Action	Review the logs.
+SRVE0286E: Exception caught in notifyServletContextDestroyed: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0287E: server.root is null
+Explanation	This is a system error.
+Action	none.
+SRVE0288E: chown failed, tried to run command: [{0}] Exit Code: [{1}]
+Explanation	This is a system error.
+Action	none.
+SRVE0289E: Failed to create temp directory: {0}
+Explanation	This is a system error.
+Action	none.
+SRVE0290E: Unable to use specified temp directory: {0} read:{1} write:{2}
+Explanation	System action is required.
+Action	Check the status of the directory, including existence, access privileges and available space.
+SRVE0291E: Unable to use default temp directory: {0} read:{1} write:{2}
+Explanation	System action is required.
+Action	Check the status of the directory, including existence, access privileges and available space.
+SRVE0292I: Servlet Message - [{0}]:.{1}
+Explanation	Informational message logged for a servlet by use of the ServletContext.
+Action	none.
+SRVE0293E: [Servlet Error]-[{0}]: {1}
+Explanation	Error exception logged for a servlet by use of the ServletContext.
+Action	Review the exception to determine the cause of the error and the action required. Additional information for may be available in the server logs.
+SRVE0294E: [Servlet Error]-[{0}]: {1}: {2}
+Explanation	Error message and exception logged for a servlet for a servlet by use of the ServletContext..
+Action	Review the message and exception to determine the cause of the error and the action required. Additional information for may be available in the server logs.
+SRVE0295E: Error reported: {0}
+Explanation	HttpServletResponse.sendError was called with a status code but no explanation.
+Action	Review the logs to determine the status code of the error.
+SRVE0296E: [{0}][{1}][Servlet.LOG]:.{2}:.{3}
+Explanation	Informational message and exception logged for a servlet by use of the ServletContext..
+Action	Review the message and exception to determine if any action is required. Additional information for may be available in the server logs.
+SRVE0297E: Web Application {0} destroy encountered errors: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0298E: Exception occured while creating wrapper for servlet [{0}]: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0299E: Could not create wrapper for servlet [{0}]
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0300E: Mapping already Exists [{0}][{1}]: {2}
+Explanation	The desired path is already assigned in a servlet mapping. This is an application error.
+Action	Change or remove the mapping from your application configuration.
+SRVE0301I: Encountered problems while removing servlet {0}. Details: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0302E: Error while adding static file processor: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0303E: Servlet name for the servlet mapping {0} could not be found.
+Explanation	There is no servlet definition for the servlet mapping.
+Action	Check your web.xml has a servlet definition for this servlet mapping.
+SRVE0304E: ServletRequestWrapper [{0}] is not an instance of [{1}] so wrapped logic may be bypassed.
+Explanation	Web Container expects a wrapped request object to be an instance of a class of which it is not. This is an application error.
+Action	Change code to implement the expected interface.
+SRVE0305W: ObjectPoolService is unavailable. SRTConnectionContext pooling disabled.
+Explanation	The object pool service improves the performance of the web container, but it has been disabled. This is a system error.
+Action	It is recommended to enable the object pool service.
+SRVE0306W: ARD is not enabled so an asynchronous include or insertFragment call will be synchronous.
+Explanation	ARD is not enabled correctly. System action is required.
+Action	Make sure ARD is enabled in the Web Container settings and a dispatch type of CLIENT_SIDE or SERVER_SIDE is specified in the application settings.
+SRVE0307W: null mapping for filter. This may occur if you try to specify a * mapping on a pre-2.5 app.
+Explanation	There was no servlet mapping for the filter so it cannot be added. This is an application error.
+Action	Change the application descriptors to 2.5 level if you are using a * mapping.
+SRVE0308E: Filtering by asterisk is not allowed.
+Explanation	Filtering by asterisk is not allowed because disabling serving all servlets by classname is handled by the com.ibm.ws.webcontainer.disallowserveservletsbyclassname custom property. This is an application error.
+Action	Set com.ibm.ws.webcontainer.disallowserveservletsbyclassname to true to block serving all classes by classname.
+SRVE0309E: Servlet on the blocked list: {0}
+Explanation	The requested servlet is on the block list provided by the custom property com.ibm.ws.webcontainer.donotservebyclassname. This is an application error.
+Action	If this is not the desired behavior, update the property com.ibm.ws.webcontainer.donotservebyclassname.
+SRVE0310E: There was an error in a custom property: {1}
+Explanation	System action is required.
+Action	Verify the custom property is correct
+SRVE0311E: There was an error in the transport: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0312E: There was an adding while adding a channel: {0}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0313E: Error occured while migrating transport at port {0} to the corresponding chain: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0314E: Failed to remove web module {0}: {1}
+Explanation	This is a system error.
+Action	Review the logs.
+SRVE0315E: An execption occurred: {0}
+Explanation	An exception occurred.
+Action	Review the logs.
+SRVE0316W: Request matches the context root [{0}] under the virtual host alias of [{1}].
+Explanation	The request path maps to a context root on a non-matching virtual host.
+Action	Check to see if an additional virtual host alias needs to be added.
+SRVE0317W: You may need to add a new virtual host alias of *:<your port> to the same virtual host that [{0}] is under.
+Explanation	The request path maps to a context root on a non-matching virtual host.
+Action	Follow the instructions in the Information Center to add a new virtual host alias.
+SRVE0318W: Invalid character in query string.
+Explanation	A character, which is not valid, exists in the query string and has been ignored.
+Action	A user action is not required.
+SRVE0319E: For the [{0}] servlet, {1} servlet class was found, but a resource injection failure has occurred.
+Explanation	The servlet failed to initialize because an error occurred when a resource was injected.
+Action	Verify that the injected resources exist and are accessible to the servlet.
+SRVE0320E: The [{0}] filter was found, but a resource injection failure has occurred.
+Explanation	The filter failed to initialize because an error occurred when a resource was injected.
+Action	Verify that the injected resources exist and are accessible to the filter.
+SRVE0321E: The [{0}] filter did not load during start up.
+Explanation	The filter did not load during startup.
+Action	Examine the server logs to determine the root cause of the problem.
+SRVE0322E: The [{0}] listener class was found, but a resource injection failure has occurred.
+Explanation	The listener failed to initialize because an error occured when a resource was injected.
+Action	Verify that the injected resources exist and are accessible to the listener. To re-initialize the listener, restart the listener application.
+SRVE0323I: The Asynchronous Request Dispatcher is not enabled. Requests sent through either the HttpQueueInboundDefault or the HttpQueueInboundDefaultSecure chain might not be properly handled.
+Explanation	The requests through either the HttpQueueInboundDefault or the HttpQueueInboundDefaultSecure chain might not be properly handled if the Asynchronous Request Dispatcher is not enabled at the server level.
+Action	If Asynchronous Request Dispatcher is not enabled at the server level, make sure either the WCInboundDefault or the WCInboundDefaultSecure chain is enabled and running. If neither of these chains is running, you must enable the Asynchronous Request Dispatcher if it is not already enabled because the server will send the requests through either the HttpQueueInboundDefault or the HttpQueueInboundDefaultSecure chain.
+SRVE0324W: Asynchronous Request Dispatcher is not enabled. Therefore, the HttpQueueInboundDefault and HttpQueueInboundDefaultSecure chains might not handle your requests properly .
+Explanation	Your requests are on the HttpQueueInboundDefault or HttpQueueInboundDefaultSecure chain, but the Asynchronous Request Dispatcher is not enabled at the server level. Therefore,the HttpQueueInboundDefault and HttpQueueInboundDefaultSecure chains might not handle these requests properly.
+Action	Either enable the Asynchronous Request Dispatcher at the server level, or enable either the WCInboundDefault or the WCInboundDefaultSecure chain, and make sure it is running.
+SRVE0325E: Exceeding maximum parameters allowed per request {0} ,current {1} , cannot add more.
+Explanation	The number of parameters contained in the inbound request exceeds the maximum number of parameters that can be included in a inbound request.
+Action	Ensure that all of the parameters in the inbound request are valid, and that the total number parameters does not exceed the maximum allowed per request.
+SRVE0326E: The maximum number of parameter key hashcode collisions allowed per request {0} has been exceeded.
+Explanation	The number of parameter key hash code collisions exceeds the maximum number of parameter key hash code collisions allowed per inbound request. The parameter keys that generate duplicate hashcodes might have been added to the request maliciously, thereby causing a large number of parameter key hash code collisions.
+Action	Ensure that all of the parameters in the inbound request are valid.
+SRVE8000W: Skipped class that failed to initialize for annotation scanning.
+Explanation	A class in the web module could not be initialized so it cannot be scanned for annotations.
+Action	Verify the class exists and has all of its dependencies in the classpath.
+SRVE8001E: Attempted to add servlet dynamically after ServletContext initialization.
+Explanation	Servlets can only be dynamically added before the ServletContext is initialized.
+Action	Move the code calling the current method into a ServletContainerInitalizer's onStartup or a ServletContextListener's contextInitialized method.
+SRVE8002E: Attempted to add filter dynamically after ServletContext initialization.
+Explanation	Filters can only be dynamically added before the ServletContext is initialized.
+Action	Move the code calling the current method into a ServletContainerInitalizer's onStartup or a ServletContextListener's contextInitialized method.
+SRVE8003E: Attempted to add a servlet mapping with the variable argument url pattern parameter set to null.
+Explanation	The variable argument url-pattern parameter passed to ServletRegistration.addMapping must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8004E: Attempted to add a servlet mapping with an empty variable argument url pattern parameter.
+Explanation	The variable argument url-pattern parameter passed to ServletRegistration.addMapping must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8005E: Attempted to add a filter mapping with the variable argument url pattern parameter set to null.
+Explanation	The variable argument url-pattern parameter passed to FilterRegistration.addMappingForUrlPatterns must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8006E: Attempted to add a filter mapping with an empty variable argument url pattern parameter.
+Explanation	The variable argument url-pattern parameter passed to FilterRegistration.addMappingForUrlPatterns must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8007E: Attempted to add a filter mapping with the variable argument servlet name parameter set to null.
+Explanation	The variable argument servlet name parameter passed to FilterRegistration.addMappingForServletNames must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8008E: Attempted to add a filter mapping with an empty variable argument servlet name parameter.
+Explanation	The variable argument servlet name parameter passed to FilterRegistration.addMappingForServletNames must be non-null and non-empty.
+Action	Modify application code according to error explanation.
+SRVE8009E: An unexpected internal server error occurred when initializing the target mappings.
+Explanation	An unexpected internal server error occurred when initializing the target mappings.
+Action	Collect server logs and contact IBM support.
+SRVE8010E: The current request does not support asynchronous servlet processing.
+Explanation	One of the servlets or filters in the request does not support asynchronous servlets.
+Action	Do not use asynchronous servlets or enable asynchronous processing for all the servlets and filters in the chain by adding the async-supported element to the component definitions.
+SRVE8011E: This operation cannot be executed from a programmatically added listener. (Operation: {0} | Listener: {1} | Application: {2})
+Explanation	Certain operations cannot be executed from a programmatically added listener since there is no configuration option to restrict their execution when they are defined in a Tag Library Descriptor (TLD).
+Action	Add the listener via an annotation or via the web.xml to enable the execution of this method.
+SRVE8012E: Error adding ServletContextListener
+Explanation	A ServletContextListener can not be added from another ServletContextListener
+Action	Either add the ServletContextListener to the web.xml or web-fragment.xml, annotate it with the @WebListener annotation, or programmatically add it from ServletContainerInitializer#onStartup
+SRVE8013E: Not a valid listener to add programmatically
+Explanation	The listener being programmatically added does not implement a valid listener type
+Action	Modify the application code to add a listener of the accepted type
+SRVE8014E: An exception occurred while creating the listener instance
+Explanation	An exception occurred while creating the listener instance
+Action	An exception occurred while creating the listener instance
+SRVE8015E: An exception occurred while trying to add a listener of type {0}
+Explanation	An exception occurred while trying to add a listener
+Action	Verify the listener is a valid type and available to the application
+SRVE8016E: The {0} annotation can not be applied to the class, {1}, because it extends the wrong super class
+Explanation	Some annotations can only be applied to classes which extend the correct type.
+Action	Modify the class to extend the correct super class
+SRVE8017E: The class, {0}, can not specify both urlPatterns and value in the annotation
+Explanation	The class can not specify both urlPatterns and value in the annotation
+Action	Modify the class to only include one of the urlPatterns or value attribute
+SRVE8018E: The class, {0}, did not have any patterns specified in the annotation
+Explanation	The class must specify patterns in the annotation via the urlPatterns or value attribute
+Action	Modify the class to add one of the urlPatterns or value attributes
+SRVE8019E: Class, {0}, with annotation did not have a valid name
+Explanation	The class must specify a valid name in the annotation
+Action	Modify the class to specify a valid name in the annotation
+SRVE8020E: Servlet does not accept multipart requests
+Explanation	The servlet does not accept multipart requests.
+Action	Add a @MultipartConfig annotation to this servlet or add a multipart-config element to this servlet in the web.xml.
+SRVE8021E: The file being uploaded is too large.
+Explanation	The file being uploaded via the multipart/form-data request is larger than the maximum configured size.
+Action	Increase the file size attribute of the multipart configuration for the given servlet.
+SRVE8022E: The request is too large.
+Explanation	The multipart/form-data request is larger than the maximum configured size.
+Action	Increase the request size attribute of the multipart configuration for the given servlet.
+SRVE8023E: There was an exception uploading the file.
+Explanation	There was an exception uploading the file.
+Action	Investigate nested error and perform appropriate action.
+SRVE8024E: The request is not of type multipart/form-data.
+Explanation	The request must be of type multipart/form-data to be able to handle this method.
+Action	Modify the servlets making previous requests such that the current request is of type multipart/form-data.
+SRVE8025E: An error or timeout occured while doing async servlet processing.
+Explanation	An error or timeout resulting from an async dispatch will invoke any registered async listener and then the error page mechanism if not listener dispatches or completes.
+Action	Fix the cause of the error by looking at the exception and modifying application code or be sure to provide an AsyncListener or error page to gracefully handle the error case.
+SRVE8026E: An exception occurred scheduling work related to async servlet processing.
+Explanation	This exception should never occur as the thread pools will queue up the work.
+Action	If this exception occurs, please contact support.
+SRVE8027E: An I/O related error has occurred during the processing of the given AsyncEvent.
+Explanation	I/O errors can occur when invoking an AsyncListener if it is writing to the response concurrently with another thread or something else has closed the response.
+Action	It is recommended that AsyncListeners should only call complete or dispatch, but not write to the response. Otherwise, the customer is responsible for doing their own synchronization to prevent an IOException.
+SRVE8028W: An exception occured adding a mapping target for the default extension processor.
+Explanation	When two requests are made to the same resource the first time, a race condition can occur in trying to add the mapping to the web application.
+Action	This is normally a benign condition that can be ignored. Only report this if there are issues serving any requests to the resources in question.
+SRVE8029E: An IOException occured creating the Extended Document Root search path.
+Explanation	Because creation of the search path involves file system access, IOExceptions may occur.
+Action	Verify that the path is correct and there are no hardware issues.
+SRVE8030E: A ServletException occurred adding a servlet dynamically.
+Explanation	An unexpected ServletException occurred adding a servlet dynamically. This can occur, for example, if the MBean names of two servlets collide.
+Action	Review the logs and contact support.
+SRVE8031W: A problem finding class, {0}, during the scan for ServletContainerInitializer HandlesTypes for {1}.
+Explanation	The class was not found in the class loader when processing the ServletContainerInitializer HandlesTypes annotation.
+Action	Make sure the class exists within the web module's class loader.
+SRVE8032W: A problem finding a HandlesTypes class during the scan of the ServletContainerInitializer, {0}, for {1}.
+Explanation	The class was not found in the class loader when processing the ServletContainerInitializer HandlesTypes annotation.
+Action	Make sure the class exists within the web module's class loader.
+SRVE8033W: A problem occurred while initializing the application's ServletContainerInitializers.
+Explanation	A problem occurred while initializing the application's ServletContainerInitializers.
+Action	Verify that the ServletContainerInitializer is configured correctly.
+SRVE8034E: Servlet [{0}]: {1} could not be loaded due to an IOException.
+Explanation	An IOException can occur for any number of reasons related to I/O.
+Action	Check if the class has been removed.
+SRVE8035E: Servlet [{0}]: {1} could not be loaded due to an IllegalAccessException.
+Explanation	An IllegalAccessException occurred calling newInstance on the servlet.
+Action	Verify there is a public no argument constructor on the servlet.
+SRVE8036E: Servlet [{0}]: {1} could not be loaded due to an InstantiationException.
+Explanation	An InstantiationException occurs when trying to create a new instance of an interface or abstract class.
+Action	Change the class being instantiated to a concrete class or remove the definition as a servlet.
+SRVE8037E: Exception processing reference data.
+Explanation	An exception occurred processing reference data. Application will attempt to start anyway.
+Action	Investigate the root cause of the exception and determine if application still functions properly despite these failures.
+SRVE8038E: Trying to do startAsync after a complete.
+Explanation	The method startAsync cannot be called after a complete per the Servlet specification.
+Action	Verify there are no code logic or timing issues causing this illegal behavior.
+SRVE8039E: The method startAsync was not called from within the context of a dispatch for this request
+Explanation	The method startAsync must be called from within the context of a container dispatch be it the original request or a subsequent async dispatch.
+Action	Verify there are no code logic or timing issues causing this illegal behavior.
+SRVE8040E: Cannot call startAsync multiple times within same dispatch.
+Explanation	The method startAsync cannot be called multiple times from the same dispatch. A call to AsyncContext.dispatch would allow you to call startAsync again.
+Action	Verify there are no code logic or timing issues causing this illegal behavior.
+SRVE8041E: trying to call dispatch twice for the same async operation
+Explanation	The Servlet specification states you can only call dispatch once per call to startAsync
+Action	Remove the additional call to dispatch.
+SRVE8042E: An internal error caused the reference context that enables injection to not be initialized properly.
+Explanation	An internal error caused the reference context that enables injection to not be initialized properly.
+Action	Check for errors earlier in the logs that may have caused initialization to fail.
+SRVE8043E: An IOException occured searching jarFile [{1}] for fileName [{2}] {0}
+Explanation	IOExceptions can occur when looking at jar files if the file is changed or closed during traversal.
+Action	Verify the jar file is valid and is not being updated during traversal.
+SRVE8044E: The context has already been initialized. No updates are allowed to the session configuration.
+Explanation	The context has already been initialized. No updates are allowed to the session configuration.
+Action	You can only modify the session configuration before the application is initialized.
+SRVE8045E: Programmatic session configuration has been disabled on this server.
+Explanation	Programmatic session configuration has been disabled on this server.
+Action	Enable programmatic session configuration.
+SRVE8046E: An error occurred while invoking a call to AsyncContext dispatch.
+Explanation	An error occurred while invoking a call to AsyncContext dispatch.
+Action	See the root cause of the exception.
+SRVE8047E: NumberFormatException for file size at which you switch to optimized file serving.
+Explanation	The file serving attribute com.ibm.ws.webcontainer.optimizefileservingsize could not be parsed property.
+Action	Change the value of the attribute to a valid integer value.
+SRVE8048E: A mapping clash occurred when adding the url pattern [{0}]
+Explanation	The same pattern was specified twice for the url patterns to deny for file serving.
+Action	Please check the file serving attributes in your ibm-web-ext.xmi or ibm-web-ext.xml file.
+SRVE8049E: An internal server error occurred destroying the servlet.
+Explanation	An internal server error occurred destroying the servlet.
+Action	See the root cause of the exception.
+SRVE8050E: Place servlet class on classpath of the application server {0}, {1}: {2}.
+Explanation	Classpath errors occurred when serving the servlet.
+Action	Place servlet class on classpath of the application server.
+SRVE8051E: An internal server error occurred unloading the servlet.
+Explanation	An internal server error occurred unloading the servlet.
+Action	See the root cause of the exception.
+SRVE8052E: Logging ClassNotFoundException
+Explanation	Servlet could not find a required class needed to service the request. This is an application error.
+Action	Verify the class exists within the application.
+SRVE8053E: A NumberFormatException occurred when trying to set the single thread model pool size.
+Explanation	A NumberFormatException occurred when trying to set the single thread model pool size.
+Action	Verify the value for the single thread model pool size is a valid integer.
+SRVE8054E: A NumberFormatException occurred when trying to set the single thread model servlet maximum idle time.
+Explanation	A NumberFormatException occurred when trying to set the single thread model servlet maximum idle time.
+Action	Verify the value for the single thread model servlet maximum idle time is a valid integer.
+SRVE8055E: An unexpected exception occurred flushng out the rest of the response data.
+Explanation	An unexpected exception occurred flushng out the rest of the response data.
+Action	Gather server logs and contact IBM service.
+SRVE8056E: An unexpected exception occurred closing the output stream.
+Explanation	An unexpected exception occurred closing the output stream.
+Action	Gather server logs and contact IBM service.
+SRVE8057E: An unexpected exception occurred initializing the output stream.
+Explanation	An unexpected exception occurred initializing the output stream.
+Action	Gather server logs and contact IBM service.
+SRVE8058E: Did not have access to delete the temporary directory
+Explanation	Java 2 Security policy prevented deleting the temporary directory
+Action	Check Java 2 Security policy to verify whether this access should be allowed.
+SRVE8059E: An unexpected exception occurred when trying to retrieve the session context
+Explanation	An unexpected exception occurred when trying to retrieve the session context
+Action	Gather server logs and contact IBM service.
+SRVE8060E: An unexpected exception occurred during resource injection.
+Explanation	An unexpected exception occurred during resource injection.
+Action	Gather server logs and contact IBM service.
+SRVE8061E: Unable to invoke method --> [{0}] on class --> [{1}].
+Explanation	Problem invoking postConstruct or preDestroy.
+Action	See root cause.
+SRVE8062E: An unexpected exception occurred initializing the security collaborator.
+Explanation	An unexpected exception occurred initializing the security collaborator.
+Action	Gather server logs and contact IBM service.
+SRVE8063E: An unexpected exception occurred initializing the login processor.
+Explanation	An unexpected exception occurred initializing the login processor.
+Action	Gather server logs and contact IBM service.
+SRVE8064E: An unexpected exception occurred initializing the logout processor.
+Explanation	An unexpected exception occurred initializing the logout processor.
+Action	Gather server logs and contact IBM service.
+SRVE8065E: Unknown error related to the web container configuration.
+Explanation	Unknown error related to the web container configuration.
+Action	Gather server logs and contact IBM service.
+SRVE8066E: An unexpected exception occurred adding the WebContainerService.
+Explanation	An unexpected exception occurred adding the WebContainerService.
+Action	Gather server logs and contact IBM service.
+SRVE8067E: An unexpected exception occurred handling an extension point.
+Explanation	An unexpected exception occurred handling an extension point.
+Action	Gather server logs and contact IBM service.
+SRVE8068E: Could not remove the web module [{0}]
+Explanation	An unexpected exception occurred removing the web module.
+Action	Gather server logs and contact IBM service.
+SRVE8069E: The Session registry is NULL.
+Explanation	The Session registry is NULL possibly because the SessionManager did not start up correctly. Web applications WILL fail.
+Action	Gather server logs and contact IBM service.
+SRVE8070E: An unexpected error occurred starting the web container channel chains.
+Explanation	An unexpected error occurred starting the web container channel chains.
+Action	Gather server logs and contact IBM service.
+SRVE8071E: Null web container config object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8072E: Null virtual host config object.
+Explanation	An unexpected configuration exception occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8073E: Null web application configuration object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8074E: Null web application object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8075E: Null cache servlet object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8076E: Null AsyncRequestDispatcherConfigImpl object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8077E: Null web application config object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8078E: Null servlet config object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8079E: Null filter config object.
+Explanation	An unexpected configuration exceptoin occurred.
+Action	Gather server logs and contact IBM service.
+SRVE8080E: Unexpected isUserInRole exception, returning of isUserInRole false.
+Explanation	Unexpected isUserInRole exception, returning of isUserInRole false.
+Action	Unexpected isUserInRole exception, returning of isUserInRole false.
+SRVE8081E: An unexpected internal server error occurred while adding a web application collaborator.
+Explanation	An unexpected internal server error occurred while adding a web application collaborator.
+Action	Gather server logs and contact IBM service.
+SRVE8082E: An unexpected internal server error occurred while adding the static file processor.
+Explanation	An unexpected internal server error occurred while adding the static file processor.
+Action	Gather server logs and contact IBM service.
+SRVE8083E: An unexpected internal server error occurred while registering web module MBean.
+Explanation	An unexpected internal server error occurred while registering web module MBean.
+Action	Gather server logs and contact IBM service.
+SRVE8084E: An unexpected internal server error occurred while populating the namespace. Application name: {0}, Exception : {1}.
+Explanation	An unexpected error occurred while populating the namespace.
+Action	Check the server logs and exception to determine what might have caused the namespace binding problem.
+SRVE8085E: An IOException was thrown from WebContainer's handleRequest method.
+Explanation	An IOException was thrown from WebContainer's handleRequest method.
+Action	Gather server logs and contact IBM support.
+SRVE8086E: Invalid peer certificate.
+Explanation	An exception occurred retrieving the peer certificate.
+Action	See root cause.
+SRVE8087E: Error creating PMI statistics instance.
+Explanation	The createStatsInstance() method created an exception when it was called to create the statistics instance. No statistic were collected.
+Action	Examine the server logs to determine the root cause of the problem.
+SRVE8088E: Error removing PMI statistics instance.
+Explanation	Error removing PMI statistics instance.
+Action	Gather server logs and contact IBM service.
+SRVE8089E: Error creating PMI statistics group.
+Explanation	Error creating PMI statistics group.
+Action	Gather server logs and contact IBM service.
+SRVE8090E: Error occurred while preparing the servlet wrapper for initialization.
+Explanation	Error occurred while preparing the servlet wrapper for initialization.
+Action	See root cause.
+SRVE8091W: Servlet {0} is currently unavailable: {1}
+Explanation	An UnavailableException was thrown from the servlet.
+Action	See root cause.
+SRVE8092W: An exception occurred invoking the async error mechanism.
+Explanation	An exception occurred invoking the async error mechanism.
+Action	See root cause.
+SRVE8093W: The servlet class name is null for the servlet named [{0}] so the request cannot be handled.
+Explanation	The servlet class name is null so the request cannot be handled.
+Action	Verify a valid servlet class was provided for the servlet.
+SRVE8094W: WARNING: Cannot set header. Response already committed.
+Explanation	Once a response is committed, you cannot set more response headers.
+Action	Verify whether this call is necessary. If the header really needs to be sent, it should be set before committing the response.
+SRVE8095W: workRejected was called for the runnable [{0}].
+Explanation	When scheduling a work item with an asynchronous beans work manager, workRejected may be called if an error happens starting the work item.
+Action	See root cause.
+SRVE8096W: An exception occurred scheduling the runnable [{0}].
+Explanation	When scheduling a work item with an asynchronous beans work manager, an exception may be thrown if the work queue is full and the configured work queue full action is to fail.
+Action	Evaluate whether the work queue full action should be to block until the queue is not full or handle this exception in your application code.
+SRVE8097W: No url pattern or servlet name for filter mapping for filter named [{0}].
+Explanation	A filter mapping is incomplete without a url pattern or servlet name to map to.
+Action	Add a url pattern or servlet name to the filter mapping.
+SRVE8098W: Unable to insert mapping for servlet named [{0}]. URL pattern is null.
+Explanation	A servlet mapping is incomplete without a url pattern to map to.
+Action	Add a url pattern to the servlet mapping.
+SRVE8099W: The method restartWebApplication no longer does anything. Use the ApplicationManager MBean to start and restart an application.
+Explanation	The method restartWebApplication no longer does anything. Use the ApplicationManager MBean to start and restart an application.
+Action	The method restartWebApplication no longer does anything. Use the ApplicationManager MBean to start and restart an application.
+SRVE8100W: VirtualHost alias already exists for this VirtualHost -->[{0}].
+Explanation	There was an error adding a virtual host alias because one already exists with the same pattern.
+Action	Edit your virtual host alias and remove any duplicates.
+SRVE8101E: Response buffer corruption detected. Expected remaining={0}, actual={1}.
+Explanation	An unexpected internal error has caused a mismatch between the expected state of the output buffer and the actual state.
+Action	Gather server logs and contact IBM service.
+SRVE8102E: Illegal value for responsebuffersize custom property [{0}].
+Explanation	Illegal value for responsebuffersize custom property.
+Action	Check the value of the responsebuffersize custom property.
+SRVE8103E: An internal server error occurred creating the channel object.
+Explanation	An internal server error occurred creating the channel object.
+Action	Gather server logs and contact IBM support.
+SRVE8104E: Internal Server Error. Exception Message: [{0}]
+Explanation	An unexpected servlet engine exception occurred. This is a system error.
+Action	Check the System.out and System.err logs for more information on the exception generated.
+SRVE8105W: An error occurred retrieving the timer manager to kick of async servlet timeouts. Using default single-threaded timer.
+Explanation	The administrative console should not allow you to pick an invalid timer manager JNDI name.
+Action	Verify the timer manager selected in the web container panel is valid.
+SRVE8106W: An exception occurred invoking the async listeners.
+Explanation	An exception occurred invoking the async listeners.
+Action	See root cause.
+SRVE8107W: The AsyncContext tried to schedule a timeout thread without cancelling the previous timeout.
+Explanation	This is an unexpected internal error.
+Action	Gather web container trace and contact IBM support.
+SRVE8108W: Trying to set number of async timer threads to less than one.
+Explanation	There must be at least one async timer thread.
+Action	Check your server configuration to see what the value is set to.
+SRVE8109W: Uncaught exception thrown by filter {0}: {1}
+Explanation	An exception was thrown from a filter.
+Action	See root cause.
+SRVE8110E: Could not initialize ServletContainerInitializer: Classname: [{0}].
+Explanation	The ServletContainerInitializer specified by the Extension Point could not be initialized.
+Action	Check the class specified in the Extension Point.
+SRVE8111E: The application, {0}, is trying to modify a cookie which matches a pattern in the restricted programmatic session cookies list [domain={1}, name={2}, path={3}].
+Explanation	The administrator has disabled changing the cookie configuration for the cookie matching the domain, name, and path
+Action	Either modify the application to use a different cookie name, domain, or path or modify the restricted programmatic session cookie values
+SRVE8112W: There was a problem retrieving the restricted cookie patterns. No restrictions have been placed on the programmatic session configuration.
+Explanation	There was a problem retrieving the restricted cookie patterns from the configuration.
+Action	Verify that the cell.xml exists and is readable.
+SRVE8113W: Unable to obtain a lock. Error processing has already been invoked by another thread.
+Explanation	Error processing has already been invoked by another thread.
+Action	Make sure the application can handle an exception here. If it is necessary that this method return even if the call doesn't succeed, contact IBM support.
+SRVE8500W: A servlet named {0} can not be dynamically added because a servlet configuration with the same name already exists.
+Explanation	A servlet with the same name already exists for this application.
+Action	No action necessary. Check for conflicts in the deployment descriptor, annotations, and source code that could dynamically add this servlet configuration.
