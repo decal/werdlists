@@ -1,0 +1,8 @@
+/usr/bin/mlock
+/usr/bin/procmail
+/usr/bin/lockfile
+/usr/bin/dotlockfile
+/usr/lib/evolution/camel-lock-helper-1.2
+/usr/lib/emacs/24.5/x86_64-linux-gnu/movemail
+/var/mail/super
+/var/mail/mail
