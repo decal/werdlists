@@ -11,6 +11,7 @@ dns-servers: lists for name service daemons a.k.a. nameservers
 file-extens: file extension information
 glibc-data: non-executable strings from GNU libc
 glibc-code: strings for invoking functions and executing code with GNU libc
+iso-codes: identifiers specified by International Standardization Organization
 http-headers: application layer HTTP header fields 
 http-methods: info for HTTP methods a.k.a. actions such as GET and POST
 http-status: mostly pertaining to HTTP server responses
