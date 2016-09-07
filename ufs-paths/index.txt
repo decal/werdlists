@@ -1,0 +1,1 @@
+dot-files-names: names of so-called UNIX hidden file names that are prepended with periods

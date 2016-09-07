@@ -1,0 +1,32 @@
+ascii-art: pieces of ASCII artwork, emoticons, etc.
+auth-warnings: disclaimers that are displayed by some systems at a login prompt
+biology-info: DNA computing, bioinformatics and related subject material
+dbase-strings: data associated with RDBMS and NoSQL databases
+dns-commands: tools for interacting with the Domain Name Service protocol
+dns-domains: DNS domain names, TLD (Top Level Domains) and otherwise
+dns-headers: values particular to DNS packet headers and other protocol data
+dns-records: the names of DNS zone database RR (Resource Record) entries
+dns-resolv: data that can be used with DNS client resolver library/programs
+dns-servers: lists for name service daemons a.k.a. nameservers
+file-extens: file extension information
+glibc-data: non-executable strings from GNU libc
+glibc-code: strings for invoking functions and executing code with GNU libc
+http-headers: application layer HTTP header fields 
+http-methods: info for HTTP methods a.k.a. actions such as GET and POST
+http-status: mostly pertaining to HTTP server responses
+irc-commands: commands that can be utilized on Internet Relay Chat
+linux-paths: path names found on common Linux distribution installations
+local-uris: URI's that a browser can view in an offline mode
+netbsd-paths: file system path names that exist on the NetBSD operating system
+ntfs-paths: NTFS (New Technology File System) information for Microsoft Windows
+opsys-strings: low-level operating system datum
+remote-urls: URL info that can be leveraged by a browser with a network connection
+search-dorks: query strings to extract sensitive entries from search engine indices
+smtp-headers: header fields found in the Simple Mail Transfer Protocol
+swver-strings: software version strings a.k.a. banners
+top-passwords: popular passphrases as evidenced from actual real-world use
+ufs-paths: UNIX file system path names
+webapp-data: various stuff for back-end web application servers
+webapp-paths: path names for web application servers
+web-sites: things for WWW presences or pages on the public Internet
+wifi-networks: IEEE 802.11 Wireless Fidelity data

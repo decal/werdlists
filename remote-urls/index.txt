@@ -1,0 +1,2 @@
+ftp-server-urls: various well-known FTP service sites
+uri-scheme-names: URI protocol scheme names

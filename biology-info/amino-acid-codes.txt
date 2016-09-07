@@ -1,0 +1,26 @@
+A alanine                         
+B aspartate/asparagine         
+C cysteine                    
+D aspartate                  
+E glutamate                 
+F phenylalanine            
+G glycine                 
+H histidine              
+I isoleucine            
+K lysine               
+L leucine             
+M methionine         
+N asparagine        
+P proline
+Q glutamine
+R arginine
+S serine
+T threonine
+U selenocysteine
+V valine
+W tryptophan
+Y tyrosine
+Z glutamate or glutamine
+X any
+* translation stop
+- gap of indeterminate length
