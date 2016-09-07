@@ -1,0 +1,8 @@
+/usr/bin/expiry
+/usr/bin/chage
+/var/backups/shadow.bak
+/var/backups/gshadow.bak
+/etc/shadow
+/etc/gshadow-
+/etc/gshadow
+/sbin/unix_chkpwd

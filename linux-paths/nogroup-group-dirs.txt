@@ -1,0 +1,14 @@
+/run/dnsmasq
+/run/user/1000/ksocket-super
+/var/cache/google-android-sdk-docs-installer
+/var/spool/rwho
+/var/lib/nfs
+/var/lib/nfs/sm
+/var/lib/nfs/sm.bak
+/proc/26826
+/proc/26826/task
+/proc/26826/task/26826
+/proc/26826/task/26826/net
+/proc/26826/task/26826/attr
+/proc/26826/net
+/proc/26826/attr

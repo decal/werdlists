@@ -1,0 +1,3 @@
+/usr/bin/bsd-write
+/usr/bin/wall
+/usr/lib/mc/cons.saver
