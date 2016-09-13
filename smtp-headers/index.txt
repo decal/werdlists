@@ -1,0 +1,1 @@
+smtp-header-names: RFC822 style header field identifiers

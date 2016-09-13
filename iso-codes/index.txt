@@ -1,0 +1,1 @@
+iso-lang-codes: ISO-639 abbreviated language codes for i18n (internationalization)

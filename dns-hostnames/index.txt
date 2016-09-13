@@ -1,0 +1,2 @@
+spam-blacklist-hosts: host names used in from addresses by spammers
+sub-domain-names: many strings that could be used as the names of sub-domains

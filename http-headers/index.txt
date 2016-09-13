@@ -1,0 +1,3 @@
+http-request-headers: the names of many HTTP request header fields
+ssrf-request-headers: request headers that can be used in SSRF attacks
+web-agent-strings: common User-Agent request header field settings

@@ -1,0 +1,2 @@
+alexa-site-nameservers: the nameservers for Alexa sites advertised by NS records
+tld-whois-servers: the host names for WHOIS services listed by top-level domain

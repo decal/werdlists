@@ -1,0 +1,3 @@
+hesiod-environ-names: hesiod environment variable names used by GNU libc code
+resolv-environ-names: environment variables used by the resolver library
+resolv-option-names: options that can be set in /etc/resolv.conf
