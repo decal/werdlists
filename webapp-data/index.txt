@@ -1,0 +1,1 @@
+websphere-errors-txt: Error descriptions for IBM's J2EE WebSphere app server

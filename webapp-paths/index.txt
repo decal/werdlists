@@ -1,0 +1,2 @@
+coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
+oracle-robots-txt: pathnames to documentation on Oracle's primary web site
