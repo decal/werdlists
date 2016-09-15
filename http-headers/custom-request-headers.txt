@@ -1,0 +1,12 @@
+X-Credentials
+X-MiteApiKey
+X-Papertrail-Token
+X-Storage-User
+X-Storage-Pass
+X-API-Key
+X-Auth-User
+X-Auth-Pass
+X-Auth-Token
+X-Auth-Username
+X-Auth-Password
+X-In-Progress
