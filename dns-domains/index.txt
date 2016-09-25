@@ -1,3 +1,4 @@
 com-domain-names: various commercial domain names
 edu-domain-names: various educational domain names
 gov-domain-names: various governmental domain names
+malware-domains-mirror: taken from malwaredomains.com
