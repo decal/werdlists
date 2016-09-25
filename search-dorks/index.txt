@@ -1,0 +1,3 @@
+google-admin-consoles: locate backend application server and middle administration consoles
+google-ssrf-vulns: find locations potentially vulnerable to server side request forgery
+google-various-dorks: a popular search dorks list (not created by me)

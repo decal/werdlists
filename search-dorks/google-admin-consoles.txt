@@ -1,0 +1,1 @@
+site:.edu +intitle:".edu:7001"
