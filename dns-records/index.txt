@@ -1,4 +1,5 @@
 bind-chaos-txt: defined by default CHAOS TXT records in ISC BIND name daemon
+bind9-rec-types: BIND9 record types according to named-rrchecker -T
 chaos-txt-all: all well-known CHAOS TXT record names including non-BIND
 dig-numeric-types: set arbitrary dig types with a string representing 16 bits
 dig-record-types: record types for the IN (INternet) resource record class
