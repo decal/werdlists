@@ -1,0 +1,8 @@
+get
+head
+post
+put
+options
+trace
+track
+debug
