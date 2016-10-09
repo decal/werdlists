@@ -1,1 +1,3 @@
 site:.edu +intitle:".edu:7001"
+admin ext:jsp -site:github.com
+console ext:jsp -site:github.com

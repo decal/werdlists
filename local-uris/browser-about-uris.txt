@@ -41,6 +41,8 @@ about:legacy-compat
 about:licence
 about:license
 about:logo
+about:loopconversation
+about:looppanel
 about:memory
 about:mozilla
 about:navigationcanceled
