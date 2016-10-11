@@ -1,0 +1,1 @@
+novell-modem-oems: Novell DeveloperNet certified dial-up modems list

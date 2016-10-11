@@ -2,6 +2,7 @@ ascii-art: pieces of ASCII artwork, emoticons, etc.
 auth-warnings: disclaimers that are displayed by some systems at a login prompt
 biology-info: DNA computing, bioinformatics and related subject material
 dbase-strings: data associated with RDBMS and NoSQL databases
+dialup-modems: information on POTS modems, acoustic couplers and such
 dns-commands: tools for interacting with the Domain Name Service protocol
 dns-domains: DNS domain names, TLD (Top Level Domains) and otherwise
 dns-headers: values particular to DNS packet headers and other protocol data
