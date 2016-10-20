@@ -1,1 +1,2 @@
+glibc-ldso-environ:  environment variable names for the dynamic linker/loader
 glibc-test-programs: test code packaged with the GNU C library source code
