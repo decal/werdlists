@@ -1,0 +1,500 @@
+
+BASIC AT COMMANDS 
+
+Command   Description         
+
+AT        Attention characters
+ATA       Answer command     
+ATA/      Re-Execute last command
+
+Transmit Carrier Signal
+ATC0      Transmit carrier signal off.  (default)
+ATC1      Transmit carrier signal on.
+
+Dial Modifiers
+
+Dial      Options        Description    
+ATD       none           Dial. (ATD followed by phone number)
+ATDL      none           Re-dial.
+ATDP      none           Pulse (rotary) dial. 10 pulses per second.
+ATDT      none           Touch tone dial (DTMF).
+ATDW      1-255sec       Wait for dial-tone. Default is 50 seconds.
+ATD,      0-255sec       Pause. Default is 2 seconds.
+ATD@      none           Wait for quiet answer.
+ATD!      none           Initiate hook flash.
+ATD;      none           Return to command state after dialing.
+ATD^      none           Disable calling tone.
+ATDS=0-3  none           Dial stored number. 
+
+Command   Description     
+
+ATE0      Disables echoing of the commands to the screen.
+ATE1      Enables echoing of the commands to the screen.  (default)
+
+ATH0      Instructs modem to go on-hook.
+ATH1      Instructs modem to go off-hook.
+
+ATI0      Displays the product identification code.
+ATI1      Displays the checksum.   
+ATI2      Displays ROM checksum as OK or ERROR.
+ATI3      Displays the firmware revision level.
+
+Speaker volume
+ATL0      Off or low volume.
+ATL1      Low volume.  (default)
+ATL2      Medium volume.
+ATL3      High volume.
+
+Speaker control
+ATM0      Disables the modem speaker.
+ATM1      Turns speaker on until carrier has been detected.  (default)
+ATM2      Instructs the modem speaker to stay on all of the time.
+ATM3      Enables speaker after dialing until connection is established.
+
+Automode enable
+ATN0      Requires speed of the connection be that specified by the value
+          of S37.
+ATN1      Permits handshaking at any speed supported by both modems. (default)
+
+Return to on line state mode
+ATO0      Switches the modem from command mode to online mode without dialing.
+ATO1      Switches from command mode to on-line mode and initiates an equalizer
+          retrain sequence during 2400 baud bps operation.
+
+Mode responses
+ATQ0      Enables result codes to be issued to the screen.  (default)
+ATQ1      Disables result codes to be issued to the screen.
+
+Result code format
+ATV0      Numeric format.
+ATV1      Verbal format.  (default)
+
+Error correction message control
+ATW0      Error correction call progress not reported.  (default)
+ATW1      Call progress reported.
+ATW2      Call progress not reported. Connect xxxx message reports DCE speed.
+
+Extended result codes
+ATX0      Disables monitoring of busy tones unless forced otherwise by country
+          requirements; sends only OK, CONNECT, RING, NO CARRIER, ERROR and
+          NO ANSWER result codes.
+
+ATX1      Disables monitoring of busy tones unless forced otherwise by country
+          requirements; sends only OK, CONNECT, RING, NO CARRIER, ERROR, NO
+          ANSWER and CONNECT XXXX result codes.
+
+ATX2      Disables monitoring of busy tones unless forced otherwise by country
+          requirements; sends only OK, CONNECT, RING, NO CARRIER, ERROR, DIAL
+          TONE, NO ANSWER and CONNECT XXXX result codes.
+
+ATX3      Enables monitoring of busy tones; sends only OK, CONNECT, RING, NO
+          CARRIER, ERROR, NO DIALTONE, NO ANSWER and CONNECT XXXX.
+
+ATX4      Enables monitoring of busy tones and sends all messages.  (default)
+
+
+Control long space disconnect
+ATY0      Disables long space disconnect.  (default)
+ATY1      Enables long space connect.
+
+Soft reset and restore profile
+ATZ0      Restores stored profile 0.   (default)
+ATZ1      Restores stored profile 1.
+
++++       Escape characters. The escape characters are  known as  +++. They
+          will switch from on-line mode to command mode while preserving the
+          connection with the online modem.
+
+Extended AT Commands
+
+Command   Description    
+
+Data carrier detect (DCD) signal
+AT&C0     Forces DCD signal to be on at all times.  (default)   
+AT&C1     DCD on indicates presence of data carrier.
+
+Data terminal ready (DTR) signal. Interprets the ON to OFF transition of the
+DTR signal from the DTE according to the &Q settings.
+
+AT&D0     &Q0,5,6. DTR ignored.
+          &Q1,4. Modem hangs up; auto answer not affected.
+          &Q2,3. Modem hangs up; auto answer inhibited.  (default)
+AT&D1     &Q0,1,4-6. Asynchronous escape sequence.
+          &Q2,3. Modem hangs up; auto answer inhibited.
+AT&D2     &Q0-6. Modem hangs up; auto answer inhibited.
+AT&D3     &Q0,1,4-6. Modem does a soft reset as if the ATZ command
+          were received; &Q2,3. Modem hangs up; auto answer inhibited.
+
+AT&F      Recalls factory defaults. Instructs the modem to use   
+          the factory set parameters.
+
+DTE/Modem flow control
+AT&K0     Disable flow control.          
+AT&K3     Enable RTS/CTS  (default for data modem)
+AT&K4     Enable XON/XOFF.   
+AT&K5     Enable transport XON/XOFF.
+AT&K6     Enable both RTS/CTS and XON/XOFF  (default for FAX modem)
+
+
+Note on Flow Control. XON/XOFF is a software-based flow control method, using standard ASCII control characters to pause or resume data transmission.RTS/CTS pacing, a hardware-based method, uses an electrical signal. Signals are exchanged as follows:
+
+RECEIVER                 TRANSMITTER
+CTS ON    ------------>  START SENDING
+CTS ON    <-----------   RTS ON (ready to send)
+CTS OFF   ------------>  RTS OFF (stop sending)
+
+Command   Description 
+
+Select pulse dial make/break ratio
+AT&P0          Selects a make/break ratio of 39/61 at 10pps.     
+               US and Canada.  (default)
+AT&P1          Selects a make/break ratio of 33/67 at 10pps.     
+               UK and Hong Kong.
+AT&P2          Same as 0 except at 20pps.
+AT&P3          Same as 1 except at 20pps.
+
+Asynchronous mode
+AT&Q0          Direct Asynchronous mode.
+AT&Q5          Modem negotiates an error-corrected link.  (default)
+AT&Q6          Selects asynchronous operation in normal mode     
+               (i.e. speed buffering).
+
+Data Set Ready (DSR) signal
+AT&S0          Causes DSR signal to be active at all times.  (default)
+AT&S1          Causes DSR signal to be active according to  the  
+               CCITT specification.   
+
+Test and diagnostics
+AT&T0          Terminates any test in progress.
+AT&T1          Executes the local analog loopback test.
+AT&T3          Executes the local digital loopback test.
+AT&T4          Enables the modem to accept a request from a      
+               remote mode for a digital loopback test.  (default)
+AT&T5          Instructs the modem to deny a request from a      
+               remote modem for a digital loopback test.
+AT&T6          Executes the remote digital loopback test.
+AT&T7          Executes the remote digital loopback test with a self test.
+AT&T8          Executes the remote analog loopback test with a self test.
+
+AT&V           View current configuration and user profile.
+
+Store user profile. Saves the current configuration into
+non-volatile RAM as one of two user profiles.
+AT&W0          Saves as user profile 0. 
+AT&W1          Saves as user profile 1. 
+
+Designate default user profile
+AT&Y0          Selects user profile 0.
+AT&Y1          Selects user profile 1.
+
+Stored phone number
+AT&Z=0         Stores a 36 digit dial string.
+AT&Z=1         Stores a 36 digit dial string.
+AT&Z=2         Stores a 36 digit dial string.
+AT&Z=3         Stores a 36 digit dial string.
+
+
+MNP Operation
+
+The V.FAST Class Modem supports all of the preceding classes. The following AT Commands apply to the MNP protocol:
+
+Maximum MNP Block Size. Use this command to transmit smaller blocks of data in a reliable data link connection.
+
+AT\A0          set maximum block size to 64 characters.
+AT\A1          set maximum block size to 128 characters.  (default)
+AT\A2          set maximum block size to 192 characters. 
+AT\A3          set maximum block size to 256 characters.
+
+Transmit Break. When this command is entered during a non-MNP connection, a break signal is sent to the remote modem.  The length of the break is 100 times the n parameter (1-9) in milliseconds. The default is 3.
+
+AT\B3          (default)
+
+Modem to Modem Flow Control. Enables or disables modem to modem flow control during a normal mode connection. This command is ignored when error correction is selected.
+
+AT\G0          Disables flow control (XON/XOFF) (default)
+AT\G1          Enables flow control (XON/XOFF)
+
+Break Control. Determines the modem response when a BREAK is received from the DTE or the remote modem. The values of the parameters vary based on the three following conditions:
+
+(1) When a break is received from the DTE during NORMAL or MNP mode:
+
+AT\K0, 2, 4    modem enters command mode without sending a break to
+               the remote modem.
+AT\K1          modem clears the terminal and modem buffers and
+               sends a break to the remote modem.
+AT\K3          modem does not clear the buffers, but sends a break
+               to the remote modem.
+AT\K5          modem sends a break to the remote modem in sequence
+               with any transmitted data.  (default)
+
+(2) When a break is received from the remote modem during NORMAL
+mode:
+
+AT\K0, 1       modem clears the terminal and modem buffers and
+               sends a break to the local DTE.
+AT\K2, 3       modem does not clear the buffers but sends a break
+               to the local DTE.
+AT\K4, 5       modem sends a break in sequence with any data     
+               being buffered. (default)
+
+(3) When a break is received from the DTE during DIRECT MODE mode:
+
+AT\K0,1,3      modem sends a break to the remote modem and enters
+               command mode.
+
+AT\K2, 4, 5    modem sends a break to the remote modem. (default)
+
+ MNP Block Transfer Control. Determines whether or not the modem will use block or stream mode for MNP link.
+
+AT\L0          uses stream mode for MNP link connections (default)
+AT\L1          uses block mode for MNP connections
+
+Error Correction Operating Mode. Selects the operating mode the modem uses while connected.
+
+AT\N0          NORMAL (speed buffering) mode.
+AT\N1          DIRECT (pass-through) mode.
+AT\N2          RELIABLE LINK mode. Specifies error correction for
+               the modem-to-modem connection 
+AT\N3          AUTO-RELIABLE LINK mode. Attempts error-correction
+               connection but will fall back to normal mode if
+               unable to establish an MNP link. 
+AT\N4          LAPM error correction mode.
+AT\N5          MNP error correction mode
+
+Split Speed Operation. Supports a split-speed DCE/DTE interface for applications which require a transmit speed of 75bps and receive speed of 1200bps at the DTE interface.
+
+AT\W0          disables  (default)
+AT\W1          enables
+
+MNP Link Negotiation Speed. Controls the connection speed for link
+negotiations.
+
+AT*H0          link negotiation occurs at the highest supported  
+               speed.  (default)
+AT*H1          link negotiation occurs at 1200bps.
+
+
+S-Registers 
+
+This section defines the purpose of the modem registers, and sequentially lists the registers and describes their functions. These registers affect various operating characteristics and allow you to obtain information about the modem, as well as test the modem. Each register has a factory-set value, which you can read or change to fit your needs.
+
+Reading a Register Value
+To read the current value of a register, type:
+
+AT Sn? [ENTER], 
+
+where n is a register number. 
+
+AT Sn? Sn? [ENTER] from the command mode. 
+
+To read the register values of S0 and S1, type 
+
+AT S0? S1? [ENTER]. 
+
+The modem will display the first register value, a carriage return, the next register value, a carriage return, and OK or 0.
+
+Changing a Register Value 
+To change a register value, use the Sn command (ATSn=v), where n is a register number and v is the new value you want to assign to the register. Type:
+
+AT S0=3 [ENTER] 
+
+to have the modem automatically answer on the third ring.
+
+
+The following table lists the modem's registers and their
+functions:
+
+Reg. Range     Units     Default   Definition     
+S0   0-255     rings     2         Auto-answer    
+S1   0-255     rings     0         Count incoming rings 
+S2   0-255     rings     43        Escape character value. 
+S3   0-127     ASCII     13        Carriage return character. 
+S4   0-127     ASCII     10        Line feed character. 
+S5   0-32      ASCII     8         Backspace character. 
+S6   2-255     seconds   2         Wait time for Blind Dialing.
+S7   1-255     seconds   50        Wait for carrier after dial. 
+S8   0-255     seconds   2         Pause time for dial delay.
+S9   1-255     seconds   6/10      Carrier detect.
+S10  1-255     seconds   14 (1.4)  Lost Carrier to Hang Up Delay.
+S11                                Reserved.
+S12  0-255     seconds   50(1)     Escape code guard time*. 
+     (*in one-fiftieth second increments)
+S13                                Reserved.
+S14  Bit Mapped          AA,hex    Bit mapped registers. 
+S15                                Reserved
+S16  Bit Mapped          80,hex    Modem test options. 
+S17                                Reserved.
+S18  0-255     seconds   0         Test timer. 
+S19                                Reserved.
+S20                                Reserved.
+S21  Bit Mapped          00,hex    Bit mapped registers. 
+S22  Bit Mapped          75,hex    Bit mapped registers. 
+S23  Bit Mapped          07,hex    Bit mapped registers. 
+S24  0-255     seconds   0         Sleep Inactivity Timer.
+S25  0-255     seconds   5         Asynchronous DTR Delay. 
+S26  0-255     seconds   1         Delay Interval.
+S27  Bit Mapped          9,hex     Bit mapped registers. 
+S28  Bit Mapped                    Bit mapped registers
+S29                                Reserved.
+S30  0-255     seconds   0         Inactivity Timer.
+S31  Bit Mapped Options.
+S32  0-255     ASCII     17        XON Character.
+S33  0-255     ASCII     19        XOFF Character.
+S34-35                             Reserved.
+S36  Bit Mapped Options.
+S37  0-12                0         Telephone Line Speed
+
+NOTE: This is interlinked with the ATFn command. If an invalid number is entered, the number is accepted into the register, but S37 will react as though the default value has been entered.
+
+Bits 0-3  0    =    Attempt auto mode connection (ATF0)(DEFAULT)
+          1-3  =    Attempt to connect at 300bps
+          4    =    Reserved
+          5    =    Attempt to connect at 1200bps (ATF1)
+          6    =    Attempt to connect at 2400bps (ATF4)
+          7    =    Attempt to connect at V.23 (ATF3)
+          8    =    Attempt to connect at 4800bps (ATF6)
+          9    =    Attempt to connect at 9600bps (ATF8)
+          10   =    Attempt to connect at 12Kbps (ATF9)
+          11   =    Attempt to connect at 14.4Kbps (ATF10)
+          12   =    Attempt to connect at 7200bps (ATF7)
+
+Bits 4-7  Reserved
+
+S38  0-255     seconds   20        Delay Before Forced Hangup.
+S39  Bit Mapped                    Bit Mapped Registers.
+S40  Bit Mapped                    Bit Mapped Registers.
+S41  Bit Mapped                    Bit Mapped Registers.
+S42-45                             Reserved.
+S46  136 or 138          138       Data Compression Control. 
+
+NOTE: 136 enables error correction with no compression; 138 enables error correction WITH compression.
+
+S48  0, 7, 128           7         V.42 Negotiation.
+
+NOTE: 0 disables negotiation and proceeds with LAPM; 7 enables negotiation; and 128 disables negotiation and proceeds with fallback action specified in S36. The default for S36 is to attempt an MNP connection.
+
+S49-81                             Reserved.
+S82       3, 7, 128      128       Break Handling Option.
+S86       N/A                      Connection Failure Cause Code.
+S91       0 to -15  dBm  10        PSTN Transmit Level.
+S92       0 to -15  dBm  10        Fax Transmit Level.
+S95       Bit-Mapped     NA        Extended Results Codes.  
+NOTE: Bit values are defined as follows for S95:
+
+0 =  CONNECT CODE indicates DCE speed instead of DTE speed.
+1 =  Append ARQ (automatic repeat request) to verbose CONNECT XXXX
+     result code if protocol is other than none.
+2 =  Enable CARRIER XXXX result code.
+3 =  Enable PROTOCOL XXXX result code.
+5 =  Enable COMPRESSION result code.
+
+Bits 4, 6, and 7 are reserved.
+
+
+Result Codes
+
+Result    Numeric
+Code      Value     Description
+
+OK             0    Modem successfully executed a command line.
+     
+CONNECT        1    Connection made at 300 bps.
+     
+RING           2    Modem detected an incoming call.
+     
+NO CARRIER     3    Modem lost or could not detect a remote carrier
+                    signal within the Register S7 time.
+     
+ERROR          4    Modem found an error in the command line.
+     
+CONNECT        5    Modem established a connection 1200 at 1200  
+                    1200bps.
+
+NO             6    Modem did not detect a dial tone within 5    
+DIALTONE            seconds after going off-hook.
+
+BUSY           7    Modem detected a busy signal.
+
+NO ANSWER      8    Five seconds of silence was not detected when
+                    using the @ command in the dial command line.
+
+CONNECT 0600   9    Modem established a connection at 600 bps.
+
+CONNECT 2400   10   Modem established a connection at 2400 bps.
+
+
+CONNECT 4800   11   Modem established a connection at 4800 bps.
+
+CONNECT 9600   12   Connection made at 9600 bps.
+
++FCERROR       +F4  Fax carrier error.
+
+CONNECT 7200   13   Connected as data modem during an 7200  answer.
+     
+CONNECT 12000  14   Connection made at 12000 bps.
+
+CONNECT 14400  15   Connection made at 14400 bps.
+
+CONNECT 19200  16   Connection made at 19200 bps.
+
+CONNECT 38400  17   Connection made at 38400 bps.
+
+CONNECT 57600  18   Connection made at 57600 bps.
+
+CONNECT        22   Modem returns this result code when upon     
+75TX/1200RX         establishing a V.23 originate connection     
+                    when the modem has been instructed to        
+                    report the DTE speed to the DTE upon         
+                    connecting.
+
+CONNECT        23   Modem returns this result code when upon     
+1200RX/75RX         establishing a V.23 answer connection        
+                    when the modem has been instructed to        
+                    report the DTE speed to the DTE upon         
+                    connecting.
+
+CARRIER 300    40   Carrier rate of 300 bps.
+
+CARRIER        44   V.23 backward channel has been detected.
+1200/75
+     
+CARRIER        45   V.23 forward channel has been detected
+75/1200
+
+CARRIER 1200   46   Carrier rate of 1200 bps.
+
+CARRIER 2400   47   Carrier rate of 2400 bps.
+
+CARRIER 4800   48   Carrier rate of 4800 bps.
+
+CARRIER 7200   49   Carrier rate of 7200 bps.
+
+CARRIER 9600   50   Carrier rate of 9600 bps.
+
+CARRIER 12000  51   Carrier rate of 12000 bps.
+
+CARRIER 14400  52   Carrier rate of 14400 bps.
+
+COMPRESSION:   66   The modem has connected in MNP class 5
+CLASS 5             and COMPRESSION message reporting has been
+                    enabled.
+
+COMPRESSION    67   The modem has connected in V.42bis and
+V.42bis             COMPRESSION message reporting has been enabled.
+COMPRESSION:   69   The modem has connected without data
+NONE                compression and COMPRESSION message reporting
+                    has been enabled.
+
+PROTOCOL:      76   Modem has connected without any form of error
+NONE*               correction.
+
+PROTOCOL:      77   Modem has connected in the V.42 LAPM mode
+LAPM*               LAPM mode of error correction.
+
+PROTOCOL:      80   Modem has connected in the MNP mode of error
+ALT*                correction.
+
+PROTOCOL:      81   Modem has connected in the MNP10 mode
+ALT* CELLULAR            
+
+* PROTOCOL message reporting has been enabled.
