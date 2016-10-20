@@ -1,0 +1,16 @@
+/usr/pkg/games/battlestar
+/usr/pkg/games/canfield
+/usr/pkg/games/cribbage
+/usr/pkg/games/dm
+/usr/pkg/games/hack
+/usr/pkg/games/larn
+/usr/pkg/games/phantasia
+/usr/pkg/games/robots
+/usr/pkg/games/rogue
+/usr/pkg/games/sail
+/usr/pkg/games/snake
+/usr/pkg/games/tetris
+/usr/pkg/games/sokoban
+/usr/pkg/games/atc
+/usr/pkg/games/wand
+/usr/pkg/games/torus

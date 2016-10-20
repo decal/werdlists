@@ -1,3 +1,4 @@
 procfs-path-names: names of files located under the /proc directory hierarchy
 set-id-files: set-ID file names only (i.e. basename)
 set-id-paths: the fully qualified pathnames to set-ID files
+set-gid-games: paths to executables that have the set-GID bit set on NetBSD
