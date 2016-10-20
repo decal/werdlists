@@ -29,7 +29,8 @@ search-dorks: query strings to extract sensitive entries from search engine indi
 smtp-headers: header fields found in the Simple Mail Transfer Protocol
 software-strs: software names, project lists, version numbers, banner strings, etc.
 top-passwds: popular passphrases as evidenced from actual real-world use
-ufs-paths: UNIX file system path names
+unix-data: data found on UNIX-based/like/clones OSen
+unix-paths: UNIX file system path names
 unicode-art: one or more liner pieces of Unicode artwork, emoticons, etc.
 webapp-data: various stuff for back-end web application servers
 webapp-paths: path names for web application servers
