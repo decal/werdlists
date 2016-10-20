@@ -1,0 +1,2 @@
+libc-ldso-environ:  environment variable names for the dynamic linker/loader
+libc-test-code: test programs and such packaged with standard C libraries

@@ -11,13 +11,13 @@ dns-records: the names of DNS zone database RR (Resource Record) entries
 dns-resolv: data that can be used with DNS client resolver library/programs
 dns-servers: lists for name service daemons a.k.a. nameservers
 file-extens: file extension information
-glibc-data: non-executable strings from GNU libc
-glibc-code: strings for invoking functions and executing code with GNU libc
 iso-codes: identifiers specified by International Standardization Organization
 http-headers: application layer HTTP header fields 
 http-methods: info for HTTP methods a.k.a. actions such as GET and POST
 http-status: mostly pertaining to HTTP server responses
 irc-commands: commands that can be utilized on Internet Relay Chat
+libc-code: strings for invoking functions and executing code with cstdlib
+libc-data: non-executable strings from the standard C library
 link-layer: things related to OSI layer 2 protocol frames on a LAN
 linux-paths: path names found on common Linux distribution installations
 local-uris: URI's that a browser can view in an offline mode
