@@ -1,2 +1,3 @@
-alexa-site-nameservers: the nameservers for Alexa sites advertised by NS records
+alexa-site-nameservers: the nameservers of Alexa sites advertised by NS records
+dns-root-servers: root zone's nameserver record data for various resource types 
 tld-whois-servers: the host names for WHOIS services listed by top-level domain

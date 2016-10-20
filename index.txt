@@ -1,4 +1,5 @@
-ascii-art: pieces of ASCII artwork, emoticons, etc.
+ascii-art: one or more liner pieces of "printable" or "low-bit" ASCII artwork, emoticons, etc.
+ansi-art: art work that relies on color from ANSI escape codes to be rendered as expected
 auth-warnings: disclaimers that are displayed by some systems at a login prompt
 biology-info: DNA computing, bioinformatics and related subject material
 dbase-strings: data associated with RDBMS and NoSQL databases
@@ -22,13 +23,14 @@ linux-paths: path names found on common Linux distribution installations
 local-uris: URI's that a browser can view in an offline mode
 netbsd-paths: file system path names that exist on the NetBSD operating system
 ntfs-paths: NTFS (New Technology File System) information for Microsoft Windows
-opsys-strings: low-level operating system datum
+opersys-strs: low-level operating system datum
 remote-urls: URL info that can be leveraged by a browser with a network connection
 search-dorks: query strings to extract sensitive entries from search engine indices
 smtp-headers: header fields found in the Simple Mail Transfer Protocol
-swver-strings: software version strings a.k.a. banners
-top-passwords: popular passphrases as evidenced from actual real-world use
+software-strs: software names, project lists, version numbers, banner strings, etc.
+top-passwds: popular passphrases as evidenced from actual real-world use
 ufs-paths: UNIX file system path names
+unicode-art: one or more liner pieces of Unicode artwork, emoticons, etc.
 webapp-data: various stuff for back-end web application servers
 webapp-paths: path names for web application servers
 web-sites: things for WWW presences or pages on the public Internet

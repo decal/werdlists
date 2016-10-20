@@ -1,0 +1,1 @@
+unicode-emoticons-list: wide-character emoticons which may require Unicode code pages to be viewed properly
