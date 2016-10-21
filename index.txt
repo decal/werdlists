@@ -2,6 +2,7 @@ ascii-art: one or more liner pieces of "printable" or "low-bit" ASCII artwork, e
 ansi-art: art work that relies on color from ANSI escape codes to be rendered as expected
 auth-warnings: disclaimers that are displayed by some systems at a login prompt
 biology-info: DNA computing, bioinformatics and related subject material
+cgi-servlets: Common Gateway Interface; dynamic web scripting on the server-side
 dbase-strings: data associated with RDBMS and NoSQL databases
 dialup-modems: information on POTS modems, acoustic couplers and such
 dns-commands: tools for interacting with the Domain Name Service protocol

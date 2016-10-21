@@ -1,0 +1,1 @@
+common-gateway-environ: CGI environment variable names
