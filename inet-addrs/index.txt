@@ -1,0 +1,2 @@
+classa-rir-blocks: /8 CIDR assignments to RIR's (Routing Internet Registries)
+targets-ipv6-worldlist: common hex strings seen in IPv6 addressing
