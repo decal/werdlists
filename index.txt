@@ -16,6 +16,8 @@ iso-codes: identifiers specified by International Standardization Organization
 http-headers: application layer HTTP header fields 
 http-methods: info for HTTP methods a.k.a. actions such as GET and POST
 http-status: mostly pertaining to HTTP server responses
+inet-addrs: files for info about Internet addressing or IP address lists
+inet-routes: structured or flat data about Internet routes or IP routing tables
 irc-commands: commands that can be utilized on Internet Relay Chat
 libc-code: strings for invoking functions and executing code with cstdlib
 libc-data: non-executable strings from the standard C library
