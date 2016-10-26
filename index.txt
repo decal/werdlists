@@ -13,6 +13,7 @@ dns-records: the names of DNS zone database RR (Resource Record) entries
 dns-resolv: data that can be used with DNS client resolver library/programs
 dns-servers: lists for name service daemons a.k.a. nameservers
 file-extens: file extension information
+ftp-commands: File Tranfer Protocol related commands; standard and extensions
 iso-codes: identifiers specified by International Standardization Organization
 http-headers: application layer HTTP header fields 
 http-methods: info for HTTP methods a.k.a. actions such as GET and POST
