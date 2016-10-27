@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#
+# set default permissions
+#
+
+readonly WRDLS_MDRDM='README.md'
+
+until [ -f $WRDLS_MDRDM ] 
+  do cd ..
+done
+
+find . -type d -exec chmod 0750 {} \;
+find . -type f -iname '*.*' -exec chmod 0640 {} \;
+find scripts -type f -exec chmod 0750 {} \;
+
+exit 0

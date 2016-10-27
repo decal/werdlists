@@ -2,6 +2,7 @@ crontab-group-dirs: directories with ownership by the crontab group
 crontab-group-files: files with ownership by the crontab group
 daemon-group-dirs: directories with ownership by the daemon group
 daemon-group-files: files with ownership by the daemon group
+home-hidden-paths: so-called "hidden" or "dot" files/folders from Linux homedirs
 mail-group-dirs: directories with ownership by the mail group
 mail-group-files: files with ownership by the mail group
 mail-user-dirs: directories with ownership by the mail user
