@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+#
+# perform ANSI color escape codes for gitaa
+# 
+# Derek Callaway <decal {AT} sdf {D0T} org>
+#
+# Fri Oct 14 14:57:49 EDT 2016
+#
+
+#
+# This file was "forked" from cirrusUK's gists on GitHub
+# https://gist.githubusercontent.com/cirrusUK/9494694/raw
+#
+
+# ANSI Color -- use these variables to easily have different color
+#    and format output. Make sure to output the reset sequence after 
+#    colors (f = foreground, b = background), and use the 'off'
+#    feature for anything you turn on.
+
+function initColor()
+{
+  readonly esc=""
+
+  readonly blackf="${esc}[30m"   redf="${esc}[31m"   greenf="${esc}[32m"
+  readonly yellowf="${esc}[33m"  bluef="${esc}[34m"  purplef="${esc}[35m"
+  readonly cyanf="${esc}[36m"    whitef="${esc}[37m"
+  readonly blackb="${esc}[40m"   redb="${esc}[41m"   greenb="${esc}[42m"
+  readonly yellowb="${esc}[43m"  blueb="${esc}[44m"  purpleb="${esc}[45m"
+  readonly cyanb="${esc}[46m"    whiteb="${esc}[47m"
+  readonly boldon="${esc}[1m"    boldoff="${esc}[22m"
+  readonly italicson="${esc}[3m" italicsoff="${esc}[23m"
+  readonly ulon="${esc}[4m"      uloff="${esc}[24m"
+  readonly invon="${esc}[7m"     invoff="${esc}[27m"
+  readonly reset="${esc}[0m"
+}
+
+! [ "${esc}" -a "${reset}" ] && initColor && echo -ne "${reset}"

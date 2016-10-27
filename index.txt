@@ -14,9 +14,10 @@ dns-hostnames: various Internetwork host names--fictional or found in the wild
 dns-records: the names of DNS zone database RR (Resource Record) entries
 dns-resolv: data that can be used with DNS client resolver library/programs
 dns-servers: lists for name service daemons a.k.a. nameservers
+environ-vars: various categorized environment variable name and/or value lists
 file-extens: file extension information
 ftp-commands: File Tranfer Protocol related commands; standard and extensions
-iso-codes: identifiers specified by International Standardization Organization
+glibc-code: sample code and other info packaged with the GNU C library tarball
 html-words: identifiers, reserved words, attributes, etc. found in hyper-text 
 http-headers: application layer HTTP header fields 
 http-methods: info for HTTP methods a.k.a. actions such as GET and POST
@@ -24,6 +25,7 @@ http-status: mostly pertaining to HTTP server responses
 inet-addrs: files for info about Internet addressing or IP address lists
 inet-routes: structured or flat data about Internet routes or IP routing tables
 irc-commands: commands that can be utilized on Internet Relay Chat
+iso-codes: identifiers specified by International Standardization Organization
 libc-code: strings for invoking functions and executing code with cstdlib
 libc-data: non-executable strings from the standard C library
 link-layer: things related to OSI layer 2 protocol frames on a LAN
