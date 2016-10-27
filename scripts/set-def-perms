@@ -1,15 +1,36 @@
 #!/usr/bin/env bash
 #
-# set default permissions
+# set-def-perms v1.0
+#
+# Set default permission bits on all filesystem entries within the project
+#
+# Written By:    Derek Callaway [decal {AT} sdf {D0T} org]
+# Tested On:     Kali GNU/Linux Rolling
+# Last Modified: Thu Oct 27 00:44:53 EDT 2016
 #
 
+# configurable settings that probably shouldn't be changed
 readonly WRDLS_MDRDM='README.md'
+readonly WRDLS_COLOR='scripts/colors'
+readonly WRDLS_COUNT=4
 
+# descend the tree until the werdlists project README.md file is recognized
 until [ -f $WRDLS_MDRDM ] 
-  do cd ..
-done
+  do set n=$(( n + 1 ))
 
-find . -type d -exec chmod 0750 {} \;
+  if [[ $n -ge $WRDLS_COUNT ]]
+    then (echo "${redf}$0${reset}${bold}:${reset} ${yellowf}Unable to find file .. ${reset}${blackf}${yellowb}${WRDLS_MDRDM}${reset}" 1>&2) &<1-
+
+    exit 1
+  else
+    cd ..
+  fi
+done 
+
+[ -f $WRDLS_COLOR ] && source -- $WRDLS_COLOR
+
+# avoid the hidden ".git" repository directory
+find . -type d -not -iname '.*' -exec chmod 0750 {} \;
 find . -type f -iname '*.*' -exec chmod 0640 {} \;
 find scripts -type f -exec chmod 0750 {} \;
 
