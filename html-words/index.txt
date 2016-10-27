@@ -1,0 +1,1 @@
+rgb-code-names: an 8-bit triplet of primary color codes and the associated name
