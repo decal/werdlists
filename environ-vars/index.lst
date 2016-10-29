@@ -1,5 +1,7 @@
-binutils-ld-environ: GNU binutils linker environment variables
-common-gateway-environ: environment variables used for dynamic web scripting
+binutils-ld-names: GNU binutils linker environment variables
+common-gateway-names: environment variables used for dynamic web scripting
+debian-shell-names: common names of environment variables in Debian BASH shell
 hesiod-environ-names: a name server interface library's environment variables
-libc-ldso-environ: standard C library dynamic linker/loader environment names
+libc-ldso-names: standard C library dynamic linker/loader environment names
 resolv-environ-names: DNS resolver library configuration environment variables
+systemd-environ-names: system and service manager environment variable names
