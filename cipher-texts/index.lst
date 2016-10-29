@@ -1,1 +1,3 @@
+http2-ciphers-blacklist: Ciphers rejected by the HTTP2 protocol specification
+openssl-ciphers-verbose: Verbose info on ciphers supported by OpenSSL library
 tls-cipher-suites: The macro constants that identify Windows TLS cipher suites
