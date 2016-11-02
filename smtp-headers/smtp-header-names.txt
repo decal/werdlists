@@ -404,6 +404,7 @@ X-Acct-Recovery
 X-All-Senders-In-Circles
 X-AnalysisOut
 X-AntiAbuse
+X-Apparently-To
 X-ASG-Debug-ID
 X-ASG-Orig-Subj
 X-ASG-Whitelist
@@ -645,4 +646,5 @@ X-XPT-XSL-Name
 X-X-Sender
 X-Yahoo-Newman-Id
 X-Yahoo-Newman-Property
+X-YMail-ISG
 X-YMail-OSG
