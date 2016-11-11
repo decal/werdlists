@@ -23,8 +23,10 @@ for w in ${file_exts[*]}
   do declare -i acnt=`echo ${file_exts[*]} | tr ' ' '\n' | grep "${w}" | wc -l`
 
   if [ $acnt -gt 1 ] 
-    then echo -e "${blackf}${greenb}***${reset} ${greenf}Creating all file${bold}:${bold} ${w}-all.txt"
-    sort -u ${w}-*.txt > ${w}-all.txt
+    then if [ ! -d ${w}-all.txt ] 
+      then echo -e "${blackf}${greenb}***${reset} ${greenf}Creating all file${bold}:${bold} ${w}-all.txt"
+      sort -u ${w}-*.txt > ${w}-all.txt
+    fi
   fi
 done
 
