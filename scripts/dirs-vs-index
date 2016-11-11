@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+#
+# dirs-vs-index.bash v1.0
+#
+# Compare folders listed in the root directory to those outlined in `index.lst`
+# This shows data set maintainers which folders aren't being indexed properly
+#
+# Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
+# Last Modified: Wed Oct 26 13:48:05 EDT 2016
+# Tested On:     Kali GNU/Linux Rolling
+#
+
+WRDLS_PAGER='/bin/more'
+
+[ ! -x "$WRDLS_PAGER" ] && WRDLS_PAGER="`which less`"
+[ ! -x "$WRDLS_PAGER" ] && WRDLS_PAGER='/bin/cat'
+
+export WRDLS_PAGER
+
+[ -f colors ] && source -- colors
+
+# exit gracefully on error; be mindful of possibly malicious user function input
+function errx_exit() {
+  local readonly emsg=$( errno -- $1 | tail -n +1 )
+
+  # redirect to STDERR_FILENO and close STDOUT_FILENO
+  declare -l -- astr="${blackf}${yellowb}$2"
+  (echo -e "${reset}${whitef}${boldon}:${reset} ${redf}${emsg}${reset}" 1>&2) <&1- 
+
+  exit -- $1
+}
+
+[[ "$(realpath `pwd`)" =~ '/scripts' ]] && cd ..
+
+LS=$( find . -maxdepth 1 -type d -not -iname '.*' -print | egrep -v '^\./scripts$' )
+
+[ $? -ne 0 ] && errx_exit "$?" "$_"
+
+[[ "$PAGER" == "" ]] && export PAGER="$WRDLS_PAGER"
+
+for d in $LS
+  do declare rpth="$(realpath $d)"
+  declare avar="$(basename $rpth)"
+
+  [[ "$avar" == "" ]] && continue
+
+  echo -en "${bluef}${avar}${reset} "
+  echo -e $(grep --color=ALWAYS -Hirna -- "${avar}" index.lst | awk 'BEGIN { FS=":"; } END { print($1); }')
+done <&2- | $PAGER 
+
+exit 0
