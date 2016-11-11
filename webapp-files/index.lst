@@ -1,3 +1,4 @@
-php-file-names: list of common file names with a PHP extension
-webroot-file-names: list of file names commonly found in a web root directory
-common-file-names: list of common filenames in general (without any restriction)
+php-common-names: list of common file names with a PHP extension
+php-various-names: list of various file names with a PHP extension
+various-common-names: list of common filenames in general (without any restriction)
+various-webroot-names: list of file names commonly found in a web root directory

@@ -34,4 +34,8 @@ function initColor()
   readonly reset="${esc}[0m"
 }
 
-! [ "${esc}" -a "${reset}" ] && initColor && echo -ne "${reset}"
+if ! [ "${esc}" -a "${reset}" ] 
+  then readonly export INIT_COLOR=1
+  initColor 
+  echo -ne "${reset}"
+fi
