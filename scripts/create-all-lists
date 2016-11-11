@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+#
+# init-all-lists.bash v1.0
+#
+# Initialize files that contain all entries for a particular category and/or folder
+#
+# Written by:    [decal {AT} sdf {D0T} org]
+# Last Modified: Fri Nov 11 02:06:36 EST 2016
+# Tested On:     Kali GNU/Linux Rolling
+# See Also:      remove-all-lists
+#
+
+[ -f colors ] && source -- colors
+
+if [ ! -d webapp-files ]
+  then cd ..
+
+  if [ ! -d webapp-files ]
+    then echo -e "${blackfg}${yellowbg}***${reset} ${yellow}Try running this script from the git repository root or bin directory!${reset}"
+
+    exit 1
+  else
+    cd webapp-files
+  fi
+else
+  cd webapp-files
+fi
+
+declare -a file_exts=$( ls -1 -- *.txt | awk -F- '{print($1);}' )
+
+for w in ${file_exts[*]}
+  do rm -i -f -- ./${w}-all.txt
+done
+
+for w in ${file_exts[*]}
+  do declare -i acnt=$( echo ${file_exts[*]} | tr ' ' '\n' | grep -- "${w}" | wc -l )
+
+  if [ $acnt -gt 1 ] 
+    then if [ ! -f ${w}-all.txt ] 
+      then echo -e "${blackf}${greenb}***${reset} ${greenf}Creating all file${boldon}:${boldoff} ${w}-all.txt"
+      sort -u ${w}-*.txt > ${w}-all.txt
+    fi
+  fi
+done
+
+echo -e "${blackf}${greenb}***${reset} ${greenf}Creating all file${boldon}:${boldoff} all.txt"
+sort -u *.txt > all.txt
+
+exit 0

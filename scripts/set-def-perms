@@ -19,7 +19,7 @@ until [ -f $WRDLS_MDRDM ]
   do set n=$(( n + 1 ))
 
   if [[ $n -ge $WRDLS_COUNT ]]
-    then (echo "${redf}$0${reset}${bold}:${reset} ${yellowf}Unable to find file .. ${reset}${blackf}${yellowb}${WRDLS_MDRDM}${reset}" 1>&2) &<1-
+    then (echo "${redf}$0${reset}${boldon}:${reset} ${yellowf}Unable to find file .. ${reset}${blackf}${yellowb}${WRDLS_MDRDM}${reset}" 1>&2) &<1-
 
     exit 1
   else
