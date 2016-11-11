@@ -1,4 +1,5 @@
 common-dirnames-list: list of very common directory names found on web servers
 long-dirnames-list: a list of directory names longer than web-dirnames-list
 private-dirnames-list: a list of directories possibly containing sensitive data
+test-dirnames-lsit: a list of test directories
 web-dirnames-list: list of directory names commonly found on web sites
