@@ -2,6 +2,7 @@ coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
 dirb-vulns-paths: pathnames of all vulnerabilities scanned for by the dirb tool
 login-path-names: pathnames that could reference login pages on a web server
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site
+quick-hit-paths: pathnames that are most likely to exist
 skipfish-path-names: web path names used by the skipfish web app recon tool
 top-robots-parsed: most popular entries from RobotsDisallowed repository parsed
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
