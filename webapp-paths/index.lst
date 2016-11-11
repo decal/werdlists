@@ -2,3 +2,4 @@ coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
 login-path-names: pathnames that could reference login pages on a web server
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site
 skipfish-path-names: web path names used by the skipfish web app recon tool
+weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
