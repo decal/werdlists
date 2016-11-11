@@ -1,3 +1,4 @@
+admin-path-names: pathnames of various admin console pages found on web servers
 coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
 dirb-vulns-paths: pathnames of all vulnerabilities scanned for by the dirb tool
 login-path-names: pathnames that could reference login pages on a web server
