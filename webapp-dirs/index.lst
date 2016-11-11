@@ -1,2 +1,3 @@
 common-dirnames-list: list of very common directory names found on web servers
+long-dirnames-list: a list of directory names longer than web-dirnames-list
 web-dirnames-list: list of directory names commonly found on web sites
