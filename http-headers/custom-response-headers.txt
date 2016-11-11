@@ -1,0 +1,9 @@
+X-XSS-Response
+X-Content-Security-Policy
+X-WebKit-CSP
+X-Content-Type-Options
+X-Powered-By
+X-UA-Compatible
+X-Content-Duration
+X-Request-ID
+X-Correlation-ID

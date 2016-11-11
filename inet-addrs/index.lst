@@ -1,2 +1,3 @@
-classa-rir-blocks: /8 CIDR assignments to RIR's (Routing Internet Registries)
+classa-rir-blocks: /8 CIDR assignments to RIR's (Routing I nternet Registries)
+donotscan-ipv4-ranges: ranges of IPv4 address that needn't be bothered
 targets-ipv6-worldlist: common hex strings seen in IPv6 addressing

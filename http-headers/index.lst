@@ -1,4 +1,5 @@
 custom-request-headers: names of non-standard (i.e. not RFC specified) headers
+custom-response-headers: names of non-standard (i.e. not RFC specified) headers
 http-request-headers: the names of many HTTP request header fields
 ssrf-request-headers: request headers that can be used in SSRF attacks
 web-agent-strings: common User-Agent request header field settings

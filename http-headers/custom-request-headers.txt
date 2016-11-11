@@ -10,3 +10,14 @@ X-Auth-Token
 X-Auth-Username
 X-Auth-Password
 X-In-Progress
+X-Forwarded-For
+X-Forwarded-Host
+X-Forwarded-Proto
+X-Http-Method-Override
+X-ATT-DeviceId
+X-Wap-Profile
+X-UIDH
+X-Csrf-Token
+X-Request-ID
+X-Correlation-ID
+X-Requested-With
