@@ -8,4 +8,5 @@ quick-hit-paths: pathnames that are most likely to exist
 sharepoint-path-names: common Microsoft SharePoint path names
 skipfish-path-names: web path names used by the skipfish web app recon tool
 top-robots-parsed: most popular entries from RobotsDisallowed repository parsed
+unix-traverse-passwd: UNIX path names for directory traversing to passwd file
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
