@@ -4,6 +4,8 @@ dash-environ-names: environment variables set by default on Debian dash shell
 debian-shell-names: common names of environment variables in Debian BASH shell
 hesiod-environ-names: a name server interface library's environment variables
 libc-ldso-names: standard C library dynamic linker/loader environment names
+linux-pids-names: environment variable names from the Linux process table
+macosx-pids-names: environment variable names from the Mac OSX process table
 resolv-environ-names: DNS resolver library configuration environment variables
 systemd-environ-names: system and service manager environment variable names
 zsh-environ-names: environment variables set by default in Debian Z shell
