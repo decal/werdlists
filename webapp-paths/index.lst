@@ -1,8 +1,16 @@
 admin-path-names: pathnames of various admin console pages found on web servers
+apache-path-names: 
 coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
 dirb-vulns-hpaths: pathnames of all vulnerabilities scanned for by the dirb tool
+drupal-path-names: 
 generic-path-names: general path names that could be used on any web server
+iis-path-names: 
+jboss-path-names: 
+joomla-path-names: 
 login-path-names: pathnames that could reference login pages on a web server
+magento-path-names: 
+oracle-path-names: 
+oracle-robots-text: 
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site
 quick-hit-paths: pathnames that are most likely to exist
 sharepoint-path-names: common Microsoft SharePoint path names
@@ -10,3 +18,4 @@ skipfish-path-names: web path names used by the skipfish web app recon tool
 top-robots-parsed: most popular entries from RobotsDisallowed repository parsed
 unix-traverse-passwd: UNIX path names for directory traversing to passwd file
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
+websphere-path-names: 

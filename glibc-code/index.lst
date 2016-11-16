@@ -1,0 +1,13 @@
+ld-abi-list: 
+libanl-abi-list: 
+libBrokenLocale-abi-list: 
+libc-abi-list: 
+libcrypt-abi-list: 
+libdl-abi-list: 
+libm-abi-list: 
+libnsl-abi-list: 
+libpthread-abi-list: 
+libresolv-abi-list: 
+librt-abi-list: 
+libthread_db-abi-list: 
+libutil-abi-list: 
