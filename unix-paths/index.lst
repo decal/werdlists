@@ -1,1 +1,2 @@
-dot-files-names: names of so-called UNIX hidden file names that are prepended with periods
+dot-files-names: names of so-called "hidden" file names prepended with periods
+file-extensions-various: file extension names between one and eighteen bytes

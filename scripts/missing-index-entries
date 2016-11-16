@@ -1,0 +1,75 @@
+#!/usr/bin/env bash
+#
+# missing-index-entries v0.9b
+#
+# Look for folders without an index.lst file or are missing entries from it
+#
+# Written By:    Derek Callaway [decal {AT} sdf {D0T} org]
+# Last Modified: Sat Nov 12 13:08:03 EST 2016
+# Tested On:     Kali GNU/Linux Rolling
+#
+ 
+declare -l acurrent_dirname="`basename $(pwd)`"
+
+echo "${reset}"
+
+if [[ $acurrent_dirname == 'scripts' ]] 
+  then cd ..
+else
+  [[ $acurrent_dirname == 'bin' ]] && cd ..
+fi
+
+if [ ! -d scripts ] 
+  then echo -e "${orangeb}${blackf}***${reset} ${boldon}$0${boldoff} MUST be executed as ${italicson}./script${italicsoff} or ${italicson}bin/script${italicsoff}"
+
+  exit 1
+fi
+
+[ -f scripts/colors ] && source -- scripts/colors
+
+declare -a wldirs=( `find . -maxdepth 1 -type d -not -name '.*' -print` )
+
+for adir in "${wldirs[@]}"
+  do declare xdir=$(basename $adir) 
+  
+  cd -- "${xdir}"
+
+  declare -a wlfiles=( `ls -1 *.* | cut -d '.' -f1 | egrep -iv '^index$'` )
+ 
+  [[ $? != 0 ]] && continue
+
+  declare -a listfiles_missing=( ) 
+
+  for afil in "${wlfiles[@]}"
+    do #
+    
+    if [ ! -s index.lst ] 
+      then rm -f index.lst 
+      touch index.lst
+
+      for anam in ${wlfiles[*]}
+        do echo -e "${anam}: " >> index.lst
+      done
+    fi
+
+    declare output=$( egrep -i "^${afil}:" index.lst | egrep -iv '^index\.lst$' ) 
+
+    [[ $output == "" ]] && listfiles_missing+=( $afil ) 
+  done
+
+  if [ ${#listfiles_missing[@]} -ne 0 ]
+    then echo -ne "${redb}${blackf}${xdir}${boldon}:${reset} "
+    echo -ne "${purplef}${blackb} ${listfiles_missing[*]} "  
+  else
+    echo -ne "${blueb}${blackf}${xdir}"
+  fi
+ 
+  echo -e "${reset}"
+  # echo ${afil} >> index.lst
+
+  cd ..
+done
+
+echo -e "${reset}"
+
+exit 0

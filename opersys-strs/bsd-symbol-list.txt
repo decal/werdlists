@@ -1,7 +1,3 @@
-
-                                             
-a1.txt                  dirblists               repos                   work
-a2.txt                  doc                     set-id-dirs.out
 aacch_pci
 aacd_aac
 aacp_aac

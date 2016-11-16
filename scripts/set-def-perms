@@ -29,9 +29,12 @@ done
 
 [ -f $WRDLS_COLOR ] && source -- $WRDLS_COLOR
 
+chown -R super:staff .
+
 # avoid the hidden ".git" repository directory
 find . -type d -not -iname '.*' -exec chmod 0750 {} \;
 find . -type f -iname '*.*' -exec chmod 0640 {} \;
+find . -type f -iname 'index.lst' -exec chmod 0664 {} \;
 find scripts -type f -exec chmod 0750 {} \;
-
+ 
 exit 0

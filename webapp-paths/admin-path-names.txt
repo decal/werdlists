@@ -1,4 +1,3 @@
-acceso.asp
 acceso.aspx
 acceso.brf
 acceso.cfm
@@ -13,6 +12,7 @@ account.cgi
 account.html
 account.js
 account.php
+adm/
 adm/
 adm/admloginuser.asp
 adm/admloginuser.aspx
@@ -30,6 +30,8 @@ adm_auth.cfm
 adm_auth.cgi
 adm_auth.js
 adm_auth.php
+adm_auth.phpacceso.asp
+adm_auth.phpadmin.php
 adm.brf
 adm.cfm
 adm.cgi
@@ -473,6 +475,7 @@ hpwebjetadmin/
 Indy_admin/
 instadmin/
 irc-macadmin/
+joomla/administrator
 LiveUser_Admin/
 login1/
 login.asp
