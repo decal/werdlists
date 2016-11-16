@@ -1,6 +1,7 @@
 admin-path-names: pathnames of various admin console pages found on web servers
 apache-path-names: 
 coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
+common-path-names: several of the files in this folder, sorted and uniqified
 dirb-vulns-hpaths: pathnames of all vulnerabilities scanned for by the dirb tool
 drupal-path-names: 
 generic-path-names: general path names that could be used on any web server
