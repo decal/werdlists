@@ -29,6 +29,7 @@ inet-addrs:
 inet-routes:
 irc-commands:
 iso-codes:
+lang-data:
 libc-data:
 link-layer:
 linux-paths:
