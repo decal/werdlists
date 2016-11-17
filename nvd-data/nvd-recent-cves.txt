@@ -1,0 +1,146 @@
+CVE-2015-8961 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=6934da9238da947628be83635e365df41064b09bhttp://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.3.3 https://github.com/torvalds/linux/commit/6934da9238da947628be83635e365df41064b09b 
+CVE-2015-8962 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=f3951a3709ff50990bf3e188c27d346792103432 http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/f3951a3709ff50990bf3e188c27d346792103432 
+CVE-2015-8963 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=12ca6ad2e3a896256f086497a7c7406a547ee373 http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/12ca6ad2e3a896256f086497a7c7406a547ee373 
+CVE-2015-8964 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=dd42bf1197144ede075a9d4793123f7689e164bc http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/dd42bf1197144ede075a9d4793123f7689e164bc 
+CVE-2016-0026 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-0909 http://seclists.org/bugtraq/2016/Oct/45 http://www.securityfocus.com/archive/1/539613 
+CVE-2016-3161 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-3332 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3333 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3334 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3335 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3338 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3340 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3342 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-3343 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-4095 https://helpx.adobe.com/security/products/acrobat/apsb16-33.html 
+CVE-2016-4959 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-4960 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-4961 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-5025 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-5195 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619 http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.8.3 http://www.openwall.com/lists/oss-security/2016/10/26/7 https://access.redhat.com/security/cve/cve-2016-5195 https://access.redhat.com/security/vulnerabilities/2706661 https://bugzilla.redhat.com/show_bug.cgi?id=1384344 https://bugzilla.suse.com/show_bug.cgi?id=1004418 https://dirtycow.ninja https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs https://github.com/dirtycow/dirtycow.github.io/wiki/VulnerabilityDetails https://github.com/torvalds/linux/commit/19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619 https://people.canonical.com/~ubuntu-security/cve/2016/CVE-2016-5195.html https://security-tracker.debian.org/tracker/CVE-2016-5195 https://www.kb.cert.org/vuls/id/243144 
+CVE-2016-5763 http://download.novell.com/Download?buildid=3Ho1yp5JOXA~ http://download.novell.com/Download?buildid=dfqmrymc0Rg~ http://download.novell.com/Download?buildid=Fj0Hdns7mxA~ http://download.novell.com/Download?buildid=s9_RxhgC8KU~ 
+CVE-2016-5852 http://nvidia.custhelp.com/app/answers/detail/a_id/4213 
+CVE-2016-7146 https://www.curesec.com/blog/article/blog/MoinMoin-198-XSS-175.html 
+CVE-2016-7148 https://www.curesec.com/blog/article/blog/MoinMoin-198-XSS-175.html 
+CVE-2016-7165 http://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-701708.pdf 
+CVE-2016-7184 http://technet.microsoft.com/security/bulletin/MS16-134 
+CVE-2016-7195 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7196 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7198 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7199 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7200 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7201 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7202 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7203 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7204 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7205 http://technet.microsoft.com/security/bulletin/MS16-132 
+CVE-2016-7208 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7209 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7210 http://technet.microsoft.com/security/bulletin/MS16-132 
+CVE-2016-7212 http://technet.microsoft.com/security/bulletin/MS16-130 
+CVE-2016-7213 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7214 http://technet.microsoft.com/security/bulletin/MS16-135 
+CVE-2016-7215 http://technet.microsoft.com/security/bulletin/MS16-135 
+CVE-2016-7216 http://technet.microsoft.com/security/bulletin/MS16-139 
+CVE-2016-7217 http://technet.microsoft.com/security/bulletin/MS16-132 
+CVE-2016-7218 http://technet.microsoft.com/security/bulletin/MS16-135 
+CVE-2016-7220 http://technet.microsoft.com/security/bulletin/MS16-137 
+CVE-2016-7221 http://technet.microsoft.com/security/bulletin/MS16-130 
+CVE-2016-7222 http://technet.microsoft.com/security/bulletin/MS16-130 
+CVE-2016-7223 http://technet.microsoft.com/security/bulletin/MS16-138 
+CVE-2016-7224 http://technet.microsoft.com/security/bulletin/MS16-138 
+CVE-2016-7225 http://technet.microsoft.com/security/bulletin/MS16-138 
+CVE-2016-7226 http://technet.microsoft.com/security/bulletin/MS16-138 
+CVE-2016-7227 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7228 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7229 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7230 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7231 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7232 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7233 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7234 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7235 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7236 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7237 http://technet.microsoft.com/security/bulletin/MS16-137 
+CVE-2016-7238 http://technet.microsoft.com/security/bulletin/MS16-137 
+CVE-2016-7239 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7240 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7241 http://technet.microsoft.com/security/bulletin/MS16-129 http://technet.microsoft.com/security/bulletin/MS16-142 
+CVE-2016-7242 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7243 http://technet.microsoft.com/security/bulletin/MS16-129 
+CVE-2016-7244 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7245 http://technet.microsoft.com/security/bulletin/MS16-133 
+CVE-2016-7246 http://technet.microsoft.com/security/bulletin/MS16-135 
+CVE-2016-7247 http://technet.microsoft.com/security/bulletin/MS16-140 
+CVE-2016-7248 http://technet.microsoft.com/security/bulletin/MS16-131 
+CVE-2016-7249 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7250 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7251 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7252 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7253 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7254 http://technet.microsoft.com/security/bulletin/MS16-136 
+CVE-2016-7255 http://technet.microsoft.com/security/bulletin/MS16-135 
+CVE-2016-7256 http://technet.microsoft.com/security/bulletin/MS16-132 
+CVE-2016-7381 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7382 http://nvidia.custhelp.com/app/answers/detail/a_id/4246 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7383 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7384 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7385 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7386 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7387 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7388 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7389 http://nvidia.custhelp.com/app/answers/detail/a_id/4246 
+CVE-2016-7390 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7391 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-7488 http://www.vapidlabs.com/advisory.php?v=172 
+CVE-2016-7489 http://www.vapidlabs.com/advisory.php?v=173 
+CVE-2016-7490 http://www.vapidlabs.com/advisory.php?v=174 
+CVE-2016-7851 https://helpx.adobe.com/security/products/connect/apsb16-35.html 
+CVE-2016-7857 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7858 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7859 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7860 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7861 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7862 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7863 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7864 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7865 https://helpx.adobe.com/security/products/flash-player/apsb16-37.html 
+CVE-2016-7910 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=77da160530dd1dc94f6ae15a981f24e5f0021e84 http://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.7.1 https://github.com/torvalds/linux/commit/77da160530dd1dc94f6ae15a981f24e5f0021e84 
+CVE-2016-7911 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=8ba8682107ee2ca3347354e018865d8e1967c5f4 http://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.6.6 https://github.com/torvalds/linux/commit/8ba8682107ee2ca3347354e018865d8e1967c5f4 
+CVE-2016-7912 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=38740a5b87d53ceb89eb2c970150f6e94e00373a http://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.5.3 https://github.com/torvalds/linux/commit/38740a5b87d53ceb89eb2c970150f6e94e00373a 
+CVE-2016-7913 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=8dfbcc4351a0b6d2f2d77f367552f48ffefafe18 http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/8dfbcc4351a0b6d2f2d77f367552f48ffefafe18 
+CVE-2016-7914 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=8d4a2ec1e0b41b0cf9a0c5cd4511da7f8e4f3de2 http://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.5.3 https://github.com/torvalds/linux/commit/8d4a2ec1e0b41b0cf9a0c5cd4511da7f8e4f3de2 
+CVE-2016-7915 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=50220dead1650609206efe91f0cc116132d59b3f http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/50220dead1650609206efe91f0cc116132d59b3f 
+CVE-2016-7916 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=8148a73c9901a8794a50f950083c00ccf97d43b3 http://source.android.com/security/bulletin/2016-11-01.html http://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.5.4 https://bugzilla.kernel.org/show_bug.cgi?id=116461 https://forums.grsecurity.net/viewtopic.php?f=3&amp;t=4363 https://github.com/torvalds/linux/commit/8148a73c9901a8794a50f950083c00ccf97d43b3 
+CVE-2016-7917 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=c58d6c93680f28ac58984af61d0a7ebf4319c241 http://source.android.com/security/bulletin/2016-11-01.html https://github.com/torvalds/linux/commit/c58d6c93680f28ac58984af61d0a7ebf4319c241 
+CVE-2016-8661 https://speakerdeck.com/patrickwardle/defcon-2016-i-got-99-problems-but-little-snitch-aint-one 
+CVE-2016-8805 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8806 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8807 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8808 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8809 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8810 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8811 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8812 http://nvidia.custhelp.com/app/answers/detail/a_id/4247 
+CVE-2016-8902 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8903 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8904 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8905 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8906 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8907 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-8908 http://seclists.org/fulldisclosure/2016/Nov/0 https://github.com/dotCMS/core/pull/8460/ https://github.com/dotCMS/core/pull/8468/ https://security.elarlang.eu/multiple-sql-injection-vulnerabilities-in-dotcms-8x-cve-full-disclosure.html 
+CVE-2016-9268 http://dev.dotclear.org/2.0/changeset/445e9ff79a1fa81033591761d6a340e219d159b2 http://dev.dotclear.org/2.0/ticket/2214 
+CVE-2016-9272 https://exponentcms.lighthouseapp.com/projects/61783/tickets/1394-blind-sql-injection-vulnerability-in-exponent-cms-240-4 https://exponentcms.lighthouseapp.com/projects/61783/tickets/1395-blind-sql-injection-vulnerability-in-exponent-cms-240-5 https://github.com/exponentcms/exponent-cms/commit/fffb2038de4c603931b785a4c3ec69cfd06181ba 
+CVE-2016-9274 https://github.com/git-for-windows/git/issues/944 https://www.youtube.com/watch?v=S7jOLv0sul0 
+CVE-2016-9277 http://security.samsungmobile.com/smrupdate.html#SMR-NOV-2016 
+CVE-2016-9282 https://github.com/exponentcms/exponent-cms/commit/e83721a5b9fcc88e1141a8fb29c3d1bd522257c1 
+CVE-2016-9283 https://github.com/exponentcms/exponent-cms/commit/559792be727f4e731bfcb3935f5beec7749e9ce9 
+CVE-2016-9284 https://github.com/exponentcms/exponent-cms/commit/e7b6856ac384bf2b8ea7761a1e46d6e4186d36f4 
+CVE-2016-9285 https://github.com/exponentcms/exponent-cms/commit/9eeed1e82fb9e6d0d41e7dd10672df48045a9b59 
+CVE-2016-9286 https://github.com/exponentcms/exponent-cms/commit/e38aae66c785f08f3907aa121378caf71ca5f2d7 
+CVE-2016-9287 https://github.com/exponentcms/exponent-cms/commit/4327ea96b3de89440693e06d03038121aa1fdcea 
+CVE-2016-9288 https://github.com/exponentcms/exponent-cms/commit/2ddffb2e7eafe4830e3483a4b437873022c461ba 
+CVE-2016-9294 http://bugs.ghostscript.com/show_bug.cgi?id=697172 http://git.ghostscript.com/?p=mujs.git;a=commit;h=5008105780c0b0182ea6eda83ad5598f225be3ee 
+CVE-2016-9296 https://github.com/yangke/7zip-null-pointer-dereference https://sourceforge.net/p/p7zip/bugs/185/ https://sourceforge.net/p/p7zip/discussion/383043/thread/648d34db/ 
+CVE-2016-9318 https://bugzilla.gnome.org/show_bug.cgi?id=772726 https://github.com/lsh123/xmlsec/issues/43 
