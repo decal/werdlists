@@ -29,7 +29,6 @@ inet-addrs:
 inet-routes:
 irc-commands:
 iso-codes:
-lang-data:
 libc-data:
 link-layer:
 linux-paths:
@@ -40,8 +39,10 @@ ntfs-paths:
 nvd-data: 
 opersys-strs:
 pass-words:
+perl-data:
 regex-dicts:
 remote-urls:
+ruby-data:
 search-dorks:
 shell-builtins:
 smtp-headers:
