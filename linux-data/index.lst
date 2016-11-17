@@ -1,0 +1,4 @@
+kali-dpkg-list: A list of package names gathered with apt-cache on Kali Linux
+linux-syscall-names: A list of Linux system call identifiers from kernel code
+ubuntu-server-groups: common GID names found in /etc/group on Ubuntu Server
+ubuntu-server-users: common UID names found in /etc/passwd on Ubuntu Server
