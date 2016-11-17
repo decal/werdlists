@@ -1,4 +1,5 @@
 dirb-words-parsed: file names taken from dirb's wordlists folder and parsed
+pencilblue-file-names: file names found in the pencilblue code repository 
 php-common-names: list of common file names with a PHP extension
 php-various-names: list of various file names with a PHP extension
 private-file-names: short list of file names that may contain sensitive data
