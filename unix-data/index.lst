@@ -1,11 +1,8 @@
 errno-all-locales: the errno names and descriptions for all system locales
 free-bsd-groups: common GID names found in /etc/group on FreeBSD
 free-bsd-users: common UID names found in /etc/pastswd on FreeBSD
-linux-syscall-names: a list of Linux system call identifiers from kernel code
 locale-charmap-list: a list of all charmaps available with system locale info
 locale-info-list: a list of all system locale identifier symbols
 macosx-brew-cmds: commands available on a MacOSX install with Homebrew packages installed
 macosx-server-groups: common GID names found in /etc/group on Mac OSX 
 macosx-server-users: common UID names found in /etc/passwd on Mac OSX
-ubuntu-server-groups: common GID names found in /etc/group on Ubuntu Server
-ubuntu-server-users: common UID names found in /etc/passwd on Ubuntu Server
