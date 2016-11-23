@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* rename every `index.lst` to `INDEX.md` so they can have markdown
 * delineate `opersys-strs/opsys-names-list` with newlines
 * make `WRDLS_MDRDM` `until` code source'd from other scripts like `dirs-vs-index`
 * write `files-vs-index` to check `index.lst` files in folders
