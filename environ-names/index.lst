@@ -8,6 +8,7 @@ hesiod-environ-names: a name server interface library's environment variables
 libc-ldso-names: standard C library dynamic linker/loader environment names
 linux-pids-names: environment variable names from the Linux process table
 macosx-pids-names: environment variable names from the Mac OSX process table
+netbsd-environ-names: NetBSD environment variable names
 resolv-environ-names: DNS resolver library configuration environment variables
 systemd-environ-names: system and service manager environment variable names
 zsh-environ-names: environment variables set by default in Debian Z shell
