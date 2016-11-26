@@ -1,4 +1,5 @@
 classa-rir-blocks: /8 CIDR assignments to RIR's (Routing I nternet Registries)
 donotscan-ipv4-ranges: ranges of IPv4 address that needn't be bothered
+incapsula-cidr-blocks: IPv4 and IPv6 CIDR blocks occupied by the Incapsula WAF
 targets-ipv6-worldlist: common hex strings seen in IPv6 addressing
 spammer-mail-addrs: Mail addresses of spammers taken via linuxbrit.co.uk Wayback
