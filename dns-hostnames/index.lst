@@ -4,3 +4,4 @@ common-intranet-hosts: host names commonly found on private intranets
 host-names-sorted: various host names sorted alphabetically
 spam-blacklist-hosts: host names used in from addresses by spammers
 sub-domain-names: many strings that could be used as the names of sub-domains
+uber-subdomain-names: subdomain names that have been used by uber.com
