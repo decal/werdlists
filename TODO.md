@@ -11,4 +11,5 @@ Things To Do
 * write script/program for cleaning up CSV's and other types for `scripts/bin`
 * make extensions folder to for each file name extension
 * a file format should be associated with each extension: csv, txt, lst, etc.
+* add NetworkManager(8) environment variable names to the full list
 

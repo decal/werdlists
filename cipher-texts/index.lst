@@ -1,3 +1,5 @@
+cert-data-objdefs: Certificate data with octal object definitions
 http2-ciphers-blacklist: Ciphers rejected by the HTTP2 protocol specification
 openssl-ciphers-verbose: Verbose info on ciphers supported by OpenSSL library
+root-cacert-bundle: Bundle of CA Root X.509 certificates from Mozilla NSS
 tls-cipher-suites: The macro constants that identify Windows TLS cipher suites

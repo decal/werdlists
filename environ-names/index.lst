@@ -1,3 +1,4 @@
+apache-suexec-names: environment variables strings'd from Apache suEXEC binary
 binutils-ld-names: GNU binutils linker environment variables
 common-gateway-names: environment variables used for dynamic web scripting
 dash-environ-names: environment variables set by default on Debian dash shell
