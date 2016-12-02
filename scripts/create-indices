@@ -1,0 +1,5 @@
+for d in $(find . -type f -iname 'index.txt' -print);do git mv $d `echo $d | sed -r 's![.]txt!.lst!'`;done
+find . -type f -iname 'index.txt' -exec echo mv -v {} `echo {} | sed -r 's![.]txt!.lst!ig'` \;
+for d in $(find . -type f -iname 'index.txt' -print | awk -F/ '{print$2}');do cp $d/index.txt ~/GIT/decal/werdlists/$d;done
+find . -type f -iname '*.lst' -exec git add {} \;
+exit 0
