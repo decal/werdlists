@@ -81,6 +81,7 @@ Prefer
 Preference-Applied
 Proxy-Authenticate
 Proxy-Authorization
+Proxy-Connection
 Public-Key-Pins
 Public-Key-Pins-Report-Only
 Range

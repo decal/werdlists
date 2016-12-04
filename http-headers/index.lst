@@ -1,3 +1,4 @@
+cloudfront-request-headers: CloudFront HTTP request headers used by Amazon AWS
 custom-request-headers: names of non-standard (i.e. not RFC specified) headers
 custom-response-headers: names of non-standard (i.e. not RFC specified) headers
 http-request-headers: the names of many HTTP request header fields

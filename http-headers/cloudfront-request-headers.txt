@@ -1,0 +1,11 @@
+X-Cache
+X-Accel-Redirect
+X-Accel-Limit-Rate
+X-Accel-Buffering
+X-Accel-Charset
+X-Forwarded-Proto
+CloudFront-Forwarded-Proto
+CloudFront-Is-Mobile-Viewer
+CloudFront-Is-Desktop-Viewer
+CloudFront-Is-Tablet-Viewer
+CloudFront-Viewer-Country
