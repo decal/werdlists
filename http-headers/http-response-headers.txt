@@ -4,6 +4,7 @@ Access-Control-Allow-Origin
 Age
 Allow
 Alt-Svc
+Alternate-Protocol
 Cache-Control
 Connection
 Content-Disposition

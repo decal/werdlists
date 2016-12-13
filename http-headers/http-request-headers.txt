@@ -5,6 +5,7 @@ Accept-Language
 Accept-Ranges
 Age
 Allow
+Alt-Used
 Access-Control-Allow-Origin
 Access-Control-Allow-Credentials
 Access-Control-Expose-Headers
