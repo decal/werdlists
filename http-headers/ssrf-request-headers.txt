@@ -1,14 +1,36 @@
-X-Originating-IP: 127.0.0.1
-Originating-IP: 127.0.0.1
-X-Forwarded-For: 127.0.0.1
-Forwarded-For: 127.0.0.1
-X-Forwarded-Host: 127.0.0.1
-Forwarded-Host: 127.0.0.1
-X-Real-IP: 127.0.0.1
-Real-IP: 127.0.0.1
-X-Remote-IP: 127.0.0.1
-Remote-IP: 127.0.0.1
-X-Remote-Addr: 127.0.0.1
-Remote-Addr: 127.0.0.1
-X-Proxy: 127.0.0.1
-Proxy: 127.0.0.1
+X-Originating-IP
+Originating-IP
+X-Forwarded
+Forwarded
+X-Forwarder
+Forwarder
+X-Forwarding
+Forwarding
+X-Forwarded-For
+Forwarded-For
+X-Forwarder-For
+Forwarder-For
+X-Forwarding-For
+Forwarding-For
+X-Forwarded-Host
+Forwarded-Host
+X-Forwarder-Host
+Forwarder-Host
+X-Forwarding-Host
+Forwarding-Host
+X-Host
+Host
+X-HOST
+HOST
+X-host
+host
+IP
+X-IP
+X-Real-IP
+Real-IP
+X-Remote-IP
+Remote-IP
+X-Remote-Addr
+Remote-Addr
+X-Proxy
+Proxy

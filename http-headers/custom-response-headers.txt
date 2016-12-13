@@ -12,6 +12,7 @@ X-Permitted-Cross-Domain-Policies
 X-Pingback
 X-Powered-By
 X-Request-ID
+X-Robots-Tag
 X-UA-Compatible
 X-WebKit-CSP
 X-XSS-Protection

@@ -13,6 +13,7 @@ Origin
 Public-Key-Pins
 Public-Key-Pins-Report-Only
 Referrer-Policy
+Timing-Allow-Origin
 X-Content-Type-Options
 X-Download-Options
 X-Frame-Options

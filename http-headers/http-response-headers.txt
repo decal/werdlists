@@ -28,9 +28,11 @@ Public-Key-Pins
 Refresh
 Retry-After
 Server
+Server-Timing
 Set-Cookie
 Status
 Strict-Transport-Security
+Timing-Allow-Origin
 Trailer
 Transfer-Encoding
 TSV

@@ -4,4 +4,5 @@ Access-Control-Allow-Methods
 Access-Control-Allow-Origin
 Access-Control-Expose-Headers
 Access-Control-Max-Age
+Timing-Allow-Origin
 X-Permitted-Cross-Domain-Policies
