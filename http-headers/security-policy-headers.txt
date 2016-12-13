@@ -1,3 +1,5 @@
 Content-Security-Policy
 Content-Security-Policy-Report-Only
+Referrer-Policy
 X-Content-Security-Policy
+X-Webkit-CSP
