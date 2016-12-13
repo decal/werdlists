@@ -1,1 +1,2 @@
 content-policy-directives: Content Security Policy directives from HTTP replies
+referrer-policy-directives: W3C Referrer Policy directives from HTTP replies
