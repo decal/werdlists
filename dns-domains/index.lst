@@ -4,4 +4,5 @@ edu-domain-names: various educational domain names
 gov-domain-names: various governmental domain names
 face-book-doms: hostnames for FaceBook's bug bounty program
 malware-domains-mirror: taken from malwaredomains.com
+special-use-domains: DNS domain names categorized as "Special-Use" by IANA
 tlds-alpha-dom: an alphabetically sorted list of top-level domains from ICANN

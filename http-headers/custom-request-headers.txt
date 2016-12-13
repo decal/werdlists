@@ -12,8 +12,10 @@ X-Csrf-Token
 X-Forwarded-For
 X-Forwarded-Host
 X-Forwarded-Proto
+X-Http-Method
 X-Http-Method-Override
 X-In-Progress
+X-Method-Override
 X-MiteApiKey
 X-Papertrail-Token
 X-Requested-With
