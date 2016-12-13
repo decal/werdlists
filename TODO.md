@@ -2,6 +2,7 @@ Things To Do
 ============
 
 * rename every `index.lst` to `INDEX.md` so they can have markdown
+* `sort -u` all `INDEX.md` files to ensure uniqueness and alphabetization
 * delineate `opersys-strs/opsys-names-list` with newlines
 * make `WRDLS_MDRDM` `until` code source'd from other scripts like `dirs-vs-index`
 * write `files-vs-index` to check `index.lst` files in folders
@@ -12,4 +13,3 @@ Things To Do
 * make extensions folder to for each file name extension
 * a file format should be associated with each extension: csv, txt, lst, etc.
 * add NetworkManager(8) environment variable names to the full list
-

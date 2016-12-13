@@ -1,0 +1,3 @@
+Access-Control-Request-Headers
+Access-Control-Request-Method
+Origin
