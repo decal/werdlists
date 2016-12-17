@@ -114,6 +114,7 @@ Sec-WebSocket-Version
 Sender
 Server
 Set-Cookie
+Set-Cookie2
 SLUG
 Strict-Transport-Security
 Subject

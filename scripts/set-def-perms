@@ -13,6 +13,8 @@
 readonly WRDLS_MDRDM='README.md'
 readonly WRDLS_COLOR='scripts/colors'
 readonly WRDLS_COUNT=4
+readonly WRDLS_OWNER=( [ $USER ] && $USER || $LOGNAME )
+readonly WRDLS_GROUP=staff
 
 # descend the tree until the werdlists project README.md file is recognized
 until [ -f $WRDLS_MDRDM ] 
@@ -29,12 +31,23 @@ done
 
 [ -f $WRDLS_COLOR ] && source -- $WRDLS_COLOR
 
-chown -R super:staff .
+echo -ne "\n${invon}"
+
+chown -Rv ${WRDLS_OWNER}:${WRDLS_GROUP} ./*
+
+echo -e "${reset}\n"
 
 # avoid the hidden ".git" repository directory
-find . -type d -not -iname '.*' -exec chmod 0750 {} \;
-find . -type f -iname '*.*' -exec chmod 0640 {} \;
-find . -type f -iname 'index.lst' -exec chmod 0664 {} \;
-find scripts -type f -exec chmod 0750 {} \;
+echo -ne "\n${redf}"
+nice find . -type d -not -iname '.*' -exec chmod -v 0751 {} \;
+echo -ne "\n${reset}${white}"
+nice find . -type f -iname '*.txt' -exec chmod -v 0644 {} \;
+echo -ne "\n${reset}${greenf}"
+nice find . -type f -iname '*.bin' -exec chmod -v 0444 {} \;
+echo -ne "\n${reset}${cyanf}"
+nice find . -type f -iname '*.lst' -exec chmod -v 0664 {} \;
+echo -ne "\n${reset}${greenf}"
+nice find scripts -type f -exec chmod -v 0751 {} \;
+echo -e "${reset}"
  
 exit 0

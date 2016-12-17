@@ -1,0 +1,15 @@
+true
+false
+0
+1
+yes
+no
++
+none
+all
+localhost
+127.0.0.1
+80
+443
+http
+https

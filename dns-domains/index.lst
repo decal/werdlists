@@ -1,3 +1,4 @@
+azure-domain-names: list of domain names from a reverse lookup on 64.4.6.100
 cctld-char-pairs: a list of ccTLD's, i.e. country code top level domains)
 com-domain-names: various commercial domain names
 edu-domain-names: various educational domain names
