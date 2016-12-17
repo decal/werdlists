@@ -1,4 +1,4 @@
 content-policy-directives: Content Security Policy directives from HTTP replies
-query-variable-names: Commonly lucrative HTTP GET query variable names
-query-variable-values: Typical HTTP GET query variable values
+variable-name-strings: Commonly lucrative HTTP GET query variable names
+variable-value-strings: Typical HTTP GET query variable values
 referrer-policy-directives: W3C Referrer Policy directives from HTTP replies
