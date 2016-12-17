@@ -41,6 +41,7 @@ Downgraded-In-Reply-To
 Downgraded-Message-Id
 Downgraded-Original-Recipient
 Downgraded-References
+dynaTrace
 ETag
 Expect
 Expires
@@ -62,8 +63,10 @@ Keywords
 Last-Modified
 Location
 Lock-Token
+Man
 Max-Forwards
 Message-ID
+MessageType
 MIME-Version
 MT-Priority
 Newsgroups

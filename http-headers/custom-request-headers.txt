@@ -17,10 +17,12 @@ X-Http-Method-Override
 X-In-Progress
 X-Method-Override
 X-MiteApiKey
+X-N
 X-Papertrail-Token
 X-Requested-With
 X-Request-ID
 X-Sendfile
+X-Cnection
 X-Storage-Pass
 X-Storage-User
 X-UIDH
