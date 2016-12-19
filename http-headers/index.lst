@@ -9,4 +9,5 @@ http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
 security-policy-headers: CSP (Content-Security-Policy) header name list
 ssrf-request-headers: request headers that can be used in SSRF attacks
+tusio-http-headers: headers used by resumable file transfer protocol, see tus.io
 web-agent-strings: common User-Agent request header field settings
