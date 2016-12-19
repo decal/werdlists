@@ -22,6 +22,8 @@ X-Pingback
 X-Powered-By
 X-Request-ID
 X-Robots-Tag
+X-Runtime
+X-Version
 X-UA-Compatible
 X-WebKit-CSP
 X-XSS-Protection

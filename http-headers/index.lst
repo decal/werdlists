@@ -1,3 +1,4 @@
+about-http-headers: Descriptions for the most common HTTP header fields
 access-control-headers: Cross Origin Resource Sharing (CORS) header name list
 cloudfront-request-headers: CloudFront HTTP request headers used by Amazon AWS
 cors-request-headers: list of CORS header names used only in HTTP requests
