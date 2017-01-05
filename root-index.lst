@@ -48,6 +48,7 @@ search-dorks:
 shell-builtins:
 smtp-headers:
 software-strs:
+string-enums:
 system-calls:
 top-passwds:
 unicode-art:

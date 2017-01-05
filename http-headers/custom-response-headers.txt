@@ -7,6 +7,7 @@ X-Backend-End
 X-BackendHttpStatus
 X-BEServer
 X-Cache
+X-Cache-Hits
 X-CalculatedFETarget
 X-Content-Duration
 X-Content-Security-Policy
