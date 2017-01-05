@@ -33,6 +33,7 @@ X-Served-By
 X-Timer
 X-Varnish-Cache
 X-Version
+X-Vimeo-Device
 X-VServer
 X-UA-Compatible
 X-WebKit-CSP
