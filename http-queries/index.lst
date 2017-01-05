@@ -1,0 +1,2 @@
+http-query-variables: common variable names used in POST bodies and GET requests
+http-query-values: typical HTTP query variable assignment value strings
