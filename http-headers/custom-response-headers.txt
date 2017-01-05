@@ -21,6 +21,7 @@ X-MSEdge-Ref
 X-OWA-Diagnostics-Info
 X-Permitted-Cross-Domain-Policies
 X-Pingback
+X-Pinterest-RID
 X-Powered-By
 X-Proxied
 X-Request-ID
@@ -28,6 +29,7 @@ X-Robots-Tag
 X-Runtime
 X-Server
 X-Served-By
+X-Timer
 X-Varnish-Cache
 X-Version
 X-VServer
