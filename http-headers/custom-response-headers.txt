@@ -18,6 +18,7 @@ X-Download-Options
 X-FEServer
 X-Generator
 X-Link
+X-Mashery-Error-Code
 X-MSEdge-Ref
 X-OWA-Diagnostics-Info
 X-Permitted-Cross-Domain-Policies

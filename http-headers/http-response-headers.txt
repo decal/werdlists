@@ -33,10 +33,13 @@ Set-Cookie
 Status
 Strict-Transport-Security
 Timing-Allow-Origin
+Topic
 Trailer
 Transfer-Encoding
 TSV
+TTL
 Upgrade
+Urgency
 Vary
 Via
 Warning
