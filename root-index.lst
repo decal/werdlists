@@ -24,11 +24,14 @@ glibc-code:
 html-words:
 http-headers:
 http-methods:
+http-paths:
+http-queries:
 http-status:
 inet-addrs:
 inet-routes:
 irc-commands:
 iso-codes:
+java-code:
 libc-data:
 link-layer:
 linux-paths:

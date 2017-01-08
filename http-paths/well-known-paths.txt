@@ -11,6 +11,7 @@ est
 genid
 hoba
 host-meta
+http-opportunistic
 protocols
 host-meta.json
 HTTPS
