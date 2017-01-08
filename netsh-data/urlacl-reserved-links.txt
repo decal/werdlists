@@ -1,0 +1,17 @@
+http://*:5357/
+http://+:80/Temporary_Listen_Addresses/
+http://*:2869/
+http://+:47001/wsman/
+http://+:5985/wsman/
+http://+:80/0131501b-d67f-491b-9a40-c4bf27bcb4d4/
+http://+:80/116B50EB-ECE2-41ac-8429-9F9E963361B7/
+http://+:10246/MDEServer/
+http://+:10243/WMPNSSv4/
+http://+:8733/Design_Time_Addresses/
+http://+:12292/
+http://+:10247/apps/
+https://*:5358/
+https://+:443/sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
+https://+:5986/wsman/
+https://+:443/C574AC30-5794-4AEE-B1BB-6651C5315029/
+https://+:10245/WMPNSSv4/

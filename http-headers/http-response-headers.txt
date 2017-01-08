@@ -14,6 +14,7 @@ Content-Length
 Content-Location
 Content-MD5
 Content-Range
+Content-Security-Policy
 Content-Type
 Date
 ETag
@@ -25,6 +26,7 @@ P3P
 Pragma
 Proxy-Authenticate
 Public-Key-Pins
+Push-Policy
 Refresh
 Retry-After
 Server
@@ -39,6 +41,7 @@ Transfer-Encoding
 TSV
 TTL
 Upgrade
+Upgrade-Insecure-Requests
 Urgency
 Vary
 Via
