@@ -1,0 +1,18 @@
+E-mail Naming Shim Provider
+Hyper-V RAW
+MSAFD Irda [IrDA]
+MSAFD Tcpip [RAW/IP]
+MSAFD Tcpip [RAW/IPv6]
+MSAFD Tcpip [TCP/IP]
+MSAFD Tcpip [TCP/IPv6]
+MSAFD Tcpip [UDP/IP]
+MSAFD Tcpip [UDP/IPv6]
+Network Location Awareness Legacy (NLAv1) Namespace
+NTDS
+PNRP Cloud Namespace Provider
+PNRP Name Namespace Provider
+RSVP TCP Service Provider
+RSVP TCPv6 Service Provider
+RSVP UDP Service Provider
+RSVP UDPv6 Service Provider
+Tcpip
