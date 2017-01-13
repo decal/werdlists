@@ -9,6 +9,7 @@ X-Auth-Username
 X-Correlation-ID
 X-Credentials
 X-Csrf-Token
+X-DNS-Prefetch-Control
 X-Forwarded-For
 X-Forwarded-Host
 X-Forwarded-Proto

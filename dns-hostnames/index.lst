@@ -1,6 +1,7 @@
 alexa-host-names: Alexa URI host names sorted and uniqified
 av-update-hosts: anti-virus signature update host names
 common-intranet-hosts: host names commonly found on private intranets
+host-names-long: the longest list of host names in this folder
 host-names-sorted: various host names sorted alphabetically
 spam-blacklist-hosts: host names used in from addresses by spammers
 sub-domain-names: many strings that could be used as the names of sub-domains

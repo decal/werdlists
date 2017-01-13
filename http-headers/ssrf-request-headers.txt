@@ -28,6 +28,8 @@ IP
 X-IP
 Method-Override
 X-Method-Override
+Origin
+X-Origin
 X-Real-IP
 Real-IP
 X-Remote-IP

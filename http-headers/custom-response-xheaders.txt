@@ -30,10 +30,12 @@ X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
 X-FEServer
 X-Generator
+X-GENIUS-HOST
 X-Human
 X-Link
 X-Mashery-Error-Code
 X-MSEdge-Ref
+X-MSNSERVER
 X-OC-Mtime
 X-OWA-Diagnostics-Info
 X-Permitted-Cross-Domain-Policies
