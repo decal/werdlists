@@ -3,7 +3,6 @@ argv-options:
 ascii-art:
 auth-warnings:
 biology-info:
-cgi-servlets:
 char-encodes:
 cipher-texts:
 cmd-usage:
@@ -22,6 +21,7 @@ file-extens:
 ftp-commands:
 glibc-code:
 html-words:
+http-cgi:
 http-headers:
 http-methods:
 http-paths:

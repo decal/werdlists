@@ -26,11 +26,13 @@ X-Correlation-ID
 X-DiagInfo
 X-Download-Options
 X-Drupal-Cache
+x-dw-request-base-id
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
 X-FEServer
 X-Generator
 X-GENIUS-HOST
+X-HEIST
 X-Human
 X-Link
 X-Mashery-Error-Code
