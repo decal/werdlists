@@ -1,4 +1,4 @@
-[id]: https://raw.githubusercontent.com/decal/werdlists/master/werd.png ""
+![](https://raw.githubusercontent.com/decal/werdlists/master/werd.png "")
 
 werdlists
 =========
