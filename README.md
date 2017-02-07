@@ -9,8 +9,8 @@ manually crafting software test cases or developing an automated black-box
 fuzzer. In particular, the data contained within these mostly text files is 
 intended for programmatic information security (i.e. "penetration") testing 
 purposes.. For anyone already familiar with repositories like
-[The attack pattern dictionary](https://github.com/fuzzdb-project/fuzzdb/ "fuzzdb") and 
-[The security tester's companion](https://github.com/danielmiessler/SecLists/ "SecLists"), 
+[fuzzdb](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
+[SecLists](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
 then `werdlists` is similar as it's a centralized attack strings resource--just
 with its own unique style, original contents, expanded concepts, etc.
 
