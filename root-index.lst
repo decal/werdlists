@@ -44,7 +44,7 @@ netsh-data:
 ntfs-paths:
 nvd-data: 
 opersys-strs:
-pass-words:
+passes-dicts:
 perl-data:
 regex-dicts:
 remote-urls:
@@ -55,7 +55,7 @@ smtp-headers:
 software-strs:
 string-enums:
 system-calls:
-top-passwds:
+passes-sites:
 unicode-art:
 unix-data:
 unix-paths:
