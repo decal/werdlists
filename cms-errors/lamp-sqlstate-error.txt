@@ -1,0 +1,71 @@
+Fatal Error in Gdn_Database.Connection();
+An error occurred while attempting to connect to the database
+SQLSTATE[HY000] [2002] Connection timed out
+The error occurred on or near: /home/biohackme2/forum.biohack.me/library/database/class.database.php
+
+56:             $this->_Connection = new PDO(strtolower($this->Engine) . ':' . $this->Dsn, $this->User, $this->Password, $this->ConnectionOptions);
+
+57:             if($this->ConnectionOptions[1002])
+
+58:                $this->Query($this->ConnectionOptions[1002]);
+
+59:          } catch (Exception $ex) {
+
+60:             trigger_error(ErrorMessage('An error occurred while attempting to connect to the database', $this->ClassName, 'Connection', $ex->getMessage()), E_USER_ERROR);
+
+61:          }
+
+62:       }
+
+63:       
+
+64:       return $this->_Connection;
+
+Backtrace:
+
+/home/biohackme2/forum.biohack.me/library/database/class.database.phpPHP::Gdn_ErrorHandler();
+
+[/home/biohackme2/forum.biohack.me/library/database/class.database.php:60] PHP::trigger_error();
+
+[/home/biohackme2/forum.biohack.me/library/database/class.database.php:232] Gdn_Database->Connection();
+
+[/home/biohackme2/forum.biohack.me/library/database/class.sqldriver.php:1584] Gdn_Database->Query();
+
+[/home/biohackme2/forum.biohack.me/library/database/class.sqldriver.php:639] Gdn_SQLDriver->Query();
+
+[/home/biohackme2/forum.biohack.me/applications/dashboard/models/class.permissionmodel.php:416] Gdn_SQLDriver->Get();
+
+[/home/biohackme2/forum.biohack.me/applications/dashboard/models/class.permissionmodel.php:133] PermissionModel->PermissionColumns();
+
+[/home/biohackme2/forum.biohack.me/applications/dashboard/models/class.usermodel.php:88] PermissionModel->CachePermissions();
+
+[/home/biohackme2/forum.biohack.me/library/core/class.session.php:291] UserModel->DefinePermissions();
+
+[/home/biohackme2/forum.biohack.me/library/core/class.auth.php:27] Gdn_Session->Start();
+
+[/home/biohackme2/forum.biohack.me/bootstrap.php:186] Gdn_Auth->StartAuthenticator();
+
+[/home/biohackme2/forum.biohack.me/index.php:28] PHP::require_once();
+
+Variables in local scope:
+
+[ex] array (
+  'errorInfo' => NULL,
+)
+
+Need Help?
+
+If you are a user of this website, you can report this message to a website administrator.
+
+If you are an administrator of this website, you can get help at the Vanilla Community Forums.
+Additional information for support personnel:
+
+    Application: Vanilla
+    Application Version: 2.0.17.9
+    PHP Version: 5.6.29
+    Operating System: Linux
+    Server Software: Apache
+    User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+    Request Uri: /
+    Controller: Gdn_Database
+    Method: Connection

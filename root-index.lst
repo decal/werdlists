@@ -6,6 +6,7 @@ biology-info:
 char-encodes:
 cipher-texts:
 cmd-usage:
+cms-errors:
 dbase-strings:
 dialup-modems:
 dns-commands:
@@ -54,6 +55,7 @@ ruby-data:
 search-dorks:
 shell-builtins:
 smtp-headers:
+soap-messages:
 software-strs:
 string-enums:
 system-calls:
