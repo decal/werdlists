@@ -21,6 +21,7 @@ environ-values:
 file-extens:
 ftp-commands:
 glibc-code:
+html-forms:
 html-words:
 http-cgi:
 http-headers:
@@ -59,6 +60,7 @@ soap-messages:
 software-strs:
 string-enums:
 system-calls:
+tls-acls:
 unicode-art:
 unix-data:
 unix-paths:

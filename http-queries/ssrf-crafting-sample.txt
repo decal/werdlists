@@ -1,0 +1,18 @@
+GeT https://graph.windows.net/ HTTP/1.1
+Accept: */*
+Accept-Encoding: none
+Expect: 100-continue
+Forwarded: for=127.0.0.1;proto=http;by=127.0.0.1
+From: postmaster@localhost
+Front-End-Https: on
+Host: graph.windows.net
+If-Modified-Since: Sat, 31 Jan 1994 19:43:00 GMT
+If-Range: "737060cd8c284d8af7ad3082f209582d"
+If-Unmodified-Since: Sat, 29 Oct 1994 19:43:31 GMT
+Via: 1.0 fred, 1.1 127.0.0.1 (Apache/1.1)
+Warning: 199 Miscellaneous warning
+X-ATT-DeviceId: GT-P7320/P7320XXLPG
+X-Forwarded-For: localhost, localhost, localhost
+X-Forwarded-Host: localhost:80
+X-Online-Host: localhost
+X-Wap-Profile: http://localhost

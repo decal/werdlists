@@ -1,4 +1,5 @@
 acme-challenge
+apple-app-site-association
 ashrae
 assetlinks.json
 caldav
