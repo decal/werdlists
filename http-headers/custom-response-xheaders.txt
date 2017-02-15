@@ -1,3 +1,4 @@
+X-Application
 X-AH-Environment
 X-amz-bucket-region
 X-amz-error-code
@@ -36,8 +37,10 @@ X-HEIST
 X-Human
 X-Link
 X-Mashery-Error-Code
+X-Mode
 X-MSEdge-Ref
 X-MSNSERVER
+X-Node
 X-OC-Mtime
 X-OWA-Diagnostics-Info
 X-Permitted-Cross-Domain-Policies
