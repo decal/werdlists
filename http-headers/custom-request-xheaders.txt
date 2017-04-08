@@ -9,6 +9,11 @@ X-Auth-Username
 X-Correlation-ID
 X-Credentials
 X-Csrf-Token
+X-Device-Accept
+X-Device-Accept-Charset
+X-Device-Accept-Encoding
+X-Device-Accept-Language
+X-Device-User-Agent
 X-DNS-Prefetch-Control
 X-Forwarded-For
 X-Forwarded-Host

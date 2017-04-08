@@ -1,4 +1,5 @@
 alexa-host-names: Alexa URI host names sorted and uniqified
+alexa-top50-global: The top 50 global web sites from http://alexa.com/topsites
 av-update-hosts: anti-virus signature update host names
 common-intranet-hosts: host names commonly found on private intranets
 host-names-long: the longest list of host names in this folder

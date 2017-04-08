@@ -1,1 +1,3 @@
+classify-list:
+file-ext-info: complete list of all file extensions and information
 vim-autocmd-list: list of file extensions used by vim autocmd

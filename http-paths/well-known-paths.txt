@@ -21,6 +21,7 @@ mud
 ni
 openid-configuration
 openorg
+pki-validation
 posh
 reload-config
 repute-template
