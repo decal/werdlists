@@ -1,4 +1,5 @@
 admin-path-names: pathnames of various admin console pages found on web servers
+adobecq-path-names: paths to content on Adobe Experience Manager a.k.a. CQ
 apache-path-names: 
 coldfusion-cfmx-cfide: pathnames to admin pages on Adobe ColdFusion app server
 common-path-names: several of the files in this folder, sorted and uniqified
