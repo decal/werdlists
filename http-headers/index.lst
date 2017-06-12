@@ -12,6 +12,8 @@ http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
 platform-request-headers: request headers particular to a certain app/site/etc.
 platform-response-headers: response headers specific to a certain app/site/etc.
+rfc-request-headers: request header names that appear in an RFC
+rfc-response-headers: response header names that appear in an RFC
 security-policy-headers: CSP (Content-Security-Policy) header name list
 ssrf-request-headers: request headers that can be used in SSRF attacks
 ssrf-response-headers: response headers host names for SSRF can be parsed from

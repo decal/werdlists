@@ -32,4 +32,5 @@ X-Cnection
 X-Storage-Pass
 X-Storage-User
 X-UIDH
+X-Vertis-Platform
 X-Wap-Profile
