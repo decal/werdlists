@@ -1,3 +1,4 @@
+abnormal-uri-rfc: Abnormal URI's from RFC3986 Section 5.4.2
 content-policy-directives: Content Security Policy directives from HTTP replies
 variable-name-strings: Commonly lucrative HTTP GET query variable names
 variable-value-strings: Typical HTTP GET query variable values
