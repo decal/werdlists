@@ -40,7 +40,6 @@ link-layer:
 linux-paths:
 local-uris:
 methbot-iocs:
-netbsd-paths:
 net-ifaces:
 netsh-data:
 ntfs-paths:
