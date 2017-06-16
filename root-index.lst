@@ -18,6 +18,7 @@ dns-resolv:
 dns-servers:
 environ-names:
 environ-values:
+exploit-info:
 file-extens:
 ftp-commands:
 glibc-code:
