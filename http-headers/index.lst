@@ -4,10 +4,8 @@ access-control-headers: Cross Origin Resource Sharing (CORS) header name list
 cloudfront-request-headers: CloudFront HTTP request headers used by Amazon AWS
 cors-request-headers: list of CORS header names used only in HTTP requests
 cors-response-headers: list of CORS header names used only in HTTP responses
-custom-request-headers: non-standard request headers not prepended by "X-"
-custom-request-xheaders: X-Names of unstandard (i.e. not RFC specified) headers
-custom-response-xheaders: X-Names of unstandard (i.e. not RFC specified) headers
-custom-response-headers: non-standard response headers not prepended by "X-"
+custom-request-headers: non-standard HTTP request headers, i.e. lack RFC specs
+custom-response-headers: non-standard HTTP response headers, i.e. lack RFC specs
 http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
 platform-request-headers: request headers particular to a certain app/site/etc.
