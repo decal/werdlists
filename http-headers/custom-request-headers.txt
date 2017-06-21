@@ -8,6 +8,9 @@ X-Auth-Password
 X-Auth-Token
 X-Auth-User
 X-Auth-Username
+X-Authenticated-User
+X-Authenticated-Groups
+X-Client-IP
 X-Cnection
 X-Correlation-ID
 X-Credentials
@@ -28,6 +31,7 @@ X-Forwarded-SSL-Session-ID
 X-Http-Method
 X-Http-Method-Override
 X-In-Progress
+X-Include
 X-Method-Override
 X-MiteApiKey
 X-N
@@ -35,6 +39,7 @@ X-Papertrail-Token
 X-Requested-With
 X-Request-ID
 X-Sendfile
+X-Server-IP
 X-Storage-Pass
 X-Storage-User
 X-UIDH

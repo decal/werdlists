@@ -66,6 +66,7 @@ Last-Modified
 Location
 Lock-Token
 Man
+Max-Connections
 Max-Forwards
 Message-ID
 MessageType
