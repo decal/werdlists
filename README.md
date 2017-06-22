@@ -14,7 +14,7 @@
 ```
 * * *
 
-### Introduction
+# Introduction
 
 Text files consisting mostly of word lists (whitespace-delimited/line-based
 entries) [1], CSV (Comma Separated Values) [2], Office Open XML [3] (a.k.a. 
@@ -41,7 +41,7 @@ of their own specific `index.lst` files which is like `root-index.lst`, but it
 only contains entries that describe associated file names as opposed to folder
 names.
 
-## Naming
+### Naming
 
 Although the majority of files have the *.txt* extension that signifies the MIME
 type text/plain--pay close attention, because other file extensions are in use 
@@ -49,7 +49,7 @@ on occassion as well, such as *.csv* (comma-separated values) [2], or *.xml*
 which denotes Extended Markup Language.  Files with a non-ASCII or binary 
 character set are assigned the *.bin* extension.  
 
-# MIME types determined for various file extensions
+### MIME types determined for various file extensions
 
 ```
 user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
@@ -62,6 +62,8 @@ user@host:~/repos/werdlists$ file -kz file-extens/classify-list.xlsx
 file-extens/classify-list.xlsx: XML 1.0 document text\012- XML document, ASCII text, with very long lines, with CR line ter
 minators\012- data (Zip archive data, at least v2.0 to extract\012- data)
 ```
+
+* * *
 
 [1]: http://wordlist.aspell.net "SCOWL (Spell Checker Oriented Word Lists)"
 [2]: https://en.wikipedia.org/wiki/Comma-separated_values "Wikipedia - Comma-seperated Values"
