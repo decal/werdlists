@@ -49,7 +49,7 @@ on occassion as well, such as *.csv* (comma-separated values) [2], or *.xml*
 which denotes Extended Markup Language.  Files with a non-ASCII or binary 
 character set are assigned the *.bin* extension.  
 
-# Examples of MIME types determined for various file extensions
+# MIME types determined for various file extensions
 
 ```
 user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
