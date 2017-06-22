@@ -1,57 +1,63 @@
-* * *
-```
-```
-* * *
-```
+<hr />
+
+<p><code>
+</code></p>
+
+<hr />
+
+<p><code>
                                         _   _  _       _
                __      __ ___  _ __  __| | | |(_) ___ | |_  ___
                \ \ /\ / // _ \| '__|/ _` | | || |/ __|| __|/ __|
                 \ V  V /|  __/| |  | (_| | | || |\__ \| |_ \__ \
                  \_/\_/  \___||_|   \__,_| |_||_||___/ \__||___/
-```
-* * *
-```
-```
-* * *
+</code></p>
 
-### Introduction
+<hr />
 
-Text files consisting mostly of word lists (whitespace-delimited/line-based
+<p><code>
+</code></p>
+
+<hr />
+
+<h3>Introduction</h3>
+
+<p>Text files consisting mostly of word lists (whitespace-delimited/line-based
 entries) [1], CSV (Comma Separated Values) [2], Office Open XML [3] (a.k.a. 
 ECMA-376 [4]) and similar data sets that are useful in manually crafting test
 cases or developing an automated black-box fuzzer. In particular, the data 
 contained within these mostly text files is intended for the purposes of 
-programmatically testing security..
+programmatically testing security..</p>
 
-## Inspirations
+<h2>Inspirations</h2>
 
-If you're already familiar with established repositories such as 
-[fuzzdb](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[SecLists](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
-then `werdlists` is quite similar in mission as it's a centralized attack strings 
+<p>If you're already familiar with established repositories such as 
+<a href="https://github.com/fuzzdb-project/fuzzdb/" title="The attack pattern dictionary">fuzzdb</a> and 
+<a href="https://github.com/danielmiessler/SecLists/" title="The security tester's companion">SecLists</a>, 
+then <code>werdlists</code> is quite similar in mission as it's a centralized attack strings 
 resource--just with its own unique style and organization, original hand-crafted contents, 
-expanded concepts, etc.
+expanded concepts, etc.</p>
 
-## Hierarchy
+<h2>Hierarchy</h2>
 
-The `scripts` folder consists of shell scripts used for maintenance and such. 
-Data folders are outlined in the `root-index.lst` file at the root of the 
+<p>The <code>scripts</code> folder consists of shell scripts used for maintenance and such. 
+Data folders are outlined in the <code>root-index.lst</code> file at the root of the 
 repository's directory hierarchy.  All files in each folder are detailed in one
-of their own specific `index.lst` files which is like `root-index.lst`, but it
+of their own specific <code>index.lst</code> files which is like <code>root-index.lst</code>, but it
 only contains entries that describe associated file names as opposed to folder
-names.
+names.</p>
 
-## Naming
+<h2>Naming</h2>
 
-Although the majority of files have the *.txt* extension that signifies the MIME
+<p>Although the majority of files have the <em>.txt</em> extension that signifies the MIME
 type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as *.csv* (comma-separated values) [2], or *.xml* 
+on occassion as well, such as <em>.csv</em> (comma-separated values) [2], or <em>.xml</em> 
 which denotes Extended Markup Language.  Files with a non-ASCII or binary 
-character set are assigned the *.bin* extension.  
+character set are assigned the <em>.bin</em> extension.  </p>
 
-# Examples of MIME types determined for various file extensions
+<h1>Examples of MIME types determined for various file extensions</h1>
 
-```
+<p><code>
 user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
 ./cipher-data/java-example-keystore.bin: application/x-java-keystore; charset=binary
 user@host:~/repos/werdlists$ file -i http-headers/http-response-headers.txt
@@ -61,9 +67,4 @@ nvd-data/nvdcve-2.0-Recent.xml: application/xml; charset=us-ascii
 user@host:~/repos/werdlists$ file -kz file-extens/classify-list.xlsx
 file-extens/classify-list.xlsx: XML 1.0 document text\012- XML document, ASCII text, with very long lines, with CR line ter
 minators\012- data (Zip archive data, at least v2.0 to extract\012- data)
-```
-
-[1]: http://wordlist.aspell.net "SCOWL (Spell Checker Oriented Word Lists)"
-[2]: https://en.wikipedia.org/wiki/Comma-separated_values "Wikipedia - Comma-seperated Values"
-[3]: http://officeopenxml.com "Office Open XML - What is OOXML?"
-[4]: http://www.ecma-international.org/publications/standards/Ecma-376.htm "Standard ECMA-376 (Office Open XML File Formats)"
+</code></p>
