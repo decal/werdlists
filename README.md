@@ -1,7 +1,13 @@
-![](https://raw.githubusercontent.com/decal/werdlists/master/werd.png "")
+* * *
 
-werdlists
-=========
+```
+                                         _  _  _       _
+                __      __ ___  _ __  __| || |(_) ___ | |_  ___
+                \ \ /\ / // _ \| '__|/ _` || || |/ __|| __|/ __|
+                 \ V  V /|  __/| |  | (_| || || |\__ \| |_ \__ \
+                  \_/\_/  \___||_|   \__,_||_||_||___/ \__||___/
+```
+* * *
 
 Text files consisting of word lists, whitespace delimited row-based data, CSV
 (Comma Separated Values) and similar data collections that are useful in
@@ -22,3 +28,4 @@ because other file extensions have meaning as well (such as *.csv* or comma-
 separated values, eXtended Markup Language for *.xml* and non-ASCII in *.bin*
 files.)
 
+To get started, go to <https://github.com/decal/werdlists> ...
