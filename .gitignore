@@ -4,5 +4,14 @@
 *.bak
 *.1
 *.2
+*.new
 *.old
+*.sav
 *.save
+*.swp
+**/.*
+core
+bower_components
+node_modules
+test
+tests
