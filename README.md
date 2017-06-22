@@ -16,12 +16,12 @@
 
 # Brief Introduction to `werdlists`
 
-Text files consisting mostly of word lists (whitespace-delimited/line-based
-entries) [GNU Aspell] [1], CSV (Comma Separated Values) [Wikipedia] [2], Office
-Open XML [OOXML] [3] (a.k.a.  ECMA-376 [ECMA] [4]) and similar data sets that are
-useful in manually crafting test cases or developing an automated black-box
-fuzzer. In particular, the data contained within these mostly text files is
-intended for the purposes of programmatically testing security..
+Text files consisting mostly of [Wordlists][] (whitespace-delimited/line-based
+entries), [CSV][] (Comma Separated Values), Office Open XML ([OOXML][]) (a.k.a.
+[ECMA-376][]) and similar data sets that are useful in manually crafting test
+cases or developing an automated black-box fuzzer. In particular, the data 
+contained within these mostly text files is intended for the purposes of 
+programmatically testing security..
 
 ## Inspiration Taken from Similar Projects
 
@@ -65,7 +65,7 @@ minators\012- data (Zip archive data, at least v2.0 to extract\012- data)
 
 * * *
 
-[1]: http://wordlist.aspell.net "SCOWL (Spell Checker Oriented Word Lists)"
-[2]: https://en.wikipedia.org/wiki/Comma-separated_values "Wikipedia - Comma-seperated Values"
-[3]: http://officeopenxml.com "Office Open XML - What is OOXML?"
-[4]: http://www.ecma-international.org/publications/standards/Ecma-376.htm "Standard ECMA-376 (Office Open XML File Formats)"
+[Wordlists]: http://wordlist.aspell.net "SCOWL (Spell Checker Oriented Word Lists)"
+[CSV]: https://en.wikipedia.org/wiki/Comma-separated_values "Wikipedia - Comma-seperated Values"
+[OOXML]: http://officeopenxml.com "Office Open XML - What is OOXML?"
+[ECMA-376]: http://www.ecma-international.org/publications/standards/Ecma-376.htm "Standard ECMA-376 (Office Open XML File Formats)"
