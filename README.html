@@ -20,16 +20,16 @@
 
 <hr />
 
-<h1>Introduction</h1>
+<h1>Brief Introduction to <code>werdlists</code></h1>
 
 <p>Text files consisting mostly of word lists (whitespace-delimited/line-based
-entries) <a href="http://wordlist.aspell.net" title="SCOWL (Spell Checker Oriented Word Lists)">GNU Aspell</a>, CSV (Comma Separated Values) <a href="https://en.wikipedia.org/wiki/Comma-separated_values" title="Wikipedia - Comma-seperated Values">Wikipedia</a>, Office Open XML <a href="http://officeopenxml.com" title="Office Open XML - What is OOXML?">OOXML</a> (a.k.a. 
-ECMA-376 <a href="http://www.ecma-international.org/publications/standards/Ecma-376.htm" title="Standard ECMA-376 (Office Open XML File Formats)">ECMA</a>) and similar data sets that are useful in manually crafting test
-cases or developing an automated black-box fuzzer. In particular, the data 
-contained within these mostly text files is intended for the purposes of 
-programmatically testing security..</p>
+entries) <a href="http://wordlist.aspell.net" title="SCOWL (Spell Checker Oriented Word Lists)">GNU Aspell</a>, CSV (Comma Separated Values) <a href="https://en.wikipedia.org/wiki/Comma-separated_values" title="Wikipedia - Comma-seperated Values">Wikipedia</a>, Office
+Open XML <a href="http://officeopenxml.com" title="Office Open XML - What is OOXML?">OOXML</a> (a.k.a.  ECMA-376 <a href="http://www.ecma-international.org/publications/standards/Ecma-376.htm" title="Standard ECMA-376 (Office Open XML File Formats)">ECMA</a>) and similar data sets that are
+useful in manually crafting test cases or developing an automated black-box
+fuzzer. In particular, the data contained within these mostly text files is
+intended for the purposes of programmatically testing security..</p>
 
-<h2>Inspirations</h2>
+<h2>Inspiration Taken from Similar Projects</h2>
 
 <p>If you're already familiar with established repositories such as 
 <a href="https://github.com/fuzzdb-project/fuzzdb/" title="The attack pattern dictionary">fuzzdb</a> and 
@@ -38,7 +38,7 @@ then <code>werdlists</code> is quite similar in mission as it's a centralized at
 resource--just with its own unique style and organization, original hand-crafted contents, 
 expanded concepts, etc.</p>
 
-<h2>Hierarchy</h2>
+<h2>Description of the Repository Directory Hierarchy</h2>
 
 <p>The <code>scripts</code> folder consists of shell scripts used for maintenance and such. 
 Data folders are outlined in the <code>root-index.lst</code> file at the root of the 
@@ -47,15 +47,15 @@ of their own specific <code>index.lst</code> files which is like <code>root-inde
 only contains entries that describe associated file names as opposed to folder
 names.</p>
 
-<h3>Naming</h3>
+<h3>Naming Scheme, Syntax and Meaning Associated With File Extensions</h3>
 
 <p>Although the majority of files have the <em>.txt</em> extension that signifies the MIME
 type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as <em>.csv</em> (comma-separated values) <a href="https://en.wikipedia.org/wiki/Comma-separated_values" title="Wikipedia - Comma-seperated Values">Wikipedia</a>, or <em>.xml</em> 
-which denotes Extended Markup Language.  Files with a non-ASCII or binary 
-character set are assigned the <em>.bin</em> extension.  </p>
+on occassion as well, such as <em>.csv</em> (comma-separated values), or <em>.xml</em> which 
+denotes Extended Markup Language.  Files with a non-ASCII or binary character 
+set are assigned the <em>.bin</em> extension.  </p>
 
-<h3>MIME types determined for various file extensions</h3>
+<h3>MIME Types Determined for Several Files With Varying Extensions</h3>
 
 <p><code>
 user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin

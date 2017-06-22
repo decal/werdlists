@@ -14,16 +14,16 @@
 ```
 * * *
 
-# Introduction
+# Brief Introduction to `werdlists`
 
 Text files consisting mostly of word lists (whitespace-delimited/line-based
-entries) [GNU Aspell] [1], CSV (Comma Separated Values) [Wikipedia] [2], Office Open XML [OOXML] [3] (a.k.a. 
-ECMA-376 [ECMA] [4]) and similar data sets that are useful in manually crafting test
-cases or developing an automated black-box fuzzer. In particular, the data 
-contained within these mostly text files is intended for the purposes of 
-programmatically testing security..
+entries) [GNU Aspell] [1], CSV (Comma Separated Values) [Wikipedia] [2], Office
+Open XML [OOXML] [3] (a.k.a.  ECMA-376 [ECMA] [4]) and similar data sets that are
+useful in manually crafting test cases or developing an automated black-box
+fuzzer. In particular, the data contained within these mostly text files is
+intended for the purposes of programmatically testing security..
 
-## Inspirations
+## Inspiration Taken from Similar Projects
 
 If you're already familiar with established repositories such as 
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
@@ -32,7 +32,7 @@ then `werdlists` is quite similar in mission as it's a centralized attack string
 resource--just with its own unique style and organization, original hand-crafted contents, 
 expanded concepts, etc.
 
-## Hierarchy
+## Description of the Repository Directory Hierarchy
 
 The `scripts` folder consists of shell scripts used for maintenance and such. 
 Data folders are outlined in the `root-index.lst` file at the root of the 
@@ -41,15 +41,15 @@ of their own specific `index.lst` files which is like `root-index.lst`, but it
 only contains entries that describe associated file names as opposed to folder
 names.
 
-### Naming
+### Naming Scheme, Syntax and Meaning Associated With File Extensions
 
 Although the majority of files have the *.txt* extension that signifies the MIME
 type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as *.csv* (comma-separated values) [Wikipedia] [2], or *.xml* 
-which denotes Extended Markup Language.  Files with a non-ASCII or binary 
-character set are assigned the *.bin* extension.  
+on occassion as well, such as *.csv* (comma-separated values), or *.xml* which 
+denotes Extended Markup Language.  Files with a non-ASCII or binary character 
+set are assigned the *.bin* extension.  
 
-### MIME types determined for various file extensions
+### MIME Types Determined for Several Files With Varying Extensions
 
 ```
 user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
