@@ -17,8 +17,8 @@
 # Introduction
 
 Text files consisting mostly of word lists (whitespace-delimited/line-based
-entries) [1], CSV (Comma Separated Values) [2], Office Open XML [3] (a.k.a. 
-ECMA-376 [4]) and similar data sets that are useful in manually crafting test
+entries) [GNU Aspell] [1], CSV (Comma Separated Values) [Wikipedia] [2], Office Open XML [OOXML] [3] (a.k.a. 
+ECMA-376 [ECMA] [4]) and similar data sets that are useful in manually crafting test
 cases or developing an automated black-box fuzzer. In particular, the data 
 contained within these mostly text files is intended for the purposes of 
 programmatically testing security..
@@ -45,7 +45,7 @@ names.
 
 Although the majority of files have the *.txt* extension that signifies the MIME
 type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as *.csv* (comma-separated values) [2], or *.xml* 
+on occassion as well, such as *.csv* (comma-separated values) [Wikipedia] [2], or *.xml* 
 which denotes Extended Markup Language.  Files with a non-ASCII or binary 
 character set are assigned the *.bin* extension.  
 
