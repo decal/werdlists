@@ -1,9 +1,16 @@
 * * *
+```
+```
+* * *
+```
                                         _   _  _       _
                __      __ ___  _ __  __| | | |(_) ___ | |_  ___
                \ \ /\ / // _ \| '__|/ _` | | || |/ __|| __|/ __|
                 \ V  V /|  __/| |  | (_| | | || |\__ \| |_ \__ \
                  \_/\_/  \___||_|   \__,_| |_||_||___/ \__||___/
+```
+* * *
+```
 ```
 * * *
 
@@ -25,5 +32,3 @@ files.  Although the majority of files have the *.txt* extension, pay attention
 because other file extensions have meaning as well (such as *.csv* or comma-
 separated values, eXtended Markup Language for *.xml* and non-ASCII in *.bin*
 files.)
-
-To get started, go to <https://github.com/decal/werdlists> ...
