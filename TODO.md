@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* create a `werdlists` command to perform common utility functions like search
 * rename every `index.lst` to `INDEX.md` so they can have markdown
 * `sort -u` all `INDEX.md` files to ensure uniqueness and alphabetization
 * delineate `opersys-strs/opsys-names-list` with newlines
@@ -11,5 +12,4 @@ Things To Do
 * write C program for cleaning up regular wordlists
 * write script/program for cleaning up CSV's and other types for `scripts/bin`
 * make extensions folder to for each file name extension
-* a file format should be associated with each extension: csv, txt, lst, etc.
 * add NetworkManager(8) environment variable names to the full list

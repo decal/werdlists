@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#
+# Show unique file name extensions found in the repository's directory hierarchy
+#
+
+if [ ! -L bin ]
+  then echo "usage: $0"
+  echo 
+  echo "Must be run from repository root!"
+  echo "ex. bin/uniq-file-exts"
+  echo
+
+  exit 1
+fi
+
+find . -maxdepth 1 -type d -name '*-*' -exec \
+  find {} \; -type f -name '*.*' -and -not -iname '*.lst' -exec \
+    basename {} \;  | awk '{ FS="." } {print($3);}'  | sort -u | \
+      tr '[A-Z]' '[a-z]' | egrep -v '^$'
+
+exit 0

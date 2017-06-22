@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+
+# search 
+parallel -j16 grep -rl testing_gem {1} ::: */*.{txt,x*}

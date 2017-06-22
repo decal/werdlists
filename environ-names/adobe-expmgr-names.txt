@@ -1,0 +1,7 @@
+JAVA_HOME                                                                                                           
+CQ_PORT                                                                                                             
+CQ_INTERFACE                                                                                                        
+CQ_LOGLEVEL                                                                                                         
+CQ_HEAP_MIN                                                                                                         
+CQ_HEAP_MAX                                                                                                         
+CQ_JVM_OPTS
