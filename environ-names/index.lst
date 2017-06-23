@@ -15,6 +15,8 @@ locale-environ-names: environment variable names for multi-language support
 macosx-pids-names: environment variable names from the Mac OSX process table
 mosh-environ-names: MObile SHell specific environment variable names
 netbsd-environ-names: NetBSD environment variable names
+phabricator-environ-names: Environment variable names for the Phabricator IDE
 resolv-environ-names: DNS resolver library configuration environment variables
+skygear-server-names: Skygear Backend-as-a-Service environ names of .env.example
 systemd-environ-names: system and service manager environment variable names
 zsh-environ-names: environment variables set by default in Debian Z shell
