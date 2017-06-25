@@ -1,0 +1,3 @@
+?WSDL
+?debug
+?WADL

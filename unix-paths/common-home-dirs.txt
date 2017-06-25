@@ -1,2 +1,3 @@
+mail
 Maildir
 public_html

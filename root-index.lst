@@ -28,6 +28,7 @@ html-words:
 http-cgi:
 http-headers:
 http-methods:
+http-params:
 http-paths:
 http-queries:
 http-status:
