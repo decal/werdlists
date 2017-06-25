@@ -43,6 +43,7 @@ X-FEServer
 X-Frame-Options
 X-Generator
 X-GENIUS-HOST
+X-GitHub-Request-Id
 X-HEIST
 X-Hello-Human
 X-Human
@@ -63,6 +64,9 @@ X-Powered-By
 X-Proxied
 X-Proxy-Cache-Status
 X-QosStats
+X-RateLimit-Limit
+X-RateLimit-Remaining
+X-RateLimit-Reset
 X-Recruiting
 X-Request-ID
 X-Robots-Tag
