@@ -1,0 +1,1 @@
+irclogs/{org,net,com}/global.log

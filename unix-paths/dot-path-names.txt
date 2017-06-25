@@ -1,0 +1,3 @@
+.irssi/config
+.nano/search_history
+.nano/filepos_history
