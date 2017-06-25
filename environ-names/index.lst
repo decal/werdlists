@@ -12,7 +12,8 @@ hesiod-environ-names: a name server interface library's environment variables
 libc-ldso-names: standard C library dynamic linker/loader environment names
 linux-pids-names: environment variable names from the Linux process table
 locale-environ-names: environment variable names for multi-language support
-macosx-pids-names: environment variable names from the Mac OSX process table
+macos-dyld-names: MacOS dynamic link editor environment variable names
+macos-pids-names: environment variable names from the Mac OSX process table
 mosh-environ-names: MObile SHell specific environment variable names
 netbsd-environ-names: NetBSD environment variable names
 phabricator-environ-names: Environment variable names for the Phabricator IDE
