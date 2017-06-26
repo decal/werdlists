@@ -1,5 +1,11 @@
 .byobu/color
 .byobu/color.tmux
 .irssi/config
+.knocker/knocker.conf
+.knocker/lastscan
 .nano/search_history
 .nano/filepos_history
+.subversion/README.txt
+.subversion/config
+.subversion/servers
+.vim/.netrwhist
