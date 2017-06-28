@@ -26,6 +26,7 @@ X-Cluster-Client-IP
 X-Forwarded
 X-Forwarded-For
 X-Forwarded-Host
+X-Forwarded-Server
 X-Forwarder
 X-Forwarder-For
 X-Forwarder-Host

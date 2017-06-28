@@ -18,6 +18,7 @@ dns-records:
 dns-resolv:
 dns-servers:
 dns-toplevel:
+environ-infos:
 environ-names:
 environ-values:
 exploit-info:

@@ -21,5 +21,6 @@ tty-group-dirs: directories with ownership by group tty
 tty-group-files: files with ownership by group tty 
 utmp-group-dirs: directories with ownership by utmp group
 utmp-group-files: files with ownership by utmp group
+whereis-lookup-paths: path names scanned by the whereis command from util-linux
 world-write-dirs: world-writable directories
 world-write-files: world-writable files
