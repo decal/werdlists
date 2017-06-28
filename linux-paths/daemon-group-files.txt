@@ -1,2 +1,2 @@
-/usr/bin/at
 /etc/at.deny
+/usr/bin/at

@@ -1,9 +1,9 @@
-/var/spool/cron/atjobs
-/var/spool/cron/atspool
 /proc/647
+/proc/647/attr
+/proc/647/net
 /proc/647/task
 /proc/647/task/647
-/proc/647/task/647/net
 /proc/647/task/647/attr
-/proc/647/net
-/proc/647/attr
+/proc/647/task/647/net
+/var/spool/cron/atjobs
+/var/spool/cron/atspool

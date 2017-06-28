@@ -3,9 +3,9 @@
 .irssi/config
 .knocker/knocker.conf
 .knocker/lastscan
-.nano/search_history
 .nano/filepos_history
-.subversion/README.txt
+.nano/search_history
 .subversion/config
+.subversion/README.txt
 .subversion/servers
 .vim/.netrwhist

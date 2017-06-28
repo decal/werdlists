@@ -1,5 +1,5 @@
-public_html/index.html
 irclogs/com/global.log
 irclogs/net/global.log
 irclogs/org/global.log
 irclogs/org/nickserv.log
+public_html/index.html

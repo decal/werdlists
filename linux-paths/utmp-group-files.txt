@@ -2,8 +2,8 @@
 /usr/bin/screen
 /usr/lib/libvte9/gnome-pty-helper
 /usr/lib/x86_64-linux-gnu/utempter/utempter
-/var/log/wtmp.1
-/var/log/wtmp
+/var/log/btmp
 /var/log/btmp.1
 /var/log/lastlog
-/var/log/btmp
+/var/log/wtmp
+/var/log/wtmp.1

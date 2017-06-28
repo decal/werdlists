@@ -1,9 +1,9 @@
+/usr/bin/dotlockfile
+/usr/bin/lockfile
 /usr/bin/mlock
 /usr/bin/procmail
-/usr/bin/lockfile
-/usr/bin/dotlockfile
-/usr/lib/xemacs-21.4.24/x86_64-linux-gnu/movemail
-/usr/lib/evolution/camel-lock-helper-1.2
 /usr/lib/emacs/24.5/x86_64-linux-gnu/movemail
-/var/mail/super
+/usr/lib/evolution/camel-lock-helper-1.2
+/usr/lib/xemacs-21.4.24/x86_64-linux-gnu/movemail
 /var/mail/mail
+/var/mail/super

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+#
+# Uniqify all files in current working directory with given extension
+#
+# Written by Derek Callaway [decal (AT) sdf {D0T} org]
+#
+# Wed Jun 28 15:04:15 PDT 2017
+#
+
+if [ ! "$1" ]
+  then echo
+  echo "usage: $0 EXT"
+  echo '  EXT  extension of filename(s) to remove duplicate entries from'
+  echo
+
+  exit 1
+fi
+
+declare -r dname="`pwd`"
+declare -a alist=(`ls -1 *.${1}`)
+
+if [[ ${#alist} -eq 0 ]]
+  then echo "${0}: No filenames with extension "${1}" in ${dname}"
+
+  exit 2
+fi
+
+for afile in *
+  do declare -x aname=$(basename --suffix="$1" -- "$afile")
+  sort --parallel=8 -u -- "$afile" > "${aname}tmp"
+  mv -v -- "${aname}tmp" "$afile"
+done
+
+exit 0

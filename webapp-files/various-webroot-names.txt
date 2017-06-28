@@ -1,3 +1,4 @@
+app.config
 backup.zip
 begin_gzip.php
 bzip2.php

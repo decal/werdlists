@@ -1,3 +1,11 @@
+LIBPROCESS_IP: Sets the IP address for communication to and from libprocess.
+LIBPROCESS_PORT: Sets the port for communication to and from libprocess.
+LIBPROCESS_ADVERTISE_IP: If set, this provides the IP address that will be advertised to the outside world for communication to and from libprocess. This is useful, for example, for containerized tasks in which communication is bound locally to a non-public IP that will be inaccessible to the master.
+LIBPROCESS_ADVERTISE_PORT: If set, this provides the port that will be advertised to the outside world for communication to and from libprocess. Note that this port will not actually be bound (the local LIBPROCESS_PORT will be), so redirection to the local IP and port must be provided separately.
+LIBPROCESS_REQUIRE_PEER_ADDRESS_IP_MATCH: If set, the IP address portion of the libprocess UPID in incoming messages is required to match the IP address of the socket from which the message was sent. This can be a security enhancement since it prevents unauthorized senders impersonating other libprocess actors. This check may break configurations that require setting LIBPROCESS_IP, or LIBPROCESS_ADVERTISE_IP. Additionally, multi-homed configurations may be affected since the address on which libprocess is listening may not match the address from which libprocess connects to other actors.
+LIBPROCESS_ENABLE_PROFILER: To enable the profiler, this variable must be set to 1. Note that this variable will only work if Mesos has been configured with --enable-perftools.
+LIBPROCESS_METRICS_SNAPSHOT_ENDPOINT_RATE_LIMIT: If set, this variable can be used to configure the rate limit applied to the /metrics/snapshot endpoint. The format is `/`. Examples: `10/1secs`, `100/10secs`, etc.
+LIBPROCESS_NUM_WORKER_THREADS: If set to an integer value in the range 1 to 1024, it overrides the default setting of the number of libprocess worker threads, which is the maximum of 8 and the number of cores on the machine.
 MESOS_FRAMEWORK_ID: FrameworkID of the scheduler needed as part of the SUBSCRIBE call.
 MESOS_EXECUTOR_ID: ExecutorID of the executor needed as part of the SUBSCRIBE call.
 MESOS_DIRECTORY: Path to the working directory for the executor on the host filesystem (deprecated).
@@ -8,3 +16,10 @@ MESOS_EXECUTOR_SHUTDOWN_GRACE_PERIOD: Amount of time the agent would wait for an
 MESOS_EXECUTOR_AUTHENTICATION_TOKEN: The token the executor should use to authenticate with the agent. When executor authentication is enabled, the agent generates a JSON web token (JWT) that the executor can use to authenticate with the agents default JWT authenticator.
 MESOS_RECOVERY_TIMEOUT: The total duration that the executor should spend retrying before shutting itself down when it is disconnected from the agent (e.g., 15mins, 5secs etc.). This is configurable at agent startup via the flag --recovery_timeout.
 MESOS_SUBSCRIPTION_BACKOFF_MAX: The maximum backoff duration to be used by the executor between two retries when disconnected (e.g., 250ms, 1mins etc.). This is configurable at agent startup via the flag --executor_reregistration_timeout.
+JAVA_HOME: Location of Java Development Kit (JDK).
+JAVA_CPPFLAGS: Preprocessor flags for JNI.
+JAVA_JVM_LIBRARY:	Full path to libjvm.so.
+MAVEN_HOME: Looks for mvn at MAVEN_HOME/bin/mvn.
+PROTOBUF_JAR: Full path to protobuf jar on prefixed builds.
+PYTHON: Which Python interpreter to use.
+PYTHON_VERSION: The installed Python version to use, for example '2.3'. This string will be appended to the Python interpreter canonical name.
