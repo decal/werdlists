@@ -27,6 +27,7 @@ ftp-commands:
 glibc-code:
 html-forms:
 html-words:
+http-agents:
 http-cgi:
 http-headers:
 http-methods:
