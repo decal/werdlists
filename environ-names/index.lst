@@ -9,6 +9,7 @@ dash-environ-names: environment variables set by default on Debian dash shell
 debian-shell-names: common names of environment variables in Debian BASH shell
 environ-manpage-names: environment variables listed in Linux manual pages
 environ-setenv-names: environment variables displayed by `env` at shell prompt
+etc-init-environ: environment variables parsed from scripts in `/etc/init`
 hesiod-environ-names: a name server interface library's environment variables
 libc-ldso-names: standard C library dynamic linker/loader environment names
 linux-pids-names: environment variable names from the Linux process table
@@ -20,6 +21,6 @@ msft-environ-names: Environment variables documented on the MSDN web site
 netbsd-environ-names: NetBSD environment variable names
 phabricator-environ-names: Environment variable names for the Phabricator IDE
 resolv-environ-names: DNS resolver library configuration environment variables
-skygear-server-names: Skygear Backend-as-a-Service environ names of .env.example
+skygear-server-names: Skygear Backend-as-a-Service environ names of `.env.example`
 systemd-environ-names: system and service manager environment variable names
 zsh-environ-names: environment variables set by default in Debian Z shell
