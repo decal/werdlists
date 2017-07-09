@@ -1,4 +1,3 @@
-Frame-Options
 X-AH-Environment
 X-amz-bucket-region
 X-Amz-Cf-Id
@@ -61,6 +60,9 @@ X-Permitted-Cross-Domain-Policies
 X-Pingback
 X-Pinterest-RID
 X-Powered-By
+x-prism-latency
+x-prism-origin-latency
+x-prism-roundtrip
 X-Proxied
 X-Proxy-Cache-Status
 X-QosStats
@@ -73,6 +75,7 @@ X-Robots-Tag
 X-Runtime
 X-Served-By
 X-Server
+x-status
 X-ThrowSite
 X-Timer
 X-Timestamp

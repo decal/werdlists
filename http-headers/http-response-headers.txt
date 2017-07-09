@@ -30,6 +30,7 @@ Date
 device_type
 ETag
 Expires
+Frame-Options
 host_service
 Keep-Alive
 Last-Modified
