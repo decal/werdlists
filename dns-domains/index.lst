@@ -6,6 +6,7 @@ edu-domain-names: various educational domain names
 gov-domain-names: various governmental domain names
 face-book-doms: hostnames for FaceBook's bug bounty program
 malware-domains-mirror: taken from malwaredomains.com
+malware-hosts-list: taken from malwaredomainlist.com
 ntld-launch-dates: New gTLD launches in chronological order via https://ntldstats.com/launch?start=
 special-use-domains: DNS domain names categorized as "Special-Use" by IANA
 top-level-names: New gTLD list taken from ntldstats.com
