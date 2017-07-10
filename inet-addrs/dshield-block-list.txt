@@ -1,0 +1,49 @@
+#      
+#   DShield.org Recommended Block List 
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://feeds.dshield.org/block.txt
+#     PGP Sign.: http://feeds.dshield.org/block.txt.asc
+#
+#   comments: info@dshield.org
+#    updated: Mon Jul 10 22:00:22 2017 UTC
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+Start	End	Netmask	Attacks	Name	Country	email
+80.82.77.0	80.82.77.255	24	3781	QUASINETWORKS ,	NL	abuse@quasinetworks.com
+155.94.88.0	155.94.88.255	24	3652	NODESDIRECT - Nodes Direct,	US	abuse@nodesdirect.com
+185.35.62.0	185.35.62.255	24	3437	KS-ASN1 This ASN is used for Internet security research. Internet-scale port scanning activities are launched from it. Don_t hesitate to contact portscan@nagra.com would you have any question.,	CH	abuse@nagra.com
+198.50.159.0	198.50.159.255	24	2906	OVH ,	FR	abuse@ovh.net
+91.211.3.0	91.211.3.255	24	2570	THREE-W-INFRA-AS ,	NL	abuse@3winfra.com
+162.244.80.0	162.244.80.255	24	2534	SERVERROOM - Data Room, Inc,	US	support@serverroom.net
+60.191.38.0	60.191.38.255	24	2227	CHINANET-BACKBONE No.31,Jin-rong Street,	CN	anti-spam@ns.chinanet.cn.net
+91.223.133.0	91.223.133.255	24	2222	NO_N	ZZ	no email on file
+80.82.70.0	80.82.70.255	24	2150	QUASINETWORKS ,	NL	abuse@quasinetworks.com
+5.188.11.0	5.188.11.255	24	2110	PIN-AS ,	RU	abuse@pinspb.ru
+91.211.2.0	91.211.2.255	24	2070	THREE-W-INFRA-AS ,	NL	abuse@3winfra.com
+111.38.26.0	111.38.26.255	24	2069	CMNET-GD Guangdong Mobile Communication Co.Ltd.,	CN	ipas@cnnic.cn
+104.193.252.0	104.193.252.255	24	1983	HOSTING-SOLUTIONS - Hosting Solution Ltd.,	US	abuse@king-servers.com
+216.158.238.0	216.158.238.255	24	1875	NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC,	US	gregg@njiix.net
+77.72.82.0	77.72.82.255	24	1841	NETUP-AS ,	RU	aospan@netup.ru
+5.188.10.0	5.188.10.255	24	1799	PIN-AS ,	RU	abuse@pinspb.ru
+45.55.0.0	45.55.0.255	24	1714	DIGITALOCEAN-ASN - Digital Ocean, Inc.,	US	abuse@digitalocean.com
+222.47.26.0	222.47.26.255	24	1686	CTTNET China TieTong Telecommunications Corporation,	CN	ipas@cnnic.cn
+45.55.2.0	45.55.2.255	24	1647	DIGITALOCEAN-ASN - Digital Ocean, Inc.,	US	abuse@digitalocean.com
+64.125.239.0	64.125.239.255	24	1546	ZAYO-6461 - Zayo Bandwidth Inc,	US	abuse@zayo.com
