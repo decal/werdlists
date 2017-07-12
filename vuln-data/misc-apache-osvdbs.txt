@@ -1,0 +1,168 @@
+  http://osvdb.org/58658 : Apache Rampart Crafted SOAP Request Security Verification Bypass
+  http://osvdb.org/58660 : Apache WSS4J checkReceiverResults Function Crafted SOAP Request Authentication Bypass
+  http://osvdb.org/58661 : Apache Jetspeed user-form.vm Password Reset Cleartext Disclosure
+  http://osvdb.org/58662 : Apache Axis JWS Page Generated .class File Direct Request Information Disclosure
+  http://osvdb.org/58663 : Apache Jetspeed Role Parameter Arbitrary Portlet Disclosure
+  http://osvdb.org/58664 : Apache Jetspeed EditAccount.vm Password Modification Weakness
+  http://osvdb.org/58665 : Apache Jetspeed Turbine: Cross-user Privileged Action Execution
+  http://osvdb.org/58666 : Apache Xerces-C++ UTF-8 Transcoder Overlong Code Handling Unspecified Issue
+  http://osvdb.org/58667 : Apache Roller Database Cleartext Passwords Disclosure
+  http://osvdb.org/58668 : Apache Axis XXE (Xml eXternal Entity) Parsing Privilege Escalation
+  http://osvdb.org/58669 : Apache Jetspeed LDAP Cleartext Passwords Disclosure
+  http://osvdb.org/58670 : Apache Jetspeed JetspeedTool.getPortletFromRegistry Portlet Security Validation Failure
+  http://osvdb.org/58671 : Apache Axis2 JMS Signed Message Crafted WS-Security Header Security Bypass
+  http://osvdb.org/58672 : Apache Open For Business Project (OFBiz) POS Input Panel Cleartext Password Disclosure
+  http://osvdb.org/58673 : Apache Open For Business Project (OFBiz) ecommerce/control/viewprofile Multiple Field XSS
+  http://osvdb.org/58674 : Apache Open For Business Project (OFBiz) ecommerce/control/login Multiple Field XSS
+  http://osvdb.org/58675 : Apache Open For Business Project (OFBiz) eCommerce/ordermgr Multiple Field XSS
+  http://osvdb.org/58684 : Apache Jetspeed controls.Customize Action Security Check Bypass
+  http://osvdb.org/58685 : Apache Velocity Template Designer Privileged Code Execution
+  http://osvdb.org/58686 : Apache Cocoon Temporary File Creation Unspecified Race Condition
+  http://osvdb.org/58687 : Apache Axis Invalid wsdl Request XSS
+  http://osvdb.org/58688 : Apache Xalan-Java (XalanJ2) Static Variables Multiple Unspecified Issues
+  http://osvdb.org/58689 : Apache Roller Retrieve Last 5 Post Feature Unauthorized Blog Post Manipulation
+  http://osvdb.org/58692 : Apache Geronimo Default Security Realm Login Brute Force Weakness
+  http://osvdb.org/58693 : Apache Derby service.properties File Encryption Key Information Disclosure
+  http://osvdb.org/58694 : Apache Geronimo Deploy Tool Process List Local Credential Disclosure
+  http://osvdb.org/58695 : Apache Jetspeed Unauthenticated PSML Tags / Admin Folder Access
+  http://osvdb.org/58696 : Apache Tapestry Encoded Traversal Arbitrary File Access
+  http://osvdb.org/58697 : Apache XalanJ2 org.apache.xalan.xsltc.runtime.CallFunction Class Unspecified Issue
+  http://osvdb.org/58698 : Apache Roller Remember Me Functionality Cleartext Password Disclosure
+  http://osvdb.org/58699 : Apache MyFaces Disable Property Client Side Manipulation Privilege Escalation
+  http://osvdb.org/58700 : Apache MyFaces /faces/* Path Handling Remote Overflow DoS
+  http://osvdb.org/58701 : Apache Jetspeed User Admin Portlet Unpassworded Account Creation Weakness
+  http://osvdb.org/58702 : Apache Directory Server (ApacheDS) Persistent LDAP Anonymous Bind Weakness
+  http://osvdb.org/58703 : Apache Geronimo Debug Console Unauthenticated Remote Information Disclosure
+  http://osvdb.org/58704 : Apache Directory Server (ApacheDS) Non-existent User LDAP Bind Remote DoS
+  http://osvdb.org/58705 : Apache Directory Server (ApacheDS) User Passwords Cleartext Disclosure
+  http://osvdb.org/58706 : Apache HttpClient Preemptive Authorization Remote Credential Disclosure
+  http://osvdb.org/58707 : Apache WSS4j Crafted PasswordDigest Request Authentication Bypass
+  http://osvdb.org/58716 : Apache Jetspeed PSML Management Cached Constraint Authentication Weakness
+  http://osvdb.org/58717 : Apache Jetspeed Portlet Application Edit Access Restriction Bypass
+  http://osvdb.org/58718 : Apache Geronimo Deployment Plans Remote Password Disclosure
+  http://osvdb.org/58719 : Apache Geronimo Keystore Unprivileged Service Disable DoS
+  http://osvdb.org/58720 : Apache Geronimo Explicit Servlet Mapping Access Bypass Weakness
+  http://osvdb.org/58721 : Apache Geronimo on Tomcat Security-constraint Resource ACL Bypass
+  http://osvdb.org/58722 : Apache Derby Connection URL Encryption Method Reversion Weakness
+  http://osvdb.org/58723 : Apache Roller User Profile / Admin Page Cleartext Password Disclosure
+  http://osvdb.org/58724 : Apache Roller Logout Functionality Failure Session Persistence
+  http://osvdb.org/58725 : Apache Tapestry Basic String ACL Bypass Weakness
+  http://osvdb.org/58731 : Apache MyFaces /faces/* Prefix Mapping Authentication Bypass
+  http://osvdb.org/58732 : Apache MyFaces UIInput.validate() Null Value Validation Bypass Weakness
+  http://osvdb.org/58733 : Apache Axis2 doGet Implementation Authentication Bypass Service State Manipulation
+  http://osvdb.org/58734 : Apache Torque Log File Cleartext Credential Local Disclosure
+  http://osvdb.org/58735 : Apache Open For Business Project (OFBiz) /ecommerce/control/keywordsearch SEARCH_STRING Parameter XSS
+  http://osvdb.org/58737 : Apache mod_python w/ mod_python.publisher index.py Underscore Prefixed Variable Disclosure
+  http://osvdb.org/58738 : Apache Open For Business Project (OFBiz) orderId Parameter Arbitrary Order Access
+  http://osvdb.org/58739 : Apache Open For Business Project (OFBiz) Unsalted Password Weakness
+  http://osvdb.org/58740 : Apache Rampart TransportBinding Message Payload Cleartext Disclosure
+  http://osvdb.org/58741 : Apache Rampart WSSecSignature / WSSecEncryptedKey KeyIdentifierType Validation Weakness
+  http://osvdb.org/58742 : Apache Rampart PolicyBasedValiadtor HttpsToken Endpoint Connection Weakness
+  http://osvdb.org/58743 : Apache Wicket wicket.util.crypt.SunJceCrypt Encryption Reversion Weakness
+  http://osvdb.org/58744 : Apache Wicket Crafted File Upload Disk Space Exhaustion DoS
+  http://osvdb.org/58746 : Apache Axis2 JAX-WS Java2 WSDL4J Unspecified Issue
+  http://osvdb.org/58747 : Apache MyFaces Trinidad Error Message User Entered Data Disclosure Weakness
+  http://osvdb.org/58748 : Apache MyFaces Trinidad Image Resource Loader Traversal Arbitrary Image Access
+  http://osvdb.org/58749 : Apache MyFaces Trinidad Database Access Error Message Information Disclosure
+  http://osvdb.org/58750 : Apache MyFaces Trinidad Generated HTML Information Disclosure
+  http://osvdb.org/58751 : Apache Geronimo GeronimoIdentityResolver Subject Handling Multiple Issues
+  http://osvdb.org/58754 : Apache Harmony File.createTempFile() Temporary File Creation Prediction Weakness
+  http://osvdb.org/58755 : Apache Harmony DRLVM Non-public Class Member Access
+  http://osvdb.org/58756 : Apache WSS4J WSHandler Client Certificate Signature Validation Weakness
+  http://osvdb.org/58757 : Apache WS-Commons Java2 StaXUtils Multiple Unspecified Minor Issues
+  http://osvdb.org/58758 : Apache River GrantPermission Policy Manipulation Privilege Escalation
+  http://osvdb.org/58759 : Apache Jackrabbit Content Repository (JCR) UUID System.currentTimeMillis() RNG Weakness
+  http://osvdb.org/58760 : Apache Commons VFS Exception Error Message Cleartext Credential Disclosure
+  http://osvdb.org/58761 : Apache JSPWiki Wiki.jsp skin Parameter XSS
+  http://osvdb.org/58762 : Apache JSPWiki Multiple .java Tags pageContext Parameter XSS
+  http://osvdb.org/58763 : Apache JSPWiki Include Tag Multiple Script XSS
+  http://osvdb.org/58764 : Apache JSPWiki Edit.jsp Multiple Parameter XSS
+  http://osvdb.org/58765 : Apache JSPWiki Spam Filter UniqueID RNG Weakness
+  http://osvdb.org/58766 : Apache JSPWiki /admin/SecurityConfig.jsp Direct Request Information Disclosure
+  http://osvdb.org/58767 : Apache JSPWiki Authentication Error Message Information Disclosure
+  http://osvdb.org/58768 : Apache JSPWiki Attachment Servlet nextpage Parameter Arbitrary Site Redirect
+  http://osvdb.org/58769 : Apache JSPWiki Database Connection Termination DoS Weakness
+  http://osvdb.org/58770 : Apache JSPWiki Group.jsp group Parameter XSS
+  http://osvdb.org/58771 : Apache JSPWiki GroupContent.jsp Multiple Parameter XSS
+  http://osvdb.org/58772 : Apache JSPWiki EditorManager.java editor Parameter XSS
+  http://osvdb.org/58773 : Apache JSPWiki Accept-Language Header Multiple Script language Parameter XSS
+  http://osvdb.org/58774 : Apache JSPWiki Edit.jsp Multiple Parameter XSS
+  http://osvdb.org/58775 : Apache JSPWiki preview.jsp action Parameter XSS
+  http://osvdb.org/58776 : Apache JSPWiki PreviewContent.jsp Edited Text XSS
+  http://osvdb.org/58789 : Apache WSS4J SOAP Header Malformed UsernameToken Authentication Bypass
+  http://osvdb.org/58790 : Apache WSS4J SOAP Message UsernameToken Remote Password Disclosure
+  http://osvdb.org/58791 : Apache Synapse synapse.properties Cleartext Credential Local Disclosure
+  http://osvdb.org/58792 : Apache Shindig gadgets.rpc iframe RPC Call Validation Weakness
+  http://osvdb.org/58793 : Apache Hadoop mapred.system.dir Permission Weakness Job Manipulation
+  http://osvdb.org/58794 : Apache Roller Admin Protocol (RAP) Malformed Header Authentication Bypass
+  http://osvdb.org/58795 : Apache Rampart Crafted SOAP Header Authentication Bypass
+  http://osvdb.org/58796 : Apache Jetspeed Unsalted Password Weakness
+  http://osvdb.org/58797 : Apache Jetspeed Password Policy Multiple Weaknesses
+  http://osvdb.org/58798 : Apache Jetspeed pipeline Parameter pipeline-map Policy Bypass
+  http://osvdb.org/58799 : Apache Tapestry Logging Cleartext Password Disclosure
+  http://osvdb.org/58800 : Apache Tapestry (context)/servicestatus Internal Service Information Disclosure
+  http://osvdb.org/58801 : Apache ActiveMQ Stomp Client Credential Validation Bypass
+  http://osvdb.org/58802 : Apache Directory Server (ApacheDS) userPassword Attribute Search Password Disclosure
+  http://osvdb.org/58803 : Apache Wicket Session Fixation
+  http://osvdb.org/58804 : Apache Wicket Header Contribution Unspecified Issue
+  http://osvdb.org/58805 : Apache Derby Unauthenticated Network Server Shutdown DoS
+  http://osvdb.org/58806 : Apache FtpServer MINA Logging Filter Cleartext Credential Local Disclosure
+  http://osvdb.org/58807 : Apache Open For Business Project (OFBiz) Multiple Unspecified CSRF
+  http://osvdb.org/58808 : Apache Open For Business Project (OFBiz) /catalog/control/createProduct internalName Parameter XSS
+  http://osvdb.org/58809 : Apache Open For Business Project (OFBiz) /partymgr/control/viewprofile partyId Parameter XSS
+  http://osvdb.org/58810 : Apache Open For Business Project (OFBiz) /catalog/control/EditProdCatalo prodCatalogId Parameter XSS
+  http://osvdb.org/58811 : Apache Open For Business Project (OFBiz) /catalog/control/EditProductConfigItem configItemId Parameter XSS
+  http://osvdb.org/58812 : Apache Open For Business Project (OFBiz) JSESSIONID Session Hijacking Weakness
+  http://osvdb.org/58813 : Apache MyFaces Trinidad tr:table / HTML Comment Handling DoS
+  http://osvdb.org/58837 : Apache Commons Net FTPSClient CipherSuites / Protocols Mutable Object Unspecified Data Security Issue
+  http://osvdb.org/58973 : Apache Tuscany Crafted SOAP Request Access Restriction Bypass
+  http://osvdb.org/58974 : Apache Sling /apps Script User Session Management Access Weakness
+  http://osvdb.org/58975 : Apache Open For Business Project (OFBiz) PARTYMGR_CREATE/UPDATE Permission Arbitrary User Password Modification
+  http://osvdb.org/58976 : Apache Open For Business Project (OFBiz) URI passThru Parameter XSS
+  http://osvdb.org/58977 : Apache Open For Business Project (OFBiz) Multiple Default Accounts
+  http://osvdb.org/58978 : Apache MyFaces Trinidad LocaleInfoScriptlet XSS
+  http://osvdb.org/58979 : Apache MyFaces Tomahawk ExtensionsPhaseListener HTML Injection Information Disclosure
+  http://osvdb.org/58980 : Apache Geronimo LDAP Realm Configuration Restart Reversion Weakness
+  http://osvdb.org/58981 : Apache Geronimo TomcatGeronimoRealm Security Context Persistence Weakness
+  http://osvdb.org/58982 : Apache Synapse Proxy Service Security Policy Mismatch Weakness
+  http://osvdb.org/58983 : Apache Jackrabbit Content Repository (JCR) NamespaceRegistry API Registration Method Race Condition
+  http://osvdb.org/58984 : Apache Jackrabbit Content Repository (JCR) Default Account Privilege Access Weakness
+  http://osvdb.org/58985 : Apache Qpid Process Listing Local Cleartext Password Disclosure
+  http://osvdb.org/58986 : Apache Qpid Encrypted Message Handling Remote Overflow DoS
+  http://osvdb.org/58987 : Apache Hadoop Map/Reduce TaskTracker User File Permission Weakness
+  http://osvdb.org/58988 : Apache Hadoop Chukwa HICC Portal Unspecified XSS
+  http://osvdb.org/58989 : Apache Hadoop Sqoop Process Listing Local Cleartext Password Disclosure
+  http://osvdb.org/58990 : Apache Hadoop Map/Reduce HTTP TaskTrackers User Data Remote Disclosure
+  http://osvdb.org/58991 : Apache Hadoop browseDirectory.jsp XSS
+  http://osvdb.org/58992 : Apache Hadoop tail.jsp XSS
+  http://osvdb.org/58993 : Apache Hadoop browseBlock.jsp XSS
+  http://osvdb.org/58994 : Apache Hadoop Map/Reduce DistributedCache Localized File Permission Weakness
+  http://osvdb.org/58995 : Apache Hadoop Map/Reduce Task Ownership Weakness
+  http://osvdb.org/58996 : Apache Hadoop Map/Reduce LinuxTaskController File Group Ownership Weakness
+  http://osvdb.org/58997 : Apache OpenEJB openejb.xml Cleartext Password Local Disclosure
+  http://osvdb.org/58998 : Apache OpenJPA persistence.xml Cleartext Password Local Disclosure
+  http://osvdb.org/58999 : Apache WSS4J CallbackHandler Plaintext Password Validation Weakness
+  http://osvdb.org/59000 : Apache CXF Unsigned Message Policy Bypass
+  http://osvdb.org/59001 : Apache Axis2 WSInsane xsd Parameter Traversal Arbitrary File Disclosure
+  http://osvdb.org/59002 : Apache Jetspeed default-page.psml URI XSS
+  http://osvdb.org/59003 : Apache HttpClient POST Request Handling Memory Consumption DoS
+  http://osvdb.org/59004 : Apache Beehive Error Message XSS
+  http://osvdb.org/59005 : Apache Beehive jpfScopeID Global Parameter XSS
+  http://osvdb.org/59006 : Apache Beehive select / checkbox Tag XSS
+  http://osvdb.org/59007 : Apache Solr schema.jsp Multiple Parameter XSS
+  http://osvdb.org/59008 : Apache Solr analysis.jsp XSS
+  http://osvdb.org/59009 : Apache Solr action.jsp XSS
+  http://osvdb.org/59010 : Apache Solr get-file.jsp XSS
+  http://osvdb.org/59011 : Apache JSPWiki Page Attachment Change Note Function XSS
+  http://osvdb.org/59012 : Apache Derby Driver Auto-loading Non-deterministic Startup Weakness
+  http://osvdb.org/59013 : Apache Derby SYSCS_EXPORT_TABLE Arbitrary File Overwrite
+  http://osvdb.org/59018 : Apache Harmony Error Message Handling Overflow
+  http://osvdb.org/59019 : Apache mod_python Cookie Salting Weakness
+  http://osvdb.org/59020 : Apache Tapestry HTTPS Session Cookie Secure Flag Weakness
+  http://osvdb.org/59021 : Apache Cocoon X-Cocoon-Version Header Remote Information Disclosure
+  http://osvdb.org/59022 : Apache Shindig ConcatProxyServlet HTTP Header Response Splitting
+  http://osvdb.org/59944 : Apache Hadoop jobhistory.jsp XSS
+  http://osvdb.org/60677 : Apache CouchDB Unspecified Document Handling Remote DoS
+  http://osvdb.org/60678 : Apache Roller Comment Email Notification Manipulation DoS
+  http://osvdb.org/60679 : Apache ODE DeploymentWebService OMElement zipPart CRLF Injection
+  http://osvdb.org/60680 : Apache Hadoop JobHistory Job Name Manipulation Weakness
