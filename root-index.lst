@@ -68,6 +68,7 @@ string-enums:
 system-admin:
 system-calls:
 tls-acls:
+top-secret:
 unicode-art:
 unix-data:
 unix-paths:
