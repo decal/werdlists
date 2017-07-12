@@ -65,11 +65,13 @@ smtp-messages:
 soap-messages:
 software-strs:
 string-enums:
+system-admin:
 system-calls:
 tls-acls:
 unicode-art:
 unix-data:
 unix-paths:
+vuln-data:
 webapp-data:
 webapp-dirs:
 webapp-files:
