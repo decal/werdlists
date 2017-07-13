@@ -1,5 +1,8 @@
 apt-cache-search: list of Debian packages gathered via empty cache search string
 apt-config-dump: sample contents of Debian APT's configuration space
+bash-function-bindings: bash shell function bindings as listed with `bind -l`
+bash-shell-builtins: bash shell builtins as viewed via `enable -a`
+bash-shell-options: bash shell options as managed by the `shopt` builtin
 dot-path-names: various path names, i.e. files and dirs prepended with a period
 git-command-descs: git command names with manual page sections and descriptions
 kali-dpkg-list: A list of package names gathered with apt-cache on Kali Linux
