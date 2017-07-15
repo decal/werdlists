@@ -55,6 +55,7 @@ passes-dicts:
 passes-sites:
 perl-data:
 port-nums:
+python-data:
 regex-dicts:
 remote-urls:
 ruby-data:
