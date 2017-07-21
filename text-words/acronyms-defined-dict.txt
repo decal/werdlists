@@ -1,0 +1,310 @@
+A&A - Assessment and Authorization
+ADP - Automated Data Processing
+AES - Advanced Encryption Standard
+AFC4A - Air Force C4 Agency
+AFI - Air Force Instruction
+AFIWC - Air Force Information Warfare Center
+AFOSI - Air Force Office of Special Investigation
+AFPD - Air Force Policy Directive
+AIMS - Automated Infrastructure Management System
+AIS - Automated Information Systems
+AMIDS - Audit Monitoring and Intrusion Detection System
+ANSI - American National Standards Institute
+AO - authorizing official
+AODR - authorizing official designated representative
+ASD(C31) - Assistant Secretary of Defense for Command, Control, Communication and Intelligence
+ASIMS - Automated Security Incident Measuring System
+ASSIST- Automated System Security Incident Support Team
+ATC - Authorization to Connect
+ATD - authorization termination date
+ATM - Asynchronous Transfer Mode
+ATO - Authorization to Operate
+BIOS - basic input and output system
+BMA - business mission area
+C&A - Certification and Accreditation
+C&A WG - Certification and Accreditation Working Group
+C2 - Command and Control
+C2W - Command and Control Warfare
+C4 - Command, Control, Communications, and Computers
+C4ISR - Command, Control, Communications, Computer, Intelligence, Surveilance and Reconnaisssance
+CA - Certification Authority
+CAAP - Critical Asset Assurance Program
+CAC - Common Access Card
+CAL - Category Assurance List
+CAP - Connection Approval Program
+CC - Common Criteria
+CCA - Clinger-Cohen Act
+CCB - Configuration Control Board
+CCI - control correlation identifier
+CD - Cross Domain
+CDS - cross-domain solution
+CERT - Computer Emergency Response Team
+CERT/CC - CERT/Coordination Center
+CFR - Code of Federal Regulations
+CI - Counterintelligence
+CIAC - Computer Incident Advisory Capability
+CIAO - Critical Infrastructure Assurance office
+CIO - Chief Information Officer
+CIP - Critical Infrastructure Protection
+CIPWG - Critical Infrastructure Protection Working Group
+CIRT - Computer Incident Response Team
+CISA - C4I Integration Support Activity
+CITAC - Computer Investigation and Infrastructure Threat Assessment Center
+CJCS - Chairman of the Joint Chiefs of Staff
+CJCSI - Chairman, Joints Chiefs of Staff Instruction
+CMDS - Computer Misuse Detection System
+CMS - COMSEC Management System
+CNA - Computer Network Attack
+CNDSP - computer network defense service provider
+CNSS - Committee on National Security Systems
+CNSSI - Committee on National Security Systems Instruction
+CNSSP - Committee on National Security Systems Policy
+COE - Common Operating Environment
+COMSEC - Communications Security
+CONOPS - Concept of Operations
+COTS - Commericial Off-the-Shelf
+CSA - Computer Security Act
+CSIR - Computer (and Network) Security Incident Response
+CSS - Central Security Service
+CSSO - Computer Systems Security Officers
+CUI - controlled unclassified information
+DAA - Designated Approving Authority (DAA)
+DARPA - Defense Advanced Research Projects Agency
+DASD - Deputy Assistant Secretary of Defense
+DASD(DT&E) - Deputy Assistant Secretary of Defense for Developmental Test and Evaluation
+DATO - denial of authorization to operate
+DCI - Director of Central Intelligence
+DCID - Director of Central Intelligence Directive
+DCMO - Deputy Chief Management Office
+DCPDS - Defense Civilian Personnel Data System
+DES - Digital Encryption Standard
+DIA - Defense Intelligence Agency
+DIACAP - DoD Information Assurance Certification and Accreditation Process 
+DIACCS - Defense IA Command and Control System
+DIAMOND - Defense Intrusion Analysis & Monitoring Desk
+DIAP - Defense Information Assurance Program
+DIB - Defense Industrial Base
+DIDS - Distributed Intrusions Detection System
+DII - Defense Information Infrastructure
+DIMA - DoD portion of the intelligence mission area
+DIRNSA - Director, National Security Agency
+DISA - Defense Information Systems Agency
+DISN - Defense Information System Network
+DITPR - DoD Information Technology Portfolio Repository
+DITSCAP - DoD IT Security Certification and Accreditation Process
+DITSWG - Defense Information Technology Security Working Group
+DMC - Defense MegaCenter
+DMS - Defense Message System
+DNI - Director of National Intelligence
+DNS - Domain Name Servers
+DoD - Department of Defense
+DoD CIO - DoD Chief Information Officer
+DoD ISRMC - DoD Information Security Risk Management Committee
+DoDD - Department of Defense Directive
+DoDI - DoD Instruction
+DoDIIS - DoD Intelligence Information System
+DODIN - Department of Defense information networks
+DoDM - DoD manual
+DoE - Department of Energy
+DoN - Department of the Navy
+DOT&E - Director, Operational Test and Evaluation
+DREN - Defense Research and Engineering Network
+DSAWG - Defense IA Security Accreditation Working Group
+DSS - Defense Security Service
+DT&E - developmental test and evaluation
+DTM - directive-type memorandum
+E/APL - Evaluated Approved Product
+EAL - Evaluation Assurance Level
+EFOIA - Electronic Freedom of Information Act
+EIEMA - enterprise information environment mission area
+EITDR - Enterprise Information Technology Database Repository
+eMASS - Enterprise Mission Assurance Support Service
+EOP - Executive Office of the President
+ETA - Education, Training and Awareness
+ETAPWG - Education, Training, Awareness and Professionalization Working Group 
+FIPSPUB - Federal Information Processing Standard Publication
+FIRST - Forum of Incident Resonse and Security Teams
+FISMA - Federal Information Security Management Act
+FIWC - Fleet information Warfare Center
+FN - foreign national
+FOIA - Freedom of information Act
+FSO - Field Security Office
+FTS - Federal Telecommunications Service
+GAO - General Accounting Office
+GCCS - Global Command and Control System
+GCSS - Global Combat Support System
+GIG - Global Information Grid
+GMITS - Guidelines for the Management of IT Security
+GOSC - Global Operations and Security Center
+GOTS- Government Off-the-Shelf
+GSA - General Services Administration
+GSII - Government Services Information Infrastructure
+HBSS - Host Based Security System
+I&W - Indications and Warning
+IA - Information Assurance
+IAD - Information Assurance Document
+IAG - information Assurance Group
+IAM - Information Assurance Manager
+IAO - Information Assurance Officer
+IAPWG - Information Assurance Policy Working Group
+IASE - Information Assurance Support Environment
+IATAC -Information Assurance Technology Analysis Center
+IATC - Interim Authority to Connect
+IATO - Intermin Authority to Operate
+IATT - Intermin Authority to Test
+IAVA - Information Assurance Vulnerability Alert
+IC - Intelligence Community
+IEEE - Institute for Electrical and Electronics Engineers
+INFOCONs - Information Operations Conditions
+INFOSEC - Information Systems Security
+INFOSYS - Information Systems
+IO - Information Operations
+IP - Internet Protocol
+IPMO - INFOSEC Program Management Office
+IPR - Internet Protocol Router
+IPSec - Internet Protocol Security
+IPTF - Infrastructure Protection Task Force
+IRC - INFOSEC Research Council
+IRM - Information Resource Management
+IRS - Incident Reporting Structure
+IRT - Incident Response Team
+IS - information system
+ISO - International Organization for Standardization
+ISRMC - Information Security Risk Management Committee
+ISSM - Information System Security Manager
+ISSO - Information System Security Officer
+IT - Information Technology
+ITMRA - Information Technology Management Reform Act
+IW - Information Warfare
+IW-D -Information Warfare - Defensive
+JCCC - Joint Communications Control Center
+JCIDS - Joint Capabilities Integration and Development System
+JDIICS - Joint DII Control Systems
+JID - Joint Intrusion Detection
+JIE - Joint Information Environment
+JIEO - Joint Interoperability Engineering Organization
+JIWG - Joint IA Operations Working Group
+JPO STC - Joint Program Office for Special Technical Countermeasures
+JTF-CNO - Joint Task Force - Computer Network Operations
+JWICS - Joint Worldwide Intelligence Communications System
+JWID - Joint Warrior Interoperability Demonstration
+KMI - Key Management Infrastructure
+KS - Knowledge Service
+LE - law enforcement
+LE/CI - law enforcement and counterintelligence
+LEA - Law Enforcement Agency
+MA - mission area
+MCDES - Malicious Code Detection and Eradication System
+MLS WG - Multilevel Security Working Group
+MOA - memorandum of agreement
+MOU - memorandum of understanding
+NA - not applicable
+NACIC - National Counterintelligence Center
+NC - non-compliant
+NCIS - Naval Criminal Investiative Service
+NCSC - National Computer Security Center
+NDU - National Defense University
+NIAC -  National Infrastructure Assurance Council
+NID - Network Intrusion Detector
+NII - National Information Infrastructure
+NIPC - National Infrastructure Protection Center
+NIPRNet - Non-Classified Internet Protocol Router Network
+NISP - National Industrial Security Program
+NIST - National Institute of Standards and Technology
+NITB - National INFOSEC Technical baseline
+NOC - Network Operating Centers
+NOSC - Network Operation Security Center
+NS/EP - National Security and Emergency Preparedness
+NSA - National Security Agency
+NSD - National Security Directive
+NSIRC - National Security Incident Response Center
+NSOC - National Security Operations Center
+NSS - National Security System
+NSTAC - National Security Telecommunication Advisory Committee
+NSTISSC - National Security Telecommunications and Information Systems Security Committee
+NSTISSI - National Security Telecommunications and Information Systems Security Instruction
+NSU - non-standard usage
+OASD(C3I) - Office of the Assistant Secretary of Defense (Command, Control, Communications, and Intelligence)
+OIG DoD - Office of the Inspector General of the Department of Defense
+OMB - Office of Management and Budget
+OPSEC - Operations Security
+ORNL - Oak Ridge National Laboratory
+OSD - Office of the Secretary of Defense
+OSD/JS - Office of the Secretary of Defense/Joint Staff
+OT&E - operational test and evaluation
+OUSD(P) - Office of the Under Secretary of Defense (Policy)
+PAO - principal authorizing official
+PCCIP - President's Commission on Critical Infrastructure Protection
+PGP - Pretty Good Privacy
+PIA - privacy impact assessment
+PII - personally identifiable information
+PIN - Personal Identification Number
+PIT - platform information technology
+PKI - Public Key Infrastructure
+PM - program manager
+PM/SM - program manager/system manager
+POA&M - Plan of Action and Milestones
+POM - Program Objective Memorandum
+PPP - program protection plan
+PPS - Internet protocol suite and associated ports
+PPSM - ports, protocols, and services management
+PPTP - Point-to-Point Tunneling Protocol
+There are no items to show in this view of the "Cybersecurity Acronyms" list.
+RCERTs - Regional Computer Emergency Response Teams
+RDT&E - Research, Development, Test and Evaluation
+RMF - Risk Management Framework
+ROSC - Regional Operations and Security Center
+RT&E - research, test, and evaluation
+SABI - Secret and Below Interoperability
+SABI WG - Secret and Below Interoperability Working Group
+SAP - special access program
+SAPCO - SAP Central Office
+SAR - security assessment report
+SATAN - Systems Administrators' Tool for Assessing Networks
+SBU - Sensitive-But-Unclassified
+SCA - security control assessor
+SCAO - SIPRNET Connection Approval Office
+SCAP - security content automation protocol
+SCCVI - Secure Configuaration Compliance Validation Initiative
+SCG - Security Configuration Guide
+SCI - Sensitive Compartment Information
+SCRI - Secure Compliance Remediation Intiative
+SECDEF - Secretary of Defense
+SEI - Software Engineering Institute
+SET - Secure Encrypted Transaction
+SIO - Special Information Operations
+SIPRNet - Secret Internet Protocol Router Network
+SISO - Senior Information Security Officer
+SITR - Secret Internet Protocol Router Network Information Technology Registry
+SLA - Service-level agreement
+SM - system manager
+SNAP - Systems/Networks Approval Process
+SP - Special Publication
+SPB - Security Policy Board
+SRG - security requirements guide
+SSAA - Systems Security Authorization Agreement
+SSE - system security engineering
+STIGs - Security Technical Implementation Guides
+T&E - test and evaluation
+TAG - Technical Advisory Group
+THREATCON - Threat Condition
+TPM - trusted platform module
+TRANSEC - Transmission Security
+TRMC - Test Resource Management Center
+TSN - trusted systems and networks
+U.S.C. - United States Code
+UC - unified capabilities
+UCAO - Unclassified Connection Approval Office
+UCDMO - Unified Cross Domain Management Office
+UCMJ - Uniform Code of Military Justice
+UR - user representative
+URL - Uniform Resource Locator (Universal Resource Locator)
+USD(AT&L) - Under Secretary of Defense for Acquisition, Technology, and Logistics
+USD(I) - Under Secretary of Defense for Intelligence
+USD(P&R) - Under Secretary of Defense for Personnel and Readiness
+USD(P) - Under Secretary of Defense for Policy
+USSTRATCOM - United States Strategic Command
+VAAP - Vulnerability and Assessment Program
+VAS - Vulnerability Assessment System
+VPN - Virtual Private Network
+WMA - warfighting mission area
