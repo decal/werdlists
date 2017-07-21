@@ -1,0 +1,834 @@
+Data::Dump (1.23) - Pretty printing of data structures
+Data::Dump::Filtered - Pretty printing with filtering
+Data::Dump::Trace (0.02) - Helpers to trace function and method calls
+AptPkg (1.15) - interface to libapt-pkg
+Cairo (1.106) - Perl interface to the cairo 2d vector graphics library
+Clone (0.38) - recursively copy Perl datatypes
+DBI (1.634) - Database independent interface for Perl
+FCGI (0.77) - Fast CGI module
+GD (2.53) - Interface to Gd Graphics Library
+Glib (1.320) - Perl wrappers for the GLib utility and Object libraries
+Gtk2 (1.2498) - Perl interface to the 2.x series of the Gimp Toolkit library
+PadWalker (2.2) - play with other peoples' lexical variables
+Pango (1.227) - Layout and render international text
+Socket6 (0.25) - IPv6 related part of the C socket.h defines and structure manipulators
+forks (0.36) - drop-in replacement for Perl threads using fork()
+indirect (0.36) - Lexically warn about using the indirect method call syntax.
+multidimensional (0.010) - disables multidmensional array emulation
+Acme::Damn (0.06) - 'Unbless' Perl objects.
+Algorithm::Diff::XS (1.1903) - Algorithm::Diff with XS core loop
+AptPkg::Cache (1.25) - APT package cache interface
+AptPkg::PkgRecords (1.2) - APT package description class
+AptPkg::Policy (1.1) - APT package version policy class
+AptPkg::Source (1.4) - APT source package interface
+AptPkg::System (1.4) - APT system abstraction class
+AptPkg::Version (1.7) - APT package versioning class
+AptPkg::hash (1.6) - a helper class for implementing tied hashes
+B::Hooks::OP::Check (0.19) - Wrap OP check callbacks
+Bundle::DBI (12.008696) - A bundle to install DBI and required modules.
+Class::MethodMaker (2.24) - Create generic methods for OO Perl
+Class::XSAccessor (1.19) - Generate fast XS accessors without runtime compilation
+Class::MethodMaker::Constants - The Constants Class for Class::MethodMaker
+Class::MethodMaker::Engine (2.24) - The parameter passing, method installation & non-data-structure methods of Class::MethodMaker.
+Class::MethodMaker::OptExt - Constants for C::MM's option extension mechanism
+Class::MethodMaker::V1Compat - V1 compatibility code for C::MM
+Class::MethodMaker::array - Create methods for handling an array value.
+Class::MethodMaker::hash - Create methods for handling a hash value.
+Class::MethodMaker::scalar - Create methods for handling a scalar value.
+Class::XSAccessor::Array (1.19) - Generate fast XS accessors without runtime compilation
+Class::XSAccessor::Heavy (1.19) - Guts you don't care about
+Cpanel::JSON::XS (3.0210) - cPanel fork of JSON::XS, fast and correct serializing
+Cpanel::JSON::XS::Boolean - dummy module providing JSON::XS::Boolean
+DBD::DBM (0.08) - a DBI driver for DBM & MLDBM files
+DBD::File (0.44) - Base class for writing file based DBI drivers
+DBD::Gofer (0.015327) - A stateless-proxy driver for communicating with a remote DBI
+DBD::Proxy - A proxy driver for the DBI
+DBD::Sponge (12.010003) - Create a DBI statement handle from Perl data
+DBD::mysql (4.033) - MySQL driver for the Perl5 Database Interface (DBI)
+DBD::Gofer::Policy::Base (0.010088) - Base class for DBD::Gofer policies
+DBD::Gofer::Policy::classic (0.010088) - The 'classic' policy for DBD::Gofer
+DBD::Gofer::Policy::pedantic (0.010088) - The 'pedantic' policy for DBD::Gofer
+DBD::Gofer::Policy::rush (0.010088) - The 'rush' policy for DBD::Gofer
+DBD::Gofer::Transport::Base (0.014121) - base class for DBD::Gofer client transports
+DBD::Gofer::Transport::corostream - Async DBD::Gofer stream transport using Coro and AnyEvent
+DBD::Gofer::Transport::null (0.010088) - DBD::Gofer client transport for testing
+DBD::Gofer::Transport::pipeone (0.010088) - DBD::Gofer client transport for testing
+DBD::Gofer::Transport::stream (0.014599) - DBD::Gofer transport for stdio streaming
+DBI::Changes - List of significant changes to the DBI
+DBI::DBD (12.015129) - Perl DBI Database Driver Writer's Guide
+DBI::FAQ (1.014935) - The Frequently Asked Questions for the Perl5 Database Interface
+DBI::Profile (2.015065) - Performance profiling and benchmarking for the DBI
+DBI::ProfileData (2.010008) - manipulate DBI::ProfileDumper data dumps
+DBI::ProfileDumper (2.015325) - profile DBI usage and output data to a file
+DBI::ProfileSubs (0.009396) - Subroutines for dynamic profile Path
+DBI::ProxyServer - a server for the DBD::Proxy driver
+DBI::PurePerl (2.014286) - a DBI emulation using pure perl (no C/XS compilation required)
+DBI::W32ODBC - An experimental DBI emulation layer for Win32::ODBC
+DBI::Const::GetInfoReturn - Data and functions for describing GetInfo results
+DBI::Const::GetInfoType - Data describing GetInfo type codes
+DBI::Const::GetInfo::ANSI - ISO/IEC SQL/CLI Constants for GetInfo
+DBI::Const::GetInfo::ODBC - ODBC Constants for GetInfo
+DBI::DBD::Metadata (2.014214) - Generate the code and data for some DBI metadata methods
+DBI::DBD::SqlEngine (0.06) - Base class for DBI drivers without their own SQL engine
+DBI::Gofer::Execute (0.014283) - Executes Gofer requests and returns Gofer responses
+DBI::Gofer::Request (0.012537) - Encapsulate a request from DBD::Gofer to DBI::Gofer::Execute
+DBI::Gofer::Response (0.011566) - Encapsulate a response from DBI::Gofer::Execute to DBD::Gofer
+DBI::Gofer::Serializer::Base (0.009950) - base class for Gofer serialization
+DBI::Gofer::Serializer::DataDumper (0.009950) - Gofer serialization using DataDumper
+DBI::Gofer::Serializer::Storable (0.015586) - Gofer serialization using Storable
+DBI::Gofer::Transport::Base (0.012537) - Base class for Gofer transports
+DBI::Gofer::Transport::pipeone (0.012537) - DBD::Gofer server-side transport for pipeone
+DBI::Gofer::Transport::stream (0.012537) - DBD::Gofer server-side transport for stream
+DBI::ProfileDumper::Apache (2.014121) - capture DBI profiling data from Apache/mod_perl
+DBI::SQL::Nano (1.015544) - a very tiny SQL engine
+DBI::Util::CacheMemory (0.010315) - a very fast but very minimal subset of Cache::Memory
+Data::Alias (1.20) - Comprehensive set of aliasing operations
+Devel::Caller (2.06) - meatier versions of C<caller>
+Devel::LexAlias (0.05) - alias lexical variables
+Devel::NYTProf - Powerful fast feature-rich Perl source code profiler
+Devel::NYTProf::Apache - Profile mod_perl applications with Devel::NYTProf
+Devel::NYTProf::Core (6.02) - load internals of Devel::NYTProf
+Devel::NYTProf::Data (4.02) - L<Devel::NYTProf> data loading and manipulation
+Devel::NYTProf::ReadStream (4.00) - Read Devel::NYTProf data file as a stream
+Devel::NYTProf::Run - Invoke NYTProf on a piece of code and return the profile
+Devel::NYTProf::Util (4.00) - general utility functions for L<Devel::NYTProf>
+File::FnMatch (0.02) - simple filename and pathname matching
+GD::Image (2.38) - Image class for the GD image library
+GD::Polygon - Polygon class for the GD image library
+GD::Polyline (0.2) - Polyline object and Polygon utilities (including splines) for use with GD
+GD::Simple - Simplified interface to GD library
+Glib::CodeGen (1.320) - code generation utilities for Glib-based bindings.
+Glib::GenPod (1.320) - POD generation utilities for Glib-based modules
+Glib::MakeHelper (1.320) - Makefile.PL utilities for Glib-based extensions
+Glib::ParseXSDoc (1.320) - Parse POD and XSub declarations from XS files.
+Glib::Object::Subclass (1.320) - register a perl class as a GObject class
+Gtk2::CodeGen (0.03) - code generation utilities for Glib-based bindings.
+Gtk2::Helper (0.02) - Convenience functions for the Gtk2 module
+Gtk2::Pango (0.01) - constants for use with Pango
+Gtk2::SimpleList (0.15) - A simple interface to Gtk2's complex MVC list widget
+Gtk2::SimpleMenu (0.5) - A simple interface to Gtk2's ItemFactory for creating application menus
+Gtk2::TestHelper (0.02) - Code to make testing Gtk2 and friends simpler.
+Gtk2::Gdk::Keysyms - key codes for Gtk2 programs
+HTML::Entities (3.69) - Encode or decode strings with HTML entities
+HTML::Filter (3.72) - Filter HTML text through the parser
+HTML::HeadParser (3.71) - Parse <HEAD> section of a HTML document
+HTML::LinkExtor (3.69) - Extract links from an HTML document
+HTML::Parser (3.72) - HTML parser class
+HTML::PullParser (3.57) - Alternative HTML::Parser interface
+HTML::TokeParser (3.69) - Alternative HTML::Parser interface
+IO::Pty (1.08) - Pseudo TTY object class
+IO::Tty (1.08) - Low-level allocate a pseudo-Tty, import constants.
+IO::Tty::Constant - Terminal Constants (autogenerated)
+Lexical::SealRequireHints (0.009) - prevent leakage of lexical hints
+List::MoreUtils (0.413) - Provide the stuff missing in List::Util
+List::MoreUtils::PP (0.413) - Provide List::MoreUtils pure Perl implementation
+List::MoreUtils::XS (0.413) - Provide compiled List::MoreUtils functions
+Locale::gettext (1.07) - message handling functions
+Math::Random::ISAAC::XS (1.004) - C implementation of the ISAAC PRNG algorithm
+Net::DBus (1.1.0) - Perl extension for the DBus message system
+Net::DNS (0.81) - Perl Interface to the Domain Name System
+Net::DBus::ASyncReply - asynchronous method reply handler
+Net::DBus::Annotation - annotations for changing behaviour of APIs
+Net::DBus::BaseObject - base class for exporting objects to the bus
+Net::DBus::Callback - a callback for receiving reactor events
+Net::DBus::Dumper - Stringify Net::DBus objects suitable for printing
+Net::DBus::Error - Error details for remote method invocation
+Net::DBus::Exporter - Export object methods and signals to the bus
+Net::DBus::Object - Implement objects to export to the bus
+Net::DBus::ProxyObject - Implement objects to export to the bus
+Net::DBus::Reactor - application event loop
+Net::DBus::RemoteObject - Access objects provided on the bus
+Net::DBus::RemoteService - Access services provided on the bus
+Net::DBus::Service - Provide a service to the bus for clients to use
+Net::DBus::Binding::Bus - Handle to a well-known message bus instance
+Net::DBus::Binding::Connection - A connection between client and server
+Net::DBus::Binding::Introspector - Handler for object introspection data
+Net::DBus::Binding::Iterator - Reading and writing message parameters
+Net::DBus::Binding::Message - Base class for messages
+Net::DBus::Binding::PendingCall - A handler for pending method replies
+Net::DBus::Binding::Server - A server to accept incoming connections
+Net::DBus::Binding::Value - Strongly typed data value
+Net::DBus::Binding::Watch - binding to the dbus watch API
+Net::DBus::Binding::Message::Error - a message encoding a method call error
+Net::DBus::Binding::Message::MethodCall - a message encoding a method call
+Net::DBus::Binding::Message::MethodReturn - a message encoding a method return
+Net::DBus::Binding::Message::Signal - a message encoding a signal
+Net::DBus::Test::MockConnection - Fake a connection to the bus unit testing
+Net::DBus::Test::MockIterator - Iterator over a mock message
+Net::DBus::Test::MockMessage - Fake a message object when unit testing
+Net::DBus::Test::MockObject - Fake an object from the bus for unit testing
+Net::DNS::Domain (1276) - DNS domains
+Net::DNS::DomainName (1272) - DNS name representation
+Net::DNS::Header (1241) - DNS packet header
+Net::DNS::Mailbox (1155) - DNS mailbox representation
+Net::DNS::Nameserver (1276) - DNS server class
+Net::DNS::Packet (1282) - DNS protocol packet
+Net::DNS::Parameters (1282) - DNS parameter assignments
+Net::DNS::Question (1222) - DNS question record
+Net::DNS::RR (1282) - DNS resource record base class
+Net::DNS::Resolver (1276) - DNS resolver class
+Net::DNS::Text (1276) - DNS text representation
+Net::DNS::Update (1272) - DNS dynamic update packet
+Net::DNS::ZoneFile (1277) - DNS zone file
+Net::DNS::RR::A (1272) - DNS A resource record
+Net::DNS::RR::AAAA (1272) - DNS AAAA resource record
+Net::DNS::RR::AFSDB (1188) - DNS AFSDB resource record
+Net::DNS::RR::APL (1272) - DNS APL resource record
+Net::DNS::RR::CAA (1188) - DNS CAA resource record
+Net::DNS::RR::CERT (1188) - DNS CERT resource record
+Net::DNS::RR::CNAME (1188) - DNS CNAME resource record
+Net::DNS::RR::DHCID (1188) - DNS DHCID resource record
+Net::DNS::RR::DNAME (1188) - DNS DNAME resource record
+Net::DNS::RR::EUI48 (1188) - DNS EUI48 resource record
+Net::DNS::RR::EUI64 (1188) - DNS EUI64 resource record
+Net::DNS::RR::GPOS (1188) - DNS GPOS resource record
+Net::DNS::RR::HINFO (1188) - DNS HINFO resource record
+Net::DNS::RR::HIP (1188) - DNS HIP resource record
+Net::DNS::RR::IPSECKEY (1188) - DNS IPSECKEY resource record
+Net::DNS::RR::ISDN (1188) - DNS ISDN resource record
+Net::DNS::RR::KX (1188) - DNS KX resource record
+Net::DNS::RR::L32 (1188) - DNS L32 resource record
+Net::DNS::RR::L64 (1188) - DNS L64 resource record
+Net::DNS::RR::LOC (1276) - DNS LOC resource record
+Net::DNS::RR::LP (1188) - DNS LP resource record
+Net::DNS::RR::MB (1182) - DNS MB resource record
+Net::DNS::RR::MG (1182) - DNS MG resource record
+Net::DNS::RR::MINFO (1188) - DNS MINFO resource record
+Net::DNS::RR::MR (1182) - DNS MR resource record
+Net::DNS::RR::MX (1282) - DNS MX resource record
+Net::DNS::RR::NAPTR (1229) - DNS NAPTR resource record
+Net::DNS::RR::NID (1188) - DNS NID resource record
+Net::DNS::RR::NS (1188) - DNS NS resource record
+Net::DNS::RR::NULL (1188) - DNS NULL resource record
+Net::DNS::RR::OPENPGPKEY (1253) - DNS OPENPGPKEY resource record
+Net::DNS::RR::OPT (1276) - DNS OPT resource record
+Net::DNS::RR::PTR (1188) - DNS PTR resource record
+Net::DNS::RR::PX (1188) - DNS PX resource record
+Net::DNS::RR::RP (1229) - DNS RP resource record
+Net::DNS::RR::RT (1188) - DNS RT resource record
+Net::DNS::RR::SOA (1188) - DNS SOA resource record
+Net::DNS::RR::SPF (1188) - DNS SPF resource record
+Net::DNS::RR::SRV (1188) - DNS SRV resource record
+Net::DNS::RR::SSHFP (1188) - DNS SSHFP resource record
+Net::DNS::RR::TKEY (1276) - DNS TKEY resource record
+Net::DNS::RR::TLSA (1188) - DNS TLSA resource record
+Net::DNS::RR::TSIG (1282) - DNS TSIG resource record
+Net::DNS::RR::TXT (1235) - DNS TXT resource record
+Net::DNS::RR::X25 (1188) - DNS X25 resource record
+Net::DNS::Resolver::Base (1277) - DNS resolver base class
+Net::DNS::Resolver::MSWin32 (1282) - MS Windows resolver class
+Net::DNS::Resolver::Recurse (1282) - DNS recursive resolver
+Net::DNS::Resolver::UNIX (1282) - UNIX resolver class
+Net::DNS::Resolver::android (1282) - Android resolver class
+Net::DNS::Resolver::cygwin (1282) - Cygwin resolver class
+Net::DNS::Resolver::os2 (1282) - OS2 resolver class
+Net::IDN::Encode (2.3) - Internationalizing Domain Names in Applications (IDNA)
+Net::IDN::Punycode (1.101) - A Bootstring encoding of Unicode for IDNA (S<RFC 3492>)
+Net::IDN::UTS46 (1.001) - Unicode IDNA Compatibility Processing (S<UTS #46>)
+Net::IDN::Punycode::PP (1.101) - pure-perl implementation of Net::IDN::Punycode
+Net::IDN::UTS46::_Mapping (8) - Tables from Unicode Technical Standard #46 (S<UTS #46>)
+Net::SSLeay::Handle (0.61) - Perl module that lets SSL (HTTPS) sockets be handled as standard file handles.
+Params::Classify (0.013) - argument type classification
+PerlIO::gzip (0.19) - Perl extension to provide a PerlIO layer to gzip/gunzip
+Sub::Name (0.14) - (re)name a sub
+Sys::CPU (0.61) - 
+Term::ReadKey (2.33) - A perl module for simple terminal control
+Text::CharWidth (0.04) - Get number of occupied columns of a string on terminal
+Text::Iconv (1.7) - Perl interface to iconv() codeset conversion function
+Type::Tiny::XS (0.012) - provides an XS boost for some of Type::Tiny's built-in type constraints
+Type::Tiny::XS::Util (0.012) - support functions for Type::Tiny::XS
+Unicode::CharName (1.07) - Look up Unicode character names
+Unicode::String (2.09) - String of Unicode characters (UTF-16BE)
+Win32::DBIODBC - Win32::ODBC emulation layer for the DBI
+XML::Parser (2.44) - A perl module for parsing XML documents
+XML::Parser::Expat (2.44) - Lowlevel access to James Clark's expat XML parser
+XML::Parser::Style::Debug - Debug style for XML::Parser
+XML::Parser::Style::Objects - Objects styler parser
+XML::Parser::Style::Stream - Stream style for XML::Parser
+XML::Parser::Style::Subs - glue for handling element callbacks
+XML::Parser::Style::Tree - Tree style parser
+YAML::XS (0.41) - Perl YAML Serialization using XS and libyaml
+YAML::XS::LibYAML - An XS Wrapper Module of libyaml
+bareword::filehandles (0.003) - disables bareword filehandles
+forks::shared (0.36) - drop-in replacement for Perl threads::shared with forks()
+forks::signals (0.36) - signal management for forks
+forks::Devel::Symdump (2.08001) - dump symbol names or the symbol table
+threads::shared::array (0.36) - default class for tie-ing arrays to threads with forks
+threads::shared::handle (0.36) - default class for tie-ing handles to threads with forks
+threads::shared::hash (0.36) - default class for tie-ing hashes to threads with forks
+threads::shared::scalar (0.36) - default class for tie-ing scalars to threads with forks
+AppConfig (1.66) - Perl5 module for reading configuration files and parsing command line arguments.
+Dpkg (1.01) - module with core variables
+Error (0.17010) - Error/exception handling in an OO-ish way
+Git (0.01) - Perl interface to the Git version control system
+LW2 (2.5) - Perl HTTP library version 2.5
+LWP (6.15) - The World-Wide Web library for Perl
+Moo (2.000002) - Minimalist Object Orientation (with Moose compatibility)
+URI (1.71) - Uniform Resource Identifiers (absolute and relative)
+oo - syntactic sugar for Moo oneliners
+pmtools (2.0.0) - Perl Module Tools
+strictures (2.000002) - turn on strict and make most warnings fatal
+Algorithm::Diff (1.1903) - Compute `intelligent' differences between two files / lists
+Algorithm::DiffOld (1.1) - Compute `intelligent' differences between two files / lists but use the old (<=0.59) interface.
+Algorithm::Merge (0.08) - Three-way merge and diff
+Alien::Package - an object that represents a package
+Alien::Package::Deb - an object that represents a deb package
+Alien::Package::Lsb - an object that represents a lsb package
+Alien::Package::Pkg - an object that represents a Solaris pkg package
+Alien::Package::Rpm - an object that represents a rpm package
+Alien::Package::Slp - an object that represents a slp package
+Alien::Package::Tgz - an object that represents a tgz package
+AppConfig::Args (1.65) - Perl5 module for reading command line arguments.
+AppConfig::CGI (1.65) - Perl5 module for processing CGI script parameters.
+AppConfig::File (1.65) - Perl5 module for reading configuration files.
+AppConfig::Getopt (1.65) - Perl5 module for processing command line arguments via delegation to Getopt::Long.
+AppConfig::State (1.65) - application configuration state
+AppConfig::Sys (1.65) - Perl5 module defining platform-specific information and methods for other AppConfig::* modules.
+Archive::Zip (1.56) - Provide an interface to ZIP archive files.
+Archive::Zip::MemberRead (1.56) - A wrapper that lets you read Zip archive members as if they were files.
+Archive::Zip::Tree (1.56) - (DEPRECATED) methods for adding/extracting trees using Archive::Zip
+Authen::SASL::Perl::ANONYMOUS (2.14) - Anonymous Authentication class
+Authen::SASL::Perl::CRAM_MD5 (2.14) - CRAM MD5 Authentication class
+Authen::SASL::Perl::DIGEST_MD5 (2.14) - Digest MD5 Authentication class
+Authen::SASL::Perl::EXTERNAL (2.14) - External Authentication class
+Authen::SASL::Perl::GSSAPI - GSSAPI (Kerberosv5) Authentication class
+Authen::SASL::Perl::LOGIN (2.14) - Login Authentication class
+Authen::SASL::Perl::PLAIN (2.14) - Plain Login Authentication class
+Bytes::Random::Secure (0.28) - Perl extension to generate cryptographically-secure random bytes.
+CGI::Carp (4.26) - CGI routines for writing to the HTTPD (or other) error log
+CGI::Cookie (4.26) - Interface to HTTP Cookies
+CGI::Fast (2.10) - CGI Interface for Fast CGI
+CGI::Pretty (4.26) - module to produce nicely formatted HTML code
+CGI::Push (4.26) - Simple Interface to Server Push
+CGI::Util (4.26) - Internal utilities used by CGI module
+Class::Accessor (0.34) - Automated accessor generation
+Class::Accessor::Fast (0.34) - Faster, but less expandable, accessors
+Class::Accessor::Faster (0.34) - Even faster, but less expandable, accessors
+Class::Method::Modifiers (2.11) - provides Moose-like method modifiers
+Config::File (1.50) - Parse a simple configuration file
+Convert::BinHex (1.125) - extract data from Macintosh BinHex files
+Crypt::PasswdMD5 (1.3) - Provides interoperable MD5-based crypt() functions
+Crypt::Random::Seed (0.03) - Simple method to get strong randomness
+Data::Perl (0.002009) - Base classes wrapping fundamental Perl data types.
+Data::Perl::Bool (0.002009) - Wrapping class for boolean values.
+Data::Perl::Code (0.002009) - Wrapping class for Perl coderefs.
+Data::Perl::Counter (0.002009) - Wrapping class for a simple numeric counter.
+Data::Perl::Number (0.002009) - Wrapping class for Perl scalar numbers.
+Data::Perl::String (0.002009) - Wrapping class for Perl scalar strings.
+Data::Perl::Bool::MooseLike (0.001008) - data::Perl::Bool subclass that simulates Moose's native traits.
+Data::Perl::Collection::Array (0.002009) - Wrapping class for Perl's built in array structure.
+Data::Perl::Collection::Hash (0.002009) - Wrapping class for Perl's built in hash structure.
+Data::Perl::Collection::Array::MooseLike (0.001008) - Collection::Array subclass that simulates Moose's native traits.
+Data::Perl::Collection::Hash::MooseLike (0.001008) - Collection::Hash subclass that simulates Moose's native traits.
+Data::Perl::Number::MooseLike (0.001008) - data::Perl::Number subclass that simulates Moose's native traits.
+Data::Perl::Role::Bool (0.002009) - Wrapping class for boolean values.
+Data::Perl::Role::Code (0.002009) - Wrapping class for Perl coderefs.
+Data::Perl::Role::Counter (0.002009) - Wrapping class for a simple numeric counter.
+Data::Perl::Role::Number (0.002009) - Wrapping class for Perl scalar numbers.
+Data::Perl::Role::String (0.002009) - Wrapping class for Perl scalar strings.
+Data::Perl::Role::Collection::Array (0.002009) - Wrapping class for Perl's built in array structure.
+Data::Perl::Role::Collection::Hash (0.002009) - Wrapping class for Perl's built in hash structure.
+Data::Perl::String::MooseLike (0.001008) - data::Perl::String subclass that simulates Moose's native traits.
+Date::Format (2.24) - Date formating subroutines
+Date::Language (1.10) - Language specific date formating and parsing
+Date::Parse (2.30) - Parse date strings into time values
+Date::Language::Bulgarian (1.01) - localization for Date::Format
+Date::Language::Hungarian (1.01) - Magyar format for Date::Format
+Date::Manip::DM5abbrevs (6.52) - A list of all timezone abbreviations
+Date::Manip::Lang::index (6.52) - An index of languages supported by Date::Manip
+DebAux::Debconf (debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+Can't exec "-e": No such file or directory at /usr/share/perl/5.22/IPC/Open3.pm line 178.
+open2: exec of -e failed at /usr/share/perl5/Debconf/ConfModule.pm line 59.
+) - easy interface to Debconf::Client::ConfModule
+DebAux::Util - utility functions for scripts of the debaux suite
+Debconf::Client::ConfModule - client module for ConfModules
+Debian::DictionariesCommon - dictionaries-common library
+Debian::DistroInfo (0.2.2) - provides information about Ubuntu's and Debian's distributions
+Devel::GlobalDestruction (0.13) - Provides function returning the equivalent of C<${^GLOBAL_PHASE} eq 'DESTRUCT'> for older perls.
+Devel::Loaded (2.0.0/usr/share/perl/5.22/strict.pm
+/usr/share/perl/5.22/warnings/register.pm
+/usr/share/perl/5.22/vars.pm
+/usr/share/perl/5.22/constant.pm
+/usr/share/perl/5.22/warnings.pm
+/usr/share/perl5/Devel/Loaded.pm
+/usr/share/perl/5.22/XSLoader.pm
+/usr/lib/x86_64-linux-gnu/perl/5.22/File/Spec/Unix.pm
+/usr/lib/x86_64-linux-gnu/perl/5.22/File/Spec.pm
+) - Post-execution dump of loaded modules
+Devel::TypeTiny::Perl56Compat (1.000005) - shims to allow Type::Tiny to run on Perl 5.6.x
+Devel::TypeTiny::Perl58Compat (1.000005) - shims to allow Type::Tiny to run on Perl 5.8.x
+Devscripts::DB_File_Lock (0.05) - Locking with flock wrapper for DB_File
+Devscripts::Packages - Interface to the dpkg package database
+Devscripts::Set - Functions for handling sets.
+Digest::HMAC (1.03) - Keyed-Hashing for Message Authentication
+Digest::HMAC_MD5 (1.01) - Keyed-Hashing for Message Authentication
+Digest::HMAC_SHA1 (1.03) - Keyed-Hashing for Message Authentication
+Dpkg::Arch (1.00) - handle architectures
+Dpkg::BuildEnv (0.01) - track build environment
+Dpkg::BuildFlags (1.03) - query build flags
+Dpkg::BuildOptions (1.01) - parse and update build options
+Dpkg::BuildProfiles (1.00) - handle build profiles
+Dpkg::Changelog (1.00) - base class to implement a changelog parser
+Dpkg::Checksums (1.02) - generate and manipulate file checksums
+Dpkg::Compression (1.02) - simple database of available compression methods
+Dpkg::Conf (1.01) - parse dpkg configuration files
+Dpkg::Control (1.00) - parse and manipulate official control-like information
+Dpkg::Deps (1.05) - parse and manipulate dependencies of Debian packages
+Dpkg::Exit (1.01) - program exit handlers
+Dpkg::Gettext (1.02) - convenience wrapper around Locale::gettext
+Dpkg::IPC (1.02) - helper functions for IPC
+Dpkg::Index (1.00) - generic index of control information
+Dpkg::Path (1.04) - some common path handling functions
+Dpkg::Substvars (1.04) - handle variable substitution in strings
+Dpkg::Vendor (1.01) - get access to some vendor specific information
+Dpkg::Version (1.01) - handling and comparing dpkg-style version numbers
+Dpkg::Changelog::Debian (1.00) - parse Debian changelogs
+Dpkg::Changelog::Entry (1.00) - represents a changelog entry
+Dpkg::Changelog::Parse (1.01) - generic changelog parser for dpkg-parsechangelog
+Dpkg::Changelog::Entry::Debian (1.01) - represents a Debian changelog entry
+Dpkg::Compression::FileHandle (1.01) - object dealing transparently with file compression
+Dpkg::Compression::Process (1.00) - run compression/decompression processes
+Dpkg::Control::Changelog (1.00) - represent info fields output by dpkg-parsechangelog
+Dpkg::Control::Fields (1.00) - manage (list of official) control fields
+Dpkg::Control::FieldsCore (1.00) - manage (list of official) control fields
+Dpkg::Control::Hash (1.00) - parse and manipulate a block of RFC822-like fields
+Dpkg::Control::HashCore (1.01) - parse and manipulate a block of RFC822-like fields
+Dpkg::Control::Info (1.01) - parse files like debian/control
+Dpkg::Control::Types (0.01) - export CTRL_* constants
+Dpkg::Interface::Storable (1.00) - common methods related to object serialization
+Dpkg::Source::Package (1.01) - manipulate Debian source packages
+Dpkg::Vendor::Debian (0.01) - Debian vendor object
+Dpkg::Vendor::Default (0.01) - default vendor object
+Dpkg::Vendor::Ubuntu (0.01) - Ubuntu vendor object
+Email::Valid (1.198) - Check validity of Internet email addresses
+Encode::Locale (1.05) - Determine the locale encoding
+Error::Simple - the simple error sub-class of Error
+Error::TypeTiny (1.000005) - exceptions for Type::Tiny and friends
+Error::TypeTiny::Assertion (1.000005) - exception when a value fails a type constraint
+Error::TypeTiny::Compilation (1.000005) - exception for Eval::TypeTiny
+Error::TypeTiny::WrongNumberOfParameters (1.000005) - exception for Type::Params
+Eval::TypeTiny (1.000005) - utility to evaluate a string of Perl code in a clean environment
+Exporter::Shiny (0.042) - shortcut for Exporter::Tiny
+Exporter::Tiny (0.042) - an exporter with the features of Sub::Exporter but only core dependencies
+File::BaseDir (0.07) - Use the Freedesktop.org base directory specification
+File::DesktopEntry (0.22) - Object to handle .desktop files
+File::HomeDir (1.00) - Find your home and other directories on any platform
+File::IconTheme (0.07) - find icon directories
+File::Listing (6.04) - parse directory listing
+File::MimeInfo (0.27) - Determine file type
+File::Rename (0.20) - Perl extension for renaming multiple files
+File::Slurp (9999.19) - Simple and Efficient Reading/Writing/Modifying of Complete Files
+File::UserDirs (0.07) - find extra media and documents directories
+File::Which (1.19) - Perl implementation of the which utility as an API
+File::Copy::Recursive (0.38) - Perl extension for recursively copying files and directories
+File::HomeDir::Darwin (1.00) - Find your home and other directories on Darwin (OS X)
+File::HomeDir::Driver (1.00) - Base class for all File::HomeDir drivers
+File::HomeDir::FreeDesktop (1.00) - Find your home and other directories on FreeDesktop.org Unix
+File::HomeDir::MacOS9 (1.00) - Find your home and other directories on legacy Macs
+File::HomeDir::Test (1.00) - Prevent the accidental creation of user-owned files during testing
+File::HomeDir::Unix (1.00) - Find your home and other directories on legacy Unix
+File::HomeDir::Windows (1.00) - Find your home and other directories on Windows
+File::HomeDir::Darwin::Carbon (1.00) - Find your home and other directories on Darwin (OS X)
+File::HomeDir::Darwin::Cocoa (1.00) - Find your home and other directories on Darwin (OS X)
+File::MimeInfo::Applications (0.27) - Find programs to open a file by mimetype
+File::MimeInfo::Magic (0.27) - Determine file type with magic
+File::MimeInfo::Rox (0.27) - Open files by mimetype "Rox style"
+Font::AFM (1.20) - Interface to Adobe Font Metrics files
+Git::I18N - Perl interface to Git's Gettext localizations
+GnuPG::Fingerprint - GnuPG Fingerprint Objects
+GnuPG::Handles - GnuPG handles bundle
+GnuPG::Interface (0.52) - Perl interface to GnuPG
+GnuPG::Key - GnuPG Key Object
+GnuPG::Options - GnuPG options embodiment
+GnuPG::PrimaryKey - GnuPG Primary Key Objects
+GnuPG::PublicKey - GnuPG Public Key Objects
+GnuPG::Revoker - GnuPG Key Revoker Objects
+GnuPG::SecretKey - GnuPG Secret Key Objects
+GnuPG::Signature - GnuPG Key Signature Objects
+GnuPG::SubKey - GnuPG Sub Key objects
+GnuPG::UserAttribute - GnuPG User Attribute Objects
+GnuPG::UserId - GnuPG User ID Objects
+HTML::AsSubs (5.03) - functions that construct a HTML syntax tree
+HTML::Element (5.03) - Class for objects that represent HTML elements
+HTML::Form (6.03) - Class that represents an HTML form element
+HTML::FormatMarkdown (2.11) - Format HTML as Markdown
+HTML::FormatPS (2.11) - Format HTML as PostScript
+HTML::FormatRTF (2.11) - Format HTML as RTF
+HTML::FormatText (2.11) - Format HTML as plaintext
+HTML::Formatter (2.11) - Base class for HTML formatters
+HTML::Lint (2.22) - check for HTML errors in a string or file
+HTML::Parse (5.03) - Deprecated, a wrapper around HTML::TreeBuilder
+HTML::Tagset (3.20) - data tables useful in parsing HTML
+HTML::Template (2.95) - Perl module to use HTML-like templating language
+HTML::Tree (5.03) - build and scan parse-trees of HTML
+HTML::TreeBuilder (5.03) - Parser that builds a HTML syntax tree
+HTML::Element::traverse (5.03) - discussion of HTML::Element's traverse method
+HTML::Lint::Error - Error object for the Lint functionality
+HTML::Lint::HTML4 - Rules for HTML 4 as used by HTML::Lint.
+HTML::Lint::Parser (2.22) - Parser for HTML::Lint.  No user-serviceable parts inside.
+HTML::Template::FAQ - Frequently Asked Questions about HTML::Template
+HTTP::Config (6.11) - Configuration for request and response objects
+HTTP::Cookies (6.01) - HTTP cookie jars
+HTTP::Daemon (6.01) - a simple http server class
+HTTP::Date (6.02) - date conversion routines
+HTTP::Headers (6.11) - Class encapsulating HTTP Message headers
+HTTP::Message (6.11) - HTTP style message (base class)
+HTTP::Negotiate (6.00) - choose a variant to serve
+HTTP::Request (6.11) - HTTP style request message
+HTTP::Response (6.11) - HTTP style response message
+HTTP::Status (6.11) - HTTP Status code processing
+HTTP::Cookies::Netscape (6.00) - access to Netscape cookies files
+HTTP::Headers::Util (6.11) - Header value parsing utility functions
+HTTP::Request::Common (6.11) - Construct common HTTP::Request objects
+IO::AtomicFile (2.110) - write a file which is updated atomically
+IO::HTML (1.001) - Open an HTML file with automatic charset detection
+IO::InnerFile (2.110) - define a file inside another file
+IO::Lines (2.110) - IO:: interface for reading/writing an array of lines
+IO::Scalar (2.110) - IO:: interface for reading/writing a scalar
+IO::ScalarArray (2.110) - IO:: interface for reading/writing an array of scalars
+IO::String (1.08) - Emulate file interface for in-core strings
+IO::Stringy (2.110) - I/O on in-core objects like strings and arrays
+IO::Wrap (2.110) - wrap raw filehandles in IO::Handle interface
+IO::WrapTie (2.110) - wrap tieable objects in IO::Handle interface
+IO::Socket::INET6 (2.72) - Object interface for AF_INET/AF_INET6 domain sockets
+IO::Socket::SSL::Intercept (2.014) - SSL interception (man in the middle)
+IO::Socket::SSL::PublicSuffix - provide access to Mozilla's list of effective TLD names
+IO::Socket::SSL::Utils (2.014) - loading, storing, creating certificates and keys
+IPC::Run (0.94) - system() and background procs w/ piping, redirs, ptys (Unix, Win32)
+IPC::Signal (1.00) - Utility functions dealing with signals
+IPC::Run::Debug (0.90) - debugging routines for IPC::Run
+IPC::Run::IO (0.90) - I/O channels for IPC::Run.
+IPC::Run::Timer (0.90) - Timer channels for IPC::Run.
+IPC::System::Simple (1.25) - Run commands simply, with detailed diagnostics
+Image::ExifTool::AES (1.01) - AES encryption with cipher-block chaining
+Image::ExifTool::AFCP (1.07) - Read/write AFCP trailer
+Image::ExifTool::AIFF (1.07) - Read AIFF meta information
+Image::ExifTool::APE (1.04) - Read Monkey's Audio meta information
+Image::ExifTool::APP12 (1.13) - Read APP12 meta information
+Image::ExifTool::ASF (1.23) - Read ASF/WMA/WMV meta information
+Image::ExifTool::Apple (1.02) - Apple EXIF maker notes tags
+Image::ExifTool::Audible (1.02) - Read meta information from Audible audio books
+Image::ExifTool::BMP (1.08) - Read BMP meta information
+Image::ExifTool::BZZ (1.00) - Utility to decode BZZ compressed data
+Image::ExifTool::BigTIFF (1.06) - Read Big TIFF meta information
+Image::ExifTool::BuildTagLookup (2.93) - Build ExifTool tag lookup tables
+Image::ExifTool::Canon (3.57) - Canon EXIF maker notes tags
+Image::ExifTool::CanonCustom (1.52) - Read and Write Canon custom functions
+Image::ExifTool::CanonRaw (1.58) - Read Canon RAW (CRW) meta information
+Image::ExifTool::CanonVRD (1.28) - Read/write Canon VRD and DR4 information
+Image::ExifTool::CaptureOne (1.04) - Read Capture One EIP and COS files
+Image::ExifTool::Casio (1.37) - Casio EXIF maker notes tags
+Image::ExifTool::Charset (1.09) - ExifTool character encoding routines
+Image::ExifTool::DICOM (1.19) - Read DICOM and ACR-NEMA medical images
+Image::ExifTool::DNG (1.22) - Read DNG-specific information
+Image::ExifTool::DPX (1.02) - Read DPX meta information
+Image::ExifTool::DV (1.01) - Read DV meta information
+Image::ExifTool::DarwinCore (1.01) - Darwin Core XMP tags
+Image::ExifTool::DjVu (1.05) - Read DjVu meta information
+Image::ExifTool::EXE (1.12) - Read executable file meta information
+Image::ExifTool::Exif (3.77) - Read EXIF/TIFF meta information
+Image::ExifTool::FLAC (1.07) - Read Free Lossless Audio Codec information
+Image::ExifTool::FLIR (1.13) - Read FLIR meta information
+Image::ExifTool::Fixup (1.05) - Utility to handle pointer fixups
+Image::ExifTool::Flash (1.12) - Read Shockwave Flash meta information
+Image::ExifTool::FlashPix (1.26) - Read FlashPix meta information
+Image::ExifTool::Font (1.08) - Read meta information from font files
+Image::ExifTool::FotoStation (1.04) - Read/write FotoWare FotoStation trailer
+Image::ExifTool::FujiFilm (1.53) - Read/write FujiFilm maker notes and RAF images
+Image::ExifTool::GE (1.00) - General Imaging maker notes tags
+Image::ExifTool::GIF (1.12) - Read and write GIF meta information
+Image::ExifTool::GIMP (1.02) - Read meta information from GIMP XCF images
+Image::ExifTool::GPS (1.44) - EXIF GPS meta information tags
+Image::ExifTool::GeoTiff (1.11) - Read GeoTiff meta information
+Image::ExifTool::Geotag (1.48) - Geotagging utility routines
+Image::ExifTool::H264 (1.13) - Read meta information from H.264 video
+Image::ExifTool::HP (1.04) - Hewlett-Packard maker notes tags
+Image::ExifTool::HTML (1.15) - Read HTML meta information
+Image::ExifTool::HtmlDump (1.33) - Dump information in hex to HTML page
+Image::ExifTool::ICC_Profile (1.30) - Read ICC Profile meta information
+Image::ExifTool::ID3 (1.46) - Read ID3 meta information
+Image::ExifTool::IPTC (1.53) - Read IPTC meta information
+Image::ExifTool::ITC (1.02) - Read iTunes Cover Flow meta information
+Image::ExifTool::Import (1.05) - Import CSV and JSON database files
+Image::ExifTool::InDesign (1.04) - Read/write meta information in Adobe InDesign files
+Image::ExifTool::JPEG (1.25) - Definitions for uncommon JPEG segments
+Image::ExifTool::JPEGDigest (1.05) - Calculate JPEGDigest and JPEGQualityEstimate
+Image::ExifTool::JVC (1.03) - JVC EXIF maker notes tags
+Image::ExifTool::Jpeg2000 (1.25) - Read JPEG 2000 meta information
+Image::ExifTool::Kodak (1.41) - Kodak EXIF maker notes and APP3 "Meta" tags
+Image::ExifTool::KyoceraRaw (1.03) - Read Kyocera RAW meta information
+Image::ExifTool::LNK (1.07) - Read MS Shell Link (.LNK) meta information
+Image::ExifTool::Leaf (1.06) - Read Creo Leaf EXIF meta information
+Image::ExifTool::Lytro (1.02) - Read Lytro LFP files
+Image::ExifTool::M2TS (1.11) - Read M2TS (AVCHD) meta information
+Image::ExifTool::MIE (1.45) - Read/write MIE meta information
+Image::ExifTool::MIFF (1.07) - Read Magick Image File Format meta information
+Image::ExifTool::MNG (1.00) - MNG and JNG meta information tags
+Image::ExifTool::MOI (1.02) - Read MOI meta information
+Image::ExifTool::MPC (1.01) - Read Musepack audio meta information
+Image::ExifTool::MPEG (1.15) - Read MPEG-1 and MPEG-2 meta information
+Image::ExifTool::MPF (1.12) - Read Multi-Picture Format information
+Image::ExifTool::MWG (1.16) - Metadata Working Group support
+Image::ExifTool::MXF (1.07) - Read MXF meta information
+Image::ExifTool::MakerNotes (1.97) - Read and write EXIF maker notes
+Image::ExifTool::Matroska (1.07) - Read meta information from Matroska files
+Image::ExifTool::Microsoft (1.17) - Definitions for custom Microsoft tags
+Image::ExifTool::Minolta (2.29) - Minolta EXIF maker notes tags
+Image::ExifTool::MinoltaRaw (1.14) - Read/write Konica-Minolta RAW (MRW) information
+Image::ExifTool::Motorola (1.00) - Read Motorola meta information
+Image::ExifTool::Nikon (3.14) - Nikon EXIF maker notes tags
+Image::ExifTool::NikonCapture (1.14) - Read/write Nikon Capture information
+Image::ExifTool::NikonCustom (1.12) - Read and Write Nikon custom settings
+Image::ExifTool::Nintendo (1.00) - Nintendo EXIF maker notes tags
+Image::ExifTool::OOXML (1.07) - Read Office Open XML+ZIP files
+Image::ExifTool::Ogg (1.01) - Read Ogg meta information
+Image::ExifTool::Olympus (2.36) - Olympus/Epson maker notes tags
+Image::ExifTool::OpenEXR (1.01) - Read OpenEXR meta information
+Image::ExifTool::PDF (1.40) - Read PDF meta information
+Image::ExifTool::PGF (1.02) - Read Progressive Graphics File meta information
+Image::ExifTool::PICT (1.05) - Read PICT meta information
+Image::ExifTool::PLIST (1.05) - Read Apple PLIST information
+Image::ExifTool::PNG (1.36) - Read and write PNG meta information
+Image::ExifTool::PPM (1.08) - Read and write PPM meta information
+Image::ExifTool::PSP (1.05) - Read Paint Shop Pro meta information
+Image::ExifTool::Palm (1.00) - Read Palm Database files
+Image::ExifTool::Panasonic (1.91) - Panasonic/Leica maker notes tags
+Image::ExifTool::PanasonicRaw (1.09) - Read/write Panasonic/Leica RAW/RW2/RWL meta information
+Image::ExifTool::Pentax (2.99) - Pentax/Asahi maker notes tags
+Image::ExifTool::PhaseOne (1.03) - Phase One maker notes tags
+Image::ExifTool::PhotoCD (1.01) - Read Kodak Photo CD Image Pac (PCD) metadata
+Image::ExifTool::PhotoMechanic (1.04) - Read/write Photo Mechanic information
+Image::ExifTool::Photoshop (1.47) - Read/write Photoshop IRB meta information
+Image::ExifTool::PostScript (1.41) - Read PostScript meta information
+Image::ExifTool::PrintIM (1.07) - Read PrintIM meta information
+Image::ExifTool::Qualcomm (1.01) - Read Qualcomm APP7 meta information
+Image::ExifTool::QuickTime (1.94) - Read QuickTime and MP4 meta information
+Image::ExifTool::RIFF (1.41) - Read RIFF/WAV/AVI meta information
+Image::ExifTool::RSRC (1.08) - Read Mac OS Resource information
+Image::ExifTool::RTF (1.02) - Read Rich Text Format meta information
+Image::ExifTool::Radiance (1.01) - Read Radiance RGBE HDR meta information
+Image::ExifTool::Rawzor (1.04) - Read meta information from Rawzor compressed images
+Image::ExifTool::Real (1.06) - Read Real audio/video meta information
+Image::ExifTool::Reconyx (1.04) - Reconyx maker notes tags
+Image::ExifTool::Ricoh (1.31) - Ricoh EXIF maker notes tags
+Image::ExifTool::Samsung (1.31) - Samsung EXIF maker notes tags
+Image::ExifTool::Sanyo (1.16) - Sanyo EXIF maker notes tags
+Image::ExifTool::Scalado (1.01) - Read APP4 SCALADO metadata
+Image::ExifTool::Shortcuts (1.57) - ExifTool shortcut tags
+Image::ExifTool::Sigma (1.17) - Sigma/Foveon EXIF maker notes tags
+Image::ExifTool::SigmaRaw (1.24) - Read Sigma/Foveon RAW (X3F) meta information
+Image::ExifTool::Sony (2.29) - Sony EXIF maker notes tags
+Image::ExifTool::SonyIDC (1.05) - Read/write Sony IDC information
+Image::ExifTool::Stim (1.01) - Definitions for Stereo Still Image tags
+Image::ExifTool::TagInfoXML (1.28) - Read/write tag information XML database
+Image::ExifTool::TagLookup (1.13) - Fast lookup for ExifTool tags
+Image::ExifTool::Theora (1.00) - Read Theora video meta information
+Image::ExifTool::Torrent (1.03) - Read information from BitTorrent file
+Image::ExifTool::Unknown (1.13) - Unknown EXIF maker notes tags
+Image::ExifTool::VCard (1.04) - Read vCard and iCalendar meta information
+Image::ExifTool::Vorbis (1.08) - Read Ogg Vorbis audio meta information
+Image::ExifTool::XMP (2.90) - Read XMP meta information
+Image::ExifTool::ZIP (1.18) - Read ZIP archive meta information
+Image::ExifTool::iWork (1.04) - Read Apple iWork '09 XML+ZIP files
+Image::ExifTool::Lang::cs (1.07) - ExifTool Czech language translations
+Image::ExifTool::Lang::de (1.30) - ExifTool German language translations
+Image::ExifTool::Lang::en_ca (1.10) - ExifTool Canadian English language translations
+Image::ExifTool::Lang::en_gb (1.10) - ExifTool British English language translations
+Image::ExifTool::Lang::es (1.14) - ExifTool Spanish language translations
+Image::ExifTool::Lang::fi (1.02) - ExifTool Finnish language translations
+Image::ExifTool::Lang::fr (1.30) - ExifTool French language translations
+Image::ExifTool::Lang::it (1.12) - ExifTool Italian language translations
+Image::ExifTool::Lang::ja (1.22) - ExifTool Japanese language translations
+Image::ExifTool::Lang::ko (1.06) - ExifTool Korean language translations
+Image::ExifTool::Lang::nl (1.11) - ExifTool Dutch language translations
+Image::ExifTool::Lang::pl (1.10) - ExifTool Polish language translations
+Image::ExifTool::Lang::ru (1.04) - ExifTool Russian language translations
+Image::ExifTool::Lang::sv (1.05) - ExifTool Swedish language translations
+Image::ExifTool::Lang::tr (1.04) - ExifTool Turkish language translations
+Image::ExifTool::Lang::zh_cn (1.08) - ExifTool Simplified Chinese language translations
+Image::ExifTool::Lang::zh_tw (1.06) - ExifTool Traditional Chinese language translations
+Import::Into (1.002005) - Import packages into other packages
+JSON::MaybeXS (1.003005) - Use L<Cpanel::JSON::XS> with a fallback to L<JSON::XS> and L<JSON::PP>
+LWP::ConnCache (6.15) - Connection cache manager
+LWP::Debug - deprecated
+LWP::MediaTypes (6.02) - guess media type for a file or a URL
+LWP::MemberMixin - Member access mixin class
+LWP::Protocol (6.15) - Base class for LWP protocols
+LWP::RobotUA (6.15) - a class for well-behaved Web robots
+LWP::Simple (6.15) - simple procedural interface to LWP
+LWP::UserAgent (6.15) - Web user agent class
+LWP::Authen::Ntlm - Library for enabling NTLM authentication (Microsoft) in LWP
+LWP::Protocol::https (6.06) - Provide https support for LWP::UserAgent
+Lintian::Architecture - Lintian API for handling architectures and wildcards
+Lintian::Check - Lintian checks shared between multiple scripts
+Lintian::CheckScript - Check script meta data
+Lintian::CollScript - Collection script handle
+Lintian::Collect - Lintian interface to package data collection
+Lintian::Command - Utilities to execute other commands from lintian code
+Lintian::Data - Lintian interface to query lists of keywords
+Lintian::DepMap - Dependencies map/tree creator
+Lintian::Lab - Interface to the Lintian Lab
+Lintian::Output - Lintian messaging handling
+Lintian::Path - Lintian representation of a path entry in a package
+Lintian::Processable - An (abstract) object that Lintian can process
+Lintian::ProcessableGroup - A group of objects that Lintian can process
+Lintian::ProcessablePool - Pool of processables
+Lintian::Profile - Profile parser for Lintian
+Lintian::Relation - Lintian operations on dependencies and relationships
+Lintian::SlidingWindow - Lintian interface to sliding window match
+Lintian::Tags - Manipulate and output Lintian tags
+Lintian::Unpacker - Job handler to unpack collections
+Lintian::Util - Lintian utility functions
+Lintian::Collect::Binary - Lintian interface to binary package data collection
+Lintian::Collect::Changes - Lintian interface to .changes file data collection
+Lintian::Collect::Group - Lintian interface to group data collection
+Lintian::Collect::Package - Lintian base interface to binary and source package data collection
+Lintian::Collect::Source - Lintian interface to source package data collection
+Lintian::Command::Simple - Run commands without pipes
+Lintian::DepMap::Properties - Dependencies with properties map/tree creator
+Lintian::Lab::Entry - A package inside the Lab
+Lintian::Lab::Manifest - Lintian Lab manifest
+Lintian::Lab::ManifestDiff - Difference representation between two Manifests
+Lintian::Path::FSInfo - File System information for L<Lintian::Path>
+Lintian::Processable::Package - An object that Lintian can process
+Lintian::Relation::Version - Comparison operators on Debian versions
+Lintian::Reporting::ResourceManager - A simple resource manager for html_reports
+Lintian::Tag::Info - Lintian interface to tag metadata
+Lintian::Tag::Override - Representation of an Lintian Override
+MIME::Body (5.507) - the body of a MIME message
+MIME::Decoder (5.507) - an object for decoding the body part of a MIME stream
+MIME::Entity (5.507) - class for parsed-and-decoded MIME message
+MIME::Head (5.507) - MIME message header (a subclass of Mail::Header)
+MIME::Parser (5.507) - experimental class for parsing MIME streams
+MIME::Tools (5.507) - modules for parsing (and creating!) MIME entities
+MIME::WordDecoder - decode RFC 2047 encoded words to a local representation
+MIME::Words (5.507) - deal with RFC 2047 encoded words
+MIME::Decoder::Base64 (5.507) - encode/decode a "base64" stream
+MIME::Decoder::BinHex (5.507) - decode a "binhex" stream
+MIME::Decoder::Binary (5.507) - perform no encoding/decoding
+MIME::Decoder::Gzip64 (5.507) - decode a "base64" gzip stream
+MIME::Decoder::NBit (5.507) - encode/decode a "7bit" or "8bit" stream
+MIME::Decoder::QuotedPrint (5.507) - encode/decode a "quoted-printable" stream
+MIME::Decoder::UU (5.507) - decode a "uuencoded" stream
+MIME::Field::ConTraEnc (5.507) - a "Content-transfer-encoding" field
+MIME::Field::ContDisp (5.507) - a "Content-disposition" field
+MIME::Field::ContType (5.507) - a "Content-type" field
+MIME::Field::ParamVal (5.507) - subclass of Mail::Field, for structured MIME fields
+MIME::Parser::Filer - manage file-output of the parser
+MIME::Parser::Reader - a line-oriented reader for a MIME::Parser
+MIME::Parser::Results - results of the last entity parsed
+Mail::Sendmail (0.79_16) - Simple platform independent mailer
+Math::Random::ISAAC (1.003) - Perl interface to the ISAAC PRNG algorithm
+Math::Random::ISAAC::PP (1.003) - Pure Perl port of the ISAAC PRNG algorithm
+Module::Runtime (0.014) - runtime module handling
+Moo::Role (2.000002) - Minimal Object Orientation support for Roles
+MooX::HandlesVia (0.001008) - NativeTrait-like behavior for Moo.
+MooX::late (0.015) - easily translate Moose code to Moo
+Net::HTTP (6.09) - Low-level HTTP connection (client)
+Net::HTTPS (6.09) - Low-level HTTP over SSL/TLS connection (client)
+Net::IP (1.26) - Perl extension for manipulating IPv4/IPv6 addresses
+Net::SSH (0.09) - Perl extension for secure shell
+Net::Domain::TLD (1.73) - Work with TLD names 
+Net::HTTP::NB (6.09) - Non-blocking HTTP client
+Net::SMTP::SSL (1.03) - SSL support for Net::SMTP
+Parse::DebianChangelog (1.2.0) - parse Debian changelogs and output them in other formats
+Parse::DebianChangelog::ChangesFilters - filters to be applied to Debian changelog entries
+Parse::DebianChangelog::Entry - represents one entry in a Debian changelog
+Parse::DebianChangelog::Util - utility functions for parsing Debian changelogs
+Path::Class (0.36) - Cross-platform path specification manipulation
+Path::Class::Dir (0.36) - Objects representing directories
+Path::Class::Entity (0.36) - Base class for files and directories
+Path::Class::File (0.36) - Objects representing files
+Pod::UsageTrans (0.1) - print a usage message from embedded pod documentation
+Proc::WaitStat (1.00) - Interpret and act on wait() status values
+Regexp::Assemble (0.36) - Assemble multiple Regular Expressions into a single RE
+Reply::Plugin::TypeTiny - improved type constraint exceptions in Reply
+Role::Tiny (2.000001) - Roles. Like a nouvelle cuisine portion size slice of Moose.
+Role::Tiny::With (2.000001) - Neat interface for consumers of Role::Tiny roles
+Shell::Perl (0.0023) - A read-eval-print loop in Perl
+Shell::Perl::Dumper (0.0023) - Dumpers for Shell::Perl
+Sub::Defer (2.000002) - defer generation of subroutines until they are first called
+Sub::Quote (2.000002) - efficient generation of subroutines via string eval
+Sub::Exporter::Progressive (0.001011) - Only use Sub::Exporter if you need it
+Sys::SigAction (0.20) - Perl extension for Consistent Signal Handling
+Sys::Hostname::Long (1.5) - Try every conceivable way to get full hostname
+Test::Deep (1.120) - Extremely flexible deep comparison
+Test::TypeTiny (1.000005) - useful functions for testing the efficacy of type constraints
+Test::Deep::NoTest - Use Test::Deep outside of the testing framework
+Test::HTML::Lint (2.22) - Test::More-style wrapper around HTML::Lint
+Text::Diff (1.43) - Perform diffs on files and record sets
+Text::English (0.01) - Porter's stemming algorithm
+Text::Levenshtein (0.13) - calculate the Levenshtein edit distance between two strings
+Text::Markdown (1.0.1) - convert text to HTML
+Text::Template (1.46) - Expand template text with embedded Perl
+Text::WrapI18N (0.06) - Line wrapping module with support for multibyte, fullwidth, and combining characters and languages without whitespaces between words
+Text::Diff::Config (1.43) - global configuration for Text::Diff (as a  separate module).
+Text::Diff::Table (1.43) - Text::Diff plugin to generate "table" format output
+Text::Template::Preprocess (1.46) - Expand template text with embedded Perl
+Tie::IxHash (1.23) - 
+Time::Zone (2.24) - miscellaneous timezone manipulations routines
+Type::Coercion (1.000005) - a set of coercions to a particular target type constraint
+Type::Library (1.000005) - tiny, yet Moo(se)-compatible type libraries
+Type::Params (1.000005) - Params::Validate-like parameter validation using Type::Tiny type constraints and coercions
+Type::Parser (1.000005) - parse type constraint strings
+Type::Registry (1.000005) - a glorified hashref for looking up type constraints
+Type::Tiny (1.000005) - tiny, yet Moo(se)-compatible type constraint
+Type::Utils (1.000005) - utility functions to make defining and using type constraints a little easier
+Type::Coercion::FromMoose (1.000005) - a set of coercions borrowed from Moose
+Type::Coercion::Union (1.000005) - a set of coercions to a union type constraint
+Type::Tiny::Class (1.000005) - type constraints based on the "isa" method
+Type::Tiny::Duck (1.000005) - type constraints based on the "can" method
+Type::Tiny::Enum (1.000005) - string enum type constraints
+Type::Tiny::Intersection (1.000005) - intersection type constraints
+Type::Tiny::Role (1.000005) - type constraints based on the "DOES" method
+Type::Tiny::Union (1.000005) - union type constraints
+Type::Tiny::_HalfOp (1.000005) - half-completed overloaded operation
+Types::Standard (1.000005) - bundled set of built-in types for Type::Tiny
+Types::TypeTiny (1.000005) - type constraints used internally by Type::Tiny
+Types::Common::Numeric (1.000005) - drop-in replacement for MooseX::Types::Common::Numeric
+Types::Common::String (1.000005) - drop-in replacement for MooseX::Types::Common::String
+Types::Standard::ArrayRef (1.000005) - internals for the Types::Standard ArrayRef type constraint
+Types::Standard::Dict (1.000005) - internals for the Types::Standard Dict type constraint
+Types::Standard::HashRef (1.000005) - internals for the Types::Standard HashRef type constraint
+Types::Standard::Map (1.000005) - internals for the Types::Standard Map type constraint
+Types::Standard::ScalarRef (1.000005) - internals for the Types::Standard ScalarRef type constraint
+Types::Standard::Tuple (1.000005) - internals for the Types::Standard Tuple type constraint
+URI::Escape (3.31) - Percent-encode and percent-decode unsafe characters
+URI::Heuristic (4.20) - Expand URI using heuristics
+URI::QueryParam (1.71) - Additional query methods for URIs
+URI::Split (1.71) - Parse and compose URI strings
+URI::URL (5.04) - Uniform Resource Locators
+URI::WithBase (2.20) - URIs which remember their base
+URI::_punycode (1.71) - encodes Unicode string in Punycode
+URI::data (1.71) - URI that contains immediate data
+URI::file (4.21) - URI that maps to local file names
+URI::ldap (1.71) - LDAP Uniform Resource Locators
+WWW::RobotRules (6.01) - database of robots.txt-derived permissions
+WWW::RobotRules::AnyDBM_File (6.00) - Persistent RobotRules
+X11::Auth (0.05) - Perl module to read X11 authority files
+X11::Keysyms (0.01) - Perl module for names of X11 keysyms
+X11::Protocol (0.56) - Perl module for the X Window System Protocol, version 11
+X11::Protocol::Connection (0.01) - Perl module abstract base class for X11 client to server connections
+X11::Protocol::Connection::FileHandle (0.02) - Perl module base class for FileHandle-based X11 connections
+X11::Protocol::Connection::INETFH (0.01) - Perl module for FileHandle-based TCP/IP X11 connections
+X11::Protocol::Connection::INETSocket (0.01) - Perl module for IO::Socket::INET-based X11 connections
+X11::Protocol::Connection::Socket (0.02) - Perl module base class for IO::Socket-based X11 connections
+X11::Protocol::Connection::UNIXFH (0.01) - Perl module for FileHandle-based Unix-domain X11 connections
+X11::Protocol::Connection::UNIXSocket (0.01) - Perl module for IO::Socket::UNIX-based X11 connections
+X11::Protocol::Ext::BIG_REQUESTS (0.01) - Perl module for the X11 protocol Big Requests extension
+X11::Protocol::Ext::DPMS (0.01) - Perl module for the X11 Protocol DPMS Extension
+X11::Protocol::Ext::RENDER (0.01) - Perl module for the X Rendering Extension
+X11::Protocol::Ext::SHAPE (0.01) - Perl module for the X11 Protocol Nonrectangular Window Shape Extension
+X11::Protocol::Ext::XC_MISC (0.01) - Perl module for the X11 Protocol XC-MISC Extension
+X11::Protocol::Ext::XFree86_Misc (0.01) - Perl module for the XFree86 Misc Extension
+XML::FeedPP (0.43) - Parse/write/merge/edit RSS/RDF/Atom syndication feeds
+XML::TreePP (0.43) - Pure Perl implementation for parsing/writing XML documents
+XML::Twig (3.49) - A perl module for processing huge XML documents in tree mode.
+XML::XPathEngine (0.13) - a re-usable XPath engine for DOM-like trees
+XML::XPathEngine::Boolean - Boolean true/false values
+XML::XPathEngine::Literal - Simple string values.
+XML::XPathEngine::NodeSet - a list of XML document nodes
+XML::XPathEngine::Number - Simple numeric values.
+YAML::Tiny (1.69) - Read/Write YAML files with as little code as possible
+strictures::extra - enable or disable strictures additional checks
+warnings (1.34) - Perl pragma to control optional warnings
