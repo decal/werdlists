@@ -118,3 +118,8 @@
 .zshhistory
 .zsh_history
 .zshrc
+.tmux.conf
+.wgetrc
+.pwd.lock
+.netrc
+.npmignore
