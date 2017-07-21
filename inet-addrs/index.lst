@@ -9,3 +9,4 @@ private-ipv4-ranges: Same as above, but in start-end notation instead of CIDR
 targets-ipv6-worldlist: common hex strings seen in IPv6 addressing
 spammer-mail-addrs: Mail addresses of spammers taken via linuxbrit.co.uk Wayback
 special-cidr-blocks: List of "special" Intranet CIDR blocks 
+various-email-addresses: List of various e-mail addresses parsed from an `mbox`
