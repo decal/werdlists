@@ -1,0 +1,324 @@
+
+         /======================================================\
+         |  VT100 and VT52 Compatable Modes ESCape Codes Chart  |
+         \======================================================/
+
+VT52 Compatable Mode
+--------------------
+
+ESC A           Cursor up
+ESC B           Cursor down
+ESC C           Cursor right
+ESC D           Cursor left
+ESC F           Special graphics character set
+ESC G           Select ASCII character set
+ESC H           Cursor to home
+ESC I           Reverse line feed
+ESC J           Erase to end of screen
+ESC K           Erase to end of line
+ESC Ylc         Direct cursor address (See note 1)
+ESC Z           Identify (See note 2)
+ESC =           Enter alternate keypad mode
+ESC >           Exit alternate keypad mode
+ESC 1           Graphics processor on (See note 3)
+ESC 2           Graphics processor off (See note 3)
+ESC <           Enter ANSI mode
+
+Note 1:  Line and column numbers for direct cursor addresses are single
+         character codes whose values are the desired number plus 37 octal.
+         Line and column numbers start at 1.
+
+Note 2:  Response to ESC Z is ESC/Z.
+
+Note 3:  Ignored if no graphics processor stored in the VT100
+
+ANSI Compatable Mode
+--------------------
+
+ESC [ Pn A      Cursor up Pn lines
+ESC [ Pn B      Cursor down Pn lines
+ESC [ Pn C      Cursor forward Pn characters (right)
+ESC [ Pn D      Cursor backward Pn characters (left)
+ESC [ Pl;PcH    Direct cursor addressing, where Pl is line#, Pc is column#
+ESC [ Pl;Pcf    Same as above
+ESC D           Index
+ESC M           Reverse index
+ESC 7           Save cursor and attributes
+ESC 8           Restore cursor and attributes
+
+ESC #3          Change this line to double-height top half
+ESC #4          Change this line to double-height bottom half
+ESC #5          Change this line to single-width single-height
+ESC #6          Change this line to double-width single-height
+
+ESC [ Ps..Ps m  Ps refers to selective parameter. Multiple parameters are
+                separated by the semicolon character (073 octal). The param-
+                eters are executed in order and have the following meaning:
+
+                0 or none               All attributes off
+                1                       Bold on
+                4                       Underscore on
+                5                       Blink on
+                7                       Reverse video on
+
+                Any other parameters are ignored.
+
+ESC [ K         Erase from cursor to end of line
+ESC [ 0K        Same
+ESC [ 1K        Erase from beginning of line to cursor
+ESC [ 2K        Erase line containing cursor
+ESC [ J         Erase from cursor to end of screen
+ESC [ 0J        Same
+ESC [ 2J        Erase entire screen
+
+ESC [ Ps..Ps q  Programmable LEDs: Ps are selective parameters separated by
+                semicolons (073 octal) and executed in order, as follows:
+
+                0 or None               All LEDs off
+                1                       L1 On
+                2                       L2 On
+                3                       L3 On
+                4                       L4 On
+
+                Any other parameter values are ignored.
+
+The following select alternative character sets. The G1 set is invoked for
+use by the control code SO (Shift Out), the G0 set is invoked by the control
+code SI (Shift In).
+
+G0 designator   G1 designator           Character set
+
+ESC ( A         ESC ) A                 United Kingdom (UK)
+ESC ( B         ESC ) B                 United States (USASCII)
+ESC ( 0         ESC ) 0                 Special graphics/line drawing set
+ESC ( 1         ESC ) 1                 Alternative character ROM
+ESC ( 2         ESC ) 2                 Alternative graphic ROM
+
+ESC K Pt;Pb r   Set top scrolling window (Pt) and bottom scrolling window
+                (Pb). Pb must be greater than Pb.
+
+ESC H           Set tab at current column
+ESC [ g         Clear tab at current column
+ESC [ 0g        Same
+ESC [ 3g        Clear all tabs
+
+Modes
+-----
+
+Mode Name       Mode            To set seq      Mode            To reset seq
+
+Line feed/new   New line        ESC [20h        Line feed       ESC [20l
+Cursor key      Application     ESC [?1h        Cursor          ESC [?1l
+ANSI/VT52       ANSI            n/a             VT52            ESC [?2l
+Column mode     132 col         ESC [?3h        80 col          ESC [?3l
+Scrolling       Smooth          ESC [?4h        Jump            ESC [?4l
+Screen mode     Reverse         ESC [?5h        Normal          ESC [?5l
+Origin mode     Relative        ESC [?6h        Absolute        ESC [?6l
+Wraparound      On              ESC [?7h        Off             ESC [?7l
+Autorepeat      On              ESC [?8h        Off             ESC [?8l
+Interface       On              ESC [?9h        Off             ESC [?9l
+
+Reports
+-------
+
+ESC [ 6n        Cursor position report
+ESC [ Pl;PcR            (response; Pl=line#; Pc=column#)
+ESC [ 5n        Status report
+ESC [ c                 (response; terminal Ok)
+ESC [ 0c                (response; teminal not Ok)
+ESC [ c         What are you?
+ESC [ 0c        Same
+ESC [?1;Ps c            response; where Ps is option present:
+
+                        0               Base VT100, no options
+                        1               Preprocessor option (STP)
+                        2               Advanced video option (AVO)
+                        3               AVO and STP
+                        4               Graphics processor option (GO)
+                        5               GO and STP
+                        6               GO and AVO
+                        7               GO, STP, and AVO
+
+ESC c           Causes power-up reset routine to be executed
+ESC #8          Fill screen with "E"
+ESC [ 2;Ps y    Invoke Test(s), where Ps is a decimal computed by adding the
+                numbers of the desired tests to be executed:
+
+                        1               Power up test
+                        2               Data loop back
+                        4               EIA modem control signal test
+                        8               Repeat test(s) indefinitely
+
+
+ 
+
+Article 4810 of alt.hackers:
+Newsgroups: alt.hackers
+From: Dom@sound.demon.co.uk (The Dark Stranger)
+Path: caen!math.ohio-state.edu!howland.reston.ans.net!pipex!uknet!demon!sound.demon.co.uk!sound.and.vision.bbs!vf10!VeXNeT!Dom
+Subject: Re: vt100 escapes
+Reply-To: Dom@sound.demon.co.uk
+References:  <2kp5c0$61c@samba.oit.unc.edu>
+Distribution: world
+X-Mailer: Sound & Vision BBS +44 (0)932-252-323
+Organization: Vex-Factor:10 Productions, London, England.
+Approved: I like to think so
+Lines: 145
+Date: Tue, 1 Mar 1994 19:13:36 +0000
+Message-ID: <#2377_vf10@sound.demon.co.uk>
+Sender: usenet@demon.co.uk
+
+In article <2kp5c0$61c@samba.oit.unc.edu> Michael.Lea@launchpad.unc.edu (Michael David Lea) writes:
+> Does anyone know where I can get a list of vt100 escape codes?  I found
+> one list but it doesn't seem to work.
+
+TERMINAL COMMANDS
+~~~~~~~~~~~~~~~~
+c		Reset
+[ ! p		Soft Reset
+# 8		Fill Screen with E's
+} 1 * 		Fill screen with * test
+} 2		Video attribute test display
+} 3		Character sets display test
+
+KEYBOARD COMMANDS
+~~~~~~~~~~~~~~~~
+[ 2 h		Keyboard locked
+[ 2 l		Keyboard unlocked
+[ ? 8 h		Autorepeat ON
+[ ? 8 l		Autorepeat OFF
+[ 0 q		Lights all off on keyboard
+[ * q		Light * on
+
+PROGRAMMABLE KEY COMMANDS
+~~~~~~~~~~~~~~~~~~~~~~~~
+! pk		Program a programmable key (local)
+@ pk		Program a programmable key (on-line)
+% pk		Transmit programmable key contents
+
+SCREEN FORMAT
+~~~~~~~~~~~~
+[ ? 3 h		132 Characters on
+[ ? 3 l		80 Characters on
+[ ? 4 h		Smooth Scroll on
+[ ? 4 l		Jump Scroll on
+[ *t ; *b r	Scrolling region selected, line *t to *b
+[ ? 5 h		Inverse video on
+[ ? 5 l		Normal video off
+[ ? 7 h		Wraparound ON
+[ ? 7 l		Wraparound OFF
+[ ? 75 h	Screen display ON
+[ ? 75 l	Screen display OFF
+
+CHARACTER SETS AND LABELS
+~~~~~~~~~~~~~~~~~~~~~~~~
+( A		British 
+( B		North American ASCII set
+( C		Finnish
+( E		Danish or Norwegian
+( H		Swedish
+( K		German
+( Q		French Canadian
+( R		Flemish or French/Belgian
+( Y		Italian
+( Z		Spanish
+( 0		Line Drawing
+( 1		Alternative Character
+( 2		Alternative Line drawing
+( 4		Dutch
+( 5		Finnish
+( 6		Danish or Norwegian
+( 7		Swedish
+( =		Swiss (French or German)
+
+[Note all ( may be replaced with )]
+
+CHARACTER SIZE
+~~~~~~~~~~~~~
+# 1		Double ht, single width top half chars
+# 2		Double ht, single width lower half chars
+# 3 		Double ht, double width top half chars
+# 4		Double ht, double width lower half chars
+# 5		Single ht, single width chars
+# 6		Single ht, double width chars
+
+ATTRIBUTES AND FIELDS
+~~~~~~~~~~~~~~~~~~~~
+[ 0 m		Clear all character attributes
+[ 1 m		Alternate Intensity ON
+[ 4 m		Underline ON
+[ 5 m		Blink ON
+[ 7 m		Inverse video ON
+[ 22 m		Alternate Intensity OFF
+[ 24 m		Underline OFF
+[ 25 m		Blink OFF
+[ 27 m		Inverse Video OFF
+[ 0 }		Protected fields OFF
+[ 1 } 		Protected = Alternate Intensity
+[ 4 }		Protected = Underline
+[ 5 }		Protected = Blinking
+[ 7 }		Protected = Inverse
+[ 254 }		Protected = All attributes OFF
+
+CURSOR COMMANDS
+~~~~~~~~~~~~~~
+[ ? 25 l	Cursor OFF
+[ ? 25 h	Cursor ON
+[ ? 50 l	Cursor OFF
+[ ? 50 h	Cursor ON
+7		Save cursor position and character attributes
+8		Restore cursor position and character attributes
+D		Line feed
+E		Carriage return and line feed
+M		Reverse Line feed
+[ A		Cursor up one line
+[ B		Cursor down one line
+[ C		Cursor right one column
+[ D		Cursor left one column
+[ * A		Cursor up * lines
+[ * B		Cursor down * lines
+[ * C		Cursor right * columns
+[ * D		Cursor left * columns
+[ H		Cursor home
+[ *l ; *c H	Move cursor to line *l, column *c
+[ *l ; *c f	Move curosr to line *l, column *c
+Y nl nc 	Direct cursor addressing (line/column number)
+H		Tab set at present cursor position
+[ 0 g		Clear tab at present cursor position
+[ 3 g		Clear all tabs
+
+EDIT COMMANDS
+~~~~~~~~~~~~
+[ 4 h		Insert mode selected
+[ 4 l		Replacement mode selected
+[ ? 14 h	Immediate operation of ENTER key
+[ ? 14 l	Deferred operation of ENTER key
+[ ? 16 h	Edit selection immediate
+[ ? 16 l	Edit selection deffered
+[ P		Delete character from cursor position
+[ * P		Delete * chars from curosr right
+[ M		Delete 1 char from cursor position
+[ * M		Delete * lines from cursor line down
+[ J		Erase screen from cursor to end
+[ 1 J		Erase beginning of screen to cursor
+[ 2 J		Erase entire screen but do not move cursor
+[ K		Erase line from cursor to end
+[ 1 K		Erase from beginning of line to cursor
+[ 2 K		Erase entire line but do not move cursor
+[ L		Insert 1 line from cursor position
+[ * L		Insert * lines from cursor position
+
+ObBusinessHack: Customer wants a CD-ROM multimedia encyclopaedia, so I buy a
+Soundblaster Pro for #75 which comes bundled with a multimedia encyclopaedia
+CD-ROM. After carefully removing the "not to be sold separately" notice from
+the CD, I sell it on for #75. Result: One free Soundblaster Pro and a happy
+(but gullible) customer.  (Allegedly ;)
+
+Virtually... :)om
+ .............................................................................
+ : INTERNET: Dom@sound.demon.co.uk :: Tel: 0831-88-42-69 Int:+44-831-884-269 :
+ :  FIDONET: VF10 at node 2:254/14 :: PGP 2.3 public key available via Email :
+ :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+

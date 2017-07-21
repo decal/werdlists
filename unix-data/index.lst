@@ -17,3 +17,4 @@ netbsd-sgid-games: paths to executables that have the set-GID bit set on NetBSD
 netbsd-sysctl-symbols: symbols taken from NetBSD `sysctl` entries
 real-users-list: list of user names taken from a real/live UNIX system
 syslog-facility-values: syslog system call facility values taken from RFC3164
+vt100-codes-chart: VT100 and VT52 Compatable Modes ESCape Codes Chart
