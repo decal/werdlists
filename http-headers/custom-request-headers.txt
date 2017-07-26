@@ -1,6 +1,8 @@
 Server-Agent
 Surrogate-Control
 X-Accel-Redirect
+X-Api-User-ID
+X-Api-Roles
 X-API-Key
 X-ATT-DeviceId
 X-Auth-Pass
@@ -46,3 +48,4 @@ X-Storage-User
 X-UIDH
 X-Vertis-Platform
 X-Wap-Profile
+X-XHR-Referer
