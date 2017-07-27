@@ -10,6 +10,7 @@ Age
 Allow
 Alternate-Protocol
 Alt-Svc
+Authentication-Info
 Backoff
 BK-Server
 Cache-Control
@@ -42,6 +43,7 @@ Origin-Edge-Control
 P3P
 Pragma
 Proxy-Authenticate
+Proxy-Authentication-Info
 Public-Key-Pins
 Push-Policy
 Refresh
