@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* fill in root-index.lst with folder descriptions instead of just names
 * split code-keywords/chkeywords.txt into multiple files
 * create a `werdlists` command to perform common utility functions like search
 * rename every `index.lst` to `INDEX.md` so they can have markdown
