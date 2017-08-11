@@ -46,6 +46,7 @@ link-layer:
 linux-paths:
 local-uris:
 methbot-iocs:
+mobile-devs:
 net-ifaces:
 netsh-data:
 ntfs-paths:
