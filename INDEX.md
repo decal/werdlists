@@ -26,15 +26,15 @@ exploit-info: Technical information on exploitation of security vulnerabilities
 file-extens: File extensions, i.e. the part after the period in a file name
 ftp-commands: FTP (File Transfer Protocol) commands as specified by IETF's RFC's
 glibc-code: Code taken from the source code of the GNU standard C library
-html-forms: HTML forms
-html-words: 
+html-forms: Data associated with HTML form mark-up syntax and the like
+html-words: Words not uncommon to come across when parsing HTML dialects
 http-agents: Software version banners for HTTP User Agents also known as browsers
 http-cgi: Common Gateway Interface used for web programming on the server-side
 http-headers: Header fields sent in requests and responses by browsers/servers
 http-methods: Method names sent at the start of a browser's first request line 
 http-params: Parameters browsers sometimes send when requesting server URI paths
 http-paths: Path names browsers almost always must include in queries to servers
-http-queries: 
+http-queries: The object syntax that appears after the question mark in URI's
 http-status: Numeric codes that denote the status of a web server during response
 inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4
 inet-routes: Data useful in the maintenance and use of Internet routing tables
@@ -49,38 +49,37 @@ local-uris: URI's which reference data that is local to the current machine/host
 methbot-iocs: Indicators of Compromise identify malware from the Methbot botnet
 mobile-devs: Miscellaneous items and objects found within mobile devices
 net-ifaces: Detailed information which can be extracted from network interfaces
-netsh-data:
-ntfs-paths:
-nvd-data: 
-opersys-strs:
-passes-dicts:
-passes-sites:
-perl-data:
-port-nums:
-python-data:
-regex-dicts:
-remote-urls:
-ruby-data:
-search-dorks:
-shell-builtins:
-smtp-headers:
-smtp-messages:
-soap-messages:
-software-strs:
-string-enums:
-system-admin:
-system-calls:
-tls-acls:
-top-secret:
-unicode-art:
-unix-data:
-unix-paths:
-vuln-data:
-webapp-data:
-webapp-dirs:
-webapp-files:
-webapp-paths:
-webapp-words:
-web-sites:
-wifi-networks:
-windows-data:
+netsh-data: Output received by executing the `netsh.exe` utility on Windows
+ntfs-paths: Path names expected to be seen in NT file system folders
+nvd-data: Datum utilized by NIST's NVD (National Vulnerability Database) 
+opersys-strs: Strings that relate to one operating system or another 
+passes-dicts: Dictionary files used when brute force attacking account passwords
+passes-sites: Password lists that were publicized after major site compromises
+perl-data: Data often seen in Perl (Practical Extraction and Report Language) 
+port-nums: Positive integers (i.e. whole numbers) representing IP port numbers
+python-data: Data used by the Python scripting language interpreter at runtime
+regex-dicts: Regular expressions
+remote-urls: Lists of tokens that were parsed out of a remote URL string
+ruby-data: Data typically seen within the syntax of the Ruby scripting language
+search-dorks: General purpose search-engine queries likely to find insecure sites
+shell-builtins: Reserved words and such built-in to well-established shell software
+smtp-headers: Header fields transferred over e-mail protocols like SMTP
+smtp-messages: Messages (i.e. signatures, auto-replies, etc.) sent by SMTP servers
+soap-messages: SOAP (Simple Object Access Protocol) messages
+software-strs: Strings found in multi-user software packages
+string-enums: Enumerations of values that aren't too terribly unusual
+system-admin: System administration and BOFH related materials
+system-calls: System calls info for functions that execute in ring0
+top-secret: Files and/or data related to documents that were once classified
+unicode-art: Unicode art which is essentially ASCII art, but with the high-bit 
+unix-data: Data associated with various flavors of the UNIX OS and its clones
+unix-paths: File path names found in various UNIX file systems
+vuln-data: Information about security vulnerabilities found in server software
+webapp-data: Data associated with applications hosted on web servers
+webapp-dirs: Directories related to applications running on a web server
+webapp-files: Files related to applications running on a web server
+webapp-paths: Path names related to applications running on a web server
+webapp-words: Words related to applications running on a web server
+web-sites: Address info on popular and/or organized WWW sites 
+wifi-networks: IEEE 802.11 Wi-Fi network information
+windows-data: Data only found within the Microsoft Windows series of OSes
