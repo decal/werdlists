@@ -1,0 +1,45 @@
+Administrative Tools	
+Application Data	
+CD Burning	
+Common Administrative Tools	
+Common Application Data	
+Common Desktop	
+Common Documents	
+Common Favorites	
+Common Music	
+Common Pictures	
+Common Start Menu	
+Common Start Menu Programs	
+Common Startup	
+Common Templates	
+Common Video	
+Cookies	
+Desktop	
+Downloads	
+Favorites	
+Fonts	
+History	
+Local Application Data	
+My Documents	
+My Music	
+My Pictures	
+My Video	
+NetHood	
+PrintHood	
+Profile Folder	
+Program Files	
+Program Files - Common	
+Program Files - Common x86	
+Program Files x86	
+Quick Launch	
+Recent	
+Send To	
+Start Menu	
+Start Menu Programs	
+Startup	
+System Directory	
+System Directory x86	
+Templates	
+Temporary Folder	
+Temporary Internet Files	
+Windows Directory	
