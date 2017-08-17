@@ -1,8 +1,9 @@
 Things To Do
 ============
 
-* fill in root-index.lst with folder descriptions instead of just names
-* split code-keywords/chkeywords.txt into multiple files
+* write script to clean up which includes a `sort -u` of all `index.md` files
+* fill in `root-index.lst` with folder descriptions instead of just names
+* split `code-keywords/chkeywords.txt` into multiple files
 * create a `werdlists` command to perform common utility functions like search
 * rename every `index.lst` to `INDEX.md` so they can have markdown
 * `sort -u` all `INDEX.md` files to ensure uniqueness and alphabetization
@@ -14,4 +15,4 @@ Things To Do
 * write C program for cleaning up regular wordlists
 * write script/program for cleaning up CSV's and other types for `scripts/bin`
 * make extensions folder to for each file name extension
-* add NetworkManager(8) environment variable names to the full list
+* add `NetworkManager(8)` environment variable names to the full list
