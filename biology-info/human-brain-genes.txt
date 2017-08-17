@@ -1,0 +1,218 @@
+title: "gene composition of the human brain"
+reference: "Sequence identification of 2,375 human brain genes"
+genes:
+14.3.3 protein (PK up regulator)
+2',3'-cyclic nucleotide phosphodiesterase
+60K filarial antigen
+80K-H protein
+ADP-ribosylation factor 1
+ADP/ATP translocase
+AMP deaminase, brain
+actin, beta, cytoskeletal
+actin, gamma, cytoskeletal
+actinin, alpha
+adaptin, beta
+adenosine deaminase
+agrin
+ala
+alcohol dehydrogenase
+aldolase A
+aldolase C
+alpha-enolase
+alpha-2-macroglobulin
+amyloid A4
+anion exchanger homolog AE3
+apolipoprotein J
+aspartate aminotransferase, cytosolic
+aspartate aminotransferase, mitochondria
+axonal gylcoprotein TAG-1
+B cell-specific Mo-MLV integration site
+Bib protein
+CD-SO-p-up
+Ca2+-transporting ATPase
+calbindin D28 #or D2B
+calcineurin A2
+calcium channel
+calmodulin
+calmodulin-dependent PK-up, beta-II
+cAMP-dependent PK-up inhibitor
+cAMP-dependent PK-up regulatory subunit RI-beta
+cAMP-dependent PK-up regulatory subunit RII-beta
+cAMP-regulated phosphoprotein
+cAMP-specific phosphodiesterase
+cannabinoid receptor
+carboxypeptidase E
+casein kinase II alpha subunit
+catalase
+cathepsin D
+cell surface glycoprotein MUC18
+C/D PG40-up
+clathrin coat assembly protein homologue
+coagulation factor VII
+cofilin
+cystein proteinase inhibitor
+cysteine-rich intestinal protein
+cytochrome P-450IIE1
+cytochrome c
+DNA binding protein YAVREB67
+DNA repair helicase (ERCC3)
+DNF1552 (lung) mRNA
+diacylgylcerol kinase, lymphocyte
+diamine acetyltransferase
+dihydrolipoamide acetyltransferase
+dilute (myosin heavy chain)
+discs-large tumor suppressor
+elongation factor 1 alpha
+elongation factor 1 beta
+enloase, gamma-2, neuron specific
+epoxide hydrolase
+ezrin
+familial adenomatous polyposis coli
+fatty acid synthase
+fibrillarin
+fibroblast growth factor receptor
+fibronectin
+fodrin, alpha
+fumarate hydratase, mitochondrial
+G(i) alpha
+G(s) alpha
+GA binding protein, beta subunit
+GTP-binding protein beta chain homologue
+gamma-aminobutyric acid transporter
+gelation factor A8P-280 #or ABP-280
+gelsolin precursor, plasma
+glial fibrillary acidic protein
+globin, gamma
+glutamate decarboxylase
+glutamate dehyrogenase
+glutamate-aspartate carrier protein
+gluxaminase
+glyceraldehyde-3-pohosphate dehyrodgenase
+HLA-B-associated transcript 2 (BAT2)
+heat shock cognate protein 70
+heat shock protein 90
+heparin-binding growth factor 1
+hexokinase I
+high density lipoprotein binding protein
+histocompatibility antigen modifier 1
+histone H1(D)
+hnRNP core protein A1
+hypothetical 43.5K protein
+hypothetical protein (similar to BCR)
+IMP dehydrogenase
+inositol-2,4,5-triphosphate 3-kinase
+insulin-like growth factor II receptor
+interferon regulatory factor 1
+interferon-induced 54k protein #or S4k protein
+J1 protein
+KUP protein
+kinase 5 protein
+kinesin
+Ku autoimmune antigen
+lactate dehyrodgenase A
+lactate dehyrodgenase B
+lamin B receptor
+ion protease
+long-chain-fatty-acid-CoA ligase
+MARCKS homolog
+MHC class I H1A-OW2 heavy chain
+MHC class III HSP70-1 gene (H1A)
+matrin 3
+metalloproteinase inhibitor
+microtubule-associated protein 1B #or 18
+microtubule-associated protein 4
+milk fat globule membrane protein
+monoamine oxidase A (MAOA)
+myelin basic protein
+myeloid differentiation primary response
+myoblast cell surface antigen 24.1D5 #or 24.105
+myosin heavy chain, non-muscle
+N-formylpeptide receptor
+NAD(P)+ transhydrogenase (B-specific)
+NF-kappa-B transcription factor
+Na+/K+ ATPase, alpha subunit
+neural cell adhesion molecule L1
+neuraxin
+neurofibromatosis type 1
+neurofilament heavy chain
+neurofilament subunit M (NF-M)
+neutrophil oxidase factor
+nodulation protein I
+nodulation protein I
+notch/xotch homologue
+nuclear factor 1-like protein (NF1)
+nucleoside diphosphate kinase
+osteonectin/SPARC
+osteopontin
+Otd homeotic protein
+apncreatic tumor-related protein
+peptidylprolyl isomerase (cyclophilin)
+P-4,5-BPI-up
+phosphoglycerate kinase
+polymyxin B resistance
+prohibitin
+prohormone cleavage enzyme
+protein kinase C, beta subunit
+protein kinase C, zeta
+protein phosphatase 2A beta subunit
+PR65 (alpha)-up
+protein-tyrosine kinase (clone JTK14)
+protochlorophyllide reductase
+pyruvate dehyrodgenase alpha subunit
+pyruvate kinase isozyme M2
+rabII
+rab5
+Rac protein kinase
+radial spoke protein 3
+retinaldehyde-binding protein
+retrovirus-related gag polyprotein
+retrovirus-related pol polyprotein
+ribophorin II
+ribosomal phosphoprotein PC
+ribosomal phosphoprotein P1
+ribosomal protein L18a
+ribosomal protein Lia
+ribosomal protein L3
+ribosomal protein SL0
+ribosomal protein YL10
+ribosomal protein S3
+seven in absentia
+spectrin, beta
+sperm membrane protein
+spermidine/spermine N1-acetyltransferase
+sphingomyelin phosphodiesterase
+stathim (p18)
+succinate dehydrogenase flavoprotein
+synaptotagamin (p65)
+T-cell surface glycoprotein E2
+TAPA-1, 26-kDA cell surface protein
+TCTE1-up
+TFEB transcription factor
+talin
+thiosulfate sulfurtransferase (rhodanese)
+threonyl-tRNA synthetase
+thrombosponding precursor
+Thy-1 glycoprotein
+thymosin beta-10
+transcription factor ETR101
+transducin beta-2 subunit
+triose-phosphate isomerase
+tubulin, alpha
+tubulin, beta
+tubulin, beta
+tyrosine kinase
+ubiquitin
+ubiquitin activating enzyme E1 #or El
+Unc-104 (kinesin homologue)
+urophorphyrinogen decarboxylase
+vacuolar H+ ATPase proton channel
+valine-tRNA ligase
+Wilms tumor-related protein
+XPR2 alkaline extracellular protease
+Y box binding protein-1 (YB-1)
+zinc finger protein kox1
+zinc finger protein 9
+zinc finger protein HF.12
+zinc finger protein HF.12
+zinc finger protein HF.12
+zinc finger protein 7

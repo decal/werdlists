@@ -1,0 +1,22 @@
+Error Code 	What It Means 	What Can I Do
+SEC_ERROR_BAD_DER 	A certificate is not properly encoded according to ASN.1 (DER) encoding 	Re-generate the improperly-encoded certificate
+SEC_ERROR_CA_CERT_INVALID 	An end-entity certificate is being used to issue another certificate 	Ensure that any certificate intended to issue certificates has a basic constraints extension with cA: TRUE
+SEC_ERROR_BAD_SIGNATURE 	A signature on a certificate is improperly formatted or the certificate has been tampered with 	Re-issue the certificate with the bad signature
+SEC_ERROR_CERT_BAD_ACCESS_LOCATION 	The OCSP URI in the authorityInformationAccess extension is improperly formed 	Re-generate the certificate with a well-formed OCSP URI
+SEC_ERROR_CERT_NOT_IN_NAME_SPACE 	A certificate has a common name or subject alternative name that is not in the namespace of an issuing certificate 	Re-issue the certificate with names that are within the namespace of all certificates in the chain
+SEC_ERROR_CERT_SIGNATURE_ALGORITHM_DISABLED 	A certificate has been signed with an obsolete algorithm 	Re-sign the certificate using a modern algorithm
+SEC_ERROR_EXPIRED_CERTIFICATE 	A certificate is too old to be used 	Re-generate the certificate
+SEC_ERROR_EXTENSION_VALUE_INVALID 	A certificate has an extension with an empty value 	Re-generate the certificate without the extension, or re-generate it with a non-empty value
+SEC_ERROR_INADEQUATE_CERT_TYPE 	A certificate has an extended key usage extension that does not assert a required usage, or an end-entity certificate asserts the id-kp-OCSPSigning usage when it shouldn't 	Re-generate the certificate with the appropriate extended key usage values
+SEC_ERROR_INADEQUATE_KEY_USAGE 	A certificate has a key usage extension that does not assert a required usage 	Re-generate the certificate with the appropriate key usage values
+SEC_ERROR_INVALID_ALGORITHM 	A certificate has been signed with an unknown algorithm 	Re-sign the certificate with a standardized certificate signing algorithm
+SEC_ERROR_INVALID_TIME 	A time field in a certificate has an invalid value 	Re-generate the certificate with valid encodings for time fields
+MOZILLA_PKIX_ERROR_KEY_PINNING_FAILURE 		
+SEC_ERROR_PATH_LEN_CONSTRAINT_INVALID 		
+SEC_ERROR_UNKNOWN_CRITICAL_EXTENSION 	A certificate contains an extension marked as critical that is not handled by mozilla::pkix 	Re-generate the certificate without the extension or with it not marked as critical
+SEC_ERROR_UNKNOWN_ISSUER 	Either a missing intermediate or root certificate is necessary to verify the certificate 	Import the root certificate into Firefox or have the server send the intermediate
+SEC_ERROR_INVALID_KEY 		
+SEC_ERROR_UNSUPPORTED_KEYALG 		
+SEC_ERROR_EXPIRED_ISSUER_CERTIFICATE 	An issuer certificate is too old 	Re-issue the issuer certificate
+MOZILLA_PKIX_ERROR_CA_CERT_USED_AS_END_ENTITY 	A certificate with a basic constraints extension with cA:TRUE is being used as an end-entity certificate 	Re-generate the end-entity certificate without the basic constraints extension
+MOZILLA_PKIX_ERROR_INADEQUATE_KEY_SIZE 	A certificate has a key that is too small to be secure 	Re-generate a larger key and issue a certificate using that key 

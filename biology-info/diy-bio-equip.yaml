@@ -1,0 +1,140 @@
+title: diybio equipment
+maintainers:
+- Bryan Bishop <kanzure@gmail.com>
+license: CC-BY-SA-3.0+ unported
+
+urls:
+- http://openwetware.org/wiki/DIYbio/FAQ/Equipment
+- http://openwetware.org/wiki/DIYbio/FAQ/Projects
+- http://socal-diybio.org/Inventory
+- http://groups.google.com/group/diybio
+- http://diyhpl.us/cgit/skdb
+
+description:
+    This document lists out basic lab equipment, supplies, materials and
+    reagents that would make up an ideal molecular biology lab. At the same
+    time, this document exists to help list equipment that is useful in
+    do-it-yourself biology projects. Hypothetically, hardware packages will be
+    made for each of these.
+
+notes:
+    glassware: the name is deceptive because it is more than just glass..
+    sizes: these are just common sizes, not super important
+
+todo:
+    - cleaning supplies
+    - biological reagents
+    - office supplies
+    - reusable/consumable equipment
+    - safety/emergency equipment
+    - fix uncategorized entries
+
+basic equipment list:
+    - thermometers
+    - micropipettors
+    - scissors or razor blade
+    - thin-edge knife
+    - hot plates
+    - bunsen burner
+    - kitchen microwave
+    - refrigerator
+    - freezer
+    - deep freeze
+    - fume hood
+    - sink
+    - lab bench
+    - lab computer
+    - bench stools
+    - mass scale
+    - gel comb
+    - gel electrophoresis box
+    - gel box power supply
+    - transilluminator
+    - gel imager
+    - web cam
+    - thermocycler
+    - spectrophotometer
+    - high-performance liquid chromatography
+    - mass spectrometer
+    - optical microscope
+    - atomic force microscope
+    - nmr spectrometer
+    - spectrogram
+    - colorimeter
+    - pH meter
+    - centrifuge
+    - microcentrifuge
+    - dremelfuge
+    - electroporator
+    - shaker
+    - incubator
+    - autoclave
+    - oven
+    - ? dish washer
+    - spin coater
+    - dna sequencer
+    - dna synthesizer
+    - racks for microcentrifuge tubes
+    - inoculating loops
+    - geiger counter
+
+glassware:
+    - erlenmeyer flasks:
+        sizes: [100mL, 250mL, 1000mL]
+    - graduated cylinders:
+        sizes: [100mL, 250mL, 500mL, 1000mL]
+    - beakers:
+        sizes: [250mL, 500mL, 1000mL]
+    - bottles:
+        sizes: [100mL, 500mL]
+    - glass pipettes:
+        sizes: [25mL, 10mL, 5mL, 2mL]
+        dependencies:
+        - or:
+            - rubber bulbs
+            - pipette pumps
+    - pasteur pipettes
+    - squirt bottles
+    - screw-cap polypropylene tubes:
+        sizes: [15mL, 50mL]
+    - polypropylene pipette tips
+    - microcentrifuge tubes:
+        sizes: [0.5mL, 1.5mL]
+        optional: o-rings
+    - pcr reaction tubes:
+        sizes: [0.2mL]
+    - water bath tubs:
+        notes: i.e., for manual pcr, not the human-sized tubs
+    - petri dishes
+
+reagents and chemicals:
+
+safety and emergency:
+    - first aid kits
+    - eye washer station
+    - shower
+    - material safety datasheets
+
+cleaning supplies:
+
+office supplies:
+
+uncategorized:
+    - lab coat
+    - gloves
+    - sterile toothpicks
+    - ice
+    - ice buckets
+    - permanent markers
+    - pencils
+    - pens
+    - paper
+    - paper towels
+    - scotch tape
+    - parafilm
+    - cotton
+    - fire extinguisher
+    - first-aid kits
+    - goggles
+    - plexiglass shields
+    - spatulas
