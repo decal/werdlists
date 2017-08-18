@@ -1,0 +1,10 @@
+# These cause 100% CPU usage on Chrome and NodeJS
+
+http://ddos-link.com/[test.......................................]
+
+"http://www.ghislainproulx.net/Blog/2014/09/contributing-to-a-github-open-source-project-(from-a-visual-studio-developer-perspective)".replace(/\b((?:[a-z][\w-]+:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?]))/gi, function(url){
+  // this will never be executed on Chrome/Node
+  console.log(url);
+});
+
+"Ficheiro:Joseph_Ducreux_(French_-_Self-Portrait,_Yawning_-_Google_Art_Project.jpg"
