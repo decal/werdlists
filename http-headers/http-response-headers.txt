@@ -38,6 +38,7 @@ Last-Modified
 Link
 Location
 MDT-Type
+MI
 Origin-Cache-Control
 Origin-Edge-Control
 P3P
