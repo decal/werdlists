@@ -1,0 +1,17 @@
+client_id
+client_secret
+response_type
+scope
+state
+redirect_uri
+error
+error_description
+error_uri
+grant_type
+code
+access_token
+token_type
+expires_in
+username
+password
+refresh_token
