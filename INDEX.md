@@ -38,6 +38,7 @@ http-queries: The object syntax that appears after the question mark in URI's
 http-status: Numeric codes that denote the status of a web server during response
 inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4
 inet-routes: Data useful in the maintenance and use of Internet routing tables
+infosec-people: Noteworthy individuals within the information security community
 ios-data: Datum specific to Cisco's IOS (Internetwork Operating System) 
 chat-commands: Both standard and custom Internet Relay Chat commands
 iso-codes: International Standardization Organization code numbers and such
@@ -55,10 +56,10 @@ nvd-data: Datum utilized by NIST's NVD (National Vulnerability Database)
 opersys-strs: Strings that relate to one operating system or another 
 passes-dicts: Dictionary files used when brute force attacking account passwords
 passes-sites: Password lists that were publicized after major site compromises
-perl-data: Data often seen in Perl (Practical Extraction and Report Language) 
-port-nums: Positive integers (i.e. whole numbers) representing IP port numbers
+perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
+port-nums: Positive integers (whole numbers) that represent IP port numbers
 python-data: Data used by the Python scripting language interpreter at runtime
-regex-dicts: Regular expressions
+regex-dicts: Regular expression dictionaries for pattern matching and attacks
 remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
@@ -74,6 +75,7 @@ top-secret: Files and/or data related to documents that were once classified
 unicode-art: Unicode art which is essentially ASCII art, but with the high-bit 
 unix-data: Data associated with various flavors of the UNIX OS and its clones
 unix-paths: File path names found in various UNIX file systems
+uri-schemes: Lists containing references for URI schemes (part before colon)
 vuln-data: Information about security vulnerabilities found in server software
 webapp-data: Data associated with applications hosted on web servers
 webapp-dirs: Directories related to applications running on a web server
