@@ -1,0 +1,432 @@
+2017-06-01 afsportal.euro.apple.com
+A server configuration issue was addressed. We would like to acknowledge Vedachala (theinformationsecurity.com) for reporting this issue.
+2017-05-31 lists.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2017-05-30 developer.filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Sadik Shaikh (linkedin.com/in/sadikshaikh) of ExtremeHacking.org for reporting this issue.
+2017-05-30 consultants.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Richard Alviarez (@queseguridad) for reporting this issue.
+2017-05-27 apple.com
+A server configuration issue was addressed. We would like to acknowledge Mohammed Israil (facebook.com/VillageLad) for reporting this issue.
+2017-05-23 investor.apple.com 
+A clickjacking issue was addressed. We would like to acknowledge Blake Rand of Grandview Preparatory School for reporting this issue.
+2017-05-22 feedback.apple.com
+A server configuration issue was addressed. We would like to acknowledge Seyed Morteza Haghiralsadat of CERT Lab of Ferdowsi University of Mashhad for reporting this issue.
+2017-05-12 webcast.apple.com
+A server configuration issue was addressed. We would like to acknowledge Adrien Paulet of Rbcafe (rbcafe.com) and an anonymous researcher for reporting this issue.
+2017-05-12 apple.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2017-05-09 search.developer.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Wai Yan Aung (@waiyanaun9) for reporting this issue.
+2017-05-03 icloud.com
+A cross-site scripting issue was addressed. We would like to acknowledge Musab Alhussein (linkedin.com/in/musab1) of RespondTeam.com for reporting this issue.
+2017-04-25 your.beatsbydre.com
+A cross-site scripting issue was addressed. We would like to acknowledge Emre KOSEOGLU, Edwin Foudil (edwinfoudil.com), and Luke McInerney (linkedin.com/in/luke-mcinerney) of Babson College for reporting this issue.
+201704-18 store.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2017-04-18 developer.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Joel Ahlstedt (@jolle) for reporting this issue.
+2017-04-18 clearmater.apple.com
+A server configuration issue was addressed. We would like to acknowledge Kravchenko Stas (@zuh4n) for reporting this issue.
+2017-04-18 atlaslms.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Mustafa Hasan (@strukt93) of Netsparker for reporting this issue. 
+2017-04-18 support.apple.com
+A server configuration issue was addressed. We would like to acknowledge MD. Toufique Imam Chowdhury (facebook.com/toufiqueimam) for reporting this issue.
+2017-04-12 beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge Vipin Chaudhary (@vipinxsec) for reporting this issue.
+2017-04-12 opensource.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Alec Blance (facebook.com/alec.blance) for reporting this issue.
+2017-04-10 itunesconnect.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2017-03-30 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Jose Carlos Exposito Bueno for reporting this issue.
+2017-03-28 bugreport.apple.com
+A server configuration issue was addressed. We would like to acknowledge Seth Vargo (@sethvargo) of HashiCorp for reporting this issue.
+2017-03-24 developer.filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Joseph Jose (@josephjose_96) for reporting this issue.
+2017-03-24 apple.com
+A server configuration issue was addressed. We would like to acknowledge Zain Amro (zaytoun.io) for reporting this issue.
+2017-03-23 filemakerjobbard.com
+A server configuration issue was addressed. We would like to acknowledge Amol Bhure (linkedin.com/in/amolbhure/) of Attify Inc. (attify.com) and Ajay S. Kulal (@ajay_kulal) of Dr. Homi Bhabha Vidyalaya for reporting this issue.
+2017-03-21 itunes.com
+A cross-site scripting issue was addressed. We would like to acknowledge Christian Goldbach for reporting this issue.
+2017-03-21 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Richard Shupak (linkedin.com/in/rshupak) for reporting this issue.
+2017-03-20 getsupport.apple.com
+A server configuration issue was addressed. We would like to acknowledge Eusebiu Blindu (@testalways) for reporting this issue.
+2017-03-16 beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2017-03-16 bestbydre.com
+A cross-site scripting issue was addressed. We would like to acknowledge Muhammad Khizer Javed of SecurityBreached.com.pk, Kunal Khubchandani (@__kun4l__), Muhammad Uwais (@Muhd_Uwais_), Mohammed Abdul Raheem of Shadan College of Engineering and Technology (Hyderabad), and an anonymous researcher for reporting this issue.
+2017-03-15 discussions.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Seyed Morteza Haghiralsadat and Sajjad Pourali of CERT of Ferdowsi University of Mashhad for reporting this issue.
+2017-03-07 mfi.apple.com
+A server configuration issue was addressed. We would like to acknowledge Nike.Zheng of Webin security lab (dbapp security Ltd.), Zhaohuan of Tencent Security Platform (security.tencent.com), and YongShao - zhiyong Feng of JDSEC (1aq.com) for reporting this issue.
+2017-03-07 developer.apple.com
+A server configuration issue was addressed. We would like to acknowledge Zhaohuan of Tencent Security Platform (security.tencent.com) for reporting this issue.
+2017-03-07 ara.apple.com
+A server configuration issue was addressed. We would like to acknowledge Nike.Zheng of Webin security lab (dbapp security Ltd.), Zhaohuan of Tencent Security Platform (security.tencent.com), YongShao - zhiyong Feng of JDSEC (1aq.com), Terry Zhang of Tophant.com, silence (@silence_darker), Yulu (yu1u.org) of Guizhou Yulu security team, and 4ft35t of (knownsec.com) for reporting this issue.
+2017-03-07 aoschat.apple.com
+A server configuration issue was addressed. We would like to acknowledge Bharath Kumar (linkedin.com/in/BharathKumarMV) for reporting this issue.
+2017-03-05 discussions.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Vladimir Dimitrijevski, Jubaer Al Nazi of ServerGhosts Bangladesh, IVAN DANILOV, Nurullah Demir (ndemir.com), Muhammad Zeeshan, Juhani Hautala, Abdel Hafid Ait Chikh (@hafidaitchik), and an anonymous researcher for reporting this issue.
+2017-02-28 affiliate.itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Jayson Vasquez Rubio of Iloilo Science and Technology University, ISAT-U for reporting this issue.
+2017-02-28 itunesconnect.apple.com
+A clickjacking issue was addressed. We would like to acknowledge AbedAlqader Swedan (facebook.com/crypter1996a), Rahmat Nurfauzi (linkedin.com/in/rahmatnurfauzi), and Viral Maniar (@maniarviral) for reporting this issue.
+2017-02-28 direct.filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Ajay S. Kulal (@ajay_kulal) of Dr. Homi Bhabha Vidyalaya, Tarapur for reporting this issue.
+2017-02-27 procurementportal.apple.com
+A server configuration issue was addressed. We would like to acknowledge Sadik Shaikh (linkedin.com/in/sadikshaikh) of ExtremeHacking.org for reporting this issue.
+2017-02-27 idmsa.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ahsan Tahir (@AhsanTahirAT) for reporting this issue.
+2017-02-13 beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge Ashutosh Kumar (@divashutosh) for reporting this issue.
+2017-02-06 appleid.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2017-02-03 iforgot.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Kieran Claessens (kieranclaessens.be) of Howest for reporting this issue.
+2017-02-02 mynews.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Vishal Shukla (@shukla304), Abhishek Shroti (@Fake_Politics), Mustafa Hasan (strukt), Hussain Adnan Hashim (@hussain_0x3c), and an anonymous researcher for reporting this issue.
+2017-01-30 procurementportal.apple.com
+A server configuration issue was addressed. We would like to acknowledge Seyed Morteza Haghiralsadat (linkedin.com/in/seyed-morteza-haghiralsadat-05325471/), CERT LAB Ferdowsi University of Mashhad, Iran.
+2017-01-24 itunes.com
+A server configuration issue was addressed. We would like to acknowledge Sergey Bobrov (@Black2Fan) for reporting this issue.
+2017-01-20 filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Anas Roubi (@Qasuar) for reporting this issue.
+2017-01-18 help.filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Rahul Dattatraya Kankrale of Servicenger for reporting this issue.
+2016-12-18 challengebasedlearning.org
+A cross-site request forgery issue was addressed. We would like to acknowledge Er Pratik Panchal of Infobit Technologies for reporting this issue.
+2016-12-18 challengebasedlearning.org
+A cross-site scripting issue was addressed. We would like to acknowledge Jon Bottarini (@jon_bottarini), Rui Silva (facebook.com/ruisilvaoficial), Kevin VALERIO (@conslight), and an anonymous researcher for reporting this issue.
+2016-12-13 beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge Mohammed El Bess (facebook.com/halbess) and Mohammad Abuhassan (facebook.com/anonfantom) for reporting this issue.
+2016-12-08 myaccess.apple.com
+A server configuration issue was addressed. We would like to acknowledge Jon Bottarini (@jon_bottarini) of HackerOne for reporting this issue.
+2016-12-08 icloud.com
+A cross-site scripting issue was addressed. We would like to acknowledge Greg Harris for reporting this issue.
+2016-12-07 store.apple.com
+A server configuration issue was addressed. We would like to acknowledge Patrick Schlangen for reporting this issue.
+2016-11-28 apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2016-11-28 apple.com
+A clickjacking issue was addressed. We would like to acknowledge Kameshwar Thakur (securityspecialist.in) and Ramin Farajpour Cami (bugjoo.ir) for reporting this issue.
+2016-11-18 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Richard Shupak (linkedin.com/in/rshupak) for reporting this issue.
+2016-11-04 opensource.apple.com
+A server configuration issue was addressed. We would like to acknowledge Dane Wachs of Ubiquitous Computing LLC and an anonymous researcher for reporting this issue.
+2016-11-02 itunesconnect.apple.com
+A server configuration issue was addressed. We would like to acknowledge Juha Suontausta of Telia Company for reporting this issue.
+2016-11-02 store.apple.com
+A server configuration issue was addressed. We would like to acknowledge Raad Firas Haddad (@raadfhaddad) for reporting this issue.
+2016-10-31 solutions.filemaker.com
+A cross site scripting issue was addressed. We would like to acknowledge Nicholas R (linkedin.com/in/Nixholas) for reporting this issue.
+2016-10-25 searchads.apple.com
+A server configuration issue was addressed. We would like to acknowledge an Gökay Gündoğan (www.gokaygundogan.com.tr) for reporting this issue.
+2016-10-19 applepaysupplies.com
+A cross-site request forgery issue was addressed. We would like to acknowledge Djoukhrab Djaber (facebook.com/djrootdz) of Kasdi Merbah Ouargla University for reporting this issue.
+2016-10-13 attache.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Tadj Youssouf (facebook.com/oc3f.dz)
+2016-10-10 iforgot.apple.com
+A server configuration issue was addressed. We would like to acknowledge Mourad Benzine for reporting this issue.
+2016-10-05 developer.apple.com
+A server configuration issue was addressed. We would like to acknowledge Wai Yan Aung (@waiyanaun9) for reporting this issue.
+2016-10-05 procurementportal.apple.com
+A server configuration issue was addressed. We would like to acknowledge Eusebiu Blindu (@testalways) for reporting this issue.
+2016-10-03 qtdevseed.apple.com
+A server configuration issue was addressed. We would like to acknowledge Marco Cazzaniga for reporting this issue.
+2016-10-03 qtdevseed.apple.com
+A server configuration issue was addressed. We would like to acknowledge @kraken_kall for reporting this issue.
+2016-10-03 qtdevseed.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2016-09-27 getsupport.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Nicolas Francois of MeoW Sec for reporting this issue.
+2015-09-23 cctechchatwebapi.apple.com
+A server configuration issue was addressed. We would like to acknowledge Kieran Claessens (kieranclaessens.be) for reporting this issue.
+2016-09-22 checkcoverage.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Zee Shan (@z33_5h4n) of hacker1.xyz, Louis Lang (louislang.com), Ivan Danilov (linkedin.com/in/coderast) of IPSERVER LLC, Gerardo Venegas, Edwin Foudil (edwinfoudil.com), Mustafa Hasan of Netsparker, Faizan Ahmad of Fsecurify (fsecurify.com), Orange Tsai from DEVCORE, James262144XD, and Joel Noguera (@niemand_sec) for reporting this issue.
+2016-09-14 apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Florian Kunushevci (facebook.com/misteriozi.pirat.kwg) for reporting this issue.
+2016-09-13 apple.com
+A cross site scripting issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2016-09-13 apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Jake Eaton (linkedin.com/in/jake-eaton), Sahil Tikoo of Thakur College, Rahul Dattatraya Kankrale (@RahulKankrale) of servicenger.com, Matthew Telfer (MLT) of Project Insecurity (@ret2libc), and Cameron Dawe of Spam404 (@Spam404Online) for reporting this issue.
+2016-09-12 carrierlink.apple.com
+A server configuration issue was addressed. We would like to acknowledge HexTitan for reporting this issue.
+2016-09-12 identity.appple.com
+A server configuration issue was addressed. We would like to acknowledge Michael Stepankin of Positive Technologies (@Artsploit) for reporting this issue.
+2016-09-02 presslogin.beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge Kenny Hietbrink (hietbr.ink) of Syntra West for reporting this issue.
+2016-8-31 apple.com
+A server configuration issue was addressed. We would like to acknowledge Faast Team of ElevenPaths.com for reporting this issue.
+2016-08-29 filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Ayoub Nait Lamine for reporting this issue.
+2016-08-16 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Alexander Traud of (traud.de) for reporting this issue.
+2016-08-10 apple.com
+A server configuration issue was addressed. We would like to acknowledge Brooke Schreier Ganz (@Asparagirl) for reporting this issue.
+2016-08-08 itunesconnect.apple.com
+A server configuration issue was addressed. We would like to acknowledge Simon Maddox and an anonymous researcher for reporting this issue.
+2016-07-27 apple.com
+A server configuration issue was addressed. We would like to acknowledge Ye Yint Min Thu Htut (YGN Ethical Hacker group yehg.net) and Satyam Rastogi (facebook.com/hackersatyamrastogi) for reporting this issue.
+2016-07-26 download.info.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ye Yint Min Thu Htut (YGN Ethical Hacker group yehg.net) for reporting this issue.
+2016-07-22 lookup-api.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Orange Tsai of DEVCORE for reporting this issue.
+2016-07-22 developer.filemaker.com
+A cross site scripting issue was addressed. We would like to acknowledge Dharamvir Bisht (linkedin.com/in/dharamvirbisht) for reporting this issue.
+2016-07-13 appstore.com
+A server configuration issue was addressed. We would like to acknowledge Richard Shupak (linkedin.com/in/rshupak) for reporting this issue.
+2016-07-11 retailjss.apple.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2016-07-11 itunesu.itunes.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Hasan Emre Özer for reporting this issue.
+2016-06-23 challengebasedlearning.org
+A SQL injection issue was addressed. We would like to acknowledge Shawar Khan (facebook.com/shawarkhanskofficial) (shawarkhan.com) for reporting this issue.
+2016-06-20 beatsbydre.com
+A cross-site request forgery issue was addressed. We would like to acknowledge Aaditya Purani of IET-SEAS (@aaditya_purani) for reporting this issue.
+2016-06-17 itunes.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Cameron Dawe of Spam404 (@Spam404Online) and Abhishek Shroti (@Fake_Politics) for reporting this issue.
+2016-05-11 linkmaker.itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Richard Shupak (linkedin.com/in/rshupak) for reporting this issue.
+2016-05-11 support.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ye Yint Min Thu Htut (YGN Ethical Hacker group yehg.net) for reporting this issue.
+2016-05-11 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Gary O'Leary-Steele (sec-1.com) and Graham Bacon (appcheck-ng.com) for reporting this issue.
+2016-05-11 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Gary O'Leary-Steele of sec-1.com and Graham Bacon of appcheck-ng.com for reporting this issue.
+2016-05-05 itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Akshay Jain (facebook.com/akshayjain011) for reporting this issue.
+2016-05-05 itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Akshay Jain (facebook.com/akshayjain011) for reporting this issue.
+2016-04-22 apple.com
+A server configuration issue was addressed. We would like to acknowledge SaifAllah benMassaoud of Evolution Security GmbH - Government Laboratory (facebook.com/WhiteHatSecuri) for reporting this issue.
+2016-04-20 trailers.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Edwin Foudil (edwinfoudil.com) for reporting this issue.
+2016-04-20 jobs.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Cosmin Maier of Zeroday.pro Labs for reporting this issue.
+2016-04-13 trailers.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Edwin Foudil (edwinfoudil.com) for reporting this issue.
+2016-04-11 myaccess.apple.com
+A server configuration issue was addressed. We would like to acknowledge Latish Danawale (facebook.com/latish.danawale.14) and Suraj Mulik (facebook.com/suraj.mulik) for reporting this issue.
+2016-04-14 apple.com
+A server configuration issue was addressed. We would like to acknowledge Ing. Darnhofer Armin of Optix-IO AG for reporting this issue.
+2016-03-16 appleid.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Mustafa Hasan (@strukt93) for reporting this issue.
+2016-03-02 wwdcservo.apple.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2016-02-10 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Richard Shupak (linkedin.com/in/rshupak) for reporting this issue.
+2016-02-10 icloud.com
+A cross-site scripting issue was addressed. We would like to acknowledge Kieran Claessens (@KieranClaessens) for reporting this issue.
+2016-02-08 volume.itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Guilherme Scombatti (linkedin.com/in/guilhermescombatti) for reporting this issue.
+2016-02-08 consultants.apple.com
+A server configuration issue was addressed. We would like to acknowledge Charfeddine Hamdi (@tws_charfeddine) of Tunisian WhiteHat Security for reporting this issue.
+2016-02-04 filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2016-02-04 rtc.euro.apple.com
+A clickjacking issue was addressed. We would like to acknowledge Guilherme Scombatti (linkedin.com/in/guilhermescombatti) for reporting this issue.
+2016-02-02 support.beatsmusic.com and support.burstly.com
+A server configuration issue was addressed. We would like to acknowledge Harry M. Gertos for reporting this issue.
+2016-02-01 presslogin.beatsbydre.com
+A server configuration issue was addressed. We would like to acknowledge Harsh Jaiswal (@rootxflood) & Rudra for reporting this issue.
+2016-01-26 apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge U.Kiranvas Reddy (fb.com/Kiranreddyrebel) for reporting this issue.
+2016-01-15 support.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Jaanus Kääp of Clarified Security and Geoffrey Van Den Berge (@geoffreyvdberge) for reporting this issue.
+2016-01-15 wikid.filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2016-01-11 itunesconnect.apple.com
+A server configuration issue was addressed. We would like to acknowledge Rameen Mashhoon (hackerone.com/rmashhoon) for reporting this issue.
+2016-01-04 ets-web.filemaker.apple.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2015-12-17 pro.topsy.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-12-17 topsy.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-12-17 topsy.com
+A server configuration issue was addressed. We would like to acknowledge Bill Cave for reporting this issue.
+2015-12-17 topsy.com
+A server configuration issue was addressed. We would like to acknowledge Sindhuja Sane (facebook.com/sindhuja.reddy.137) for reporting this issue.
+2015-12-17 topsy.com
+A server configuration issue was addressed. We would like to acknowledge Muhammad Shahmeer for reporting this issue.
+2015-12-17 topsy.com
+A cross-site scripting issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-12-17 pro.topsy.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-12-15 topsy.com
+A cross site request forgery issue was addressed. We would like to acknowledge Zeyad Khaled Mohamed (@zeyadk99) for reporting this issue.
+2015-12-15 pro.topsy.com
+A server configuration issue was addressed. We would like to acknowledge Hardik Tailor (@iamhardiktailor) (facebook.com/hardik.tailor.hkr) for reporting this issue.
+2015-12-15 pro.topsy.com
+A server configuration issue was addressed. We would like to acknowledge Hardik Tailor (@iamhardiktailor) (facebook.com/hardik.tailor.hkr) for reporting this issue.
+2015-12-15 pro.topsy.com
+A server configuration issue was addressed. We would like to acknowledge Hardik Tailor (@iamhardiktailor) (facebook.com/hardik.tailor.hkr) for reporting this issue.
+2015-12-01 ets-web.filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Micheal Cottingham for reporting this issue.
+2015-12-01 filemaker.com
+A server configuration issue was addressed. We would like to acknowledge Ahmed Adel Abdelfattah (facebook.com/00SystemError00) for reporting this issue.
+2015-12-01 consultants.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Hadji Samir of Evolution Security GmbH - Vulnerability Laboratory and Mohamed Khaled Fathy (facebook.com/Squnity) for reporting this issue.
+2015-11-18 id.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Mazen Gamal Mesbah (@MazenGamal) for reporting this issue.
+2015-11-17 selfsolve.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Roberto Zanga (facebook.com/Liau180912) for reporting this issue.
+2015-11-13 apple.com/feedback
+A server configuration issue was addressed. We would like to acknowledge Jose Carlos Exposito Bueno of 0xlabs for reporting this issue.
+2015-10-26 support.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Mohammad Ben-Amoor of LMaster team for reporting this issue.
+2015-10-26 support.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Tatsuki Maekawa of Gehirn Inc. for reporting this issue.
+2015-10-21 consultants.apple.com
+A server configuration issue was addressed. We would like to acknowledge Prem Kumar (@iAmPr3m) for reporting this issue.
+2015-10-13 help.filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Sumit Sahoo (facebook.com/54H00) for reporting this issue.
+2015-10-09 icloud.com
+A server configuration issue was addressed. We would like to acknowledge Abdulraheem Khaled bin el waled for reporting this issue.
+2015-10-05 challengebasedlearning.org
+A clickjacking issue was addressed. We would like to acknowledge Michal Koczwara (linkedin.com/in/michalkoczwara) and an anonymous researcher for reporting this issue.
+2015-10-01 beatsbydre.com
+A cross-site scripting issue was addressed. We would like to acknowledge Noah Wilcox of CraterDesigns.com for reporting this issue.
+2015-09-28 developer.filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Kévin Valentin Vigerie for reporting this issue.
+2015-09-25 ecommerce.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Kacper Rybczyński of kacperrybczynski.com for reporting this issue.
+2015-09-22 contentdelivery.itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge @TwitterSecurity for reporting this issue.
+2015-09-21 idmsa.apple.com
+A server configuration issue was addressed. We would like to acknowledge Aditya Balapure (in.linkedin.com/in/adityabalapure) for reporting this issue.
+2015-09-16 erp.apple.com
+A server configuration issue was addressed. We would like to acknowledge Rafael Fontes Souza (linkedin.com/in/rafaelfontessouza) of Cipher Intelligence Labs for reporting this issue.
+2015-09-16 configuration.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ayoub Fathi for reporting this issue.
+2015-09-16 jobs.apple.com
+An information disclosure issue was addressed. We would like to acknowledge Jean-Pierre Mouilleseaux for reporting this issue.
+2015-09-04 iforgot.apple.com
+A server configuration issue was addressed. We would like to acknowledge Kiran Karnad (@ipentest), Basava Gowda (facebook.com/basava.sb), Ali kabeel (kabeel.com) and Raghavendra Yadav for reporting this issue.
+2015-09-04 itunesconnect.apple.com
+A cross-site request forgery issue was addressed. We would like to acknowledge @RonMasas for reporting this issue.
+2015-09-04 itunesconnect.apple.com
+An open redirect issue was addressed. We would like to acknowledge @RonMasas for reporting this issue.
+2015-09-04 apple.com
+A mail server configuration issue was addressed. We would like to acknowledge Abdul Haq Khokhar (@abdulhaqkhokhar) of Haqtify.com, Yash pandya (yashpandyasecuritytester.blogspot.com), and Ketan Patil (linkedin.com/pub/ketan-patil/14/863/805) of infobittechnologies.com for reporting this issue.
+2015-08-28 iadworkbench.apple.com
+A clickjacking issue was addressed. We would like to acknowledge Jayvardhan Singh (@Silent_Screamr) for reporting this issue.
+2015-08-24 burstly.com
+A server configuration issue was addressed. We would like to acknowledge Pulkit Pandey (@pulkitpandey92) for reporting this issue.
+2015-08-24 topsy.com
+A cross-site scripting issue was addressed. We would like to acknowledge Rodolfo Godalle, Jr. (facebook.com/junior.ns1de) for reporting this issue.
+2015-08-27 itunesconnect.apple.com
+An information disclosure issue was addressed. We would like to acknowledge Simon Nishi McCorkindale of FUNX for reporting this issue.
+2015-08-27 itunesu.itunes.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Spencer Gietzen of San Diego State University and Ameen Saleminik of Cal High for reporting this issue.
+2015-08-21 burstly.com
+A server configuration issue was addressed. We would like to acknowledge an Kaustubh G. Padwad (@s3curityb3ast)researcher for reporting this issue.
+2015-08-20 asw.apple.com
+A server configuration issue was addressed. We would like to acknowledge Muhammad Shahzad (pk.linkedin.com/in/mbinshahzad) for reporting this issue.
+2015-08-11 apple.com
+An input validation issue was addressed. We would like to acknowledge Benjamin Kunz Mejri of Evolution Security GmbH for reporting this issue.
+2015-08-05 metaio.com
+A clickjacking issue was addressed. We would like to acknowledge C Vishnu Vardhan Reddy (facebook.com/vishnu.dfx) for reporting this issue.
+2015-07-28 topsy.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-07-28 itunespulse.com
+A content spoofing issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-07-28 itunespulse.com
+A clickjacking issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-07-27 beatsbydre.com
+A cross-site scripting issue was addressed. We would like to acknowledge Saurabh Pundir (facebook.com/sauby007) of Torrid Networks Pvt Ltd. for reporting this issue.
+2015-07-23 support.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Hadji Samir of Evolution Security GmbH for reporting this issue.
+2015-07-08 beatsbydre.com
+A cross-site scripting issue was addressed. We would like to acknowledge Osanda Malith Jayathissa - ඔසඳ මලත ජයතසස (@OsandaMalith), Shrey Sethi (PioNeer Haxs, facebook.com/shreysethi56), and Kevin Tram (facebook.com/Chris.yolor) for reporting this issue.
+2015-07-08 albert.apple.com
+A server configuration issue was addressed. We would like to acknowledge Alexander Traud of traud.de for reporting this issue.
+2015-07-01 itunesu.itunes.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Hadji Samir of Evolution Security GmbH for reporting this issue.
+2015-06-25 consultants.apple.com
+A directory traversal issue was addressed. We would like to acknowledge Amit Kumar (linkedin.com/in/Hitman) of Tula's Institute, Dehradun for reporting this issue.
+2015-06-24 marketresearch.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-06-23 filemaker.com
+A cross-site scripting issue was addressed. We would like to acknowledge Yogesh Tantak (facebook.com/ytantak1), Shrikant Bagdanen (facebook.com/ShrikantRaje), and Sunil Bhamare (facebook.com/sunil2809) for reporting this issue.
+2015-06-18 challengebasedlearning.org
+An information disclosure issue was addressed. We would like to acknowledge Max Prietzel for reporting this issue.
+2015-06-10 solutions.filemaker.com
+An SQL injection issue was addressed. We would like to acknowledge Blancke Enzo of Oostrozebeke, Belgium (facebook.com/enzo.blancke) for reporting this issue.
+2015-06-09 airprint.apple.com
+An SSL configuration issue was addressed. We would like to acknowledge Hardik Tailor (@iamhardiktailor - facebook.com/hardik.tailor.hkr) and Pulkit Pandey (@pulkitpandey92) for reporting this issue.
+2015-06-09 airprint.apple.com
+A credential handling issue was addressed. We would like to acknowledge Hardik Tailor (@iamhardiktailor - facebook.com/hardik.tailor.hkr) for reporting this issue.
+2015-06-08 itunesu.itunes.apple.com
+A stored cross site scripting issue was addressed. We would like to acknowledge Tameem Safi (safi.me.uk) for reporting this issue.
+2015-06-08 pro.topsy.com
+An insecure session cookie was addressed. We would like to acknowledge Jose Rabal Sastre (joserabal.com) and Mo'men Basel (MomenBasel.com) for reporting this issue.
+2015-06-04 topsy.com
+A cross site scripting issue was addressed. We would like to acknowledge Amit A Shora of Global Artificial Solution (facebook.com/amit.sohara) for reporting this issue.
+2015-06-02 discussions.apple.com
+A content spoofing issue was addressed. We would like to acknowledge Joel Melegrito of Invalid Web Security for reporting this issue.
+2015-06-01 deploy.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Nabeel Ahmed of Dimension Data Belgium for reporting this issue.
+2015-05-28 itunesu.itunes.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Michael Stolarz for reporting this issue.
+2015-05-28 store.apple.com
+A stored cross site scripting issue was addressed. We would like to acknowledge Wang Jing (tetraph.com/wangjing/), Balaji P R (balag.in and linkedin.com/in/balagpy), Christopher Dreher (@schniggie), Osman Doğan (@osmand0gan and linkedin.com/profile/view?id=113218663), Mahmoud El Manzalawy (@is4curity), and Alexandre V Pessoa for reporting this issue.
+2015-05-28 itunesu.itunes.apple.com
+A stored cross site scripting issue was addressed. We would like to acknowledge Yashar Ghaffarloo for reporting this issue.
+2015-05-22 itunesconnect.apple.com 
+A session management issue was addressed. We would like to acknowledge Renato Ribeiro (renatoribeiro.me) for reporting this issue.
+2015-05-20 deploy.apple.com
+An open redirect issue was addressed. We would like to acknowledge Fady S. Ghatas of TiTrias.com for reporting this issue.
+2015-05-13 static.ips.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ryan Dolan "dangerdwolf" for reporting this issue.
+2015-05-04 discussion.apple.com
+A server configuration issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-05-01 hopstop.com
+A server configuration issue was addressed. We would like to acknowledge Vishwaraj Bhattrai (vishwarajbhattrai.wordpress.com/author/vishwaraj67/) for reporting this issue.
+2015-04-29 support.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Tsubasa Iinuma (@llamakko_cafe) for reporting this issue.
+2015-04-14 sscontent.apple.com
+A server configuration issue was addressed. We would like to acknowledge Jesse Mikael Järvi of jessejarvi.net for reporting this issue.
+2015-04-06 topsy.com
+A cross-site scripting issue was addressed. We would like to acknowledge Amit A Shora of Global Artificial Solution and Peter Ellehauge of Yahoo paranoids for reporting this issue.
+2015-04-05 consultants.apple.com
+A cross site scripting issue was addressed. We would like to acknowledge Hat_Mast3r (facebook.com/HatMast3r) for reporting this issue.
+2015-04-05 download.info.apple.com
+A server configuration issue was addressed. We would like to acknowledge Omar Benbouazza (@omarbv) of Microsoft and MSVR for reporting this issue.
+2015-04-03 ade.apple.com
+A server configuration issue was addressed. We would like to acknowledge Ali Wamim Khan for reporting this issue.
+2015-03-20 widgets.itunes.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge lokihardt@ASRT working with HP's Zero Day Initiative for reporting this issue.
+2015-03-12 discussions.apple.com
+A web configuration issue was addressed. We would like to acknowledge Kieran Claessens (facebook.com/dark.inside.one) for reporting this issue.
+2015-02-11 downloads.topsy.com
+A DNS issue was addressed.  We would like to acknowledge Mohit Gupta (@amohitgupta1) for reporting this issue.
+2015-02-10 feeds.itunes.apple.com
+A server configuration issue was addressed. We would like to acknowledge Imran Ghory (@imranghory) for reporting this issue.
+2015-02-05 support.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge an anonymous researcher for reporting this issue.
+2015-02-02 airprint.apple.com
+Cross-site request forgery issues were addressed. We would like to acknowledge Momen Basel (@MomenBassel) for reporting this issue.
+2015-01-21 supportprofile.apple.com
+A clickjacking issue was addressed. We would like to acknowledge Yashar Ghaffarloo (yashar.org) for reporting this issue.
+2015-01-21 discussions.apple.com
+A stored cross site scripting issue was addressed. We would like to acknowledge Deepanker Chawla (deepanker.in) for reporting this issue.
+2015-01-15 itunespulse.com
+A cross site request forgery vulnerability was addressed. We would like to acknowledge Paul Seekamp (linkedin.com/in/paulseekamp )for reporting this issue.
+2015-01-15 itunespulse.com
+Cross-site request forgery issues were addressed. We would like to acknowledge Paul Seekamp (linkedin.com/in/paulseekamp) for reporting this issue.
+2015-01-15 discussions.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Kaustubh G. Padwad (@s3curityb3ast) for reporting this issue.
+2015-01-14 itunesu.itunes.apple.com
+A cross-site scripting issue was addressed. We would like to acknowledge Gökay Gündoğan of gokaygundogan.com.tr for reporting this issue.
+2015-01-12 consultants.apple.com
+An SQL injection issue was addressed. We would like to acknowledge Hat_Mast3r (facebook.com/HatMast3r) for reporting this issue.
+2015-01-07 ac-netstorage.apple.com
+A web configuration issue was addressed. We would like to acknowledge Kristian Erik Hermansen of Undisclosed Ventures for reporting this issue.
+2015-01-05 hopstop.com
+An SSL configuration issue was addressed. We would like to acknowledge Milan A Solanki (Facebook.com/Mas.Hackers) and an anonymous researcher for reporting this issue. 
+2015-01-05 hopstop.com
+A configuration issue was addressed. We would like to acknowledge Milan A Solanki (facebook.com/Mas.Hackers) for reporting this issue.
