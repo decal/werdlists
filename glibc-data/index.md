@@ -3,6 +3,7 @@ libanl-abi-list:
 libBrokenLocale-abi-list: 
 libc-abi-list: 
 libcrypt-abi-list: 
+libc-test-code: test programs and such packaged with standard C libraries
 libdl-abi-list: 
 libm-abi-list: 
 libnsl-abi-list: 

@@ -1,0 +1,20 @@
+Alice and Bob. The original, generic characters. Generally, Alice and Bob want to exchange a message or cryptographic key.
+Carol, Carlos or Charlie. A generic third participant.
+Chuck. A third participant, usually of malicious intent.
+Craig. A password cracker, often encountered in situations with stored passwords.
+Dan, Dave or David. A generic fourth participant.
+Erin. A generic fifth participant, but rarely used, as "E" is usually reserved for Eve.
+Eve. An eavesdropper, who is usually a passive attacker. While she can listen in on messages between Alice and Bob, she cannot modify them. In quantum cryptography, Eve may also represent the environment.
+Faythe. A trusted advisor, courier or intermediary. Faythe is used infrequently, and is associated with Faith and Faithfulness. Faythe may be a repository of key service or courier of shared secrets.
+Frank. A generic sixth participant.
+Grace. A government representative. For example, Grace may try to force Alice or Bob to implement backdoors in their protocols. May also deliberately weaken standards.
+Heidi. A mischievous designer for cryptographic standards, but rarely used.
+Mallory or (less commonly) Mallet A malicious attacker. Associated with Trudy, an intruder. Unlike the passive Eve, Mallory/Mallet is an active attacker (often used in man-in-the-middle attacks), who can modify messages, substitute messages, or replay old messages. The difficulty of securing a system against Mallory/Mallet is much greater than against Eve.
+Oscar. An opponent, similar to Mallory, but not necessarily malicious.
+Peggy, or Pat. A prover, who interacts with the system to show that the intended transaction has actually taken place. Peggy is often found in zero-knowledge proofs. Similar to Victor or Vanna.
+Sybil. An pseudonymous attacker, who usually uses a large number of identities. For example, Sybil may attempt to subvert a reputation system. See Sybil attack.
+Trent or Ted. A trusted arbitrator, who acts as a neutral third party.
+Trudy. Intruder
+Victor, or Vanna. A verifier, similar to Peggy or Pat.
+Walter. A warden, who may guard Alice and Bob.
+Wendy. A whistleblower, who is an insider with privileged access capable of divulging information.

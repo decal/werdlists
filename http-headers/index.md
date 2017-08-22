@@ -6,6 +6,7 @@ cors-request-headers: list of CORS header names used only in HTTP requests
 cors-response-headers: list of CORS header names used only in HTTP responses
 custom-request-headers: non-standard HTTP request headers, i.e. lack RFC specs
 custom-response-headers: non-standard HTTP response headers, i.e. lack RFC specs
+envoy-httpconnman-headers: headers used by the Envoy HTTP connection manager
 http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
 iana-http-headers: Uniquely Sorted List of IANA Message Headers Assignments
