@@ -108,6 +108,7 @@ Retry-After
 Return-Path
 Schedule-Reply
 Schedule-Tag
+Sec-Token-Binding
 Sec-WebSocket-Accept
 Sec-WebSocket-Extensions
 Sec-WebSocket-Key

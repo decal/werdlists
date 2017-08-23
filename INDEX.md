@@ -35,6 +35,7 @@ http-methods: Method names sent at the start of a browser's first request line
 http-params: Parameters browsers sometimes send when requesting server URI paths
 http-paths: Path names browsers almost always must include in queries to servers
 http-queries: The object syntax that appears after the question mark in URI's
+http-security: Lists related to Hyper Text Transfer Protocol security info
 http-status: Numeric codes that denote the status of a web server during response
 inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4
 inet-routes: Data useful in the maintenance and use of Internet routing tables
