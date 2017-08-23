@@ -1,0 +1,169 @@
+AT+BINP	Bluetooth input
+AT+BLDN	Bluetooth last dialled number
+AT+BRSF	Bluetooth retrieve supported
+AT+BSIR	Bluetooth setting of in-band ring tone indication
+AT+BVRA	Bluetooth voice recognition activation
+AT+CACM	Accumulated call meter
+AT+CACM (AT R97)	Accumulated call meter
+AT+CALA	Alarm
+AT+CALD	Alarm delete
+AT+CALM (AT R97)	Alert sound mode
+AT+CALV	Alarm event
+AT+CAMM	Accumulated call meter maximum
+AT+CAMM (AT R97)	Accumulated call meter maximum
+AT+CAOC	Advice of Charge
+AT+CAPD	Postpone or dismiss an alarm (ver. 2)
+AT+CBC	Battery charge
+AT+CBM	Received cell broadcast
+AT+CBST	Select bearer service type
+AT+CCCM	Advice of charge call meter notification
+AT+CCFC	Call forwarding number and conditions
+AT+CCLK	Clock
+AT+CCUG	Closed user group
+AT+CCWA	Call waiting
+AT+CCWE (AT R98)	Call Meter maximum event
+AT+CDIP	Called line identification presentation
+AT+CDIS	Display control
+AT+CDS	SMS status report
+AT+CEER	Extended error report
+AT+CFUN	Set phone functionality
+AT+CGACT	PDP context activate or deactivate
+AT+CGANS	Manual response to a network request for PDP context activation
+AT+CGATT	GPRS attach or detach
+AT+CGAUTO	Automatic response to a network request for PDP context activation
+AT+CGCLASS	GPRS mobile station class
+AT+CGCLOSP	Configure local Octet Stream PAD parameters
+AT+CGCLPAD	Configure local triple-X PAD parameters
+AT+CGCMOD	PDP context modify
+AT+CGDATA	Enter data state
+AT+CGDCONT	Define PDP Context
+AT+CGDSCONT	Define secondary PDP context
+AT+CGEQMIN	3G quality of service profile (minimum acceptable)
+AT+CGEQNEG	3G quality of service profile (negotiated)
+AT+CGEQREQ	3G quality of service profile (requested)
+AT+CGEREP	GPRS event reporting
+AT+CGEV	GPRS event reporting
+AT+CGMI	Request manufacturer identification
+AT+CGMM	Request model identification
+AT+CGMR	Request revision identification
+AT+CGPADDR	Show PDP address
+AT+CGQMIN	Quality of Service Profile (Minimum acceptable)
+AT+CGQREQ	Quality of Service Profile (Requested)
+AT+CGREG	GPRS network registration status
+AT+CGSMS	Select service for MO SMS messages
+AT+CGSN	Request product serial number identification
+AT+CGTFT	Traffic flow template
+AT+CHLD	Call related supplementary services
+AT+CHSC	HSCSD current call parameters
+AT+CHSD	HSCSD device parameters
+AT+CHSN	HSCSD non-transparent call configuration
+AT+CHSR	HSCSD parameters report
+AT+CHSR (AT R98)	HSCSD parameters report
+AT+CHST	HSCSD transparent call configuration
+AT+CHSU	HSCSD automatic user initiated upgrading
+AT+CHSU (AT R98)	HSCSD automatic user initiated upgrading
+AT+CHUP	Hangup call
+AT+CIEV	Indicator event
+AT+CIMI	Request international mobile subscriber identity
+AT+CIND	Indicator control
+AT+CKEV	Keypad event
+AT+CKPD	Keypad control
+AT+CLAC	List all available AT commands
+AT+CLAC (AT R98)	List all available AT commands
+AT+CLAE (AT R98)	Language Event
+AT+CLAN	Set Language
+AT+CLAN (AT R98)	Set Language
+AT+CLCC	List current calls
+AT+CLCK	Facility lock
+AT+CLIP	Calling line identification presentation
+AT+CLIR	Calling line identification restriction
+AT+CLVL	Loudspeaker volume level
+AT+CLVL (AT R97)	Loudspeaker volume level
+AT+CMAR	Master Reset
+AT+CMAR (AT R98)	Master Reset
+AT+CME	Mobile equipment error result
+AT+CMEC	Mobile Equipment control mode
+AT+CMEE	Report Mobile Equipment error
+AT+CMER	Mobile Equipment event reporting
+AT+CMGC	Send command (ver. 1)
+AT+CMGD	Delete message
+AT+CMGF	Selecting the Operating Mode
+AT+CMGL	List Messages
+AT+CMGR	Read Message
+AT+CMGS	Send message (ver. 2)
+AT+CMGW	Write message to memory (ver. 2)
+AT+CMMS	More messages to send
+AT+CMOD	Call mode
+AT+CMSS	Send from storage (ver. 2)
+AT+CMT	Received message
+AT+CMTI	New message indication
+AT+CMUT	Mute control
+AT+CMUT (AT R97)	Mute control
+AT+CMUX	Multiplexing mode
+AT+CMUX (MUX MS-TE)	Multiplexing mode
+AT+CNMI	New messages indication to TE (ver. 4)
+AT+CNUM	Subscriber number
+AT+COLP	Connected line identification presentation
+AT+COPN	Read operator names
+AT+COPN (AT R97)	Read operator names
+AT+COPS	Operator selection
+AT+CPAS	Phone activity status
+AT+CPBF	Find phonebook entries
+AT+CPBR	Read phonebook entries
+AT+CPBS	Select phonebook memory storage
+AT+CPBW	Write phonebook entry
+AT+CPIN	Enter PIN
+AT+CPMS	Preferred Message Storage
+AT+CPOL	Preferred operator list
+AT+CPOL (AT R97)	Preferred operator list
+AT+CPUC (AT R97)	Price per unit and currency table
+AT+CPWC (AT R98)	Power class
+AT+CPWD	Change password
+AT+CR	Service reporting control
+AT+CRC	Cellular result codes
+AT+CREG	Network registration
+AT+CRES	Restore settings
+AT+CRING	Call mode indication
+AT+CRLP	Radio link protocol
+AT+CRMP	Ring Melody Playback
+AT+CRMP (AT R98)	Ring Melody Playback
+AT+CRSL	Ringer sound level
+AT+CRSL (AT R97)	Ringer sound level
+AT+CRSM	Restricted SIM access
+AT+CSAS	Save settings
+AT+CSCA	Setting or Reading the Service Center Address / SMSC Address
+AT+CSCC	Secure control command
+AT+CSCS	Select TE character set
+AT+CSGT (AT R98)	Set Greeting Text
+AT+CSIL	Silence Command
+AT+CSIM	Generic SIM access
+AT+CSMS	Select message service (ver.2)
+AT+CSNS	Single numbering scheme
+AT+CSQ	Signal quality
+AT+CSSI	Supplementary service notification
+AT+CSSN	Supplementary service notifications
+AT+CSSU	Supplementary service notification
+AT+CSTA	Select type of address
+AT+CSVM (AT R98)	Set Voice Mail Number
+AT+CTFR	Call deflection
+AT+CUSD	Unstructured supplementary service data
+AT+CV120	V.120 rate adaption protocol
+AT+CVHU	Voice Hangup Control
+AT+CVHU (AT R97)	Voice Hangup Control
+AT+CVIB (AT R97)	Vibrator mode
+AT+DR	V.42BIS DATA COMPRESSION REPORTING CONTROL
+AT+DS	V.42BIS DATA COMPRESSION CONTROL
+AT+GCAP	Request modem capabilities list
+AT+GCLIP	Graphical caller ID presentation
+AT+GMI	Request manufacturer information
+AT+GMM	Request model identification
+AT+GMR	Request revision identification
+AT+ICF	Cable interface character format (ver. 2)
+AT+IFC	Cable interface DTE-DCE local flow control
+AT+ILRR	Cable interface local rate reporting
+AT+IPR	Cable interface port rate
+AT+NREC	Noise reduction and echo cancelling
+AT+VGM	Gain of microphone
+AT+VGS	Gain of speaker
+AT+VTS	DTMF and tone generation
+AT+WS46	PCCA STD-101 [17] select wireless network
