@@ -21,6 +21,8 @@ sharepoint-path-names: common Microsoft SharePoint path names
 skipfish-path-names: web path names used by the skipfish web app recon tool
 top-robots-parsed: most popular entries from RobotsDisallowed repository parsed
 unix-traverse-passwd: UNIX path names for directory traversing to passwd file
+web-inf-paths: typical path names to be founder under a WEB-INF folder
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
 websphere-class-path: IBM WebSphere CLASSPATH runtime environment variable 
 websphere-path-names: pathnames usually available from IBM WebSphere listeners
+web-inf-paths: list of path names typically found under the WEB-INF directory

@@ -1,0 +1,11 @@
+classes
+CVS
+faces-config.xml
+ibm-web-ext.xmi
+lib
+msgcatalog
+resources
+server-config.wsdd
+sun-jaxws.xml
+weblogic.xml
+web.xml

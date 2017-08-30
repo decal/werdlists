@@ -1,0 +1,44 @@
+\ProgramData	
+\ProgramData\Microsoft\Windows\Start Menu	
+\ProgramData\Microsoft\Windows\Start Menu\Programs	
+\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools	
+\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup	
+\ProgramData\Microsoft\Windows\Templates	
+\Program Files	
+\Program Files\Common Files	
+\Program Files (x86)	
+\Program Files (x86)\Common Files	
+\Users\Administrator	
+\Users\Administrator\AppData\Local	
+\Users\Administrator\AppData\Local\Microsoft\Windows\Burn\Burn	
+\Users\Administrator\AppData\Local\Microsoft\Windows\History	
+\Users\Administrator\AppData\Local\Microsoft\Windows\INetCache	
+\Users\Administrator\AppData\Local\Microsoft\Windows\INetCookies	
+\Users\Administrator\AppData\Local\Temp\	 	 	
+\Users\Administrator\AppData\Roaming	
+\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch	 	 	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Network Shortcuts	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Printer Shortcuts	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\SendTo	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup	
+\Users\Administrator\AppData\Roaming\Microsoft\Windows\Templates	
+\Users\Administrator\Desktop	
+\Users\Administrator\Documents	
+\Users\Administrator\Downloads	 	 	
+\Users\Administrator\Favorites	
+\Users\Administrator\Music	
+\Users\Administrator\Pictures	
+\Users\Administrator\Videos	
+\Users\Public\Desktop	
+\Users\Public\Documents	
+\Users\Public\Music	
+\Users\Public\Pictures	
+\Users\Public\Videos	
+\WINDOWS	
+\WINDOWS\Fonts	
+\WINDOWS\system32	
+\WINDOWS\SysWOW64	
