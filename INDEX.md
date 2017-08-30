@@ -64,6 +64,7 @@ regex-dicts: Regular expression dictionaries for pattern matching and attacks
 remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
+social-data: Data taken from popular social media web sites
 shell-builtins: Reserved words and such built-in to well-established shell software
 smtp-headers: Header fields transferred over e-mail protocols like SMTP
 smtp-messages: Messages (i.e. signatures, auto-replies, etc.) sent by SMTP servers
@@ -72,6 +73,7 @@ software-strs: Strings found in multi-user software packages
 string-enums: Enumerations of values that aren't too terribly unusual
 system-admin: System administration and BOFH related materials
 system-calls: System calls info for functions that execute in ring0
+telco-data: Data associated with telecommunications companies and such..
 top-secret: Files and/or data related to documents that were once classified
 unicode-art: Unicode art which is essentially ASCII art, but with the high-bit 
 unix-data: Data associated with various flavors of the UNIX OS and its clones
