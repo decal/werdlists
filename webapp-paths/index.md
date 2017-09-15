@@ -16,6 +16,7 @@ magento-path-names:  file names often found under Magento's directory hierarchy
 oracle-path-names: pathnames usually served by Oracle Application Server
 oracle-robots-text: the robots.txt that was served by www.oracle.com
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site
+paths-below-webinf: paths most commonly found under the WEB-INF directory
 quick-hit-paths: pathnames that are most likely to exist
 sharepoint-path-names: common Microsoft SharePoint path names
 skipfish-path-names: web path names used by the skipfish web app recon tool
