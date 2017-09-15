@@ -59,6 +59,7 @@ opersys-strs: Strings that relate to one operating system or another
 passes-dicts: Dictionary files used when brute force attacking account passwords
 passes-sites: Password lists that were publicized after major site compromises
 perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
+polyglot-files: Files having contents of multiple MIME types like GIFAR's
 port-nums: Positive integers (whole numbers) that represent IP port numbers
 python-data: Data used by the Python scripting language interpreter at runtime
 regex-dicts: Regular expression dictionaries for pattern matching and attacks
