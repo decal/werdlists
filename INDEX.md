@@ -42,6 +42,7 @@ inet-routes: Data useful in the maintenance and use of Internet routing tables
 infosec-people: Noteworthy individuals within the information security community
 ios-data: Datum specific to Cisco's IOS (Internetwork Operating System) 
 chat-commands: Both standard and custom Internet Relay Chat commands
+chat-data: Additional data on IRC, XMPP and other such messaging protocols
 iso-codes: International Standardization Organization code numbers and such
 java-code: Data found in the source code of programs written with Java
 libc-data: Standard C library related data potentially useful for tests
