@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Concise and easy way to get a list of all directories
+#
+
+ls -1d -- *-*
+
+exit 0
