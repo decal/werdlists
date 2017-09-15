@@ -40,33 +40,19 @@ expanded concepts, etc.</p>
 
 <h2>Description of the Repository Directory Hierarchy</h2>
 
-<p>The <code>scripts</code> folder consists of shell scripts used for maintenance and such. 
-Data folders are outlined in the <code>root-index.lst</code> file at the root of the 
-repository's directory hierarchy.  All files in each folder are detailed in one
-of their own specific <code>index.lst</code> files which is like <code>root-index.lst</code>, but it
-only contains entries that describe associated file names as opposed to folder
-names.</p>
+<p>The <code>scripts</code> folder consists of shell scripts used for file system maintenance.
+Folder names are outlined in the <code>INDEX.md</code> file at the root of the repository's
+directory hierarchy.  All files in each folder are detailed in the local 
+<code>index.md</code> file, but these lowercased index files describe file names as opposed
+to directory contents.</p>
 
 <h3>Naming Scheme, Syntax and Meaning Associated With File Extensions</h3>
 
-<p>Although the majority of files have the <em>.txt</em> extension that signifies the MIME
-type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as <em>.csv</em> (comma-separated values), or <em>.xml</em> which 
-denotes Extended Markup Language.  Files with a non-ASCII or binary character 
-set are assigned the <em>.bin</em> extension.  </p>
-
-<h3>MIME Types Determined for Several Files With Varying Extensions</h3>
-
-<p><code>
-user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
-./cipher-data/java-example-keystore.bin: application/x-java-keystore; charset=binary
-user@host:~/repos/werdlists$ file -i http-headers/http-response-headers.txt
-http-headers/http-response-headers.txt: text/plain; charset=us-ascii
-user@host:~/repos/werdlists$ file -i nvd-data/nvdcve-2.0-Recent.xml
-nvd-data/nvdcve-2.0-Recent.xml: application/xml; charset=us-ascii
-user@host:~/repos/werdlists$ file -kz file-extens/classify-list.xlsx
-file-extens/classify-list.xlsx: XML 1.0 document text\012- XML document, ASCII text, with very long lines, with CR line ter
-minators\012- data (Zip archive data, at least v2.0 to extract\012- data)
-</code></p>
+<p>Most files have the <em>.txt</em> extension signifying the <code>text/plain</code> MIME type.
+Some other file extensions are in use as well, including: <em>.csv</em>, <em>.xml</em>,
+<em>.bin</em>, etc.  These are for Comma-Separated Values, Extended Markup Language
+and Binary data, respectively.  The index in the root folder (<code>INDEX.md</code>),
+as well as the indices in each data directory (<code>index.md</code>) are of course in
+markdown format.</p>
 
 <hr />

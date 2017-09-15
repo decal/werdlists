@@ -34,34 +34,22 @@ expanded concepts, etc.
 
 ## Description of the Repository Directory Hierarchy
 
-The `scripts` folder consists of shell scripts used for maintenance and such. 
-Data folders are outlined in the `INDEX.md` file at the root of the 
-repository's directory hierarchy.  All files in each folder are detailed in one
-of their own specific `index.md` files which is like `INDEX.md`, but it
-only contains entries that describe associated file names as opposed to folder
-names.
+The `scripts` folder consists of shell scripts used for file system maintenance.
+Folder names are outlined in the `INDEX.md` file at the root of the repository's
+directory hierarchy.  All files in each folder are detailed in the local 
+`index.md` file, but these lowercased index files describe file names as opposed
+to directory contents.
+
 
 ### Naming Scheme, Syntax and Meaning Associated With File Extensions
 
-Although the majority of files have the *.txt* extension that signifies the MIME
-type text/plain--pay close attention, because other file extensions are in use 
-on occassion as well, such as *.csv* (comma-separated values), or *.xml* which 
-denotes Extended Markup Language.  Files with a non-ASCII or binary character 
-set are assigned the *.bin* extension.  
+Most files have the *.txt* extension signifying the `text/plain` MIME type.
+Some other file extensions are in use as well, including: *.csv*, *.xml*,
+*.bin*, etc.  These are for Comma-Separated Values, Extended Markup Language
+and Binary data, respectively.  The index in the root folder (`INDEX.md`),
+as well as the indices in each data directory (`index.md`) are of course in
+markdown format.
 
-### MIME Types Determined for Several Files With Varying Extensions
-
-```
-user@host:~/repos/werdlists$ file -i cipher-data/java-example-keystore.bin
-./cipher-data/java-example-keystore.bin: application/x-java-keystore; charset=binary
-user@host:~/repos/werdlists$ file -i http-headers/http-response-headers.txt
-http-headers/http-response-headers.txt: text/plain; charset=us-ascii
-user@host:~/repos/werdlists$ file -i nvd-data/nvdcve-2.0-Recent.xml
-nvd-data/nvdcve-2.0-Recent.xml: application/xml; charset=us-ascii
-user@host:~/repos/werdlists$ file -kz file-extens/classify-list.xlsx
-file-extens/classify-list.xlsx: XML 1.0 document text\012- XML document, ASCII text, with very long lines, with CR line ter
-minators\012- data (Zip archive data, at least v2.0 to extract\012- data)
-```
 
 * * *
 

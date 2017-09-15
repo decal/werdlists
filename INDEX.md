@@ -5,6 +5,8 @@ auth-warnings: Legal warnings shown by networked computer systems before login
 biology-info: Reference information useful in the study of biological issues
 cert-data: Information commonly utilized by cryptographic certificate materials
 char-encodes: Various character encodings provided by different locales/charsets
+chat-commands: Both standard and custom Internet Relay Chat commands
+chat-data: Additional data on IRC, XMPP and other such messaging protocols
 cipher-data: Data that typically denotes or is used by cipher algorithms
 cmd-usage: Help text shown in a terminal when attempting to execute CLI programs
 cms-errors: Error codes and/or messages rendered by a Content Management System
@@ -39,16 +41,14 @@ http-security: Lists related to Hyper Text Transfer Protocol security info
 http-status: Numeric codes that denote the status of a web server during response
 inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4
 inet-routes: Data useful in the maintenance and use of Internet routing tables
+inet-services: Lists of Internet protocols/daemons--similar to `/etc/services`
 infosec-people: Noteworthy individuals within the information security community
 ios-data: Datum specific to Cisco's IOS (Internetwork Operating System) 
-chat-commands: Both standard and custom Internet Relay Chat commands
-chat-data: Additional data on IRC, XMPP and other such messaging protocols
 iso-codes: International Standardization Organization code numbers and such
-java-code: Data found in the source code of programs written with Java
+java-data: Data found in or related to source code of programs written with Java
 libc-data: Standard C library related data potentially useful for tests
 link-layer: Info concerning OSI layer 2 also known as the link layer (below IP)
 linux-paths: Path names found on file systems created by Linux installations
-local-uris: URI's which reference data that is local to the current machine/host
 methbot-iocs: Indicators of Compromise identify malware from the Methbot botnet
 mobile-devs: Miscellaneous items and objects found within mobile devices
 net-ifaces: Detailed information which can be extracted from network interfaces
@@ -66,11 +66,11 @@ regex-dicts: Regular expression dictionaries for pattern matching and attacks
 remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
-social-data: Data taken from popular social media web sites
 shell-builtins: Reserved words and such built-in to well-established shell software
 smtp-headers: Header fields transferred over e-mail protocols like SMTP
 smtp-messages: Messages (i.e. signatures, auto-replies, etc.) sent by SMTP servers
 soap-messages: SOAP (Simple Object Access Protocol) messages
+social-data: Data taken from popular social media web sites
 software-strs: Strings found in multi-user software packages
 string-enums: Enumerations of values that aren't too terribly unusual
 system-admin: System administration and BOFH related materials
