@@ -35,9 +35,9 @@ expanded concepts, etc.
 ## Description of the Repository Directory Hierarchy
 
 The `scripts` folder consists of shell scripts used for maintenance and such. 
-Data folders are outlined in the `root-index.lst` file at the root of the 
+Data folders are outlined in the `INDEX.md` file at the root of the 
 repository's directory hierarchy.  All files in each folder are detailed in one
-of their own specific `index.lst` files which is like `root-index.lst`, but it
+of their own specific `index.md` files which is like `INDEX.md`, but it
 only contains entries that describe associated file names as opposed to folder
 names.
 
