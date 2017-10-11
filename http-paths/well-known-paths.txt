@@ -25,6 +25,7 @@ pki-validation
 posh
 reload-config
 repute-template
+security.txt
 stun-key
 time
 timezone
