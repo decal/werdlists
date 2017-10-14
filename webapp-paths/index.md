@@ -30,3 +30,4 @@ weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
 websphere-class-path: IBM WebSphere `CLASSPATH` runtime environment variable 
 websphere-path-names: pathnames usually available from _IBM WebSphere_ listeners
 web-inf-paths: list of path names typically found under the `WEB-INF` directory
+wfuzz-vulns-list: combined list of paths from the _wfuzz_ tool's `vulns` folder
