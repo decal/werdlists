@@ -11,3 +11,4 @@ spam-blacklist-hosts: host names used in from addresses by spammers
 subdom-brute-list: taken from cujanovic's GitHub repo subdomain-bruteforce-list
 tor-hsts-preloads: Site list for Strict Transport Security preloading on TOR
 uber-subdomain-names: subdomain names that have been used by uber.com
+wget-hsts-hosts: HSTS (Strict Transport Security) host names saved by GNU `wget`

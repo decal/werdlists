@@ -1,0 +1,27 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>[:<port>]	<incl. subdomains>	<created>	<max-age>
+raw.githubusercontent.com	0	0	1499299538	31536000
+mail.ru	0	0	1500749164	16070400
+sourceforge.net	0	0	1498827627	31536000
+curl.haxx.se	0	1	1498678405	31536000
+dl.packetstormsecurity.net	0	0	1498619323	3600
+partners.magento.com	0	0	1502588772	15984000
+github.com	0	1	1498494220	31536000
+www.iana.org	0	0	1503047192	47304003
+www.att.com	0	0	1502428625	7200
+lost-contact.mit.edu	0	0	1499951355	15768000
+u.magento.com	0	0	1502590779	15984000
+gist.github.com	0	1	1502539446	31536000
+cdn.kernel.org	0	0	1498646608	15768000
+securedrop.org	0	1	1502613901	15768000
+help.grab.com	0	0	1500713105	259200
+hero.toggleable.com	0	1	1502632968	63072000
+gist.githubusercontent.com	0	0	1499346951	31536000
+codeload.github.com	0	0	1499944390	31536000
+www.magentocommerce.com	0	0	1502589884	15984000
+grabpassengerhelp.zendesk.com	0	0	1500713104	259200
+www.openssl.org	0	1	1498860593	31536000
+magento.com	0	0	1502588442	15984000
+www.ietf.org	0	0	1503469298	31536000
+tools.ietf.org	0	0	1503417387	3600
