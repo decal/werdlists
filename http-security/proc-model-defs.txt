@@ -1,0 +1,114 @@
+A settings object
+An environment settings object, containing various settings that are shared with other scripts in the same context.
+
+A record
+Either a Script Record, for classic scripts; a Source Text Module Record, for module scripts; or null. In the former two cases, it represents a parsed script; null represents a failure parsing.
+
+A parse error
+A JavaScript value, which has meaning only if the record is null, indicating that the corresponding script source text could not be parsed.
+
+An error to rethrow
+A JavaScript value representing an error that will prevent evaluation from succeeding. It will be re-thrown by any attempts to run the script.
+
+Since this exception value is provided by the JavaScript specification, we know that it is never null, so we use null to signal that no error has occurred.
+
+Fetch options
+A script fetch options, containing various options related to fetching this script or module scripts that it imports.
+A base URL
+A base URL used for resolving a module specifiers. This will either be the URL from which the script was obtained, for external scripts, or the document base URL of the containing document, for inline scripts.
+
+A classic script is a type of script that has the following additional item:
+
+A muted errors boolean
+A boolean which, if true, means that error information will not be provided for errors in this script. This is used to mute errors for cross-origin scripts, since that can leak private information.
+
+A module script is another type of script. It has no additional items.
+
+An environment is an object that identifies the settings of a current or potential execution environment. An environment has the following fields:
+
+An id
+An opaque string that uniquely identifies the environment.
+
+A creation URL
+A URL record that represents the location of the resource with which the environment is associated.
+
+In the case of an environment settings object, this URL might be distinct from the environment settings object's responsible document's URL, due to mechanisms such as history.pushState().
+
+A target browsing context
+Null or a target browsing context for a navigation request.
+
+An active service worker
+Null or a service worker that controls the environment.
+
+An execution ready flag
+A flag that indicates whether the environment setup is done. It is initially unset.
+
+An environment settings object is an environment that additionally specifies algorithms for:
+
+A realm execution context
+A JavaScript execution context shared by all scripts that use this settings object, i.e. all scripts in a given JavaScript realm. When we run a classic script or run a module script, this execution context becomes the top of the JavaScript execution context stack, on top of which another execution context specific to the script in question is pushed. (This setup ensures ParseScript and Source Text Module Record's Evaluate know which Realm to use.)
+
+A module map
+A module map that is used when importing JavaScript modules.
+
+A responsible browsing context
+A browsing context that is assigned responsibility for actions taken by the scripts that use this environment settings object.
+
+When a script creates and navigates a new top-level browsing context, the opener attribute of the new browsing context's Window object will be set to the responsible browsing context's WindowProxy object.
+
+A responsible event loop
+An event loop that is used when it would not be immediately clear what event loop to use.
+
+A responsible document
+A Document that is assigned responsibility for actions taken by the scripts that use this environment settings object.
+
+For example, the URL of the responsible document is used to set the URL of the Document after it has been reset using document.open().
+
+If the responsible event loop is not a browsing context event loop, then the environment settings object has no responsible document.
+
+An API URL character encoding
+A character encoding used to encode URLs by APIs called by scripts that use this environment settings object.
+
+An API base URL
+A URL used by APIs called by scripts that use this environment settings object to parse URLs.
+
+An origin
+An origin used in security checks.
+
+An HTTPS state
+An HTTPS state value representing the security properties of the network channel used to deliver the resource with which the environment settings object is associated.
+
+A referrer policy
+The default referrer policy for fetches performed using this environment settings object as a request client. [REFERRERPOLICY]
+
+An environment settings object also has an outstanding rejected promises weak set and an about-to-be-notified rejected promises list, used to track unhandled promise rejections. The outstanding rejected promises weak set must not create strong references to any of its members, and implementations are free to limit its size, e.g. by removing old entries from it when new ones are added.
+
+8.1.3.2 Fetching scripts
+
+This section introduces a number of algorithms for fetching scripts, taking various necessary inputs and resulting in classic or module scripts.
+
+Script fetch options is a struct with the following items:
+
+cryptographic nonce
+The cryptographic nonce metadata used for the initial fetch and for fetching any imported modules
+
+integrity metadata
+The integrity metadata used for the initial fetch
+
+parser metadata
+The parser metadata used for the initial fetch and for fetching any imported modules
+
+credentials mode
+The credentials mode used for the initial fetch (for module scripts) and for fetching any imported modules (for both module scripts and classic scripts)
+
+Recall that via the import() feature, classic scripts can import module scripts.
+
+The default classic script fetch options are a script fetch options whose cryptographic nonce is the empty string, integrity metadata is the empty string, parser metadata is "not-parser-inserted", and credentials mode is "omit".
+
+Given a request request and a script fetch options options, we define:
+
+set up the classic script request
+Set request's cryptographic nonce metadata to options's cryptographic nonce, its integrity metadata to options's integrity metadata, and its parser metadata to options's parser metadata.
+
+set up the module script request
+Set request's cryptographic nonce metadata to options's cryptographic nonce, its integrity metadata to options's integrity metadata, its parser metadata to options's parser metadata, and its credentials mode to options's credentials mode.
