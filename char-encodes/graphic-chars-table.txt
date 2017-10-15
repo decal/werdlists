@@ -1,0 +1,37 @@
+   Column/Row  Symbol      Name
+
+   2/0         SP          Space (Normally Non-Printing)
+   2/1         !           Exclamation Point
+   2/2         "           Quotation Marks (Diaeresis [2])
+   2/3         #           Number Sign [3,4]
+   2/4         $           Dollar Sign
+   2/5         %           Percent
+   2/6         &           Ampersand
+   2/7         '           Apostrophe (Closing Single Quotation Mark
+                           Acute Accent [2])
+   2/8         (           Opening Parenthesis
+   2/9         )           Closing Parenthesis
+   2/10        *           Asterisk
+   2/11        +           Plus
+   2/12        ,           Comma (Cedilla [2])
+   2/13        -           Hyphen (Minus)
+   2/14        .           Period (Decimal Point)
+   2/15        /           Slant
+   3/10        :           Colon
+   3/11        ;           Semicolon
+   3/12        <           Less Than
+   3/13        =           Equals
+   3/14        >           Greater Than
+   3/15        ?           Question Mark
+   4/0         @           Commercial At [3]
+   5/11        [           Opening Bracket [3]
+   5/12       \            Reverse Slant [3]
+   5/13        ]           Closing Bracket [3]
+   5/14        ^           Circumflex [2,3]
+   5/15        _           Underline
+   6/0         `           Grave Accent [2,3] (Opening Single Quotation
+                                   Mark)
+   7/11        {           Opening Brace [3]
+   7/12        |           Vertical Line [3]
+   7/13        }           Closing Brace [3]
+   7/14        ~           Overline [3] (Tilde [2]; General Accent [2])

@@ -1,0 +1,35 @@
+   NUL Null                                DLE Data Link Escape (CC)
+
+   SOH Start of Heading (CC)               DC1 Device Control 1
+
+   STX Start of Text (CC)                  DC2 Device Control 2
+
+   ETX End of Text (CC)                    DC3 Device Control 3
+
+   EOT End of Transmission (CC)            DC4 Device Control 4 (Stop)
+
+   ENQ Enquiry (CC)                        NAK Negative Acknowledge (CC)
+
+   ACK Acknowledge (CC)                    SYN Synchronous Idle (CC)
+
+   BEL Bell (audible or                    ETB End of Transmission
+       attention signal)                       Block (CC)
+
+   BS Backspace (FE)                       CAN Cancel
+
+   HT Horizontal Tabulation                EM End of Medium
+      (punched card skip) (FE)
+
+   LF Line Feed (FE)                       SUB Substitute
+
+   VT Vertical Tabulation (FE)             ESC Escape
+
+   FF Form Feed (FE)                       FS File Separator IS)
+
+   CR Carriage Return (FE)                 GS Group Separator (IS)
+
+   SO Shift Out                            RS Record Separator (IS)
+
+   SI Shift In                             US Unit Separator (IS)
+
+                                           DEL Delete [1]
