@@ -1,0 +1,151 @@
+sms.3rivers.net 3 River Wireless
+paging.acswireless.com ACS Wireless
+message.alltel.com Alltel
+txt.att.net AT&T
+txt.bellmobility.ca Bell Canada
+bellmobility.ca Bell Canada
+txt.bell.ca Bell Mobility (Canada)
+txt.bellmobility.ca Bell Mobility
+blueskyfrog.com Blue Sky Frog
+sms.bluecell.com Bluegrass Cellular
+myboostmobile.com Boost Mobile
+bplmobile.com BPL Mobile
+cwwsms.com Carolina West Wireless
+mobile.celloneusa.com Cellular One
+csouth1.com Cellular South
+cwemail.com Centennial Wireless
+messaging.centurytel.net CenturyTel
+txt.att.net Cingular (Now AT&T)
+msg.clearnet.com Clearnet
+comcastpcs.textmsg.com Comcast
+corrwireless.net Corr Wireless Communications
+mobile.dobson.net Dobson
+sms.edgewireless.com Edge Wireless
+fido.ca Fido
+sms.goldentele.com Golden Telecom
+messaging.sprintpcs.com Helio
+text.houstoncellular.net Houston Cellular
+ideacellular.net Idea Cellular
+ivctext.com Illinois Valley Cellular
+inlandlink.com Inland Cellular Telephone
+pagemci.com MCI
+page.metrocall.com Metrocall
+my2way.com Metrocall 2-way
+mymetropcs.com Metro PCS
+fido.ca Microcell
+clearlydigital.com Midwest Wireless
+mobilecomm.net Mobilcomm
+text.mtsmobility.com MTS
+messaging.nextel.com Nextel
+onlinebeep.net OnlineBeep
+pcsone.net PCS One
+txt.bell.ca Presidents Choice
+sms.pscel.com Public Service Cellular
+qwestmp.com Qwest
+pcs.rogers.com Rogers AT&T Wireless
+pcs.rogers.com Rogers Canada
+satellink.net Satellink
+email.swbw.com Southwestern Bell
+messaging.sprintpcs.com Sprint
+tms.suncom.com Sumcom
+mobile.surewest.com Surewest Communicaitons
+tmomail.net T-Mobile
+msg.telus.com Telus
+txt.att.net Tracfone
+tms.suncom.com Triton
+utext.com Unicel
+email.uscc.net US Cellular
+txt.bell.ca Solo Mobile
+messaging.sprintpcs.com Sprint
+tms.suncom.com Sumcom
+mobile.surewest.com Surewest Communicaitons
+tmomail.net T-Mobile
+msg.telus.com Telus
+tms.suncom.com Triton
+utext.com Unicel
+email.uscc.net US Cellular
+uswestdatamail.com US West
+vtext.com Verizon
+vmobl.com Virgin Mobile
+vmobile.ca Virgin Mobile Canada
+sms.wcc.net West Central Wireless
+cellularonewest.com Western Wireless
+rpgmail.net Chennai RPG Cellular
+airtelchennai.com Chennai Skycell / Airtel
+sms.comviq.se Comviq
+airtelmail.com Delhi Aritel
+delhi.hutch.co.in Delhi Hutch
+t-mobile-sms.de DT T-Mobile
+sms.orange.nl Dutchtone / Orange-NL
+sms.emt.ee EMT
+escotelmobile.com Escotel
+t-mobile-sms.de German T-Mobile
+bplmobile.com Goa BPLMobil
+sms.goldentele.com Golden Telecom
+celforce.com Gujarat Celforce
+jsmtel.com JSM Tele-Page
+escotelmobile.com Kerala Escotel
+airtelkol.com Kolkata Airtel
+smsmail.lmt.lv Kyivstar
+e-page.net Lauttamus Communication
+smsmail.lmt.lv LMT
+bplmobile.com Maharashtra BPL Mobile
+ideacellular.net Maharashtra Idea Cellular
+text.mtsmobility.com Manitoba Telecom Systems
+mymeteor.ie Meteor
+m1.com.sg MiWorld
+m1.com.sg Mobileone
+page.mobilfone.com Mobilfone
+ml.bm Mobility Bermuda
+mobistar.be Mobistar Belgium
+sms.co.tz Mobitel Tanzania
+mobtel.co.yu Mobtel Srbija
+correo.movistar.net Movistar
+bplmobile.com Mumbai BPL Mobile
+sms.netcom.no Netcom
+pcs.ntelos.com Ntelos
+o2.co.uk O2
+o2imail.co.uk O2
+mmail.co.uk O2 (M-mail)
+onemail.at One Connect Austria
+onlinebeep.net OnlineBeep
+optusmobile.com.au Optus Mobile
+orange.net Orange
+orangemail.co.in Orange Mumbai
+sms.orange.nl Orange NL / Dutchtone
+mujoskar.cz Oskar
+sms.luxgsm.lu P&T Luxembourg
+bplmobile.com Pondicherry BPL Mobile
+sms.primtel.ru Primtel
+safaricomsms.com Safaricom
+satelindogsm.com Satelindo GSM
+scs-900.ru SCS-900
+sfr.fr SFR France
+text.simplefreedom.net Simple Freedom
+mysmart.mymobile.ph Smart Telecom
+page.southernlinc.com Southern LINC
+mysunrise.ch Sunrise Mobile
+swmsg.com Sunrise Mobile
+freesurf.ch Surewest Communications
+bluewin.ch Swisscom
+sms.t-mobile.at T-Mobile Austria
+t-d1-sms.de T-Mobile Germany
+t-mobile.uk.net T-Mobile UK
+bplmobile.com Tamil Nadu BPL Mobile
+sms.tele2.lv Tele2 Latvia
+movistar.net Telefonica Movistar
+mobilpost.no Telenor
+pageme.teletouch.com Teletouch
+gsm1800.telia.dk Telia Denmark
+timnet.com TIM
+alphame.com TSR Wireless
+sms.umc.com.ua UMC
+sms.uraltel.ru Uraltel
+escotelmobile.com Uttar Pradesh Escotel
+pager.irkutsk.ru Vessotel
+sms.vodafone.it Vodafone Italy
+c.vodafone.ne.jp Vodafone Japan
+h.vodafone.ne.jp Vodafone Japan
+t.vodafone.ne.jp Vodafone Japan
+vodafone.net Vodafone UK
+wyndtell.com Wyndtell
