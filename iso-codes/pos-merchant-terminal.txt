@@ -1,0 +1,45 @@
+00 Approved
+01 Refer to Card Issuer
+02 Refer to Card Issuer, special condition
+03 Invalid Merchant
+04 Pick up card
+05 Decline. Do not honor
+06 Error
+07 Pick up card, special condition
+08 Honor with identification
+09 Request in progress
+10 Approval for partial amount
+11 Approved VIP
+12 Invalid Transaction
+13 Invalid Amount
+14 Invalid card number
+19 Re-enter transaction
+21 No action taken
+30 Format Error
+41 Lost card Pick up
+43 Stolen card Pick up
+51 Not sufficient funds
+52 No checking account
+53 No savings account
+54 Expired card
+55 Pin incorrect
+57 Transaction not allowed for cardholder
+58 Transaction not allowed for merchant
+61 Exceeds withdrawal amount limit
+62 Restricted card
+63 Security violation
+65 Activity count limit exceeded
+75 Pin tries exceeded
+76 Unable to locate previous
+77 Inconsistent with original
+78 No account
+80 Invalid transaction date
+81 Cryptographic PIN error
+84 Pre-authorization time to great
+86 Cannot verify PIN
+89 MAC error
+91 Issuer unavailable
+92 Invalid receiving institution id
+93 Transaction violates law
+94 Duplicate transaction
+96 System malfunction
