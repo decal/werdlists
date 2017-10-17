@@ -34,6 +34,7 @@ Expires
 Frame-Options
 host_service
 Keep-Alive
+Large-Allocation
 Last-Modified
 Link
 Location
@@ -52,6 +53,7 @@ Retry-After
 Server
 Server-Timing
 Set-Cookie
+SourceMap
 SS_FRIENDLY_EXT
 Status
 Strict-Transport-Security
