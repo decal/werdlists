@@ -1,0 +1,6 @@
+EAL1, EAL2 - functionally tested, structurally tested 
+EAL3 - methodically tested and checked 
+EAL4 - methodically designed, tested, and reviewed 
+EAL5 - semiformally designed and tested 
+EAL6 - semiformally verified designed and tested 
+EAL7 - formally verified designed and tested

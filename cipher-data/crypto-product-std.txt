@@ -1,0 +1,4 @@
+Level 1 - lowest level of security 
+Level 2 - shows evidence of tampering (hosting provider detects)
+Level 3 - responds to attempts at physical access (users detect) 
+Level 4 - highest level of security
