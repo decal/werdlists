@@ -1,45 +1,95 @@
-00 Approved
-01 Refer to Card Issuer
-02 Refer to Card Issuer, special condition
-03 Invalid Merchant
-04 Pick up card
-05 Decline. Do not honor
-06 Error
-07 Pick up card, special condition
-08 Honor with identification
-09 Request in progress
-10 Approval for partial amount
-11 Approved VIP
+0 Approved 	
+1 Refer to Card Issuer 	
+2 Refer to Issuer's special conditions 	
+3 Invalid Merchant
+4 Pick Up Card
+5 Do Not Honor
+6 Error
+7 Pick Up Card, Special Conditions
+8 Honor with identification
+9 Request in Progress
+10 Partial Amount Approved
+11 VIP Approval
 12 Invalid Transaction
 13 Invalid Amount
-14 Invalid card number
-19 Re-enter transaction
-21 No action taken
+14 Invalid Card Number
+15 No Such Issuer
+16 Approved, update track 3
+17 Customer Cancellation
+18 Customer Dispute
+19 Re-enter Transaction
+20 Invalid Response
+21 No Action Taken (no match)
+22 Suspected Malfunction
+23 Unacceptable Transaction Fee
+24 File Update not Supported by Receiver
+25 Unable to Locate Record on File
+26 Duplicate File Update Record
+27 File Update Field Edit Error
+28 File Update File Locked Out
+29 File Update not Successful
 30 Format Error
-41 Lost card Pick up
-43 Stolen card Pick up
-51 Not sufficient funds
-52 No checking account
-53 No savings account
-54 Expired card
-55 Pin incorrect
-57 Transaction not allowed for cardholder
-58 Transaction not allowed for merchant
-61 Exceeds withdrawal amount limit
-62 Restricted card
-63 Security violation
-65 Activity count limit exceeded
-75 Pin tries exceeded
-76 Unable to locate previous
-77 Inconsistent with original
-78 No account
-80 Invalid transaction date
-81 Cryptographic PIN error
-84 Pre-authorization time to great
-86 Cannot verify PIN
-89 MAC error
-91 Issuer unavailable
-92 Invalid receiving institution id
-93 Transaction violates law
-94 Duplicate transaction
-96 System malfunction
+31 Bank not Supported by Switch
+32 Completed Partially
+33 Expired Card - Pick Up
+34 Suspected Fraud - Pick Up
+35 Contact Acquirer - Pick Up
+36 Restricted Card - Pick Up
+37 Call Acquirer Security - Pick Up
+38 Allowable PIN Tries Exceeded
+39 No CREDIT Account
+40 Requested Function not Supported
+41 Lost Card - Pick Up
+42 No Universal Amount
+43 Stolen Card - Pick Up
+44 No Investment Account
+51 Insufficient Funds
+52 No Cheque Account
+53 No Savings Account
+54 Expired Card
+55 Incorrect PIN
+56 No Card Record
+57 Trans. not Permitted to Cardholder
+58 Transaction not Permitted to Terminal
+59 Suspected Fraud
+60 Card Acceptor Contact Acquirer
+61 Exceeds Withdrawal Amount Limits
+62 Restricted Card
+63 Security Violation
+64 Original Amount Incorrect
+65 Exceeds Withdrawal Frequency Limit
+66 Card Acceptor Call Acquirer Security
+67 Hard Capture - Pick Up Card at ATM
+68 Response Received Too Late
+75 Allowable PIN Tries Exceeded
+76 Previous message not found
+77 Data does not match original message
+80 Invalid Date
+81 Cryptographic failure
+82 Incorrect CVV
+83 Unable to verify PIN
+84 Invalid authorization life cycle
+85 No reason to decline
+86 ATM Malfunction
+87 No Envelope Inserted
+88 Unable to Dispense
+89 Administration Error
+90 Cut-off in Progress
+91 Issuer or Switch is Inoperative
+92 Financial Institution Not Found
+93 Trans Cannot be Completed
+94 Duplicate Transmission
+95 Reconcile Error
+96 System Malfunction
+97 Reconciliation Totals Reset
+98 MAC Error
+99 Reserved for National Use
+N0 Force STIP (VISA)
+N3 Cash Service Not Available (VISA)
+N4 Cash request exceeds issuer limit (VISA)
+N7 Decline for CVV2 failure (VISA)
+P2 Invalid biller information (VISA)
+P5 PIN Change Unblock Declined (VISA)
+P6 Unsafe PIN (VISA)
+XA Forward to issuer
+XD Forward to issuer
