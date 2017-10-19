@@ -37,6 +37,7 @@ http-headers: Header fields sent in requests and responses by browsers/servers
 http-methods: Method names sent at the start of a browser's first request line 
 http-params: Parameters browsers sometimes send when requesting server URI paths
 http-paths: Path names browsers almost always must include in queries to servers
+http-policy: HTTP data for `Content-Security-Policy`, `Referrer-Policy`, etc.
 http-queries: The object syntax that appears after the question mark in URI's
 http-security: Lists related to Hyper Text Transfer Protocol security info
 http-status: Numeric codes that denote the status of a web server during response

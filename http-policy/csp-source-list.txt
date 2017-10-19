@@ -1,0 +1,12 @@
+*
+'none'
+'self'
+data:
+domain.example.com
+*.example.com
+https://cdn.com
+https:
+'unsafe-inline'
+'unsafe-eval'
+'nonce-'
+'sha256-'
