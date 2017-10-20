@@ -1,0 +1,14 @@
+Feature,Activate,Deactivate,Online Access Available
+Anonymous Call Rejection,*77,*87,Yes
+Call Forwarding,*72,*73,Yes
+Call Forwarding Selective,*63,*83,Yes
+Call Return,*69,*89,Not at this time
+Call Screening,*60,*80,Yes
+Call Trace,*57,,Not at this time
+Call Waiting,*70,,Not at this time
+Caller ID Blocking Per Call,*67,,Not at this time
+Caller ID Blocking Per Line,*82,,Not at this time
+Repeat Dialing,*66,*86,Not at this time
+Speed Dial 8 (set up),*74,,Not at this time
+Speed Dial 30 (set up),*75,,Not at this time
+Three-Way Calling,*96,*97,Not at this time
