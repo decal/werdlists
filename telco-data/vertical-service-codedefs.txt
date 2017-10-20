@@ -1,0 +1,95 @@
+Advanced Call Waiting Deluxe (*76)
+Allows a subscriber to specify, in advance of incoming calls, the termination treatment on incoming calls that arrive while the subscriber is engaged in another conversation.
+Anonymous Call Rejection (*77 Activation, *87 Deactivation)
+Allows Customers to reject calls from parties who have a privacy feature that prevents the delivery of their calling number to the called party.
+Automatic Callback (*66 Activation, *86 Deactivation)
+Allows a subscriber to automatically place a call to the last station called by the subscriber when that station becomes idle.
+Automatic Recall (*69 Activation, *89 Deactivation)
+Allows a subscriber to automatically place a call to the last station that called the subscriber, when that station becomes idle.
+Call Forwarding (*72 Activation, *73 Deactivation)
+Allows a subscriber to redirect calls intended for his/her station (base station) to another station (remote station).
+Call Forwarding Busy Line/Don't Answer (*68 Activation, *88 Deactivation)
+Allows a subscriber to forward calls intended for the subscriber's busy line, or idle line after a predetermined number of rings, to another directory number entered by the subscriber at the time of activation.
+Calling Number Delivery (*65 Activation, *85 Deactivation)
+Provides the subscriber with the directory number (DN) of the calling party during the ringing cycle.
+Calling Number Delivery Blocking (*67)
+Allows the subscriber to temporarily change the permanent public/private status indicator of his/her directory number (DN) and thus control its availability to the called party.
+Cancel Call Waiting (*70)
+Provides the subscriber the ability to disable the Call Waiting feature for the duration of a telephone call.
+Change Forward-To Number for Customer/Programmable Call Forwarding Busy Line (*40)
+Access Code followed by directory number is used to change the forwarded-to number for Call Forwarding Busy Line (CFBL). The state of CFBL is not changed when this access code is used. This feature will utilize the activation code of *90 and deactivation code *91 with the following exceptions: activation will not require/allow the identification of a forwarded-to directory number and deactivation will not clear the forwarded-to directory number.
+Change Forward-To Number for Customer Programmable Call Forwarding Don't Answer (*42)
+Access Code followed by directory number is used to change the forwarded-to number for Call Forwarding Don't Answer (CFDA). The state of CFDA is not changed when this access code is used. This feature will utilize the activation code of *92 and deactivation code *93 with the following exceptions: activation will not require/allow the identification of a forwarded-to directory number and deactivation will not clear the forwarded-to directory number.
+Change Forward-To Number for ISDN Call Forwarding (*56)
+Access code followed by directory number (DN) is used to change the Forward-To number for Call Forwarding Variable feature button. The state of Call Forwarding Variable feature button is not changed when this access code is utilized.
+Customer Originated Trace (*57) 
+Provides the recipient of an obscene, harassing, or threatening call the ability to request an auto-trace of the last call received.
+Customer Programmable Call Forwarding Busy Line (*90 Activation, *91 Deactivation)
+Allows subscriber of the feature to forward calls intended for the subscriber's busy line to another directory number entered by the subscriber at the time of activation. Deactivation will clear the forwarded-to directory number.
+Customer Programmable Call Forwarding Don't Answer (*92 Activation, *93 Deactivation)
+Allows subscriber of the feature to forward calls intended for the subscriber's idle line, after a predetermined number of rings, to another directory number entered by the subscriber at the time of activation. Deactivation will clear the forwarded-to directory number.
+Deactivation/Activation of In-Session Activation (ISA) on a per line basis (*02)
+Allows a subscriber to deactivate or activate (i.e., toggle) the In-Session Activation feature on a per line basis. ISA is feature that gives the caller a menu of call completion services using voice prompts when the call encounters a busy or no-answer condition.
+Deactivation of In-Session Activation (ISA) on a per call basis (*03)
+Allows a subscriber to deactivate the In-Session Activation feature on a per call basis. When the call is completed, ISA reverts back to the active state. ISA is a feature that gives the caller a menu of call completion services using voice prompts when the call encounters a busy or no-answer condition.
+Distinctive Ringing/Call Waiting (*61 Activation, *81 Deactivation)
+Allows the subscriber to have incoming calls from a limited number of calling parties identified using distinctive alerting treatment.
+Do Not Disturb (*78 Activation, *79 Deactivation)
+Provides the subscriber the opportunity of having all calls intercepted by the CO switch whenever the line is programmed for Do Not Disturb. The calling party will receive a message indicating the station is in Do Not Disturb condition.
+Drop last member of Six-Way Conference Call (*43)
+Provides the subscriber establishing a six-way conference to terminate the last party added to the call. This frees the port for an additional party when the last party wasn't reachable.
+French Voice Activated Network Control (*46)
+Provides the subscriber access to Voice Activated Network Control (VANC) via the French language. Subscribers will dial this code to access VANC so that they can say a name or command in French that will be activated, deactivated or provide access to a service, e.g., Call Forwarding, Call Trace, etc.
+Inward Voice Activated Services (*00 English, *01 French)
+IVAS enables a subscribing business to provide automated voice activated routing for inbound English or French speaking calls (i.e., separate codes for the same service in each language). IVAS will initially consist of the following services:
+Voice Activated Premier Dialing (VAPD) which allows customers to contact subscribing businesses by speaking the business name or service.
+Voice Activated Blue Pages (VABP) which allows customers to request access to government services.
+Voice Activated Auto Attendant (VAAA) which provides enhancements to Auto Attendant applications by providing a voice recognition interface in place of Touch Tone.
+Voice Activated Audio Text (VAAT) provides users ability to request specific information from a business.
+Voice Activated Interactive Voice Response (VAIVR) which allows the caller to interact with a subscriber's specific application in a prescribed manner.
+ISDN MBKS Manual Exclusion (*58 Activation, *59 Deactivation)
+Access code allows a Multibutton Key Set (MBKS) user or an analog set user whose telephone number is shared on another ISDN MBKS to inhibit other stations from picking up a call on hold or bridging onto a call that is active at the station.
+Line Blocking Deactivation (*82)
+Line Blocking Deactivation allows a caller to dial a delivery feature access code before dialing a complete telephone number to temporarily override the presentation status of both the caller's directory number and the calling name. If the caller enters the delivery code, then the calling identity presentation status will be shown as "public" for both caller directory number and calling name.
+Long Distance Signal (*49)
+Extended period activation/deactivation (toggle) of basic 1FR/1MR long distance signal ringing/call waiting tones.
+Override Do Not Disturb (*48)
+Allows a subscriber to override the Do Not Disturb feature which has been activated on a line. After receiving a message indicating the station is in a Do Not Disturb condition, the subscriber may override the condition by dialing *48 and then a Personal Identification Number (PIN) thus allowing the call to be completed in the normal manner.
+Override Feature Authorization (*47)
+Allows a subscriber to override a Feature Authorization activated on a line which restricts 1+ calls from that line. Feature Authorization may be overriden by dialing *47 and a Personal Identification Number (PIN) and then dialing a 1+ call after receiving a second dial tone.
+Over-the-Air Service Provisioning (*228)
+OTASP will enable the Service Provider to activate a potential service to a subscribers wireless unit by downloading over the air required parameters, such as phone numbers, into the handset. Activation of the OTASP code, followed by supplemental digit strings, also provides the ability to securely load an Authentication Key into a subscribers wireless phone which is used to confirm and validate the identity of the wireless handset.
+Selective Call Acceptance (*64 Activation, *84 Deactivation)
+Provides the subscriber the ability to block calls from all but a predetermined list of directory numbers specified by the subscriber. Unaccepted callers may receive an announcement or be routed to a predetermined directory number.
+Selective Call Blocking/Reporting (*09) 
+Allows the subscriber, after receiving an unwanted call, to initiate the automatic capture and analysis of network information related to the unwanted call that may be used to determine potential violations of any state and federal regulations. Future calls from this unwanted caller are automatically blocked.
+Selective Call Forwarding (*63 Activation, *83 Deactivation)
+Allows the subscriber to have incoming calls from a limited number of calling parties forwarded to a prespecified remote station.
+Selective Call Rejection (*60 Activation, *80 Deactivation)
+Allows the subscriber to have incoming calls from a limited number of calling parties rejected by the terminating switching system.
+Selective Call Waiting (*62)
+Provides the subscriber the ability to provide a Call Waiting signal to a predetermined list of directory numbers specified by the subscriber. Callers not on the predetermined list will receive busy tone.
+Single Line Variety Package (SVP) - Call Hold (*52)
+Gives the subscriber the capability of placing a call on hold so that the call may be continued from another extension.
+Single Line Variety Package (SVP) - Distinctive Ring B (*53)
+Allows a subscriber to select, by way of distinctive ringing, the particular person or extension that the subscriber wishes to alert.
+Single Line Variety Package (SVP) - Distinctive Ring C (*54)
+Allows a subscriber to select, by way of distinctive ringing, the particular person or extension that the subscriber wishes to alert.
+Single Line Variety Package (SVP) - Distinctive Ring D (*55)
+Allows a subscriber to select, by way of distinctive ringing, the particular person or extension that the subscriber wishes to alert.
+Six-Way Conference Calling Activation (*41)
+Allows the subscriber to originate a six-way conference call. Customers will enter this code prior to the first directory number added into the conference. Each subsequent member of the conference is added with a flash hook. This code is used to eliminate action conflicts with other flash hook originated features.
+Speed Calling (*74 Speed Calling 8-Change List, *75 Speed Calling 30-Change List)
+Allows a subscriber to assign his/her own speed calling codes directly and immediately from his/her own telephone by dialing a change speed calling list access code, an abbreviated code, and a new telephone number.
+Usage Sensitive Three-way Calling (*71)
+Allows a subscriber, by dialing an access code, to request the capability of adding a third party to the two-way connection that is established by subsequent dialing.
+Voice Activated Dialing (*44)
+Access to the Voice Activated Dialing (VAD) directory. Customers will dial this code to access their VAD directory in order to add, delete or review the names and numbers
+Voice Activated Network Control (*50)
+Access to Voice Activated Network Control (VANC). Customers will dial this code to access VANC so that they can say a name or command that will be activated, deactivated or to access a service.
+Voice Dialing Extended Dial Tone (*45)
+Extend dial tone for Voice Activated Dialing (VAD). Customers will dial this code to extend the length of time in which dial tone is heard after going off-hook so that various Customer Premise Equipment (CPE, i.e., fax and modems) will work properly.
+Wireless Priority Service (*272)
+Access to Wireless Priority Service (WPS) - a nationwide cellular priority access capability in support of national security and emergency preparedness telecommunications.
+Who Called Me? (*51)
+Provides the subscriber with the directory number (DN), date, and time of unanswered calls.
