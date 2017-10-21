@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+read -p '*?* Enter the name of the root include directory the header files are under: ' -t 8 INC_DIR
+
+find ${INC_DIR} -type f -iname '*.h' -exec egrep '^[#]define ' {} \; | \
+  awk '{print$2}' | egrep '^[A-Z]+' | grep -v '(' | sort -u 
+
+exit 0
