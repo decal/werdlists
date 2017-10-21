@@ -1,1 +1,1 @@
-debian-dns-commands.txt - Executable commands, scripts, etc. available on Debian after installing many DNS-related dpkg's
+debian-dns-commands: Commands available on Debian after installing DNS packages

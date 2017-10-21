@@ -45,7 +45,7 @@ for d in $LS
   [[ "$avar" == "" ]] && continue
 
   echo -en "${bluef}${avar}${reset} "
-  echo -e $(grep --color=ALWAYS -Hirna -- "${avar}" index.lst | awk 'BEGIN { FS=":"; } END { print($1); }')
+  echo -e $(grep --color=ALWAYS -Hirna -- "${avar}" INDEX.md | awk 'BEGIN { FS=":"; } END { print($1); }')
 done <&2- | $PAGER 
 
 exit 0

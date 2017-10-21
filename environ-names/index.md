@@ -21,6 +21,7 @@ macos-pids-names: environment variable names from the Mac OSX process table
 mosh-environ-names: MObile SHell specific environment variable names
 msft-environ-names: Environment variables documented on the MSDN web site
 netbsd-environ-names: NetBSD environment variable names
+nis-environ-names: Environment variables of Sun NIS (Network Information System)
 phabricator-environ-names: Environment variable names for the Phabricator IDE
 resolv-environ-names: DNS resolver library configuration environment variables
 skygear-server-names: Skygear Backend-as-a-Service environ names of `.env.example`
