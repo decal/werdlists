@@ -1,0 +1,18 @@
+Input,Base,Valid,Output
+https:example.org,,X,https://example.org/
+https://////example.com///,,X,https://example.com///
+https://example.com/././foo,,O,https://example.com/foo
+hello:world,https://example.com/,O,hello:world
+https:example.org,https://example.com/,X,https://example.com/example.org
+\example\..\demo/.\,https://example.com/,X,https://example.com/demo/
+example,https://example.com/demo,O,https://example.com/example
+file:///C|/demo,,X,file:///C:/demo
+..,file:///C:/demo,O,file:///C:/
+file://loc%61lhost/,,O,file:///
+https://user:password@example.org/,,O,https://user:password@example.org/
+https://example.org/foo bar,,X,https://example.org/foo%20bar
+https://EXAMPLE.com/../x,,O,https://example.com/x
+https://ex ample.org/,,X,Failure
+example,,X,Failure (due to lack of base)
+https://example.com:demo,,X,Failure
+http://[www.example.com]/,,X,Failure

@@ -9,3 +9,4 @@ variable-name-strings: Commonly lucrative HTTP GET query variable names
 variable-value-strings: Typical HTTP GET query variable values
 referrer-policy-directives: W3C Referrer Policy directives from HTTP replies
 snort-http-inspect: Snort HTTP inspect module global configuration variables
+whatwg-urlstd-examples: Examples in (URL Standard)[https://url.spec.whatwg.org] 
