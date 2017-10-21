@@ -5,3 +5,4 @@ _alpha-upper-pairs: List of under-scored uppercase alphabetic letter pairings
 alpha-lower-chars: Individual alphabetic letters without any capitalization
 alpha-lower-pairs: All possible pairings of lowercase alphabetic characters
 alpha-upper-chars: Stand-alone alphabetic letters capitalized
+alpha-upper-pairs: all possible pairings of uppercase alphabetic characters

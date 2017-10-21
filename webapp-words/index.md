@@ -1,4 +1,4 @@
-dirb-lists-words: file names taken from dirb's wordlists folder and parsed
+dirb-list-words: file names taken from dirb's wordlists folder and parsed
 phpx-all-words: words uniquely parsed from all php files in webapp-files
 private-word-names: words that form private file names after extension appendage
 skipfish-word-names: words to form files with extensions from skipfish scanner
