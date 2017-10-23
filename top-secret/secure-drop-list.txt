@@ -1,0 +1,34 @@
+Organization	Landing Page	Tor Hidden Service Address
+Apache	https://www.apache.be/securedrop	zdf4nikyuswdzbt6.onion
+Associated Press	https://www.ap.org/tips/	3expgpdnrrzezf7r.onion
+Bloomberg News	https://www.bloomberg.com/tips/	m4hynbhhctdk27jr.onion
+BuzzFeed	https://contact.buzzfeed.com	6cws3rcwn7aom44r.onion
+CBC	https://securedrop.cbc.ca	ad2ztmbv5vmbj7ic.onion
+CPI	https://www.publicintegrity.org/securedrop	v2d6nf2nsvvbgaqe.onion
+CPJ	https://www.cpj.org/campaigns/assistance/how-to-get-help.php	2x2hb5ykeu4qlxqe.onion
+Dagbladet	https://securedrop.dagbladet.no	mz33367mcdrcdi7s.onion
+Espen Andersen	https://espenandersen.no/contact	lijbt6ju7m6opkzb.onion
+ExposeFacts	https://exposefacts.org	znig4bc5rlwyj4mz.onion
+Forbes	https://www.forbes.com/fdc/securedrop.html	fje2vboa55bbxjpm.onion
+Gizmodo Media Group	https://specialprojectsdesk.com/securedrop/	gmg7jl25ony5g7ws.onion
+Toronto Globe and Mail	https://sec.theglobeandmail.com/securedrop	n572ltkg4nld3bsz.onion
+Greenpeace New Zealand	https://www.safesource.org.nz	ll6edwtpfl3zdwoi.onion
+The Guardian	https://securedrop.theguardian.com	33y6fjyhs3phzfjj.onion
+The Intercept	https://theintercept.com/leak/	y6xjgkgwj47us5ca.onion
+Lucy Parsons Labs	https://lucyparsonslabs.com/securedrop	qn4qfeeslglmwxgb.onion
+New Internationalist	https://digital.newint.com.au/securedrop	axcdo2zaeyrpdc6z.onion
+The New York Times	https://www.nytimes.com/tips#securedrop	nytimes2tsqtnxek.onion
+NRKbeta	https://www.nrk.no/varsle/	nrktipspgpsyoqwo.onion
+Project On Gov't Oversight (POGO)	https://securedrop.pogo.org	dqeasamlf3jld2kz.onion
+ProPublica	https://securedrop.propublica.org	pubdrop4dw6rk3aq.onion
+Public Intelligence	https://publicintelligence.net/contribute/	arujlhu2zjjhc3bw.onion
+Radio24syv	https://securedrop.radio24syv.dk	hpjw636qnt5avq62.onion
+Radio-Canada	https://sourceanonyme.radio-canada.ca	w5jfqhep2jbypkek.onion
+Barton Gellman	https://tcfmailvault.info	v6gdwmm7ed4oifvd.onion
+The Washington Post	https://www.washingtonpost.com/securedrop	vbmwh445kf3fs2v4.onion
+USA TODAY	https://newstips.usatoday.com/securedrop.html	usatodayw7vu5egc.onion
+VICE Media	https://news.vice.com/securedrop	cxoqh6bd23xa6yiz.onion
+Vox.com	https://apps.voxmedia.com/vox-tips/	2cq26ys7wjhryrzw.onion
+The Verge	https://apps.voxmedia.com/verge-tips/	2xat73hlwcpwo2zy.onion
+Wired's Kevin Poulsen	https://freedom.press/about/tech/kevin-poulsen	poulsensqiv6ocq4.onion
+# Last updated Tue Aug  1 20:58:01 UTC 2017

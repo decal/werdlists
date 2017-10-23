@@ -78,7 +78,7 @@ string-enums: Enumerations of values that aren't too terribly unusual
 system-admin: System administration and BOFH related materials
 system-calls: System calls info for functions that execute in ring0
 telco-data: Data associated with telecommunications companies and such..
-top-secret: Files and/or data related to documents that were once classified
+top-secret: Files and/or data related to documents that were/are classified
 unicode-art: Unicode art which is essentially ASCII art, but with the high-bit 
 unix-data: Data associated with various flavors of the UNIX OS and its clones
 unix-paths: File path names found in various UNIX file systems
