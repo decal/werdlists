@@ -1,0 +1,1593 @@
+# COUNTRY/TONE; FREQUENCY in Hz; CADENCE in seconds
+Albania (Republic of) 
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 1.4 off
+Algeria (People's Democratic Republic of)
+Busy tone - 425 0.5 on 0.5 off
+Ringing tone - 425 1.5 on 3.5 off
+Andorra (Principality of) Busy tone - 425 0.2 on 0.2 off
+Congestion tone - 425 2x(0.2 on 0.2 off) 0.2 on 0.2 off
+Dial tone - 425 continuous
+Second dial tone - 425 continuous
+Pay tone - 1600 0.05 on 0.05 off 0.05 on 0.05 off 1.5 off
+Ringing tone - 425 1.5 on 3.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.175 on 0.175 off 0.175 on 3.5 off
+Angola (Republic of) Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.5 on 0.5 off
+Dial tone - 400 continuous
+Number unobtainable tone - 400 0.2 on 0.2 off
+Ringing tone - 25 1.0 on 5.0 off
+Waiting tone - 400 1.0 on 5.0 off
+Anguilla Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Number unobtainable tone - 480+620 0.25 on 0.25 off
+Payphone recognition tone - 1600/1143 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.65 on 0.2 off
+Waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Antigua and Barbuda Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Pay tone - 622 0.136 on 0.136 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - announcement
+Call waiting tone - 480 1x(0.6 on 10.0 off)
+Argentine Republic Busy tone - 425 0.3 on 0.2 off
+Congestion tone - 425 0.3 on 0.4 off
+Dial tone - 425 continuous
+End of three party service tone - 950/1400/1800 1x(3x0.33 on)
+Ringing tone - 425 1.0 on 4.0 off
+Service activated tone - 425 1.0 on 0.25 off
+Warning tone - operator intervening 1400 5x0.1 on 1.9 off
+Waiting tone - 425 0.4 on 0.2 off 0.4 on 4.0 off
+Call waiting tone - 425 0.3 on 10.0 off
+Aruba Busy tone - 425 0.5 on 0.5 off
+Confirmation tone - 425 continuous
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Refusal tone - 425 0.06 on 0.06 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 4.4 off
+Ascension Busy tone - 400 0.384 on 0.384 off
+Congestion tone - 400 continuous
+Dial tone - 350+450 continuous
+Number unobtainable tone - 400 continuous
+Ringing tone - 400+450 0.384 on 0.192 off 0.384 on 2.016 off
+Call waiting tone - 1400 1x(0.384 on)
+Australia Busy tone - 425//400 0.375 on 0.375 off
+Congestion tone - 425//400 0.375 on 0.375 off
+Conference tone - 425//525//1400 1.0 on 15.0 off 0.36 on 15.0 off
+Dial tone - 425x25//400+425+450//400+425//425 continuous
+Facilities tone - 425 continuous
+Intrusion tone - 425//525 continuous
+Number unobtainable tone - 425//400 2.5 on 0.5 off
+Ringing tone - 400x425//400+425+450//400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 4.4 off
+Austria Busy tone - I 420 0.4 on 0.4 off
+Busy tone - II (5) 450 0.3 on 0.3 off
+Congestion tone - I 420 0.2 on 0.2 off
+Congestion tone - II (5) 450 0.3 on 0.3 off
+Dial tone - 420//450 continuous
+Recall dial tone - 420 continuous
+Special dial tone - 380+420 continuous
+Negative indication tone - 380+420 0.4 on 0.4 off
+Number unobtainable tone - 950/1400/1800 3x0.33 on 1.0 off
+Pay tone - 852 1.5 on
+Positive indication tone - 380+420 1.0 on 5.0 off
+Payphone recognition tone - 1633/1336 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 420//450 1.0 on 5.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 420//450 0.15 on 0.15 off 0.15 on 1.95 off
+Waiting tone - 420 0.04 on 1.95 off
+Bahamas (Commonwealth of the) Busy tone - 480//620/120 0.5 on 0.5 off
+Congestion tone - 480//620/120 0.25 on 0.2 off
+Ringing tone - 480//620 2.0 on 4.0 off
+Bahrain (Kingdom of) Acceptance tone - 425 0.06 on 0.06 off
+Busy tone - 425 0.375 on 0.375 off
+Congestion tone - 425 0.40 on 0.35 off 0.225 on 0.525 off
+Dial tone - 330x440 continuous
+Number unobtainable tone - 425 continuous
+Pay tone - 816/1209 O.125 on 1.5 off
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Route tone - 425 0.06 on 0.06 off
+Call waiting tone - 425 0.2 on 0.6 off 0.2 on 5.0 off
+Bangladesh (People's Republic of) Busy tone - 450 0.2 on 0.3 off 0.7 on 0.8 off
+Congestion tone - 450 0.25 on 0.25 off
+Dial tone - 450 continuous
+Special dial tone - 450 0.4 on 0.4 off
+Howler tone - 3000 continuous
+Pay tone - 800/1900 continuous
+Ringing tone - 450 1.0 on 4.0 off
+Warning tone - operator intervening 450 0.20 on 0.02 off 0.20 on 1.40 off
+Call waiting tone - 450 3.0 on 10.0 off
+Barbados Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on
+Call waiting tone - 440 2x(0.3 on 10.0 off)
+Belarus (Republic of) Busy tone - 425 0.4 on 0.4 off
+Ringing tone - 425 0.8 on 3.2 off
+Belgium Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.167 on 0.167 off
+Dial tone - 425 continuous
+Special dial tone - 425 1.0 on 0.25 off
+Holding tone - 1400 0.4 on 15.0 off
+Ringing tone - 425 1.0 on 3.0 off
+Special information tone - 900/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 1400 0.175 on 0.175 off 0.175 on 3.50 off
+Benin (Republic of) Busy tone - 440//425 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 440//425 continuous
+Special dial tone - 330+440 continuous
+Pay tone - announcement
+Ringing tone - 440//425 1.7 on 3.3 off
+Route tone - 440//425 0.05 on 0.05 off
+Special information tone - announcement
+Call waiting tone - 440 continuous
+Bermuda Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 913/1428/1776 0.27 on 0.38 on 0.38 on
+Call waiting tone - (6) 440
+Bhutan (Kingdom of) Busy tone - 400 0.6 on 0.6 off
+Dial tone - 400+25 continuous
+Number unobtainable tone - 400 continuous
+Offering tone, trunk - 450 0.2 on 0.2 off 0.2 on 0.6 off
+Ringing tone - 400+25 0.4 on 0.2 off 0.4 on 2.6 off
+Waiting tone - 400 0.5 on 0.25 off
+Bosnia and Herzegovina Busy tone - 425 0.5 on 0.5 off
+Confirmation tone - 425 continuous
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Second dial tone - 425 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Offering tone, trunk - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Pay tone - 425 0.5 on 15.0 off
+Payphone recognition tone - 1100+1750 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.3 on 10.0 off
+Botswana (Republic of) Acceptance tone - 425 0.06 on 0.06 off
+Busy tone - 425 0.38 on 0.38 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 350+450 continuous
+Special dial tone - 350+450 0.40 on 0.04 off
+Holding tone - 425 5.0 on 5.0 off
+Intrusion tone - 425 0.16 on 2.0 off
+Line lock-out tone - 425 5.0 on 1.0 off
+Refusal tone - 425 5.0 on 1.0 off
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Waiting tone - 425 1.0 on 1.0 off
+Call waiting tone - 425 0.2 on 0.6 off 0.2 on
+Brazil (Federative Republic of) Busy tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Dial tone - pabx 425 0.975 on 0.05 off
+Executive override tone - 750 0.02 on 1.0 off
+Function acknowledge tone - 425 0.1 on 0.1 off 0.1 on 2.0 off
+Number unobtainable tone - 425 0.75 on 0.25 off 0.25 on 0.25 off
+Pay tone - 300 0.75 on
+Ringing tone - 425 1.0 on 4.0 off
+Waiting tone - 425 0.05 on 1.0 off
+British Virgin Islands Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Number unobtainable tone - 480+620 0.25 on 0.25 off
+Payphone recognition tone - 1600/1143 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.65 on 0.2 off
+Call waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Brunei Darussalam Busy tone - 400 0.375 on 0.375 off
+Confirmation tone - 400x24 0.1 on 0.1 off 0.3 on 0.3 off
+Congestion tone - 400 0.375 on 0.375 off
+Dial tone - 400x50 continuous
+Special dial tone - 400x24 0.1 on 0.1 off
+Holding tone - 400x24 0.5 on 2.5 off
+Number unobtainable tone - 400 continuous
+Ringing tone - 400+450 0.4 on 0.2 off 0.4 on 0.2 off
+Warning tone - end of period 400 0.624 on 4.376 off
+Warning tone - operator intervening 400 0.25 on 2.0 off
+Warning tone - pip tone 900 0.25 on 0.25 off
+Waiting tone - 400 0.3 on 0.25 off
+Call waiting tone - 400x24 0.5 on 0.25 off
+Bulgaria (Republic of) Busy tone - I 425 0.5 on 0.5 off
+Busy tone - II 425 0.2 on 0.5 off
+Busy tone - III 425 0.25 on 0.25 off
+Busy tone - IV 425 0.3 on 0.3 off
+Congestion tone - I 425 0.25 on 0.25 off
+Congestion tone - II 425 0.22 on 0.22 off
+Congestion tone - III 425 0.5 on 0.5 off
+Dial tone - I 425 continuous
+Dial tone - II 425 0.25 on 0.75 off 0.75 on 1.0 off
+Dial tone - III 425 0.25 on 0.3 off 0.7 on 0.8 off
+Dial tone - IV 425 0.25 on 0.25 off 0.25 on 1.0 off
+Special dial tone - 425 1.5 on 0.1 off
+Holding tone - I 950/950/1400 0.65 on 0.32 off 0.32 on 0.32 off 1.30 on 2.60 off
+Holding tone - II 425/950/950/1400 1.50 on 5.12 off 1.50 on 5.12 off 1.50 on 5.12 off
+Intrusion tone - I 425 0.24 on 0.24 off 0.24 on 1.20 off
+Intrusion tone - II 425 2.0 on 0.5 off 2.0 on 0.5 off
+Intrusion tone - III 425 0.25 on 0.25 off 0.25 on 1.5 off
+Payphone recognition tone - 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - I 425 1.0 on 4.0 off
+Ringing tone - II 425 1.0 on 9.0 off
+Ringing tone - III 425 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - I 1400 0.35 on 0.50 off
+Warning tone - II 425/1400 0.5 on 0.5 off
+Call waiting tone - I 425 0.15 on 0.15 off 0.15 on 4.0 off
+Call waiting tone - II 425 2x(0.3 on)
+Call waiting tone - III 425 0.2 on 0.6 off
+Burkina Faso Acceptance tone - 425 1.0 on 4.0 off
+Busy tone - 425//440//620 0.5 on 0.5 off
+Confirmation tone - 350 0128 on 0.128 off 0.384 on
+Congestion tone - 425//620 0.25 on 0.25 off
+Dial tone - 425//440 continuous
+Ringing tone - I 425 1.0 on 4.0 off
+Ringing tone - II 440 1.7 on 3.3 off
+Ringing tone - III 480 2.0 on 4.0 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 900/1380/1860 0.35 on 0.30 on 0.35 on 1.0 off
+Burundi (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.7 on 3.3 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Cambodia (Kingdom of) Busy tone - 425 0.375 on 0.375 off
+Congestion tone - 425 0.375 on 0.375 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.25 on 0.25 off
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Cameroon (Republic of) Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 440 0.25 on 0.25 off
+Dial tone - 440 continuous
+Second dial tone - 330+440 continuous
+Pay tone - 12000 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 440 0.2 on 0.6 off 0.2 on
+Canada Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Call waiting tone - 440 2x(0.3 on 10.0 off)
+Cayman Islands Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.25 on 0.25 off
+Ringing tone - 425 1.0 on 4.0 off
+Central African Republic Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Second dial tone - 425+330 continuous
+Number unobtainable tone - 425 0.5 on 0.5 off
+Pay tone - 12000 0.15 on 0.15 off
+Ringing tone - 425 1.7 on 3.3 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 950/1400/1800 3x0.33 on 2x0.30 off
+Chad (Republic of) Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Second dial tone - 330+400 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Special information tone - 950/1400/1800 (3x0.33 on 2x0.03 off) 1.0 off
+Channel Islands: Guernsey Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.40 on 0.35 off 0.25 on 0.52 off
+Dial tone - 350+450 continuous
+Special dial tone - 350+450 0.75 on 0.75 off
+Pay tone - 400 0.125 on 0.125 off
+Ringing tone - 400+450 0.4 on 0.2 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 400 8x(0.1 on 4.9 off)
+Channel Islands: Jersey Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.4 on 0.35 off 0.225 on 0.525 off
+Dial tone - 350+450 continuous
+Number unobtainable tone - 400 continuous
+Pay tone - 400 0.125 on 0.125 off
+Ringing tone - 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Waiting tone - 400 0.1 on 2.5 off 0.1 on
+Chile Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.2 on 0.2 off
+Dial tone - 400 continuous
+Second dial tone - 330+440 continuous
+Identification tone - 800/1200 0.6 on 2.0 off 0.6 on 2.0 off
+Payphone recognition tone - 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 400 1.0 on 3.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Warning tone - end of period 800 2.0 on
+Warning tone - operator intervening 1400 0.5 on 15.0 off
+Waiting tone - 900+1300 0.5 on 0.5 off
+China (People's Republic of) Busy tone - 450 0.35 on 0.35 off
+Congestion tone - 450 0.7 on 0.7 off
+Dial tone - 450 continuous
+Second dial tone - 450 continuous
+Intrusion tone - 450 0.2 on 0.2 off 0.2 on 0.6 off
+Number unobtainable tone - 450 3x(0.1 on 0.1 off) 0.4 on 0.4 off
+Ringing tone - 450 1.0 on 4.0 off
+Special information tone - I 450 0.4 on 0.04 off
+Special information tone - II 950 0.4 on 10.0 off
+Waiting tone - 450 0.4 on 4.0 off
+Colombia (Republic of) Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.10 on 0.25 off 0.35 on 0.25 off 0.65 on 0.25 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.65 on 0.25 off 0.20 on 0.60 off
+Pay tone - 50/12000/16000 0.15 on
+Ringing tone - 425 1.0 on 4.5 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Comoros (Union of the) Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Second dial tone - 330+440 continuous
+Ringing tone - 440 1.71 on 0.05 off
+Route tone - 440 0.05 on 0.05 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Cook Islands Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400 continuous
+Ringing tone - 400+450 0.4 on 0.2 off
+Call waiting tone - 400+450 0.5 on
+Costa Rica Busy tone - 450 0.33 on 0.33 off
+Congestion tone - 450 0.33 on 0.33 off
+Dial tone - 450 continuous
+Ringing tone - 450 1.2 on 4.9 off
+Warning tone - operator intervening 425 0.17 on 0.17 off 0.5 on 0.17 off
+Call waiting tone - 450 0.15 on 0.15 off 0.15 on 8.0 off
+Côte d'Ivoire (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 425 continuous
+Second dial tone - 440+330 continuous
+Line lock-out tone - 425 0.4 on 0.04 off
+Pay tone - 12000
+Ringing tone - 425 1.7 on 3.3 off
+Special information tone - announcement
+Call waiting tone - (6) 425
+Croatia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Payphone recognition tone - 1206/850 4x(0.2 on 0.2 off 0.2 on 0.2 off)
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.3 on 8.0 off
+Cuba Acceptance tone - 425 continuous
+Busy tone - 600x120//620+480//425//400 0.5 on 0.5 off
+Congestion tone - 600x120//425//400 0.25 on 0.25 off
+Dial tone - I 600x120//425 continuous
+Dial tone - II 425 0.75 on 0.75 off 0.25 on 0.25 off
+Negative indication tone - 425 0.5 on 0.5 off
+Ringing tone - I 425 1.0 on 4.0 off
+Ringing tone - II 440+480//440+620//480+620 2.0 on 4.0 off
+Ringing tone - III 420x40 1.0 on 2.0 off
+Ringing tone - IV 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - I 950/1400/1800 (3x0.33 on 2x0.33 off) 1.0 off
+Special information tone - II 400 4x(0.075 on 0.10 off) 0.30 off
+Warning tone - I, operator intervening 425 0.1 on 4.9 off
+Warning tone - II, operator intervening 425 0.5 on 0.2 off
+Call waiting tone - I 425 0.2 on 0.6 off 0.2 on
+Call waiting tone - II 400 0.5 on 0.5 off
+Cyprus (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 350+450 continuous
+Number unobtainable tone - 425 2.5 on 0.5 off
+Pay tone - 1638/1206/943 3x(0.068 on 0.068 off)
+Ringing tone - 425 1.5 on 3.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 1400 0.5 on 14.0 off
+Call waiting tone - 425 0.1 on 0.1 off 0.1 on 5.0 off
+Czech Republic Busy tone - 425 0.33 on 0.33 off
+Congestion tone - 425 0.165 on 0.165 off
+Dial tone - 425 0.33 on 0.33 off 0.66 on 0.66 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 (3x0.33 on 2x0.03 off) 1.0 off
+Call waiting tone - 425 0.33 on 9.0 off
+Caller waiting tone - 425 1.00 on 0.17 off 0.33 on 3.50 off
+Democratic Republic of the Congo Busy tone - 450 0.5 on 0.5 off
+Congestion tone - 450 0.5 on 0.5 off
+Dial tone - 450 continuous
+Ringing tone - 450 2.0 on 4.0 off
+Denmark Busy tone - I 425 0.25 on 0.25 off
+Busy tone - II (1) 425 0.5 on 0.5 off
+Congestion tone - I 425 0.25 on 0.25 off
+Congestion tone - II (1) 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.00 off
+Call waiting tone - I 425 0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on
+Call waiting tone - II (1) 425 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+Diego Garcia Busy tone - 480/620 interrupted at 60 ipm
+Dial tone - 350/440 continuous
+Number unobtainable tone - 480/620 interrupted at 120 ipm
+Ringing tone - 440/480 1.0 on 3.0 off
+Djibouti (Republic of) Busy tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.5 on 3.5 off
+Route tone - 425 0.05 on 0.05 off
+Dominica (Commonwealth of) Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Dominican Republic Busy tone - I 400 0.8 on 0.8 off
+Busy tone - II 400 0.375 on 0.375 off
+Congestion tone - I 400 0.8 on 0.8 off
+Congestion tone - II 400 0.375 on 0.375 off
+Dial tone - I 50 continuous
+Dial tone - II 33 0.0166 on 0.0166 off
+Number unobtainable tone - 400 continuous
+Ringing tone - 400//450 0.4 on 0.2 off 0.4 on 2.2 off
+Ecuador Busy tone - 425 0.33 on 0.33 off
+Congestion tone - 425 0.33 on 0.33 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.2 on 4.65 off
+Call waiting tone - 425 0.2 on 0.6 off
+Egypt (Arab Republic of) Busy tone - 425x50 1.0 on 4.0 off
+Congestion tone - 450 0.5 on 0.5 off
+Intrusion tone - 450 0.5 on 0.5 off
+Payphone recognition tone - 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 425x50 2.0 on 1.0 off
+Special information tone - 950/1400/1800 0.33 on 0.33 off 0.33 on 0.33 off 0.33 on 0.33 off
+El Salvador (Republic of) Busy tone - 425 0.32 on 0.32 off
+Congestion tone - 425 0.32 on 0.32 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.40 on 0.04 off
+Intrusion tone - 425 0.20 on 0.20 off 0.50 on 0.20 off
+Line lock-out tone - 425 0.167 on 0.167 off 0.500 on 0.167 off
+Ringing tone - 425 1.2 on 4.6 off
+Special information tone - 950/1400/1800 3x0.33 on 1.00 off
+Warning tone - 1400 0.20 on 0.60 off
+Call waiting tone - 425 0.35 on 15.0 off
+Estonia (Republic of) Busy tone - 425 0.3 on 0.3 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Pay tone - 16000 1.15 on 0.35 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 950/1400/1800 3x0.33 on 0.3 off
+Ethiopia (Federal Democratic Republic of)
+Acceptance tone - 425 continuous
+Busy tone - 425 0.4 on 0.4 off
+Congestion tone - 425 0.4 on 0.4 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Intrusion tone - 425 0.5 on 0.2 off
+Line lock-out tone - 425 0.4 on 0.4 off
+Refusal tone - 425 0.4 on 0.4 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - 1400 0.5 on 11.5 off
+Call waiting tone - 425 0.2 on 0.6 off
+Falkland Islands (Malvinas) Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.4 on 0.35 off 0.255 on 0.525 off
+Dial tone - 350+450 continuous
+Number unobtainable tone - 400 continuous
+Ringing tone - 400+450 0.4 on 0.2 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 1000 0.1 on 0.1 off
+Faroe Islands Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Number unobtainable tone - 950/1400/1800 3x0.33 on 1.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Fiji (Republic of) Acceptance tone - 425 continuous
+Busy tone - 425 0.75 on 0.75 off
+Congestion tone - 425 037 on 0.37 off 0.37 on 0.37 off
+Dial tone - 400+450 continuous
+Second dial tone - 425 continuous
+Special dial tone - 400+450 0.40 on 0.04 off
+Line lock-out tone - 425 0.2 on 0.6 off 0.2 on 4.0 off
+Number unobtainable tone - 400 2.5 on 0.5 off
+Offering tone, trunk - 425 0.17 on 0.17 off 0.50 on 0.17 off
+Refusal tone - 425 0.24 on 0.76 off
+Ringing tone - 425x25 0.4 on 0.2 off 0.4 on 2.0 off
+Special ringing tone - 425x25 1.0 on 5.0 off 1.0 on 5.0 off
+Special information tone - 925/1400/1800 3x0.38 on 1.00 off
+Warning tone - 1400 0.5 on 12.0 off
+Finland
+Busy tone - 425 0.3 on 0.3 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.65 on 0.025 off
+Queue tone - 950/950/1400 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+Ringing tone  (11) 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Warning tone - operator intervening 425 0.2 on 0.3 off 0.2 on 1.3 off
+Call waiting tone - 425 0.15 on 0.15 off 0.15 on 8.0 off
+France Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+French Departments and Territories
+in the Indian Ocean
+Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+French Guiana (French Department of)
+Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+French Polynesia (Territoire français d'outre-mer)
+Acceptance tone - 440 1.7 on 3.3 off
+Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Second dial tone - 440+330 continuous
+Howler tone - 3000 continuous
+Pay tone - 440 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 440 1.7 on 3.3 off
+Gabonese Republic Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Special information tone - 950/1400/1800 0.30 on 0.33 off
+Call waiting tone - 1800 0.5 on 2.5 off
+Gambia (Republic of the) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 1400 0.330 on 0.030 off
+Call waiting tone - 950 0.330 on 0.030 off
+Georgia Busy tone - 425 1.0 on 3.0 off
+Congestion tone - 425 1.0 on 1.0 off
+Dial tone - 425 continuous
+Ringing tone - 25 1.0 on 4.0 off
+Call waiting tone - 425 0.125 on
+Germany (Federal Republic of) Busy tone - 425 0.48 on 0.48 off
+Congestion tone - 425 0.24 on 0.24 off
+Dial tone - 425 continuous
+Special dial tone - 425+400 continuous
+Payphone recognition tone - 1633/1336 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 900/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 425 0.24 on 0.24 off 0.24 on 1.28 off
+Call waiting tone - (2) 425 0.2 on 0.2 off 0.2 on 5.0 off
+Ghana Busy tone - 400 0.25 on 0.25 off
+Congestion tone - 400 0.5 on 0.5 off
+Dial tone - 400 continuous
+Holding tone - 400 0.5 on 0.5 off 0.5 on 0.25 off
+Number unobtainable tone - 400 0.075 on 0.1 off 0.075 on 0.1 off 0.075 on 0.4 off
+Ringing tone - 400 1.0 on 4.0 off
+Waiting tone - 400 0.5 on 0.3 on 0.2 off 0.3 on 0.2 off 3.0 off
+Gibraltar Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.4 on 0.35 off 0.225 on 0.525 off
+Dial tone - 350+400 continuous
+Number unobtainable tone - 400 continuous
+Ringing tone - 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Waiting tone - 400 0.1 on 3.0 off
+Greece Busy tone - 425 0.3 on 0.3 off
+Congestion tone - 425 0.15 on 0.15 off
+Dial tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Special dial tone - 400/425//425/450 0.2 on 0.3 off 0.7 on 0.8 off
+Holding tone - 900 0.5 on 0.5 off
+Intrusion tone - 425 0.15 on 0.25 off 0.15 on 1.45 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1450/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.3 on 10.0 off 0.3 on 10.0 off
+Greenland (Denmark) Busy tone - 445//425 0.25 on 0.25 off
+Congestion tone - 445//425 0.25 on 0.25 off
+Dial tone - 445//425 continuous
+Second dial tone - 445//425 continuous
+Number unobtainable tone - I 950/1400/1800 3x0.33 on 1.0 off
+Number unobtainable tone - II 425 0.25 on 0.25 off
+Pay tone - 950/1400/1800 3x0.22 on 1.0 off
+Ringing tone - 445//425 1.0 on 4.0 off
+Grenada Busy tone - 460+620 0.5 on 0.5 off
+Congestion tone - announcement
+Ringing tone - 440+480 2.0 on 4.0 off
+Guadeloupe (French Department of) Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+Guinea (Republic of) Busy tone - 450 0.2 on 0.2 off
+Ringing tone - 450 0.4 on 0.2 off
+Guyana Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 360/400 1.3 on 0.3 off 0.2 on 0.5 off
+Ringing tone - 425 1.75 on 3.25 off
+Waiting tone - 480 0.5 on 18.0 off
+Honduras (Republic of) Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 440 0.25 on 0.25 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.0 on 4.0 off
+Call waiting tone - 440 0.5 on 0.5 off 2.0 on 4.0 off
+Hong Kong, China Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Number unobtainable tone - 480+620 continuous
+Ringing tone - 440+480 0.4 on 0.2 off 0.4 on 3.0 off
+Hungary (Republic of) Busy tone - 425 0.3 on 0.3 off
+Congestion tone - 425 0.3 on 0.3 off
+Dial tone - 425 continuous
+Second dial tone - 425+450 continuous
+Special dial tone - 350+375+400 continuous
+Negative indication tone - 300+425 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.2 off +
+announcement
+Offering tone, trunk - 425 0.3 on 0.3 off 0.3 on 1.5 off
+Pay tone - 600//1100 (3 or 5)(0.15 on 0.15 off)
+Positive indication tone - 300+425 1.0 on 0.2 off + announcement
+Payphone recognition tone - 1100+1750//750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 425 1.25 on 3.75 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - 425 0.3 on 0.3 off 0.3 on 1.5 off
+Call waiting tone - 425 0.04 on 1.96 off
+Iceland Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - (7) 425 0.4 on 0.04 off
+Number unobtainable tone - announcement
+Payphone recognition tone - 1633/1209 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Warning tone - 425 0.4 on 15.0 off
+Waiting tone - 425 4x(0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on)
+India (Republic of) Acceptance tone - 400 1.0 on 4.0 off
+Busy tone - 400 0.75 on 0.75 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400x25 continuous
+Special dial tone - 400 2.8 on 0.2 off
+Holding tone - 400 0.25 on 0.25 off 0.25 on 3.25 off
+Intrusion tone - 400 0.15 on 4.85 off
+Refusal tone - 400 0.25 on 0.25 off
+Ringing tone - I (local calls) 400x25 0.4 on 0.2 off 0.4 on 2..0 off
+Ringing tone - II (NSD/ISD calls) 400x25 1.0 on 2.0 off
+Route tone - 400 0.1 on 0.9 off
+Call waiting tone - 400 0.2 on 0.1 off 0.2 on 7.5 off
+Indonesia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Payphone recognition tone - 1200/800 0.2 on 0.2 off 0.2 on 0.2 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x(0.33 on 0.03 off) 1.0 off
+Call waiting tone - 425 0.15 on 0.15 off 0.15 on 10.0 off
+Iran (Islamic Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Offering tone, trunk - 425 0.2 on 0.2 off 0.2 on 1.4 off
+Preemption tone - 1400 3x(0.1 on) 0.1 off
+Ringing tone - 425 1.0 on 4.0 off
+Re-order tone - 425 0.25 on 0.25 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Test number tone - 800 continuous
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 10.0 off
+Iraq (Republic of) Busy tone - 400 1.0 on 1.0 off
+Recall dial tone - 133 0.4 on 0.2 off 0.4 on 1.5 off
+Ringing tone - 400 continuous
+Ireland Busy tone - 425 0.5 on 0.5 off
+Dial tone - 400//425//450 continuous
+Pay tone - 12000 0.12 on
+Ringing tone - 400+450//425 0.4 on 0.2 off 0.4 on 2.0 off
+Route tone - 425 0.06 on 0.06 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.18 on 0.20 off 0.20 on 4.50 off
+Israel (State of) Busy tone - 400 0.5 on 0.5 off
+Confirmation tone - I 400 1x(0.17 on 0.14 off 0.34 on)
+Confirmation tone - II 400 0.04 on 0.04 off
+Dial tone - 400 continuous
+Second dial tone - 400 3x(0.1 on 0.1 off) + continuous
+Recall dial tone - 400 3x(0.1 on 0.1 off) + continuous
+Special dial tone - 400 1.0 on 0.25 off
+Holding tone - 400 0.05 on 2.0 off
+Number unobtainable tone - 1000/1400/1800 3x0.333 on 1.0 off +announcement
+Pay tone - 16000 0.18 on
+Payphone recognition tone - 1209/852 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+Ringing tone - 400 1.0 on 3.0 off
+Search tone - mobile 1004 0.01 on 1.0 off
+Special information tone - 1000/1400/1800 3x0.333 on 1.0 off + announcement
+Waiting tone - message 400 10x(0.16 on 0.16 off) + continuous
+Call waiting tone - 400 1x(0.5 on 10.0 off 0.5 on)
+Caller waiting tone - 400 2x(0.1 on 0.1 off) 0.6 on 3.0 off
+Italy
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 0.2 on 0.2 off 0.6 on 1.0 off
+Special dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - announcement
+Call waiting tone - (4) 425 0.40 on 0.10 off 0.25 on 0.10 off 0.15 on
+Jamaica Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Call waiting tone - 440 0.25 on 0.25 off
+Japan Busy tone - (3) 400 0.5 on 0.5 off
+Dial tone - I 400 continuous
+Dial tone - II, pabx 400 0.25 on 0.25 off
+Dial tone - III 400 0.125 on 0.125 off 0.125 on 0.125 off
+0.125 on 0.125 off 0.125 on 0.125 off 0.75 on 0.25 off
+Second dial tone - (3) 400 0.125~0.15 on 0.1~0.125 off
+Pay tone - 250 0.5 on
+Positive indication tone - I 400 0.125 on 0.125 off 0.125 on 0.625 off
+Positive indication tone - II 400 0.125 on 0.125 off 0.625 on 0.125 off
+Ringing tone - I 400x(15~20) 1.0 on 2.0 off
+Ringing tone - II, pabx 400x20 1.0 on 2.0 off
+Call waiting tone - I 400x16/400 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 3.45 off
+Call waiting tone - II 400x16/400 0.1 on 0.1 off 0.1 on 3.0 off
+Call waiting tone - III 400x16/400 0.064 on 0.436 off 0.064 on 3.436 off
+Call waiting tone - IV 400x16/400 0.25 on 0.25 off 0.25 on 3.25 off
+Call waiting tone - V 400x16/400 0.5 on 0.5 off 0.5 on 2.5 off
+Call waiting tone - VI 400x16/400 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 2.45 off
+Jordan (Hashemite Kingdom of) Busy tone - 420x40 0.5 on 0.5 off
+Congestion tone - 420x40 0.25 on 0.25 off
+Dial tone - 420x40 continuous
+Holding tone - 420x40 0.5 on 8.0 off
+Howler tone - 950 continuous
+Intrusion tone - 420x40 0.2 on 0.2 off 0.2 on 1.3 off
+Number unobtainable tone - 420x40 0.12 on 0.12 off
+Ringing tone - 420x40 1.0 on 4.0 off
+Special information tone - (950/1400/1800)x40 1.0 on 1.0 off
+Call waiting tone - 420x40 0.15 on 0.15 off
+Kenya (Republic of) Busy tone - 425 0.2 on 0.6 off 0.2 on 0.6 off
+Congestion tone - 425 0.2 on 0.6 off
+Dial tone - 425 continuous
+Pay tone - I 941 0.2 on 0.2 off
+Pay tone - II 800/1600 0.08 on 0.08 off
+Payphone recognition tone - 1633 0.08 on 1.5 off
+Ringing tone - 425 0.67 on 3.0 off 1.5 on 5.0 off
+Special information tone - 900/1400/1800 3x0.75 on 1.25 off
+Warning tone - operator intervening 425 0.2 on 0.2 off
+Call waiting tone - 425 continuous
+Kiribati (Republic of) Busy tone - 425 0.375 on 0.375 off
+Congestion tone - 425 0.375 on 0.375 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 2.5 on 0.5 off
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Call waiting tone - 425 0.1 on 0.2 off 0.1 on 4.7 off
+Korea (Republic of) Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.3 on 0.2 off
+Dial tone - 350+440 continuous
+Recall dial tone - I 400//450 1.0 on 4.0 off
+Recall dial tone - II 400//450 1.0 on 2.0 off
+Intercept tone - 350+440 0.125 on 0.25 off 0.125 on 1.5 off
+Number unobtainable tone - 450 0.2 on 0.1 off 0.2 on 1.5 off
+Ringing tone - 440+480 1.0 on 2.0 off
+Warning tone - operator intervening 392/494/587 2x(0.5 on 0.5 on 1.5 on)
+Waiting tone - 350+440 0.25 on 0.25 off 0.25 on 3.25 off
+Kuwait (State of) Acceptance tone - 425 continuous
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Second dial tone - 425 continuous
+Special dial tone - 425 0.40 on 0.04 off
+Line lock-out tone - 425 0.32 on 0.32 off
+Refusal tone - 425 0.1 on 0.4 off
+Ringing tone - 425 1.0 on 4.0 off
+Route tone - 425 0.1 on 0.1 off
+Special information tone - 950/1400/1800 3x0.33 on 1.00 off
+Warning tone - 425 0.34 on 5.0 off
+Call waiting tone - 425 1.0 on 4.0 off
+Kyrgyz Republic Busy tone - 425 0.4 on 0.4 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Second dial tone - 425 continuous
+Special dial tone - 425 1.0 on 0.2 off
+Howler tone - 1000 continuous
+Negative indication tone - 425 1x(0.2 on 0.2 off 0.2 on 0.2 off 0.2 on)
+Number unobtainable tone - 950/1400/1800 3x0.33 on 1.0 off
+Positive indication tone - 425 1x(0.2 on)
+Ringing tone - 425 0.8 on 3.2 off
+Route tone - 50 0.1 on 1.5 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - voice mail 425 1x(0.2 on 0.6 off 0.2 on 0.6 off 0.2 on)
+Call waiting tone - 425 1x(0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on)
+Caller waiting tone - 425 0.2 on 5.0 off
+Lao People's Democratic Republic Busy tone - 425 1.0 on 1.0 off
+Confirmation tone - 950 continuous
+Congestion tone - 425 0.375 on 0.375 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Number unobtainable tone - 425 2.5 on 0.5 off
+Ringing tone - 425 1.0 on 4.0 off
+Waiting tone - 425 0.4 on 0.4 off
+Latvia (Republic of) Busy tone - 425 0.3 on 0.3 off
+Confirmation tone - 425 0.4 on 0.4 off
+Congestion tone - 425 0.15 on 0.15 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1600 3x0.33 on 1.0 off
+Call waiting tone - 425 0.2 on 5.0 off
+Lebanon Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.24 on 0.24 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 425 0.2 on 0.2 off
+Call waiting tone - 425 0.2 on 0.6 off
+Lesotho (Kingdom of) Busy tone - I 425 1.0 on 1.0 off
+Busy tone - II 425 0.5 on 0.5 off
+Congestion tone - I 425 0.5 on 0.5 off
+Congestion tone - II 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Pay tone - 16000 0.7 on 3.0 off
+Ringing tone - 400/425 1.0 on 4.0 off
+Special information tone - I 425 0.16 on 2.0 off
+Special information tone - II 900/1400/1800 3x0.3 on 1.0 off
+Call waiting tone - I 425 1.0 on 3.0 off
+Call waiting tone - II 425 0.15 on 0.15 off
+Liberia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.6 on 0.2 off 3x(0.2 on 0.2 off)
+Ringing tone - 425//450 1.0 on 4.0 off
+Liechtenstein (Principality of) Busy tone - I 425 0.3 on 0.3 off
+Busy tone - II 420 0.4 on 0.4 off
+Busy tone - III 400 0.36 on 0.36 off
+Busy tone - IV 425 0.5 on 0.5 off
+Congestion tone - 425//420 0.2 on 0.2 off
+Dial tone - 420 continuous
+Recall dial tone - 420 continuous
+Special dial tone - 380+420 continuous
+Negative indication tone - 380+420 0.4 on 0.4 off
+Number unobtainable tone - 950/1400/1800 3x0.33 on 1.0 off
+Pay tone - I 1336/1633 0.2 on 0.2 off 0.2 on 0.2 off
+Pay tone - II 800 0.2 on 0.2 off
+Pay tone - III 1200 0.2 on 2.0 off
+Positive indication tone - 380+420 1.0 on 5.0 off
+Ringing tone - I 425 continuous
+Ringing tone - II 420 1.0 on 5.0 off
+Ringing tone - III 400//425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - 420 0.15 on 0.15 off 0.15 on 1.95 off
+Call waiting tone - I 425 0.15 on 8.0 off
+Call waiting tone - II 420 0.04 on 1.95 off
+Call waiting tone - III 425 0.2 on 0.2 off 0.2 on 4.0 off
+Lithuania (Republic of) Busy tone - 425 0.35 on 0.35 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - I 425 0.15 on 0.15 off 0.15 on 4.0 off
+Call waiting tone - II 425 0.2 on 5.0 off
+Luxembourg Busy tone - 425//2125 0.48 on 0.48 off
+Congestion tone - 425//2125 0.24 on 0.24 off
+Dial tone - 425//2125 continuous
+Special dial tone - 400//425 continuous
+Ringing tone - 425//2125 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Test number tone - 1000 continuous
+Call waiting tone - 425 continuous
+Macao, China Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - 425 1.8 on 0.2 off
+Payphone recognition tone - 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 0.2 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.2 on 0.6 off
+Madagascar (Republic of) Busy tone - 440//425 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 440//425 continuous
+Special dial tone - 330+440 continuous
+Facilities tone - 950 continuous
+Pay tone - announcement
+Ringing tone - 440//425 1.7 on 3.3 off
+Route tone - 440//425 0.05 on 0.05 off
+Special information tone - 440 0.40 on 0.04 off
+Call waiting tone - 440 0.1 on 1.9 off
+Malawi Busy tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Intrusion tone - (4) 1400 0.35 on 0.5 off
+Payphone recognition tone - 1100+1750/750+1450 2x(0.2 on 0.2 off)
+Ringing tone - 425 1.0 on 4.0 off
+Special ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.3 on 1.0 off
+Malaysia Busy tone - 425 0.5 on 0.5 off
+Congestion tone - I 425 0.50 on 0.25 off
+Congestion tone - II 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Ringing tone - I 425 0.4 on 0.2 off 0.4 on 2.0 off
+Ringing tone - II 425 1.0 on 3.0 off 1.0 on 5.0 off
+Maldives (Republic of) Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400/50 continuous
+Ringing tone - 400 0.4 on 0.2 off 0.4 on 2.0 off
+Call waiting tone - 400 0.2 on 0.6 off 0.2 on 4.0 off
+Mali (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 425 continuous
+Pay tone - announcement
+Ringing tone - 425 1.5 on 3.0 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 900/1400/1800 0.35 on 0.30 on 0.35 on 1.0 off
+Call waiting tone - 425 0.3 on 10.0 off
+Malta Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 0.2 on 0.2 off 0.6 on 1.0 off
+Special dial tone - 425 0.4 on 0.04 off
+Intercept tone - 950/1400/1800 3x0.24 on 1.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - announcement
+Call waiting tone - 1400 0.34 on 1.5 off
+Martinique (French Department of) Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+Mauritania (Islamic Republic of) Busy tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.5 on 3.5 off
+Route tone - 425 0.05 on 0.05 off
+Mauritius (Republic of) Busy tone - 425 0.75 on 0.75 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Ringing tone - 425 1.0 on 4.0 off
+Route tone - 425 0.05 on 0.05 off
+Call waiting tone - 425 1.0 on 3.0 off
+Mayotte Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+Mexico Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Warning tone - operator intervening 425 0.5 on 0.17 off 0.17 on 0.17 off
+Moldova (Republic of) Busy tone - 425 0.35 on 0.35 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Pay tone - 1400 3x1.0 on 1.0 off
+Ringing tone - I 425 0.8 on 3.2 off
+Ringing tone - II 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.00 off
+Call waiting tone - 425 0.2 on 5.0 off
+Monaco (Principality of) Busy tone - 440 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 440 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Call waiting tone - 440 0.3 on 10.0 off
+Montserrat Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Number unobtainable tone - 480+620 0.25 on 0.25 off
+Payphone recognition tone - 1600/1143 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.65 on 0.2 off
+Waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Morocco (Kingdom of) Busy tone - I 425 0.5 on 0.5 off
+Busy tone - II 425 0.4 on 0.4 off
+Congestion tone - I 425 0.5 on 0.5 off
+Congestion tone - II 425 0.4 on 0.4 off
+Dial tone - 425 continuous
+Ringing tone - I 425 1.7 on 3.3 off
+Ringing tone - II 425 1.0 on 4.0 off
+Ringing tone - III 425 2.0 on 2.0 off
+Mozambique (Republic of) Busy tone - 400 0.5 on O.5 off
+Number unobtainable tone - 400 0.2 on 0.2 off
+Ringing tone - 400 1.0 on 5.0 off
+Myanmar (Union of) Busy tone - 450 0.25 on 0.25 off
+Congestion tone - 480 0.5 on 0.5 off
+Dial tone - 400+450 continuous
+Ringing tone - 400 2.0 on 4.0 off
+Call waiting tone - 400 0.3 on 10.0 off
+Namibia (Republic of) Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400x33 continuous
+Ringing tone - 400x33 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 400x33 continuous
+Nauru (Republic of) Busy tone - 400 0.5 on 0.5 off
+Busy tone - pabx 425 0.375 on 0.375 off
+Congestion tone - pabx 425 0.375 on 0.375 off
+Dial tone - 400 continuous
+Dial tone - pabx 33 continuous
+Recall dial tone - pabx 33 continuous
+Number unobtainable tone - 400 0.75 on 0.25 off 0.25 on 0.25 off
+Ringing tone - 400 1.0 on 4.0 off
+Ringing tone - pabx 425x25 0.4 on 0.2 off 0.4 on 2.0 off
+Nepal (Federal Democratic Republic of)
+Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.175 on 0.175 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.25 on 0.5 off
+Ringing tone - 425 1.1 on 3.1 off
+Netherlands (Kingdom of the) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.5 on 0.05 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Waiting tone - 425 0.5 on 9.5 off
+New Caledonia (Territoire français d'outre-mer)
+Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 950/1400/1800 2x[3x0.33 on + announcement]
+Dial tone - 440//330+440 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Special information tone - 950/1400/1800 2x[3x0.33 on + announcement]
+Call waiting tone - 440 4x(0.5 on 0.5 off 0.5 on)
+New Zealand Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - I (3) 400 continuous
+Dial tone - II (message waiting) 400 12x(0.1 on 0.1 off) + continuous
+Recall dial tone - 400 3x(0.1 on 0.1 off) + continuous
+Holding tone - 400+450 0.5 on 0.5 off 0.5 on 2.5 off
+Number unobtainable tone - 400 3x(0.75 on 0.1 off) 0.75 on 0.4 off
+Pay tone - 1209/852 0.2 on 0.2 off
+Ringing tone - I 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Ringing tone - II (call waiting) 400+450 0.4 on 0.2 off 0.4 on 0.2 off 0.4 on 1.2 off
+Call waiting tone - I 400 3x(0.2 on 3.0 off) 0.2 on
+Call waiting tone - II 400 3x(0.1 on 0.1 off 0.1 on 3.0 off)
+Call waiting tone - III 400 3x(0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 3.0 off)
+Niger (Republic of the) Busy tone - 440 0.5 on 0.5 off
+Congestion tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Second dial tone - 330//440 continuous
+Ringing tone - 440 1.7 on 3.3 off
+Route tone - 440 0.05 on 0.05 off
+Nigeria (Federal Republic of) 
+Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400//450 continuous
+Recall dial tone - 400//425 continuous
+Special dial tone - 425 0.5 on 0.5 off
+Holding tone - 950/950/1400 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+Number unobtainable tone - 450 0.5 on 0.5 off
+Ringing tone - 400//450 2.0 on 4.0 off
+Special information tone - 400//33 0.2 on 1.5 off
+Warning tone - operator intervening 400 0.15 on 0.25 off 0.15 on 1.45 off
+Call waiting tone - 400 0.2 on 0.2 off
+Norway
+Busy tone - 425 0.5 on 0.5 off
+Confirmation tone - (10) 470/425 continuous
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Special dial tone - (10) 470/425 continuous
+Intrusion tone - 1400 1x(2.0 on)
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - I 1400 0.4 on 15.0 off
+Warning tone - II 1400 1x(0.4 on )
+Call waiting tone - 425 0.2 on 0.6 off 0.2 on 10.0 off
+Oman (Sultanate of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Intrusion tone - 425 0.5 on 0.17 off 0.17 on 0.17 off
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.3 on 1.0 off
+Pakistan (Islamic Republic of) Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.25 on 0.25 off
+Ringing tone - 400 1.0 on 2.0 off
+Panama (Republic of) Busy tone - 425 0.32 on 0.32 off
+Congestion tone - 425 0.32 on 0.32 off
+Dial tone - 425 continuous
+Number unobtainable tone - 425 0.18 on 0.18 off 0.5 on 0.18 off
+Ringing tone - 425 1.2 on 4.65 off
+Special information tone - 425 0.4 on 0.4 off
+Warning tone - operator intervening 425 0.18 on 0.18 off 0.5 on 0.18 off
+Call waiting tone - 425 0.18 on 0.18 off 0.18 on
+Papua New Guinea Busy tone - 425//400 0.375 on 0.375 off
+Congestion tone - 425//400 0.375 on 0.375 off
+Dial tone - 425//400x25//350+440 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Number unobtainable tone - 425//400 2.5 on 0.5 off
+Payphone recognition tone - I 1209/852 4x(0.2 on 0.2 off 0.2 on 2.0 off)
+Payphone recognition tone - II 1336/941 2x(0.2 on 0.2 off 0.2 on 2.0 off)
+Payphone recognition tone - III 900 2x(0.075 on 0.15 off 0.075 on 2.7 off)
+Ringing tone - 425//400x25//400x16 2/3//400+450//410x20 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.01 off
+Warning tone - operator intervening 1400 0.5 on 11.5 off
+Waiting tone - 425 0.04 on 10.0 off 0.04 on 20.0 off 0.04 on 20.0 off
+Paraguay (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Intrusion tone - 425 0.15 on 0.25 off 0.15 on 1.45 off
+Number unobtainable tone - 425 2.0 on 0.25 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.3 on 10.0 off
+Caller waiting tone - 950/950/1400 0.65 on 0.325 off 0.325 on 1.3 off 2.6 on
+Peru Acceptance tone - announcement
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.6 off
+Dial tone - 425 continuous
+Special dial tone - 425 1.0 on 0.1 off
+Howler tone - 1500+3200 0.5 on
+Number unobtainable tone - announcement
+Refusal tone - announcement
+Ringing tone - 425 0.15 on 0.30 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.175 on 0.175 off 0.175 on 3.5 off
+Philippines (Republic of the) Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Conference tone - 440 0.2 on 15.0 off
+Dial tone - 425 continuous
+Special dial tone - 400+25 continuous
+Holding tone - 950/950/1400 0.65 on 0.325 off 0.325 on 1.3 on 2.0 off
+Howler tone - 1400+1800 0.2 on 0.3 off
+Number unobtainable tone - 600x120 0.25 on 0.25 off
+Ringing tone - 425+480 1.0 on 4.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+Poland (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Second dial tone - 425+350 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Waiting tone - 425 0.15 on 0.15 off 0.15 on 4.0 off
+Portugal Acceptance tone - I 425 1.0 on 0.2 off
+Acceptance tone - II 425 1.0 on 1.0 off 1.0 on 5.0 off
+Busy tone - I 425 0.5 on 0.5 off
+Busy tone - II (mobile) 400 0.36 on 0.36 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Special dial tone - (mobile) 425 1.0 on 0.2 off
+Holding tone - 425 1.5 on 5.12 off
+Intrusion tone - 425 3x(0.2 on 1.4 off)
+Refusal tone - I 450/1400/1800 3x0.33 on 1.0 off
+Refusal tone - II 950/1400/1800 3x0.33 on 1.0 off
+Ringing tone - I 425 1.0 on 5.0 off
+Ringing tone - II (two party mobiles) 440 1.0 on 4.0 off
+Ringing tone - III (three party mobiles) 425 1.5 on 3.5 off
+Ringing tone - IV 425 1.0 on 1.0 off 1.0 on 5.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - I 425 0.2 on 0.2 off 0.2 on 5.0 off
+Call waiting tone - II 425 0.2 on 0.6 off 0.2 on 3.0 off
+Call waiting tone - III 425 0.2 on 0.2 off 0.2 on 10.0 off
+Call waiting tone - IV 425 0.2 on 0.6 off 0.2 on 0.6 off
+Call waiting tone - V 425 0.2 on 1.0 off 0.2 on 3.0 off
+Call waiting tone - VI 425 1.0 on 1.0 off 1.0 on 5.0 off
+Puerto Rico
+Payphone recognition tone - 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Qatar (State of) Acceptance tone - 400+450 0.38 on 0.25 off 0.38 on 2.00 off
+Busy tone - I 400+450 0.8 on 0.8 off
+Busy tone - II 400 0.375 on 0.375 off
+Busy tone - III 400 0.5 on 0.5 off
+Congestion tone - 400 0.40 on 0.35 off 0.22 on 0.52 off
+Dial tone - 350+440 continuous
+Line lock-out tone - 400 0.32 on 0.32 off
+Number unobtainable tone - 400 continuous
+Refusal tone - 400 continuous
+Ringing tone - I 400+450 0.38 on 0.25 off 0.38 on 2.0 off
+Ringing tone - II 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 330+440 1.0 on 1.0 off
+Call waiting tone - 400 0.3 on 10.0 off
+Romania Busy tone - I (analogue) 450 0.15 on 0.18 off
+Busy tone - II (digital) 450 0.17 on 0.17 off
+Dial tone - 450 continuous
+Number unobtainable tone - I (analogue) 450 6x(0.11 on 0.092 off) 0.362 on 0.11 off
+Number unobtainable tone - II (digital) 450 3x(0.092 on 0.11 off) 0.362 on 0.11 off
+Ringing tone - I 450x25 1.85 on 4.15 off
+Ringing tone - II 450 1.5 on 4.5 off
+Russian Federation Busy tone - 425 0.4 on 0.4 off
+Ringing tone - 425 0.8 on 3.2 off
+Waiting tone - 950/1400/1800 3x0.333 on 1.0 off
+Rwanda (Republic of) Busy tone - 440 0.5 on 0.5 off
+Congestion tone - announcement
+Dial tone - 440 continuous
+Second dial tone - 340 continuous
+Pay tone - 12000 0.125 on
+Ringing tone - 440 1.7 on 3.3 off
+Route tone - 440 0.05 on 0.05 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Saint Helena Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.4 on 0.35 off
+Dial tone - 350+400 continuous
+Number unobtainable tone - 400 continuous
+Pay tone - 400 0.125 on 0.125 off
+Ringing tone - 400+450 0.4 on 0.2 off
+Saint Kitts and Nevis Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Number unobtainable tone - 480+620 0.25 on 0.25 off
+Payphone recognition tone - 1600/1143 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.65 on 0.2 off
+Waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Saint Lucia
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - 425+330 continuous
+Pay tone - 622 0.136 on 0.136 off
+Ringing tone - 425 0.375 on 0.25 off 0.375 on 2.0 off
+Route tone - 425 0.05 on 0.05 off
+Warning tone - 425 0.1 on 4.9 off
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 4.0 off
+Saint Pierre and Miquelon
+(Collectivité territoriale de la République française)
+Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 440 1.5 on 3.5 off
+Special information tone - 950/1400/1800 3x(0.3 on 0.03 off) 1.0 off
+Call waiting tone - 440 0.3 on 10.0 off
+Saint Vincent and the Grenadines Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.40 on 0.35 off 0.225 on 0.525 off
+Dial tone - I 350+450 continuous
+Dial tone - II 350+450 0.75 on 0.75 off
+Pay tone - 400 0.125 on 0.125 off
+Ringing tone - 400+450 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 950/1400/1800 3x(0.33 on 1.0 off)
+Call waiting tone - (9) 400 0.1 on
+Samoa (Independent State of) Busy tone - 425x25 0.375 on 0.375 off
+Congestion tone - 425x25 0.375 on 0.375 off
+Dial tone - 425x25 continuous
+Line lock-out tone - 425x25 0.5 on 0.5 off
+Ringing tone - 425x25 0.4 on 0.2 off
+San Marino (Republic of) Busy tone - 425 0.2 on 0.2 off
+Dial tone - 425 0.6 on 1.0 off 0.2 on 0.2 off
+Ringing tone - 425 1.0 on 4.0 off
+Sao Tome and Principe (Democratic Republic of)
+Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.2 on 0.2 off
+Dial tone - 425 continuous
+Pay tone - 12000 continuous
+Ringing tone - 400 1.0 on 5.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.2 on 1.0 off
+Saudi Arabia (Kingdom of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Conference tone - 425 0.5 on 2.0 off 0.5 on 15.0 off
+Dial tone - 425 continuous
+Payphone recognition tone - 1600/1200 0.2 on 0.2 off 0.2 on 4.0 off
+Ringing tone - 425 1.2 on 4.6 off
+Call waiting tone - 425 0.15 on 0.2 off 0.15 on 10.0 off
+Senegal (Republic of) Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440 continuous
+Ringing tone - 400 1.7 on 3.3 off
+Special information tone - 900/1380/1860 0.35 on 0.30 on 0.35 on
+Serbia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Busy tone - II 425 0.2 on 0.4 off
+Dial tone - 425 0.7 on 0.8 off 0.2 on 0.3 off
+Ringing tone - I 450x25 1.0 on 9.0 off
+Ringing tone - II 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Seychelles (Republic of) Busy tone - 425 0.375 on 0.375 off
+Congestion tone - 425 0.4 on 0.2 off 0.225 on 0.525 off
+Dial tone - 440+350 continuous
+Special dial tone - 425 1.0 on 0.1 off
+Facilities tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Howler tone - 3000 continuous
+Number unobtainable tone - 425 continuous
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Route tone - 425 0.5 on 0.5 off
+Sierra Leone Busy tone - 425//450 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425//450 continuous
+Number unobtainable tone - 950//450/150 0.33 on 0.03 off
+Ringing tone - 425//450 1.0 on 4.0 off
+Waiting tone - 425 1x(1.0 on)
+Singapore (Republic of) Acceptance tone - 425 0.125 on 0.125 off
+Busy tone - 425 0.75 on 0.75 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Second dial tone - 425 4x(0.2 on 0.2 off 0.6 on 0.2 off) + continuous
+Holding tone - 425x24//425 0.5 on 0.5 off // 0.5 on 2.5 off
+Intrusion tone - 425 0.25 on 2.0 off
+Number unobtainable tone - 425 2.5 on 0.5 off
+Ringing tone - 425x24 0.4 on 0.2 off 0.4 on 2.0 off
+Warning tone - 425 0.624 on 4.376 off
+Call waiting tone - 425 0.3 on 0.2 off 0.3 on 3.2 off
+Slovak Republic Busy tone - 425 0.33 on 0.33 off
+Congestion tone - 425 0.165 on 0.165 off
+Conference tone - 425 0.66 on
+Dial tone - I 425 0.33 on 0.33 off 0.66 on 0.66 off
+Dial tone - II (pabx) 425 continuous
+Special dial tone - 425 3x(0.165 on 0.165 off) 0.660 on 0.660 off
+Offering tone, trunk - 425 0.33 on 0.33 off 0.33 on 1.50 off
+Pay tone - I (cards) 622 0.125 on 0.125 off
+Pay tone - II (coins) 941 0.2 on 0.2 off 0.2 on 3.6 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 (3x0.33 on 2x0.03 off) 1.00 off
+Call waiting tone - 425 0.33 on 9.0 off
+Caller waiting tone - 425 1.00 on 0.17 off 0.33 on 3.50 off
+Slovenia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Pay tone - 425 0.5 on 15.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.00 off
+Call waiting tone - 425 0.3 on 10.0 off
+Solomon Islands Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.1 on 0.1 off
+Dial tone - 400 continuous
+Number unobtainable tone - 400 0.075 on 0.1 off
+Pay tone - 852 0.2 on 2.0 off
+Ringing tone - 400+450 0.4 on 0.2 off
+Waiting tone - 400+450/400 0.5 on 0.5 off
+South Africa (Republic of) Busy tone - 400 0.5 on 0.5 off
+Comfort tone - 950/950/1400 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+Congestion tone - 400 0.25 on 0.25 off
+Dial tone - 400x33 continuous
+Special dial tone - 400x33 0.25 on 0.25 off + continuous
+Function acknowledge tone - 700/1100 0.25 on 0.25 off 0.25 on 0.25 off
+Intrusion tone - 400 0.15 on 0.25 off 0.15 on 1.45 off
+Notify tone - 900 0.2 on 0.2 off 0.2 on 0.2 off
+Number unobtainable tone - 400 2.5 on 0.5 off
+Ringing tone - 400x33 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 400x33 0.4 on 4.0 off
+Spain Busy tone - I 425 0.2 on 0.2 off
+Busy tone - II 425 0.5 on 0.5 off
+Congestion tone - I 425 2x(0.2 on 0.2 off) 0.2 on 0.6 off
+Congestion tone - II 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - I 425 1.0 on 0.1 off
+Special dial tone - II 425 0.5 on 0.05 off
+Number unobtainable tone - I 425 0.2 on 0.2 off 0.2 on 0.6 off
+Number unobtainable tone - II 425 0.5 on 2.5 off
+Payphone recognition tone - I 1600 0.05 on 0.05 off 0.05 on 1.5 off
+Payphone recognition tone - II 1600 0.05 on 0.05 off 0.05 on 0.05 off 0.05 on 1.5 off
+Ringing tone - I 425 1.5 on 3.0 off
+Ringing tone - II 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 1400 0.4 on 5.0 off
+Call waiting tone - 425 0.175 on 0.175 off 0.175 on 3.5 off
+Sri Lanka (Democratic Socialist Republic of)
+Busy tone - 425 0.75 on 0.75 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Holding tone - 425 0.5 on 2.5 off
+Intrusion tone - 425 0.5 on 0.75 off
+Number unobtainable tone - 425+330 continuous
+Ringing tone - 425 0.4 on 0.2 off 0.4 on 2.0 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 950/1400/1800 (3x0.33 on 2x 0.03 off)
+Warning tone - 425 0.5 on 4.5 off
+Call waiting tone - 425 0.5 on 2.5 off
+Sudan (Republic of the) Busy tone - 425 1.0 on 1.0 off
+Congestion tone - 425 0.375 on 0.375 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.15 on 0.15 off 0.15 on 4.0 off
+Suriname (Republic of) Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 1.0 off
+Swaziland (Kingdom of) Busy tone - I 400 0.5 on 0.5 off
+Busy tone - II 400 0.4 on 0.4 off
+Dial tone - 50 continuous
+Number unobtainable tone - 400 4.8 on 0.2 off
+Pay tone - 900 0.25 on 0.25 off
+Payphone recognition tone - I 1430/943 2.0 on 2.0 off
+Payphone recognition tone - II 1100+1750/750+1450 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 400 0.4 on 0.2 off 0.4 on 4.0 off
+Sweden Busy tone - I 425 0.25 on 0.25 off
+Busy tone - II (1) 425 0.5 on 0.5 off
+Congestion tone - I 425 0.25 on 0.75 off
+Congestion tone - II (1) 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.32 on 0.02 off
+Pay tone - 941 2x(0.2 on 0.2 off 0.2 on 3.6 off)
+Payphone recognition tone - 1477/941 11x(0.2 on 0.2 off 0.2 on 2.0 off)
+Ringing tone - I 425 1.0 on 5.0 off
+Ringing tone - II (1) 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off + announcement
+Warning tone - at time limit barring 425 2.0 on 5.0 off + continuous
+Warning tone - operator intervening 1400 0.1 on 1.5 off
+Warning tone - three party conference 1400 0.35 on 15.0 off
+Call waiting tone - I 425 1x(0.2 on 0.5 off 0.2 on)
+Call waiting tone - II (1) 425 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+Switzerland (Confederation of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 continuous
+Special dial tone - I 425+340 1.1 on 1.1 off
+Special dial tone - II 425 0.5 on 0.05 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.2 on 0.2 off 0.2 on 4.0 off
+Syrian Arab Republic Busy tone - 450 0.5 on 0.5 off
+Congestion tone - 450 0.25 on 0.25 off
+Dial tone - 450 continuous
+Ringing tone - 400//450 1.0 on 0.5 off
+Special information tone - 950/1400/1800 (3x0.33 on 2x0.03 off) 1.0 off
+Call waiting tone - 450 0.1 on 0.2 off 0.1 on 9.5 off
+Tajikistan (Republic of) Busy tone - 425 0.4 on 0.4 off
+Congestion tone - 425 0.4 on 0.4 off
+Dial tone - 425 continuous
+Ringing tone - 25 0.8 on 3.2 off
+Tanzania (United Republic of) Acceptance tone - 425 continuous
+Busy tone - I 425 1.0 on 1.0 off
+Busy tone - II 400 0.5 on 0.5 off
+Congestion tone - I 425 0.375 on 0.375 off
+Congestion tone - II 400 0.25 on 0.25 off
+Dial tone - 425//400 continuous
+Intrusion tone - 425 0.05 on 0.20 off
+Pay tone - 1100+1750//750+1450 0.2 on 0.2 off
+Refusal tone - 425 1.0 on 1.0 off
+Ringing tone - I 425 1.0 on 4.0 off
+Ringing tone - II 400 0.4 on 0.2 off 0.4 on 2.0 off
+Special information tone - I 950/1400/1800 0.375 on 0.03 off 0.375 on 0.03 off 0.375 on
+Special information tone - II 950/1400/1800 3x0.33 on 1.0 off
+Test number tone - 2010 continuous
+Call waiting tone - I 425 0.05 on 0.20 off
+Call waiting tone - II 400 0.4 on 0.2 off
+Thailand Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.3 on 0.3 off
+Dial tone - 400x50 continuous
+Special dial tone - 400x50 0.4 on 0.1 off 0.4 on 0.1 off + continuous
+Number unobtainable tone - 400 0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 0.1 off 0.3 on
+Offering tone, trunk - 400 0.17 on 0.17 off 0.15 on 0.17 off
+Ringing tone - 400 1.0 on 4.0 off
+Special information tone - announcement
+Call waiting tone - 400 1.0 on 10.0 off 1.0 on
+The Former Yugoslav Republic of Macedonia
+Busy tone - 425 0.5 on 0.5 off
+Confirmation tone - 425 continuous
+Congestion tone - 425 0.2 on 0.2 off
+Dial tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Special dial tone - 425 0.4 on 0.04 off
+Intrusion tone - 425 0.2 on 0.3 off 0.7 on 0.8 off
+Pay tone - 425 0.5 on 10.0~15.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Route tone - 425 0.4 on 1.5 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 425 0.3 on 8.0~10.0 off
+Tokelau Busy tone - 400 0.5 on 0.5 off
+Congestion tone - 400 0.5 on 0.5 off
+Dial tone - 400 continuous
+Ringing tone - 400+450 0.4 on 0.2 off
+Special information tone - 400 3x(0.075 on 0.1 off)
+Trinidad and Tobago Busy tone - 480+620 0.5 on 0.5 off
+Dial tone - 350+440 continuous
+Ringing tone - 440+480 2.0 on 4.0 off
+Re-order tone - I 480+620 0.3 on 0.2 off
+Re-order tone - II (8) 480+620 0.2 on 0.3 off
+Waiting tone - 440 0.3 on 10.0 off
+Tunisia Busy tone - 425 0.25 on 0.25 off
+Congestion tone - 425 0.167 on 0.167 off
+Dial tone - 425 continuous
+Pay tone - 12000 0.125 on
+Ringing tone - 425 1.20 on 4.65 off
+Special information tone - 900/1400/1800 (3x0.33 on 2x0.03 off) 1.0 off
+Call waiting tone - 425 0.2 on 0.6 off
+Turkey Busy tone - 450 0.5 on 0.5 off
+Confirmation tone - 450 0.04 on 0.04 off
+Congestion tone - 450 3x(0.2 on 0.2 off) 0.6 on 0.2 off
+Dial tone - 450 continuous
+Special dial tone - 450 1.0 on 0.25 off
+Howler tone - 1400/2060/2460/2600 0.1 on 0.1 off
+Number unobtainable tone - 450 0.2 on 0.2 off
+Ringing tone - 450 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.3 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.6 on 0.2 off
+Waiting tone - I 350+450 0.5 on 0.5 off
+Waiting tone - II 450 0.5 on 2.5 off
+Call waiting tone - 450 0.2 on 0.6 off 0.2 on 8.0 off
+Turkmenistan Busy tone - 425 0.4 on 0.4 off
+Congestion tone - 425 0.4 on 0.4 off
+Dial tone - 425 continuous
+Second dial tone - 425 continuous
+Number unobtainable tone - 425 0.8 on 4.0 off
+Ringing tone - 25 0.4 on 4.0 off
+Route tone - 25 0.4 on 0.4 off
+Turks and Caicos Islands Busy tone - 480+620 0.5 on 0.5 off
+Congestion tone - 480+620 0.25 on 0.25 off
+Dial tone - 350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Number unobtainable tone - 480+620 0.25 on 0.25 off
+Payphone recognition tone - 1600/1143 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 440+480 2.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Warning tone - operator intervening 450 0.2 on 0.2 off 0.65 on 0.2 off
+Waiting tone - 440 1x(0.5 on 10.0 off 0.5 on)
+Tuvalu Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 2.5 on (every 10.0 sec.)
+Dial tone - 425 continuous
+Ringing tone - 425 1.0 on 0.5 off 1.0 on 10.0 off
+Call waiting tone - 425 0.3 on (every 10.0 sec.)
+Uganda (Republic of) Busy tone - I 425 0.5 on 0.5 off
+Busy tone - II 400 0.4 on 0.2 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Special dial tone - 900/1400/1800 3x0.33 on 1.0 off
+Howler tone - 1400 continuous
+Number unobtainable tone - 900/1400/1800 3x0.33 on 1.00 off
+Offering tone, trunk - 425 0.1 on 4.9 off
+Ringing tone - I 425 1.0 on 4.0 off
+Ringing tone - II 425//440 0.4 on 0.2 off 0.4 on 2.0 off
+Ringing tone - III 450 0.4 on 0.2 off
+Route tone - 425//440 0.5 on 0.5 off
+Call waiting tone - I 425 0.15 on 0.15 off 0.15 on 8.0 off
+Call waiting tone - II 450//440 0.5 on 0.5 off + continuous
+United Arab Emirates Busy tone - 400//425 0.375 on 0.375 off
+Congestion tone - 400//425 0.4 on 0.35 off 0.225 on 0.525 off
+Dial tone - 350+440 continuous
+Number unobtainable tone - 400//425 continuous
+Ringing tone - 400+450//425 0.4 on 0.2 off 0.4 on 2.0 off
+United Kingdom of Great Britain
+and Northern Ireland
+Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 400 0.4 on 0.35 off 0.225 on 0.525 off
+Dial tone - 50//350+440 continuous
+Number unobtainable tone - 400 continuous
+Pay tone - 400 0.125 on 0.125 off
+Payphone recognition tone - 1200/800 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 400+450//400x25//400x16 2/3 0.4 on 0.2 off 0.4 on 2.0 off
+United States of America Busy tone - 600x120//600x133//600x140//600x160//480+620 0.5 on 0.5 off
+Confirmation tone - 350+440 3x(0.1 on 0.1 off)
+Dial tone - 600x120//600x133//600x140//600x160//350+440 continuous
+Recall dial tone - 350+440 3x(0.1 on 0.1 off) + continuous
+Intrusion tone - 600x120//600x133//600x140//600x160//480+620 0.5 on 0.5 off
+Number unobtainable tone - 200//400 0.5 on 6.0 off
+Permanent signal tone - 480//400//500 continuous
+Record tone - 440 0.5 on 5.0 off
+Ringing tone - 420x40//500x40//440+480 2.0 on 4.0 off
+Re-order tone - 600x120//600x133//600x140//600x160//480+620 0.3 on 0.2 off
+Warning tone - message (4) 1400 0.5 on
+Call waiting tone - 440 2x(0.3 on 10.0 off)
+Uruguay (Eastern Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - I 425 continuous
+Dial tone - II 450 0.7 on 0.8 off 0.2 on 0.3 off
+Negative indication tone - 425 0.5 on 0.5 off
+Positive indication tone - 425 2x(0.1 on 0.2 off) 0.1 on 1.3 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Warning tone - operator intervening 425 0.15 on 0.25 off 0.15 on 1.45 off
+Waiting tone - 425 0.2 on 0.2 off 0.2 on 4.4 off
+Vanuatu (Republic of) Acceptance tone - 950 continuous
+Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.5 on 0.5 off
+Dial tone - 425 continuous
+Special dial tone - 425 0.4 on 0.04 off
+Howler tone - 3000 continuous
+Offering tone, trunk - 425 0.3 on 10.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Route tone - 425 0.05 on 0.05 off
+Special information tone - 950/1400/1800 3x0.33 on 2x0.03 off 1.0 off
+Call waiting tone - 425 0.3 on 10.0 off
+Venezuela (Bolivarian Republic of) Busy tone - 425 0.5 on 0.5 off
+Confirmation tone - 425 0.1 on 0.1 off 0.3 on 0.1 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Howler tone - 1440 0.5 on 0.5 off
+Pay tone - 800 1.0 on 15.0 off
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1440/1800 3x0.33 on 1.0 off
+Call waiting tone - 400/450 0.3 on 6.0 off
+Caller waiting tone - 425 1.0 on 4.0 off
+Wallis and Futuna (Territoire français d'outre-mer)
+Busy tone - 440 0.5 on 0.5 off
+Dial tone - 440//330 continuous
+Pay tone - 12000 0.1 on
+Ringing tone - 440 1.5 on 3.5 off
+Route tone - 440 0.05 on 0.05 off
+Special information tone - 950/1400/1800 (3x0.3 on 2x0.03 off) 1.0 off
+Yemen (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 102 continuous
+Ringing tone - 425 1.0 on 4.0 off
+Zambia (Republic of) Busy tone - 425 0.5 on 0.5 off
+Congestion tone - 425 0.25 on 0.25 off
+Dial tone - 425 continuous
+Pay tone - 800 2.0 on
+Payphone recognition tone - 1600 0.1 on
+Ringing tone - 425 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.333 on 1.0 off
+Call waiting tone - 425 0.1 on 4.9 off
+Zimbabwe (Republic of) Busy tone - 400 0.375 on 0.375 off
+Congestion tone - 425 0.167 on 0.167 off
+Dial tone - 425 continuous
+Pay tone - 1500+1000 0.2 on 0.2 off 0.2 on 2.0 off
+Ringing tone - 450 1.0 on 4.0 off
+Special information tone - 950/1400/1800 3x0.33 on 1.0 off
+Call waiting tone - 523//659 1.5 on 1.5 off
+1 For PLMN/GSM.
+2 This tone is used within the supplementary service 'Call Waiting' the duration is 30 seconds.
+3 This tone is also used in private branch exchanges (PABX).
+4 This tone bursts every 15 seconds.
+5 Analogue exchanges.
+6 Two bursts, ten seconds apart.
+7 Special dial tone is used when call transfer is active.
+8 Trunk.
+9 0.1 second of call waiting indication superimposed on speech every 2 to 5 seconds.
+10 Shifting frequency every 0.4 seconds.
+11 In a certain service, music can be played in parallel to the ringing tone. 
