@@ -1,0 +1,70 @@
+# Notes common to Numerical and Alphabetical Lists of Recommendation ITU-T E.212 Mobile Country or Geographical Area Codes (MCCs) Notes
+
+* a. Mobile Country or Geographical Area Codes (MCCs) that begin with the digits 0, 1 and 8 are reserved for future use.
+
+* b. United Arab Emirates, Dubai: 431; Abu Dhabi: 430.
+
+* c. Associated with shared mobile country code 901, the following two-digit mobile network codes (MNC) have been reserved for or assigned to the international mobile networks:
+
+## Network; Mobile Country code (MCC) and Mobile Network code (MNC); Status
+Iridium Communications Inc 901 03 Assigned
+Thuraya RMSS Network 901 05 Assigned
+Thuraya Satellite Telecommunications Company 901 06 Assigned
+Inmarsat Ltd. 901 11 Assigned
+Maritime Communications Partner AS (MCP network) 901 12 Assigned
+BebbiCell AG (Formerly Global Networks Switzerland AG) 901 13 Assigned
+AeroMobile AS 901 14 Assigned
+OnAir N.V. (Formerly SITA on behalf of Onair) 901 15 Assigned
+Jasper Technologies Inc.  [formerly Jasper Wireless, Inc] 901 16 Assigned
+Jersey Telecom 901 17 Assigned
+Cingular Wireless 901 18 Assigned
+Vodafone Malta (Vodafone Group) 901 19 Assigned
+Intermatica 901 20 Assigned
+Wins Limited (Formerly Seanet Maritime Communications AB) 901 21 Assigned
+MediaLincc Ltd 901 22 Assigned
+Voxbone SA 901 24 Assigned
+Telecom Italia 901 26 Assigned
+Monaco Telecom 901 27 Assigned
+Vodafone Group 901 28 Assigned
+Telenor Connexion AB 901 29 Assigned
+Orange [formerly France Telecom Orange] 901 31 Assigned
+MegaFon 901 32 Assigned
+Smart Communications , Inc 901 33 Assigned
+Tyntec Limited 901 34 Assigned
+Globecomm Network Services 901 35 Assigned
+Azerfon LLC 901 36 Assigned
+TRANSATEL 901 37 Assigned
+Multiregional TransitTelecom (MTT) 901 38 Assigned
+MTX Connect Ltd 901 39 Assigned
+Deutsche Telekom AG 901 40 Assigned
+BodyTrace Netherlands B.V. 901 41 Assigned
+DCN Hub ehf 901 42 Assigned
+EMnify GmbH 901 43 Assigned
+AT&T, Inc. 901 44 Assigned
+Advanced Wireless Network Company Limited 901 45 Assigned
+Telecom26 AG 901 46 Assigned
+Ooredoo 901 47 Assigned
+Com4 Sweden AB 901 48 Assigned
+Zain Kuwait 901 49 Assigned
+Sawatch Limited/EchoStar Mobile Limited 901 50 Assigned
+VisionNG 901 51 Assigned
+Manx Telecom Trading Ltd. 901 52 Assigned
+Deutsche Telekom AG 901 53 Assigned
+UN Office for the Coordination of Humanitarian Affairs (OCHA) 901 88 Assigned
+
+* d. This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+
+
+# Number of spare ITU-T E.212 Mobile Country or Geographical Area Codes (MCCs)
+
+## Mobile Country or Geographical Area Codes, number range; Number of spare codes
+000 - 099 reserved
+100 - 199 reserved
+200 - 299 47
+300 - 399 66
+400 - 499 55
+500 - 599 72
+600 - 699 44
+700 - 799 79
+800 - 899 reserved
+900 - 999 99

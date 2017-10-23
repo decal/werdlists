@@ -1,0 +1,246 @@
+# Code; Country or Geographical Area; Note
+412 Afghanistan
+276 Albania (Republic of)
+603 Algeria (People's Democratic Republic of)
+544 American Samoa
+213 Andorra (Principality of)
+631 Angola (Republic of)
+365 Anguilla
+344 Antigua and Barbuda
+722 Argentine Republic
+283 Armenia (Republic of)
+363 Aruba
+505 Australia
+232 Austria
+400 Azerbaijan (Republic of)
+364 Bahamas (Commonwealth of the)
+426 Bahrain (Kingdom of)
+470 Bangladesh (People's Republic of)
+342 Barbados
+257 Belarus (Republic of)
+206 Belgium
+702 Belize
+616 Benin (Republic of)
+350 Bermuda
+402 Bhutan (Kingdom of)
+736 Bolivia (Plurinational State of)
+362 Bonaire, Sint Eustatius and Saba
+218 Bosnia and Herzegovina
+652 Botswana (Republic of)
+724 Brazil (Federative Republic of)
+348 British Virgin Islands
+528 Brunei Darussalam
+284 Bulgaria (Republic of)
+613 Burkina Faso
+642 Burundi (Republic of)
+625 Cabo Verde (Republic of)
+456 Cambodia (Kingdom of)
+624 Cameroon (Republic of)
+302 Canada
+346 Cayman Islands
+623 Central African Republic
+622 Chad (Republic of)
+730 Chile
+460 China (People's Republic of)
+461 China (People's Republic of)
+732 Colombia (Republic of)
+654 Comoros (Union of the)
+629 Congo (Republic of the)
+548 Cook Islands
+712 Costa Rica
+612 Côte d'Ivoire (Republic of)
+219 Croatia (Republic of)
+368 Cuba
+362 Curaçao
+280 Cyprus (Republic of)
+230 Czech Republic
+467 Democratic People's Republic of Korea
+630 Democratic Republic of the Congo
+238 Denmark
+638 Djibouti (Republic of)
+366 Dominica (Commonwealth of)
+370 Dominican Republic
+740 Ecuador
+602 Egypt (Arab Republic of)
+706 El Salvador (Republic of)
+627 Equatorial Guinea (Republic of)
+657 Eritrea
+248 Estonia (Republic of)
+636 Ethiopia (Federal Democratic Republic of)
+750 Falkland Islands (Malvinas)
+288 Faroe Islands
+542 Fiji (Republic of)
+244 Finland
+208 France
+647 French Departments and Territories in the Indian Ocean
+742 French Guiana (French Department of)
+547 French Polynesia (Territoire français d'outre-mer)
+628 Gabonese Republic
+607 Gambia (Republic of the)
+282 Georgia
+262 Germany (Federal Republic of)
+620 Ghana
+266 Gibraltar
+202 Greece
+290 Greenland (Denmark)
+352 Grenada
+340 Guadeloupe (French Department of)
+704 Guatemala (Republic of)
+611 Guinea (Republic of)
+632 Guinea-Bissau (Republic of)
+738 Guyana
+372 Haiti (Republic of)
+708 Honduras (Republic of)
+454 Hong Kong, China
+216 Hungary
+274 Iceland
+404 India (Republic of)
+406 India (Republic of)
+405 India (Republic of)
+510 Indonesia (Republic of)
+901 International Mobile, shared code c
+432 Iran (Islamic Republic of)
+418 Iraq (Republic of)
+272 Ireland
+425 Israel (State of)
+222 Italy
+338 Jamaica
+440 Japan
+441 Japan
+416 Jordan (Hashemite Kingdom of)
+401 Kazakhstan (Republic of)
+639 Kenya (Republic of)
+545 Kiribati (Republic of)
+450 Korea (Republic of)
+221 Kosovo* d
+419 Kuwait (State of)
+437 Kyrgyz Republic
+457 Lao People's Democratic Republic
+247 Latvia (Republic of)
+415 Lebanon
+651 Lesotho (Kingdom of)
+618 Liberia (Republic of)
+606 Libya
+295 Liechtenstein (Principality of)
+246 Lithuania (Republic of)
+270 Luxembourg
+455 Macao, China
+646 Madagascar (Republic of)
+650 Malawi
+502 Malaysia
+472 Maldives (Republic of)
+610 Mali (Republic of)
+278 Malta
+551 Marshall Islands (Republic of the)
+340 Martinique (French Department of)
+609 Mauritania (Islamic Republic of)
+617 Mauritius (Republic of)
+334 Mexico
+550 Micronesia (Federated States of)
+259 Moldova (Republic of)
+212 Monaco (Principality of)
+428 Mongolia
+297 Montenegro
+354 Montserrat
+604 Morocco (Kingdom of)
+643 Mozambique (Republic of)
+414 Myanmar (the Republic of the Union of)
+649 Namibia (Republic of)
+536 Nauru (Republic of)
+429 Nepal (Federal Democratic Republic of)
+204 Netherlands (Kingdom of the)
+546 New Caledonia (Territoire français d'outre-mer)
+530 New Zealand
+710 Nicaragua
+614 Niger (Republic of the)
+621 Nigeria (Federal Republic of)
+555 Niue
+242 Norway
+422 Oman (Sultanate of)
+410 Pakistan (Islamic Republic of)
+552 Palau (Republic of)
+714 Panama (Republic of)
+537 Papua New Guinea
+744 Paraguay (Republic of)
+716 Peru
+515 Philippines (Republic of the)
+260 Poland (Republic of)
+268 Portugal
+330 Puerto Rico
+427 Qatar (State of)
+0XX Reserved a
+1XX Reserved a
+8XX Reserved a
+226 Romania
+250 Russian Federation
+635 Rwanda (Republic of)
+658 Saint Helena, Ascension and Tristan da Cunha
+356 Saint Kitts and Nevis
+358 Saint Lucia
+308 Saint Pierre and Miquelon (Collectivité territoriale de la République
+française)
+360 Saint Vincent and the Grenadines
+549 Samoa (Independent State of)
+292 San Marino (Republic of)
+626 Sao Tome and Principe (Democratic Republic of)
+420 Saudi Arabia (Kingdom of)
+608 Senegal (Republic of)
+220 Serbia (Republic of)
+633 Seychelles (Republic of)
+619 Sierra Leone
+525 Singapore (Republic of)
+362 Sint Maarten (Dutch part)
+231 Slovak Republic
+293 Slovenia (Republic of)
+540 Solomon Islands
+637 Somalia (Federal Republic of)
+655 South Africa (Republic of)
+659 South Sudan (Republic of)
+214 Spain
+413 Sri Lanka (Democratic Socialist Republic of)
+634 Sudan (Republic of the)
+746 Suriname (Republic of)
+653 Swaziland (Kingdom of)
+240 Sweden
+228 Switzerland (Confederation of)
+417 Syrian Arab Republic
+466 Taiwan, China
+436 Tajikistan (Republic of)
+640 Tanzania (United Republic of)
+520 Thailand
+294 The Former Yugoslav Republic of Macedonia
+514 Timor-Leste (Democratic Republic of)
+615 Togolese Republic
+554 Tokelau
+539 Tonga (Kingdom of)
+374 Trinidad and Tobago
+605 Tunisia
+286 Turkey
+438 Turkmenistan
+376 Turks and Caicos Islands
+553 Tuvalu
+641 Uganda (Republic of)
+255 Ukraine
+430 United Arab Emirates b
+431 United Arab Emirates b
+424 United Arab Emirates
+234 United Kingdom of Great Britain and Northern Ireland
+235 United Kingdom of Great Britain and Northern Ireland
+316 United States of America
+315 United States of America
+314 United States of America
+313 United States of America
+312 United States of America
+311 United States of America
+310 United States of America
+332 United States Virgin Islands
+748 Uruguay (Eastern Republic of)
+434 Uzbekistan (Republic of)
+541 Vanuatu (Republic of)
+225 Vatican City State
+734 Venezuela (Bolivarian Republic of)
+452 Viet Nam (Socialist Republic of)
+543 Wallis and Futuna (Territoire français d'outre-mer)
+421 Yemen (Republic of)
+645 Zambia (Republic of)
+648 Zimbabwe (Republic of)

@@ -1,0 +1,160 @@
+2G: Second-generation mobile network or service. Generic name for second generation networks, for example GSM.
+2.5G: Second-generation enhanced. Name given to enhanced 2G networks, for example GPRS and cdmaOne.
+3G: Third-generation mobile network or service.  Generic name for third-generation networks or services under the IMT-2000 banner, for example W-CDMA.
+3GPP: Third Generation Partnership Project. A cooperation between regional standards bodies to ensure global interworking for 3G systems.
+Access charge: Amount paid per minute, charged by network operators for the use of their network by other network operators.
+Air time: The minutes of calls a subscriber makes from a mobile phone. Also referred to as talk time.
+AMPS: Advanced Mobile Phone System. An analogue cellular telephone service standard utilizing the 800 to 900 MHz band (and recently also the 1800-2'000 MHz band).
+Analogue: Transmission of voice and images using electrical signals. Analogue mobile cellular systems include AMPS, NMT and TACS.
+ARPU: Average Revenue Per User. Usually expressed per month but also per year.
+ATM: Asynchronous Transfer Mode. A transmission mode in which the information is organized into cells; it is asynchronous in the sense that the recurrence of cells from an individual user is not necessarly periodic.
+B2B: Business to Business. Term used to identify a business-to-business transaction.
+B2C: Business to Consumer. Term used to identify a business-to-consumer transaction.
+Bandwidth: The range of frequencies available to be occupied by signals. In analogue systems it is measured in terms of Hertz (Hz) and in digital systems in bit/s per second (bit/s). The higher the bandwidth, the greater the amount of information that can be transmitted in a given time. High bandwidth channels are referred to as broadband which typically means 1.5/2.0 Mbit/s or higher.
+Base station: A radio transmitter/receiver and antenna used in the mobile cellular network. It maintains communications with cellular telephones within a given cell and transfers mobile traffic to other base stations and the fixed telephone network.
+Bit (binary digit): A bit is the primary unit of electronic, digital data. Written in base-2, binary language as a 1 or a 0.
+Bit/s: Bits per second. Measurement of the transmission speed of units of data (bits) over a network.
+Bluetooth: A radio technology that makes possible transmitting signals over short distances between mobile phones, computers and other devices.
+Bluetooth TM: Short-range radio link standard.  Uses unlicensed spectrum @ 2.45 GHz to provide 1 Mbit/s.
+BOT: Build-operate-transfer. See BTO.
+Broadband: Although there exist various definitions of broadband that have assigned a minimum data rate to the term, it may be defined as transmission capacity with sufficient bandwidth to permit combined provision of voice, data and video, typically at speeds over 2 Mbit/s.
+BTO: Build-transfer-operate. An agreement whereby a client awards a contract for the development of a particular network but, instead of paying for it outright, allows the contractor to operate the network and collect revenues from it after transferring ownership. There are many variations on this, depending on when the transfer of ownership takes place, such as build-operate transfer (BOT).
+Byte: (1) A set of bits that represent a single character. A byte is composed of 8 bits.  (2) A bit string that is operated upon as a unit and the size of which is independent of redundancy or framing techniques.  Byte: (1) A set of bits that represent a single character. A byte is composed of 8 bits.  (2) A bit string that is operated upon as a unit and the size of which is independent of redundancy or framing techniques.
+Cable modem: A technology that allows highspeed interactive services, including Internet, to be delivered over a cable TV network.
+CAGR: Compound Annual Growth Rate. See technical notes.
+CDMA: Code Division Multiple Access. A technology for digital transmission of radio signals based on spread spectrum techniques where each voice or data call uses the whole radio band and is assigned a unique code.
+CDMA2000: A third-generation digital cellular standard based on Qualcomm technology.  Includes CDMA2000 1x. One of the IMT-2000 family of standards.
+cdmaOne: 2.5G mobile cellular standard (IS- 95B) based on CDMA and backed by Qualcomm.  The evolution continues with the 3G standard,
+CDMA2000. The 2G standard is known as IS- 95A.
+Cell: The geographic area covered by a single base station in a cellular mobile network.
+Cellular: A mobile telephone service provided by a network of base stations, each of which covers one geographic cell within the total cellular system service area.
+Channel: One of a number of discrete frequency ranges utilized by a base station to transmit and receive information from cellular terminals (such as mobile handsets).
+Churn: Term used to describe the turnover in the number of subscribers to a network, typically measured monthly. There are several different ways of measuring churn (for instance, based on the subscriber base at the start or the end of the month) which means that comparisons between companies or between countries are not always meaningful.
+Circuit-switched connection: A temporary connection that is established on request between two or more stations in order to allow the exclusive use of that connection until it is released.
+Circuit transfer mode: A transfer mode in which transmission and switching functions are achieved by permanent or quasi-permanent allocation of channels, bandwidth or codes between identified points of a connection. See also Packet transfer mode.
+Connectivity: The capability to provide, to endusers, connections to the Internet or other communication networks.
+Coverage: Refers to the range of a mobile cellular network, measured in terms of geographic coverage (the percentage of the territorial area covered by mobile cellular) or population coverage (the percentage of the population within range of a mobile cellular network).
+CPP: Calling party pays. Billing option typically used in mobile networks whereby the person making the call is charged for its full cost, in contrast to billing also the recipient of the call (see RPP).
+D-AMPS: See TDMA.
+DCS-1800: GSM networks using the 1800 Mhz frequency.
+DECT: Digital Enhanced Cordless Telecommunications. A standard for cordless telephony originally established by ETSI (see below).
+Digital: Representation of voice or other information using digits 0 and 1. The digits are transmitted as a series of pulses. Digital networks allow for higher capacity, greater functionality and improved quality. Examples of digital cellular networks include GSM, CDMA, and TDMA.
+Domain Name System (DNS): Databases located throughout the Internet that contain Internet naming information, including tables that crossreference domain names with their underlying IP numbers.
+Domain Name: The registered name of an individual or organization eligible to use the Internet. Domain names have at least two parts and each part is separated by a dot. The name to the left of the dot is unique for each top-level domain name, which is the name that appears to the right of the dot.
+DSL: Digital subscriber line. See also xDSL.  Dual-mode (also tri-mode or multi-mode): Handsets that can work with more than one different standard and/or at more than one frequency.
+e-commerce: Electronic commerce. Term used to describe transactions that take place on-line where the buyer and seller are remote from each other.
+EDGE: Enhanced Data rates for GSM Evolution.  An intermediate technology, still under development, that brings second-generation GSM closer to third-generation capacity for handling data speeds up to 384 kbit/s.
+E-mail: Electronic mail. The exchange of electronic messages between geographically dispersed locations.
+End-user: The individual or organization that originates or is the final recipient of information carried via the Internet (i.e. the consumer).
+Enhanced Message Service (EMS): EMS is a text service allowing mobile users to send and receive short text messages from other mobile and PC users. Compared to SMS, EMS includes additional features such the transmission of simple melodies, graphics, sounds, animations and modified text as an integrated message.
+ENUM: Standard adopted by Internet Engineering Task Force (IETF), which uses the domain name system (DNS) to map telephone numbers to Web addresses or uniform resource locators (URL). The long-term goal of the ENUM standard is to provide a single number to replace the multiple numbers and addresses for users fixed lines, mobile lines, and e-mail addresses.
+Exchange: See Switch.
+Extranet: An extranet is an intranet that is partially accessible to authorized outsiders, through the use of passwords.
+FDD: Frequency Division Duplex. One technique used for wireless communications where the up link and down link are at different frequencies.
+FDMA: Frequency Division Multiple Access. A cellular technology that has been used in the firstgeneration analogue systems (i.e., NMT, AMPS, and TACS).
+Fixed line: A physical line connecting the subscriber to the telephone exchange. Typically, fixed-line network is used to refer to the PSTN (see below) to distinguish it from mobile networks.
+Frequency: The rate at which an electrical current alternates, usually measured in Hertz (see Hz). It is also used to refer to a location on the radio frequency spectrum, such as 800, 900 or 1800 Mhz.
+Gateway: Any mechanism for providing access to another network.
+Gbit/s: Gigabit per second. See also bit/s.
+GDP: Gross domestic product. The market value of all final goods and services produced within a nation in a given time period.
+GMPCS: Global Mobile Personal Communications by Satellite. A new generation of non-geostationary satellite systems that is intended to provide global communications coverage to small handheld devices.
+GNP: Gross national product. The market value of all final goods and services produced in a nations economy, including goods and services produced abroad. 
+GPRS: General Packet Radio Service. A 2.5G mobile standard typically adopted by GSM operators as a migration step towards 3G (W-CDMA). Based on packet-switched technology enabling high-speed data transmission (approx. 115 kbit/s).
+GPS (global positioning system): Refers to a constellation of 24 Navstar satellites launched initially by the United States Department of Defense, that orbit the Earth and make it possible for people with ground receivers to pinpoint their geographic location. The location accuracy ranges from 10 to 100 metres for most equipment. A European system, Galileo, is also under development.
+GSM: Global System for Mobile communications.  European-developed digital mobile cellular standard. The most widespread 2G digital mobile cellular standard, available in over 170 countries worldwide. For more information see the GSM Association website at: http://www.gsmworld.com/index.html.
+Hand-off: A central concept of cellular technology, enabling mobility for subscribers. It is a process by which the Mobile Telephone Switching Office passes a mobile phone conversation from one radio frequency in one cell to another radio frequency in another as a subscriber crosses the boundary of a cell.
+HiperLAN: High-Performance Radio Local Area Network. An ETSI standard that operates at up to 54 Mbit/s in the 5 GHz RF band.
+HiperLAN2: High Performance Radio LAN Type 2. Wireless LAN (specified by ETSI/BRAN) in the 5 GHz IMS Band with a bandwidth up to 50 Mbit/s. HiperLAN2 is compatible with 3G WLAN systems for sending and receiving data, images, and voice communications.
+Host: Any computer that can function as the beginning and end point of data transfers. Each Internet host has a unique Internet address (IP address) associated with a domain name.
+HSCSD: High Speed Circuit Switched Data. An intermediary upgrade technology for GSM based on circuit-switched technology and enabling data service speed of 57 kbit/s. 
+HTML: Hypertext Markup Language. A Hypertext document format used on the World Wide Web. Mark-up languages for translating Web content onto mobile phones include cHTML, WML and xHTML.
+HTTP: Hypertext Transfer Protocol. Hypertext is any text that cross-references other textual information with hyperlinks.
+Hz: Hertz. The frequency measurement unit equal to one cycle per second.
+IMEI: International Mobile Equipment Identity.  Unique serial number used on mobile phones, typically those connected to the GSM network.
+IMT-2000: International Mobile Telecommunications. Third-generation (3G) family of mobile cellular standards approved by ITU. For more information see the website at: http://www.itu.int/imt.
+Incumbent: The (former) monopoly service and network provider in a particular country.
+Instant messaging (IM): Refers to programs such as AOL Instant Messenger and ICQ that allow users to exchange messages with other users over the Internet with a maximum delay of one or two seconds at peak times. Mobile versions of IM have also been launched in 2002.
+Interconnection: The physical connection of telecommunication networks owned by two different operators. Network operators typically charge a per minute fee for use of their network by other operators (referred to as an interconnection charge, access charge or network usage charge).
+Internet backbone: The high-speed, high capacity lines or series of connections that form a major pathway and carry aggregated traffic within the Internet.  Internet Content Provider: A person or organization , that provides information via the Internet either with a price or free of charge. 
+Internet Service Provider (ISP): ISPs provide end-users, and other ISPs, access to the Internet.  ISPs may also offer their own proprietary content and access to online services such as e-mail.
+Internet: The collection of interconnected networks that use the Internet protocols (IP).
+IP: Internet Protocol. The dominant network layer protocol used with the TCP/IP protocol suite.
+IP telephony: Internet Protocol Telephony. IP telephony is used as a generic term for the conveyance of voice, fax and related services, partially or wholly over packet-switched IP-based networks. In this report, IP telephony is used interchangeably with Voice over Internet Protocol (see VoIP). A third term, Internet telephony, is used when referring to IP Telephony conveyed partially or wholly over the Internet.
+IPO: Initial public offering. The first sale of publicly tradable stock shares in a company.
+IPSec: Internet Protocol Security. A technology for encrypting IP packets. An additional feature for IPv4 but a standard feature of IPv6.
+IPv4: Internet Protocol version 4. The version of IP in common use today.
+IPv6: Internet Protocol version 6. The emerging standard, which aims to rectify some of the problems seen with IPv4, in particular the shortage of address space.
+ISDN: Integrated Services Digital Network. A digital switched network, supporting transmission of voice, data and images over conventional telephone lines.
+ISP: Internet Service Provider. ISPs provide endusers, and other ISPs, access to the Internet. ISPs may also offer their own proprietary content and access to online services such as e-mail.
+ITU: International Telecommunication Union.  The United Nations specialized agency for telecommunications. See http://www.itu.int/. 
+Local Area Network (LAN): A computer network that spans a relatively small area. Most LANs are confined to a single building or group of buildings. However, one LAN can be connected to other LANs over any distance via telephone lines and radio waves. A system of LANs connected in this way is called a wide-area network (WAN).
+Local loop: The system used to connect the subscriber to the nearest switch. It generally consists of a pair of copper wires, but may also employ fibre-optic or wireless technologies.
+Location-based services (LBS): LBS make use of information on the location of a mobile device and user, and can exploit a number of technologies for the geographic location of a user.  Some of these technologies are embedded in the networks and others in the handsets themselves.  Location capability is already available to some level of accuracy (approx. 150 m) for most users of cellular networks. Increased accuracy can become available through location technologies such as GPS (Global Positioning Systemsee above). Commercial applications include the possibility for targeted advertising depending on the geographic region of a particular user.  
+Main telephone line: Telephone line connecting a subscriber to the telephone exchange equipment.  This term is synonymous with the term fixed line used in this report.
+MASP (mobile application service provider): MASPs provide the same service to mobile clients as regular application service providers provide to fixed-line clients, that is to say Web-based access to applications and services that would otherwise be stored locally.
+Mb: Mega bit.
+Mbit/s: Megabit per second. See also bit/s.
+m-commerce: Mobile Commerce. Similar to ecommerce but the term is usually applied to the emerging transaction activity in mobile networks.
+MDG: Millennium Development Goals. The 8 MDGs are global targets that 191 nations adopted at the UN Millennium Summit (September 2000). They include specific goals for human development and poverty eradication to be met by 2015.
+M-mail: Mobile-mail. An application that allows a mobile phone user to send a mail to an Internet e-mail user.
+Mobile: As used in this report, the term refers to mobile cellular systems.
+Mobile Virtual Network Operator (MVNO): An MVNO can be defined as a mobile service provider that offers mobile services but does not own its own radio frequency. Typically, MVNOs lease capacity from operators, e.g. licensed 2G and 3G operators.
+MP3: MPEG-1 Audio Layer-3 (MPEG stands for Moving Pictures Experts Group). A standard technology and format for compression of a sound sequence into a very small file (about one-twelfth the size of the original file) while preserving the original level of sound quality when it is played.
+m-tailing: Mobile tailing. Expression used in the billing and charging environment for mobile retailing.
+Multimedia Message Service (MMS): MMS will provide more sophisticated mobile messaging than SMS or EMS. A global standard for messaging, MMS will enable users to send and receive messages with formatted text, graphics, audio and video clips. Unlike SMS and most EMS, it will not be limited to 160-characters per message.
+NMT: Nordic Mobile Telephone system. An analogue mobile cellular system developed in the Nordic countries.
+NO: Network operator. The organization responsible for the operation of the infrastructure that forms a wireless network, who could also be a service provider.
+Number portability: The ability of a customer to transfer an account from one service provider to another without requiring a change in number. 
+Packet: An information block identified by a label at layer 3 of the OSI reference model.  (Source: CCITT Blue Book Volume 1 Fascicle1.3 Terms and Definitions).
+Packet-switching: The function of handling, routing, supervising and controlling user packet data, as required, by an exchange. (Source: CCITT Blue Book Volume 1 Fascicle1.3 Terms and Definitions).
+PCS: Personal Communication Services. In the United States, refers to digital mobile networks using the 1900 Mhz frequency. In other countries, refers to digital mobile networks using the 1800 Mhz frequency (See DCS-1800). The term Personal Communications Network (PCN) is also used.
+PDA: Personal Digital Assistant. A generic term for handheld devices that combine computing and communication functions.
+Peak rate: Term used for calls made during the busy part of the working day, at full tariff. Offpeak refers to calls made at other times, with discounted tariffs.
+Penetration: A measurement of access to telecommunications, normally calculated by dividing the number of subscribers to a particular service by the population and multiplying by 100.  Also referred to as teledensity (for fixed-line networks) or mobile density (for cellular ones).
+Personal Area Network (PAN): For the purposes of this report, a PAN is referred to as the interconnection of information technology devices within the range of an individual person, typically within a range of 10 meters. For example, a person travelling with a laptop, a personal digital assistant (PDA), and a portable printer could interconnect these devices through a wireless connection, without the need for physical wiring.  Conceptually, the difference between a PAN and a wireless LAN is that the former tends to be centered around one person while the latter is a local area network (LAN) with a greater range of wireless connectivity, typically serving multiple users. 
+PKI (public key infrastructure): PKI (public key infrastructure) enables users of unsecure public networks such as the Internet to securely and privately exchange data and/or funds. This is done using public key cryptography, i.e. through the use of a public and a private cryptographic key pair that is obtained and shared through a trusted authority (e.g. certification authority). PKI provides a digital certificate that can identify an individual or an organization and directory services that can store and, when necessary, revoke the certificates.
+POPs: The population within a mobile operators licensed area. Confusingly, in the Internet world, the same abbreviation is used to describe Points of Presence.
+Portal: Although an evolving concept, the term portal commonly refers to the starting point, or a gateway through which users navigate the World Wide Web, gaining access to a wide range of resources and services, such as e-mail, forums, search engines, and shopping malls. A mobile portal implies a starting point which is accessible from a mobile phone.
+PPP: Purchasing power parity. An exchange rate that reflects how many goods and services can be purchased within a country taking into account different price levels and cost of living across countries.
+Proportionate subscribers: The number of subscribers of a mobile cellular operator based on ownership. Calculated by multiplying the mobile cellular operators share of ownership (equity) in a particular subsidiary by the total number of subscribers.
+Protocol: A set of formal rules and specifications describing how to transmit data, especially across a network.
+PSTN: Public Switched Telephone Network. The public telephone network that delivers fixed telephone service.
+PTO: Public telecommunication operator. A provider of telecommunication infrastructure and services to the general public. The term public relates to the customer rather than the ownership of the PTO. 
+Public payphone: Typically supplied and operated by the incumbent carrier, public payphones have been a traditional method of encouraging widespread access to telecommunication facilities.
+Release 2000: Release from 3GPP. Term applied to the group of specifications due to be released in early 2001 which will concentrate on the core network. Also known as Version 5.
+Release 4: Standards Release from 3GPP. Term applied to the group of standards released by 3GPP in March 2001 that concentrate on the core network. Previously known as Release 00.
+Release 5: Standards Release from 3GPP. The release that will introduce the IP multimedia subsystem into the network.
+Release 99: Standards Release from 3GPP. Term applied to the group of standards forming the first phase of standards released by 3GPP in December 1999 mainly concentrating on the radio access network.
+Roaming: A service allowing cellular subscribers to use their handsets on networks of other operators or in other countries.
+RPP: Receiving party pays. Billing option whereby the person receiving a call is charged in addition to the person initiating the call (as opposed to only the caller paying, see CPP).  Secure Sockets Layer (SSL): SSL (Secure Sockets Layer) is a programme layer created by Netscape for managing the security of message transmissions in a network. SSL uses a publicand-private key encryption system, which also includes the use of a digital certificate.
+Server: (1) A host computer on a network that sends stored information in response to requests or queries.  (2) The term server is also used to refer to the software that makes the process of serving information possible.
+SIM: Subscriber identity module (card). A small printed circuit board inserted into a GSM-based mobile phone. It includes subscriber details, security information and a memory for a personal directory of numbers. This information can be retained by subscribers when changing handsets.  See also USIM.
+SMS: Short Message Service. A service available on digital networks, typically enabling messages with up to 160 characters to be sent or received via the message centre of a network operator to a subscribers mobile phone.  
+SMTP: Simple Mail Transfer Protocol. A protocol designed for the seamless transmission of electronic mail across an Internet using e-mail servers and clients.
+Spectrum: The radio frequency spectrum of hertzian waves used as a transmission medium for cellular radio, radiopaging, satellite communication, over-the-air broadcasting and other services.
+Switch: Part of a mobile or fixed telephone system that routes telephone calls to their destination.
+TACS: Total Access Communications System. An analogue mobile cellular system.
+TCP: Transmission Control Protocol. A transport layer protocol that offers connection-oriented, reliable stream services between two hosts. This is the primary transport protocol used by TCP/IP applications.
+TDD: Time Division Duplex. One technique used for wireless communication where the up link and down link use the same frequencies.
+TDMA: Time Division Multiple Access. A digital cellular technology that divides frequency into time slots. It is the prevalent technology of the second-generation digital cellular with three main versions: North American TDMA (IS-136); European TDMA (GSM); and Japanese TDMA (PHS/PDC).
+TDMA IS-136: A digital cellular standard earlier referred to as D-AMPS. For more information see the Universal Wireless Communications Consortium website at: http://www.uwcc.org. 
+Teledensity: Number of main telephone lines per 100 inhabitants.
+Total teledensity: Sum of the number of fixed lines and mobile phone subscribers per 100 inhabitants.
+Transmission Control Protocol/Internet Protocol (TCP/IP): The suite of protocols that defines the Internet and enables information to be transmitted from one network to another.
+UIM: User Identity Module. See USIM.
+UMTS: Universal Mobile Telecommunications System. The European term for third-generation mobile cellular systems or IMT-2000 based on the W-CDMA standard. For more information see the UMTS Forum website at: http://www.umts-forum.org/.
+Uniform Resource Locator (URL): The standard way to give the address or domain name of any Internet site that is part of the World Wide Web (WWW). The URL indicates both the application protocol and the Internet address, e.g.  http://www.itu.int.
+Universal access: Refers to reasonable telecommunication access for all. Includes universal service for those that can afford individual telephone service and widespread provision of public telephones within a reasonable distance of others.
+USIM: Universal Subscriber Identity Module (card). A printed circuit board (similar to a SIM) that is inserted into a mobile phone. Adopted by W-CDMA operators for 3G mobile. Capable of storing much more information and has strong security functions compared with SIMs. Also referred to as User Identity Module, or UIM.
+UTRA: UMTS Terrestrial Radio Access. The European third-generation mobile standard ETSI has agreed on which draws upon both W-CDMA and TDMA-CDMA proposals.
+VoIP: Voice over IP. The generic term used to describe the techniques used to carry voice traffic over IP (see also IP). 
+VXML: Voice eXtensible Markup Language. A new standard under development that uses voice to browse the Web.
+WAP: Wireless Application Protocol. A license free protocol for wireless communication that enables the creation of mobile telephone services and the reading of Internet pages from a mobile phone, thus being a mobile equivalent of HTTP (Hypertext Transfer Protocol).
+W-CDMA: Wideband Code Division Multiple Access. A third-generation mobile standard under the IMT-2000 banner, first deployed in Japan. See also CDMA.
+Website / Web page: A website (also known as an Internet site) generally refers to the entire collection of HTML files that are accessible through a domain name. Within a website, a webpage refers to a single HTML file, which when viewed by a browser on the World Wide Web could be several screen dimensions long. A home page is the webpage located at the root of an organisations URL.
+Wireless Fidelity (Wi-Fi): Refers to Wireless Fidelity, the 802.11b specification for Wireless LANs from the Institute of Electrical and Electronics Engineers (IEEE). It is part of a series of wireless specifications which also includes 802.11a, and 802.11g.
+Wireless LAN (WLAN): A wireless network whereby a user can connect to a local area network (LAN) through a wireless (radio) connection, as an alternative to a wired local area network. The most popular standard for wireless LANs is the IEEE 802.11 series. 
+Wireless: Generic term for mobile communication services which do not use fixedlink networks for direct access to the subscriber.
+World Wide Web (WWW): (1) Technically refers to the hypertext servers (HTTP servers) which are the servers that allow text, graphics, and sound files to be mixed together.  (2) Loosely refers to all types of resources that can be accessed.  xDSL: While DSL stands for digital subscriber line, xDSL is the general representation for various types of digital subscriber line technology, such as ADSL (asynchronous digital subscriber line), HDSL (high bit-rate digital subscriber line), or VHDSL (very high bit-rate digital subscriber line).
+xHTML: extensible Hypertext Markup Language.  Defines a single namespace for html: http://www.w3.org/1999/xhtml. Relies on HTML 4.01 for the semantics and data types of elements and attributes. Defines XHML 1.0 DTDs corresponding to HTML4's strict, transitional and frameset DTDs. Provides guidelines for authoring XHTML documents for delivery to existing Web browsers. Existing HTML can be trivially converted to XHTML using W3C's Open Source HTML Tidy utility.
+XML: eXtensible Mark-up Language. An open standard for describing data from the W3C. It is used for defining data elements on a web page and business-to-business documents. By providing a common method for identifying data, XML supports business-to-business transactions is expected to become the dominant format for electronic data interchange. 

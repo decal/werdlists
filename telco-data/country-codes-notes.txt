@@ -1,0 +1,41 @@
+# Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+## Notes:
+a Associated with shared country code 388 for Group of countries, the following one-digit identification code has
+ been assigned to the network of ETNS (European Telephony Numbering Space) +388 3.
+b Integrated numbering plan.
+c Code shared between Mayotte Island and Comoros (Union of the).
+d Will be allocated, only after all three digit codes from groups of ten are exhausted.
+e Associated with shared country code 878 for Universal personal telecommunications (UPT), the identification code 10 has been assigned to the network of VISIONng, +878 10.
+f Reserved for future use.
+g Including Australian Antarctic Territory, and Norfolk Island.
+h U.A.E.: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al Qaiwain.
+i Including Christmas Island and Cocos-Keeling Islands.
+j Associated with shared country code 882, the following two-digit identification code reservations or assignments have been made for the international networks of:
+## Applicant; Network; Country Code and Identification Code; Status
+British Telecommunications plc Global Office Application +882 10 Assigned
+WorldCom HyperStream International (HSI) Data Network +882 12 Assigned
+Telespazio S.p.A. EMS Regional Mobile Satellite System +882 13 Assigned
+Reach Global international ATM Network +882 15 Assigned
+United Arab Emirates Administration Thuraya RMSS Network +882 16 Assigned
+Asia Cellular Satellite (ACeS) Garuda Mobile
+Telecommunication Satellite System +882 20 Assigned
+Cable & Wireless plc Cable & Wireless Global Network +882 22 Assigned
+Sita-Equant Joint Venture Sita-Equant Network +882 23 Assigned
+TeliaSonera AB TeliaSonera multinational ATM Network +882 24 Assigned
+Deutsche Telekom Deutsche Telekom's Next Generation Network +882 28 Assigned
+Q-Tel (NZ) ltd. (ex-World IT) SkyMessenger International Network +882 29 Assigned
+Singapore Telecom Global Reach Network +882 30 Assigned
+Telekom Malaysia Global International ATM Network +882 31 Assigned
+Maritime Communications Partner A.S.  MCP network +882 32 Assigned
+Oration Technologies, Inc. Oration Technologies Network +882 33 Assigned
+Global Networks, Inc. Global Networks +882 34 Assigned
+SITA SITA GSM services in aircraft +882 98 Assigned
+Telenor Telenor GSM network  services in aircraft +882 99 Assigned
+k Associated with shared country code 881, the following one-digit identification code have been made for the International Mobile networks:
+## Network; Country Code and Identification Code; Status
+ICO Global Communications +881 0 and +881 1 Reserved
+Ellipso +881 2 and +881 3 Assigned
+Iridium Satellite LLC +881 6 and +881 7 Assigned
+Globalstar +881 8 and +881 9 Assigned
+l Reserved for the Palestinian Authority.
+m Reserved for E.164 country code expansion. 
