@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# dirs-vs-index.bash v1.0
+# dirs-vs-index v1.0
 #
 # Compare folders listed in the root directory to those outlined in `index.lst`
 # This shows data set maintainers which folders aren't being indexed properly

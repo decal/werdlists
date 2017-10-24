@@ -1,0 +1,14 @@
+Apple http://developer.apple.com/iphone
+Nokia http://forum.nokia.com
+Symbian Foundation http://developer symbian.org
+Palm webOS http://developer.palm.com
+BlackBerry http://www.blackberry.com/developers
+Sony Ericsson http://developer sonyericsson.com
+Windows Mobile http://msdn.microsoft.com/windowsmobile
+Motorola http://developer.motorola.com
+Opera Mobile/Mini http://dev.opera.com
+LG http://developer.lgmobile.com
+Samsung http://innovator samsungmobile.com
+Android http://developer.android.com
+HTC http://developer htc.com
+Bada (from Samsung) http://developer.bada.com

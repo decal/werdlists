@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#
+# expand-intranet-hosts v1.0
+#
+# expand the hostnames from `dns-hostnames/common-intranet-hosts.txt` by
+# appending various combinations of numbers and letters to them..
+#
+# Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
+# Last Modified: Mon Oct 23 18:53:38 PDT 2017
+# Tested On:     Ubuntu Bash on Windows Subsystem for Linux
+#
+
+
+for h in $(cat dns-hostnames/common-intranet-hosts.txt)
+  do echo $h
+  echo -e -- "${h}0\n${h}1\n${h}2\n${h}00\n${h}01\n${h}02\n${h}-0\n${h}-1\n${h}-00\n${h}-01\n${h}-02\n${h}a\n${h}b\n${h}c\n${h}-a\n${h}-b\n${h}-c"
+done > e-$$.txt
+
+mv -v -- e-$$.txt dns-hostnames/expanded-intranet-hosts.txt
+
+exit 0
