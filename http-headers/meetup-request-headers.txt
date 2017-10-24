@@ -1,0 +1,8 @@
+X-Meta-Visit
+X-Meta-Visit-Event
+X-Meta-Request-Headers
+X-Meetup-Unread-Notifications
+X-Meetup-Unread-Messages
+X-Meetup-Unread-Updates
+X-Meetup-Saved-Events
+X-Meta-Photo-Host

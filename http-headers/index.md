@@ -10,6 +10,8 @@ envoy-httpconnman-headers: headers used by the Envoy HTTP connection manager
 http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
 iana-http-headers: Uniquely Sorted List of IANA Message Headers Assignments
+meetup-request-headers: HTTP request headers used by the MeetUp.com API
+meetup-response-headers: HTTP response headers used by the MeetUp.com API
 mozdev-docs-headers: header list from left sidebar of Mozilla Developer Docs
 platform-request-headers: request headers that are specific to certain platforms
 platform-response-headers: response headers particular to certain platforms
