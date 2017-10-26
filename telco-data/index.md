@@ -11,6 +11,8 @@ mobile-operator-churn: CSV describing account churn of Mobile telecom operators
 nanpa-class-codes: NANPA vertical service code assignments
 national-network-tones: Specifications/meanings of tones by country via ITU-T
 npa-report-details: Detailed NPA report from NANPA
+radio-telephony-alphabet: phonetic spelling ensures voice transmission accuracy
+country-service-restrictions: an outline of services missing in each country
 sms2email-mailer-records: Cellular carriers' SMTP gateways for SMS messages
 telephony-acronyms-abbrevs: Telephony Acronyms and Abbreviations List From Hell
 vertical-service-codedefs: NANPA vertical service code definitions
