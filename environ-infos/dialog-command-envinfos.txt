@@ -1,0 +1,10 @@
+DIALOGOPTS     Define this variable to apply any of the common options to each widget.  Most of the  common  op tions  are reset before processing each widget.  If you set the options in this environment vari able, they are applied to dialog's state after the reset.  As in  the  "--file"  option,  double- quotes and backslashes are interpreted.  The  "--file"  option is not considered a common option (so you cannot embed it within this envi ronment variable).
+DIALOGRC       Define this variable if you want to specify the name of the configuration file to use.
+DIALOG_CANCEL
+DIALOG_ERROR
+DIALOG_ESC
+DIALOG_EXTRA
+DIALOG_HELP
+DIALOG_ITEM_HELP
+DIALOG_OK      Define any of these variables to change the exit code on Cancel (1), error (-1), ESC (255), Extra (3),  Help  (2), Help with --item-help (2), or OK (0).  Normally shell scripts cannot distinguish between -1 and 255.
+DIALOG_TTY     Set this variable to "1" to provide compatibility with older versions  of  dialog  which  assumed that if the script redirects the standard output, that the "--stdout" option was given.
