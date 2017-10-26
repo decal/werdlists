@@ -1,1 +1,1 @@
-freenode-chans: channels from freenode IRC sorted by number of users
+freenode-channel-sizes: channels from freenode IRC sorted by joined client count

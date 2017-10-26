@@ -10,6 +10,7 @@ mobile-codes-numerical: numerically sorted mobile or geographical area codes
 mobile-operator-churn: CSV describing account churn of Mobile telecom operators
 nanpa-class-codes: NANPA vertical service code assignments
 national-network-tones: Specifications/meanings of tones by country via ITU-T
+npa-report-details: Detailed NPA report from NANPA
 sms2email-mailer-records: Cellular carriers' SMTP gateways for SMS messages
 telephony-acronyms-abbrevs: Telephony Acronyms and Abbreviations List From Hell
 vertical-service-codedefs: NANPA vertical service code definitions
