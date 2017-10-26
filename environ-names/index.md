@@ -12,6 +12,7 @@ debian-shell-names: common names of environment variables in Debian BASH shell
 environ-manpage-names: environment variables listed in Linux manual pages
 environ-setenv-names: environment variables displayed by `env` at shell prompt
 etc-init-environ: environment variables parsed from scripts in `/etc/init`
+flask-environ-names: environment variables for the Flask Python web framework
 hesiod-environ-names: a name server interface library's environment variables
 libc-ldso-names: standard C library dynamic linker/loader environment names
 linux-pids-names: environment variable names from the Linux process table

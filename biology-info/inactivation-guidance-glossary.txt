@@ -1,0 +1,15 @@
+Bioburden reduction studies: Studies based on deliberately adding a specific agent (spiking) and subsequently measuring the removal or inactivation during inactivation steps.
+Inactivation: A procedure to render a select agent or regulated nucleic acids as non-viable or a select toxin non-toxic while retaining characteristic(s) of interest for future use.
+Infectivity Testing: A protocol to confirm the inactivation procedure by demonstrating the nucleic acids are incapable of producing infectious forms of any of the select agent viruses.
+Limit of detection (LOD)/Limit of quantitation (LOQ): The smallest concentration of a select agent or toxin that can be reliably detected or measured by an analytical procedure.
+Kill curve: The results of a dose-response experiment where a select agent is subjected to increasing levels of the inactivating procedure in order to determine the minimum conditions required to render it nonviable.
+Margin of error: The amount of error allowed for in case of miscalculation or normal variation in a process.
+Non-infectious nucleic acid: Nucleic acids no longer capable of producing infectious forms of a select agent virus (e.g. regulated positive sense RNA virus genomes like FMDV or EEE).
+Non-viable select agent: A select agent no longer capable of growing, replicating, infecting, or causing disease.
+Non-toxic select toxin: A toxin no longer capable of exerting a toxic effect.
+Safety margin: The treatment amount designed into an inactivation procedure beyond that required to reach LOD/LOQ, intended to reduce the probability of inactivation failure.
+Sterility assurance level (SAL): The probability of surviving organisms in material that has been subjected to inactivation.
+Toxicity Testing: A protocol to confirm the inactivation procedure by demonstrating the select toxins are non-toxic.
+Validated inactivation procedure: A procedure, whose efficacy is confirmed by data generated from a viability testing protocol, to render a select agent non-viable, but allows the select agent to retain characteristics of interest for future use; or to render any nucleic acids that can produce infectious forms of any select agent virus non-infectious for future use.
+Verification: Confirmation by an individual or entity that the use by the individual or entity of a validated inactivation or select agent removal procedure will result in an end product that achieves the expected results.  
+Viability testing protocol: A protocol to confirm the validated inactivation procedure by demonstrating the material is free of all viable select agent.
