@@ -1,0 +1,88 @@
+ACS access control system
+AFI Air Force Instruction
+AFRIMS Armed Forces Research Institute of the Medical Sciences
+ANCAI Access NACI
+APHIS Animal and Plant Health Inspection Service
+AR Army Regulation
+AT&L Acquisition, Technology, and Logistics
+BBRC Battelle Biomedical Research Center
+BMBL Bio-Safety in Microbiological and Biomedical Labs
+BPRP Biological Personnel Reliability Program
+BSAT biological select agents and toxins
+BSL  1/2/3/4 Biological Safety LevelOne/Two/Three/Four
+BU Boston University
+CBR Chemical, Biological, and Radiological
+CCTV closed circuit television
+CDC Centers for Disease Control and Prevention
+CFR Code of Federal Regulations
+CMA Certifying Medical Authority
+CO Certifying Official
+CONUS continental United States
+DAIG Department of the Army Inspector General
+DARPA Defense Advanced Research Projects Agency
+DCII Defense Clearance and Investigations Index
+DHS Department of Homeland Security
+DNA Deoxyribonucleic acid
+DoD Department of Defense
+DODD Department of Defense Directive
+DODI Department of Defense Instruction
+DOE Department of Energy
+DOJ Department of Justice
+DTRA Defense Threat Reduction Agency
+DSB Defense Science Board
+ECBC Edgewood Chemical Biological Center
+EQPT equipment
+FBI Federal Bureau of Investigation 
+GAO Government Accountability Office
+HEPA High Efficiency Particulate Air
+HHS Department of Health and Human Services
+HPW Human Performance Wing
+HQDA Headquarters of Department of Army
+IT information technology
+JPAS Joint Personnel Adjudication System
+MRI Midwest Research Institute
+NAC National Agency Check
+NACI NAC and Inquiries
+NACIC NACI and Credit
+NACLC NAC with Local Agency Check and Credit
+NBACC National Biodefense Analysis and Countermeasure Center
+NAMRU-3 Naval Medical Research Unit No. 3
+NCPRP Nuclear Chemical Personnel Reliability Program
+NEIDL National Emerging Infectious Diseases Laboratories
+NIAID National Institute of Allergy and Infectious Diseases
+NIH National Institutes of Health
+NET OPS Network Operations
+NIPRNET Non-Classified Internet Protocol Router Network
+NMRC Naval Medical Research Center
+NMRCD Naval Medical Research Center Detachment
+NPRP Nuclear Personnel Reliability Program
+NSA National Security Agency
+NSWCDD Naval Surface Warfare Center  Dahlgren Division
+OCONUS outside the Continental United States
+OPM Office of Personnel Management
+OPNAVINST Chief of Naval Operations instruction
+PL Public Law
+PRP Personnel Reliability Program
+PSI Personnel Security Investigation
+RNA Ribonucleic Acid
+RDT&E Research, Development, Test & Evaluation
+RF Radio Frequency
+RMC Rocky Mountain Laboratories
+RO Responsible Official
+SCADA Supervisory Control and Data Acquisition
+SOP Standard Operating Procedure
+SRA Security Risk Assessment 
+SSBI Single Scope Background Investigation
+SSBI-PR Single Scope Background Investigation-Periodic Reinvestigation
+SSI Security/Sustainability Investigation
+USAMC United States Army Medical Component
+USAMRICD United States Army Medical Research Institute of Chemical Defense
+USDA United States Department of Agriculture
+UTMB University of TexasMedical Branch
+UPS United Postal Service
+USAMRIID U.S. Army Medical Research Institute for Infectious Diseases
+USD Under Secretary of Defense
+USDA U.S. Department of Agriculture
+VIC Viral Immunology Center
+WRAIR Walter Reed Army Institute of Research
+WDTC West Desert Test Center 
