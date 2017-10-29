@@ -4,6 +4,7 @@ areacode-states-locations: Information about area codes in the United States
 country-codes-alphabetical: Country codes assigned by ITU-T (alphabetical order)
 country-codes-notes: Define single letter notes referenced in country code files
 country-codes-numerical: Country codes assigned by ITU-T (numerical order)
+country-exit-codes: international exit codes by country sorted alphabetically
 geographical-codes-numerical: Geographical codes from ITU-T (numerical order)
 itu-mobile-glossary: Glossary of mobile terms published by ITU-T(http://itu.int)
 mobile-codes-alphabetical: alphabetized mobile or geographical area codes 

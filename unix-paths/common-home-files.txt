@@ -1,3 +1,7 @@
 core
 mbox
+yarn-error.log
 yarn.lock
+package.json
+composer.json
+npm-debug.log

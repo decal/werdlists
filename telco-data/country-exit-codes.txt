@@ -1,0 +1,206 @@
+Country	ISO2/3	Country Code	Exit Code
+Afghanistan	AF/AFG	93	0
+Albania	AL/ALB	355	00
+Algeria	DZ/DZA	213	00
+Andorra	AD/AND	376	00
+Angola	AO/AGO	244	00
+Anguilla	AI/AIA	1	011
+Antigua and Barbuda	AG/ATG	1	01
+Argentina	AR/ARG	54	00
+Armenia	AM/ARM	374	8-10
+Aruba	AW/ABW	297	00
+Australia	AU/AUS	61	0011
+Austria	AT/AUT	43	00
+Azerbaijan	AZ/AZE	994	001
+Bahamas	BS/BHS	1	001
+Bahrain	BH/BHR	973	0
+Bangladesh	BD/BGD	880	00
+Barbados	BB/BRB	1	011
+Belarus	BY/BLR	375	001
+Belgium	BE/BEL	32	00
+Belize	BZ/BLZ	501	00
+Benin	BJ/BEN	229	00
+Bermuda	BM/BMU	1	011
+Bhutan	BT/BTN	975	00
+Bolivia	BO/BOL	591	00
+Bosnia and Herzegovina	BA/BIH	387	00
+Botswana	BW/BWA	267	00
+Brazil	BR/BRA	55	00
+Brunei	BN/BRN	673	00
+Bulgaria	BG/BGR	359	00
+Burkina Faso	BF/BFA	226	00
+Cambodia	KH/KHM	855	00
+Canada	CA/CAN	1	011
+Cape Verde	CV/CPV	238	0
+Cayman Islands	KY/CYM	1	011
+Central African Republic	CF/CAF	236	19
+Chad	TD/TCD	235	15
+Chile	CL/CHL	56	00
+China	CN/CHN	86	00
+Colombia	CO/COL	57	90
+Comoros	KM/COM	269	10
+Congo	CG/COG	242	00
+Cook Islands	CK/COK	682	00
+Costa Rica	CR/CRI	506	00
+Croatia	HR/HRV	385	00
+Cuba	CU/CUB	53	119
+Cyprus	CY/CYP	357	00
+Czech Republic	CZ/CZE	420	00
+Denmark	DK/DNK	45	00
+Dominica	DM/DMA	1	011
+Dominican Republic	DO/DOM	1	011
+Ecuador	EC/ECU	593	00
+Egypt	EG/EGY	20	00
+El Salvador	SV/SLV	503	0
+Eritrea	ER/ERI	291	00
+Estonia	EE/EST	372	00
+Ethiopia	ET/ETH	251	00
+Falkland Islands	FK/FLK	500	00
+Faroe Islands	FO/FRO	298	009
+Fiji	FJ/FJI	679	05
+Finland	FI/FIN	358	990
+France	FR/FRA	33	00
+French Polynesia	PF/PYF	689	00
+Gabon	GA/GAB	241	00
+Gambia	GM/GMB	220	00
+Georgia	GE/GEO	995	001
+Germany	DE/DEU	49	00
+Ghana	GH/GHA	233	00
+Gibraltar	GI/GIB	350	00
+Greece	GR/GRC	30	00
+Greenland	GL/GRL	299	009
+Grenada	GD/GRD	1	011
+Guam	GU/GUM	1	011
+Guatemala	GT/GTM	502	00
+Guinea	GN/GIN	224	00
+Guinea-Bissau	GW/GNB	245	00
+Guyana	GY/GUY	592	001
+Haiti	HT/HTI	509	00
+Honduras	HN/HND	504	00
+Hong Kong	HK/HKG	852	001
+Hungary	HU/HUN	36	00
+Iceland	IS/ISL	354	00
+India	IN/IND	91	00
+Indonesia	ID/IDN	62	001
+Iran	IR/IRN	98	00
+Iraq	IQ/IRQ	964	00
+Ireland	IE/IRL	353	00
+Israel	IL/ISR	972	00
+Italy	IT/ITA	39	00
+Jamaica	JM/JAM	1	011
+Japan	JP/JPN	81	001
+Jordan	JO/JOR	962	00
+Kazakhstan	KZ/KAZ	7	001
+Kenya	KE/KEN	254	00
+Kuwait	KW/KWT	965	00
+Kyrgyzstan	KG/KGZ	996	0
+Latvia	LV/LVA	371	00
+Lebanon	LB/LBN	961	00
+Lesotho	LS/LSO	266	00
+Liberia	LR/LBR	231	00
+Libya	LY/LBY	218	00
+Liechtenstein	LI/LIE	423	00
+Lithuania	LT/LTU	370	00
+Luxembourg	LU/LUX	352	00
+Macao	MO/MAC	853	00
+Macedonia	MK/MKD	389	99
+Madagascar	MG/MDG	261	16
+Malawi	MW/MWI	265	101
+Malaysia	MY/MYS	60	00
+Maldives	MV/MDV	960	00
+Mali	ML/MLI	225	00
+Malta	MT/MLT	356	00
+Marshall Islands	MH/MHL	692	00
+Martinique	MQ/MTQ	596	00
+Mauritania	MR/MRT	222	00
+Mauritius	MU/MUS	230	00
+Mexico	MX/MEX	52	00
+Micronesia	FM/FSM	691	011
+Moldova	MD/MDA	373	001
+Monaco	MC/MCO	377	00
+Mongolia	MN/MNG	976	001
+Montserrat	MS/MSR	1	011
+Morocco	MA/MAR	212	00
+Mozambique	MZ/MOZ	238	00
+Myanmar	MM/MMR	95	00
+Namibia	NA/NAM	264	09
+Nauru	NR/NRU	674	115
+Nepal	NP/NPL	977	00
+Netherlands	NL/NLD	31	00
+New Zealand	NZ/NZL	64	00
+Nicaragua	NI/NIC	505	00
+Niger	NE/NER	227	00
+Nigeria	NG/NGA	234	009
+Niue	NU/NIU	683	683
+Norfolk Island	NF/NFK	672	00
+North Korea	KP/PRK	850	00
+Norway	NO/NOR	47	00
+Oman	OM/OMN	968	00
+Pakistan	PK/PAK	92	00
+Palau	PW/PLW	680	011
+Panama	PA/PAN	507	0
+Papua New Guinea	PG/PNG	675	05
+Paraguay	PY/PRY	595	00
+Peru	PE/PER	51	00
+Philippines	PH/PHL	63	00
+Poland	PL/POL	48	00
+Portugal	PT/PRT	351	00
+Puerto Rico	PR/PRI	1	011
+Qatar	QA/QAT	974	0
+Romania	RO/ROU	40	00
+Russia	RU/RUS	7	001
+Rwanda	RW/RWA	250	00
+Saint Kitts and Nevis	KN/KNA	1	011
+Saint Lucia	LC/LCA	1	011
+Saint Pierre and Miquelon	PM/SPM	508	0
+Samoa	WS/WSM	685	0
+San Marino	SM/SMR	378	00
+Sao Tome and Principe	ST/STP	239	0
+Saudi Arabia	SA/SAU	966	00
+Senegal	SN/SEN	221	00
+Serbia and Montenegro	RS/SRB	381	0
+Seychelles	SC/SYC	248	00
+Sierra Leone	SL/SLE	232	00
+Singapore	SG/SGP	65	001
+Slovakia	SK/SVK	421	00
+Slovenia	SI/SVN	386	00
+Solomon Islands	SB/SLB	677	00
+Somalia	SO/SOM	252	19
+South Africa	ZA/ZAF	27	00
+South Korea	KR/KOR	82	001
+Spain	ES/ESP	34	00
+Sri Lanka	LK/LKA	94	00
+Sudan	SD/SDN	249	00
+Suriname	SR/SUR	597	00
+Swaziland	SZ/SWZ	568	00
+Sweden	SE/SWE	46	00
+Switzerland	CH/CHE	41	00
+Syria	SY/SYR	963	00
+Taiwan	TW/TWN	886	002
+Tajikistan	TJ/TJK	992	001
+Tanzania	TZ/TZA	255	0900
+Thailand	TH/THA	66	001
+Togo	TG/TGO	228	00
+Tonga	TO/TON	676	00
+Trinidad and Tobago	TT/TTO	1	011
+Tunisia	TN/TUN	216	00
+Turkey	TR/TUR	90	00
+Turkmenistan	TM/TKM	993	001
+Turks and Caicos Islands	TC/TCA	1	011
+Tuvalu	TV/TUV	688	00
+Uganda	UG/UGA	256	00
+UK	GB/GBR	44	00
+Ukraine	UA/UKR	380	001
+United Arab Emirates	AE/ARE	971	00
+Uruguay	UY/URY	598	00
+USA	US/USA	1	011
+Uzbekistan	UZ/UZB	998	001
+Vanuatu	VU/VUT	678	00
+Vatican	VA/VAT	39	00
+Venezuela	VE/VEN	58	00
+Vietnam	VN/VNM	84	00
+Virgin Islands (UK)	VG/VGB	1	011
+Virgin Islands (US)	VI/VIR	1	011
+Yemen	YE/YEM	967	00
+Zambia	ZM/ZMB	260	00
+Zimbabwe	ZW/ZWE	263	110

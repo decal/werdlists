@@ -7,11 +7,13 @@
 .bash_logout
 .bash_profile
 .bashrc
+.bashrc.swp
 .bitchxrc
 .cache
 .coveragepy
 .cross_rubies
 .cshrc
+.curlrc
 .d
 .dirstamp
 .document
@@ -19,7 +21,6 @@
 .exists
 .festival_history
 .flattened
-.forum.html.swp
 .forward
 .freebsd-update
 .fuzzrc
@@ -27,6 +28,7 @@
 .gemtest
 .gitattributes
 .gitconfig
+.github_api_token
 .gitignore
 .hgignore
 .history
@@ -34,12 +36,15 @@
 .htpasswd
 .hushlogin
 .INDEX
+.irbrc
 .ircrc
 .k5login
 .keep
 .keepme
 .keep_me
 .keep-me
+.keystore
+.kshdb_hist
 .kshrc
 .lesshst
 .LICENSE-ALLOS
@@ -64,8 +69,10 @@
 .nano_history
 .nessusrc
 .nessusrc.cert
+.netrc
 .node_repl_history
 .npm-debug.log
+.npmignore
 .objdump
 .obv.friends
 .obv.shitlist
@@ -80,6 +87,7 @@
 .profile
 .pry_history
 .ptksh_history
+.pwd.lock
 .pylintrc
 .pymodtmp
 .qmail-mailer-daemon
@@ -104,6 +112,7 @@
 .tag
 .tcshrc
 .time
+.tmux.conf
 .travis.yml
 ._usr_local
 .valgrind-supressions
@@ -111,6 +120,7 @@
 .viminfo
 .vimrc
 .wget-hsts
+.wgetrc
 .writable
 .Xauthority
 .yardopts
@@ -118,8 +128,3 @@
 .zshhistory
 .zsh_history
 .zshrc
-.tmux.conf
-.wgetrc
-.pwd.lock
-.netrc
-.npmignore

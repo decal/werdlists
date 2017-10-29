@@ -1,3 +1,14 @@
 mail
 Maildir
 public_html
+Mail
+common
+bin
+html
+jekyll
+local
+doc
+go
+bower_components
+bower-mirrors
+node_modules
