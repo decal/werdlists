@@ -13,11 +13,13 @@
 .coveragepy
 .cross_rubies
 .cshrc
+.csslintrc
 .curlrc
 .d
 .dirstamp
 .document
 .editorconfig
+.eslintrc
 .exists
 .festival_history
 .flattened
@@ -35,9 +37,11 @@
 .hoerc
 .htpasswd
 .hushlogin
+.hyper.js
 .INDEX
 .irbrc
 .ircrc
+.jshintrc
 .k5login
 .keep
 .keepme
@@ -84,6 +88,7 @@
 .pine-debug1
 .pkgcreate
 .procmailrc
+.productivitypowerpack2017
 .profile
 .pry_history
 .ptksh_history
@@ -95,6 +100,7 @@
 .qmail-root
 .rb
 .realplayerrc
+.recently-used.xbel
 .reviewboardrc
 .rhosts
 .rktd
@@ -119,6 +125,7 @@
 .version
 .viminfo
 .vimrc
+.webextensionpack2017
 .wget-hsts
 .wgetrc
 .writable

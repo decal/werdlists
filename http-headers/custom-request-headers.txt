@@ -38,6 +38,7 @@ X-Include
 X-Method-Override
 X-MiteApiKey
 X-N
+X-Org-Token
 X-Papertrail-Token
 X-Requested-With
 X-Request-ID

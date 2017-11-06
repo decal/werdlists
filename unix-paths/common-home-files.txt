@@ -1,5 +1,6 @@
 core
 mbox
+appinfo.json
 yarn-error.log
 yarn.lock
 package.json
