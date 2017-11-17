@@ -19,6 +19,7 @@ platform-response-headers: response headers particular to certain platforms
 rfc-request-headers: request header names that appear in an IETF RFC document
 rfc-response-headers: response header names that appear in an IETF RFC document
 security-policy-headers: CSP (Content-Security-Policy) header name list
+ssrf-http-headers: HTTP headers that can be used for Server-Side Request Forgery
 ssrf-request-headers: request headers that can be used in SSRF attacks
 ssrf-response-headers: response headers host names for SSRF can be parsed from
 tusio-http-headers: headers used by resumable file transfer protocol, see tus.io

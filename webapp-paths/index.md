@@ -10,6 +10,7 @@ drupal-path-names: path names typically found under web root of the _Drupal_ CMS
 falcon-jsp-paths: _FalconPathScan_ `.php` extensions changed to `.jsp`
 falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_ 
 generic-path-names: general path names that could be used on any web server
+ibm-bea-paths: paths for both J2EE app servers IBM WebSphere and Oracle WebLogic
 iis-path-names: path names commonly found under the web root of an _IIS_ install
 jboss-path-names: path names often handled by the _JBoss_ J2EE application server
 joomla-path-names: file names found in the directory hierarchy of Joomla sites

@@ -1,23 +1,82 @@
-invoker/
-invoker/EJBInvokerServlet
-/invoker/JMXInvokerServlet
-invoker/JMXInvokerServlet
-jbossmq-httpil/
-jbossws/services
-/jmx-console
-jmx-console/
-jmx-console
-jmx-console/HtmlAdaptor
-status
-/web-console
-web-console/
-web-console
-web-console/AOPBinding.jsp
-web-console/applet.jsp
-/web-console/Invoker
-web-console/Invoker
-web-console/listMonitors.jsp
-web-console/ServerInfo.jsp
-web-console/status
-web-console/SysProperties.jsp
-web-console/WebModule.jsp
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Thu Nov 16 02:20:57 2017
+URL_BASE: https://finalstage.att.com/
+WORDLIST_FILES: ./wordlists/big.txt
+OPTION: Printing LOCATION header
+OPTION: Not Recursive
+OPTION: Silent Mode
+OPTION: Not Stoping on warning messages
+
+-----------------
+
+GENERATED WORDS: 20458
+
+---- Scanning URL: https://finalstage.att.com/ ----
++ https://finalstage.att.com/271 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/30 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/31 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/311 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/32 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/33 (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/360 (CODE:302|SIZE:233)
+  (Location: 'https://ad.atdmt.com/c/go;p=11022201149834;ev.a=1')
++ https://finalstage.att.com/accessories (CODE:301|SIZE:0)
+  (Location: '/accessories/')
++ https://finalstage.att.com/accounts (CODE:301|SIZE:0)
+  (Location: '/accounts/')
+==> DIRECTORY: https://finalstage.att.com/ads/
++ https://finalstage.att.com/advance (CODE:302|SIZE:276)
+  (Location: 'http://www.att.com/u-verse/shop/index.jsp?source=ECtA000000000000U&wtExtndSource=advance')
++ https://finalstage.att.com/advantage (CODE:302|SIZE:267)
+  (Location: 'http://businessesales.att.com/common/allinonecommondisplay.jhtml?salescode=aioadair')
++ https://finalstage.att.com/advice (CODE:302|SIZE:267)
+  (Location: 'http://www.att.com/att/watchmore/?source=ECtA000000000000U&wtExtndSource=advice')
++ https://finalstage.att.com/afc (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
+==> DIRECTORY: https://finalstage.att.com/affiliates/
++ https://finalstage.att.com/agents (CODE:302|SIZE:264)
+  (Location: 'http://www.business.att.com/default/?pageid=alliance_index&branchid=alliance')
++ https://finalstage.att.com/agreement (CODE:301|SIZE:242)
+  (Location: 'https://www.corp.att.com/agreement')
++ https://finalstage.att.com/aim (CODE:302|SIZE:254)
+  (Location: 'http://www.att.com/dsl/?source=ECDa000000000000D&wtExtndSource=aim')
++ https://finalstage.att.com/air (CODE:302|SIZE:280)
+  (Location: 'https://businessesales.att.com/order/order_selectproducts.jhtml?salescode=air&checkedLD=true')
++ https://finalstage.att.com/airport (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
+==> DIRECTORY: https://finalstage.att.com/akamai/
+==> DIRECTORY: https://finalstage.att.com/alaska/
++ https://finalstage.att.com/alist (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/alliance (CODE:301|SIZE:241)
+  (Location: 'https://www.corp.att.com/alliance')
++ https://finalstage.att.com/alpha (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/amazon (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/americanexpress (CODE:302|SIZE:258)
+  (Location: 'https://finalstage.att.com/promotions/amex.html?DCMP=ESERV-americanexpress')
++ https://finalstage.att.com/amf (CODE:302|SIZE:276)
+  (Location: 'http://www.att.com/shop/wireless/gophone.html?source=ECDp00000000pt00U&wtExtndSource=amf')
++ https://finalstage.att.com/amigos (CODE:302|SIZE:202)
+  (Location: 'http://www.att.com')
++ https://finalstage.att.com/apis (CODE:301|SIZE:0)
+  (Location: '/apis/')
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Thu Nov 16 02:34:22 2017
+DOWNLOADED: 2002 - FOUND: 26
