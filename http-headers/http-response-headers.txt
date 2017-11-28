@@ -16,6 +16,7 @@ BK-Server
 Cache-Control
 CF-Cache-Status
 CF-RAY
+client-request-id
 Connection
 Content-Disposition
 Content-Encoding
@@ -29,6 +30,7 @@ Content-Security-Policy-Report-Only
 Content-Type
 Date
 device_type
+elapsed-time
 ETag
 Expires
 Frame-Options
@@ -40,16 +42,20 @@ Link
 Location
 MDT-Type
 MI
+OData-MaxVersion
+OData-Version
 Origin-Cache-Control
 Origin-Edge-Control
 P3P
 Pragma
+Prefer
 Proxy-Authenticate
 Proxy-Authentication-Info
 Public-Key-Pins
 Push-Policy
 Refresh
 Retry-After
+return-client-request-id
 Server
 Server-Timing
 Set-Cookie

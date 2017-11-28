@@ -28,4 +28,5 @@ phabricator-environ-names: Environment variable names for the Phabricator IDE
 resolv-environ-names: DNS resolver library configuration environment variables
 skygear-server-names: Skygear Backend-as-a-Service environ names of `.env.example`
 systemd-environ-names: system and service manager environment variable names
+ubuntu-environ-names: Ubuntu environment variables list from Community Help Wiki
 zsh-environ-names: environment variables set by default in Debian Z shell
