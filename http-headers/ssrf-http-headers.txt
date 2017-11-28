@@ -73,3 +73,4 @@ X-Server-IP
 X-True-Client
 X-True-Client-IP
 X-VServer
+X-MS-Server-Fqdn

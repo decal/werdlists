@@ -4,3 +4,4 @@ X-Proxied
 X-Server
 X-Served-By
 X-VServer
+X-MS-Server-Fqdn
