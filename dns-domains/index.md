@@ -15,9 +15,11 @@ maildotcom-domains-list: MX records served by the `mail.com` web mailer site
 malware-domains-mirror: taken from `malwaredomains.com`
 malware-hosts-list: taken from `malwaredomainlist.com`
 mil-domain-names: DNSSEC resource records within the mil TLD
+most-popular-subdomains: Most popular subdomains with counts and comments
 net-domain-names: various domain names within the `.net` top-level domain
 ntld-launch-dates: New gTLD launches in chronological order via https://ntldstats.com/launch?start=
 org-domain-names: DNSSEC resource records within the org TLD
+popular-subdomains-list: List of most popular subdomains on the Internet
 pgbs0dh-domain-records: a list of DNSSEC resource records in the pgbs0dh TLD
 special-use-domains: DNS domain names categorized as "Special-Use" by IANA
 tlds-alpha-dom: an alphabetically sorted list of top-level domains from ICANN

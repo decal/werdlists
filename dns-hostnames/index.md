@@ -17,6 +17,7 @@ hphosts-file-optimized: hosts file with multiple host names per line
 huge-hosts-combine: unique combo of a half-dozen subdomain lists in this folder 
 malekal-hosts-filter: hosts file used to block adware
 malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
+more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)
 spam-blacklist-hosts: host names used in from addresses by spammers

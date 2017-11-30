@@ -42,6 +42,7 @@ Link
 Location
 MDT-Type
 MI
+MS-Author-Via
 OData-MaxVersion
 OData-Version
 Origin-Cache-Control
