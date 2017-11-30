@@ -1,0 +1,50 @@
+20,395,943	www	Obviously!
+1,090,647	mail	
+258,838	remote	Everyone loves remote access
+168,575	blog	
+133,529	webmail	
+129,202	server	Creative
+100,849	ns1	
+92,737	ns2	
+73,465	smtp	
+72,115	secure	If you need a subdomain for this you have issues
+68,339	vpn	
+63,883	m	Lots of mobile sites
+62,808	shop	
+60,777	ftp	Still going strong
+58,484	mail2	
+44,481	test	Well, hello
+44,115	portal	
+43,645	ns	
+43,624	ww1	
+42,235	host	
+40,726	support	
+40,107	dev	Hello again
+37,666	web	When www isn't enough
+37,345	bbs	Yes, really. Looking into this, many people equate "BBS" with "Forum"
+37,131	ww42	Domains parked with a large domain squatter
+37,069	mx	
+36,876	email	
+36,870	cloud	Fluffy
+35,584	1	
+35,481	mail1	
+34,475	2	
+33,696	forum	
+31,291	owa	Good old Outlook
+31,254	www2	
+30,392	gw	
+29,916	admin	Likely a good target
+29,763	store	
+29,251	mx1	
+29,124	cdn	
+29,083	api	
+28,691	exchange	
+28,475	app	
+26,728	gov	Uhm
+26,459	2tty	Mostly from .asia and .pw TLDs
+26,229	vps	
+24,964	govyty	"
+24,951	hgfgdf	"
+24,768	news	
+24,521	1rer	"
+24,395	lkjkui	"

@@ -2,5 +2,7 @@
 500-worst-passwords: 500 of the worst passwords that people tend to commonly use
 default-passwords: a list of default passwords for various network devices
 fifty-common-passwords: 50 common passwords that lack complexity
+fuzzdb-passes-dicts: sorted and uniqifed fuzzdb `wordlists-user-passwds` folder
+fuzzdb-unix-passwords: `unix_passwords.txt` file taken from fuzzdb
 john-password-list: the password.lst file distributed with John The Ripper
 military-pass-words: passwords typically found in military information systems
