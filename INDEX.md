@@ -64,7 +64,7 @@ perl-data: Data often seen in PERL (Practical Extraction and Report Language)
 polyglot-files: Files having contents of multiple MIME types like GIFAR's
 port-nums: Positive integers (whole numbers) that represent IP port numbers
 python-data: Data used by the Python scripting language interpreter at runtime
-regex-dicts: Regular expression dictionaries for pattern matching and attacks
+regex-data: Regular expression patterns to mount attacks and match strings
 remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
