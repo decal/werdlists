@@ -27,7 +27,7 @@ environ-values: Environment variable values as encountered as the shell prompt
 exploit-info: Technical information on exploitation of security vulnerabilities
 file-extens: File extensions, i.e. the part after the period in a file name
 file-specs: File format specifications as distributed by vendor(s)/author(s)
-ftp-commands: FTP (File Transfer Protocol) commands as specified by IETF's RFC's
+ftp-data: Various FTP (File Transfer Protocol) datum from RFC's and elsewhere
 glibc-data: Data taken from the source code of the GNU standard C library
 html-forms: Data associated with HTML form mark-up syntax and the like
 html-words: Words not uncommon to come across when parsing HTML dialects
