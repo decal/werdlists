@@ -7,3 +7,4 @@ fuzzdb-passes-dicts: sorted and uniqifed fuzzdb `wordlists-user-passwds` folder
 fuzzdb-unix-passwords: `unix_passwords.txt` file taken from fuzzdb
 john-password-list: the password.lst file distributed with John The Ripper
 military-pass-words: passwords typically found in military information systems
+zxcvbn-passwords-list: passwords from `passwords.txt` included with *zxcvbn*
