@@ -1,0 +1,37 @@
+display list of files       DIRECTORY               ls
+                            DIRECTORY/FULL          ls -l
+display contents of file    TYPE                    cat
+display file with pauses    TYPE/PAGE               more, less
+display first few lines of file                     head
+display last  few lines of file                     tail
+copy file                   COPY                    cp
+find string in file         SEARCH                  grep
+                                                    fgrep
+compare files               DIFF                    diff
+                                                    cmp
+rename file                 RENAME                  mv
+delete file or directory    DELETE                  rm
+                                                    rmdir
+change file protection      SET FILE/PROT           chmod
+change file ownership       SET FILE/OWNER          chown
+                                                    chgrp
+create directory            CREATE/DIR              mkdir
+change working directory    SET DEFAULT             cd
+display working directory   SHOW DEFAULT            pwd
+get help                    HELP                    man
+                                                    apropos
+display date and time       SHOW TIME               date
+display free disk space     SHOW DEV                df
+stop process                STOP                    kill
+link program modules        LINK                    ld
+print file                  PRINT                   lpr
+display print queue         SHOW QUEUE              lpq
+display print entries       SHOW ENTRY              lpq
+change password             SET PASSWORD            passwd
+display logged-in users     SHOW USERS              who
+                                                    finger
+                                                    w
+display processes           SHOW PROCESS            ps
+change terminal settings    SET TERMINAL            stty
+talk to another user        PHONE                   talk
+disable messages            SET NOBROADCAST         mesg n

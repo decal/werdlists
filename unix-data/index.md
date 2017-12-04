@@ -22,4 +22,5 @@ syslog-facility-values: syslog system call facility values taken from RFC3164
 tmux-command-list: list of tmux (terminal multiplexer) commands
 unix-filesystem-list: list of acronyms representing UNIX filesystem types
 unix-user-names: a long list of UNIX user name possibilities
+vms-unix-commands: translation of VMS commands to UNIX equivalents
 vt100-codes-chart: VT100 and VT52 Compatable Modes ESCape Codes Chart

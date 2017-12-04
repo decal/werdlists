@@ -12,3 +12,4 @@ libresolv-abi-list:
 librt-abi-list: 
 libthread_db-abi-list: 
 libutil-abi-list: 
+perror-message-strings: list of error strings displayed to stderr by `perror()`
