@@ -12,9 +12,11 @@ host-names-medium: a medium-sized list of host names only
 host-names-small: list of host names that's manageably sized
 host-names-sorted: various host names sorted alphabetically
 hosts-file-entries: `/etc/hosts` file entries taken from hosts-file.net
+hosts-word-list: list of words for host names
 hostsfile-dotnet-readme: [Malwarebytes](http://hosts-file.net) `readme.txt` file
 hphosts-file-optimized: hosts file with multiple host names per line
 huge-hosts-combine: unique combo of a half-dozen subdomain lists in this folder 
+intranet-hosts-list: combination of several intranet host lists files 
 malekal-hosts-filter: hosts file used to block adware
 malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
 more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
