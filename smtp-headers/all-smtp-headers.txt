@@ -424,8 +424,10 @@ X-AuditID
 X-Authentication-Warning
 X-Author
 X-Auto-Response-Suppress
+X-Barracuda-Apparent-Source-IP
 X-Barracuda-Apparent-Source-IP:
 X-Barracuda-Connect
+X-Barracuda-Effective-Source-IP
 X-Barracuda-Effective-Source-IP:
 X-Barracuda-Encrypted
 X-Barracuda-Envelope-From
@@ -568,7 +570,9 @@ X-NSCC-TemplateVersion
 X-NSCC-Tracking-Header
 X-Oa
 X-ORACLE-DMS-ECID
+X-ORACLE-NOTIFICATION-RECIPIENT-ID
 X-ORACLE-NOTIFICATION-RECIPIENT-ID:
+X-ORACLE-NOTIFICATION-REQUEST-ID
 X-ORACLE-NOTIFICATION-REQUEST-ID:
 X-OrganizationHeadersPreserved
 X-OriginalArrivalTime

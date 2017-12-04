@@ -16,6 +16,7 @@ hosts-word-list: list of words for host names
 hostsfile-dotnet-readme: [Malwarebytes](http://hosts-file.net) `readme.txt` file
 hphosts-file-optimized: hosts file with multiple host names per line
 huge-hosts-combine: unique combo of a half-dozen subdomain lists in this folder 
+inet-hosts-sample: sample of real host names from Internet zone files
 intranet-hosts-list: combination of several intranet host lists files 
 malekal-hosts-filter: hosts file used to block adware
 malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
