@@ -63,6 +63,7 @@ passes-sites: Password lists that were publicized after major site compromises
 perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
 polyglot-files: Files having contents of multiple MIME types like GIFAR's
 port-nums: Positive integers (whole numbers) that represent IP port numbers
+postal-data: Postal service info for the United States and elsewhere
 python-data: Data used by the Python scripting language interpreter at runtime
 regex-data: Regular expression patterns to mount attacks and match strings
 remote-urls: Lists of tokens that were parsed out of a remote URL string
