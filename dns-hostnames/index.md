@@ -3,10 +3,11 @@ alexa-host-names: Alexa URI host names sorted and uniqified
 alexa-top50-global: The top 50 global web sites from <http://alexa.com/topsites>
 av-update-hosts: anti-virus signature update host names
 bigbad-hosts-list: only `subdom-brute-list.txt` is larger than this file
+dns-dictionary-hosts: `hosts.txt` taken from *DNSDictionary* tool
 dod-hosts-table: Old School DoD Internet Host Table (not in `/etc/hosts` format)
 expanded-intranet-hosts: additional hosts generated from `common-intranet-hosts`
 common-intranet-hosts: host names commonly found on private intranets
-fierce-scanner-hosts: `hosts.txt` file packaged with fierce DNS scanner
+fierce-scanner-hosts: `hosts.txt` file packaged with *fierce* DNS scanner
 host-names-large: the largest list of host names in this folder
 host-names-medium: a medium-sized list of host names only
 host-names-small: list of host names that's manageably sized
@@ -24,10 +25,10 @@ more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)
 spam-blacklist-hosts: host names used in from addresses by spammers
-subdom-brute-list: taken from cujanovic's GitHub repo subdomain-bruteforce-list
+subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__
 tor-hsts-preloads: Site list for Strict Transport Security preloading on TOR
 tweet-link-hosts: hosts parsed from tweet text on [Twitter](https://twitter.com)
-uber-subdomain-names: subdomain names that have been used by uber.com
+uber-subdomain-names: subdomain names used by [Uber](https://uber.com)
 wget-hsts-hosts: HSTS (Strict Transport Security) host names saved by GNU `wget`
 yahoo-ad-hosts: host names of [Yahoo](http://yahoo.com) advertising web servers
 yahoo-server-hosts: names of [Yahoo](http://yahoo.com) front-end web app servers
