@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+sort -u INDEX.md > I.md
+mv -vf I.md INDEX.md
+
+for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
+  do declare adir=$(echo $d | sed -r 's!^[.][/]!!')
+
+  cd -- $adir
+
+  sort -u index.md > i.md
+
+  mv -vf i.md index.md
+
+  cd ..
+done
+
+exit 0

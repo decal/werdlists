@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
+  do declare adir=$(echo $d | sed -r 's!^[.][/]!!')
+
+  cd -- $adir
+
+  declare -i acnt=$(wc -l index.md | awk '{print($1);}') 
+  declare -i bcnt=$(ls -1 | egrep -v '^index[.]md$' | wc -l) 
+
+  if [[ $acnt != $bcnt ]] 
+    then echo -n "$adir "
+
+    for f in $(find . -maxdepth 1 -type f -print)
+      do afil=$(basename $f | awk -F. '{print($1);}')
+
+      [ $afil == "index" ] && continue
+
+      [ ! "$(grep $afil index.md)" ] && echo -n "$afil "
+    done
+
+    echo
+  fi
+
+  cd ..
+done
+
+exit 0

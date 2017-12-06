@@ -6,6 +6,8 @@ english-wikipedia-words: 10,000 most used words in the English Wikipedia
 fifty-common-passwords: 50 common passwords that lack complexity
 fuzzdb-passes-dicts: sorted and uniqifed fuzzdb `wordlists-user-passwds` folder
 fuzzdb-unix-passwords: `unix_passwords.txt` file taken from fuzzdb
+fuzzdb-user-passwds: more passwords taken from fuzzdb
+hbgary-rootkit-passes: password list from HBGaryFederal rootkit.com compromise
 john-password-list: the password.lst file distributed with John The Ripper
 military-pass-words: passwords typically found in military information systems
 zxcvbn-passwords-list: passwords from `passwords.txt` included with *zxcvbn*

@@ -39,15 +39,15 @@ echo -e "${reset}\n"
 
 # avoid the hidden ".git" repository directory
 echo -ne "\n${redf}"
-nice find . -type d -not -iname '.*' -exec chmod -v 0751 {} \;
+nice find . -type d -not -iname '.*' -exec chmod -v 0750 {} \;
 echo -ne "\n${reset}${white}"
-nice find . -type f -iname '*.txt' -exec chmod -v 0644 {} \;
+nice find . -type f \( -iname '*.txt' -o -iname '*.csv' -o -iname '*.xml' \) -exec chmod -v 0640 {} \;
 echo -ne "\n${reset}${greenf}"
-nice find . -type f -iname '*.bin' -exec chmod -v 0444 {} \;
+nice find . -type f -iname '*.bin' -exec chmod -v 0440 {} \;
 echo -ne "\n${reset}${cyanf}"
-nice find . -type f -iname '*.lst' -exec chmod -v 0664 {} \;
+nice find . -type f -iname '*.lst' -exec chmod -v 0660 {} \;
 echo -ne "\n${reset}${greenf}"
-nice find scripts -type f -exec chmod -v 0751 {} \;
+nice find scripts -type f -exec chmod -v 0750 {} \;
 echo -e "${reset}"
  
 exit 0

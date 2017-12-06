@@ -4,8 +4,8 @@ node-modules-list: NodeJS modules list from `~/node_modules` directory
 npm-modules-list: NodeJS Package Manager modules list: `ls -1 ~/.npm | sort -u`
 owasp-test-method: an outline of the OWASP test methodology 
 owasp-top10-2017: The Top 10 types of web insecurities for 2017 by OWASP
-percent-encoding-single: all one-byte values encoded in percent-encoding style
 percent-encoding-double: all one-byte values doubly percent-encoded
+percent-encoding-single: all one-byte values encoded in percent-encoding style
 siteminder-authreason-codes: SiteMinder AUTHREASON query parameter values..
 waf-crs-rules: OWASP Core Rule Set for Web Application Firewalls
 wahh-tasks-checklist: Web Application Hacker's Handbook tasks checklist 

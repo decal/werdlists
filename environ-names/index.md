@@ -1,8 +1,8 @@
 adobe-expmgr-names: Adobe Experience Manager environment variables of quickstart
+apache2-ctl-names: environment variables used by the Apache2 control script
 apache-environ-names: non-suEXEC environment variables specific to Apache httpd
 apache-ssl-environ: environment variables used by Apache's mod_ssl module
 apache-suexec-names: environment variables strings'd from Apache suEXEC binary
-apache2-ctl-names: environment variables used by the Apache2 control script
 bashenv-declared-environ: variables discovered in `bash` by running `declare -p`
 binutils-ld-names: GNU binutils linker environment variables
 byobu-environ-names: variables defined by the text-based window manager wrapper

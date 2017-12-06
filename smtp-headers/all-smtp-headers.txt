@@ -507,6 +507,8 @@ X-mail_abuse_inquiries
 X-Mailer
 X-Mailfrom
 X-Mail-From
+X-Mailgun-Sending-Ip
+X-Mailgun-Sid
 X-MailingID
 X-Mailman-Version
 X-mailstream

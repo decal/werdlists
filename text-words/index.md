@@ -1,4 +1,5 @@
 acronyms-defined-dict: a dictionary of defined acronyms from technical jargon
+english-top-1000: 1,000 most used words in the english language
 english-words-various: various english words taken from some old ZIP files
 linux-words-dict: words taken from /usr/share/dict/words on Linux install
 not-found-translations: "Not Found" translations on [iBiblio](http://ibiblio.org)

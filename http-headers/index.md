@@ -1,6 +1,6 @@
 about-http-headers: Descriptions for the most common HTTP header fields
-amazon-http-headers: HTTP headers specific to Amazon
 access-control-headers: Cross Origin Resource Sharing (CORS) header name list
+amazon-http-headers: HTTP headers specific to Amazon
 cloudfront-request-headers: CloudFront HTTP request headers used by Amazon AWS
 cors-request-headers: list of CORS header names used only in HTTP requests
 cors-response-headers: list of CORS header names used only in HTTP responses
