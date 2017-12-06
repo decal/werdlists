@@ -61,6 +61,7 @@ opersys-strs: Strings that relate to one operating system or another
 passes-dicts: Dictionary files used when brute force attacking account passwords
 passes-sites: Password lists that were publicized after major site compromises
 perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
+php-data: Files containing information about the PHP programming language
 polyglot-files: Files having contents of multiple MIME types like GIFAR's
 port-nums: Positive integers (whole numbers) that represent IP port numbers
 postal-data: Postal service info for the United States and elsewhere
