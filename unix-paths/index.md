@@ -7,3 +7,4 @@ dot-file-names: names of so-called "hidden" file names prepended with periods
 dot-path-names: path to file or directory that starts with a hidden directory
 file-extensions-various: file extension names between one and eighteen bytes
 home-path-globs: glob patterns that match files under the home directories
+unix-etc-paths: relative path names to various files under `/etc`
