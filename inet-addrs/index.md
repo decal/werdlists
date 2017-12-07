@@ -9,4 +9,5 @@ private-ipv4-blocks: IPv4 CIDR blocks often found on privately routed networks
 private-ipv4-ranges: Same as above, but in start-end notation instead of CIDR
 spammer-mail-addrs: Spammer e-mail addresses from `linuxbrit.co.uk` Wayback
 special-cidr-blocks: List of "special" Intranet CIDR blocks 
+suspect-network-blocks: [suspect_networks.txt](https://suspect-networks.io/downloads/suspect_networks.txt)
 various-email-addresses: List of various e-mail addresses parsed from an `mbox`

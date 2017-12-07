@@ -1,0 +1,67 @@
+#!/usr/bin/env bash
+# 
+#
+
+if [ ! "$1" ]
+  then echo "usage: $0 FILE"
+  echo 
+  echo '  FILE  name of file to parse'
+  echo
+  echo "ex. $0 webapp-files/misc-common-names.txt"
+
+  exit 1
+fi
+
+function contains() {
+  local n=$#
+  local value=${!n}
+
+  for ((i=1;i < $#;i++)) {
+    if [ "${!i}" == "${value}" ]; then
+      echo "y"
+      
+      return 0
+    fi
+  }
+
+  echo "n"
+  return 1
+}
+
+for w in `sort -uf "$1"`
+  do declare -a l=() 
+
+  [ $(contains "${l[@]}" "$s") != "y" ] && echo $w.${2} && l+=($w.${2})
+
+  if [ "`echo $w | grep '-'`" ]
+    then declare s="$(echo $w | sed -r 's!-!_!').${2}"
+
+    [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
+
+    while [ "`echo $s | grep '-'`" ]
+      do s="$(echo $s | sed -r 's!-!_!')"
+
+      [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
+    done
+  fi
+  
+  if [ "`echo $w | grep '_'`" ]
+    then declare s="$(echo $w | sed -r 's!_!-!').${2}"
+
+    [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
+
+    while [ "`echo $s | grep '_'`" ]
+      do s="$(echo $s | sed -r 's!_!-!')"
+
+      [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
+    done
+
+    while [ "`echo $s | grep '-'`" ]
+      do s="$(echo $s | sed -r 's!-!_!')"
+
+      [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
+    done
+  fi
+done
+
+exit 0
