@@ -1,0 +1,32 @@
+g: https://www.google.com/search?q=%s Google
+gi: https://www.google.com/search?tbm=isch&q=%s Google Images
+gm: https://www.google.com/maps?q=%s Google Maps
+recent: https://www.google.com/search?hl=en&tbo=1&tbs=qdr:y&q=%s Google (last year only)
+translate: http://translate.google.com/?source=osdd#auto|auto|%s Google Translator
+w: http://en.wikipedia.org/wiki/Special:Search?search=%s Wikipedia
+d: https://duckduckgo.com/?q=%s DuckDuckGo
+a: http://www.amazon.com/exec/obidos/external-search/?field-keywords=%s&mode=blended Amazon
+e: http://www.ebay.com/sch/?_nkw=%s eBay
+b: http://www.bing.com/search?setmkt=en-GB&q=%s Bing
+gh: https://github.com/search?q=%s GitHub
+hn: https://www.hnsearch.com/search#request/submissions&q=%s&start=0 HackerNews
+so: http://stackoverflow.com/search?q=%s StackOverflow
+su: http://superuser.com/search?q=%s SuperUser
+sh: http://symbolhound.com/?q=%s SymbolHound
+ud: https://www.urbandictionary.com/define.php?term=%s UrbanDictionary
+wa: http://www.wolframalpha.com/input/?i=%s Wolfram|Alpha
+qw: https://www.qwant.com/?q=%s&t=all
+yt: http://www.youtube.com/results?search_query=%s YouTube
+imdb: http://www.imdb.com/find?s=all&q=%s IMDB
+trello: https://trello.com/search?q=%s Trello
+search.creativecommons.org: http://search.creativecommons.org/?q=%s
+search.yahoo.com: http://search.yahoo.com/search?p=%s&ei=UTF-8
+
+# omniref (ruby documentation)
+rb: https://www.omniref.com/?q=%s
+
+# Find your way from your home to places using Google Maps
+home: https://www.google.com/maps/dir/INPUT+YOUR+ADDRESS/%s
+
+# Use google to search the current site you're on
+site: javascript:location='http://www.google.com/search?num=100&q=site:'%20+%20escape(location.hostname)%20+%20'%20%S'%20;%20void%200
