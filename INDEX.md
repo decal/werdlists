@@ -46,6 +46,7 @@ inet-routes: Data useful in the maintenance and use of Internet routing tables
 inet-services: Lists of Internet protocols/daemons--similar to `/etc/services`
 infosec-people: Noteworthy individuals within the information security community
 ios-data: Datum specific to Cisco's IOS (Internetwork Operating System) 
+islam-texts: various Islamic texts and literature, i.e. Q'uran and Sunnah
 iso-codes: International Standardization Organization code numbers and such
 java-data: Data found in or related to source code of programs written with Java
 libc-data: Standard C library related data potentially useful for tests

@@ -1261,6 +1261,7 @@ store
 StoreDB
 storemgr
 store.php?action
+stores
 streg.nsf
 stronghold-info
 stronghold-status
@@ -1271,6 +1272,7 @@ styles
 stylesheet
 stylesheets
 subir
+subversion
 sun
 super_stats
 supplier
@@ -1482,13 +1484,16 @@ work
 workflowtasks
 workorder
 world
+wp
 wp-login.php
 wsdocs
+wsftp
 WS_FTP
 wstats
 wusage
 www
 www0
+www1
 www2
 www3
 www4
