@@ -26,7 +26,8 @@ malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
 more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)
-someonewhocares-hosts-list: [hosts file](http://someonewhocares.org/hosts/zero/hosts)
+someonewhocares-zero-hosts: [0 text file](http://someonewhocares.org/hosts/zero/hosts)
+someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/hosts)
 spam-blacklist-hosts: host names used in from addresses by spammers
 subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__
 tor-hsts-preloads: Site list for Strict Transport Security preloading on TOR
