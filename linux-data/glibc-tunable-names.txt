@@ -1,0 +1,17 @@
+glibc.malloc.arena_max
+glibc.malloc.arena_test
+glibc.malloc.check
+glibc.malloc.mmap_max
+glibc.malloc.mmap_threshold
+glibc.malloc.perturb
+glibc.malloc.tcache_count
+glibc.malloc.tcache_max
+glibc.malloc.tcache_unsorted_limit
+glibc.malloc.top_pad
+glibc.malloc.trim_threshold
+glibc.tune.cpu
+glibc.tune.hwcap_mask
+glibc.tune.hwcaps
+glibc.tune.x86_data_cache_size
+glibc.tune.x86_non_temporal_threshold
+glibc.tune.x86_shared_cache_size

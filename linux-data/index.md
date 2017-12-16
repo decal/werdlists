@@ -6,6 +6,7 @@ bash-shell-options: bash shell options as managed by the `shopt` builtin
 centos7-yum-pkgs: list of packages from `yum` in CentOS7
 dot-path-names: various path names, i.e. files and dirs prepended with a period
 git-command-descs: git command names with manual page sections and descriptions
+glibc-tunable-names: options that match GNU libc runtime behavior with workload
 kali-dpkg-list: A list of package names gathered with apt-cache on Kali Linux
 kernel-git-shortlog: Kernel authors taken from source tree's `git shortlog` 
 libc-getconf-vars: system configuration variable values from `getconf(1)`
