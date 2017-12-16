@@ -20,6 +20,7 @@ linux-pids-names: environment variable names from the Linux process table
 locale-environ-names: environment variable names for multi-language support
 macos-dyld-names: MacOS dynamic link editor environment variable names
 macos-pids-names: environment variable names from the Mac OSX process table
+mallopt-environ-names: GNU libc memory allocation option environment variables
 mosh-environ-names: MObile SHell specific environment variable names
 msft-environ-names: Environment variables documented on the MSDN web site
 netbsd-environ-names: NetBSD environment variable names

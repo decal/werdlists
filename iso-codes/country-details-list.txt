@@ -1,0 +1,257 @@
+
+ISO-3166
+alpha2	ISO-3166
+alpha3	ISO-3166
+numeric	fips	Country	Capital	Area in km	Population	Continent
+AD	AND	020	AN	Andorra	Andorra la Vella	468.0	84,000	EU
+AE	ARE	784	AE	United Arab Emirates	Abu Dhabi	82,880.0	4,975,593	AS
+AF	AFG	004	AF	Afghanistan	Kabul	647,500.0	29,121,286	AS
+AG	ATG	028	AC	Antigua and Barbuda	St. John's	443.0	86,754	NA
+AI	AIA	660	AV	Anguilla	The Valley	102.0	13,254	NA
+AL	ALB	008	AL	Albania	Tirana	28,748.0	2,986,952	EU
+AM	ARM	051	AM	Armenia	Yerevan	29,800.0	2,968,000	AS
+AN	ANT	530	NT	Netherlands Antilles	Willemstad	960.0	300,000	NA
+AO	AGO	024	AO	Angola	Luanda	1,246,700.0	13,068,161	AF
+AQ	ATA	010	AY	Antarctica		14,000,000.0	0	AN
+AR	ARG	032	AR	Argentina	Buenos Aires	2,766,890.0	41,343,201	SA
+AS	ASM	016	AQ	American Samoa	Pago Pago	199.0	57,881	OC
+AT	AUT	040	AU	Austria	Vienna	83,858.0	8,205,000	EU
+AU	AUS	036	AS	Australia	Canberra	7,686,850.0	21,515,754	OC
+AW	ABW	533	AA	Aruba	Oranjestad	193.0	71,566	NA
+AX	ALA	248		Åland	Mariehamn	1,580.0	26,711	EU
+AZ	AZE	031	AJ	Azerbaijan	Baku	86,600.0	8,303,512	AS
+BA	BIH	070	BK	Bosnia and Herzegovina	Sarajevo	51,129.0	4,590,000	EU
+BB	BRB	052	BB	Barbados	Bridgetown	431.0	285,653	NA
+BD	BGD	050	BG	Bangladesh	Dhaka	144,000.0	156,118,464	AS
+BE	BEL	056	BE	Belgium	Brussels	30,510.0	10,403,000	EU
+BF	BFA	854	UV	Burkina Faso	Ouagadougou	274,200.0	16,241,811	AF
+BG	BGR	100	BU	Bulgaria	Sofia	110,910.0	7,148,785	EU
+BH	BHR	048	BA	Bahrain	Manama	665.0	738,004	AS
+BI	BDI	108	BY	Burundi	Bujumbura	27,830.0	9,863,117	AF
+BJ	BEN	204	BN	Benin	Porto-Novo	112,620.0	9,056,010	AF
+BL	BLM	652	TB	Saint Barthélemy	Gustavia	21.0	8,450	NA
+BM	BMU	060	BD	Bermuda	Hamilton	53.0	65,365	NA
+BN	BRN	096	BX	Brunei	Bandar Seri Begawan	5,770.0	395,027	AS
+BO	BOL	068	BL	Bolivia	Sucre	1,098,580.0	9,947,418	SA
+BQ	BES	535		Bonaire		328.0	18,012	NA
+BR	BRA	076	BR	Brazil	Brasilia	8,511,965.0	201,103,330	SA
+BS	BHS	044	BF	Bahamas	Nassau	13,940.0	301,790	NA
+BT	BTN	064	BT	Bhutan	Thimphu	47,000.0	699,847	AS
+BV	BVT	074	BV	Bouvet Island		49.0	0	AN
+BW	BWA	072	BC	Botswana	Gaborone	600,370.0	2,029,307	AF
+BY	BLR	112	BO	Belarus	Minsk	207,600.0	9,685,000	EU
+BZ	BLZ	084	BH	Belize	Belmopan	22,966.0	314,522	NA
+CA	CAN	124	CA	Canada	Ottawa	9,984,670.0	33,679,000	NA
+CC	CCK	166	CK	Cocos [Keeling] Islands	West Island	14.0	628	AS
+CD	COD	180	CG	Democratic Republic of the Congo	Kinshasa	2,345,410.0	70,916,439	AF
+CF	CAF	140	CT	Central African Republic	Bangui	622,984.0	4,844,927	AF
+CG	COG	178	CF	Republic of the Congo	Brazzaville	342,000.0	3,039,126	AF
+CH	CHE	756	SZ	Switzerland	Bern	41,290.0	7,581,000	EU
+CI	CIV	384	IV	Ivory Coast	Yamoussoukro	322,460.0	21,058,798	AF
+CK	COK	184	CW	Cook Islands	Avarua	240.0	21,388	OC
+CL	CHL	152	CI	Chile	Santiago	756,950.0	16,746,491	SA
+CM	CMR	120	CM	Cameroon	Yaounde	475,440.0	19,294,149	AF
+CN	CHN	156	CH	China	Beijing	9,596,960.0	1,330,044,000	AS
+CO	COL	170	CO	Colombia	Bogota	1,138,910.0	47,790,000	SA
+CR	CRI	188	CS	Costa Rica	San Jose	51,100.0	4,516,220	NA
+CS	SCG	891	YI	Serbia and Montenegro	Belgrade	102,350.0	10,829,175	EU
+CU	CUB	192	CU	Cuba	Havana	110,860.0	11,423,000	NA
+CV	CPV	132	CV	Cape Verde	Praia	4,033.0	508,659	AF
+CW	CUW	531	UC	Curacao	Willemstad	444.0	141,766	NA
+CX	CXR	162	KT	Christmas Island	Flying Fish Cove	135.0	1,500	OC
+CY	CYP	196	CY	Cyprus	Nicosia	9,250.0	1,102,677	EU
+CZ	CZE	203	EZ	Czechia	Prague	78,866.0	10,476,000	EU
+DE	DEU	276	GM	Germany	Berlin	357,021.0	81,802,257	EU
+DJ	DJI	262	DJ	Djibouti	Djibouti	23,000.0	740,528	AF
+DK	DNK	208	DA	Denmark	Copenhagen	43,094.0	5,484,000	EU
+DM	DMA	212	DO	Dominica	Roseau	754.0	72,813	NA
+DO	DOM	214	DR	Dominican Republic	Santo Domingo	48,730.0	9,823,821	NA
+DZ	DZA	012	AG	Algeria	Algiers	2,381,740.0	34,586,184	AF
+EC	ECU	218	EC	Ecuador	Quito	283,560.0	14,790,608	SA
+EE	EST	233	EN	Estonia	Tallinn	45,226.0	1,291,170	EU
+EG	EGY	818	EG	Egypt	Cairo	1,001,450.0	80,471,869	AF
+EH	ESH	732	WI	Western Sahara	El-Aaiun	266,000.0	273,008	AF
+ER	ERI	232	ER	Eritrea	Asmara	121,320.0	5,792,984	AF
+ES	ESP	724	SP	Spain	Madrid	504,782.0	46,505,963	EU
+ET	ETH	231	ET	Ethiopia	Addis Ababa	1,127,127.0	88,013,491	AF
+FI	FIN	246	FI	Finland	Helsinki	337,030.0	5,244,000	EU
+FJ	FJI	242	FJ	Fiji	Suva	18,270.0	875,983	OC
+FK	FLK	238	FK	Falkland Islands	Stanley	12,173.0	2,638	SA
+FM	FSM	583	FM	Micronesia	Palikir	702.0	107,708	OC
+FO	FRO	234	FO	Faroe Islands	Torshavn	1,399.0	48,228	EU
+FR	FRA	250	FR	France	Paris	547,030.0	64,768,389	EU
+GA	GAB	266	GB	Gabon	Libreville	267,667.0	1,545,255	AF
+GB	GBR	826	UK	United Kingdom	London	244,820.0	62,348,447	EU
+GD	GRD	308	GJ	Grenada	St. George's	344.0	107,818	NA
+GE	GEO	268	GG	Georgia	Tbilisi	69,700.0	4,630,000	AS
+GF	GUF	254	FG	French Guiana	Cayenne	91,000.0	195,506	SA
+GG	GGY	831	GK	Guernsey	St Peter Port	78.0	65,228	EU
+GH	GHA	288	GH	Ghana	Accra	239,460.0	24,339,838	AF
+GI	GIB	292	GI	Gibraltar	Gibraltar	6.5	27,884	EU
+GL	GRL	304	GL	Greenland	Nuuk	2,166,086.0	56,375	NA
+GM	GMB	270	GA	Gambia	Banjul	11,300.0	1,593,256	AF
+GN	GIN	324	GV	Guinea	Conakry	245,857.0	10,324,025	AF
+GP	GLP	312	GP	Guadeloupe	Basse-Terre	1,780.0	443,000	NA
+GQ	GNQ	226	EK	Equatorial Guinea	Malabo	28,051.0	1,014,999	AF
+GR	GRC	300	GR	Greece	Athens	131,940.0	11,000,000	EU
+GS	SGS	239	SX	South Georgia and the South Sandwich Islands	Grytviken	3,903.0	30	AN
+GT	GTM	320	GT	Guatemala	Guatemala City	108,890.0	13,550,440	NA
+GU	GUM	316	GQ	Guam	Hagatna	549.0	159,358	OC
+GW	GNB	624	PU	Guinea-Bissau	Bissau	36,120.0	1,565,126	AF
+GY	GUY	328	GY	Guyana	Georgetown	214,970.0	748,486	SA
+HK	HKG	344	HK	Hong Kong	Hong Kong	1,092.0	6,898,686	AS
+HM	HMD	334	HM	Heard Island and McDonald Islands		412.0	0	AN
+HN	HND	340	HO	Honduras	Tegucigalpa	112,090.0	7,989,415	NA
+HR	HRV	191	HR	Croatia	Zagreb	56,542.0	4,284,889	EU
+HT	HTI	332	HA	Haiti	Port-au-Prince	27,750.0	9,648,924	NA
+HU	HUN	348	HU	Hungary	Budapest	93,030.0	9,982,000	EU
+ID	IDN	360	ID	Indonesia	Jakarta	1,919,440.0	242,968,342	AS
+IE	IRL	372	EI	Ireland	Dublin	70,280.0	4,622,917	EU
+IL	ISR	376	IS	Israel	Jerusalem	20,770.0	7,353,985	AS
+IM	IMN	833	IM	Isle of Man	Douglas	572.0	75,049	EU
+IN	IND	356	IN	India	New Delhi	3,287,590.0	1,173,108,018	AS
+IO	IOT	086	IO	British Indian Ocean Territory	Diego Garcia	60.0	4,000	AS
+IQ	IRQ	368	IZ	Iraq	Baghdad	437,072.0	29,671,605	AS
+IR	IRN	364	IR	Iran	Tehran	1,648,000.0	76,923,300	AS
+IS	ISL	352	IC	Iceland	Reykjavik	103,000.0	308,910	EU
+IT	ITA	380	IT	Italy	Rome	301,230.0	60,340,328	EU
+JE	JEY	832	JE	Jersey	Saint Helier	116.0	90,812	EU
+JM	JAM	388	JM	Jamaica	Kingston	10,991.0	2,847,232	NA
+JO	JOR	400	JO	Jordan	Amman	92,300.0	6,407,085	AS
+JP	JPN	392	JA	Japan	Tokyo	377,835.0	127,288,000	AS
+KE	KEN	404	KE	Kenya	Nairobi	582,650.0	40,046,566	AF
+KG	KGZ	417	KG	Kyrgyzstan	Bishkek	198,500.0	5,776,500	AS
+KH	KHM	116	CB	Cambodia	Phnom Penh	181,040.0	14,453,680	AS
+KI	KIR	296	KR	Kiribati	Tarawa	811.0	92,533	OC
+KM	COM	174	CN	Comoros	Moroni	2,170.0	773,407	AF
+KN	KNA	659	SC	Saint Kitts and Nevis	Basseterre	261.0	51,134	NA
+KP	PRK	408	KN	North Korea	Pyongyang	120,540.0	22,912,177	AS
+KR	KOR	410	KS	South Korea	Seoul	98,480.0	48,422,644	AS
+KW	KWT	414	KU	Kuwait	Kuwait City	17,820.0	2,789,132	AS
+KY	CYM	136	CJ	Cayman Islands	George Town	262.0	44,270	NA
+KZ	KAZ	398	KZ	Kazakhstan	Astana	2,717,300.0	15,340,000	AS
+LA	LAO	418	LA	Laos	Vientiane	236,800.0	6,368,162	AS
+LB	LBN	422	LE	Lebanon	Beirut	10,400.0	4,125,247	AS
+LC	LCA	662	ST	Saint Lucia	Castries	616.0	160,922	NA
+LI	LIE	438	LS	Liechtenstein	Vaduz	160.0	35,000	EU
+LK	LKA	144	CE	Sri Lanka	Colombo	65,610.0	21,513,990	AS
+LR	LBR	430	LI	Liberia	Monrovia	111,370.0	3,685,076	AF
+LS	LSO	426	LT	Lesotho	Maseru	30,355.0	1,919,552	AF
+LT	LTU	440	LH	Lithuania	Vilnius	65,200.0	2,944,459	EU
+LU	LUX	442	LU	Luxembourg	Luxembourg	2,586.0	497,538	EU
+LV	LVA	428	LG	Latvia	Riga	64,589.0	2,217,969	EU
+LY	LBY	434	LY	Libya	Tripoli	1,759,540.0	6,461,454	AF
+MA	MAR	504	MO	Morocco	Rabat	446,550.0	33,848,242	AF
+MC	MCO	492	MN	Monaco	Monaco	1.9	32,965	EU
+MD	MDA	498	MD	Moldova	Chisinau	33,843.0	4,324,000	EU
+ME	MNE	499	MJ	Montenegro	Podgorica	14,026.0	666,730	EU
+MF	MAF	663	RN	Saint Martin	Marigot	53.0	35,925	NA
+MG	MDG	450	MA	Madagascar	Antananarivo	587,040.0	21,281,844	AF
+MH	MHL	584	RM	Marshall Islands	Majuro	181.3	65,859	OC
+MK	MKD	807	MK	Macedonia	Skopje	25,333.0	2,062,294	EU
+ML	MLI	466	ML	Mali	Bamako	1,240,000.0	13,796,354	AF
+MM	MMR	104	BM	Myanmar [Burma]	Nay Pyi Taw	678,500.0	53,414,374	AS
+MN	MNG	496	MG	Mongolia	Ulan Bator	1,565,000.0	3,086,918	AS
+MO	MAC	446	MC	Macao	Macao	254.0	449,198	AS
+MP	MNP	580	CQ	Northern Mariana Islands	Saipan	477.0	53,883	OC
+MQ	MTQ	474	MB	Martinique	Fort-de-France	1,100.0	432,900	NA
+MR	MRT	478	MR	Mauritania	Nouakchott	1,030,700.0	3,205,060	AF
+MS	MSR	500	MH	Montserrat	Plymouth	102.0	9,341	NA
+MT	MLT	470	MT	Malta	Valletta	316.0	403,000	EU
+MU	MUS	480	MP	Mauritius	Port Louis	2,040.0	1,294,104	AF
+MV	MDV	462	MV	Maldives	Male	300.0	395,650	AS
+MW	MWI	454	MI	Malawi	Lilongwe	118,480.0	15,447,500	AF
+MX	MEX	484	MX	Mexico	Mexico City	1,972,550.0	112,468,855	NA
+MY	MYS	458	MY	Malaysia	Kuala Lumpur	329,750.0	28,274,729	AS
+MZ	MOZ	508	MZ	Mozambique	Maputo	801,590.0	22,061,451	AF
+NA	NAM	516	WA	Namibia	Windhoek	825,418.0	2,128,471	AF
+NC	NCL	540	NC	New Caledonia	Noumea	19,060.0	216,494	OC
+NE	NER	562	NG	Niger	Niamey	1,267,000.0	15,878,271	AF
+NF	NFK	574	NF	Norfolk Island	Kingston	34.6	1,828	OC
+NG	NGA	566	NI	Nigeria	Abuja	923,768.0	154,000,000	AF
+NI	NIC	558	NU	Nicaragua	Managua	129,494.0	5,995,928	NA
+NL	NLD	528	NL	Netherlands	Amsterdam	41,526.0	16,645,000	EU
+NO	NOR	578	NO	Norway	Oslo	324,220.0	5,009,150	EU
+NP	NPL	524	NP	Nepal	Kathmandu	140,800.0	28,951,852	AS
+NR	NRU	520	NR	Nauru	Yaren	21.0	10,065	OC
+NU	NIU	570	NE	Niue	Alofi	260.0	2,166	OC
+NZ	NZL	554	NZ	New Zealand	Wellington	268,680.0	4,252,277	OC
+OM	OMN	512	MU	Oman	Muscat	212,460.0	2,967,717	AS
+PA	PAN	591	PM	Panama	Panama City	78,200.0	3,410,676	NA
+PE	PER	604	PE	Peru	Lima	1,285,220.0	29,907,003	SA
+PF	PYF	258	FP	French Polynesia	Papeete	4,167.0	270,485	OC
+PG	PNG	598	PP	Papua New Guinea	Port Moresby	462,840.0	6,064,515	OC
+PH	PHL	608	RP	Philippines	Manila	300,000.0	99,900,177	AS
+PK	PAK	586	PK	Pakistan	Islamabad	803,940.0	184,404,791	AS
+PL	POL	616	PL	Poland	Warsaw	312,685.0	38,500,000	EU
+PM	SPM	666	SB	Saint Pierre and Miquelon	Saint-Pierre	242.0	7,012	NA
+PN	PCN	612	PC	Pitcairn Islands	Adamstown	47.0	46	OC
+PR	PRI	630	RQ	Puerto Rico	San Juan	9,104.0	3,916,632	NA
+PS	PSE	275	WE	Palestine	East Jerusalem	5,970.0	3,800,000	AS
+PT	PRT	620	PO	Portugal	Lisbon	92,391.0	10,676,000	EU
+PW	PLW	585	PS	Palau	Melekeok	458.0	19,907	OC
+PY	PRY	600	PA	Paraguay	Asuncion	406,750.0	6,375,830	SA
+QA	QAT	634	QA	Qatar	Doha	11,437.0	840,926	AS
+RE	REU	638	RE	Réunion	Saint-Denis	2,517.0	776,948	AF
+RO	ROU	642	RO	Romania	Bucharest	237,500.0	21,959,278	EU
+RS	SRB	688	RI	Serbia	Belgrade	88,361.0	7,344,847	EU
+RU	RUS	643	RS	Russia	Moscow	17,100,000.0	140,702,000	EU
+RW	RWA	646	RW	Rwanda	Kigali	26,338.0	11,055,976	AF
+SA	SAU	682	SA	Saudi Arabia	Riyadh	1,960,582.0	25,731,776	AS
+SB	SLB	090	BP	Solomon Islands	Honiara	28,450.0	559,198	OC
+SC	SYC	690	SE	Seychelles	Victoria	455.0	88,340	AF
+SD	SDN	729	SU	Sudan	Khartoum	1,861,484.0	35,000,000	AF
+SE	SWE	752	SW	Sweden	Stockholm	449,964.0	9,828,655	EU
+SG	SGP	702	SN	Singapore	Singapore	692.7	4,701,069	AS
+SH	SHN	654	SH	Saint Helena	Jamestown	410.0	7,460	AF
+SI	SVN	705	SI	Slovenia	Ljubljana	20,273.0	2,007,000	EU
+SJ	SJM	744	SV	Svalbard and Jan Mayen	Longyearbyen	62,049.0	2,550	EU
+SK	SVK	703	LO	Slovakia	Bratislava	48,845.0	5,455,000	EU
+SL	SLE	694	SL	Sierra Leone	Freetown	71,740.0	5,245,695	AF
+SM	SMR	674	SM	San Marino	San Marino	61.2	31,477	EU
+SN	SEN	686	SG	Senegal	Dakar	196,190.0	12,323,252	AF
+SO	SOM	706	SO	Somalia	Mogadishu	637,657.0	10,112,453	AF
+SR	SUR	740	NS	Suriname	Paramaribo	163,270.0	492,829	SA
+SS	SSD	728	OD	South Sudan	Juba	644,329.0	8,260,490	AF
+ST	STP	678	TP	São Tomé and Príncipe	Sao Tome	1,001.0	175,808	AF
+SV	SLV	222	ES	El Salvador	San Salvador	21,040.0	6,052,064	NA
+SX	SXM	534	NN	Sint Maarten	Philipsburg	21.0	37,429	NA
+SY	SYR	760	SY	Syria	Damascus	185,180.0	22,198,110	AS
+SZ	SWZ	748	WZ	Swaziland	Mbabane	17,363.0	1,354,051	AF
+TC	TCA	796	TK	Turks and Caicos Islands	Cockburn Town	430.0	20,556	NA
+TD	TCD	148	CD	Chad	N'Djamena	1,284,000.0	10,543,464	AF
+TF	ATF	260	FS	French Southern Territories	Port-aux-Francais	7,829.0	140	AN
+TG	TGO	768	TO	Togo	Lome	56,785.0	6,587,239	AF
+TH	THA	764	TH	Thailand	Bangkok	514,000.0	67,089,500	AS
+TJ	TJK	762	TI	Tajikistan	Dushanbe	143,100.0	7,487,489	AS
+TK	TKL	772	TL	Tokelau		10.0	1,466	OC
+TL	TLS	626	TT	East Timor	Dili	15,007.0	1,154,625	OC
+TM	TKM	795	TX	Turkmenistan	Ashgabat	488,100.0	4,940,916	AS
+TN	TUN	788	TS	Tunisia	Tunis	163,610.0	10,589,025	AF
+TO	TON	776	TN	Tonga	Nuku'alofa	748.0	122,580	OC
+TR	TUR	792	TU	Turkey	Ankara	780,580.0	77,804,122	AS
+TT	TTO	780	TD	Trinidad and Tobago	Port of Spain	5,128.0	1,328,019	NA
+TV	TUV	798	TV	Tuvalu	Funafuti	26.0	10,472	OC
+TW	TWN	158	TW	Taiwan	Taipei	35,980.0	22,894,384	AS
+TZ	TZA	834	TZ	Tanzania	Dodoma	945,087.0	41,892,895	AF
+UA	UKR	804	UP	Ukraine	Kiev	603,700.0	45,415,596	EU
+UG	UGA	800	UG	Uganda	Kampala	236,040.0	33,398,682	AF
+UM	UMI	581		U.S. Minor Outlying Islands		0.0	0	OC
+US	USA	840	US	United States	Washington	9,629,091.0	310,232,863	NA
+UY	URY	858	UY	Uruguay	Montevideo	176,220.0	3,477,000	SA
+UZ	UZB	860	UZ	Uzbekistan	Tashkent	447,400.0	27,865,738	AS
+VA	VAT	336	VT	Vatican City	Vatican City	0.4	921	EU
+VC	VCT	670	VC	Saint Vincent and the Grenadines	Kingstown	389.0	104,217	NA
+VE	VEN	862	VE	Venezuela	Caracas	912,050.0	27,223,228	SA
+VG	VGB	092	VI	British Virgin Islands	Road Town	153.0	21,730	NA
+VI	VIR	850	VQ	U.S. Virgin Islands	Charlotte Amalie	352.0	108,708	NA
+VN	VNM	704	VM	Vietnam	Hanoi	329,560.0	89,571,130	AS
+VU	VUT	548	NH	Vanuatu	Port Vila	12,200.0	221,552	OC
+WF	WLF	876	WF	Wallis and Futuna	Mata Utu	274.0	16,025	OC
+WS	WSM	882	WS	Samoa	Apia	2,944.0	192,001	OC
+XK	XKX	0	KV	Kosovo	Pristina	10,908.0	1,800,000	EU
+YE	YEM	887	YM	Yemen	Sanaa	527,970.0	23,495,361	AS
+YT	MYT	175	MF	Mayotte	Mamoudzou	374.0	159,042	AF
+ZA	ZAF	710	SF	South Africa	Pretoria	1,219,912.0	49,000,000	AF
+ZM	ZMB	894	ZA	Zambia	Lusaka	752,614.0	13,460,305	AF
+ZW	ZWE	716	ZI	Zimbabwe	Harare	390,580.0	13,061,000	AF

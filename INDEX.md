@@ -73,7 +73,7 @@ remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
 shell-builtins: Reserved words and such built-in to well-established shell software
-smtp-headers: Header fields transferred over e-mail protocols like SMTP
+arpa-headers: Header fields transmitted over RFC2822 style protocols like SMTP
 smtp-messages: Messages (i.e. signatures, auto-replies, etc.) sent by SMTP servers
 soap-messages: SOAP (Simple Object Access Protocol) messages
 social-data: Data taken from popular social media web sites
