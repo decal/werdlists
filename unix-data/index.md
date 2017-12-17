@@ -2,6 +2,7 @@ errno-all-locales: the errno names and descriptions for all system locales
 errno-description-list: errors in preprocessor constant, numeric and string form
 free-bsd-groups: common GID names found in `/etc/group` on FreeBSD
 free-bsd-users: common UID names found in `/etc/passwd` on FreeBSD
+freebsd-sysctl-vars: FreeBSD `sysctl(8)` variables with types and changeability
 linux-error-strings: strings returned by C99 function strerror on Linux
 locale-charmap-list: a list of all charmaps available with system locale info
 locale-info-list: a list of all system locale identifier symbols

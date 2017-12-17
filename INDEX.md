@@ -3,6 +3,7 @@ argv-options: command line arguments typically expected by `getopt_long()`
 ascii-art: "Low bit" a.k.a. 7-bit ASCII art items without control characters
 auth-warnings: Legal warnings shown by networked computer systems before login
 biology-info: Reference information useful in the study of biological issues
+browser-data: Data related to GUI browser software like Chrome, FireFox, etc.
 cert-data: Information commonly utilized by cryptographic certificate materials
 char-encodes: Various character encodings provided by different locales/charsets
 chat-commands: Both standard and custom Internet Relay Chat commands
