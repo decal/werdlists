@@ -84,7 +84,7 @@ system-admin: System administration and BOFH related materials
 system-calls: System calls info for functions that execute in ring0
 telco-data: Data associated with telecommunications companies and such..
 top-secret: Files and/or data related to documents that were/are classified
-unicode-art: Unicode art which is essentially ASCII art, but with the high-bit 
+unicode-data: Info on Unicode character usage and representation
 unix-data: Data associated with various flavors of the UNIX OS and its clones
 unix-paths: File path names found in various UNIX file systems
 uri-schemes: Lists containing references for URI schemes (part before colon)
