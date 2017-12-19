@@ -17,6 +17,7 @@ dist/bundle.js
 dist/index.html
 Gruntfile.coffee
 Gruntfile.js
+gulpfile.js
 hash-change
 hash-change/index.js
 images
