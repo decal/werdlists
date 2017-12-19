@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+#
+# Using file containing paths as input, output words (file and directory names.)
+#
+# Written By:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Modified: Mon Dec 18 22:55:17 PST 2017
+# Tested On:     Ubuntu 16.04.3 LTS
+#
+
+if [ ! "$1" ]
+  then #
+  echo "usage: $0 PATHFILE"
+  echo '  PATHFILE  location of file containing list of path names to convert to words'
+
+  exit 64
+fi
+
+(for s in `cat -- "$1"`
+  do echo $s | tr '/' '\n'
+done) | sed -r 's![?]+.*$!!g' | sed -r 's![#].*$!!g' | sort -u
+
+exit 0

@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+#
+# Using a file containing paths as input, output directories..
+#
+# Written By:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Modified: Mon Dec 18 22:52:07 PST 2017
+# Tested On:     Ubuntu 16.04.3 LTS
+#
+
+if [ ! "$1" ]
+  then #
+  echo "usage: $0 PATHFILE"
+  echo '  PATHFILE  location of file containing list of path names to parse directories from'
+
+  exit 64
+fi
+
+(for s in `cat -- "$1"`
+  do dirname $s
+done) | sed -r 's![?]+.*$!!g' | sed -r 's![#].*$!!g' | sort -u
+
+exit 0

@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#
+# Using a file containing paths as input, output file names..
+#
+# Written By:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Modified: Mon Dec 18 22:53:59 PST 2017
+# Tested On:     Ubuntu 16.04.3 LTS
+#
+
+if [ ! "$1" ]
+  then #
+  echo "usage: $0 PATHFILE"
+  echo '  PATHFILE  location of file containing path names to convert to file names'
+
+  exit 64
+fi
+
+cat -- "$1" | sed -r 's!^.*\/([^/]+)$!\1!g' | egrep '[.]' | sort -u | sed -r 's!^[?]+!!g'
+
+exit 0
