@@ -1,5 +1,6 @@
 User-Cache-Control
 UXTIME
+X-Accepted-OAuth-Scopes
 X-ATG-Version
 User-Pragma
 Dispatcher
@@ -53,6 +54,7 @@ X-Frame-Options
 X-Generated-By
 X-Generator
 X-GENIUS-HOST
+X-GitHub-OTP
 X-GitHub-Request-Id
 X-HEIST
 X-Hello-Human
@@ -63,6 +65,7 @@ X-Mode
 X-MSEdge-Ref
 X-MSNSERVER
 X-Node
+X-OAuth-Scopes
 X-OC-Mtime
 X-ORACLE-DMS-ECID
 X-ORACLE-DMS-RID
@@ -70,6 +73,7 @@ X-OWA-Diagnostics-Info
 X-Permitted-Cross-Domain-Policies
 X-Pingback
 X-Pinterest-RID
+X-Poll-Interval
 X-Powered-By
 x-prism-latency
 x-prism-origin-latency
@@ -85,6 +89,7 @@ X-Renderer
 X-Request-ID
 X-Robots-Tag
 X-Runtime
+X-Runtime-rack
 X-Served-By
 X-Server
 x-status
