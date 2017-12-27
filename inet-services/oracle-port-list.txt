@@ -1,0 +1,117 @@
+Component	Default Port	Port Number Range	Name in staticports.ini
+Oracle Process Management and Notification (OPMN)	
+
+
+Oracle Notification Server Request Port	6003	6003 - 6099	
+Oracle Notification Server Request port
+Oracle Notification Server Local Port	6100	6100 - 6199	
+Oracle Notification Server Local port
+Oracle Notification Server Remote Port	6200	6200 - 6299	
+Oracle Notification Server Remote port
+Oracle Application Server Containers for J2EE (OC4J)	
+
+
+OC4J AJP	3301	3301 - 3400	Not settable through staticports.ini
+OC4J RMI	3201	3201 - 3300	Not settable through staticports.ini
+JMS	3701	3701 - 3800	Not settable through staticports.ini
+IIOP	3401	3401 - 3500	Not settable through staticports.ini
+IIOPS1	3501	3501 - 3600	Not settable through staticports.ini
+IIOPS2	3601	3601 - 3700	Not settable through staticports.ini
+Oracle HTTP Server 
+
+
+
+Oracle HTTP Server Listener (OracleAS Web Cache not configured)	Middle tier: 80
+Infrastructure: 7777
+
+7777 - 7877	
+Oracle HTTP Server Listen port
+Oracle HTTP Server Listener (SSL)	Middle tier: 443
+Infrastructure: 4443
+
+4443 - 4543	
+Oracle HTTP Server Listen (SSL) port
+Oracle HTTP Server Listener (non-SSL, OracleAS Web Cache configured)	Middle tier: 80
+Infrastructure: 7777
+
+7777 - 7877	
+Oracle HTTP Server port
+Oracle HTTP Server Listener (SSL, OracleAS Web Cache configured)	Middle tier: 443
+Infrastructure: 4443
+
+4443 - 4543	
+Oracle HTTP Server SSL port
+Java Object Cache	7000	7000 - 7099	
+Java Object Cache port
+DCM Java Object Cache	7100	7100 - 7199	
+DCM Java Object Cache port
+SOAP server	9998	9998 - 9999	Not settable through staticports.ini
+Port Tunneling	7501	7501 - 7599	Not settable through staticports.ini
+Oracle HTTP Server Diagnostic port	7200	7200 - 7299	
+Oracle HTTP Server Diagnostic port
+OracleAS Portal 
+
+
+
+OracleAS Portal 
+--	--	Uses the same port as Oracle HTTP Server.
+OracleAS Single Sign-On 
+
+
+
+OracleAS Single Sign-On 
+--	--	Uses the same port as Oracle HTTP Server.
+OracleAS Web Cache 
+
+
+
+OracleAS Web Cache - HTTP Listener	80	7777 - 7877	
+Web Cache HTTP Listen port
+OracleAS Web Cache - HTTP Listener (SSL)	443	4443 - 4543	
+Web Cache HTTP Listen (SSL) port
+OracleAS Web Cache Administration	4000	4000 - 4300	
+Web Cache Administration port
+OracleAS Web Cache Invalidation	4001	4000 - 4300	
+Web Cache Invalidation port
+OracleAS Web Cache Statistics	4002	4000 - 4300	
+Web Cache Statistics port
+OracleAS Wireless 
+
+
+
+OracleAS Wireless 
+--	--	Uses the same port as Oracle HTTP Server.
+Oracle Enterprise Manager Application Server Control 
+
+
+
+Application Server Control 
+1810	1810 - 1829	
+Application Server Control port
+Oracle Management Agent	1830	1830 - 1849	Not settable through staticports.ini
+Application Server Control - RMI	1850	1850 - 1869	
+Application Server Control RMI port
+Application Server Control - SSL	1810	1810 - 1829	This port number is assigned after installation, when you configure Application Server Control for SSL. See the Oracle Application Server Administrator's Guide for details.
+Enterprise Manager Console HTTP port (orcl)	5500	
+Not settable through staticports.ini
+Enterprise Manager Agent port (orcl)	1831	
+Not settable through staticports.ini
+Log Loader	44000	44000 - 44099	
+Log Loader port
+Oracle Internet Directory 
+
+
+
+Oracle Internet Directory 
+389	3060 - 3129	
+Oracle Internet Directory port
+Oracle Internet Directory (SSL)	636	3130 - 3199	
+Oracle Internet Directory (SSL) port
+OracleAS Certificate Authority (OCA) 
+
+
+
+Server Authentication Virtual Host	4400	4400 - 4419	
+Oracle Certificate Authority SSL Server Authentication port
+Mutual Authentication Virtual Host	4401	4400 - 4419	
+Oracle Certificate Authority SSL Mutual Authentication port

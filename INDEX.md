@@ -65,7 +65,6 @@ passes-sites: Password lists that were publicized after major site compromises
 perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
 php-data: Files containing information about the PHP programming language
 polyglot-files: Files having contents of multiple MIME types like GIFAR's
-port-nums: Positive integers (whole numbers) that represent IP port numbers
 postal-data: Postal service info for the United States and elsewhere
 python-data: Data used by the Python scripting language interpreter at runtime
 radio-data: Things commonly used in radio frequency transmissions

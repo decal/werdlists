@@ -19,6 +19,9 @@ X-Application
 X-Application-Version
 X-App-Name
 X-App-Server
+X-Artifactory-Filename
+X-Artifactory-Id
+X-Artifactory-Node-Id
 X-AsmVersion
 X-AspNetMvc-Version
 X-Aspnet-Version
@@ -34,6 +37,8 @@ X-Cache-Info
 X-Cache-Time
 X-CalculatedFETarget
 X-Check-Cacheable
+X-Checksum-Md5
+X-Checksum-Sha1
 X-Clacks-Overhead
 X-ClientErrorCode
 X-Content-Duration
