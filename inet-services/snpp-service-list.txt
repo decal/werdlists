@@ -1,0 +1,192 @@
+AAA	wirelessgate.snpp.net	
+444
+Active911	snpp.active911.com	
+444
+230
+Advanced Paging & Wireless	gateway.adv-supr.com	
+444
+230
+Advantage Page of Texas	p.advantagepage.com	
+444
+Airtouch Paging	snpp.airtouch.com	
+444
+240
+Airtouch Paging	snpp.myairmail.com	
+444
+240
+AllCom	snpp.pageallcom.com	
+444
+245
+Alltel	snpp.alltel.net	
+444
+Alphanow	alphanow.net	
+444
+Ameritech (now SBC paging)	snpp.americanmessaging.net	
+444
+American Messaging (formerly SBC & Ameritech)	snpp.americanmessaging.net	
+444
+AT&T Wireless	snpp.att.net	
+444
+456
+AT&T Wireless	snpp.attws.net	
+444
+300
+Bailey's Paging	pager.baileyspaging.com	
+444
+120
+Baystar	209.44.230.3	
+444
+Bell Mobility (US)	pmcl.net	
+444
+Cellcom (Midwest Region)	mail.cellcomsms.com	
+444
+160
+Cingular	snpp.cingular.com	
+444
+456
+Communications Specialist	tnpp.comspeco.net	
+444
+240
+Contact Paging
+(aka SelectPath)	page.contactwireless.com	
+444
+Cook Paging	snpp.cookpaging.com	
+444
+230
+Critical Alert / UCOM	snpp.ucom.com	
+444
+Critical Alert / Teletouch	snpp.teletouchpaging.com	
+444
+230
+CVC Paging	snpp.cvcpaging.com	 	 
+Digi-Page / Page Kansas	page.pageks.com	
+444
+Extel Mobile	extel-gsm.com	
+444
+Gabriel Wireless	epage.gabrielwireless.com	
+444
+240
+GCS Paging	www.webpager.us	
+444
+200
+GrayLink	epage.graylink.com	
+444
+Highland Paging, Inc.	alphapage.cc	
+444
+250
+Illinois Signal Communications	mail2.illinoissignal.net	
+444
+Indiana Paging Network	ipnpaging.com	
+444
+Infopage Systems	snpp.infopagesystems.com	
+444
+IWARN	www.iwarn.com	
+444
+320
+Lauttamus Communications	snpp.lauttamus.com	
+444
+250
+Manitoba Telephone Systems	text.mtsmobility.com	
+444
+Metrocall	snpp.metrocall.com	
+444
+200
+Mobilcom (PA)	snpp.mobilcom.net	
+444
+240
+Morris Wireless	snpp.morriswireless.net	
+444
+240
+MPW Paging	65.116.154.135	
+444
+120
+Muskogee Beeper	216.61.239.140
+(uses 10 digit pin)	
+444
+Network Services (TSR)	208.19.108.66	
+444
+Nextel	pecos.nextel.com	
+444
+Nextel 2 Way	snpp.nextel.com	
+444
+Northeast Paging	epage.graylink.com	
+444
+230
+Northeast Paging / UCOM	snpp.ucom.com	
+444
+Omni-com Paging	mail.pagerpeople.com	
+444
+PageMart Canada	pmcl.net	
+444
+PageNet Canada	snpp.pagenet.ca	
+444
+PageOne NorthWest	198.107.29.62	
+444
+PagePlus / Mobilecomm OH	snpp.mobilcomm.tzo.com	
+444
+*7 digit pin
+Porta-Phone Paging	epage.porta-phone.com	
+444
+150
+Priority Communications	mail2.sendalpha.com	
+ProPage	page.propage.net	
+444
+240
+RCS Communications	rcsmail01.rcsepager.com	
+444
+RCS Communications	63.78.50.141	
+444
+Rogers Canada	snpp.rogers.com	
+444
+Rogers US	snpp.rogerstwoway.com	
+444
+Satellink	nois1.satellink.net	
+444
+SBC 
+(see also American Messaging)	snpp.sbc.com	
+444
+SBC Paging (formerly Ameritech - see also American Messaging)	snpp.acswireless.com	
+444
+240
+Skytel	snpp.skytel.com	
+7777
+7778
+(secure)
+240
+Skyway	snpp.skymessage.net	
+44
+Southern Linc	snpp.southernlinc.com	
+444
+Sprint	snpp.messaging.sprint.com	
+444
+ST Paging	page.stpaging.com	
+444
+500
+Telebeep	nebnet.telebeep.com	
+444
+Tele-Trak	pager.tele-trak.com	
+444
+TeleTouch	snpp.teletouchpaging.com	
+444
+230
+TSCNet	kes.tscnet.com	
+444
+TSR Wireless /(Network Serv)	12.29.171.249	
+444
+UCOM	snpp.ucom.com	
+444
+UCP	alphanow.net	
+444
+120
+Verizon Pagers	snpp.myairmail.com	
+444
+Verizon EMAG	snpp.emag.vzw.com	
+444
+Requires registration. See:
+ https://ess.emag.vzw.com/emag/login
+
+Weblink Wireless (PageMart)	pagemart.net	
+444
+Weblink Wireless 2Way
+(PageMart)	airmessage.net	
+444
