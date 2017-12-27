@@ -49,11 +49,13 @@ x-dw-request-base-id
 X-dynaTrace-JS-Agent
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
+X-Fastly-Request-ID
 X-FEServer
 X-Frame-Options
 X-Generated-By
 X-Generator
 X-GENIUS-HOST
+X-Geo-Block-List
 X-GitHub-OTP
 X-GitHub-Request-Id
 X-HEIST

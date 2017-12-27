@@ -5,6 +5,7 @@ av-update-hosts: anti-virus signature update host names
 bigbad-hosts-list: only `subdom-brute-list.txt` is larger than this file
 common-intranet-hosts: host names commonly found on private intranets
 dns-dictionary-hosts: `hosts.txt` taken from *DNSDictionary* tool
+dnsinfo-gathertool-list: [namelist.txt](https://raw.githubusercontent.com/crimefire/dns-information-gathering-tool/master/DNS%20Tool%20source%202/namelist.txt "namelist.txt")
 dnssearch-hosts-list: hosts list packaged with the *dnssearch* utility
 dod-hosts-table: Old School DoD Internet Host Table (not in `/etc/hosts` format)
 expanded-intranet-hosts: additional hosts generated from `common-intranet-hosts`
