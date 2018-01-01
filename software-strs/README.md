@@ -15,6 +15,7 @@
 | [curl-option-constants](curl-option-constants.txt) | [curl](https://curl.haxx.se) option identifier constants as parsed by `scripts/init/manpage-constants-libcurl`  
 | [dotnet-api-reference](dotnet-api-reference.txt) | API reference for the Microsoft .NET Framework Core containing descriptions of namespace identifiers  
 | [freebsd-dns-tools](freebsd-dns-tools.txt) |  a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns> 
+| [freebsd-units-library](freebsd-units-libray.txt) |  various physical science unit names/conversions packaged with FreeBSD
 | [freeos-opersys-list](freeos-opersys-list.txt) |  comparison of free operating systems by freeos.com <http://www.freeos.com/Compare> 
 | [freeos-opersys-downloads](freeos-opersys-downloads.md) |  links to free operating system downloads by freeos.com <http://www.freeos.com/Downloads> 
 | [git-glossary-manpage](git-glossary-manpage.md) |  A GIT glossary; taken from the `gitglossary(7)` manual page contents 
