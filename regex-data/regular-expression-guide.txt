@@ -1,0 +1,477 @@
+==============================================================================
+			     Regex Guide
+==============================================================================
+
+ This is a small summary of most of the regex operators and how to use them.
+
+
+        \        Quote the next metacharacter
+        ^        Match the beginning of the line
+        .        Match any character (except newline)
+        $        Match the end of the line
+        |        Alternation (or)
+	[abc]    Match only a, b or c
+	[^abc]   Match anything except a, b and c
+ 
+        *        Match 0 or more times
+        +        Match 1 or more times
+        ?        Match 1 or 0 times
+        {n}      Match exactly n times
+        {n,}     Match at least n times
+        {n,m}    Match at least n but not more than m times
+ 
+        \w       Match a "word" character (alphanumeric plus "_")
+        \W       Match a non-word character
+        \s       Match a whitespace character
+        \S       Match a non-whitespace character
+
+
+ You compose regular expressions from operators. Most operators have more than
+one representation as characters.
+
+====================
+1. Operator Overview
+====================
+
+  Match-self Operator                 Ordinary characters.
+  Match-any-character Operator        .
+  Concatenation Operator              Juxtaposition.
+  Repetition Operators                *  +  ? {}
+  Alternation Operator                |
+  List Operators                      [...]  [^...]
+  Grouping Operators                  (...)
+  Back-reference Operator             \digit
+  Anchoring Operators                 ^  $
+
+
+The Match-self Operator (ORDINARY CHARACTER)
+============================================
+
+  This operator matches the character itself.  All ordinary characters
+represent this operator. For example, `f' is always an ordinary character, so
+the regular expression `f' matches only the string `f'.  In particular, it
+does *not* match the string `ff'.
+
+The Match-any-character Operator (`.')
+======================================
+
+  This operator matches any single printing or nonprinting character
+except it won't match a newline.
+
+  The `.' (period) character represents this operator.  For example,
+`a.b' matches any three-character string beginning with `a' and ending
+with `b'.
+
+The Concatenation Operator
+==========================
+
+  This operator concatenates two regular expressions A and B.  No character
+represents this operator; you simply put B after A.  The result is a regular
+expression that will match a string if A matches its first part and B matches
+the rest.  For example, `xy' (two match-self operators) matches `xy'.
+
+
+Repetition Operators
+====================
+
+  Repetition operators repeat the preceding regular expression a specified
+number of times.
+
+  Match-zero-or-more  *
+  Match-one-or-more   +
+  Match-zero-or-one   ?
+  Interval            {}
+
+
+	The Match-zero-or-more Operator (`*')
+	-------------------------------------
+
+	This operator repeats the smallest possible preceding regular
+	expression as many times as necessary (including zero) to match the
+	pattern.  `*' represents this operator.  For example, `o*' matches any
+	string made up of zero or more `o's.  Since this operator operates on
+	the smallest preceding regular expression, `fo*' has a repeating `o',
+	not a repeating `fo'.  So, `fo*' matches `f', `fo', `foo', and so on.
+
+	  Since the match-zero-or-more operator is a suffix operator, it may
+	be useless as such when no regular expression precedes it.  This is
+	the case when it:
+
+	   * is first in a regular expression, or
+
+	   * follows a match-beginning-of-line, open-group, or alternation
+	     operator.
+
+	  The matcher processes a match-zero-or-more operator by first
+	matching as many repetitions of the smallest preceding regular
+	expression as it can.  Then it continues to match the rest of the
+	pattern.
+
+	  If it can't match the rest of the pattern, it backtracks (as many
+	times as necessary), each time discarding one of the matches until it
+	can either match the entire pattern or be certain that it cannot get a
+	match.  For example, when matching `ca*ar' against `caaar', the
+	matcher first matches all three `a's of the string with the `a*' of
+	the regular expression.  However, it cannot then match the final `ar'
+	of the regular expression against the final `r' of the string.  So it
+	backtracks, discarding the match of the last `a' in the string.  It
+	can then match the remaining `ar'.
+
+	The Match-one-or-more Operator (`+')
+	------------------------------------
+
+	  This operator is similar to the match-zero-or-more operator except
+	that it repeats the preceding regular expression at least once.
+
+	  For example, `ca+r' matches, e.g., `car' and `caaaar', but not `cr'.
+
+	The Match-zero-or-one Operator (`?')
+	------------------------------------
+
+	  This operator is similar to the match-zero-or-more operator except
+	that it repeats the preceding regular expression once or not at all.
+
+	  For example, `ca?r' matches both `car' and `cr', but nothing else.
+
+	Interval Operators (`{' ... `}'
+	-------------------------------
+
+	`{COUNT}'
+	     matches exactly COUNT occurrences of the preceding regular
+	     expression.
+
+	`{MIN,}'
+	     matches MIN or more occurrences of the preceding regular
+	     expression.
+
+	`{MIN, MAX}'
+	     matches at least MIN but no more than MAX occurrences of the
+	     preceding regular expression.
+
+	  The interval expression (but not necessarily the regular expression
+	that contains it) is invalid if:
+
+	   * MIN is greater than MAX, or
+
+	   * any of COUNT, MIN, or MAX are outside the range zero to
+	     `RE_DUP_MAX' (which symbol `regex.h' defines).
+
+
+The Alternation Operator (`|')
+==============================
+
+  Alternatives match one of a choice of regular expressions: if you put the
+character(s) representing the alternation operator between any two regular
+expressions A and B, the result matches the union of the strings that A and B
+match.  For example, supposing that `|' is the alternation operator, then
+`foo|bar|quux' would match any of `foo', `bar' or `quux'.
+
+  The alternation operator operates on the *largest* possible surrounding
+regular expressions.  (Put another way, it has the lowest precedence of any
+regular expression operator.) Thus, the only way you can delimit its arguments
+is to use grouping.  For example, if `(' and `)' are the open and close-group
+operators, then `fo(o|b)ar' would match either `fooar' or `fobar'.  (`foo|bar'
+would match `foo' or `bar'.)
+
+  The matcher usually tries all combinations of alternatives so as to match
+the longest possible string.  For example, when matching
+`(fooq|foo)*(qbarquux|bar)' against `fooqbarquux', it cannot take, say, the
+first ("depth-first") combination it could match, since then it would be
+content to match just `fooqbar'.
+
+List Operators (`[' ... `]')
+============================
+
+  "Lists", also called "bracket expressions", are a set of one or more items.
+An "item" is a character, a character class expression, or a range expression.
+The syntax bits affect which kinds of items you can put in a list.  We explain
+the last two items in subsections below.  Empty lists are invalid.
+
+  A "matching list" matches a single character represented by one of the list
+items.  You form a matching list by enclosing one or more items within an
+"open-matching-list operator" (represented by `[') and a "close-list operator"
+(represented by `]').
+
+  For example, `[ab]' matches either `a' or `b'.  `[ad]*' matches the empty
+string and any string composed of just `a's and `d's in any order.  Regex
+considers invalid a regular expression with a `[' but no matching `]'.
+
+  "Nonmatching lists" are similar to matching lists except that they match a
+single character *not* represented by one of the list items.  You use an
+"open-nonmatching-list operator" (represented by `[^'(1)) instead of an
+open-matching-list operator to start a nonmatching list.
+
+  For example, `[^ab]' matches any character except `a' or `b'.
+
+  Most characters lose any special meaning inside a list.  The special
+characters inside a list follow.
+
+`]'
+     ends the list if it's not the first list item.  So, if you want to
+     make the `]' character a list item, you must put it first.
+
+`[:'
+     represents the open-character-class operator if what follows is a valid
+     character class expression.
+
+`:]'
+     represents the close-character-class operator if what precedes it is an
+     open-character-class operator followed by a valid character class name.
+
+`-'
+     represents the range operator if it's not first or last in a list or the
+     ending point of a range.
+
+All other characters are ordinary.  For example, `[.*]' matches `.' and
+`*'.
+
+  Character Class   [:class:]
+  Range             start-end
+
+  ---------- Footnotes ----------
+
+  (1)  Regex therefore doesn't consider the `^' to be the first
+character in the list.  If you put a `^' character first in (what you
+think is) a matching list, you'll turn it into a nonmatching list.
+
+	Character Class Operators (`[:' ... `:]')
+	-----------------------------------------
+
+	A "character class expression" matches one character from a given
+	class.  You form a character class expression by putting a character
+	class name between an "open-character-class operator" (represented by
+	`[:') and a "close-character-class operator" (represented by `:]').
+	The character class names and their meanings are:
+
+	`alnum'
+	     letters and digits
+
+	`alpha'
+	     letters
+
+	`blank'
+	     system-dependent; for GNU, a space or tab
+
+	`cntrl'
+	     control characters (in the ASCII encoding, code 0177 and codes
+	     less than 040)
+
+	`digit'
+	     digits
+	
+	`graph'
+	     same as `print' except omits space
+
+	`lower'
+	     lowercase letters
+
+	`print'
+	     printable characters (in the ASCII encoding, space tilde--codes
+	     040 through 0176)
+
+	`punct'
+	     neither control nor alphanumeric characters
+
+	`space'
+	     space, carriage return, newline, vertical tab, and form feed
+
+	`upper'
+	     uppercase letters
+
+	`xdigit'
+	     hexadecimal digits: `0'-`9', `a'-`f', `A'-`F'
+
+	These correspond to the definitions in the C library's `<ctype.h>'
+	facility.  For example, `[:alpha:]' corresponds to the standard
+	facility `isalpha'.  Regex recognizes character class expressions only
+	inside of lists; so `[[:alpha:]]' matches any letter, but `[:alpha:]'
+	outside of a bracket expression and not followed by a repetition
+	operator matches just itself.
+
+	The Range Operator (`-')
+	------------------------
+
+	  Regex recognizes "range expressions" inside a list. They represent
+	those characters that fall between two elements in the current
+	collating sequence.  You form a range expression by putting a "range
+	operator" between two characters.(1) `-' represents the range
+	operator.  For example, `a-f' within a list represents all the
+	characters from `a' through `f' inclusively.
+
+	  Since `-' represents the range operator, if you want to make a `-'
+	character itself a list item, you must do one of the following:
+
+	   * Put the `-' either first or last in the list.
+
+	   * Include a range whose starting point collates strictly lower than
+	     `-' and whose ending point collates equal or higher.  Unless a
+	     range is the first item in a list, a `-' can't be its starting
+	     point, but *can* be its ending point.  That is because Regex
+	     considers `-' to be the range operator unless it is preceded by
+	     another `-'.  For example, in the ASCII encoding, `)', `*', `+',
+	     `,', `-', `.', and `/' are contiguous characters in the collating
+	     sequence.  You might think that `[)-+--/]' has two ranges: `)-+'
+	     and `--/'.  Rather, it has the ranges `)-+' and `+--', plus the
+	     character `/', so it matches, e.g., `,', not `.'.
+
+	   * Put a range whose starting point is `-' first in the list.
+
+	  For example, `[-a-z]' matches a lowercase letter or a hyphen (in
+	English, in ASCII).
+
+	  ---------- Footnotes ----------
+
+	  (1) You can't use a character class for the starting or ending point
+	of a range, since a character class is not a single character.
+
+
+Grouping Operators (`(' ... `)')
+================================
+
+  A "group", also known as a "subexpression", consists of an "open-group
+operator", any number of other operators, and a "close-group operator".  Regex
+treats this sequence as a unit, just as mathematics and programming languages
+treat a parenthesized expression as a unit.
+
+  Therefore, using "groups", you can:
+
+   * delimit the argument(s) to an alternation operator or a repetition
+     operator
+
+   * keep track of the indices of the substring that matched a given
+     group. for a precise explanation.  This lets you:
+
+        * use the back-reference operator
+
+        * use registers
+
+
+The Back-reference Operator ("\"DIGIT)
+======================================
+
+   A back reference matches a specified preceding group.  The back reference
+operator is represented by `\DIGIT' anywhere after the end of a regular
+expression's DIGIT-th group.
+
+  DIGIT must be between `1' and `9'.  The matcher assigns numbers 1 through 9
+to the first nine groups it encounters.  By using one of `\1' through `\9'
+after the corresponding group's close-group operator, you can match a
+substring identical to the one that the group does.
+
+  Back references match according to the following (in all examples below, `('
+represents the open-group, `)' the close-group, `{' the open-interval and `}'
+the close-interval operator):
+
+   * If the group matches a substring, the back reference matches an
+     identical substring.  For example, `(a)\1' matches `aa' and
+     `(bana)na\1bo\1' matches `bananabanabobana'.  Likewise, `(.*)\1' matches
+     any newline-free string that is composed of two identical halves; the
+     `(.*)' matches the first half and the `\1' matches the second half.
+
+   * If the group matches more than once (as it might if followed by,
+     e.g., a repetition operator), then the back reference matches the
+     substring the group *last* matched.  For example, `((a*)b)*\1\2' matches
+     `aabababa'; first group 1 (the outer one) matches `aab' and group 2 (the
+     inner one) matches `aa'.  Then group 1 matches `ab' and group 2 matches
+     `a'.  So, `\1' matches `ab' and `\2' matches `a'.
+
+   * If the group doesn't participate in a match, i.e., it is part of an
+     alternative not taken or a repetition operator allows zero repetitions of
+     it, then the back reference makes the whole match fail.  For example,
+     `(one()|two())-and-(three\2|four\3)' matches `one-and-three' and
+     `two-and-four', but not `one-and-four' or `two-and-three'.  For example,
+     if the pattern matches `one-and-', then its group 2 matches the empty
+     string and its group 3 doesn't participate in the match.  So, if it then
+     matches `four', then when it tries to back reference group 3--which it
+     will attempt to do because `\3' follows the `four'--the match will fail
+     because group 3 didn't participate in the match.
+
+  You can use a back reference as an argument to a repetition operator.  For
+example, `(a(b))\2*' matches `a' followed by two or more `b's.  Similarly,
+`(a(b))\2{3}' matches `abbbb'.
+
+  If there is no preceding DIGIT-th subexpression, the regular expression is
+invalid.
+
+Anchoring Operators
+===================
+
+  These operators can constrain a pattern to match only at the
+beginning or end of the entire string or at the beginning or end of a
+line.
+
+  Match-beginning-of-line   ^
+  Match-end-of-line         $
+
+
+	The Match-beginning-of-line Operator (`^')
+	------------------------------------------
+
+	  This operator can match the empty string either at the beginning of
+	the string or after a newline character.  Thus, it is said to "anchor"
+	the pattern to the beginning of a line.
+
+	  In the cases following, `^' represents this operator.  (Otherwise,
+	`^' is ordinary.)
+
+	   * It (the `^') is first in the pattern, as in `^foo'.
+
+	   * It follows an open-group or alternation operator, as in `a\(^b\)'
+	     and `a\|^b'.
+
+	The Match-end-of-line Operator (`$')
+	------------------------------------
+
+	  This operator can match the empty string either at the end of the
+	string or before a newline character in the string.  Thus, it is said
+	to "anchor" the pattern to the end of a line.
+
+	  It is always represented by `$'.  For example, `foo$' usually
+	matches, e.g., `foo' and, e.g., the first three characters of
+	`foo\nbar'.
+
+============================
+2. Word and Buffer Operators
+============================
+
+Word Operators
+
+  Match-word-boundary         \b
+	  This operator (represented by `\b') matches the empty string at
+	either the beginning or the end of a word.  For example, `\brat\b'
+	matches the separate word `rat'.
+
+  Match-within-word           \B
+	  This operator (represented by `\B') matches the empty string within
+	a word. For example, `c\Brat\Be' matches `crate', but `dirty \Brat'
+	doesn't match `dirty rat'.
+	
+  Match-beginning-of-word     \<
+	  This operator (represented by `\<') matches the empty string at the
+	beginning of a word.
+
+  Match-end-of-word           \>
+	This operator (represented by `\>') matches the empty string at the
+	end of a word.
+
+  Match-word-constituent      \w
+	This operator (represented by `\w') matches any word-constituent
+	character.
+
+  Match-non-word-constituent  \W
+	This operator (represented by `\W') matches any character that is not
+	word-constituent.
+
+Buffer Operators
+
+  ("buffers" in mail2sms are the whole input strings that you can match.)
+
+  Match-beginning-of-buffer   \`
+	This operator (represented by `\`') matches the empty string at the
+	beginning of the buffer.
+
+  Match-end-of-buffer         \'
+	This operator (represented by `\'') matches the empty string at the
+	end of the buffer.
+
+Shamelessly stolen from http://daniel.haxx.se/projects/mail2sms/regex.shtml
