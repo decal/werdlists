@@ -1,0 +1,5 @@
+homenet
+home
+onion
+noconnect
+exit

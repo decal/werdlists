@@ -1,0 +1,10 @@
+e164.arpa
+uri.arpa
+in-addr.arpa
+ip6.arpa
+ipv4only.arpa
+local.arpa
+mcast.arpa
+sink.arpa
+urn.arpa
+as112.arpa

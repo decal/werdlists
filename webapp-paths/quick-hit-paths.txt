@@ -401,6 +401,7 @@
 123.php
 123.txt
 1c/
+1phpinfo.php
 2.php
 2.tar
 2.tar.bz2
@@ -694,6 +695,7 @@ auth_user_file.txt
 authorization.config
 authorized_keys
 autobackup.php
+autoload.php
 awstats
 awstats.pl
 awstats/

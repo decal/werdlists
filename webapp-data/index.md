@@ -20,3 +20,4 @@ webapp-xss-scripts: JavaScript code fragments for testing Cross-Site Scripting
 websphere-errors-text: Error descriptions for IBM's J2EE WebSphere app server
 websphere-server-namespaces: Identifier strings extracted in WebSphere reverse
 xss-vectors-zephrfish: XSS Vectors.txt from ZephrFish user on Github
+xxe-attack-payloads: XML eXternal Entity attack payloads
