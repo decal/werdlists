@@ -1,5 +1,6 @@
 compsec-cert-std: NIST FIPS 140-2 cryptographic product security validation
 crypto-product-std: "Common Criteria" compliance according to national authority
+descrypt-admin-allsalts: Single DES of string "admin" with all salts
 gnutls-cli-extra: Miscellaneous output of same GnuTLS command as above
 gnutls-cli-list: Command output of GnuTLS command line interface algorithm list
 http2-ciphers-blacklist: Ciphers rejected by the HTTP2 protocol specification
