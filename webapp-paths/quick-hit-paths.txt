@@ -1352,6 +1352,7 @@ includes/swfupload/swfupload.swf
 includes/swfupload/swfupload_f9.swf
 includes/tiny_mce/
 includes/tinymce/
+index.js
 index-bak
 index-test.php
 index.php-bak
@@ -1874,6 +1875,7 @@ pma2005/
 pma4/
 pmadmin/
 pmyadmin/
+pom.properties
 pom.xml
 prefetch.txt
 priv8.php
