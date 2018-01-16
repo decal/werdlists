@@ -1,5 +1,6 @@
 common-colon-logins: colon delimited lines of common user and pass combinations
 google-strings-list: very long list of strings parsed from Google SERP's
+mongodb-nosql-injection: [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists)
 node-modules-list: NodeJS modules list from `~/node_modules` directory
 npm-modules-list: NodeJS Package Manager modules list: `ls -1 ~/.npm | sort -u`
 owasp-test-method: an outline of the OWASP test methodology 

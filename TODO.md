@@ -1,11 +1,12 @@
 Things To Do
 ============
 
+* make a script in `scripts/shared` to check if the CWD is scripts or repo root
 * add list of scripts to `scripts/index.md`
 * Make markdown tables in `telco-data/mobile-codes-notes.txt` like [List of Mobile Country or Geographical Area Codes](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212A-2017-PDF-E.pdf)
 * Make markdown tables in `telco-data/country-codes-notes.txt` like [List of ITU-T Recommendation E.164 Assigned Country Codes](https://www.itu.int/itudoc/itu-t/ob-lists/icc/e164_763.pdf)
 * write script to clean up which includes a `sort -u` of all `index.md` files
-* split `code-keywords/chkeywords.txt` into multiple files
+* split `code-keywords/ch-language-keywords.txt` into multiple files
 * create a `werdlists` command to perform common utility functions like search
 * rename every `index.lst` to `INDEX.md` so they can have markdown
 * `sort -u` all `INDEX.md` files to ensure uniqueness and alphabetization

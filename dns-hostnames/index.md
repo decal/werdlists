@@ -31,6 +31,7 @@ someonewhocares-zero-hosts: [0 text file](http://someonewhocares.org/hosts/zero/
 someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/hosts)
 spam-blacklist-hosts: host names used in from addresses by spammers
 subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__
+top-million-subdomains: large list of subdomain names [cldrn GitHub](https://github.com/cldrn/pentesting)
 tor-hsts-preloads: Site list for Strict Transport Security preloading on TOR
 tweet-link-hosts: hosts parsed from tweet text on [Twitter](https://twitter.com)
 uber-subdomain-names: subdomain names used by [Uber](https://uber.com)

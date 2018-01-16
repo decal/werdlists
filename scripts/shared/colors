@@ -1,0 +1,69 @@
+#!/usr/bin/env bash
+#
+# perform ANSI color escape codes for gitaa
+# 
+# Derek Callaway <decal {AT} sdf {D0T} org>
+#
+# Fri Oct 14 14:57:49 EDT 2016
+#
+
+#
+# This file was "forked" from cirrusUK's gists on GitHub
+# https://gist.githubusercontent.com/cirrusUK/9494694/raw
+#
+
+# ANSI Color -- use these variables to easily have different color
+#    and format output. Make sure to output the reset sequence after 
+#    colors (f = foreground, b = background), and use the 'off'
+#    feature for anything you turn on.
+
+function initColor()
+{
+  readonly carraige="\r"
+  readonly linefeed="\n"
+  readonly creturn="$carraige" newline="$linefeed"
+  readonly crlf="${carraige}${linefeed}"
+
+  readonly esc=""
+  readonly escape="$esc"
+
+  readonly blackf="${esc}[30m"   redf="${esc}[31m"   greenf="${esc}[32m"
+  readonly yellowf="${esc}[33m"  bluef="${esc}[34m"  purplef="${esc}[35m"
+  readonly cyanf="${esc}[36m"    whitef="${esc}[37m"
+
+  readonly black="$blackf" red="$redf" green="$greenf"
+  readonly yellow="$yellowf" blue="$bluef" purple="$purplef"
+  readonly cyan="$cyanf" white="$whitef"
+
+  readonly yello="$yellow" purpl="$purple"
+  readonly yellof="$yellow" purplf="$purple"
+
+  readonly blackb="${esc}[40m"   redb="${esc}[41m"   greenb="${esc}[42m"
+  readonly yellowb="${esc}[43m"  blueb="${esc}[44m"  purpleb="${esc}[45m"
+  readonly cyanb="${esc}[46m"    whiteb="${esc}[47m"
+
+  readonly boldon="${esc}[1m"    boldoff="${esc}[22m"
+  readonly italicson="${esc}[3m" italicsoff="${esc}[23m"
+  readonly ulon="${esc}[4m"      uloff="${esc}[24m"
+  readonly invon="${esc}[7m"     invoff="${esc}[27m"
+
+  readonly bold="$boldon" unbold="$boldoff"
+  ## TODO: Xy Xn vs. Xon Xoff
+  readonly italicon="$italicson" italic="$italicson" italicoff="$italicsoff"
+  readonly itali="$italicon" italion="$italicon" italioff="$italicoff"
+  # underline uline 
+  # long form, length 5, singular, synonyms
+  readonly underline="$ulon" uline="$ulon" underlineoff="$uloff" ulineoff="$uloff"  
+  readonly inverse="$invon" inverseon="$invon" reverse="$invon" reverseon="$invon" inverseoff="$invoff" reverseoff="$invoff" flip="$invon" flipon="$invon" flipoff="$invoff"
+  readonly inver="$invon" inveron="$invon" reveron="$invoff" reveroff="$invoff"
+  ## TODO: write help
+
+  readonly rst="${esc}[0m"
+  readonly reset="$rst"
+}
+
+if ! [ "${esc}" -a "${reset}" ] 
+  then readonly export INIT_COLOR=1
+  initColor 
+  echo -ne "${reset}"
+fi

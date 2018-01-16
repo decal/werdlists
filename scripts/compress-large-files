@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+#
+# compress-large-files v1.0
+#
+# Compress wordlist files that are larger than one megabyte
+#
+# Written By:    [decal {AT} sdf {D0T} org]
+# Last Modified: Mon Jan 15 03:27:21 PST 2018
+# Tested On:     Ubuntu 16.04.3 LTS (Windows Subsystem for Linux)
+#
+
+[ -f shared/colors ] && source shared/colors
+[ -f scripts/shared/colors ] && source scripts/shared/colors
+
+readonly COMPRESS_CMD="xz -9v"
+
+if [ ! -f INDEX.md ]
+  then cd ..
+  
+  if [ ! -f INDEX.md ]
+    then echo -e "${blackfg}${yellowbg}***${reset} ${yellow}Try running this script from the git repository root!${reset}"
+
+    exit 1
+  fi
+fi
+
+echo -e "${greenb}***${reset} ${greenf}Compressing large files..${reset}${newline}"
+
+declare -a large_files=$(find . -type f -size +1M -not -iname '*.xz' -print)
+
+for f in $large_files
+  do if [ "`echo $f | egrep '/[.]git/'`" ]
+    then # echo -e "${orangeb}*${reset}${whitef}-${reset}${orangeb}*${reset} ${whitef}Skipping hidden git file${bold}:${reset} ${orangef}${bold}$f${reset}"
+
+    continue
+  fi
+  
+  if [ "`echo $f | egrep '[.][a-z]+z$'`" ] && continue
+    then echo -e "${orangeb}*${bold}-${reset}${orangeb}*${reset} ${whitef}Skipping already compressed file${bold}:${reset} ${orangef}${bold}$f${reset}"
+
+    continue
+  fi
+
+  ## TODO: perform each of these with parallel or jobflow
+  echo -e "${reset}${cyanb}*${bold}#${reset}${cyanb}*${reset} ${cyanf}Compressing${reset} ${bluef}$f${reset} ${cyanf}with${bold}:${reset} ${bluef}$COMPRESS_CMD${reset}"
+  echo -n "${blueb}"
+  eval $COMPRESS_CMD -- "$f"
+  echo -ne "${reset}${yellowb}${whitef}"
+  git add -v -- "${f}.xz"
+  echo -e "${reset}"
+done
+
+echo -e "${reset}${greenb}***${reset}${boldon}Finished compressing large files!${reset}"
+
+exit 0
