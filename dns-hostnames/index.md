@@ -26,6 +26,7 @@ malekal-hosts-filter: hosts file used to block adware
 malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
 more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)
+nmap-vhosts-all: virtual host names from nmap's `vhosts-full.lst` and `vhosts-default.lst`
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)
 someonewhocares-zero-hosts: [0 text file](http://someonewhocares.org/hosts/zero/hosts)
 someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/hosts)

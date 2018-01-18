@@ -18,6 +18,7 @@ netbsd-setid-files: set-ID file names only (i.e. `basename`) from NetBSD
 netbsd-setid-paths: the fully qualified pathnames to set-ID files on NetBSD
 netbsd-sgid-games: paths to executables that have the set-GID bit set on NetBSD
 netbsd-sysctl-list: symbols taken from NetBSD `sysctl` entries
+nmap-user-names: taken from nmap's `nselib/data/usernames.lst`
 real-users-list: list of user names taken from a real/live UNIX system
 syslog-facility-values: syslog system call facility values taken from RFC3164
 tmux-command-list: list of tmux (terminal multiplexer) commands

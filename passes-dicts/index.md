@@ -10,4 +10,5 @@ fuzzdb-user-passwds: more passwords taken from fuzzdb
 hbgary-rootkit-passes: password list from HBGaryFederal rootkit.com compromise
 john-password-list: the password.lst file distributed with John The Ripper
 military-pass-words: passwords typically found in military information systems
+nmap-passwords-list: taken from nmap's `nselib/data/passwords.lst`
 zxcvbn-passwords-list: passwords from `passwords.txt` included with *zxcvbn*

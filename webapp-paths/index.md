@@ -18,6 +18,7 @@ jboss-path-names: path names often handled by the _JBoss_ J2EE application serve
 joomla-path-names: file names found in the directory hierarchy of Joomla sites
 login-path-names: pathnames that could reference login pages on a web server
 magento-path-names:  file names often found under Magento's directory hierarchy
+nmap-rtsp-urls: taken from nmap's `nselib/data/rtsp-urls.txt`
 oracle-business-intelligence: paths taken from _Oracle Business Intelligence_ docs
 oracle-path-names: pathnames usually served by _Oracle Application Server_
 oracle-robots-text: the `robots.txt` that was served by www.oracle.com
