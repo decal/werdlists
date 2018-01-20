@@ -1,3 +1,4 @@
+acme-challenge-paths: Path names within a `/.well-known/acme-challenge/` folder
 admin-path-names: pathnames of various admin console pages found on web servers
 adobecq-path-names: paths to content on _Adobe Experience Manager_ a.k.a. CQ
 apache-james-paths: paths taken from the `quick-start.html` doc on james.apache.org
@@ -6,9 +7,11 @@ coldfusion-cfmx-cfide: pathnames to admin pages on _Adobe ColdFusion_ app server
 common-path-names: several of the files in this folder, sorted and uniqified
 cpan-module-paths: paths in CPAN (Comprehensive Perl Archive Network) modules
 dirb-vulns-paths: pathnames of all vulnerabilities scanned for by the dirb tool
+dirsearch-paths-list: `dict.txt` file packaged with the dirsearch tool
 drupal-path-names: path names typically found under web root of the _Drupal_ CMS
 falcon-jsp-paths: _FalconPathScan_ `.php` extensions changed to `.jsp`
 falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_ 
+font-file-names: List of names for various OpenType and TrueType font files
 forcepoint-ink-files: file names for scanning custom extensions
 generic-path-names: general path names that could be used on any web server
 ibm-bea-paths: paths for both J2EE app servers IBM WebSphere and Oracle WebLogic
@@ -24,9 +27,12 @@ oracle-path-names: pathnames usually served by _Oracle Application Server_
 oracle-robots-text: the `robots.txt` that was served by www.oracle.com
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site
 paths-below-webinf: paths most commonly found under the `WEB-INF` directory
+proxy-ssrf-paths: Paths to be used in requests that test SSRF attacks on proxies
 quick-hit-paths: pathnames that are most likely to exist
+search-engine-settings: [Search Engines](https://github.com/philc/vimium/wiki/Search-Engines)
 sharepoint-path-names: common _Microsoft SharePoint_ path names
 skipfish-path-names: web path names used by the `skipfish` web app recon tool
+spike-proxy-words: The words file packaged with ImmunitySec SPIKE Proxy
 top-robots-parsed: most popular entries from `RobotsDisallowed` repository parsed
 unix-traverse-passwd: UNIX path names for directory traversing to passwd file
 web-inf-paths: list of path names typically found under the `WEB-INF` directory
@@ -34,4 +40,5 @@ web-inf-paths: typical path names to be founder under a `WEB-INF` folder
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server
 websphere-class-path: IBM WebSphere `CLASSPATH` runtime environment variable 
 websphere-path-names: pathnames usually available from _IBM WebSphere_ listeners
+well-known-paths: Well-Known URI path names taken from IANA assignment
 wfuzz-vulns-list: combined list of paths from the _wfuzz_ tool's `vulns` folder

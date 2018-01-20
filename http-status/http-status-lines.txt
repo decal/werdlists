@@ -7,7 +7,7 @@
 201 Created
 202 Accepted	
 203 Non-Authoritative Information	
-204 No Conten
+204 No Content
 205 Reset Content
 206 Partial Content
 207 Multi-Status

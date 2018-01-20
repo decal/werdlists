@@ -2,6 +2,12 @@ abnormal-uri-rfc: Abnormal URI's from RFC3986 Section 5.4.2
 all-multiproxy-list: [anonymous and non-anonymous proxy list](http://multiproxy.org/txt_all/proxy.txt)
 anonymous-multiproxy-list: [anonymous proxy list](http://multiproxy.org/txt_anon/proxy.txt)
 content-policy-directives: Content Security Policy directives from HTTP replies
+content-policy-directives: Content Security Policy directives via [CSP.com](https://content-security-policy.com)
+content-policy-headers: Content Security Policy HTTP response headers via [CSP.com](https://content-security-policy.com)
+content-policy-sources: Content Security Policy sources via [CSP.com](https://content-security-policy.com)
+csp-header-apache: `Content-Security-Policy` HTTP response header Apache config
+csp-header-iis: `Content-Security-Policy` HTTP response header IIS config
+csp-header-nginx: `Content-Security-Policy` HTTP response header NGINX config
 dirsearch-words-list: words parsed from the dirsearch tool's `dict.txt` file
 example-uri-refs: Example URI's from the RFC3986 URI specification issues list
 mozilla-cacerts-list: Info and PEM's on Certificate Authorities used by Mozilla 

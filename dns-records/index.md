@@ -10,3 +10,4 @@ nsupdate-record-types: record types used in nameserver update protocol messages
 record-classes-long: all record class strings as specified by IANA 
 record-types-in: record types specific to the `IN` class 
 record-types-long: all record type strings specified by IANA regardless of class
+header-flag-codes: DNS query header flag field as defined by RFC1035 section 4.1.1
