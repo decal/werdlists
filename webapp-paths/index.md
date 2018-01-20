@@ -42,3 +42,4 @@ websphere-class-path: IBM WebSphere `CLASSPATH` runtime environment variable
 websphere-path-names: pathnames usually available from _IBM WebSphere_ listeners
 well-known-paths: Well-Known URI path names taken from IANA assignment
 wfuzz-vulns-list: combined list of paths from the _wfuzz_ tool's `vulns` folder
+xml-sitemap-paths: Location of XML sitemap(s) as specified by: [sitemaps.org](https://www.sitemaps.org)

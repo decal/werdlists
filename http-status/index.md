@@ -1,3 +1,4 @@
+ezproxy-status-codes: [EZproxy](https://www.oclc.org/support/services/ezproxy/documentation/cfg/logformat.en.html)
 http-status-codes: CSV of HTTP status codes and messages
 http-status-lines: descriptions that appear on HTTP reply status lines
 http-status-messages: HTTP response body messages associated with status codes

@@ -1,0 +1,9 @@
+597	Recorded on access attempts after the IntruderReject threshold has been exceeded.
+598	Attempt made to access an unauthorized EZproxy administration function
+599	Starting point URL referenced a host that EZproxy is not configured to proxy
+900-905,907	Error occurred receiving the request from the remote user's browser
+906	Error occurred forwarding the request from the user's browser to the remote server
+950	Error occurred interpreting an administration request from the remote user
+997	Shibboleth login failure due to metadata misconfiguration (recorded as 999 in early beta releases of Shibboleth support)
+998	Access denied based on a DenyIfRequestHeader directive in config.txt
+999	Access attempted from an IP address that is in a RejectIP address range

@@ -1,6 +1,11 @@
 Things To Do
 ============
 
+* https://www.askapache.com/htaccess/apache-status-code-headers-errordocument/
+* getstatuscode.com
+* http://gif.phpnet.org/frederic/programs/http_status_codes/http_status_code_definitions.htm
+* http://www.mccormickfamily.com/become-an-author/56-http-status-codes
+* https://en.wikipedia.org/wiki/List_of_HTTP_Status_Codes
 * add newer IIS HTTP status codes from [The HTTP status code in IIS 7.0, IIS 7.5, and IIS 8.0](https://support.microsoft.com/en-us/help/943891/the-http-status-code-in-iis-7-0--iis-7-5--and-iis-8-0)
 * use find to parse `--help` output and create `argv-getopt-long.txt` in `linux-data`
 * finish `scripts/extract-manpages-environ`

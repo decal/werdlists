@@ -1,0 +1,12 @@
+search-ms:displayname=Search%20Results%20in%20Local%20Disk%20(C%3A)&crumb=System.Generic.String%3AOne&crumb=location:C%3A%5C
+{2}.\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_10438444&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001|\Device\HarddiskVolume2\Users\Derek\AppData\Local\StormAlerts\StormAlertsBrowser.exe%b{00000000-0000-0000-0000-000000000000}
+mhtml://
+@{C:\Windows\WinStore\resources.pri?ms-resource://WinStore/resources/DisplayName}
+defaultroot://{S-1-5-21-374056989-112164207-1773022283-1001}/
+winrt://{S-1-5-21-374056989-112164207-1773022283-1001}/
+iehistory://{S-1-5-21-374056989-112164207-1773022283-1001}/
+mapi15://{S-1-5-21-374056989-112164207-1773022283-1001}/
+DP://{S-1-5-21-374056989-112164207-1773022283-1001}/
+ONEINDEX15://{S-1-5-21-374056989-112164207-1773022283-1001}/
+ierss://{S-1-5-21-374056989-112164207-1773022283-1001}/
+"\\?\c:\home\lib\zsh\5.0.2\zsh\zutil.dll"				

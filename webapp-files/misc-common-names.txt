@@ -22051,6 +22051,8 @@ location_bottom.tpl.html
 location.class.php
 Location.cs
 Location.html
+location.kml
+location.kmz
 LOCATION_ID_LAYOUT.txt
 location.inc
 location.inc.php
