@@ -1,0 +1,37 @@
+DROWN	
+Secure Renegotiation	
+Secure Client-Initiated Renegotiation	
+Insecure Client-Initiated Renegotiation
+BEAST attack	
+POODLE (SSLv3)
+POODLE (TLS)
+Downgrade attack prevention	
+SSL/TLS compression	
+RC4	
+Heartbeat (extension)	
+Heartbleed (vulnerability)
+Ticketbleed (vulnerability)
+OpenSSL CCS vuln. (CVE-2014-0224)
+OpenSSL Padding Oracle vuln.
+(CVE-2016-2107)	
+ROBOT (vulnerability)
+Forward Secrecy	Weak key exchange   
+ALPN	
+NPN	
+Session resumption (caching)	
+Session resumption (tickets)	
+OCSP stapling	
+Strict Transport Security (HSTS)	
+HSTS Preloading	
+Public Key Pinning (HPKP)
+Public Key Pinning Report-Only
+Public Key Pinning (Static)
+Long handshake intolerance
+TLS extension intolerance
+TLS version intolerance	
+Incorrect SNI alerts	
+Uses common DH primes	
+DH public server param 
+ECDH public server param reuse
+Supported Named Groups	
+SSL 2 handshake compatibility	

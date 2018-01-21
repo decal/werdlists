@@ -3,6 +3,7 @@ admin-path-names: pathnames of various admin console pages found on web servers
 adobecq-path-names: paths to content on _Adobe Experience Manager_ a.k.a. CQ
 apache-james-paths: paths taken from the `quick-start.html` doc on james.apache.org
 apache-path-names: path names commonly found under web root of an _Apache_ install
+apache-tapestry-paths: Apache Tapestry paths created from source tree
 coldfusion-cfmx-cfide: pathnames to admin pages on _Adobe ColdFusion_ app server
 common-path-names: several of the files in this folder, sorted and uniqified
 cpan-module-paths: paths in CPAN (Comprehensive Perl Archive Network) modules

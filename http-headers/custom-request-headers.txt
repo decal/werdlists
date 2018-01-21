@@ -40,6 +40,7 @@ X-MiteApiKey
 X-N
 X-Org-Token
 X-Papertrail-Token
+X-Prototype-Version
 X-Requested-With
 X-Request-ID
 X-Request-Start

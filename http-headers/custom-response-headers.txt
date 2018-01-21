@@ -51,6 +51,7 @@ X-Download-Options
 X-Drupal-Cache
 X-DuckDuckGo-Locale
 x-dw-request-base-id
+X-dynaTrace
 X-dynaTrace-JS-Agent
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
