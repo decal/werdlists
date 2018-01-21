@@ -72,12 +72,15 @@ X-Mashery-Error-Code
 X-Mode
 X-MSEdge-Ref
 X-MSNSERVER
+X-MS-RP
 X-Node
 X-OAuth-Scopes
 X-OC-Mtime
 X-ORACLE-DMS-ECID
 X-ORACLE-DMS-RID
 X-OWA-Diagnostics-Info
+X-OWA-Error
+X-OWA-Version
 X-Permitted-Cross-Domain-Policies
 X-Pingback
 X-Pinterest-RID
@@ -101,6 +104,7 @@ X-Runtime-rack
 X-Served-By
 X-Server
 x-status
+X-SOAP-Enabled
 X-ThrowSite
 X-Timer
 X-Timestamp
@@ -124,5 +128,7 @@ X-WebKit-CSP
 X-WebCluster
 X-WebInstance
 X-WebServer
+X-WSSecurity-Enabled
+X-WSSecurity-For
 X-XSS-Protection
 X-zipkin-id

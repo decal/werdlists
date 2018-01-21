@@ -43,6 +43,9 @@ Location
 MDT-Type
 MI
 MS-Author-Via
+MS-ASProtocolCommands
+MS-ASProtocolVersions
+MS-Server-ActiveSync
 OData-MaxVersion
 OData-Version
 Origin-Cache-Control
