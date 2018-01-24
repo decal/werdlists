@@ -35,6 +35,7 @@ sharepoint-path-names: common _Microsoft SharePoint_ path names
 skipfish-path-names: web path names used by the `skipfish` web app recon tool
 spike-proxy-words: The words file packaged with ImmunitySec SPIKE Proxy
 top-robots-parsed: most popular entries from `RobotsDisallowed` repository parsed
+top1k-robots-sitemaps: Sitemap paths from `robots.txt` of top 1,000 Alexa sites
 unix-traverse-passwd: UNIX path names for directory traversing to passwd file
 web-inf-paths: list of path names typically found under the `WEB-INF` directory
 web-inf-paths: typical path names to be founder under a `WEB-INF` folder

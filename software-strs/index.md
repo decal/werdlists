@@ -1,5 +1,6 @@
 code-project-list: popular code projects, well-known dependencies, API's, etc.
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)
+libressl-function-symbols: symbols for SSL functions from `libressl-portable`
 macos-homebrew-list: list of macOS homebrew package names
 macports-titles-list: MacPorts software titles list
 opensrc-softlic-compare: Comparison of popular open source software license text

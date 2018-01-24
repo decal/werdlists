@@ -12,6 +12,7 @@ mlocate-group-dirs: directories with ownership by the mlocate group
 mlocate-group-files: files with ownership by the mlocate group
 nogroup-group-dirs: directories with ownership by a GID not in /etc/group
 nogroup-group-files: files with ownership by a GID not in /etc/group
+pillage-absolute-paths: via [pillage.lst](htpts://github.com/wireghoul/sploit-dev)
 procfs-nonpid-files: pseudo-file entries in /proc not related to a PID
 root-group-dirs: directories with ownership by the root (UID=0) group
 set-gid-bins: executable binary files with the set group ID bit set
