@@ -1,5 +1,6 @@
 ansi-art: ANSI art pieces remniscient of MS-DOS driver `ANSI.SYS` and `BCOM.EXE`
 ascii-art: "Low bit" a.k.a. 7-bit ASCII art items without control characters
+attack-data: Info about attacks on networks and applications
 auth-warnings: Legal warnings shown by networked computer systems before login
 biology-info: Reference information useful in the study of biological issues
 browser-data: Data related to GUI browser software like Chrome, FireFox, etc.
@@ -85,6 +86,7 @@ unix-data: Data associated with various flavors of the UNIX OS and its clones
 unix-paths: File path names found in various UNIX file systems
 uri-schemes: Lists containing references for URI schemes (part before colon)
 vuln-data: Information about security vulnerabilities found in server software
+webapp-attacks: Proof-of-concept samples for attacks on web applications
 webapp-data: Data associated with applications hosted on web servers
 webapp-dirs: Directories related to applications running on a web server
 webapp-files: Files related to applications running on a web server

@@ -1,0 +1,21 @@
+AR Archive-maintaining program; default ar.
+AS Program for compiling assembly files; default as.
+CC Program for compiling C programs; default cc.
+CXX Program for compiling C++ programs; default g++.
+CPP Program for running the C preprocessor, with results to standard output; default $(CC) -E.
+FC Program for compiling or preprocessing Fortran and Ratfor programs; default f77.
+M2C Program to use to compile Modula-2 source code; default m2c.
+PC Program for compiling Pascal programs; default pc.
+CO Program for extracting a file from RCS; default co.
+GET Program for extracting a file from SCCS; default get.
+LEX Program to use to turn Lex grammars into source code; default lex.
+YACC Program to use to turn Yacc grammars into source code; default yacc.
+LINT Program to use to run lint on source code; default lint.
+MAKEINFO Program to convert a Texinfo source file into an Info file; default makeinfo.
+TEX Program to make TeX DVI files from TeX source; default tex.
+TEXI2DVI Program to make TeX DVI files from Texinfo source; default texi2dvi.
+WEAVE Program to translate Web into TeX; default weave.
+CWEAVE Program to translate C Web into TeX; default cweave.
+TANGLE Program to translate Web into Pascal; default tangle.
+CTANGLE Program to translate C Web into C; default ctangle.
+RM Command to remove a file; default rm -f.

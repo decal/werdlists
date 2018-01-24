@@ -1,0 +1,15 @@
+ARFLAGS Flags to give the archive-maintaining program; default rv.
+ASFLAGS Extra flags to give to the assembler (when explicitly invoked on a .s or .S file).
+CFLAGS Extra flags to give to the C compiler.
+CXXFLAGS Extra flags to give to the C++ compiler.
+COFLAGS Extra flags to give to the RCS co program.
+CPPFLAGS Extra flags to give to the C preprocessor and programs that use it (the C and Fortran compilers).
+FFLAGS Extra flags to give to the Fortran compiler.
+GFLAGS Extra flags to give to the SCCS get program.
+LDFLAGS Extra flags to give to compilers when they are supposed to invoke the linker, ld, such as -L. Libraries (-lfoo) should be added to the LDLIBS variable instead.
+LDLIBS Library flags or names given to compilers when they are supposed to invoke the linker, ld. LOADLIBES is a deprecated (but still supported) alternative to LDLIBS. Non-library linker flags, such as -L, should go in the LDFLAGS variable.
+LFLAGS Extra flags to give to Lex.
+YFLAGS Extra flags to give to Yacc.
+PFLAGS Extra flags to give to the Pascal compiler.
+RFLAGS Extra flags to give to the Fortran compiler for Ratfor programs.
+LINTFLAGS Extra flags to give to lint.
