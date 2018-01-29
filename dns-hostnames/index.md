@@ -1,10 +1,13 @@
 adaway-block-list: hosts block list distributed by `adaway.org`
 alexa-host-names: Alexa URI host names sorted and uniqified
 alexa-top50-global: The top 50 global web sites from <http://alexa.com/topsites>
+altdns-host-lists: a list of hostnames via the `altdns` tool
 av-update-hosts: anti-virus signature update host names
 bigbad-hosts-list: only `subdom-brute-list.txt` is larger than this file
 common-intranet-hosts: host names commonly found on private intranets
 dns-dictionary-hosts: `hosts.txt` taken from *DNSDictionary* tool
+dnsbrute-names-large: a large list of host names via the `dnsbrute` tool
+dnsbrute-names-small: a list half the size of the large one also from `dnsbrute`
 dnsinfo-gathertool-list: [namelist.txt](https://raw.githubusercontent.com/crimefire/dns-information-gathering-tool/master/DNS%20Tool%20source%202/namelist.txt "namelist.txt")
 dnssearch-hosts-list: hosts list packaged with the *dnssearch* utility
 dod-hosts-table: Old School DoD Internet Host Table (not in `/etc/hosts` format)

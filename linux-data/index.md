@@ -10,7 +10,9 @@ glibc-tunable-names: options that match GNU libc runtime behavior with workload
 kali-dpkg-list: A list of package names gathered with apt-cache on Kali Linux
 kernel-git-shortlog: Kernel authors taken from source tree's `git shortlog` 
 libc-getconf-vars: system configuration variable values from `getconf(1)`
+linux-errno-constants: preprocessor constants/messages collection from `errno`
 linux-syscall-names: A list of Linux system call identifiers from kernel code
 ubuntu-server-groups: common GID names found in /etc/group on Ubuntu Server
 ubuntu-server-users: common UID names found in /etc/passwd on Ubuntu Server
 ubuntu-wsl-pkgs: Ubuntu packages in Windows Subsystem for Linux apt-cache search 
+unsafe-filesystem-calls: Linux file I/O syscalls w/ side effects from maybe Python script

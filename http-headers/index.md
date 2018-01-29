@@ -10,10 +10,13 @@ custom-response-headers: non-standard HTTP response headers, i.e. lack RFC specs
 envoy-httpconnman-headers: headers used by the Envoy HTTP connection manager
 http-request-headers: the names of all standard HTTP request header fields
 http-response-headers: the names of all standard HTTP response header fields
+iana-headers-list: A detailed list of message headers specified by IANA
 iana-http-headers: Uniquely Sorted List of IANA Message Headers Assignments
 meetup-request-headers: HTTP request headers used by the MeetUp.com API
 meetup-response-headers: HTTP response headers used by the MeetUp.com API
 mozdev-docs-headers: header list from left sidebar of Mozilla Developer Docs
+permanent-message-headers: [Permanent Message Header Field Names](https://www.iana.org/assignments/message-headers/perm-headers.csv)
+provisional-message-headers: [Provisional Message Header Field Names](https://www.iana.org/assignments/message-headers/prov-headers.csv)
 platform-request-headers: request headers that are specific to certain platforms
 platform-response-headers: response headers particular to certain platforms
 rfc-request-headers: request header names that appear in an IETF RFC document

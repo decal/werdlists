@@ -33,6 +33,7 @@ device_type
 elapsed-time
 ETag
 Expires
+facebook-api-version
 Frame-Options
 host_service
 Keep-Alive

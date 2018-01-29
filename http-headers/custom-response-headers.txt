@@ -59,6 +59,9 @@ X-dynaTrace-JS-Agent
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
 X-Fastly-Request-ID
+x-fb-rev
+X-FB-Debug
+X-FB-Trace-ID
 X-FEServer
 X-Frame-Options
 X-Generated-By
