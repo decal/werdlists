@@ -1,0 +1,74 @@
+Abyss
+Ada Web Server
+AllegroServe
+AOLserver
+Apache	
+Apache Traffic Server	
+Barracuda Server
+BaseHTTPServer
+Blazix
+Caddy
+Caudium
+Cherokee
+CherryPy
+Comanche
+CouchDB
+Cowboy	
+FAPWS
+Gatling
+Google Servers	
+Gunicorn
+G-WAN
+H2O
+Hiawatha
+Hunchentoot
+IBM Servers
+IceWarp
+IdeaWebServer	
+Jetty
+Jexus
+Kangle
+Kestrel
+KeyFocus
+KomHttpServer
+Lighttpd	
+LiteSpeed	
+Lwan
+Mathopd
+Microsoft-IIS	
+Misultin
+Mongrel
+Mongrel2
+Monkey
+NaviServer
+Nginx	
+Node.js	
+Noelios Restlet Engine
+nxweb
+Oracle Servers
+Orion
+Paste WSGI HTTP Server
+RaidenHTTPD
+Resin
+Roxen
+SAP J2EE Engine
+Swazoo
+Tengine	
+Thin
+thttpd
+Tomcat	
+Tornado
+Trifork
+Twisted
+Virtuoso
+Waitress
+WebHare
+WEBrick
+WebSTAR
+WebToB
+Wildcat
+Xitami
+Yahoo Traffic Server
+Yaws
+Zeus
+Zope

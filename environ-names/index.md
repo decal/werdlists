@@ -7,6 +7,7 @@ bashenv-declared-environ: variables discovered in `bash` by running `declare -p`
 binutils-ld-names: GNU binutils linker environment variables
 byobu-environ-names: variables defined by the text-based window manager wrapper
 common-gateway-names: environment variables used for dynamic web scripting
+configure-help-environs: environment variables parsed from `./configure --help`
 curl-environ-names: variables set to define proxies for the `curl(1)` tool
 dash-environ-names: environment variables set by default on Debian dash shell
 debian-shell-names: common names of environment variables in Debian BASH shell

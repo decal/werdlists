@@ -39,6 +39,8 @@ X-CalculatedFETarget
 X-Check-Cacheable
 X-Checksum-Md5
 X-Checksum-Sha1
+X-Checksum-Sha2
+X-Checksum-Sha256
 X-Clacks-Overhead
 X-ClientErrorCode
 X-Content-Duration
@@ -47,6 +49,7 @@ X-Content-Type-Options
 X-Correlation-ID
 X-DBG
 X-DiagInfo
+X-DIS-Request-ID
 X-Download-Options
 X-Drupal-Cache
 X-DuckDuckGo-Locale
