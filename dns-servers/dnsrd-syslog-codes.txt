@@ -1,0 +1,26 @@
+RQ sent us a query
+RR sent us an answer
+RIQ sent us an inverse query
+RNXD sent us a negative response
+RFwdQ sent us a query we had to fwd
+RFwdR sent us a response we had to fwd
+RDupQ sent us a retry
+RDupR sent us an extra answer
+RFail sent us a SERVFAIL
+RFErr sent us a FORMERR
+RErr sent us some other error
+RTCP sent us a query using TCP
+RAXFR sent us an AXFR
+RLame sent us a lame delegation
+ROpts sent us some IP options
+SSysQ sent them a sysquery
+SAns sent them an answer
+SFwdQ fwdd a query to them
+SFwdR fwdd a response to them
+SDupQ sent them a retry
+SFail sent them a SERVFAIL
+SFErr sent them a FORMERR
+SErr sent failed (in sendto)
+RNotNsQ received from remote port != ns_port
+SNaAns sent them a non autoritative answer
+SNXD sent them a negative response

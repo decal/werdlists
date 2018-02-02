@@ -9,3 +9,4 @@ various-common-words: words that are commonly used to name files in web apps
 webapp-words-combined: words from all of the above files uniquely combined
 wordpress-plugins-list: WordPress plugins list from `nselib/data/wp-plugins.lst`
 wordpress-themes-list: WordPress themes list from `nselib/data/wp-themes.lst`
+wordpress-timthumbs-paths: template strings for paths to wordpress files

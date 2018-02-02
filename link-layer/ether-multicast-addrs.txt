@@ -1,0 +1,174 @@
+01-00-0C-CC-CC-CC	-802-	CDP (Cisco Discovery Protocol), VTP (Virtual Trunking Protocol)
+01-00-0C-DD-DD-DD	????	CGMP (Cisco Group Management Protocol)
+01-00-10-00-00-20	-802-	Hughes Lan Systems Terminal Server S/W download
+01-00-10-FF-FF-20	-802-	Hughes Lan Systems Terminal Server S/W request
+01-00-1D-00-00-00	-802-	Cabletron PC-OV PC discover (on demand)
+01-00-1D-42-00-00	-802-	Cabletron PC-OV Bridge discover (on demand)
+01-00-1D-52-00-00	-802-	Cabletron PC-OV MMAC discover (on demand)
+01-00-3C-xx-xx-xx	????	Auspex Systems (Serverguard)
+01-00-5E-00-00-00	0800	DoD Internet Multicast (RFC-1112)
+through
+01-00-5E-7F-FF-FF
+01-00-5E-80-00-00	????	DoD Internet reserved by IANA
+through
+01-00-5E-FF-FF-FF
+01-00-81-00-00-00	????	Synoptics Network Management
+01-00-81-00-00-02	????	Synoptics Network Management
+01-00-81-00-01-00	-802-	(snap type 01A2) Bay Networks (Synoptics) autodiscovery
+01-00-81-00-01-01	-802-	(snap type 01A1) Bay Networks (Synoptics) autodiscovery
+01-20-25-00-00-00       873A    Control Technology Inc's Industrial Ctrl Proto.
+through
+01-20-25-7F-FF-FF
+01-80-24-00-00-00	8582	Kalpana Etherswitch every 60 seconds
+01-80-C2-00-00-00	-802-	Spanning tree (for bridges)
+01-80-C2-00-00-01	-802-	802.1 alternate Spanning multicast
+through
+01-80-C2-00-00-0F
+01-80-C2-00-00-10	-802-	Bridge Management
+01-80-C2-00-00-11	-802-	Load Server
+01-80-C2-00-00-12	-802-	Loadable Device
+01-80-C2-00-00-14	-802-	OSI Route level 1 (within area) IS hello?
+01-80-C2-00-00-15	-802-	OSI Route level 2 (between area) IS hello?
+01-80-C2-00-01-00	-802-	FDDI RMT Directed Beacon
+01-80-C2-00-01-10	-802-	FDDI status report frame
+01-DD-00-FF-FF-FF       7002    Ungermann-Bass boot-me requests
+01-DD-01-00-00-00       7005    Ungermann-Bass Spanning Tree
+	[ The following block of addresses (03-...) are used by various	]
+	[ standards.  Some (marked [TR?]) are suspected of only being	]
+	[ used on Token Ring for group addresses of Token Ring specific	]
+	[ functions, reference ISO 8802-5:1995 aka. IEEE 802.5:1995 for	]
+	[ some info.  These in the Ethernet order for this list.  On	]
+	[ Token Ring they appear reversed.  They should never appear on	]
+	[ Ethernet.  Others, not so marked, are normal reports (may be	]
+	[ seen on either).						]
+03-00-00-00-00-01	-802-	NETBIOS [TR?]
+03-00-00-00-00-02	-802-	Locate - Directory Server [TR?]
+03-00-00-00-00-04	-802-	Synchronous Bandwidth Manager [TR?]
+03-00-00-00-00-08	-802-	Configuration Report Server [TR?]
+03-00-00-00-00-10	-802-	Ring Error Monitor [TR?]
+03-00-00-00-00-10       80D5    (OS/2 1.3 EE + Communications Manager)
+03-00-00-00-00-20	-802-	Network Server Heartbeat [TR?]
+03-00-00-00-00-40	-802-	Ring Parameter Monitor [TR?]
+03-00-00-00-00-40       80D5    (OS/2 1.3 EE + Communications Manager)
+03-00-00-00-00-80	-802-	Active Monitor [TR?]
+03-00-00-00-01-00       -802-   OSI All-IS Multicast
+03-00-00-00-02-00       -802-   OSI All-ES Multicast
+03-00-00-00-04-00	-802-	LAN Manager [TR?]
+03-00-00-00-08-00	-802-	Ring Wiring Concentrator [TR?]
+03-00-00-00-10-00	-802-	LAN Gateway [TR?]
+03-00-00-00-20-00	-802-	Ring Authorization Server [TR?]
+03-00-00-00-40-00	-802-	IMPL Server [TR?]
+03-00-00-00-80-00	-802-	Bridge [TR?]
+03-00-00-01-00-00	-802-
+   through			user-defined (per 802 spec?)
+03-00-40-00-00-00	-802-
+03-00-00-20-00-00       -802-   IP Multicast Address (RFC1469)
+03-00-00-80-00-00       -802-   Discovery Client
+03-00-FF-FF-FF-FF       -802-   All Stations Address
+09-00-02-04-00-01?	8080?	Vitalink printer messages
+09-00-02-04-00-02?	8080?	Vitalink bridge management
+09-00-07-00-00-00	-802-	AppleTalk Zone multicast addresses
+    through
+09-00-07-00-00-FC
+09-00-07-FF-FF-FF	-802-	AppleTalk broadcast address
+09-00-09-00-00-01	8005	HP Probe
+09-00-09-00-00-01	-802-	HP Probe
+09-00-09-00-00-04	8005?	HP DTC
+09-00-0D-XX-XX-XX	-802-	ICL Oslan Multicast
+09-00-0D-02-00-00	????	ICL Oslan Service discover only on boot
+09-00-0D-02-0A-38	????	ICL Oslan Service discover only on boot
+09-00-0D-02-0A-39	????	ICL Oslan Service discover only on boot
+09-00-0D-02-0A-3C	????	ICL Oslan Service discover only on boot
+09-00-0D-02-FF-FF	????	ICL Oslan Service discover only on boot
+09-00-0D-09-00-00	????	ICL Oslan Service discover as required
+09-00-1E-00-00-00	8019?	Apollo DOMAIN
+09-00-26-01-00-01?	8038	Vitalink TransLAN bridge management
+09-00-2B-00-00-00	6009?	DEC MUMPS?
+09-00-2B-00-00-01	8039	DEC DSM/DDP
+09-00-2B-00-00-02	803B?	DEC VAXELN?
+09-00-2B-00-00-03	8038	DEC Lanbridge Traffic Monitor (LTM)
+09-00-2B-00-00-04	????	DEC MAP (or OSI?) End System Hello?
+09-00-2B-00-00-05	????	DEC MAP (or OSI?) Intermediate System Hello?
+09-00-2B-00-00-06	803D?	DEC CSMA/CD Encryption?
+09-00-2B-00-00-07	8040?	DEC NetBios Emulator?
+09-00-2B-00-00-0F	6004	DEC Local Area Transport (LAT)
+09-00-2B-00-00-1x	????	DEC Experimental
+09-00-2B-01-00-00	8038	DEC LanBridge Copy packets (All bridges)
+09-00-2B-01-00-01	8038	DEC LanBridge Hello packets (All local bridges)
+				1 packet per second, sent by the
+				designated LanBridge
+09-00-2B-02-00-00	????	DEC DNA Level 2 Routing Layer routers?
+09-00-2B-02-01-00	803C?	DEC DNA Naming Service Advertisement?
+09-00-2B-02-01-01	803C?	DEC DNA Naming Service Solicitation?
+09-00-2B-02-01-09	8048	DEC Availability Manager for Distributed Systems DECamds
+09-00-2B-02-01-02	803E?	DEC Distributed Time Service
+09-00-2B-03-xx-xx	????	DEC default filtering by bridges?
+09-00-2B-04-00-00	8041?	DEC Local Area System Transport (LAST)?
+09-00-2B-23-00-00	803A?	DEC Argonaut Console?
+09-00-39-00-70-00?	????	Spider Systems Bridge Hello packet?
+09-00-4C-00-00-00	-802-	BICC 802.1 management
+09-00-4C-00-00-02	-802-	BICC 802.1 management
+09-00-4C-00-00-06	-802-	BICC Local bridge STA 802.1(D) Rev6
+09-00-4C-00-00-0C	-802-	BICC Remote bridge STA 802.1(D) Rev8
+09-00-4C-00-00-0F	-802-	BICC Remote bridge ADAPTIVE ROUTING (e.g. to Retix)
+09-00-4E-00-00-02?	8137?	Novell IPX (BICC?)
+09-00-56-00-00-00	????	Stanford reserved
+through
+09-00-56-FE-FF-FF
+09-00-56-FF-00-00	805C	Stanford V Kernel, version 6.0
+through
+09-00-56-FF-FF-FF
+09-00-6A-00-01-00	????	TOP NetBIOS.
+09-00-77-00-00-00	-802-	Retix Bridge Local Management System
+09-00-77-00-00-01	-802-	Retix spanning tree bridges 
+09-00-77-00-00-02	-802-	Retix Bridge Adaptive routing
+09-00-7C-01-00-01	????	Vitalink DLS Multicast
+09-00-7C-01-00-03	????	Vitalink DLS Inlink
+09-00-7C-01-00-04	????	Vitalink DLS and non DLS Multicast
+09-00-7C-02-00-05	8080?	Vitalink diagnostics
+09-00-7C-05-00-01	8080?	Vitalink gateway?
+09-00-7C-05-00-02	????	Vitalink Network Validation Message
+09-00-87-80-FF-FF       0889    Xyplex Terminal Servers
+09-00-87-90-FF-FF       0889    Xyplex Terminal Servers
+0D-1E-15-BA-DD-06	????	HP
+33-33-00-00-00-00	86DD	IPv6 Neighbor Discovery
+through
+33-33-FF-FF-FF-FF
+AB-00-00-01-00-00	6001	DEC Maintenance Operation Protocol (MOP)
+				Dump/Load Assistance
+AB-00-00-02-00-00	6002	DEC Maintenance Operation Protocol (MOP)
+				Remote Console
+				1 System ID packet every 8-10 minutes, by every:
+				DEC LanBridge
+				DEC DEUNA interface
+				DEC DELUA interface
+				DEC DEQNA interface (in a certain mode)
+AB-00-00-03-00-00	6003	DECNET Phase IV end node Hello packets
+				1 packet every 15 seconds, sent by each DECNET host
+AB-00-00-04-00-00	6003	DECNET Phase IV Router Hello packets
+				1 packet every 15 seconds, sent by the DECNET router
+AB-00-00-05-00-00	????	Reserved DEC customer private use
+AB-00-04-01-xx-yy	6007	DEC Local Area VAX Cluster groups
+				System Communication Architecture (SCA)
+	[ Note, used to have a bunch of things here starting C0, but	]
+	[ these were bit reversed from Ethernet order and Token Ring	]
+	[ specific.  See above under 03 for them in Ethernet order/	]
+CF-00-00-00-00-00	9000	Ethernet Configuration Test protocol (Loopback)
+FF-FF-00-60-00-04	81D6	Lantastic
+FF-FF-00-40-00-01	81D6	Lantastic
+FF-FF-01-E0-00-04	81D6	Lantastic
+
+Broadcast Address:
+
+FF-FF-FF-FF-FF-FF	0600	XNS packets, Hello or gateway search?  6 packets every 15 seconds, per XNS station
+FF-FF-FF-FF-FF-FF	0800	IP (e.g. RWHOD via UDP) as needed
+FF-FF-FF-FF-FF-FF	0804	CHAOS
+FF-FF-FF-FF-FF-FF	0806	ARP (for IP and CHAOS) as needed
+FF-FF-FF-FF-FF-FF	0BAD	Banyan
+FF-FF-FF-FF-FF-FF	1600	VALID packets, Hello or gateway search?  1 packets every 30 seconds, per VALID station
+FF-FF-FF-FF-FF-FF	8035	Reverse ARP
+FF-FF-FF-FF-FF-FF	807C	Merit Internodal (INP)
+FF-FF-FF-FF-FF-FF	809B	EtherTalk
+FF-FF-FF-FF-FF-FF	9001	3Com (ex Bridge) Name Service
+FF-FF-FF-FF-FF-FF	9002	3Com PCS/TCP Hello, Approx. 1 per minute per w/s
+

@@ -82,6 +82,7 @@ X-MS-RP
 X-Node
 X-OAuth-Scopes
 X-OC-Mtime
+X-OCSP-Reponder-ID
 X-ORACLE-DMS-ECID
 X-ORACLE-DMS-RID
 X-OWA-Diagnostics-Info

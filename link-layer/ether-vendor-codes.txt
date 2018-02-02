@@ -1,0 +1,899 @@
+000001	SuperLAN-2U
+000002	BBN (was internal usage only, no longer used)
+000009	powerpipes?
+00000C	Cisco
+00000E	Fujitsu
+00000F	NeXT
+000010	Hughes LAN Systems (formerly Sytek)
+000011	Tektronix
+000015	Datapoint Corporation
+000018	Webster Computer Corporation	Appletalk/Ethernet Gateway
+00001A	AMD (?)
+00001B	Novell (now Eagle Technology)
+00001C	JDR Microdevices		generic, NE2000 drivers
+00001D	Cabletron
+00001F	Cryptall Communications Corp.
+000020	DIAB (Data Intdustrier AB)
+000021	SC&C (PAM Soft&Hardware also reported)
+000022	Visual Technology
+000023	ABB Automation AB, Dept. Q
+000024	Olicom
+000029	IMC
+00002A	TRW
+00002C	NRC - Network Resources Corporation - MultiGate Hub1+, Hub2, etc
+000032	GPT Limited (reassigned from GEC Computers Ltd)
+000037	Oxford Metrics Ltd
+00003B	Hyundai/Axil			Sun clones
+00003C	Auspex
+00003D	AT&T
+00003F	Syntrex Inc
+000044	Castelle
+000046	ISC-Bunker Ramo, An Olivetti Company
+000048	Epson
+000049	Apricot Ltd.
+00004B	APT	-ICL also reported
+00004C	NEC Corporation
+00004F	Logicraft 386-Ware P.C. Emulator
+000051	Hob Electronic Gmbh & Co. KG
+000052	Optical Data Systems
+000055	AT&T
+000058	Racore Computer Products Inc
+00005A	SK	(Schneider & Koch in Europe and Syskonnect outside of Europe)
+00005A	Xerox 806 (unregistered)
+00005B	Eltec
+00005D	RCE
+00005E	U.S. Department of Defense (IANA)
+00005F	Sumitomo
+000061	Gateway Communications
+000062	Honeywell
+000063	Hewlett-Packard		LanProbe
+000064	Yokogawa Digital Computer Corp
+000065	Network General
+000066	Talaris
+000068	Rosemount Controls
+000069	Concord Communications, Inc (although someone said Silicon Graphics)
+00006B	MIPS
+00006D	Case
+00006E	Artisoft, Inc.
+00006F	Madge Networks Ltd.		Token-ring adapters
+000073	DuPont
+000075	Bell Northern Research (BNR)
+000077	Interphase		[Used in other systems, e.g. MIPS, Motorola]
+000078	Labtam Australia
+000079	Networth Incorporated	[bought by Compaq, used in Netelligent series]
+00007A	Ardent
+00007B	Research Machines
+00007D	Cray Research Superservers,Inc		[Also Harris (3M) (old)]
+00007E	NetFRAME multiprocessor network servers
+00007F	Linotype-Hell AG		Linotronic typesetters
+000080	Cray Communications (formerly Dowty Network Services)	[Also shows as "Harris (3M) (new)" and/or "Imagen(?)" elsewhere]
+000081	Synoptics
+000083	Tadpole Technology  [had Optical Data Systems which is wrong according to both]
+000084	Aquila (?), ADI Systems Inc.(?)
+000086	Gateway Communications Inc. (then Megahertz & now 3com)
+000087	Hitachi
+000089	Cayman Systems			Gatorbox
+00008A	Datahouse Information Systems
+00008E	Solbourne(?), Jupiter(?) (I've had confirming mail on Solbourne)
+000092	Unisys, Cogent (both reported)
+000093	Proteon
+000094	Asante				MAC
+000095	Sony/Tektronix
+000097	Epoch
+000098	Cross Com
+000099	Memorex Telex Corporations
+00009F	Ameristar Technology
+0000A0	Sanyo Electronics
+0000A2	Wellfleet
+0000A3	Network Application Technology (NAT)
+0000A4	Acorn
+0000A5	Compatible Systems Corporation
+0000A6	Network General (internal assignment, not for products)
+0000A7	Network Computing Devices (NCD)	X-terminals
+0000A8	Stratus Computer, Inc.
+0000A9	Network Systems
+0000AA	Xerox				Xerox machines
+0000AC	Conware Netzpartner		[had Apollo, claimed incorrect]
+0000AE	Dassault Automatismes et Telecommunications
+0000AF	Nuclear Data			Acquisition Interface Modules (AIM)
+0000B0	RND (RAD Network Devices)
+0000B1	Alpha Microsystems Inc.
+0000B3	CIMLinc
+0000B4	Edimax
+0000B5	Datability			Terminal Servers
+0000B6	Micro-matic Research
+0000B7	Dove				Fastnet
+0000BB	TRI-DATA Systems Inc.		Netway products, 3274 emulators
+0000BC	Allen-Bradley
+0000C0	Western Digital now SMC (Std. Microsystems Corp.)
+0000C1	Olicom A/S
+0000C5	Farallon Computing Inc
+0000C6	HP Intelligent Networks Operation (formerly Eon Systems)
+0000C8	Altos
+0000C9	Emulex				Terminal Servers, Print Servers
+0000CA	LANcity Cable Modems (now owned by BayNetworks)
+0000CC	Densan Co., Ltd.
+0000CD	Industrial Research Limited
+0000D0	Develcon Electronics, Ltd.
+0000D1	Adaptec, Inc.			"Nodem" product
+0000D2	SBE Inc
+0000D3	Wang Labs
+0000D4	PureData
+0000D7	Dartmouth College (NED Router)
+0000D8	old Novell NE1000's (before about 1987?) (also 3Com)
+0000DD	Gould
+0000DE	Unigraph
+0000E1	Hitachi (laptop built-in)
+0000E2	Acer Counterpoint
+0000E3	Integrated Micro Products Ltd
+0000E4	mips?
+0000E6	Aptor Produits De Comm Indust
+0000E8	Accton Technology Corporation
+0000E9	ISICAD, Inc.
+0000ED	April
+0000EE	Network Designers Limited [also KNX Ltd, a former division]
+0000EF	Alantec				(now owned by ForeSystems)
+0000F0	Samsung
+0000F2	Spider Communications		(Montreal, not Spider Systems)
+0000F3	Gandalf Data Ltd. - Canada
+0000F4	Allied Telesis, Inc.
+0000F6	A.M.C. (Applied Microsystems Corp.)
+0000F8	DEC
+0000FB	Rechner zur Kommunikation
+0000FD	High Level Hardware (Orion, UK)
+0000FF	Camtec Electronics (UK) Ltd.
+000102	BBN (Bolt Beranek and Newman, Inc.)	internal usage (not registered)
+000143	IEEE 802
+000150	Megahertz (now 3com) modem
+000163	NDC (National Datacomm Corporation)
+000168	W&G (Wandel & Goltermann)	[incorrect according to W&G]
+0001C8	Thomas Conrad Corp.
+0001FA	Compaq (PageMarq printers)
+000204	Novell NE3200
+000205	Hamilton (Sparc Clones)
+000216	ESI (Extended Systems, Inc)	print servers
+000288	Global Village (PCcard in Mac portable)
+0003C6	Morning Star Technologies Inc
+000400	Lexmark (Print Server)
+0004AC	IBM				PCMCIA Ethernet adapter.
+000502	Apple (PCI bus Macs)
+00059A	PowerComputing (Mac clone)
+0005A8	PowerComputing			Mac clones
+00060D	Hewlett-Packard			JetDirect token-ring interfaces
+000629	IBM RISC6000 system
+00067C	Cisco
+0006C1	Cisco
+000701	Racal-Datacom
+00070D	Cisco				2511 Token Ring
+000852	Technically Elite Concepts
+000855	Fermilab
+0008C7	Compaq
+001007	Cisco Systems			Catalyst 1900
+00100B	Cisco Systems
+00100D	Cisco Systems			Catalyst 2924-XL
+001011	Cisco Systems			Cisco 75xx
+00101F	Cisco Systems			Catalyst 2901
+001029	Cisco Systems			Catalyst 5000
+00102F	Cisco Systems			Cisco 5000
+00104B	3Com				3C905-TX PCI
+00105A	3Com				Fast Etherlink XL in a Gateway 2000
+001060	Billington			Novell NE200 Compatible
+001079	Cisco				5500 Router
+00107A	Ambicom (was Tandy?)
+00107B	Cisco Systems
+001083	HP-UX E 9000/889
+0010A4	Xircom				RealPort 10/100 PC Card
+0010A6	Cisco
+0010D7	Argosy				EN 220 Fast Ethernet PCMCIA
+0010F6	Cisco
+001700	Kabel
+002000	Lexmark (Print Server)
+002005	simpletech
+002008	Cable & Computer Technology
+00200C	Adastra Systems Corp
+002011	Canopus Co Ltd
+002017	Orbotech
+002018	Realtek
+00201A	Nbase
+002025	Control Technology Inc (Industrial Controls and Network Interfaces)
+002028	Bloomberg
+002029	TeleProcessing CSU/DSU (now owned by ADC/Kentrox)
+00202B	ATML (Advanced Telecommunications Modules, Ltd.)
+002035	IBM (International Business Machines)	mainframes, Etherjet printers
+002036	BMC Software
+002042	Datametrics Corp
+002045	SolCom Systems Limited
+002048	Fore Systems Inc
+00204B	Autocomputer Co Ltd
+00204C	Mitron Computer Pte Ltd
+002056	Neoproducts
+002061	Dynatech Communications Inc
+002063	Wipro Infotech Ltd
+002066	General Magic Inc
+002067	Node Runner Inc
+00206B	Minolta Co., Ltd		Network printers
+002078	Runtop Inc
+002085	3COM SuperStack II UPS management module
+00208A	Sonix Communications Ltd
+00208B	Focus Enhancements
+00208C	Galaxy Networks Inc
+002094	Cubix Corporation
+0020A5	Newer Technology
+0020A6	Proxim Inc
+0020A7	Pairgain Technologies, Inc.
+0020AF	3COM Corporation
+0020B2	CSP (Printline Multiconnectivity converter)
+0020B6	Agile Networks Inc
+0020B9	Metricom, Inc.
+0020C5	Eagle NE2000
+0020C6	NECTEC
+0020D0	Versalynx Corp.			"The One Port" terminal server
+0020D2	RAD Data Communications Ltd
+0020D3	OST (Ouet Standard Telematique)
+0020D8	NetWave
+0020DA	Xylan
+0020DC	Densitron Taiwan Ltd
+0020E0	PreMax PE-200 (PCMCIA NE2000-clone card, sold by InfoExpress)
+0020E5	Apex Data
+0020EE	Gtech Corporation
+0020F6	Net Tek & Karlnet Inc
+0020F8	Carrera Computers Inc
+0020FC	Matrox
+004001	Zero One Technology Co Ltd (ZyXEL?)
+004005	TRENDware International Inc.; Linksys; Simple Net; all three reported
+004009	Tachibana Tectron Co Ltd
+00400B	Crescendo (now owned by Cisco)
+00400C	General Micro Systems, Inc.
+00400D	LANNET Data Communications
+004010	Sonic				Mac Ethernet interfaces
+004011	Facilities Andover Environmental Controllers
+004013	NTT Data Communication Systems Corp
+004014	Comsoft Gmbh
+004015	Ascom
+004017	XCd XJet - HP printer server card
+00401C	AST				Pentium/90 PC (emulating AMD EISA card)
+00401F	Colorgraph Ltd
+004020	Pilkington Communication
+004023	Logic Corporation
+004025	Molecular Dynamics
+004026	Melco Inc
+004027	SMC Massachusetts		[Had:Sigma (?), maybe the "S"?]
+004028	Netcomm
+00402A	Canoga-Perkins
+00402B	TriGem
+00402F	Xlnt Designs Inc (XDI)
+004030	GK Computer
+004032	Digital Communications
+004033	Addtron Technology Co., Ltd.
+004036	TribeStar
+004039	Optec Daiichi Denko Co Ltd
+00403C	Forks, Inc.
+004041	Fujikura Ltd.
+004043	Nokia Data Communications
+004048	SMD Informatica S.A.
+00404C	Hypertec Pty Ltd.
+00404D	Telecomm Techniques
+00404F	Space & Naval Warfare Systems
+004050	Ironics, Incorporated
+004052	Star Technologies Inc
+004053	Datum [Bancomm Division]	TymServe 2000
+004054	Thinking Machines Corporation
+004057	Lockheed-Sanders
+004059	Yoshida Kogyo K.K.
+00405B	Funasset Limited
+00405D	Star-Tek Inc
+004066	Hitachi Cable, Ltd.
+004067	Omnibyte Corporation
+004068	Extended Systems
+004069	Lemcom Systems Inc
+00406A	Kentek Information Systems Inc
+00406E	Corollary, Inc.
+00406F	Sync Research Inc
+004072	Applied Innovation
+004074	Cable and Wireless
+004076	AMP Incorporated
+004078	Wearnes Automation Pte Ltd
+00407F	Agema Infrared Systems AB
+004082	Laboratory Equipment Corp
+004085	SAAB Instruments AB
+004086	Michels & Kleberhoff Computer
+004087	Ubitrex Corporation
+004088	Mobuis			NuBus (Mac) combination video/EtherTalk
+00408A	TPS Teleprocessing Sys. Gmbh
+00408C	Axis Communications AB
+00408E	CXR/Digilog
+00408F	WM-Data Minfo AB
+004090	Ansel Communications	PC NE2000 compatible twisted-pair ethernet cards
+004091	Procomp Industria Eletronica
+004092	ASP Computer Products, Inc.
+004094	Shographics Inc
+004095	Eagle Technologies	[UMC also reported]
+004096	Telesystems SLW Inc
+00409A	Network Express Inc
+00409C	Transware
+00409D	DigiBoard		Ethernet-ISDN bridges
+00409E	Concurrent Technologies Ltd.
+00409F	Lancast/Casat Technology Inc
+0040A4	Rose Electronics
+0040A6	Cray Research Inc.
+0040AA	Valmet Automation Inc
+0040AD	SMA Regelsysteme Gmbh
+0040AE	Delta Controls, Inc.
+0040AF	Digital Products, Inc. (DPI).
+0040B4	3COM K.K.
+0040B5	Video Technology Computers Ltd
+0040B6	Computerm Corporation
+0040B9	MACQ Electronique SA
+0040BD	Starlight Networks Inc
+0040C1	Bizerba-Werke Wilheim Kraut
+0040C2	Applied Computing Devices
+0040C3	Fischer and Porter Co.
+0040C5	Micom Communications Corp.
+0040C6	Fibernet Research, Inc.
+0040C7	Danpex Corporation
+0040C8	Milan Technology Corp.
+0040CC	Silcom Manufacturing Technology Inc
+0040CF	Strawberry Tree Inc
+0040D0	DEC/Compaq
+0040D2	Pagine Corporation
+0040D4	Gage Talker Corp.
+0040D7	Studio Gen Inc
+0040D8	Ocean Office Automation Ltd
+0040DC	Tritec Electronic Gmbh
+0040DF	Digalog Systems, Inc.
+0040E1	Marner International Inc
+0040E2	Mesa Ridge Technologies Inc
+0040E3	Quin Systems Ltd
+0040E5	Sybus Corporation
+0040E7	Arnos Instruments & Computer
+0040E9	Accord Systems, Inc.
+0040EA	PlainTree Systems Inc
+0040ED	Network Controls International Inc
+0040F0	Micro Systems Inc
+0040F1	Chuo Electronics Co., Ltd.
+0040F4	Cameo Communications, Inc.
+0040F5	OEM Engines
+0040F6	Katron Computers Inc
+0040F9	Combinet
+0040FA	Microboards Inc
+0040FB	Cascade Communications Corp.
+0040FD	LXE
+0040FF	Telebit Corporation		Personal NetBlazer
+004854	Digital SemiConductor		21143/2 based 10/100
+004F49	Realtek
+004F4B	Pine Technology Ltd.
+005004	3com				3C90X
+00500F	Cisco
+00504D	Repotec Group
+00504E	UMC				UM9008 NE2000-compatible ISA Card for PC
+005050	Cisco
+005069	PixStream Incorporated
+0050BD	Cisco
+0050E2	Cisco
+005500	Xerox
+006008	3Com				3Com PCI form factor 3C905 TX board
+006009	Cisco				Catalyst 5000 Ethernet switch
+006025	Active Imaging Inc.
+00602F	Cisco
+006030	VillageTronic			used on Amiga
+00603E	Cisco				100Mbps interface
+006047	Cisco
+00604E	Cycle Computer (Sun MotherBoard Replacements)
+006052	Realtek				(RTL 8029 == PCI NE2000)
+00605C	Cisco
+006067	Acer Lan
+006070	Cisco				routers (2524 and 4500)
+006083	Cisco Systems, Inc.		3620/3640 routers
+00608C	3Com (1990 onwards)
+006094	AMD PCNET PCI
+006097	3Com
+0060B0	Hewlett-Packard
+0060F5	Phobos FastEthernet for Unix WS
+008000	Multitech Systems Inc
+008001	Periphonics Corporation
+008004	Antlow Computers, Ltd.
+008005	Cactus Computer Inc.
+008006	Compuadd Corporation
+008007	Dlog NC-Systeme
+008009	Jupiter Systems (older MX-600 series machines)
+00800D	Vosswinkel FU
+00800F	SMC (Standard Microsystem Corp.)
+008010	Commodore
+008012	IMS Corp.			IMS failure analysis tester
+008013	Thomas Conrad Corp.
+008015	Seiko Systems Inc
+008016	Wandel & Goltermann
+008017	PFU
+008019	Dayna Communications		"Etherprint" product
+00801A	Bell Atlantic
+00801B	Kodiak Technology
+00801C	Cisco
+008021	Newbridge Networks Corporation
+008023	Integrated Business Networks
+008024	Kalpana
+008026	Network Products Corporation
+008029	Microdyne Corporation
+00802A	Test Systems & Simulations Inc
+00802C	The Sage Group PLC
+00802D	Xylogics, Inc.			Annex terminal servers
+00802E	Plexcom, Inc.
+008033	Formation (?)
+008034	SMT-Goupil
+008035	Technology Works
+008037	Ericsson Business Comm.
+008038	Data Research & Applications
+00803B	APT Communications, Inc.
+00803D	Surigiken Co Ltd
+00803E	Synernetics
+00803F	Hyundai Electronics
+008042	Force Computers
+008043	Networld Inc
+008045	Matsushita Electric Ind Co
+008046	University of Toronto
+008048	Compex, used by Commodore and DEC at least
+008049	Nissin Electric Co Ltd
+00804C	Contec Co., Ltd.
+00804D	Cyclone Microsystems, Inc.
+008051	ADC Fibermux
+008052	Network Professor
+008057	Adsoft Ltd
+00805A	Tulip Computers International BV
+00805B	Condor Systems, Inc.
+00805C	Agilis(?)
+00805F	Compaq Computer Corporation
+008060	Network Interface Corporation
+008062	Interface Co.
+008063	Richard Hirschmann Gmbh & Co
+008064	Wyse
+008067	Square D Company
+008069	Computone Systems
+00806A	ERI (Empac Research Inc.)
+00806B	Schmid Telecommunication
+00806C	Cegelec Projects Ltd
+00806D	Century Systems Corp.
+00806E	Nippon Steel Corporation
+00806F	Onelan Ltd
+008071	SAI Technology
+008072	Microplex Systems Ltd
+008074	Fisher Controls
+008079	Microbus Designs Ltd
+00807B	Artel Communications Corp.
+00807C	FiberCom
+00807D	Equinox Systems Inc
+008082	PEP Modular Computers Gmbh
+008086	Computer Generation Inc.
+008087	Okidata
+00808A	Summit (?)
+00808B	Dacoll Limited
+00808C	Netscout Systems (formerly Frontier Software Development)
+00808D	Westcove Technology BV
+00808E	Radstone Technology
+008090	Microtek International Inc
+008092	Japan Computer Industry, Inc.
+008093	Xyron Corporation
+008094	Sattcontrol AB
+008096	HDS (Human Designed Systems)	X terminals
+008098	TDK Corporation
+00809A	Novus Networks Ltd
+00809B	Justsystem Corporation
+00809D	Datacraft Manufactur'g Pty Ltd
+00809F	Alcatel Business Systems
+0080A1	Microtest
+0080A3	Lantronix	(see also 0800A3)
+0080A6	Republic Technology Inc
+0080A7	Measurex Corp
+0080AD	CNet Technology			Used by Telebit (among others)
+0080AE	Hughes Network Systems
+0080AF	Allumer Co., Ltd.
+0080B1	Softcom A/S
+0080B2	NET (Network Equipment Technologies)
+0080B6	Themis corporation
+0080BA	Specialix (Asia) Pte Ltd
+0080C0	Penril Datability Networks
+0080C2	IEEE				802.1 Committee
+0080C6	Soho
+0080C7	Xircom, Inc.
+0080C8	D-Link	(also Solectek Pocket Adapters, and LinkSys PCMCIA)
+0080C9	Alberta Microelectronic Centre
+0080CE	Broadcast Television Systems
+0080D0	Computer Products International
+0080D3	Shiva				Appletalk-Ethernet interface
+0080D4	Chase Limited
+0080D6	Apple Mac Portable(?)
+0080D7	Fantum Electronics
+0080D8	Network Peripherals
+0080DA	Bruel & Kjaer
+0080E0	XTP Systems Inc
+0080E3	Coral (?)
+0080E7	Lynwood Scientific Dev Ltd
+0080EA	The Fiber Company
+0080F0	Kyushu Matsushita Electric Co
+0080F1	Opus
+0080F3	Sun Electronics Corp
+0080F4	Telemechanique Electrique
+0080F5	Quantel Ltd
+0080F7	Zenith Communications Products
+0080FB	BVM Limited
+0080FE	Azure Technologies Inc
+009004	3Com
+009027	Intel
+0090B1	Cisco
+00902B	Cisco				Ethernet Switches and Light Streams
+009086	Cisco
+009092	Cisco
+0090AB	Cisco
+0090B1	Cisco
+0090F2	Cisco				Ethernet Switches and Light Streams
+00A000	Bay Networks			Ethernet switch
+00A00C	Kingmax Technology Inc.		PCMCIA card
+00A024	3com
+00A040	Apple (PCI Mac)
+00A04B	Sonic Systems Inc.		EtherFE 10/100 PCI for Mac or PC
+00A073	Com21
+00A083	Intel
+00A092	Intermate International		[LAN printer interfaces]
+00A0AE	Network Peripherals, Inc.
+00A0C8	Adtran, Inc.
+00A0C9	Intel (PRO100B and PRO100+)	[used on Cisco PIX firewall among others]
+00A0CC	Lite-On		(used by MacSense in Adapter for Mac, also seen in PCs)
+00A0D1	National Semiconductor		[COMPAQ Docking Station]
+00A0D2	Allied Telesyn
+00AA00	Intel
+00B0D0	Computer Products International
+00C000	Lanoptics Ltd
+00C001	Diatek Patient Managment
+00C002	Sercomm Corporation
+00C003	Globalnet Communications
+00C004	Japan Business Computer Co.Ltd
+00C005	Livingston Enterprises Inc	Portmaster (OEMed by Cayman)
+00C006	Nippon Avionics Co Ltd
+00C007	Pinnacle Data Systems Inc
+00C008	Seco SRL
+00C009	KT Technology (s) Pte Inc
+00C00A	Micro Craft
+00C00B	Norcontrol A.S.
+00C00C	ARK PC Technology, Inc.
+00C00D	Advanced Logic Research Inc
+00C00E	Psitech Inc
+00C00F	QNX Software Systems Ltd.	[also Quantum Software Systems Ltd]
+00C011	Interactive Computing Devices
+00C012	Netspan Corp
+00C013	Netrix
+00C014	Telematics Calabasas
+00C015	New Media Corp
+00C016	Electronic Theatre Controls
+00C017	Fluke
+00C018	Lanart Corp
+00C01A	Corometrics Medical Systems
+00C01B	Socket Communications
+00C01C	Interlink Communications Ltd.
+00C01D	Grand Junction Networks, Inc.	(Cisco Catalyst also reported)
+00C01F	S.E.R.C.E.L.
+00C020	Arco Electronic, Control Ltd.
+00C021	Netexpress
+00C023	Tutankhamon Electronics
+00C024	Eden Sistemas De Computacao SA
+00C025	Dataproducts Corporation
+00C027	Cipher Systems, Inc.
+00C028	Jasco Corporation
+00C029	Kabel Rheydt AG
+00C02A	Ohkura Electric Co
+00C02B	Gerloff Gesellschaft Fur
+00C02C	Centrum Communications, Inc.
+00C02D	Fuji Photo Film Co., Ltd.
+00C02E	Netwiz
+00C02F	Okuma Corp
+00C030	Integrated Engineering B. V.
+00C031	Design Research Systems, Inc.
+00C032	I-Cubed Limited
+00C033	Telebit Corporation
+00C034	Dale Computer Corporation
+00C035	Quintar Company
+00C036	Raytech Electronic Corp
+00C039	Silicon Systems
+00C03B	Multiaccess Computing Corp
+00C03C	Tower Tech S.R.L.
+00C03D	Wiesemann & Theis Gmbh
+00C03E	Fa. Gebr. Heller Gmbh
+00C03F	Stores Automated Systems Inc
+00C040	ECCI
+00C041	Digital Transmission Systems
+00C042	Datalux Corp.
+00C043	Stratacom
+00C044	Emcom Corporation
+00C045	Isolation Systems Inc
+00C046	Kemitron Ltd
+00C047	Unimicro Systems Inc
+00C048	Bay Technical Associates
+00C049	US Robotics Total Control (tm) NETServer Card
+00C04D	Mitec Ltd
+00C04E	Comtrol Corporation
+00C04F	Dell
+00C050	Toyo Denki Seizo K.K.
+00C051	Advanced Integration Research
+00C055	Modular Computing Technologies
+00C056	Somelec
+00C057	Myco Electronics
+00C058	Dataexpert Corp
+00C059	Nippondenso Corp
+00C05B	Networks Northwest Inc
+00C05C	Elonex PLC
+00C05D	L&N Technologies
+00C05E	Vari-Lite Inc
+00C060	ID Scandinavia A/S
+00C061	Solectek Corporation
+00C063	Morning Star Technologies Inc	May be miswrite of 0003C6
+00C064	General Datacomm Ind Inc
+00C065	Scope Communications Inc
+00C066	Docupoint, Inc.
+00C067	United Barcode Industries
+00C068	Philp Drake Electronics Ltd
+00C069	California Microwave Inc
+00C06A	Zahner-Elektrik Gmbh & Co KG
+00C06B	OSI Plus Corporation
+00C06C	SVEC Computer Corp
+00C06D	Boca Research, Inc.
+00C06F	Komatsu Ltd
+00C070	Sectra Secure-Transmission AB
+00C071	Areanex Communications, Inc.
+00C072	KNX Ltd
+00C073	Xedia Corporation
+00C074	Toyoda Automatic Loom Works Ltd
+00C075	Xante Corporation	
+00C076	I-Data International A-S
+00C077	Daewoo Telecom Ltd
+00C078	Computer Systems Engineering
+00C079	Fonsys Co Ltd
+00C07A	Priva BV
+00C07B	Ascend Communications		ISDN bridges/routers
+00C07D	RISC Developments Ltd
+00C07F	Nupon Computing Corp
+00C080	Netstar Inc
+00C081	Metrodata Ltd
+00C082	Moore Products Co
+00C084	Data Link Corp Ltd
+00C085	Canon
+00C086	The Lynk Corporation
+00C087	UUNET Technologies Inc
+00C089	Telindus Distribution
+00C08A	Lauterbach Datentechnik Gmbh
+00C08B	RISQ Modular Systems Inc
+00C08C	Performance Technologies Inc
+00C08D	Tronix Product Development
+00C08E	Network Information Technology
+00C08F	Matsushita Electric Works, Ltd.
+00C090	Praim S.R.L.
+00C091	Jabil Circuit, Inc.
+00C092	Mennen Medical Inc
+00C093	Alta Research Corp.
+00C095	Znyx (Network Appliance); Jupiter Systems (MX-700); Apple (G3)  all seen
+00C096	Tamura Corporation
+00C097	Archipel SA
+00C098	Chuntex Electronic Co., Ltd.
+00C09B	Reliance Comm/Tec, R-Tec Systems Inc
+00C09C	TOA Electronic Ltd
+00C09D	Distributed Systems Int'l, Inc.
+00C09F	Quanta Computer Inc
+00C0A0	Advance Micro Research, Inc.
+00C0A1	Tokyo Denshi Sekei Co
+00C0A2	Intermedium A/S
+00C0A3	Dual Enterprises Corporation
+00C0A4	Unigraf OY
+00C0A7	SEEL Ltd
+00C0A8	GVC Corporation
+00C0A9	Barron McCann Ltd
+00C0AA	Silicon Valley Computer
+00C0AB	Jupiter Technology Inc
+00C0AC	Gambit Computer Communications
+00C0AD	Computer Communication Systems
+00C0AE	Towercom Co Inc DBA PC House
+00C0B0	GCC Technologies,Inc.
+00C0B2	Norand Corporation
+00C0B3	Comstat Datacomm Corporation
+00C0B4	Myson Technology Inc
+00C0B5	Corporate Network Systems Inc
+00C0B6	Meridian Data Inc
+00C0B7	American Power Conversion Corp
+00C0B8	Fraser's Hill Ltd.
+00C0B9	Funk Software Inc
+00C0BA	Netvantage
+00C0BB	Forval Creative Inc
+00C0BD	Inex Technologies, Inc.
+00C0BE	Alcatel - Sel
+00C0BF	Technology Concepts Ltd
+00C0C0	Shore Microsystems Inc
+00C0C1	Quad/Graphics Inc
+00C0C2	Infinite Networks Ltd.
+00C0C3	Acuson Computed Sonography
+00C0C4	Computer Operational
+00C0C5	SID Informatica
+00C0C6	Personal Media Corp
+00C0C8	Micro Byte Pty Ltd
+00C0C9	Bailey Controls Co
+00C0CA	Alfa, Inc.
+00C0CB	Control Technology Corporation
+00C0CD	Comelta S.A.
+00C0D0	Ratoc System Inc
+00C0D1	Comtree Technology Corporation (EFA also reported)
+00C0D2	Syntellect Inc
+00C0D4	Axon Networks Inc
+00C0D5	Quancom Electronic Gmbh
+00C0D6	J1 Systems, Inc.
+00C0D9	Quinte Network Confidentiality Equipment Inc
+00C0DB	IPC Corporation (Pte) Ltd
+00C0DC	EOS Technologies, Inc.
+00C0DE	ZComm Inc
+00C0DF	Kye Systems Corp
+00C0E1	Sonic Solutions
+00C0E2	Calcomp, Inc.
+00C0E3	Ositech Communications Inc
+00C0E4	Landis & Gyr Powers Inc
+00C0E5	GESPAC S.A.
+00C0E6	TXPORT
+00C0E7	Fiberdata AB
+00C0E8	Plexcom Inc
+00C0E9	Oak Solutions Ltd
+00C0EA	Array Technology Ltd.
+00C0EC	Dauphin Technology
+00C0ED	US Army Electronic Proving Ground
+00C0EE	Kyocera Corporation
+00C0EF	Abit Corporation
+00C0F0	Kingston Technology Corporation
+00C0F1	Shinko Electric Co Ltd
+00C0F2	Transition Engineering Inc
+00C0F3	Network Communications Corp
+00C0F4	Interlink System Co., Ltd.
+00C0F5	Metacomp Inc
+00C0F6	Celan Technology Inc.
+00C0F7	Engage Communication, Inc.
+00C0F8	About Computing Inc.
+00C0FA	Canary Communications Inc
+00C0FB	Advanced Technology Labs
+00C0FC	ASDG Incorporated
+00C0FD	Prosum
+00C0FF	Box Hill Systems Corporation
+00DD00	Ungermann-Bass			IBM RT
+00DD01	Ungermann-Bass
+00DD08	Ungermann-Bass
+00E011	Uniden Corporation
+00E014	Cisco
+00E016	rapid-city (now a part of bay networks)
+00E018	Asustek		Intel 82558-based Integrated Fast Ethernet for WIM
+00E01E	Cisco
+00E029	SMC EtherPower II 10/100
+00E02C	AST - built into 5166M PC motherboard (win95 id's as Intel)
+00E034	Cisco
+00E039	Paradyne 7112 T1 DSU/CSU
+00E04F	Cisco
+00E07D	Encore (Netronix?)		10/100 PCI Fast ethernet card
+00E081	Tyan Computer Corp.		Onboard Intel 82558 10/100
+00E083	Jato Technologies, Inc.
+00E08F	Cisco Systems			Catalyst 2900 series
+00E098	Linksys				PCMCIA card
+00E0A3	Cisco Systems			Catalyst 1924
+00E0B0	Cisco Systems			Various systems reported
+00E0B8	AMD PCNet			in a Gateway 2000
+00E0C5	BCOM Electronics Inc.
+00E0ED	New Link
+00E0F7	Cisco
+00E0F9	Cisco
+00E0FE	Cisco
+020406	BBN				internal usage (not registered)
+020701	Interlan [now Racal-InterLAN]	DEC (UNIBUS or QBUS), Apollo, Cisco
+020701	Racal-Datacom
+026060	3Com
+026086	Satelcom MegaPac (UK)
+02608C	3Com				IBM PC; Imagen; Valid; Cisco; Macintosh
+02A0C9	Intel
+02AA3C	Olivetti
+02CF1F	CMC				Masscomp; Silicon Graphics; Prime EXL
+02E03B	Prominet Corporation		Gigabit Ethernet Switch
+02E6D3	BTI (Bus-Tech, Inc.)		IBM Mainframes
+048845	Bay Networks			token ring line card
+080001	Computer Vision
+080002	3Com (formerly Bridge)
+080003	ACC (Advanced Computer Communications)
+080005	Symbolics			Symbolics LISP machines
+080006	Siemens Nixdorf			PC clone
+080007	Apple
+080008	BBN (Bolt Beranek and Newman, Inc.)
+080009	Hewlett-Packard
+08000A	Nestar Systems
+08000B	Unisys also Ascom-Timeplex (former Unisys subsidiary)
+08000D	ICL (International Computers, Ltd.)
+08000E	NCR/AT&T
+08000F	SMC (Standard Microsystems Corp.)
+080010	AT&T [misrepresentation of 800010?]
+080011	Tektronix, Inc.
+080014	Excelan				BBN Butterfly, Masscomp, Silicon Graphics
+080017	National Semiconductor Corp. (used to have Network System Corp., wrong NSC)
+08001A	Tiara? (used to have Data General)
+08001B	Data General
+08001E	Apollo
+08001F	Sharp
+080020	Sun
+080022	NBI (Nothing But Initials)
+080023	Matsushita Denso
+080025	CDC
+080026	Norsk Data (Nord)
+080027	PCS Computer Systems GmbH
+080028	TI				Explorer
+08002B	DEC
+08002E	Metaphor
+08002F	Prime Computer			Prime 50-Series LHC300
+080030	CERN
+080032	Tigan
+080036	Intergraph			CAE stations
+080037	Fuji Xerox
+080038	Bull
+080039	Spider Systems
+08003B	Torus Systems
+08003D	cadnetix
+08003E	Motorola			VME bus processor modules
+080041	DCA (Digital Comm. Assoc.)
+080044	DSI (DAVID Systems, Inc.)
+080045	???? (maybe Xylogics, but they claim not to know this number)
+080046	Sony
+080047	Sequent
+080048	Eurotherm Gauging Systems
+080049	Univation
+08004C	Encore
+08004E	BICC	[3com bought BICC, so may appear on 3com equipment as well]
+080051	Experdata
+080056	Stanford University
+080057	Evans & Sutherland (?)
+080058	???				DECsystem-20
+08005A	IBM
+080066	AGFA				printers, phototypesetters etc.
+080067	Comdesign
+080068	Ridge
+080069	Silicon Graphics
+08006A	ATTst (?)
+08006E	Excelan
+080070	Mitsubishi
+080074	Casio
+080075	DDE (Danish Data Elektronik A/S)
+080077	TSL (now Retix)
+080079	Silicon Graphics
+08007C	Vitalink			TransLAN III
+080080	XIOS
+080081	Crosfield Electronics
+080083	Seiko Denshi
+080086	Imagen/QMS
+080087	Xyplex				terminal servers
+080088	McDATA Corporation
+080089	Kinetics			AppleTalk-Ethernet interface
+08008B	Pyramid
+08008D	XyVision			XyVision machines
+08008E	Tandem / Solbourne Computer ?
+08008F	Chipcom Corp.
+080090	Retix, Inc.			Bridges
+09006A	AT&T
+10005A	IBM
+100090	Hewlett-Packard			Advisor products
+1000D4	DEC
+1000E0	Apple A/UX			(modified addresses for licensing)
+2E2E2E	LAA (Locally Administered Address) for Meditech Systems
+3C0000	3Com				dual function (V.34 modem + Ethernet) card
+400003	Net Ware (?)
+444553	Microsoft			(Windows95 internal "adapters")
+444649	DFI (Diamond Flower Industries)
+475443	GTC (Not registered!)		(This number is a multicast!)
+484453	HDS ???
+484C00	Network Solutions
+4854E8	winbond?
+4C424C	Information Modes software modified addresses (not registered?)
+525400	Realtek (UpTech? also reported)
+52544C	Novell 2000
+5254AB	REALTEK (a Realtek 8029 based PCI Card)
+565857	Aculab plc			audio bridges
+800010	AT&T [misrepresented as 080010? One source claims this is correct]
+80AD00	CNET Technology Inc. (Probably an error, see instead 0080AD)
+AA0000	DEC				obsolete
+AA0001	DEC				obsolete
+AA0002	DEC				obsolete
+AA0003	DEC				Global physical address for some DEC machines
+AA0004	DEC				Local logical address for DECNET systems
+C00000	Western Digital (may be reversed 00 00 C0?)
+EC1000	Enance Source Co., Ltd.	PC clones(?)
+E20C0F	Kingston Technologies
