@@ -18,6 +18,7 @@ generic-path-names: general path names that could be used on any web server
 httpoxyscan-cgilist-paths: [cgi_list.txt](https://github.com/1N3/HTTPoxyScan "HTTPoxyScan")
 ibm-bea-paths: paths for both J2EE app servers IBM WebSphere and Oracle WebLogic
 iis-path-names: path names commonly found under the web root of an _IIS_ install
+j2ee-paths-large: long list of custom created J2EE targeted path names
 javascript-tooling-paths: [The Front-end Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling)
 jboss-path-names: path names often handled by the _JBoss_ J2EE application server
 joomla-path-names: file names found in the directory hierarchy of Joomla sites

@@ -91,7 +91,7 @@ activationnewsletter.php
 activation.php
 active.php
 active.php
-active.php
+active.php
 activite.php
 activity.php
 activ.php
@@ -186,8 +186,8 @@ admin.php
 admin.php$
 admin.php$
 admin.php
+admin.php
 admin.php
-admin.php
 adminpreviewindex.php
 admins.php
 adm.php
@@ -276,7 +276,7 @@ ajaxOptionsTimezone.php
 ajax.php
 ajax.php$
 ajax.php
-ajax.php
+ajax.php
 ajaxPriceBusiness.php
 ajaxProducts.php
 ajaxResults.php
@@ -366,8 +366,8 @@ apichain.php
 api.download.php
 api.php
 api.php
+api.php
 api.php
-api.php
 aplayer.php
 aportados.php
 app360.php
@@ -895,7 +895,7 @@ ckeditor.php$
 ckeditor.php
 ck.php
 ck.php
-ck.php
+ck.php
 ckset.php
 classifieds.php
 clck.php
@@ -1040,8 +1040,8 @@ connectionForPokerTest.php
 connection.php
 connect.php
 connect.php
+connect.php
 connect.php
-connect.php
 connexion.php
 connexion.php
 conn.php
@@ -1749,7 +1749,7 @@ forumadm.php
 forumbottom.php
 forumcp.php
 forumcp.php
-forumcp.php
+forumcp.php
 forumdisplay.php
 forumdisplay.php
 forumphoto.php
@@ -2344,7 +2344,7 @@ ioc2.php
 ioc.php
 Ip2Country.php
 ipchat.php
-ipchat.php
+ipchat.php
 ipgeobase.php
 iphone.php
 IPM.php
@@ -2405,7 +2405,7 @@ jobdetails.php
 joblist.php
 job.php
 job.php
-job.php
+job.php
 jobpromote.php
 jobsearch.php
 jobsearchresults.php
@@ -2811,8 +2811,8 @@ member.php
 member.php$
 member.php$
 member.php
+member.php
 member.php
-member.php
 member.phpd
 members.php
 members.php
@@ -2848,7 +2848,7 @@ messageinc2.php
 messageinc.php
 message.php
 message.php
-message.php
+message.php
 messages.php
 messaging.php
 metaf.php
@@ -2874,8 +2874,8 @@ mirror.php
 misc.php
 misc.php$
 misc.php
+misc.php
 misc.php
-misc.php
 mism.php
 missing.php
 missions.php
@@ -3411,7 +3411,7 @@ phpbb2
 phpBB2
 phpcms
 phpcms
-phpcms
+phpcms
 phpDbTool
 phpdig
 phpicalendar
@@ -3563,7 +3563,7 @@ postlikes.php
 postopinion.php3
 post.php
 post.php
-post.php
+post.php
 postreport.php
 postreviewcomment.php3
 postreview.php
@@ -3669,7 +3669,7 @@ produtos.php
 profileinterview.php
 profile.php
 profile.php
-profile.php
+profile.php
 profiles.php
 profiletab.php
 profil.php
@@ -4226,8 +4226,8 @@ searchpeople.php
 search.php
 search.php$
 search.php
+search.php
 search.php
-search.php
 Search.php
 Search.php
 search.php3
@@ -4631,7 +4631,7 @@ surfs.php
 survey2011.php
 survey.php
 survey.php
-survey.php
+survey.php
 suscription.php
 svidetelstvo.php
 SV.php

@@ -1127,7 +1127,7 @@ active1.php3
 activecalendar.php3
 active-military.php3
 active.php
-active.php
+active.php
 active.php3
 activeusers.php3
 actividad.php3
@@ -1535,8 +1535,8 @@ admin.php/
 admin.php$
 admin.php$
 admin.php
+admin.php
 admin.php
-admin.php
 admin.php3
 admin-post.php3
 adminpreviewindex.php
@@ -1826,7 +1826,7 @@ ajaxOptionsTimezone.php3
 ajax_photos.php3
 ajax.php$
 ajax.php
-ajax.php
+ajax.php
 _ajax.php3
 ajax.php3
 ajaxPriceBusiness.php3
@@ -2127,8 +2127,8 @@ api.download.php3
 api_error.php3
 api.iol.php/
 api.php
+api.php
 api.php
-api.php
 api.php3
 api.php5
 apisphere.php3
@@ -3844,7 +3844,7 @@ ckeditor.php3
 ckeditor_php4.php3
 ckeditor_php5.php3
 ck.php
-ck.php
+ck.php
 ck.php3
 ckset.php3
 claim_listing.php3
@@ -4447,8 +4447,8 @@ connectionForPokerTest.php3
 connection.php3
 connector.php3
 connect.php
+connect.php
 connect.php
-connect.php
 connect.php3
 connexion.php
 connexion.php3
@@ -7085,7 +7085,7 @@ forumadm.php3
 forum_auth.php3
 forumbottom.php3
 forumcp.php
-forumcp.php
+forumcp.php
 forumcp.php3
 forumdisplay.php/
 forumdisplay.php/
@@ -9275,7 +9275,7 @@ ipayment.php3
 i.paymethods.php3
 ipblock.php3
 ipchat.php
-ipchat.php
+ipchat.php
 ipchat.php3
 ipcheak.php3
 ipcheck.php3
@@ -9465,7 +9465,7 @@ jobfind.php3
 joblist.php3
 jobmail.php3
 job.php
-job.php
+job.php
 job.php3
 jobposting.php3
 jobposts_old.php3
@@ -10866,8 +10866,8 @@ member_personal.php3
 member.php$
 member.php$
 member.php
+member.php
 member.php
-member.php
 member.php3
 member.phpd
 member_profile.php3
@@ -11018,7 +11018,7 @@ messagei.php3
 message_list.php3
 messageo.php3
 message.php
-message.php
+message.php
 message.php3
 Message.php3
 messagereport.php3
@@ -11109,8 +11109,8 @@ misc.functions.php3
 misc.inc.php3
 misc.php$
 misc.php
+misc.php
 misc.php
-misc.php
 misc.php3
 Misc.php3
 mism.php3
@@ -13004,7 +13004,7 @@ php-brief.php3
 php_captcha.php3
 phpcms
 phpcms
-phpcms
+phpcms
 php.common/
 phpcompat.php3
 phpDbTool
@@ -13546,7 +13546,7 @@ postopinion.php3
 postops.php3
 post_paypal.php3
 post.php
-post.php
+post.php
 post.php3
 postpicker.php3
 postprive.php3
@@ -13983,7 +13983,7 @@ profileinterview.php
 profile_options.php3
 profile.php/
 profile.php
-profile.php
+profile.php
 profile.php3
 profile.php4
 profile_pic.php3
@@ -15676,8 +15676,8 @@ search.php/
 search.php/
 search.php$
 search.php
+search.php
 search.php
-search.php
 Search.php
 _search.php3
 search.php3
@@ -17164,7 +17164,7 @@ Surround.php3
 survey2011.php
 survey2.php3
 survey.php
-survey.php
+survey.php
 survey.php3
 surveys.php3
 surveytranslator.php3

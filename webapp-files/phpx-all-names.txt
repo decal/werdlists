@@ -2206,7 +2206,7 @@ active-military.php
 active-military.php3
 active.php
 active.php
-active.php
+active.php
 active.php3
 activeusers.php
 activeusers.php3
@@ -2975,8 +2975,8 @@ admin.php/
 admin.php$
 admin.php$
 admin.php
+admin.php
 admin.php
-admin.php
 admin.php3
 admin-post.php
 admin-post.php3
@@ -3521,7 +3521,7 @@ _ajax.php
 ajax.php
 ajax.php$
 ajax.php
-ajax.php
+ajax.php
 _ajax.php3
 ajax.php3
 ajaxPriceBusiness.php
@@ -4094,8 +4094,8 @@ api_error.php3
 api.iol.php/
 api.php
 api.php
+api.php
 api.php
-api.php
 api.php3
 api.php5
 apisphere.php
@@ -7341,7 +7341,7 @@ ckeditor_php5.php
 ckeditor_php5.php3
 ck.php
 ck.php
-ck.php
+ck.php
 ck.php3
 ckset.php
 ckset.php3
@@ -8503,8 +8503,8 @@ connector.php
 connector.php3
 connect.php
 connect.php
+connect.php
 connect.php
-connect.php
 connect.php3
 connexion.php
 connexion.php
@@ -13512,7 +13512,7 @@ forumbottom.php
 forumbottom.php3
 forumcp.php
 forumcp.php
-forumcp.php
+forumcp.php
 forumcp.php3
 forumdisplay.php
 forumdisplay.php/
@@ -17455,7 +17455,7 @@ ipblock.php
 ipblock.php3
 ipchat.php
 ipchat.php
-ipchat.php
+ipchat.php
 ipchat.php3
 ipcheak.php
 ipcheak.php3
@@ -17807,7 +17807,7 @@ jobmail.php
 jobmail.php3
 job.php
 job.php
-job.php
+job.php
 job.php3
 jobposting.php
 jobposting.php3
@@ -20473,8 +20473,8 @@ member.php
 member.php$
 member.php$
 member.php
+member.php
 member.php
-member.php
 member.php3
 member.phpd
 member_profile.php
@@ -20765,7 +20765,7 @@ messageo.php
 messageo.php3
 message.php
 message.php
-message.php
+message.php
 Message.php
 message.php3
 Message.php3
@@ -20938,8 +20938,8 @@ misc.inc.php3
 misc.php
 misc.php$
 misc.php
+misc.php
 misc.php
-misc.php
 Misc.php
 misc.php3
 Misc.php3
@@ -24469,7 +24469,7 @@ php_captcha.php
 php_captcha.php3
 phpcms
 phpcms
-phpcms
+phpcms
 php.common/
 phpcompat.php
 phpcompat.php3
@@ -25396,7 +25396,7 @@ post_paypal.php
 post_paypal.php3
 post.php
 post.php
-post.php
+post.php
 post.php3
 postpicker.php
 postpicker.php3
@@ -26227,7 +26227,7 @@ profile_options.php3
 profile.php
 profile.php/
 profile.php
-profile.php
+profile.php
 profile.php3
 profile.php4
 profile_pic.php
@@ -29416,8 +29416,8 @@ search.php/
 search.php/
 search.php$
 search.php
+search.php
 search.php
-search.php
 Search.php
 Search.php
 _search.php3
@@ -32230,7 +32230,7 @@ survey2.php
 survey2.php3
 survey.php
 survey.php
-survey.php
+survey.php
 survey.php3
 surveys.php
 surveys.php3

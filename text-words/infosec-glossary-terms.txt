@@ -1,0 +1,1657 @@
+*-property
+3DES
+A1 computer system
+AA
+ABA Guidelines
+Abstract Syntax Notation One (ASN.1)
+ACC
+acceptable risk
+access
+Access Certificate for Electronic Services (ACES)
+access control
+access control center (ACC)
+access control list (ACL)
+access control matrix
+access control service
+access level
+access list
+access mode
+access policy
+access profile
+access right
+accountability
+accounting See: COMSEC accounting.
+accounting legend code (ALC)
+accreditation
+accreditation boundary
+accreditor
+ACES
+ACL
+acquirer
+activation data
+active attack
+active content
+active user
+active wiretapping
+add-on security
+adequate security
+administrative security
+administrator
+Advanced Encryption Standard (AES)
+adversary
+AES
+Affirm
+aggregation
+AH
+air gap
+ALC
+algorithm
+alias
+Alice and Bob
+American National Standards Institute (ANSI)
+American Standard Code for Information Interchange (ASCII)
+Anderson report
+anomaly detection
+anonymity
+anonymizer
+anonymous credential
+anonymous login
+ANSI
+anti-jam
+apex trust anchor
+API
+APOP
+Application Layer
+application program
+architecture
+archive
+ARPANET
+ASCII
+ASN.1
+asset
+association
+assurance See: security assurance.
+assurance level
+asymmetric cryptography
+asymmetric key
+ATIS
+attack
+attack potential
+attack sensing, warning, and response
+attack tree
+attribute
+attribute authority (AA)
+attribute certificate
+audit
+audit log
+audit service
+audit trail
+AUTH
+authenticate
+authentication
+authentication code
+authentication exchange
+Authentication Header (AH)
+authentication information
+authentication service
+authenticity
+authority
+authority certificate
+Authority Information Access extension
+authorization
+authorization credential
+authorize
+authorized user
+automated information system
+availability
+availability service
+avoidance
+B1, B2, or B3 computer system
+back door
+back up
+backup
+bagbiter
+baggage
+baked-in security
+bandwidth
+bank identification number (BIN)
+Basic Encoding Rules (BER)
+Basic Security Option
+bastion host
+BBN Technologies Corp. (BBN)
+BCA
+BCR
+BCI
+Bell-LaPadula model
+benign
+benign fill
+BER
+beyond A1
+Biba integrity
+Biba model
+billet
+BIN
+bind
+biometric authentication
+birthday attack
+bit
+bit string
+BLACK
+BLACK/Crypto/RED (BCR)
+BLACK key
+BLACKER
+blind attack
+block
+block cipher
+Blowfish
+brain-damaged
+brand
+brand certification authority (BCA)
+brand CRL identifier (BCI)
+break
+Brewer-Nash model
+bridge
+bridge CA
+British Standard 7799
+browser
+brute force
+BS7799
+buffer overflow
+buffer zone
+bulk encryption
+bulk key
+bulk keying material
+bump-in-the-stack
+bump-in-the-wire
+business-case analysis
+byte
+C field
+C1 or C2 computer system
+CA
+CA certificate
+CA domain
+Caesar cipher
+call back
+CAM
+CANEWARE
+capability list
+capability token
+Capability Maturity Model (CMM)
+CAPI
+CAPSTONE
+card
+card backup
+card copy
+card restore
+cardholder
+cardholder certificate
+cardholder certification authority (CCA)
+CAST
+category
+CAW
+CBC
+CCA
+CCEP
+CCI
+CCITT
+CCM
+CERIAS
+CERT
+certificate
+Certificate Arbitrator Module (CAM)
+certificate authority
+certificate chain
+certificate chain validation
+certificate creation
+certificate expiration
+certificate extension
+certificate holder
+certificate management
+certificate management authority (CMA)
+certificate owner
+certificate path
+certificate policy
+certificate policy qualifier
+certificate profile
+certificate reactivation
+certificate rekey
+certificate renewal
+certificate request
+certificate revocation
+certificate revocation list (CRL)
+certificate revocation tree
+certificate serial number
+certificate status authority
+certificate status responder
+certificate update
+certificate user
+certificate validation
+certification
+certification authority (CA)
+certification authority workstation (CAW)
+certification hierarchy
+certification path
+certification policy
+certification practice statement (CPS)
+certification request
+certify
+CFB
+chain
+Challenge Handshake Authentication Protocol (CHAP)
+challenge-response
+Challenge-Response Authentication Mechanism (CRAM)
+channel
+channel capacity
+CHAP
+checksum
+Chinese wall policy
+chosen-ciphertext attack
+chosen-plaintext attack
+CIAC
+CIK
+cipher
+cipher block chaining (CBC)
+cipher feedback (CFB)
+cipher text
+ciphertext
+ciphertext auto-key (CTAK)
+ciphertext-only attack
+ciphony
+CIPSO
+CKL
+Clark-Wilson model
+class 2, 3, 4, 5
+Class A1, B3, B2, B1, C2, or C1 computer system
+classification
+classification label
+classification level
+classified
+classify
+clean system
+clear
+clear text
+clearance
+clearance level
+cleartext
+CLEF
+client
+client-server system
+CLIPPER
+closed security environment
+CMA
+CMAC
+CMCS
+CMM
+CMS
+code
+code book
+code signing
+code word
+COI
+cold start
+collateral information
+color change
+Commercial COMSEC Evaluation Program (CCEP)
+commercially licensed evaluation facility (CLEF)
+Committee on National Security Systems (CNSS)
+Common Criteria for Information Technology Security
+Common IP Security Option (CIPSO)
+common name
+communications cover
+communication security (COMSEC)
+community of interest (COI)
+community risk
+community string
+compartment
+compartmented security mode
+Compartments field
+component
+compression
+compromise
+compromise recovery
+compromised key list (CKL)
+COMPUSEC
+computer emergency response team (CERT)
+Computer Incident Advisory Capability (CIAC)
+computer network
+computer platform
+computer security (COMPUSEC)
+computer security incident response team (CSIRT)
+computer security object
+Computer Security Objects Register (CSOR)
+computer system
+Computers At Risk
+COMSEC
+COMSEC account
+COMSEC accounting
+COMSEC boundary
+COMSEC custodian
+COMSEC material
+COMSEC Material Control System (CMCS)
+confidentiality
+concealment system
+configuration control
+confinement property
+constraint
+content filter
+contingency plan
+control zone
+controlled access protection
+controlled cryptographic item (CCI)
+controlled interface
+controlled security mode
+controlling authority
+cookie
+Coordinated Universal Time (UTC)
+correction
+correctness
+correctness integrity
+correctness proof
+corruption
+counter
+counter-countermeasure
+counter mode (CTR)
+Counter with Cipher Block Chaining-Message Authentication Code
+countermeasure
+country code
+Courtney's laws
+covert action
+covert channel
+covert storage channel
+covert timing channel
+CPS
+cracker
+CRAM
+CRC
+credential
+critical
+critical information infrastructure
+CRL
+CRL distribution point
+CRL extension
+cross-certificate
+cross-certification
+cross-domain solution
+cryptanalysis
+crypto, CRYPTO
+cryptographic
+cryptographic algorithm
+cryptographic application programming interface (CAPI)
+cryptographic association
+cryptographic boundary
+cryptographic card
+cryptographic component
+cryptographic hash
+cryptographic ignition key (CIK)
+cryptographic key
+Cryptographic Message Syntax (CMS)
+cryptographic module
+cryptographic system
+cryptographic token
+cryptography
+Cryptoki
+cryptology
+cryptonet
+cryptoperiod
+cryptosystem
+cryptovariable
+CSIRT
+CSOR
+CTAK
+CTR
+cut-and-paste attack
+cyclic redundancy check (CRC)
+DAC
+daemon
+dangling threat
+dangling vulnerability
+DASS
+data
+Data Authentication Algorithm, data authentication algorithm
+Data Authentication Code, data authentication code
+data compromise
+data confidentiality
+data confidentiality service
+Data Encryption Algorithm (DEA)
+data encryption key (DEK)
+Data Encryption Standard (DES)
+data integrity
+data integrity service
+data origin authentication
+data origin authentication service
+data owner
+data privacy
+data recovery
+data security
+datagram
+datagram confidentiality service
+datagram integrity service
+DEA
+deception
+decipher
+decipherment
+declassification
+declassify
+decode
+decrypt
+decryption
+dedicated security mode
+default account
+defense in depth
+Defense Information Infrastructure (DII)
+Defense Information Systems Network (DISN)
+degauss
+degausser
+DEK
+delay
+deletion
+deliberate exposure
+delta CRL
+demilitarized zone (DMZ)
+denial of service
+DES
+designated approving authority (DAA)
+detection
+deterrence
+dictionary attack
+Diffie-Hellman
+Diffie-Hellman-Merkle
+digest
+digital certificate
+digital certification
+digital document
+digital envelope
+Digital ID(service mark)
+digital key
+digital notary
+digital signature
+Digital Signature Algorithm (DSA)
+Digital Signature Standard (DSS)
+digital watermarking
+digitized signature
+DII
+direct attack
+directory, Directory
+Directory Access Protocol (DAP)
+disaster plan
+disclosure
+discretionary access control
+DISN
+disruption
+Distinguished Encoding Rules (DER)
+distinguished name (DN)
+distributed attack
+Distributed Authentication Security Service (DASS)
+distributed computing
+distribution point
+DKIM
+DMZ
+DN
+DNS
+doctrine
+DoD
+DOI
+domain
+Domain Keys Identified Mail (DKIM)
+domain name
+Domain Name System (DNS)
+domain of interpretation (DOI)
+dominate
+dongle
+downgrade
+downgrade attack
+draft RFC
+Draft Standard
+DSA
+DSS
+dual control
+dual signature
+dual-use certificate
+duty
+e-cash
+EAP
+EAL
+Easter egg
+eavesdropping
+ECB
+ECDSA
+economy of alternatives
+economy of mechanism
+ECU
+EDI
+EDIFACT
+EE
+EES
+effective key length
+effectiveness
+El Gamal algorithm
+electronic codebook (ECB)
+electronic commerce
+electronic data interchange (EDI)
+Electronic Key Management System (EKMS)
+electronic signature
+electronic wallet
+elliptic curve cryptography (ECC)
+Elliptic Curve Digital Signature Algorithm (ECDSA)
+emanation
+emanations analysis
+emanations security (EMSEC)
+embedded cryptography
+emergency plan
+emergency response
+EMSEC
+EMV
+Encapsulating Security Payload (ESP)
+encipher
+encipherment
+enclave
+encode
+encrypt
+encryption
+encryption certificate
+end cryptographic unit (ECU)
+end entity
+end system
+end-to-end encryption
+end user
+endorsed-for-unclassified cryptographic item (EUCI)
+entity
+entrapment
+entropy
+ephemeral
+erase
+error detection code
+Escrowed Encryption Standard (EES)
+ESP
+Estelle
+ETSI
+EUCI
+European Telecommunication Standards Institute (ETSI)
+evaluated system
+evaluation
+evaluation assurance level (EAL)
+expire
+exposure
+Extended Security Option
+Extensible Authentication Protocol (EAP)
+Extensible Markup Language (XML)
+extension
+external controls
+extranet
+extraction resistance
+extrusion detection
+fail-safe
+fail-secure
+fail-soft
+failure control
+fairness
+falsification
+fault tree
+FEAL
+Federal Information Processing Standards (FIPS)
+Federal Public-key Infrastructure (FPKI)
+Federal Standard 1027
+File Transfer Protocol (FTP)
+fill device
+filter
+filtering router
+financial institution
+fingerprint
+FIPS
+FIPS PUB 140
+FIREFLY
+firewall
+firmware
+FIRST
+flaw
+flaw hypothesis methodology
+flooding
+flow analysis
+flow control
+For Official Use Only (FOUO)
+formal
+formal access approval
+Formal Development Methodology
+formal model
+formal proof
+formal specification
+formal top-level specification
+formulary
+FORTEZZA(trademark)
+Forum of Incident Response and Security Teams (FIRST)
+forward secrecy
+FOUO
+FPKI
+fraggle attack
+frequency hopping
+fresh
+FTP
+gateway
+GCA
+GDOI
+GeldKarte
+GeneralizedTime
+Generic Security Service Application Program Interface (GSS-API)
+geopolitical certificate authority (GCA)
+GIG
+Global Information Grid (GIG)
+good engineering practice(s)
+granularity
+Green Book
+Group Domain of Interpretation (GDOI)
+group identity
+group security association
+GSS-API
+guard
+guest login
+GULS
+Gypsy verification environment
+H field
+hack
+hacker
+handle
+handling restriction
+Handling Restrictions field
+handshake
+Handshake Protocol
+harden
+hardware
+hardware error
+hardware token
+hash code
+hash function
+hash result
+hash value
+HDM
+Hierarchical Development Methodology (HDM)
+hierarchical PKI
+hierarchy management
+hierarchy of trust
+high-assurance guard
+hijack attack
+HIPAA
+HMAC
+honey pot
+host
+HTML
+HTTP
+https
+human error
+hybrid encryption
+hyperlink
+hypermedia
+hypertext
+Hypertext Markup Language (HTML)
+Hypertext Transfer Protocol (HTTP)
+IAB
+IANA
+IATF
+ICANN
+ICMP
+ICMP flood
+ICRL
+IDEA
+identification
+identification information
+Identification Protocol
+identifier
+identifier credential
+identifying information
+identity
+identity-based security policy
+identity proofing
+IDOC
+IDS
+IEEE
+IEEE 802.10
+IEEE P1363
+IESG
+IETF
+IKE
+IMAP4
+IMAP4 AUTHENTICATE
+impossible
+in the clear
+Ina Jo
+incapacitation
+incident
+INCITS
+indicator
+indirect attack
+indirect certificate revocation list (ICRL)
+indistinguishability
+inference
+inference control
+INFOCON
+informal
+information
+information assurance
+Information Assurance Technical Framework (IATF)
+information domain
+information domain security policy
+information flow policy
+information operations condition (INFOCON)
+information security (INFOSEC)
+information system
+Information Technology Security Evaluation Criteria (ITSEC)
+INFOSEC
+ingress filtering
+initialization value (IV)
+initialization vector
+insertion
+inside attack
+insider
+inspectable space
+Institute of Electrical and Electronics Engineers, Inc. (IEEE)
+integrity
+integrity check
+integrity label
+intelligent threat
+interception
+interference
+intermediate CA
+internal controls
+International Data Encryption Algorithm (IDEA)
+International Standard
+International Traffic in Arms Regulations (ITAR)
+internet, Internet
+Internet Architecture Board (IAB)
+Internet Assigned Numbers Authority (IANA)
+Internet Control Message Protocol (ICMP)
+Internet Corporation for Assigned Names and Numbers (ICANN)
+Internet-Draft
+Internet Engineering Steering Group (IESG)
+Internet Engineering Task Force (IETF)
+Internet Key Exchange (IKE)
+Internet Layer
+Internet Message Access Protocol, version 4 (IMAP4)
+Internet Open Trading Protocol (IOTP)
+Internet Policy Registration Authority (IPRA)
+Internet Private Line Interface (IPLI)
+Internet Protocol (IP)
+Internet Protocol security
+Internet Protocol Security Option (IPSO)
+Internet Protocol Suite (IPS)
+Internet Security Association and Key Management Protocol (ISAKMP)
+Internet Society (ISOC)
+Internet Standard
+internetwork
+intranet
+intruder
+intrusion
+intrusion detection
+intrusion detection system (IDS)
+invalidity date
+IOTP
+IP
+IP address
+IP Security Option
+IP Security Protocol (IPsec)
+IPLI
+IPRA
+IPS
+IPsec
+IPSO
+ISAKMP
+ISO
+ISO 17799
+ISOC
+issue
+issuer
+ITAR
+ITSEC
+ITU-T
+IV
+jamming
+KAK
+KDC
+KEA
+KEK
+Kerberos
+kernel
+Kernelized Secure Operating System (KSOS)
+key
+key agreement (algorithm or protocol)
+key authentication
+key-auto-key (KAK)
+key center
+key confirmation
+key distribution
+key distribution center (KDC)
+key encapsulation
+key-encrypting key (KEK)
+key escrow
+key establishment (algorithm or protocol)
+Key Exchange Algorithm (KEA)
+key generation
+key generator
+key length
+key lifetime
+key loader
+key loading and initialization facility (KLIF)
+key management
+Key Management Protocol (KMP)
+key material
+key pair
+key recovery
+key space
+key translation center
+key transport (algorithm or protocol)
+key update
+key validation
+keyed hash
+keying material
+keying material identifier (KMID)
+Khafre
+Khufu
+KLIF
+KMID
+known-plaintext attack
+kracker
+KSOS, KSOS-6, KSOS-11
+L2F
+L2TP
+label
+laboratory attack
+LAN
+land attack
+Language of Temporal Ordering Specification (LOTOS)
+lattice
+lattice model
+Law Enforcement Access Field (LEAF)
+Layer 1, 2, 3, 4, 5, 6, 7
+Layer 2 Forwarding Protocol (L2F)
+Layer 2 Tunneling Protocol (L2TP)
+LDAP
+least common mechanism
+least privilege
+least trust
+legacy system
+legal non-repudiation
+leap of faith
+level of concern
+level of robustness
+Liberty Alliance
+Lightweight Directory Access Protocol (LDAP)
+link
+link encryption
+liveness
+logic bomb
+login
+long title
+low probability of detection
+low probability of intercept
+LOTOS
+MAC
+magnetic remanence
+main mode
+maintenance hook
+malicious logic
+malware
+MAN
+man-in-the-middle attack
+manager
+mandatory access control
+manipulation detection code
+marking
+MARS
+Martian
+masquerade
+MCA
+MD2
+MD4
+MD5
+merchant
+merchant certificate
+merchant certification authority (MCA)
+mesh PKI
+Message Authentication Code (MAC), message authentication code
+message digest
+message handling system
+Message Handling System
+message indicator
+message integrity check
+message integrity code (MIC)
+Message Security Protocol (MSP)
+meta-data
+metadata, Metadata(trademark), METADATA(trademark)
+MHS
+MIC
+MIME
+MIME Object Security Services (MOSS)
+Minimum Interoperability Specification for PKI Components (MISPC)
+misappropriation
+MISPC
+MISSI
+MISSI user
+mission
+mission critical
+mission essential
+misuse
+misuse detection
+MLS
+mobile code
+mode
+mode of operation
+model
+modulus
+Mondex
+Morris Worm
+MOSS
+MQV
+MSP
+multicast security
+Multics
+multilevel secure (MLS)
+multilevel security mode
+Multipurpose Internet Mail Extensions (MIME)
+mutual suspicion
+name
+naming authority
+National Computer Security Center (NCSC)
+National Information Assurance Partnership (NIAP)
+National Institute of Standards and Technology (NIST)
+National Reliability and Interoperability Council (NRIC)
+national security
+National Security Agency (NSA)
+national security information
+national security system
+natural disaster
+NCSC
+need to know, need-to-know
+network
+Network Hardware Layer
+Network Interface Layer
+Network Layer Security Protocol (NLSP).
+Network Substrate Layer
+network weaving
+NIAP
+nibble
+NIPRNET
+NIST
+NLSP
+no-lone zone
+no-PIN ORA (NORA)
+node
+nonce
+non-critical
+non-repudiation service
+non-repudiation with proof of origin
+non-repudiation with proof of receipt
+non-volatile media
+NORA
+notarization
+NRIC
+NSA
+null
+NULL encryption algorithm
+OAKLEY
+object
+object identifier (OID)
+object reuse
+obstruction
+OCSP
+octet
+OFB
+off-line attack
+ohnosecond
+OID
+Online Certificate Status Protocol (OCSP)
+one-time pad
+one-time password, One-Time Password (OTP)
+one-way encryption
+one-way function
+onion routing
+open security environment
+open storage
+Open Systems Interconnection (OSI) Reference Model (OSIRM)
+operational integrity
+operational security
+operations security (OPSEC)
+operator
+OPSEC
+ORA
+Orange Book
+organizational certificate
+organizational registration authority (ORA)
+origin authentication
+origin authenticity
+OSI, OSIRM
+OSIRM Security Architecture
+OTAR
+OTP
+out-of-band
+output feedback (OFB)
+outside attack
+outsider
+over-the-air rekeying (OTAR)
+overload
+P1363
+PAA
+package
+packet
+packet filter
+packet monkey
+pagejacking
+PAN
+PAP
+parity bit
+partitioned security mode
+PASS
+passive attack
+passive user
+passive wiretapping
+password
+Password Authentication Protocol (PAP)
+password sniffing
+path discovery
+path validation
+payment card
+payment gateway
+payment gateway certification authority (SET PCA)
+PC card
+PCA
+PCI
+PCMCIA
+PDS
+PDU
+peer entity authentication
+peer entity authentication service
+PEM
+penetrate
+penetration
+penetration test
+perfect forward secrecy
+perimeter
+periods processing
+permanent storage
+permission
+persona certificate
+personal identification number (PIN)
+personal information
+personality
+personnel authentication system string (PASS)
+personnel security
+PGP(trademark)
+phase 1 negotiation
+phase 2 negotiation
+phishing
+Photuris
+phreaking
+physical destruction
+physical security
+piggyback attack
+PIN
+ping of death
+ping sweep
+PKCS
+PKCS #5
+PKCS #7
+PKCS #10
+PKCS #11
+PKI
+PKINIT
+PKIX
+plain text
+plaintext
+PLI
+PMA
+Point-to-Point Protocol (PPP)
+Point-to-Point Tunneling Protocol (PPTP)
+policy
+policy approval authority
+policy approving authority (PAA)
+policy authority
+policy certification authority (Internet PCA)
+policy creation authority (MISSI PCA)
+policy management authority (PMA)
+policy mapping
+policy rule
+POP3
+POP3 APOP
+POP3 AUTH
+port scan
+positive authorization
+POSIX
+Post Office Protocol, version 3 (POP3)
+PPP
+PPTP
+preauthorization
+precedence
+preemption
+Pretty Good Privacy(trademark) (PGP(trademark))
+prevention
+primary account number (PAN)
+principal
+priority
+privacy
+Privacy Act of 1974
+Privacy Enhanced Mail (PEM)
+private component
+private extension
+private key
+Private Line Interface (PLI)
+privilege
+privilege management infrastructure
+privileged process
+privileged user
+probe
+procedural security
+profile
+proof-of-possession protocol
+proprietary
+protected checksum
+protective packaging
+protection authority
+protection level
+protection profile
+protection ring
+protective distribution system (PDS)
+protocol
+protocol control information (PCI)
+protocol data unit (PDU)
+protocol suite
+proxy
+proxy certificate
+pseudorandom
+pseudorandom number generator
+public component
+public key
+public-key certificate
+public-key cryptography
+Public-Key Cryptography Standards (PKCS)
+public-key forward secrecy (PFS)
+public-key Kerberos
+public-key infrastructure (PKI)
+purge
+QUADRANT
+qualified certificate
+quick mode
+RA
+RA domains
+RADIUS
+Rainbow Series
+random
+random number generator
+RBAC
+RC2, RC4, RC6
+read
+realm
+recovery
+RED
+RED/BLACK separation
+Red Book
+RED key
+reference monitor
+reflection attack
+reflector attack
+registered user
+registration
+registration authority (RA)
+regrade
+rekey
+reliability
+reliable human review
+relying party
+remanence
+Remote Authentication Dial-In User Service (RADIUS)
+renew
+reordering
+replay attack
+repository
+repudiation
+Request for Comment (RFC)
+residual risk
+restore
+reverse engineering
+revocation
+revocation date
+revocation list
+revoke
+RFC
+Rijndael
+risk
+risk analysis
+risk assumption
+risk avoidance
+risk limitation
+risk management
+risk transference
+Rivest Cipher #2 (RC2)
+Rivest Cipher #4 (RC4)
+Rivest Cipher #6 (RC6)
+Rivest-Shamir-Adleman (RSA)
+robustness
+role
+role-based access control
+role certificate
+root, root CA
+root certificate
+root key
+root registry
+ROT13
+router
+RSA
+rule
+rule-based security policy
+rules of behavior
+S field
+S-BGP
+S-HTTP
+S/Key
+S/MIME
+SAD
+safety
+SAID
+salami swindle
+salt
+SAML
+sandbox
+sanitize
+SAP
+SASL
+SCA
+scavenging
+SCI
+SCIF
+SCOMP
+screen room
+screening router
+script kiddy
+SDE
+SDNS
+SDU
+seal
+secret
+secret key
+secret-key cryptography
+Secure BGP (S-BGP)
+Secure Data Exchange (SDE)
+Secure Data Network System (SDNS)
+secure distribution
+Secure Hash Algorithm (SHA)
+Secure Hash Standard (SHS)
+Secure Hypertext Transfer Protocol (S-HTTP)
+Secure/MIME (S/MIME)
+secure multicast
+Secure Shell(trademark) (SSH(trademark))
+Secure Sockets Layer (SSL)
+secure state
+security
+security architecture
+Security Assertion Markup Language (SAML)
+security association
+Security Association Database (SAD)
+security association identifier (SAID)
+security assurance
+security audit
+security audit trail
+security by obscurity
+security class
+security clearance
+security compromise
+security controls
+security doctrine
+security domain
+security environment
+security event
+security fault analysis
+security function
+security gateway
+security incident
+security intrusion
+security kernel
+security label
+security level
+Security Level field
+security management infrastructure (SMI)
+security marking
+security mechanism
+security model
+security parameters index (SPI)
+security perimeter
+security policy
+Security Policy Database (SPD)
+Security Protocol 3 (SP3)
+Security Protocol 4 (SP4)
+security-relevant event
+security-sensitive function
+security service
+security situation
+security target
+security token
+security violation
+seed
+selective-field confidentiality
+selective-field integrity
+self-signed certificate
+semantic security
+semiformal
+sensitive
+sensitive compartmented information (SCI)
+sensitive compartmented information facility (SCIF)
+sensitive information
+sensitivity label
+sensitivity level
+separation of duties
+serial number
+Serpent
+server
+service data unit (SDU)
+session
+session key
+SET(trademark)
+SET private extension
+SET qualifier
+SET Secure Electronic Transaction(trademark) or SET(trademark)
+SETCo
+SHA, SHA-1, SHA-2
+shared identity
+shared secret
+shielded enclosure
+short title
+shroud
+SHS
+sign
+signal analysis
+signal intelligence
+signal security
+signature
+signature certificate
+signed receipt
+signer
+SILS
+simple authentication
+Simple Authentication and Security Layer (SASL)
+Simple Key Management for Internet Protocols (SKIP)
+Simple Mail Transfer Protocol (SMTP)
+Simple Network Management Protocol (SNMP)
+Simple Public Key Infrastructure (SPKI)
+simple security property
+single sign-on
+singular identity
+site
+situation
+SKEME
+SKIP
+SKIPJACK
+slot
+smart card
+smart token
+SMI
+SMTP
+smurf attack
+sneaker net
+Snefru
+sniffing
+SNMP
+social engineering
+SOCKS
+soft TEMPEST
+soft token
+software
+software error
+SORA
+source authentication
+source integrity
+SP3
+SP4
+spam
+SPD
+special access program (SAP)
+SPI
+SPKI
+split key
+split knowledge
+spoof
+spoofing attack
+spread spectrum
+spyware
+SSH(trademark)
+SSL
+SSO
+SSO PIN
+SSO-PIN ORA (SORA)
+Standards for Interoperable LAN/MAN Security (SILS)
+star property
+Star Trek attack
+static
+steganography
+storage channel
+storage key
+stream cipher
+stream integrity service
+strength
+strong
+strong authentication
+subject
+subject CA
+subnetwork
+subordinate CA (SCA)
+subordinate DN
+subscriber
+substitution
+subsystem
+superencryption
+superuser
+survivability
+swIPe
+syllabary
+symmetric cryptography
+symmetric key
+SYN flood
+synchronization
+system
+system architecture
+system component
+system entity
+system high
+system-high security mode
+system integrity
+system integrity service
+system low
+system resource
+system security officer (SSO)
+system user
+TACACS
+TACACS+
+tamper
+tamper-evident
+tamper-resistant
+tampering
+target of evaluation (TOE)
+TCB
+TCC field
+TCG
+TCP
+TCP/IP
+TCSEC
+TDEA
+teardrop attack
+technical non-repudiation
+technical security
+Telecommunications Security Word System (TSEC)
+TELNET
+TEMPEST
+TEMPEST zone
+Terminal Access Controller (TAC) Access Control System (TACACS)
+TESS
+The Exponential Encryption System (TESS)
+theft
+threat
+threat action
+threat agent
+threat analysis
+threat consequence
+thumbprint
+ticket
+tiger team
+time stamp
+Time-Stamp Protocol
+timing channel
+TKEY
+TLS
+TLSP
+TOE
+token
+token backup
+token copy
+token management
+token restore
+token storage key
+top CA
+top-level specification
+TPM
+traceback
+tracker
+traffic analysis
+traffic-flow analysis
+traffic-flow confidentiality (TFC)
+traffic key
+traffic padding
+tranquility property
+transaction
+TRANSEC
+Transmission Control Code field (TCC field)
+Transmission Control Protocol (TCP)
+transmission security (TRANSEC)
+Transport Layer
+Transport Layer Security (TLS)
+Transport Layer Security Protocol (TLSP)
+transport mode
+transposition
+trap door
+trespass
+Triple Data Encryption Algorithm
+triple-wrapped
+Trojan horse
+trust
+trust anchor
+trust anchor CA
+trust anchor certificate
+trust anchor key
+trust anchor information
+trust chain
+trust-file PKI
+trust hierarchy
+trust level
+trusted
+trusted CA
+trusted certificate
+Trusted Computer System Evaluation Criteria (TCSEC)
+trusted computing base (TCB)
+Trusted Computing Group (TCG)
+trusted distribution
+trusted key
+trusted path
+Trusted Platform Module (TPM)
+trusted process
+trusted public key
+trusted recovery
+trusted subnetwork
+trusted system
+Trusted Systems Interoperability Group (TSIG)
+trustworthy system
+TSEC
+TSIG
+tunnel
+tunnel mode
+two-person control
+Twofish
+type 0 product
+type 1 key
+type 1 product
+type 2 key
+type 2 product
+type 3 key
+type 3 product
+type 4 key
+type 4 product
+UDP
+UDP flood
+unauthorized disclosure
+unauthorized user
+uncertainty
+unclassified
+unencrypted
+unforgeable
+uniform resource identifier (URI)
+uniform resource locator (URL)
+uniform resource name (URN)
+untrusted
+untrusted process
+UORA
+update
+upgrade
+URI
+URL
+URN
+user
+user authentication service
+User Datagram Protocol (UDP)
+user identifier
+user identity
+user PIN
+user-PIN ORA (UORA)
+usurpation
+UTCTime
+v1 certificate
+v1 CRL
+v2 certificate
+v2 CRL
+v3 certificate
+valid certificate
+valid signature
+validate
+validate vs. verify
+validation
+validity period
+value-added network (VAN)
+VAN
+verification
+verified design
+verify
+vet
+violation
+virtual private network (VPN)
+virus
+Visa Cash
+volatile media
+VPN
+vulnerability
+W3
+W3C
+war dialer
+Wassenaar Arrangement
+watermarking
+weak key
+web, Web
+web of trust
+web server
+WEP
+Wired Equivalent Privacy (WEP)
+wiretapping
+work factor
+World Wide Web ("the Web", WWW)
+World Wide Web Consortium (W3C)
+worm
+wrap
+wrapping algorithm
+wrapping key
+write
+WWW
+X.400
+X.500
+X.509
+X.509 attribute certificate
+X.509 certificate
+X.509 certificate revocation list (CRL)
+X.509 public-key certificate
+X9
+XML
+XML-Signature.
+Yellow Book
+zero-knowledge proof
+zeroize
+zombie
+zone of control

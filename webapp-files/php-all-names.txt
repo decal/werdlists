@@ -1137,7 +1137,7 @@ activecalendar.php
 active-military.php
 active.php
 active.php
-active.php
+active.php
 activeusers.php
 actividad.php
 activite.php
@@ -1567,8 +1567,8 @@ admin.php/
 admin.php$
 admin.php$
 admin.php
+admin.php
 admin.php
-admin.php
 Admin.php
 admin.php3
 admin-post.php
@@ -1880,7 +1880,7 @@ _ajax.php
 ajax.php
 ajax.php$
 ajax.php
-ajax.php
+ajax.php
 ajaxPriceBusiness.php
 ajaxProducts.php
 ajax_quick_view.php
@@ -2188,8 +2188,8 @@ api_error.php
 api.iol.php/
 api.php
 api.php
+api.php
 api.php
-api.php
 api.php5
 apisphere.php
 api_test.php
@@ -3981,7 +3981,7 @@ ckeditor_php5.php
 ckfinder.php
 ck.php
 ck.php
-ck.php
+ck.php
 ckset.php
 claim_listing.php
 claim.php
@@ -4611,8 +4611,8 @@ connector.php
 connectors.php
 connect.php
 connect.php
+connect.php
 connect.php
-connect.php
 connect.php3
 connexion.php
 connexion.php
@@ -7364,7 +7364,7 @@ forum_auth.php
 forumbottom.php
 forumcp.php
 forumcp.php
-forumcp.php
+forumcp.php
 forumdisplay.php
 forumdisplay.php/
 forumdisplay.php/
@@ -9599,7 +9599,7 @@ i.paymethods.php
 ipblock.php
 ipchat.php
 ipchat.php
-ipchat.php
+ipchat.php
 ipcheak.php
 ipcheck.php
 ip_config.php
@@ -9791,7 +9791,7 @@ joblist.php
 jobmail.php
 job.php
 job.php
-job.php
+job.php
 jobposting.php
 jobposts_old.php
 jobpromote.php
@@ -11257,8 +11257,8 @@ member.php
 member.php$
 member.php$
 member.php
+member.php
 member.php
-member.php
 member.phpd
 member_profile.php
 memberprofile.php
@@ -11412,7 +11412,7 @@ message_list.php
 messageo.php
 message.php
 message.php
-message.php
+message.php
 Message.php
 messagereport.php
 messagesend.php
@@ -11504,8 +11504,8 @@ misc.inc.php
 misc.php
 misc.php$
 misc.php
+misc.php
 misc.php
-misc.php
 Misc.php
 mism.php
 misnotas.php
@@ -13464,7 +13464,7 @@ php_cli_errors.php
 php-cli.php
 phpcms
 phpcms
-phpcms
+phpcms
 php.common/
 phpcompat.php
 php-cs-fixer.php
@@ -14030,7 +14030,7 @@ postops.php
 post_paypal.php
 post.php
 post.php
-post.php
+post.php
 post.php3
 postpicker.php
 postprive.php
@@ -14473,7 +14473,7 @@ profile_options.php
 profile.php
 profile.php/
 profile.php
-profile.php
+profile.php
 profile.php4
 profile_pic.php
 profiler.php
@@ -16205,8 +16205,8 @@ search.php/
 search.php/
 search.php$
 search.php
+search.php
 search.php
-search.php
 Search.php
 Search.php
 search.php3
@@ -17767,7 +17767,7 @@ survey2011.php
 survey2.php
 survey.php
 survey.php
-survey.php
+survey.php
 surveys.php
 surveytranslator.php
 survf1.php
