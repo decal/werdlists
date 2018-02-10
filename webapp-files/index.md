@@ -16,6 +16,7 @@ php-path-names: relative path names to PHP files (may contain forward slashes)
 php-various-names: list of various file names with a PHP extension
 phpx-all-names: all other php-* lists regardless of PHP version
 private-file-names: short list of file names that may contain sensitive data
+richfaces-file-names: files for [RichFaces](http://richfaces.jboss.org/ "JSF Component Framework")
 ruby-rails-files: files found in the web root directory of Ruby on Rails apps
 various-common-names: list of common filenames in general (without any restriction)
 various-webroot-names: list of file names commonly found in a web root directory

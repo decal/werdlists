@@ -1,9 +1,15 @@
+Save-Data
 Server-Agent
 Surrogate-Control
 X-Accel-Redirect
 X-Api-User-ID
 X-Api-Roles
-X-API-Key
+X-API-Keya
+X-AppEngine-City
+X-AppEngine-CityLatLong
+X-AppEngine-Country
+X-Appengine-Inbound-Appid
+X-AppEngine-Region
 X-ATT-DeviceId
 X-Auth-Pass
 X-Auth-Password

@@ -8,6 +8,7 @@ coldfusion-cfmx-cfide: pathnames to admin pages on _Adobe ColdFusion_ app server
 common-path-names: several of the files in this folder, sorted and uniqified
 cpan-module-paths: paths in CPAN (Comprehensive Perl Archive Network) modules
 dirb-vulns-paths: pathnames of all vulnerabilities scanned for by the dirb tool
+direct-web-remoting: paths for [Direct Web Remoting](http://directwebremoting.org "DWR is Easy AJAX for Java")
 dirsearch-paths-list: `dict.txt` file packaged with the dirsearch tool
 drupal-path-names: path names typically found under web root of the _Drupal_ CMS
 falcon-jsp-paths: _FalconPathScan_ `.php` extensions changed to `.jsp`
