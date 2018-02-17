@@ -14,6 +14,9 @@
 ```
 * * *
 
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg "Apache License 2.0")
+![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg "repo-size")
+
 # Brief Introduction to `werdlists`
 
 Text files consisting mostly of [Wordlists][] (whitespace-delimited/line-based

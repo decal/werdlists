@@ -1,0 +1,28 @@
+ARGC: 1
+ARGIND: 0
+ARGV: array, 1 elements
+BINMODE: 0
+CONVFMT: "%.6g"
+ENVIRON: array, 54 elements
+ERRNO: ""
+FIELDWIDTHS: ""
+FILENAME: "-"
+FNR: 1
+FPAT: "[^[:space:]]+"
+FS: " "
+IGNORECASE: 0
+LINT: 0
+NF: 1
+NR: 1
+OFMT: "%.6g"
+OFS: " "
+ORS: "\n"
+PREC: 53
+PROCINFO: array, 25 elements
+RLENGTH: 0
+ROUNDMODE: "N"
+RS: "\n"
+RSTART: 0
+RT: "\n"
+SUBSEP: "\034"
+TEXTDOMAIN: "messages"

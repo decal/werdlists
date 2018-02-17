@@ -17,6 +17,7 @@ nanpa-class-codes: NANPA vertical service code assignments
 national-network-tones: Specifications/meanings of tones by country via ITU-T
 sdf-outbound-rates: CSV of outbound VoIP rates taken from the SDF FTP server
 sms2email-mailer-records: Cellular carriers' SMTP gateways for SMS messages
+sms-spam-collection: various unsolicited commercial SMS messages in the UK
 telephony-acronyms-abbrevs: Telephony Acronyms and Abbreviations List From Hell
 vertical-service-codedefs: NANPA vertical service code definitions
 xfinity-voice-features: Xfinity Voice Features, CLASS Services, Star Codes, etc.

@@ -1,3 +1,4 @@
+awk-builtin-variables: builtin variable names and values for AWK language
 ch-language-keywords: keywords for Ch--the cross-platform C and C++ interpeter
 github-linguist-languages: all languages [GitHub](https://github.com) detects
 javascript-future-words: Reserved identifiers for future JavaScript syntax
