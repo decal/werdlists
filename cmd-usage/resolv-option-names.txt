@@ -1,0 +1,7 @@
+order
+trim
+spoof
+multi
+nospoof
+spoofalert
+reorder

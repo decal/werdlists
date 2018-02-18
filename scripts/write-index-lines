@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+#
+# Write the number of lines for each file to index markdown..
+#
+# Written by:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last modified: Sat Feb 17 09:10:36 STD 2018
+# Tested on:     Ubuntu 16.04.3 LTS
+#
+
+for d in $(ls -1d *-*)
+  do cd -- "$d"
+
+  cp -avf index.md .index.md.bak
+  rm -fv i.md
+
+  for f in $(awk -F: '{print($1);}' index.md)
+    do #
+
+    if [ -f ${f}.*.xz ]
+      then declare -i xzlinc=0
+
+      xzlinc=$(xzcat -- ${f}.*.xz | wc -l)
+
+      declare xzdesc=$(grep -- "$f" index.md | cut -d ':' -f2-)
+
+      builtin echo "${f}|${xzlinc}:${xzdesc}" >> i.md
+    else
+      declare -i linesc=0
+      
+      linesc=$(wc -l -- ${f}.* | cut -d ' ' -f1)
+
+      declare xzdesc=$(egrep -- "^${f}:" index.md | cut -d ':' -f2-)
+
+      builtin echo "${f}|${linesc}:${xzdesc}" >> i.md
+    fi
+  done
+  
+  mv -vf i.md index.md
+
+  cd ..
+done
+
+exit 0

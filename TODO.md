@@ -2,6 +2,7 @@ Things To Do
 ============
 
 * script to check each dir for missing `index.md` entries
+* `scripts/write-index-lines` after fixing missing index entries and commit/push/tweet!
 * https://www.askapache.com/htaccess/apache-status-code-headers-errordocument/
 * getstatuscode.com
 * http://gif.phpnet.org/frederic/programs/http_status_codes/http_status_code_definitions.htm

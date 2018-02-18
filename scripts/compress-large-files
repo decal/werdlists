@@ -26,7 +26,7 @@ fi
 
 echo -e "${greenb}***${reset} ${greenf}Compressing large files..${reset}${newline}"
 
-declare -a large_files=$(find . -type f -size +1M -not -iname '*.xz' -print)
+declare -a large_files=$(find . -type f -size +1M -not -iname '*.xz' -not -iname '*.zip' -not -iregex '^.*[.]git/.*$' -not -regex '^.*[/]staging[/].*$' -print)
 
 for f in $large_files
   do if [ "`echo $f | egrep '/[.]git/'`" ]

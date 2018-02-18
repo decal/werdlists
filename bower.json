@@ -21,7 +21,7 @@
     "fuzzdb",
     "SecLists"
   ],
-  "license": "MIT",
+  "license": "Apache License 2.0",
   "private": true,
   "ignore": [
     "**/.*",
