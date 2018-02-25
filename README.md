@@ -27,13 +27,13 @@ style line feeds.
 
 ## Descriptions of selected folders sampled from `INDEX.md`
 
-- cipher-data: Data denoting or used by cryptographic algorithm implementations
-- code-keywords: Identifiers known as reserved words in programming language specs
-- dns-hostnames: The host name part of an FQDN (Fully Qualified Domain Name)
-- http-security: Hyper Text Transfer Protocol security info, i.e. CSP
-- inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4
-- telco-data: Data associated with telecommunications companies and such..
-- webapp-attacks: Proof-of-concept samples for attacks on web applications
+- [cipher-data](https://github.com/decal/werdlists/tree/master/cipher-data): Data denoting or used by cryptographic algorithm implementations
+- [code-keywords](https://github.com/decal/werdlists/tree/master/code-keywords): Identifiers known as reserved words in programming language specs
+- [dns-hostnames](https://github.com/decal/werdlists/tree/master/dns-hostnames): The host name part of an FQDN (Fully Qualified Domain Name)
+- [http-security](https://github.com/decal/werdlists/tree/master/http-security): Hyper Text Transfer Protocol security info, i.e. CSP
+- [inet-addrs](https://github.com/decal/werdlists/tree/master/inet-addrs): Numeric Internet addresses a.k.a. IP addresses--mostly version 4
+- [telco-data](https://github.com/decal/werdlists/tree/master/telco-data): Data associated with telecommunications companies and such..
+- [webapp-attacks](https://github.com/decal/werdlists/tree/master/webapp-attacks): Proof-of-concept samples for attacks on web applications
 
 ## Inspiration Taken from Similar Projects
 

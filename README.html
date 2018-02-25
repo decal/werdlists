@@ -30,13 +30,13 @@ style line feeds.</p>
 <h2>Descriptions of selected folders sampled from <code>INDEX.md</code></h2>
 
 <ul>
-<li>cipher-data: Data denoting or used by cryptographic algorithm implementations</li>
-<li>code-keywords: Identifiers known as reserved words in programming language specs</li>
-<li>dns-hostnames: The host name part of an FQDN (Fully Qualified Domain Name)</li>
-<li>http-security: Hyper Text Transfer Protocol security info, i.e. CSP</li>
-<li>inet-addrs: Numeric Internet addresses a.k.a. IP addresses--mostly version 4</li>
-<li>telco-data: Data associated with telecommunications companies and such..</li>
-<li>webapp-attacks: Proof-of-concept samples for attacks on web applications</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/cipher-data">cipher-data</a>: Data denoting or used by cryptographic algorithm implementations</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/code-keywords">code-keywords</a>: Identifiers known as reserved words in programming language specs</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/dns-hostnames">dns-hostnames</a>: The host name part of an FQDN (Fully Qualified Domain Name)</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/http-security">http-security</a>: Hyper Text Transfer Protocol security info, i.e. CSP</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/inet-addrs">inet-addrs</a>: Numeric Internet addresses a.k.a. IP addresses--mostly version 4</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/telco-data">telco-data</a>: Data associated with telecommunications companies and such..</li>
+<li><a href="https://github.com/decal/werdlists/tree/master/webapp-attacks">webapp-attacks</a>: Proof-of-concept samples for attacks on web applications</li>
 </ul>
 
 <h2>Inspiration Taken from Similar Projects</h2>
@@ -46,24 +46,31 @@ style line feeds.</p>
 <a href="https://github.com/danielmiessler/SecLists/" title="The security tester's companion">SecLists</a>, 
 then <code>werdlists</code> is quite similar in mission as it's a centralized attack strings 
 and input data resource--just with its own unique style and organization, 
-original hand-crafted contents, expanded concepts, etc.</p>
+original hand-crafted contents, verification/management scripts, expanded concepts, etc.
+<code>SecLists</code> is maintained by my colleague and co-worker at <a href="https://ioactive.com" title="IOActive">IOActive</a>, <a href="https://danielmiessler.com" title="Daniel Miessler">Daniel Miessler</a>.</p>
 
 <h2>Description of the Repository Directory Hierarchy</h2>
 
-<p>The <code>scripts</code> folder consists of shell scripts used for file system maintenance.
-Folder names are outlined in the <code>INDEX.md</code> file at the root of the repository's
-directory hierarchy.  All files in each folder are detailed in the local 
-<code>index.md</code> file, but these lowercased index files describe file names as opposed
-to directory contents. Each folder has a <strong>subject</strong> name and data <strong>type</strong>
-which are separated by a dash.</p>
+<p>The <code>scripts</code> folder consists of shell scripts used for repository maintenance.
+All scripts use bash syntax and some data files were generated with a script.
+Folder names are outlined in the <code>INDEX.md</code> file in the repository's root 
+directory.  All files in each folder are detailed in the local <code>index.md</code> file,
+but these lowercased index files describe the contents of each data file, as
+opposed to directory contents. Each folder has a <strong>subject</strong> name and storage
+<strong>type</strong> which are separated by a dash.</p>
 
 <h3>Naming Scheme, Syntax and Meaning Associated With File Extensions</h3>
 
-<p>Most files have the <em>.txt</em> extension signifying the <code>text/plain</code> <a href="https://en.wikipedia.org/wiki/Media_type">MIME type</a>
-Some other file extensions are in use as well, including: <em>.csv</em>, <em>.xml</em>,
-<em>.bin</em>, etc.  These are for <a href="https://en.wikipedia.org/wiki/Comma-separated_values">Comma-Separated Values</a> (<code>text/csv</code>), Extended
-Markup Language (<code>application/xml</code>) and Binary data (<code>application/octet-stream</code>),
-respectively.  The index file in the root folder (<code>INDEX.md</code>), as well as the
-indices in each data directory (<code>index.md</code>) are formatted with markdown.</p>
+<p>Most files have the <code>*.txt</code> extension signifying the <code>text/plain</code> <a href="https://en.wikipedia.org/wiki/Media_type">MIME type</a>
+Other file extensions in use are: <code>*.csv</code>, <code>*.xml</code>, <code>*.html</code>, and <code>*.yml</code>
+These are for <a href="https://en.wikipedia.org/wiki/Comma-separated_values">Comma-Separated Values</a> (<code>text/csv</code>), 
+<a href="https://en.wikipedia.org/wiki/XML">Extended Markup Language</a> (<code>application/xml</code>),
+<a href="https://en.wikipedia.org/wiki/HTML">Hyper Text Markup Language</a> (<code>application/html</code>), etc.
+Any file that is larger than 1MB uncompressed should be compressed with <a href="https://en.wikipedia.org/wiki/Xz">xz</a>
+according to the commands in the <code>scripts/compress-large-files</code> bash script. In
+spite of the fact that this is a word lists project, I'm striving to restrict the
+size of each file to a healthy maximum for manageability purposes.
+The index file in the root folder (<code>INDEX.md</code>), as well as the indices in each 
+data directory (<code>index.md</code>) are formatted with markdown.</p>
 
 <hr />
