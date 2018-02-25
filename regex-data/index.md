@@ -1,3 +1,4 @@
+html5-email-spec: [HTML5 spec](https://html.spec.whatwg.org/multipage/input.html#e-mail-state-(type%3Demail) "input tag with type=email")
 regex-payload-list: regexp known to exhaust all CPU resources on Chrome and NodeJS
 regular-expression-guide: a cheat sheet for regular expressions
 sms-shortcode-regexes: patterns that match various SMS short codes

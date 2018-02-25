@@ -1,5 +1,6 @@
 areacode-database-cols: Describes columns in NANPA area codes database below
 areacode-database-rows: Database containing details on area codes from NANPA
+att-800-numbers: businesses with 800 numbers from AT&T
 areacode-states-locations: Information about area codes in the United States
 country-codes-alphabetical: Country codes assigned by ITU-T (alphabetical order)
 country-codes-notes: Define single letter notes referenced in country code files

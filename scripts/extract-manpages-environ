@@ -6,7 +6,7 @@
 export PAGER=/bin/cat
 
 for m in $(man -k '' | awk -F\( '{print$1}')
-  do declare -i aline=$(man $m | grep -n ENVIRONMENT | tail -1 | awk -F: '{print$2}')
+  do declare -i aline=$(man -- "$m" | grep -n 'ENVIRONMENT' | tail -n 1 | awk -F: '{print$2}')
   declare -a names=()
 
   names+=$(PAGER=cat man most | tail -n +${aline} | egrep '^[ ]+[A-Z_, ]+$' | awk -F, '{print$1}')

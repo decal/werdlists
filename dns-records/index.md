@@ -4,6 +4,7 @@ chaos-txt-rdata: all well-known `CHAOS` `TXT` records including non-BIND names
 dig-numeric-types: set arbitrary dig types with a string representing 16 bits
 dig-record-types: record types for the `IN` (INternet) resource record class
 dnsmasq-chaos-txt: `CHAOS` `TXT` records specific to the dnsmasq software
+examplecom-in-soa: zone file with `IN` `SOA` record for `example.com.`
 iana-record-types: record type strings as specified by IANA 
 in-srv-names: names for `IN` `SRV` taken from nmap's `nselib/data/dns-srv-names`
 nsupdate-record-types: record types used in nameserver update protocol messages

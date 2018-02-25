@@ -9,7 +9,7 @@ cert-data: Information commonly utilized by cryptographic certificate materials
 char-encodes: Various character encodings provided by different locales/charsets
 chat-commands: Both standard and custom Internet Relay Chat commands
 chat-data: Additional data on IRC, XMPP and other such messaging protocols
-cipher-data: Data that typically denotes or is used by cipher algorithms
+cipher-data: Data denoting or used by cryptographic algorithm implementations
 cmd-usage: Help text shown in a terminal when attempting to execute CLI programs
 cms-errors: Error codes and/or messages rendered by a Content Management System
 code-keywords: Identifiers known as reserved words in programming language specs

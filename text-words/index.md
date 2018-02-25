@@ -8,6 +8,7 @@ last-names-list: list of last names often used by people
 linux-words-dict: words taken from /usr/share/dict/words on Linux install
 one-hundred-thousand: the numbers 1-97935 with one on each line
 not-found-translations: "Not Found" translations on [iBiblio](http://ibiblio.org)
+reliable-passgen-wordlist: `wordlist.txt` from [BURP](https://github.com/jwmarshall/BURP "Beaituful Unique Reliable Password generator") 
 rogets-thesaurus-ebook: Roget's Thesaurus EBook from Project Gutenberg
 spike-proxy-allwords: dictionary distributed with ImmunitySec SPIKE Proxy dpkg
 tweet-word-ngrams: binary sequence and words parsed from tweets with cardinality

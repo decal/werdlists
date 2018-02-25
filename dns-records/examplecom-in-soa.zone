@@ -1,0 +1,5 @@
+$TTL 300;
+@   SOA LOCALHOST. named-mgr.example.com (1 1h 15m 30d 2h)
+    NS  LOCALHOST.
+
+test.example.com    A   127.0.99.1

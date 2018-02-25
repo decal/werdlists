@@ -1,3 +1,4 @@
+burp-word-list: word list taken from Burp Proxy attack tool
 dirb-list-words: file names taken from dirb's wordlists folder and parsed
 drupal-modules-list: Drupal modules list from `nselib/data/drupal-modules.lst`
 drupal-themes-list: Drupal themes list from `nselib/data/drupal-themes.lst`

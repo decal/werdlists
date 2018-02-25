@@ -6,3 +6,4 @@ javascript-reserved-words: Words that can't be used in current JavaScript syntax
 openssl-header-constants: Preprocessor constants defined in OpenSSL header files
 openssl-library-functions: [OpenSSL](https://openssl.org) man page functions
 prismjs-lang-names: [Prism](https://prismjs.com) syntax highlighted languages
+vimaddons-syntax-checkers: the output of `ls -1 /var/lib/vim/addons/syntax_checkers`
