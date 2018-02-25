@@ -2,7 +2,6 @@ ansi-art: ANSI art pieces remniscient of MS-DOS driver `ANSI.SYS` and `BCOM.EXE`
 arpa-headers: Header fields transmitted over RFC2822 style protocols like SMTP
 ascii-art: "Low bit" a.k.a. 7-bit ASCII art items without control characters
 attack-data: Info about attacks on networks and applications
-auth-warnings: Legal warnings shown by networked computer systems before login
 biology-info: Reference information useful in the study of biological issues
 browser-data: Data related to GUI browser software like Chrome, FireFox, etc.
 cert-data: Information commonly utilized by cryptographic certificate materials
@@ -82,6 +81,7 @@ ssltls-proto: SSLv2/3 and TLSv1+ (transport layer/secure sockets) protocol stuff
 string-enums: Enumerations of values that aren't too terribly unusual
 system-admin: System administration and BOFH related materials
 system-calls: System calls info for functions that execute in ring0
+system-notices: Disclaimer/warning messages shown by networked computer systems
 telco-data: Data associated with telecommunications companies and such..
 text-words: Lists of words likely to be found in an actual hard copy dictionary
 top-secret: Files and/or data related to documents that were/are classified
