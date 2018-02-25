@@ -42,24 +42,31 @@ If you're already familiar with established repositories such as
 [SecLists](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
 then `werdlists` is quite similar in mission as it's a centralized attack strings 
 and input data resource--just with its own unique style and organization, 
-original hand-crafted contents, expanded concepts, etc.
+original hand-crafted contents, verification/management scripts, expanded concepts, etc.
+`SecLists` is maintained by my colleague and co-worker at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com "Daniel Miessler").
 
 ## Description of the Repository Directory Hierarchy
 
-The `scripts` folder consists of shell scripts used for file system maintenance.
-Folder names are outlined in the `INDEX.md` file at the root of the repository's
-directory hierarchy.  All files in each folder are detailed in the local 
-`index.md` file, but these lowercased index files describe file names as opposed
-to directory contents. Each folder has a **subject** name and data **type**
-which are separated by a dash.
+The `scripts` folder consists of shell scripts used for repository maintenance.
+All scripts use bash syntax and some data files were generated with a script.
+Folder names are outlined in the `INDEX.md` file in the repository's root 
+directory.  All files in each folder are detailed in the local `index.md` file,
+but these lowercased index files describe the contents of each data file, as
+opposed to directory contents. Each folder has a **subject** name and storage
+**type** which are separated by a dash.
 
 ### Naming Scheme, Syntax and Meaning Associated With File Extensions
 
-Most files have the *.txt* extension signifying the `text/plain` [MIME type](https://en.wikipedia.org/wiki/Media_type)
-Some other file extensions are in use as well, including: *.csv*, *.xml*,
-*.bin*, etc.  These are for [Comma-Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values) (`text/csv`), Extended
-Markup Language (`application/xml`) and Binary data (`application/octet-stream`),
-respectively.  The index file in the root folder (`INDEX.md`), as well as the
-indices in each data directory (`index.md`) are formatted with markdown.
+Most files have the `*.txt` extension signifying the `text/plain` [MIME type](https://en.wikipedia.org/wiki/Media_type)
+Other file extensions in use are: `*.csv`, `*.xml`, `*.html`, and `*.yml`
+These are for [Comma-Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
+[Extended Markup Language](https://en.wikipedia.org/wiki/XML) (`application/xml`),
+[Hyper Text Markup Language](https://en.wikipedia.org/wiki/HTML) (`application/html`), etc.
+Any file that is larger than 1MB uncompressed should be compressed with [xz](https://en.wikipedia.org/wiki/Xz)
+according to the commands in the `scripts/compress-large-files` bash script. In
+spite of the fact that this is a word lists project, I'm striving to restrict the
+size of each file to a healthy maximum for manageability purposes.
+The index file in the root folder (`INDEX.md`), as well as the indices in each 
+data directory (`index.md`) are formatted with markdown.
 
 * * *

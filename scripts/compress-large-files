@@ -50,6 +50,6 @@ for f in $large_files
   echo -e "${reset}"
 done
 
-echo -e "${reset}${greenb}***${reset}${boldon}Finished compressing large files!${reset}"
+echo -e "${reset}${greenb}***${reset} ${boldon}Finished compressing large files!${reset}"
 
 exit 0

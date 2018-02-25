@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #
-# dirs-vs-index.bash v1.0
+# files-vs-index v1.0
 #
-# Compare folders listed in the root directory to those outlined in `index.lst`
-# This shows data set maintainers which folders aren't being indexed properly
+# Compare folders listed in each folder to those shown in its `index.md`
+# This shows maintainers which files aren't listed in the folder index
 #
 # Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
 # Last Modified: Wed Oct 26 13:48:05 EDT 2016
@@ -32,7 +32,7 @@ function errx_exit() {
 
 [[ "$(realpath `pwd`)" =~ '/scripts' ]] && cd ..
 
-LS=$( find . -maxdepth 1 -type d -not -iname '.*' -print | egrep -v '^\./scripts$' )
+LS=$( find . -maxdepth 1 -type d -not -iname '.*' -name '*-*' -print | egrep -v '^\./scripts$' )
 
 [ $? -ne 0 ] && errx_exit "$?" "$_"
 
@@ -46,10 +46,10 @@ for d in $LS
 
   cd $avar
   
-  for f in $( ls -1 * | egrep -v '^index\.lst$' )
+  for f in $( ls -1 * | egrep -v '^index\.md$' )
     do declare anam=$( echo $f | cut -d '.' -f1 )
     echo -ne "${bluef}${avar}${boldon}:${boldoff}${reset} "
-    echo -ne "$(grep --color=ALWAYS -ira -- "${anam}" index.lst)"
+    echo -ne "$(grep --color=ALWAYS -ira -- "${anam}" index.md)"
     echo
   done
 

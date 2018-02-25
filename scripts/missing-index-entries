@@ -25,7 +25,7 @@ if [ ! -d scripts ]
   exit 1
 fi
 
-[ -f scripts/colors ] && source -- scripts/colors
+[ -f scripts/shared/colors ] && source -- scripts/shared/colors
 
 declare -a wldirs=( `find . -maxdepth 1 -type d -not -name '.*' -print` )
 

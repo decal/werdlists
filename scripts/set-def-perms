@@ -41,7 +41,7 @@ echo -e "${reset}\n"
 echo -ne "\n${redf}"
 nice find . -type d -not -iname '.*' -exec chmod -v 0750 {} \;
 echo -ne "\n${reset}${white}"
-nice find . -type f \( -iname '*.txt' -o -iname '*.csv' -o -iname '*.xml' \) -exec chmod -v 0640 {} \;
+nice find . -type f \( -iname '*.txt' -o -iname '*.csv' -o -iname '*.xml' -o -iname '*.xz' -o -iname '*.yml' -o -iname '*.html' \) -exec chmod -v 0640 {} \;
 echo -ne "\n${reset}${greenf}"
 nice find . -type f -iname '*.bin' -exec chmod -v 0440 {} \;
 echo -ne "\n${reset}${cyanf}"

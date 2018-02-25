@@ -1,1 +1,2 @@
-shared/colors
+[ -f scripts/shared/colors ] && source -- scripts/shared/colors
+[ -f shared/colors ] && source -- shared/colors

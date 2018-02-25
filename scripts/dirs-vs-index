@@ -2,7 +2,7 @@
 #
 # dirs-vs-index v1.0
 #
-# Compare folders listed in the root directory to those outlined in `index.lst`
+# Compare folders listed in the root directory to those outlined in `index.md`
 # This shows data set maintainers which folders aren't being indexed properly
 #
 # Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
@@ -17,7 +17,7 @@ WRDLS_PAGER='/bin/more'
 
 export WRDLS_PAGER
 
-[ -f colors ] && source -- colors
+[ -f scripts/shared/colors ] && source -- scripts/shared/colors
 
 # exit gracefully on error; be mindful of possibly malicious user function input
 function errx_exit() {
@@ -32,7 +32,7 @@ function errx_exit() {
 
 [[ "$(realpath `pwd`)" =~ '/scripts' ]] && cd ..
 
-LS=$( find . -maxdepth 1 -type d -not -iname '.*' -print | egrep -v '^\./scripts$' )
+LS=$( find . -maxdepth 1 -type d -not -iname '.*' -name '*-*' -print | egrep -v '^\./scripts$' )
 
 [ $? -ne 0 ] && errx_exit "$?" "$_"
 

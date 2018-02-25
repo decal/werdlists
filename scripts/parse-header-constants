@@ -1,8 +1,20 @@
 #!/usr/bin/env bash
+#
+# parse-header-constants v1.0
+#
+# Written by:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Tested on:    Ubuntu 16.04.3 LTS
+# Last updated: Sun Feb 25 04:10:30 STD 2018
+#
 
-read -p '*?* Enter the name of the root include directory the header files are under: ' -t 8 INC_DIR
+if [ ! "$1 " ]
+  then echo "usage: $0 INCDIR"
+  echo '  INCDIR  include directory where header files are to be found'
 
-find ${INC_DIR} -type f -iname '*.h' -exec egrep '^[#]define ' {} \; | \
+  exit 1
+fi
+
+find $1 -type f -iname '*.h' -exec egrep '^[#]define ' {} \; | \
   awk '{print$2}' | egrep '^[A-Z]+' | grep -v '(' | sort -u 
 
 exit 0

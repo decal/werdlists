@@ -51,6 +51,7 @@ iso-codes: International Standardization Organization code numbers and such
 java-data: Data found in or related to source code of programs written with Java
 libc-data: Standard C library related data potentially useful for tests
 link-layer: Info concerning OSI layer 2 also known as the link layer (below IP)
+linux-data: Data identifiers and such from the Linux operating system
 linux-paths: Path names found on file systems created by Linux installations
 methbot-iocs: Indicators of Compromise identify malware from the Methbot botnet
 mobile-devs: Miscellaneous items and objects found within mobile devices
@@ -59,6 +60,7 @@ netsh-data: Output received by executing the `netsh.exe` utility on Windows
 ntfs-paths: Path names expected to be seen in NT file system folders
 nvd-data: Datum utilized by NIST's NVD (National Vulnerability Database) 
 opersys-strs: Strings that relate to one operating system or another 
+owasp-data: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")
 passes-dicts: Dictionary files used when brute force attacking account passwords
 passes-sites: Password lists that were publicized after major site compromises
 perl-data: Data often seen in PERL (Practical Extraction and Report Language) 
@@ -81,6 +83,7 @@ string-enums: Enumerations of values that aren't too terribly unusual
 system-admin: System administration and BOFH related materials
 system-calls: System calls info for functions that execute in ring0
 telco-data: Data associated with telecommunications companies and such..
+text-words: Lists of words likely to be found in an actual hard copy dictionary
 top-secret: Files and/or data related to documents that were/are classified
 unicode-art: Unicode art pieces (i.e. requires wide character symbols)
 unicode-data: Info on Unicode character usage and representation
