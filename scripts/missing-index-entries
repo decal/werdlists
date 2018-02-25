@@ -2,7 +2,7 @@
 #
 # missing-index-entries v0.9b
 #
-# Look for folders without an index.md file or are missing entries from it
+# Look for folders without an readme.md file or are missing entries from it
 #
 # Written By:    Derek Callaway [decal {AT} sdf {D0T} org]
 # Last Modified: Sat Nov 12 13:08:03 EST 2016
@@ -43,16 +43,16 @@ for adir in "${wldirs[@]}"
   for afil in "${wlfiles[@]}"
     do #
     
-    if [ ! -s index.md ] 
-      then rm -f index.md
-      touch index.md
+    if [ ! -s readme.md ] 
+      then rm -f readme.md
+      touch readme.md
 
       for anam in ${wlfiles[*]}
-        do echo -e "${anam}: " >> index.md
+        do echo -e "${anam}: " >> readme.md
       done
     fi
 
-    declare output=$( egrep -i "^${afil}:" index.md | egrep -iv '^index\.md$' ) 
+    declare output=$( egrep -i "^${afil}:" readme.md | egrep -iv '^index\.md$' ) 
 
     [[ $output == "" ]] && listfiles_missing+=( $afil ) 
   done
@@ -65,7 +65,7 @@ for adir in "${wldirs[@]}"
   fi
  
   echo -e "${reset}"
-  # echo ${afil} >> index.md
+  # echo ${afil} >> readme.md
 
   cd ..
 done
