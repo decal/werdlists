@@ -1,0 +1,708 @@
+tmpFF-1
+	
+
+angstromtmpFF-2
+
+Ab
+	
+
+antibody
+
+Ac
+	
+
+acetyl group
+
+ADP
+	
+
+adenosine diphosphate
+
+Ala
+
+	
+
+alanine residue (also A)
+
+AMP
+	
+
+adenosine monophosphate
+
+Arg
+	
+
+arginine residue (also R)
+
+Asn
+	
+
+asparagine residue (also N)
+
+Asp
+	
+
+aspartic acid residue (also D)
+
+ATP
+	
+
+adenosine triphosphate
+
+ATPase
+	
+
+adenosine triphosphatase
+
+Bq
+	
+
+becquerel
+
+bp
+	
+
+base-pair
+
+BSA
+	
+
+bovine serum albumin
+
+C
+	
+
+cytosine base
+
+cal
+	
+
+calorie (4.18 J)
+
+cAMP
+	
+
+3,5-cyclic AMP
+
+CD
+	
+
+circular dichroism
+
+CoA
+	
+
+coenzyme A
+
+cDNA
+	
+
+complementary DNA
+
+cGMP
+	
+
+3,5-cyclic GMP
+
+Cmc
+	
+
+critical micelle concentration
+
+Cys
+	
+
+cysteine residue (also C)
+
+Da
+	
+
+dalton
+
+DMSO
+	
+
+dimethyl sulfoxide
+
+DNA
+	
+
+deoxyribonucleic acid
+
+DNase
+	
+
+deoxyribonuclease
+
+DTT
+	
+
+dithiothreitol
+
+EDTA
+	
+
+ethylenediamine tetraacetic acid
+
+EG
+	
+
+[ethylenebis(oxonitrilo)] tetraacetic acid
+
+EGF
+	
+
+epidermal growth factor
+
+ELISA
+	
+
+enzyme-linked immunosorbent assay
+
+EM
+	
+
+electron microscopy
+
+EPR, ESR
+	
+
+electron paramagnetic (or sign) resonance
+
+ER
+	
+
+endoplasmic reticulum
+
+EXAFS
+	
+
+extended X-ray absorption fine structure
+
+FAD
+	
+
+flavin-adenine dinucleotide
+
+fMet
+	
+
+JV-formyl methionine
+
+FMN
+	
+
+flavin mononucleotide
+
+FPLC
+	
+
+fast protein liquid chromatography
+
+G
+	
+
+Gibbs free energy of a system
+
+G
+	
+
+guanine base
+
+G-protein
+	
+
+guanine-nucleotide binding regulatory protein
+
+GABA
+	
+
+g-aminobutyric acid
+
+GalNAc
+	
+
+AT-acetylgalactosamine residue
+
+GdmCl
+	
+
+guanidinium chloride (guanidine hydrochloride)
+
+GDP
+	
+
+guanosine diphosphate
+
+Glc
+	
+
+glucose residue
+
+GlcNAc
+	
+
+iV-acetylglucosamine residue
+
+Gin
+	
+
+glutamine residue (also Q)
+
+Glu
+	
+
+glutamic acid residue (also E)
+
+Gly
+	
+
+glycine residue (also G)
+
+GMP
+	
+
+guanoine monophosphate
+
+GSH
+	
+
+glutathione, thiol form
+
+GSSG
+	
+
+glutathione, disulfide form
+
+GTP
+	
+
+guanosine triphosphate
+
+GTPase
+	
+
+guanQsine triphosphatase
+
+H
+	
+
+enthalpy of a system
+
+h
+	
+
+hour
+
+His
+	
+
+histidine residue (also H)
+
+HLA
+	
+
+histocompatibility locus antigen
+
+HPLC
+	
+
+high pressure liquid chromatography
+
+Hz
+	
+
+hertz, frequency
+
+IEF
+	
+
+isoelectric focusing IgG, IgA, IgM, etc.
+	
+
+immunoglobuin G, A, M. etc.
+
+lie
+	
+
+isoleucine residue (also I)
+
+Ins
+	
+
+inositol residue
+
+IR
+	
+
+infrared
+
+J
+	
+
+joule
+
+K
+	
+
+degrees Kelvin, absolute temperature
+
+k
+	
+
+rate constant for a specified reaction
+
+tmpFF-4
+	
+
+association constant
+
+tmpFF-5
+	
+
+dissociation constant
+
+tmpFF-6
+	
+
+equilibrium constant for a specified reaction
+
+tmpFF-7
+	
+
+Michaelis constant
+
+kb
+	
+
+kilobases
+
+kcal
+	
+
+kilocalorie (4.18 kJ)
+
+kDa
+	
+
+kilodalton
+
+LDL
+	
+
+low density lipoprotein
+
+Leu
+	
+
+leucine residue (also L)
+
+Lys
+	
+
+lysine residue (also K)
+
+m
+	
+
+meter
+
+mAb
+	
+
+monoclonal antibody
+
+Met
+	
+
+methionine residue (also M)
+
+MHC
+	
+
+major histocompability locus
+
+min
+	
+
+minute
+
+mol
+	
+
+mole
+
+Mr
+	
+
+relative molecular mass
+
+mRNA
+	
+
+messenger RNA
+
+MS
+	
+
+mass spectroscopy
+
+mtDNA
+	
+
+mitochondrial DNA
+
+Mur
+	
+
+muramic acid residue
+
+MurNAc
+	
+
+iV-acetylmuramic acid residue
+
+NAD+
+	
+
+nicotinamide adenine dinucleotide (oxidized)
+
+NADH
+	
+
+nicotinamide adenine dinucleotide (reduced)
+
+NADP+
+	
+
+nicotinamide adenine dinucleotide phosphate
+	
+
+(oxidized)
+
+NADPH
+	
+
+nicotinamide adenine dinucleotide phosphate
+	
+
+(reduced)
+
+NMR
+	
+
+nuclear magnetic resonance
+
+PAGE
+	
+
+polyacrylamide gel electrophoresis
+
+PBS
+	
+
+phosphate-buffered saline
+
+PCR
+	
+
+polymerase chain reaction
+
+PEG
+	
+
+polyethylene glycol
+
+pH
+	
+
+negative logarithm of hydrogen ion concentration
+
+Phe
+	
+
+phenylalanine residue (also F)
+
+Pi
+	
+
+inorganic phosphate
+
+PPx
+	
+
+inorganic pyrophosphate
+
+p.p.m.
+	
+
+parts per million
+
+Pro
+	
+
+proline residue (also P)
+
+R
+	
+
+gas constant (8.21451 J/iK1 mol"1))
+
+RIA
+	
+
+radioimmunoassay
+
+RNA
+	
+
+ribonucleic acid
+
+RNase
+	
+
+ribonuclease
+
+RNP
+	
+
+ribonucleoprotein
+
+rRNA
+	
+
+ribosomal RNA
+
+S
+	
+
+entropy of a system
+
+S
+	
+
+Svedberg sedimentation unittmpFF-3
+
+s
+	
+
+second
+
+s
+	
+
+sedimentation coefficient
+
+SDS
+	
+
+sodium dodecyl sulfate
+
+snRNA
+	
+
+small nuclear RNA
+
+SRP
+	
+
+signal recognition particle
+
+T
+	
+
+temperature
+
+T
+	
+
+thymine residue
+
+TF
+	
+
+transcription factor
+
+Thr
+	
+
+threonine residue (also T)
+
+Tm
+	
+
+midpoint of temperature induced transition
+
+Tri
+	
+
+tris(hydroxymethyl) aminomethane
+
+tRNA
+	
+
+transfer RNA
+
+Trp
+	
+
+tryptophan residue (also W)
+
+TTP
+	
+
+thymidine triphosphate
+
+Tyr
+	
+
+tyrosine residue (also Y)
+
+U
+	
+
+uracil residue
+
+UDP
+	
+
+uridine diphosphate
+
+UMP
+	
+
+uridine monophosphate
+
+UTP
+	
+
+uridine triphosphate
+
+UV
+	
+
+ultraviolet
+
+V
+	
+
+volume
+tmpFF-8
+	
+
+maximum enzyme catalyzed velocity
+
+Val
+	
+
+valine residue (also V)
+
+WT
+	
+
+wild-type
+
+Xyl
+	
+
+xylose residue

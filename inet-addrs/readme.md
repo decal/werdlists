@@ -2,6 +2,7 @@ classa-rir-blocks: Class A assignments to RIR's (Routing Internet Registries)
 donotscan-ipv4-ranges: ranges of IPv4 address that needn't be bothered  
 dshield-block-list: recommended list of netblocks to block from [dshield.org](https://dshield.org)
 incapsula-cidr-blocks: IPv4 and IPv6 CIDR blocks occupied by the **Incapsula** WAF  
+malc0de-ip-blacklist: malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses")
 malware-domain-ips: IP addresses from `malwaredomainlist.com`  
 moby-ipv6-list: common hex strings seen in IPv6 addressing taken from *Moby*  
 nmap-multicast-groups: taken from nmap's `nselib/data/mgroupnames.db`  

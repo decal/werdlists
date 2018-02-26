@@ -1,0 +1,82 @@
+AIBS	American Institute of Biological Sciences
+BAC	Bacterial Artificial Chromosome
+BIO	Biotechnology Industry Organization
+BLAST	basic local alignment search tool
+bp	base pair (nucleic acids)
+BSL 1	biosafety level 1; involving agents not known to consistently cause disease in healthy adult humans
+BSL 2	biosafety level 2; involving agents of moderate potential hazard to personnel and the environment
+BSL 3	biosafety level 3; work is done with indigenous or exotic agents which may cause serious or potentially lethal disease after inhalation
+BSL 4	biosafety level 4; work with dangerous and exotic agents that pose a high individual risk of aerosol-transmitted laboratory infections, agents which cause severe to fatal disease in humans for which vaccines or other treatments are not available
+Bt	Bacillus thuringiensis
+cDNA	complementary DNA
+CFU	Colony Forming Unit
+cGMP	Current Good Manufacturing Practice (quality assurance)
+CHO	Chinese Hamster Ovary cell line
+CHP	Chemical Hygiene Plan
+CIP	Common Industry Practice
+CIS	Chemical Inventory Sheet
+CSHL	Cold Spring Harbor Laboratory
+ddNTP	dideoxynucleoside triphosphate
+DNase	deoxyribonuclease
+dNTP	deoxynucleoside triphosphate
+DOD	Department of Defense
+DPA	Diphenol Amine (nucleic acid indicator)
+dsDNA	double stranded DNA
+ELISA	enzyme-linked immunosorbent assay
+EPA	Environmental Protection Agency
+ES	Embryonic Stem
+FDA	US Food and Drug Administration
+FISH	Fluorescence in situ hybridization
+GDB	Genomic Database
+GE	genetically engineered
+GFP	green fluorescent protein
+GLP	Good Laboratory Practice
+GM	genetically modified
+GMO	genetically modified organism
+GOI	Gene of Interest
+h-DNA	heteroduplex DNA
+HAC	human artificial chromosome
+HCS	Federal Hazard Communication Standard
+HeLa	Henrietta Lacks (human cancer cell line)
+HGP	Human Genome Project
+HHMI	Howard Hughes Medical Institute
+HTGS	high throughput genomic sequencing
+kb	kilobase
+kDa	kilodalton
+LB	Luria Bertani (broth or agar)
+Mb	megabase
+MDA-MB-435	Breast Cancer human cell line
+MHC	major histocompatibility complex
+miRNA	microRNA
+MSDS	Material Safety Data Sheet
+mtDNA	mitochondrial DNA
+NCGR	National Center for Genome Research
+NCI	National Cancer Institute
+NGO	non-governmental organization
+NHGRI	National Human Genome Research Institute
+NIH	National Institutes of Health
+NRC	National Research Councel
+NSF	National Science Foundation
+OMIM	Online Mendelian Inheritance in Man
+OSHA	Occupational Safety and Health Administration
+PAGE	polyacrylamide gel electrophoresis
+PCR	Polymerase Chain Reaction
+PPE	Personal Protective Equipment
+PubMed	Scientific Article Database
+QC	Quality Control
+rDNA	recombinant DNA
+RFLP	restriction fragment length polymorphism
+RNAi	RNA interference
+SIP	Standard Industry Practice
+SDS	sodium dodecyl sulphate
+STR	Sequence tandem repeats
+SNP	single nucleotide polymorphism
+snRNA	small nuclear RNA
+SOP	Standard Operating Procedure
+ssDNA	single stranded DNA
+Taq	Thermus aquaticus
+TIGR	The Institute for Genomic Research
+U251	Human glioma cancer cell line
+USDA	United States Department of Agriculture
+VNTR	variable number of tandem repeats
+WHO	World Health Organization
