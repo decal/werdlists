@@ -31,8 +31,9 @@ more-intranet-hosts: `common-intranet-hosts` with numeric digits appended
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)  
 nmap-vhosts-all: virtual host names from nmap's `vhosts-full.lst` and `vhosts-default.lst`  
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)  
-someonewhocares-zero-hosts: [0 text file](http://someonewhocares.org/hosts/zero/hosts)  
-someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/hosts)  
+someonewhocares-zero-hosts: [zero hosts file](http://someonewhocares.org/hosts/zero/) matching host names to [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)   
+someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/) matching host names to IPv6 [Localhost](https://en.wikipedia.org/wiki/Localhost)  
+sorted-subdomain-counts: `subdomains.txt` file from averagesecurity's [axfr repository](https://github.com/averagesecurityguy/axfr "securityguy/axfr")
 spam-blacklist-hosts: host names used in from addresses by spammers  
 subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__  
 top-million-subdomains: large list of subdomain names [cldrn GitHub](https://github.com/cldrn/pentesting)  

@@ -4,6 +4,8 @@ english-top-1000: 1,000 most used words in the english language
 english-words-various: various english words taken from some old ZIP files  
 first-names-list: list of first names often used by people  
 infosec-glossary-terms: glossary of information security terminology  
+jargon-common-words: common information technology jargon words
+jargon-common-bases: common base words in IT jargon
 last-names-list: list of last names often used by people  
 linux-words-dict: words taken from `/usr/share/dict/words` on Linux install  
 one-hundred-thousand: the numbers 1-97935 with one on each line  

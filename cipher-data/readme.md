@@ -1,4 +1,4 @@
-compsec-cert-std: NIST FIPS 140-2 cryptographic product security validation  
+compsec-cert-std: [NIST FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf) cryptographic product security validation  
 crypto-product-std: "Common Criteria" compliance according to national authority  
 descrypt-admin-allsalts: Single DES of string "admin" with all salts  
 gnutls-cli-extra: Miscellaneous output of same GnuTLS command as above  

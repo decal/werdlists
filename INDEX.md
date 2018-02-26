@@ -69,7 +69,6 @@ postal-data: Postal service info for the United States and elsewhere
 python-data: Data used by the Python scripting language interpreter at runtime
 radio-data: Things commonly used in radio frequency transmissions
 regex-data: Regular expression patterns to mount attacks and match strings
-remote-urls: Lists of tokens that were parsed out of a remote URL string
 ruby-data: Data typically seen within the syntax of the Ruby scripting language
 search-dorks: General purpose search-engine queries likely to find insecure sites
 shell-builtins: Reserved words and such built-in to well-established shell software
@@ -90,6 +89,7 @@ unicode-data: Info on Unicode character usage and representation
 unix-data: Data associated with various flavors of the UNIX OS and its clones
 unix-paths: File path names found in various UNIX file systems
 uri-schemes: Lists containing references for URI schemes (part before colon)
+uri-data: Universal Resource Identifier related data
 vuln-data: Information about security vulnerabilities found in server software
 webapp-attacks: Proof-of-concept samples for attacks on web applications
 webapp-data: Data associated with applications hosted on web servers
@@ -97,6 +97,6 @@ webapp-dirs: Directories related to applications running on a web server
 webapp-files: Files related to applications running on a web server
 webapp-paths: Path names related to applications running on a web server
 webapp-words: Words related to applications running on a web server
-web-sites: Address info on popular and/or organized WWW sites 
+web-sites: Addresses to and/or information on well known/organized WWW sites 
 wifi-networks: IEEE 802.11 Wi-Fi network information
 windows-data: Data only found within the Microsoft Windows series of OSes
