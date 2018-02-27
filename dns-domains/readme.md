@@ -4,6 +4,7 @@ co-domain-records: Resource records for the .co TLD domains' DNSSEC signatures
 com-domain-names: list of various commercial domain names in the com TLD   
 comdotbr-domain-names: lits of various commercial domain names in the br ccTLD  
 domain-prices-top1k: Top one thousand most expensive domain names  
+dshield-suspicious-domains: low and medium level sensitivity suspicious domains from `dshield.org`
 edu-domain-names: various educational domain names  
 eu-domain-names: DNSSEC recource records within the eu TLD  
 face-book-doms: hostnames for FaceBook's bug bounty program  
