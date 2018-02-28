@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# remv-all-lists.bash v1.0
+# remove-all-lists 
 #
 # Remove files that contain all entries for a particular category and/or folder
 #

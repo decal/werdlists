@@ -18,6 +18,7 @@ X-Auth-User
 X-Auth-Username
 X-Authenticated-User
 X-Authenticated-Groups
+X-CF-APP-INSTANCE
 X-Client-IP
 X-Cnection
 X-Correlation-ID
@@ -41,9 +42,13 @@ X-Http-Method
 X-Http-Method-Override
 X-In-Progress
 X-Include
+X-Mashape-Key
 X-Method-Override
 X-MiteApiKey
 X-N
+X-Original-From
+X-Original-Host
+X-Original-Proto
 X-Org-Token
 X-Papertrail-Token
 X-Prototype-Version
@@ -57,4 +62,5 @@ X-Storage-User
 X-UIDH
 X-Vertis-Platform
 X-Wap-Profile
+X-Was-Originally-From
 X-XHR-Referer

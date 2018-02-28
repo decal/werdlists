@@ -577,6 +577,7 @@ X-ORACLE-NOTIFICATION-RECIPIENT-ID:
 X-ORACLE-NOTIFICATION-REQUEST-ID
 X-ORACLE-NOTIFICATION-REQUEST-ID:
 X-OrganizationHeadersPreserved
+X-Originally-To
 X-OriginalArrivalTime
 X-Originating-Email
 X-Originating-IP

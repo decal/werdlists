@@ -65,6 +65,7 @@ x-fb-rev
 X-FB-Debug
 X-FB-Trace-ID
 X-FEServer
+X-Firefox-Spdy
 X-Frame-Options
 X-Generated-By
 X-Generator

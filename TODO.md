@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* write a script to check every folder's `readme.md` for two spaces after every line
 * Make a 1.0 release on GitHub
 * script to check each dir for missing `index.md` entries
 * `scripts/write-index-lines` after fixing missing index entries and commit/push/tweet!

@@ -15,7 +15,7 @@ onion-links-list: List of onion sites verified in 2017 left on `pastebin.com`
 proc-model-defs: [https://html.spec.whatwg.org/multipage/webappapis.html#definitions-2]("")  
 rails-secret-tokens: Ruby on Rails secret authorization token string values  
 referrer-policy-directives: W3C Referrer Policy directives from HTTP replies  
-rfc1918-common-addrs: commonly used RFC1918 addresses for SSRF attacks  
+rfc1918-common-addrs: [RFC1918](https://tools.ietf.org/html/rfc1918 "Address Allocations for Private Internets") based [IPv4 private network address spaces](https://en.wikipedia.org/wiki/Private_network#Private_IPv4_address_spaces) for [SSRF](https://www.owasp.org/index.php/Server_Side_Request_Forgery) attacks  
 snort-http-inspect: Snort HTTP inspect module global configuration variables  
 uri-spec-issues: Messages to the URI-WG mailing list about ambiguous URI syntax  
 variable-name-strings: Commonly lucrative HTTP GET query variable names  

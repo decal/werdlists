@@ -15,7 +15,7 @@ fi
 
 find . -maxdepth 1 -type d -name '*-*' -exec \
   find {} \; -type f -name '*.*' -and -not -iname '*.lst' -exec \
-    basename {} \;  | awk '{ FS="." } {print($3);}'  | sort -u | \
+    basename {} \;  | egrep -v '(staging|scripts)/' | awk '{ FS="." } {print($3);}'  | sort -u | \
       tr '[A-Z]' '[a-z]' | egrep -v '^$'
 
 exit 0
