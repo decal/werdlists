@@ -1,12 +1,12 @@
 adaway-block-list: hosts block list distributed by `adaway.org`  
 alexa-host-names: Alexa URI host names sorted and uniqified   
 alexa-top50-global: The top 50 global web sites from <http://alexa.com/topsites>  
-altdns-host-lists: a list of hostnames via the `altdns` tool  
+altdns-host-lists: a list of hostnames via the [altdns](https://github.com/infosec-au/altdns "Subdomain discovery through alterations and permutations") tool    
 av-update-hosts: anti-virus signature update host names  
 bigbad-hosts-list: only `subdom-brute-list.txt` is larger than this file  
 common-intranet-hosts: host names commonly found on private intranets  
 dns-dictionary-hosts: `hosts.txt` taken from *DNSDictionary* tool  
-dnsbrute-names-large: a large list of host names via the `dnsbrute` tool  
+dnsbrute-names-large: a large list of host names via the [dnsbrute](https://github.com/d4rkcat/dnsbrute "Multi-threaded DNS bruteforcing") tool    
 dnsbrute-names-small: a list half the size of the large one also from `dnsbrute`  
 dnsinfo-gathertool-list: [namelist.txt](https://raw.githubusercontent.com/crimefire/dns-information-gathering-tool/master/DNS%20Tool%20source%202/namelist.txt "namelist.txt")  
 dnssearch-hosts-list: hosts list packaged with the *dnssearch* utility  
@@ -37,7 +37,7 @@ sorted-subdomain-counts: `subdomains.txt` file from averagesecurity's [axfr repo
 spam-blacklist-hosts: host names used in from addresses by spammers  
 subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__  
 top-million-subdomains: large list of subdomain names [cldrn GitHub](https://github.com/cldrn/pentesting)  
-tor-hsts-preloads: Site list for Strict Transport Security preloading on TOR  
+tor-hsts-preloads: Site list for [HTTP Strict Transport Security](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet) preloading on TOR  
 tweet-link-hosts: hosts parsed from tweet text on [Twitter](https://twitter.com)  
 uber-subdomain-names: subdomain names used by [Uber](https://uber.com)  
 wget-hsts-hosts: HSTS (Strict Transport Security) host names saved by GNU `wget`  

@@ -1,0 +1,278 @@
+1BSD
+2BSD
+386 BSD
+3BSD
+4.4BSD Lite 1
+4.4BSD Lite 2
+4BSD
+ABCenix
+ACIX
+Acorn RISC iX
+Acorn RISC Unix
+AD
+ÆrieBSD
+AIX
+AIX/370
+AIX/6000
+AIX/ESA
+AIX PS/2
+AIX/RT
+Altos System V
+AMiX
+ANALIX
+Android
+AOS Lite
+AOS Reno
+AppleTV
+ArchBSD
+ARIX
+ASV
+Atari Unix
+AurOS
+A/UX
+BBX
+Bitrig
+BKUNIX
+BOS
+BOS/X
+BRL Unix
+BS2000/OSD-BC
+BSD/386
+BSD Net/1
+BSD Net/2
+BSD/OS
+CB Unix
+C Executive
+Chorus
+Chorus/MiX
+CLIX
+Coherent
+Concentrix
+Consensys Unix
+ConvexOS
+COSIX
+CPIX
+Cromix
+CTIX
+CXOs
+CX/UX
+Darwin
+DCC-IX
+DC/OSx
+Debian GNU/Hurd
+DEC OSF/1 ACP
+Dell Unix
+DesktopBSD
+DG/UX
+Digital Unix
+DISTRIX
+DNIX
+Domain/OS
+DragonFly BSD
+DRM System
+DTIX
+DVIX
+Dynix
+Dynix/ptx
+EDIX
+ekkoBSD
+ENIX
+EP/IX
+Esix SVR4
+Eunice
+Eurix
+FireFly BSD
+FOR:PRO
+FreeBSD
+FreeDarwin
+FreeMiNT
+FTX
+Genix
+GNU
+GNU-Darwin
+Gnuppix GNU/Hurd-L4
+HCR
+Helios
+HEP-UPX
+HI-UX
+HPBSD
+HP-UX
+HP-UX BLS
+IBM AOS
+IBM IX/370
+IDRIS
+Illumos
+Inferno
+INOS
+Interactive 386/ix
+Interactive IS
+iOS
+iPhone OS
+iPod OS
+IRIS GL2
+IRIX
+Junos OS
+Linux
+Lites
+LSX
+LynxOS
+Mach
+MachTen
+MacMach
+macOS (Mac OS X)
+MAXION/OS
+MCS
+MERT
+MicroBSD
+Micronix
+Microport SVR4
+MicroPort Unix
+MidnightBSD
+Mimos
+Mini Unix
+Minix
+Minix-VMD
+MIPS OS RISC/os
+MirBSD
+Mk Linux
+MMOS
+Monterey
+more/BSD
+MP-RAS UNIX
+MST UNIX
+mt Xinu
+Mulplix
+Munix
+MVS/ESA OpenEdition
+NachOS
+NCR Unix
+NDIX
+NetBSD
+News-OS
+NeXTSTEP
+NonStop-UX
+NUXI
+Oasis
+ONIX
+OpenBSD
+OpenDarwin
+Open Desktop
+OpenIndiana
+OpenServer
+OpenSolaris
+OPENSTEP
+Open UNIX
+OPUS
+OS/390 OpenEdition
+OS/390 Unix
+OS 9
+OSF/1
+OS/MP
+OSx
+OS X
+PacBSD
+PC-BSD
+PC/IX
+PCUNIX
+Plan 9
+Plurix
+PNX
+Punix
+PureDarwin
+PWB
+PWB/UNIX
+QNIX
+QNX
+QNX/Neutrino
+QNX RTOS
+QUNIX
+REAL
+Regulus
+ReliantUnix
+Rhapsody
+RISC iX
+RT
+RT/EMT
+RTUX
+SCO UNIX
+SCO UnixWare
+SCO Xenix
+SCO Xenix System V/386
+Security-Enhanced Linux
+Silver OS
+Sinix
+Sinix ReliantUnix
+Solaris
+SORIX
+Sortix
+SOX
+Sphinx
+SPIX
+SPP-UX
+Stellix
+SUNIX
+SunOS
+Super-UX
+System B
+Thix
+TI System V
+TNIX
+Topix
+TOS
+Triance OS
+Tribblix 
+Tropix
+Tru64 Unix
+Trusted IRIX/B
+Trusted Solaris
+Trusted Xenix
+TS
+Tunis
+UCLA Locus
+UCLA Secure Unix
+UHC Unix
+Ultrix
+Ultrix-11
+Ultrix 32M
+Umax
+Unicos
+Unicos/mk
+Unicos/mp
+Unicox-max
+UNICS
+UniFLEX
+Uniq
+Unisis
+UniSoft UniPlus
+Unity
+UNIX 32V
+UNIX Interactive
+UNIX System III
+UNIX System IV
+UNIX System V
+UNIX System V/286
+UNIX System V/386
+UNIX System V Release 2
+UNIX System V Release 3
+UNIX System V Release 4
+UNIX Time-Sharing System
+UnixWare
+UNOS
+UNSW
+USG
+USIX
+UTEK
+UTS
+UTX/32S
+UX
+UXP/DS
+UZIX
+Venix
+VM/IX
+VOLVIX
+Xenix OS
+Xinu
+xMach
+Xoftnix
+Zeus
+z/OS Unix System Services

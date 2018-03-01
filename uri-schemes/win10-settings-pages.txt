@@ -1,0 +1,62 @@
+Battery Saver ms-settings:batterysaver 
+Battery Saver ms-settings:batterysaver-settings 
+Battery Saver Settings ms-settings:batterysaver-usagedetails 
+Bluetooth ms-settings:bluetooth 
+Colors ms-settings:colors 
+Data Usage ms-settings:datausage 
+Date and Time ms-settings:dateandtime 
+Closed Captioning ms-settings:easeofaccess-closedcaptioning 
+High Contrast ms-settings:easeofaccess-highcontrast 
+Magnifier ms-settings:easeofaccess-magnifier 
+Narrator ms-settings:easeofaccess-narrator 
+Keyboard ms-settings:easeofaccess-keyboard 
+Mouse ms-settings:easeofaccess-mouse 
+Other options (Ease of Access) ms-settings:easeofaccess-otheroptions 
+Lockscreen ms-settings:lockscreen 
+Offline maps ms-settings:maps 
+Airplane mode ms-settings:network-airplanemode 
+Proxy ms-settings:network-proxy 
+VPN ms-settings:network-vpn 
+Notifications & actions ms-settings:notifications 
+Account info ms-settings:privacy-accountinfo 
+Calendar ms-settings:privacy-calendar 
+Contacts ms-settings:privacy-contacts 
+Other Devices ms-settings:privacy-customdevices 
+Feedback ms-settings:privacy-feedback 
+Location ms-settings:privacy-location 
+Messaging ms-settings:privacy-messaging 
+Motion ms-settings:privacy-motion 
+Radios ms-settings:privacy-radios 
+Speech, inking, & typing ms-settings:privacy-speechtyping 
+Camera ms-settings:privacy-webcam 
+Region & language ms-settings:regionlanguage 
+Speech ms-settings:speech 
+Windows Update ms-settings:windowsupdate 
+Work access ms-settings:workplace 
+Connected devices ms-settings:connecteddevices 
+For developers ms-settings:developers 
+Display ms-settings:display 
+Mouse & touchpad ms-settings:mousetouchpad 
+Cellular ms-settings:network-cellular 
+Dial-up ms-settings:network-dialup 
+DirectAccess ms-settings:network-directaccess 
+Ethernet ms-settings:network-ethernet 
+Mobile hotspot ms-settings:network-mobilehotspot 
+Wi-Fi ms-settings:network-wifi 
+Manage Wi-Fi Settings ms-settings:network-wifisettings 
+Optional features ms-settings:optionalfeatures 
+Family & other users ms-settings:otherusers 
+Personalization ms-settings:personalization 
+Backgrounds ms-settings:personalization-background 
+Colors ms-settings:personalization-colors 
+Start ms-settings:personalization-start 
+Power & Sleep ms-settings:powersleep 
+Proximity ms-settings:proximity 
+Display ms-settings:screenrotation 
+Sign-in options ms-settings:signinoptions 
+Storage Sense ms-settings:storagesense 
+Themes ms-settings:themes 
+Typing ms-settings:typing 
+Tablet move ms-settings://tabletmode/ 
+Privacy ms-settings:privacy 
+Microphone ms-settings:privacy-microphone 
