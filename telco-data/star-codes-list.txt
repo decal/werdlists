@@ -1,0 +1,68 @@
+*00  Inward Voice Activated Services (English)
+*01  Inward Voice Activated Services (French)
+*02  Deactivation/Activation of In-Session Activation (ISA)on a per line basis
+*03  Deactivation of In-Session Activation (ISA) on a per call basis
+*2X  Reserved for expansion to 3digit VSCs
+*228 Over-the-Air Service Provisioning
+*272 Access Wireless Priority Service
+*3X  Reserved for expansion to 3-digit VSCs
+*40  Change Forward-To Number for Customer Programmable Call Forwarding Busy Line
+*41  Six-Way Conference Calling Activation
+*42  Change Forward-To Number for Customer Programmable Call Forwarding Don't Answer
+*43  Drop last member of Six-Way Conference Call
+*44  Voice Activated Dialing
+*45  Voice Dialing Extended Dial Tone
+*46  French Voice Activated Network Control
+*47  Override Feature Authorization
+*48  Override Do Not Disturb
+*49  Long Distance Signal
+*50  Voice Activated Network Control
+*51  Who Called Me?
+*52  Single Line Variety Package (SVP) - Call Hold
+*53  Single Line Variety Package (SVP) - Distinctive Ring B
+*54  Single Line Variety Package (SVP) - Distinctive Ring C
+*55  Single Line Variety Package (SVP) - Distinctive Ring D
+*56  Change Forward-To Number for ISDN Call Forwarding
+*57  Customer Originated Trace
+*58  ISDN MBKS Manual Exclusion Activation
+*59  ISDN MBKS Manual Exclusion Deactivation
+*60  Selective Call Rejection Activation
+*61  Distinctive Ringing/Call Waiting Activation
+*62  Selective Call Waiting
+*63  Selective Call Forwarding Activation
+*64  Selective Call Acceptance Activation
+*65  Calling Number Delivery Activation
+*66  Automatic Callback Activation
+*67  Calling Number Delivery Blocking
+*68  Call Forwarding Busy Line/Don't Answer Activation
+*69  Automatic Recall Activation
+*70  Cancel Call Waiting
+*71  Usage Sensitive Three-way Calling
+*72  Call Forwarding Activation
+*73  Call Forwarding Deactivation
+*74  Speed Calling 8 - Change List
+*75  Speed Calling 30 - Change List
+*76  Advanced Call Waiting Deluxe
+*77  Anonymous Call Rejection Activation
+*78  Do Not Disturb Activation
+*79  Do Not Disturb Deactivation
+*80  Selective Call Rejection Deactivation
+*81  Distinctive Ringing/Call Waiting Deactivation
+*82  Line Blocking Deactivation
+*83  Selective Call Forwarding Deactivation
+*84  Selective Call Acceptance Deactivation
+*85  Calling Number Delivery Deactivation
+*86  Automatic Callback Deactivation
+*87  Anonymous Call Rejection Deactivation
+*88  Call Forwarding Busy Line/Don't Answer Deactivation
+*89  Automatic Recall Deactivation
+*90  Customer Programmable Call Forwarding Busy Line Activation
+*91  Customer Programmable Call Forwarding Busy Line Deactivation
+*92  Customer Programmable Call Forwarding Don't Answer Activation
+*93  Customer Programmable Call Forwarding Don't Answer Deactivation
+*94  Reserved For Local Assignment
+*95  Reserved For Local Assignment
+*96  Reserved For Local Assignment
+*97  Reserved For Local Assignment
+*98  Reserved For Local Assignment
+*99  Reserved For Local Assignment

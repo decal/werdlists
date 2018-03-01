@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+cp INDEX.md /tmp
+
+(while read line
+  do echo "${line}  "
+done) < INDEX.md > i.md
+
+mv i.md INDEX.md
+
+dos2unix INDEX.md
+
+exit 0

@@ -19,6 +19,7 @@ national-network-tones: Specifications/meanings of tones by country via [ITU-T](
 sdf-outbound-rates: CSV of outbound [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP "Voice over IP") rates taken from the SDF FTP server  
 sms2email-mailer-records: Cellular carriers' SMTP gateways for SMS messages  
 sms-spam-collection: various unsolicited commercial SMS messages in the UK  
+star-codes-list: like `vertical-service-codedefs` entry below, but with more codes listed and briefer descriptions
 telephony-acronyms-abbrevs: Telephony Acronyms and Abbreviations List From Hell  
 vertical-service-codedefs: [NANPA](https://www.nationalnanpa.com "North American Numbering Plan Association") vertical service code definitions  
 xfinity-voice-features: [XFinity](https://my.xfinity.com/ "XFinity by Comcast") Voice Features, CLASS Services, [Star Codes](https://en.wikipedia.org/wiki/Vertical_service_code), etc.  
