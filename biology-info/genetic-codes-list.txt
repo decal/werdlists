@@ -1,0 +1,27 @@
+Translation table 1: The standard code
+Translation table 2: The vertebrate mitochondrial code
+Translation table 3: The yeast mitochondrial code
+Translation table 4: The mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code
+Translation table 5: The invertebrate mitochondrial code
+Translation table 6: The ciliate, dasycladacean and hexamita nuclear code
+Translation table 7: The kinetoplast code; cf. table 4.
+Translation table 8: cf. table 1.
+Translation table 9: The echinoderm and flatworm mitochondrial code
+Translation table 10: The euplotid nuclear code
+Translation table 11: The bacterial, archaeal and plant plastid code
+Translation table 12: The alternative yeast nuclear code
+Translation table 13: The ascidian mitochondrial code
+Translation table 14: The alternative flatworm mitochondrial code
+Translation table 15: The Blepharisma nuclear code[3][4]
+Translation table 16: The chlorophycean mitochondrial code
+Translation table 21: The trematode mitochondrial code
+Translation table 22: The Scenedesmus obliquus mitochondrial code
+Translation table 23: The Thraustochytrium mitochondrial code
+Translation table 24: The Pterobranchia mitochondrial code
+Translation table 25: The candidate division SR1 and gracilibacteria code
+Translation table 26: The Pachysolen tannophilus nuclear code
+Translation table 27: The karyorelict nuclear code
+Translation table 28: The Condylostoma nuclear code
+Translation table 29: The Mesodinium nuclear code
+Translation table 30: The peritrich nuclear code
+Translation table 31: The Blastocrithidia nuclear code

@@ -1,0 +1,13 @@
+Privacy Bader https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+Close n forget https://addons.mozilla.org/en-US/firefox/addon/closen-forget/
+Ghostery https://addons.mozilla.org/en-US/firefox/addon/ghostery/
+Https-Everywhere https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+NoScript https://addons.mozilla.org/en-US/firefox/addon/noscript/
+RefControl https://addons.mozilla.org/en-US/firefox/addon/refcontrol/
+User Agent Switcher https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/
+Cookie AutoDelete https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
+lesspass https://addons.mozilla.org/en-US/firefox/addon/lesspass/
+Bloody Vikings! https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/
+Browser Safety https://addons.mozilla.org/en-US/firefox/addon/browser-safety/
+Forget Me Not https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/
+minerBlock https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin/

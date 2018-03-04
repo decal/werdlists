@@ -1,0 +1,26 @@
+
+browser.cache.disk.enable = false
+browser.cache.offline.enable = false
+browser.display.use_document_fonts = 0
+browser.sessionhistory.max_entries = 2
+browser.sessionstore.privacy_level = 2
+dom.storage.enabled = false
+extensions.blocklist.enabled = false
+geo.enabled = false
+geo.wifi.uri = [leave blank]
+intl.charsetmenu.browser.cache = ISO-8859-9, windows-1252, windows-1251, ISO-8859-1, UTF-8
+network.cookie.lifetimePolicy = 2
+network.http.accept.default = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+network.http.keep-alive.timeout = 600
+network.http.max-persistent-connections-per-proxy = 16
+network.http.pipelining.maxrequests = 8
+network.http.pipelining = true
+network.http.proxy.keep-alive = true
+network.http.proxy.pipelining = true
+network.http.sendRefererHeader = 0
+network.http.sendSecureXSiteReferrer = false
+network.http.use-cache = false
+network.prefetch-next = false
+network.protocol-handler.external = false [set the default and all the subsettings to false]
+network.protocol-handler.warn-external = true [set the default and all the subsettings to true]
+network.proxy.socks_remote_dns = true

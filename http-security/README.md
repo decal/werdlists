@@ -20,4 +20,5 @@ snort-http-inspect: Snort HTTP inspect module global configuration variables
 uri-spec-issues: Messages to the URI-WG mailing list about ambiguous URI syntax  
 variable-name-strings: Commonly lucrative HTTP GET query variable names  
 variable-value-strings: Typical HTTP GET query variable values  
+webdev-security-checklist: A web developer security checklist from <https://www.powerdown.io/blog/posts/web-developer-security-checklist.html>
 whatwg-urlstd-examples: Examples in (URL Standard)[https://url.spec.whatwg.org]   
