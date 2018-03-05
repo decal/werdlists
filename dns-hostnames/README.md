@@ -36,6 +36,7 @@ someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ip
 sorted-subdomain-counts: `subdomains.txt` file from averagesecurity's [axfr repository](https://github.com/averagesecurityguy/axfr "securityguy/axfr")
 spam-blacklist-hosts: host names used in from addresses by spammers  
 subdom-brute-list: taken from cujanovic's GitHub repo __subdomain-bruteforce-list__  
+subdomain-names-full: this is the `dict/subnames_full.txt` file from <https://github.com/lijiejie/subDomainsBrute>
 top-million-subdomains: large list of subdomain names [cldrn GitHub](https://github.com/cldrn/pentesting)  
 tor-hsts-preloads: Site list for [HTTP Strict Transport Security](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet) preloading on TOR  
 tweet-link-hosts: hosts parsed from tweet text on [Twitter](https://twitter.com)  

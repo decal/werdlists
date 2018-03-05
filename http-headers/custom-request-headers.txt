@@ -63,4 +63,5 @@ X-UIDH
 X-Vertis-Platform
 X-Wap-Profile
 X-Was-Originally-From
+X-Webauth-User
 X-XHR-Referer

@@ -1,0 +1,105 @@
+
+The following items are not documented:
+
+class File # is documented
+
+  # in file file.c
+  Separator = nil
+  # in file file.c
+  SEPARATOR = nil
+  # in file file.c
+  ALT_SEPARATOR = nil
+  # in file file.c
+  PATH_SEPARATOR = nil
+end
+
+class Hash # is documented
+
+  # in file hash.c:1216
+  def initialize_copy(p1); end
+
+end
+
+class IO # is documented
+
+  # in file io.c
+  SEEK_SET = nil
+  # in file io.c
+  SEEK_CUR = nil
+  # in file io.c
+  SEEK_END = nil
+end
+
+module Kernel # is documented
+
+  # in file eval.c:1495
+  def __callee__(); end
+
+end
+
+
+class LoadError # is documented
+
+  attr_reader :path # in file error.c
+end
+
+
+module Marshal # is documented
+
+  # in file marshal.c
+  MAJOR_VERSION = nil
+  # in file marshal.c
+  MINOR_VERSION = nil
+end
+
+
+module Math # is documented
+
+  # in file math.c
+  PI = nil
+  # in file math.c
+  E = nil
+end
+
+
+module Process::GID # is documented
+
+  # in file process.c:4819
+  def self.from_name(p1); end
+
+end
+
+module Process::UID # is documented
+
+  # in file process.c:4771
+  def self.from_name(p1); end
+
+end
+
+class Random # is documented
+
+  # in file random.c
+  DEFAULT = nil
+end
+
+class RubyVM # is documented
+
+  # in file vm.c
+  USAGE_ANALYSIS_REGS = nil
+  # in file vm.c
+  USAGE_ANALYSIS_INSN_BIGRAM = nil
+end
+
+
+Files:        77
+
+Classes:      91 ( 0 undocumented)
+Modules:      18 ( 0 undocumented)
+Constants:   115 (14 undocumented)
+Attributes:    1 ( 1 undocumented)
+Methods:    1677 ( 4 undocumented)
+
+Total:      1902 (19 undocumented)
+ 99.00% documented
+
+Elapsed: 34.4s

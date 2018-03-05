@@ -1,0 +1,2197 @@
+
+The following items are not documented:
+
+class BigDecimal # is documented
+
+  # in file ext/bigdecimal/bigdecimal.c:1501
+  def sub(p1, p2); end
+
+end
+
+class Complex # is documented
+
+  # in file ext/json/lib/json/add/complex.rb:7
+  def self.json_create(object); end
+
+  # in file ext/json/lib/json/add/complex.rb:11
+  def as_json(*); end
+
+  # in file ext/json/lib/json/add/complex.rb:19
+  def to_json(*); end
+
+end
+
+module DL # is documented
+
+  # in file ext/dl/lib/dl/callback.rb
+  def remove_callback(addr, ctype = nil); end
+
+  # in file ext/dl/lib/dl/callback.rb:70
+  def remove_callback_internal(proc_entry, addr_entry, addr, ctype = nil); end
+
+  # in file ext/dl/lib/dl/callback.rb:102
+  def remove_cdecl_callback(addr, ctype = nil); end
+
+  # in file ext/dl/lib/dl/callback.rb:106
+  def remove_stdcall_callback(addr, ctype = nil); end
+
+  # in file ext/dl/lib/dl/callback.rb
+  def set_callback(ty, argc, &cbp); end
+
+  # in file ext/dl/lib/dl/callback.rb:30
+  def set_callback_internal(proc_entry, addr_entry, argc, ty, abi = nil, &cbp); end
+
+  # in file ext/dl/lib/dl/callback.rb:58
+  def set_cdecl_callback(ty, argc, &cbp); end
+
+  # in file ext/dl/lib/dl/callback.rb:62
+  def set_stdcall_callback(ty, argc, &cbp); end
+
+end
+
+class DL::CarriedFunction # is documented
+
+  # in file ext/dl/lib/dl/func.rb:218
+  def self.new(cfunc, argtypes, n); end
+
+  # in file ext/dl/lib/dl/func.rb:233
+  def bind_at_call(&block); end
+
+  # in file ext/dl/lib/dl/func.rb:225
+  def create_carrier(data); end
+
+end
+
+class DL::CompositeHandler # is documented
+
+  # in file ext/dl/lib/dl/import.rb:8
+  def self.new(handlers); end
+
+  # in file ext/dl/lib/dl/import.rb:29
+  def [](symbol); end
+
+  # in file ext/dl/lib/dl/import.rb:12
+  def handlers(); end
+
+  # in file ext/dl/lib/dl/import.rb:16
+  def sym(symbol); end
+
+end
+
+
+
+# in files:
+#   ext/dl/lib/dl/func.rb
+
+module DL::Fiddle
+end
+
+class DL::Function # is documented
+
+  # in file ext/dl/lib/dl/func.rb:51
+  def self.new(cfunc, argtypes, abi = nil, &block); end
+
+  # in file ext/dl/lib/dl/func.rb:114
+  def bind(&block); end
+
+  # in file ext/dl/lib/dl/func.rb:199
+  def bind_at_call(&block); end
+
+  # in file ext/dl/lib/dl/func.rb:195
+  def bound?(); end
+
+  # in file ext/dl/lib/dl/func.rb:87
+  def call(*args, &block); end
+
+  # in file ext/dl/lib/dl/func.rb:83
+  def name(); end
+
+  # in file ext/dl/lib/dl/func.rb:79
+  def to_i(); end
+
+  # in file ext/dl/lib/dl/func.rb:162
+  def unbind(); end
+
+  # in file ext/dl/lib/dl/func.rb:203
+  def unbind_at_call(); end
+
+  # in file ext/dl/lib/dl/func.rb:102
+  def wrap_result(r); end
+
+end
+
+
+module DL::Importer # is documented
+
+  # in file ext/dl/lib/dl/import.rb:203
+  def [](name); end
+
+  # in file ext/dl/lib/dl/import.rb:154
+  def bind(signature, *opts, &blk); end
+
+  # in file ext/dl/lib/dl/import.rb:244
+  def bind_function(name, ctype, argtype, call_type = nil, &block); end
+
+  # in file ext/dl/lib/dl/import.rb:264
+  def create_carried_function(name, ctype, argtype, call_type = nil, n = 0); end
+
+  # in file ext/dl/lib/dl/import.rb:260
+  def create_temp_function(name, ctype, argtype, call_type = nil); end
+
+  # in file ext/dl/lib/dl/import.rb:207
+  def create_value(ty, val=nil); end
+
+  # in file ext/dl/lib/dl/import.rb:55
+  def dlload(*libs); end
+
+  # in file ext/dl/lib/dl/import.rb:131
+  def extern(signature, *opts); end
+
+  # in file ext/dl/lib/dl/import.rb:223
+  def handler(); end
+
+  # in file ext/dl/lib/dl/import.rb:236
+  def import_function(name, ctype, argtype, call_type = nil); end
+
+  # in file ext/dl/lib/dl/import.rb:228
+  def import_symbol(name); end
+
+  # in file ext/dl/lib/dl/import.rb:217
+  def import_value(ty, addr); end
+
+  # in file ext/dl/lib/dl/import.rb:81
+  def sizeof(ty); end
+
+  # in file ext/dl/lib/dl/import.rb:77
+  def typealias(alias_type, orig_type); end
+
+  # in file ext/dl/lib/dl/import.rb
+  def value(ty, val=nil); end
+
+end
+
+module DL::PackInfo # is documented
+
+  # in file ext/dl/lib/dl/pack.rb:5
+  ALIGN_MAP = nil
+  # in file ext/dl/lib/dl/pack.rb:19
+  PACK_MAP = nil
+  # in file ext/dl/lib/dl/pack.rb:33
+  SIZE_MAP = nil
+  # in file ext/dl/lib/dl/pack.rb:52
+  def self.align(addr, align); end
+
+end
+
+class DL::Packer # is documented
+
+  # in file ext/dl/lib/dl/pack.rb:66
+  def self.[](*types); end
+
+  # in file ext/dl/lib/dl/pack.rb:70
+  def self.new(types); end
+
+  # in file ext/dl/lib/dl/pack.rb:78
+  def pack(ary); end
+
+  # in file ext/dl/lib/dl/pack.rb:74
+  def size(); end
+
+  # in file ext/dl/lib/dl/pack.rb:89
+  def unpack(ary); end
+
+end
+
+class DL::Stack # is documented
+
+  # in file ext/dl/lib/dl/stack.rb:54
+  ALIGN_MAP = nil
+  # in file ext/dl/lib/dl/stack.rb:64
+  PACK_MAP = nil
+  # in file ext/dl/lib/dl/stack.rb:74
+  SIZE_MAP = nil
+  # in file ext/dl/lib/dl/stack.rb:5
+  def self.[](*types); end
+
+  # in file ext/dl/lib/dl/stack.rb:9
+  def self.new(types); end
+
+  # in file ext/dl/lib/dl/stack.rb:21
+  def pack(ary); end
+
+  # in file ext/dl/lib/dl/stack.rb:13
+  def size(); end
+
+  # in file ext/dl/lib/dl/stack.rb:17
+  def types(); end
+
+  # in file ext/dl/lib/dl/stack.rb:32
+  def unpack(ary); end
+
+end
+
+class DL::TempFunction # is documented
+
+  # in file ext/dl/lib/dl/func.rb:208
+  def bind_at_call(&block); end
+
+  # in file ext/dl/lib/dl/func.rb:212
+  def unbind_at_call(); end
+
+end
+
+module DL::ValueUtil # is documented
+
+  # in file ext/dl/lib/dl/value.rb:22
+  def signed_value(val, ty); end
+
+  # in file ext/dl/lib/dl/value.rb:5
+  def unsigned_value(val, ty); end
+
+  # in file ext/dl/lib/dl/value.rb:48
+  def wrap_arg(arg, ty, funcs = [], &block); end
+
+  # in file ext/dl/lib/dl/value.rb:39
+  def wrap_args(args, tys, funcs, &block); end
+
+end
+
+module IO::readable # is documented
+
+  # in file ext/io/console/console.c:769
+  def getch(*args); end
+
+end
+
+class Integer # is documented
+
+  # in file ext/openssl/lib/openssl/bn.rb:31
+  def to_bn(); end
+
+end
+
+module JSON # is documented
+
+  # in file ext/json/lib/json/common.rb:99
+  NaN = nil
+  # in file ext/json/lib/json/common.rb:101
+  Infinity = nil
+  # in file ext/json/lib/json/common.rb:103
+  MinusInfinity = nil
+  # in file ext/json/lib/json/ext.rb:20
+  JSON_LOADED = nil
+  # in file ext/json/lib/json/common.rb:432
+  def self.const_defined_in?(modul, constant); end
+
+end
+
+
+class JSON::GenericObject # is documented
+
+  attr_writer :json_creatable # in file ext/json/lib/json/generic_object.rb:12
+  # in file ext/json/lib/json/generic_object.rb:20
+  def self.from_hash(object); end
+
+  # in file ext/json/lib/json/generic_object.rb:8
+  def self.json_creatable?(); end
+
+  # in file ext/json/lib/json/generic_object.rb:14
+  def self.json_create(data); end
+
+  # in file ext/json/lib/json/generic_object.rb:41
+  def [](name); end
+
+  # in file ext/json/lib/json/generic_object.rb:45
+  def []=(name, value); end
+
+  # in file ext/json/lib/json/generic_object.rb:37
+  def to_hash(); end
+
+  # in file ext/json/lib/json/generic_object.rb:49
+  def |(other); end
+
+end
+
+class JSON::JSONError # is documented
+
+  # in file ext/json/lib/json/common.rb:107
+  def self.wrap(exception); end
+
+end
+
+
+module Kernel # is documented
+
+  # in file ext/bigdecimal/bigdecimal.c:2468
+  def BigDecimal(*args); end
+
+end
+
+
+class Module # is documented
+
+  # in file ext/psych/lib/psych/core_ext.rb:21
+  def psych_yaml_as(url); end
+
+  # in file ext/psych/lib/psych/core_ext.rb
+  def yaml_as(url); end
+
+end
+
+module NKF # is documented
+
+  # in file ext/nkf/nkf.c
+  AUTO = nil
+  # in file ext/nkf/nkf.c
+  NOCONV = nil
+  # in file ext/nkf/nkf.c
+  UNKNOWN = nil
+  # in file ext/nkf/nkf.c
+  BINARY = nil
+  # in file ext/nkf/nkf.c
+  ASCII = nil
+  # in file ext/nkf/nkf.c
+  JIS = nil
+  # in file ext/nkf/nkf.c
+  EUC = nil
+  # in file ext/nkf/nkf.c
+  SJIS = nil
+  # in file ext/nkf/nkf.c
+  UTF8 = nil
+  # in file ext/nkf/nkf.c
+  UTF16 = nil
+  # in file ext/nkf/nkf.c
+  UTF32 = nil
+end
+
+module Newton # is documented
+
+  # in file ext/bigdecimal/lib/bigdecimal/newton.rb:42
+  def nlsolve(f,x); end
+
+  # in file ext/bigdecimal/lib/bigdecimal/newton.rb:33
+  def norm(fv,zero=0.0); end
+
+end
+
+class OLEProperty # is documented
+
+  # in file ext/win32ole/lib/win32ole/property.rb:4
+  def self.new(obj, dispid, gettypes, settypes); end
+
+  # in file ext/win32ole/lib/win32ole/property.rb:10
+  def [](*args); end
+
+  # in file ext/win32ole/lib/win32ole/property.rb:13
+  def []=(*args); end
+
+end
+
+class Object # is documented
+
+  # in file ext/psych/lib/psych/core_ext.rb:2
+  def self.yaml_tag(url); end
+
+end
+
+module OpenSSL # is documented
+
+  # in file ext/openssl/ossl.c
+  OPENSSL_FIPS = nil
+  # in file ext/openssl/ossl.c:396
+  def self.debug(); end
+
+end
+
+class OpenSSL::ASN1::ObjectId # is documented
+
+  # in file ext/openssl/ossl_asn1.c:1354
+  def self.register(p1, p2, p3); end
+
+  # in file ext/openssl/ossl_asn1.c:1380
+  def ln(); end
+
+  # in file ext/openssl/ossl_asn1.c
+  def long_name(); end
+
+  # in file ext/openssl/ossl_asn1.c:1393
+  def oid(); end
+
+  # in file ext/openssl/ossl_asn1.c
+  def short_name(); end
+
+  # in file ext/openssl/ossl_asn1.c:1367
+  def sn(); end
+
+end
+
+
+class OpenSSL::BN # is documented
+
+  # in file ext/openssl/ossl_bn.c:112
+  def self.new(p1, p2 = v2); end
+
+  # in file ext/openssl/ossl_bn.c:363
+  def /(p1); end
+
+  # in file ext/openssl/ossl_bn.c
+  def ==(p1); end
+
+  # in file ext/openssl/ossl_bn.c
+  def ===(p1); end
+
+  # in file ext/openssl/ossl_bn.c:441
+  def bit_set?(p1); end
+
+  # in file ext/openssl/ossl_bn.c:242
+  def coerce(p1); end
+
+  # in file ext/openssl/ossl_bn.c:616
+  def copy(p1); end
+
+  # in file ext/openssl/ossl_bn.c:650
+  def eql?(p1); end
+
+  # in file ext/openssl/ossl_bn.c:236
+  def to_bn(); end
+
+  # in file ext/openssl/ossl_bn.c:218
+  def to_i(); end
+
+  # in file ext/openssl/ossl_bn.c
+  def to_int(); end
+
+end
+
+
+module OpenSSL::Buffering # is documented
+
+  # in file ext/openssl/lib/openssl/buffering.rb:37
+  def self.new(*args); end
+
+end
+
+class OpenSSL::Config # is documented
+
+  # in file ext/openssl/ossl_config.c
+  DEFAULT_CONFIG_FILE = nil
+  # in file ext/openssl/lib/openssl/config.rb:212
+  def self.new(filename = nil); end
+
+  # in file ext/openssl/lib/openssl/config.rb:20
+  def self.parse(str); end
+
+  # in file ext/openssl/lib/openssl/config.rb:30
+  def self.parse_config(io); end
+
+  # in file ext/openssl/lib/openssl/config.rb:248
+  def [](section); end
+
+  # in file ext/openssl/lib/openssl/config.rb:257
+  def []=(section, pairs); end
+
+  # in file ext/openssl/lib/openssl/config.rb:243
+  def add_value(section, key, value); end
+
+  # in file ext/openssl/lib/openssl/config.rb:295
+  def data(); end
+
+  # in file ext/openssl/lib/openssl/config.rb:281
+  def each(); end
+
+  # in file ext/openssl/lib/openssl/config.rb:223
+  def get_value(section, key); end
+
+  # in file ext/openssl/lib/openssl/config.rb:289
+  def inspect(); end
+
+  # in file ext/openssl/lib/openssl/config.rb:252
+  def section(name); end
+
+  # in file ext/openssl/lib/openssl/config.rb:265
+  def sections(); end
+
+  # in file ext/openssl/lib/openssl/config.rb:269
+  def to_s(); end
+
+  # in file ext/openssl/lib/openssl/config.rb:231
+  def value(arg1, arg2 = nil); end
+
+end
+
+
+
+class OpenSSL::Digest::Digest # is documented
+
+  # in file ext/openssl/lib/openssl/digest.rb:64
+  def self.new(*args); end
+
+end
+
+
+class OpenSSL::Engine # is documented
+
+  # in file ext/openssl/ossl_engine.c:147
+  def self.by_id(p1); end
+
+  # in file ext/openssl/ossl_engine.c:119
+  def self.cleanup(); end
+
+  # in file ext/openssl/ossl_engine.c:128
+  def self.engines(); end
+
+  # in file ext/openssl/ossl_engine.c:49
+  def self.load(p1 = v1); end
+
+  # in file ext/openssl/ossl_engine.c:210
+  def cipher(p1); end
+
+  # in file ext/openssl/ossl_engine.c:343
+  def cmds(); end
+
+  # in file ext/openssl/ossl_engine.c:313
+  def ctrl_cmd(p1, p2 = v2); end
+
+  # in file ext/openssl/ossl_engine.c:233
+  def digest(p1); end
+
+  # in file ext/openssl/ossl_engine.c:198
+  def finish(); end
+
+  # in file ext/openssl/ossl_engine.c:182
+  def id(); end
+
+  # in file ext/openssl/ossl_engine.c:365
+  def inspect(); end
+
+  # in file ext/openssl/ossl_engine.c:255
+  def load_private_key(p1 = v1, p2 = v2); end
+
+  # in file ext/openssl/ossl_engine.c:279
+  def load_public_key(p1 = v1, p2 = v2); end
+
+  # in file ext/openssl/ossl_engine.c:190
+  def name(); end
+
+  # in file ext/openssl/ossl_engine.c:301
+  def set_default(p1); end
+
+end
+
+
+class OpenSSL::HMAC # is documented
+
+  # in file ext/openssl/ossl_hmac.c:193
+  def self.digest(p1, p2, p3); end
+
+  # in file ext/openssl/ossl_hmac.c:212
+  def self.hexdigest(p1, p2, p3); end
+
+  # in file ext/openssl/ossl_hmac.c:66
+  def self.new(p1, p2); end
+
+  # in file ext/openssl/ossl_hmac.c
+  def <<(p1); end
+
+  # in file ext/openssl/ossl_hmac.c:131
+  def digest(); end
+
+  # in file ext/openssl/ossl_hmac.c:151
+  def hexdigest(); end
+
+  # in file ext/openssl/ossl_hmac.c
+  def inspect(); end
+
+  # in file ext/openssl/ossl_hmac.c:177
+  def reset(); end
+
+  # in file ext/openssl/ossl_hmac.c
+  def to_s(); end
+
+  # in file ext/openssl/ossl_hmac.c:99
+  def update(p1); end
+
+end
+
+class OpenSSL::OCSP::BasicResponse # is documented
+
+  # in file ext/openssl/ossl_ocsp.c:408
+  def self.new(*args); end
+
+  # in file ext/openssl/ossl_ocsp.c:428
+  def add_nonce(p1 = v1); end
+
+  # in file ext/openssl/ossl_ocsp.c:450
+  def add_status(p1, p2, p3, p4, p5, p6, p7); end
+
+  # in file ext/openssl/ossl_ocsp.c:414
+  def copy_nonce(p1); end
+
+  # in file ext/openssl/ossl_ocsp.c:563
+  def sign(p1, p2, p3 = v3, p4 = v4); end
+
+  # in file ext/openssl/ossl_ocsp.c:518
+  def status(); end
+
+  # in file ext/openssl/ossl_ocsp.c:593
+  def verify(p1, p2, p3 = v3); end
+
+end
+
+class OpenSSL::OCSP::CertificateId # is documented
+
+  # in file ext/openssl/ossl_ocsp.c:630
+  def self.new(p1, p2, p3 = v3); end
+
+  # in file ext/openssl/ossl_ocsp.c:660
+  def cmp(p1); end
+
+  # in file ext/openssl/ossl_ocsp.c:673
+  def cmp_issuer(p1); end
+
+  # in file ext/openssl/ossl_ocsp.c:686
+  def serial(); end
+
+end
+
+
+class OpenSSL::OCSP::Request # is documented
+
+  # in file ext/openssl/ossl_ocsp.c:102
+  def self.new(p1 = v1); end
+
+  # in file ext/openssl/ossl_ocsp.c:172
+  def add_certid(p1); end
+
+  # in file ext/openssl/ossl_ocsp.c:124
+  def add_nonce(p1 = v1); end
+
+  # in file ext/openssl/ossl_ocsp.c:186
+  def certid(); end
+
+  # in file ext/openssl/ossl_ocsp.c:209
+  def sign(p1, p2, p3 = v3, p4 = v4); end
+
+  # in file ext/openssl/ossl_ocsp.c:258
+  def to_der(); end
+
+  # in file ext/openssl/ossl_ocsp.c:237
+  def verify(p1, p2, p3 = v3); end
+
+end
+
+class OpenSSL::OCSP::Response # is documented
+
+  # in file ext/openssl/ossl_ocsp.c:311
+  def self.new(p1 = v1); end
+
+  # in file ext/openssl/ossl_ocsp.c:357
+  def basic(); end
+
+  # in file ext/openssl/ossl_ocsp.c:333
+  def status(); end
+
+  # in file ext/openssl/ossl_ocsp.c:345
+  def status_string(); end
+
+  # in file ext/openssl/ossl_ocsp.c:372
+  def to_der(); end
+
+end
+
+
+class OpenSSL::PKCS12 # is documented
+
+  attr_reader :key # in file ext/openssl/ossl_pkcs12.c
+  attr_reader :certificate # in file ext/openssl/ossl_pkcs12.c
+  attr_reader :ca_certs # in file ext/openssl/ossl_pkcs12.c
+  # in file ext/openssl/ossl_pkcs12.c:174
+  def to_der(); end
+
+end
+
+class OpenSSL::PKCS7 # is documented
+
+  # in file ext/openssl/ossl_pkcs7.c
+  Signer = nil
+  attr_reader :data # in file ext/openssl/ossl_pkcs7.c
+  attr_accessor :error_string # in file ext/openssl/ossl_pkcs7.c
+  # in file ext/openssl/ossl_pkcs7.c:241
+  def self.encrypt(p1, p2, p3 = v3, p4 = v4); end
+
+  # in file ext/openssl/ossl_pkcs7.c:139
+  def self.read_smime(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:198
+  def self.sign(p1, p2, p3, p4 = v4, p5 = v5); end
+
+  # in file ext/openssl/ossl_pkcs7.c:163
+  def self.write_smime(p1, p2 = v2, p3 = v3); end
+
+  # in file ext/openssl/ossl_pkcs7.c:565
+  def add_certificate(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:651
+  def add_crl(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:762
+  def add_data(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:521
+  def add_recipient(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:475
+  def add_signer(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:645
+  def certificates(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:632
+  def certificates=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:462
+  def cipher=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:685
+  def crls(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:672
+  def crls=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c
+  def data=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:735
+  def decrypt(p1, p2, p3 = v3); end
+
+  # in file ext/openssl/ossl_pkcs7.c:446
+  def detached(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:432
+  def detached=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:454
+  def detached?(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:537
+  def recipients(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:495
+  def signers(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:796
+  def to_der(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:816
+  def to_pem(); end
+
+  # in file ext/openssl/ossl_pkcs7.c
+  def to_s(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:413
+  def type(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:397
+  def type=(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:691
+  def verify(p1, p2, p3 = v3, p4 = v4); end
+
+end
+
+
+class OpenSSL::PKCS7::RecipientInfo # is documented
+
+  # in file ext/openssl/ossl_pkcs7.c:932
+  def self.new(p1); end
+
+  # in file ext/openssl/ossl_pkcs7.c:967
+  def enc_key(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:947
+  def issuer(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:957
+  def serial(); end
+
+end
+
+class OpenSSL::PKCS7::SignerInfo # is documented
+
+  # in file ext/openssl/ossl_pkcs7.c:853
+  def self.new(p1, p2, p3); end
+
+  # in file ext/openssl/ossl_pkcs7.c:872
+  def issuer(); end
+
+  # in file ext/openssl/ossl_pkcs7.c
+  def name(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:882
+  def serial(); end
+
+  # in file ext/openssl/ossl_pkcs7.c:892
+  def signed_time(); end
+
+end
+
+
+class OpenSSL::PKey::EC # is documented
+
+  # in file ext/openssl/ossl_pkey_ec.c
+  NAMED_CURVE = nil
+end
+
+class OpenSSL::PKey::EC::Group # is documented
+
+  # in file ext/openssl/ossl_pkey_ec.c
+  def ==(p1); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:849
+  def eql?(p1); end
+
+end
+
+
+class OpenSSL::PKey::EC::Point # is documented
+
+  attr_reader :group # in file ext/openssl/ossl_pkey_ec.c
+  # in file ext/openssl/ossl_pkey_ec.c
+  def ==(p1); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1318
+  def eql?(p1); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1343
+  def infinity?(); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1409
+  def invert!(); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1389
+  def make_affine!(); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1480
+  def mul(p1, p2 = v2, p3 = v3); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1366
+  def on_curve?(); end
+
+  # in file ext/openssl/ossl_pkey_ec.c:1429
+  def set_to_infinity!(); end
+
+end
+
+class OpenSSL::PKey::RSA # is documented
+
+  # in file ext/openssl/ossl_pkey_rsa.c:601
+  def blinding_off!(); end
+
+  # in file ext/openssl/ossl_pkey_rsa.c:588
+  def blinding_on!(); end
+
+end
+
+module OpenSSL::SSL # is documented
+
+  # in file ext/openssl/lib/openssl/ssl.rb:97
+  def self.verify_certificate_identity(cert, hostname); end
+
+end
+
+module OpenSSL::SSL::Nonblock # is documented
+
+  # in file ext/openssl/lib/openssl/ssl.rb:89
+  def self.new(*args); end
+
+end
+
+class OpenSSL::SSL::SSLContext # is documented
+
+  # in file ext/openssl/lib/openssl/ssl.rb:23
+  DEFAULT_PARAMS = nil
+  # in file ext/openssl/lib/openssl/ssl.rb:32
+  DEFAULT_CERT_STORE = nil
+end
+
+
+class OpenSSL::SSL::SSLServer # is documented
+
+  attr_accessor :start_immediately # in file ext/openssl/lib/openssl/ssl.rb:145
+  # in file ext/openssl/lib/openssl/ssl.rb:147
+  def self.new(svr, ctx); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:171
+  def accept(); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:184
+  def close(); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:163
+  def listen(backlog=5); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:167
+  def shutdown(how=Socket::SHUT_RDWR); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:159
+  def to_io(); end
+
+end
+
+class OpenSSL::SSL::SSLSocket # is documented
+
+  # in file ext/openssl/lib/openssl/ssl.rb:129
+  def post_connection_check(hostname); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:136
+  def session(); end
+
+end
+
+class OpenSSL::SSL::Session # is documented
+
+  # in file ext/openssl/ossl_ssl_session.c:90
+  def ==(p1); end
+
+end
+
+
+module OpenSSL::SSL::SocketForwarder # is documented
+
+  # in file ext/openssl/lib/openssl/ssl.rb:59
+  def addr(); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:79
+  def closed?(); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:83
+  def do_not_reverse_lookup=(flag); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:75
+  def fcntl(*args); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:71
+  def getsockopt(level, optname); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:63
+  def peeraddr(); end
+
+  # in file ext/openssl/lib/openssl/ssl.rb:67
+  def setsockopt(level, optname, optval); end
+
+end
+
+
+class OpenSSL::X509::Attribute # is documented
+
+  # in file ext/openssl/ossl_x509attr.c:91
+  def self.new(p1, p2 = v2); end
+
+  # in file ext/openssl/ossl_x509attr.c:141
+  def oid(); end
+
+  # in file ext/openssl/ossl_x509attr.c:120
+  def oid=(p1); end
+
+  # in file ext/openssl/ossl_x509attr.c:239
+  def to_der(); end
+
+  # in file ext/openssl/ossl_x509attr.c:203
+  def value(); end
+
+  # in file ext/openssl/ossl_x509attr.c:176
+  def value=(p1); end
+
+end
+
+
+class OpenSSL::X509::CRL # is documented
+
+  # in file ext/openssl/ossl_x509crl.c:90
+  def self.new(p1 = v1); end
+
+  # in file ext/openssl/ossl_x509crl.c:484
+  def add_extension(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:309
+  def add_revoked(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:184
+  def issuer(); end
+
+  # in file ext/openssl/ossl_x509crl.c:194
+  def issuer=(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:207
+  def last_update(); end
+
+  # in file ext/openssl/ossl_x509crl.c:217
+  def last_update=(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:232
+  def next_update(); end
+
+  # in file ext/openssl/ossl_x509crl.c:242
+  def next_update=(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:258
+  def revoked(); end
+
+  # in file ext/openssl/ossl_x509crl.c:283
+  def revoked=(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:325
+  def sign(p1, p2); end
+
+  # in file ext/openssl/ossl_x509crl.c:162
+  def signature_algorithm(); end
+
+  # in file ext/openssl/ossl_x509crl.c:359
+  def to_der(); end
+
+  # in file ext/openssl/ossl_x509crl.c:382
+  def to_pem(); end
+
+  # in file ext/openssl/ossl_x509crl.c
+  def to_s(); end
+
+  # in file ext/openssl/ossl_x509crl.c:405
+  def to_text(); end
+
+  # in file ext/openssl/ossl_x509crl.c:342
+  def verify(p1); end
+
+  # in file ext/openssl/ossl_x509crl.c:133
+  def version(); end
+
+  # in file ext/openssl/ossl_x509crl.c:145
+  def version=(p1); end
+
+end
+
+
+class OpenSSL::X509::Certificate # is documented
+
+  # in file ext/openssl/ossl_x509cert.c:135
+  def self.new(p1 = v1); end
+
+  # in file ext/openssl/ossl_x509cert.c:676
+  def add_extension(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:618
+  def extensions(); end
+
+  # in file ext/openssl/ossl_x509cert.c:644
+  def extensions=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:693
+  def inspect(); end
+
+  # in file ext/openssl/ossl_x509cert.c:405
+  def issuer(); end
+
+  # in file ext/openssl/ossl_x509cert.c:423
+  def issuer=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:477
+  def not_after(); end
+
+  # in file ext/openssl/ossl_x509cert.c:495
+  def not_after=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:440
+  def not_before(); end
+
+  # in file ext/openssl/ossl_x509cert.c:458
+  def not_before=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:514
+  def public_key(); end
+
+  # in file ext/openssl/ossl_x509cert.c:532
+  def public_key=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:315
+  def serial(); end
+
+  # in file ext/openssl/ossl_x509cert.c:329
+  def serial=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:549
+  def sign(p1, p2); end
+
+  # in file ext/openssl/ossl_x509cert.c:346
+  def signature_algorithm(); end
+
+  # in file ext/openssl/ossl_x509cert.c:370
+  def subject(); end
+
+  # in file ext/openssl/ossl_x509cert.c:388
+  def subject=(p1); end
+
+  # in file ext/openssl/ossl_x509cert.c:185
+  def to_der(); end
+
+  # in file ext/openssl/ossl_x509cert.c:209
+  def to_pem(); end
+
+  # in file ext/openssl/ossl_x509cert.c
+  def to_s(); end
+
+  # in file ext/openssl/ossl_x509cert.c:233
+  def to_text(); end
+
+  # in file ext/openssl/ossl_x509cert.c:280
+  def version(); end
+
+  # in file ext/openssl/ossl_x509cert.c:294
+  def version=(p1); end
+
+end
+
+
+class OpenSSL::X509::Extension # is documented
+
+  # in file ext/openssl/ossl_x509ext.c:355
+  def critical=(p1); end
+
+  # in file ext/openssl/ossl_x509ext.c:406
+  def critical?(); end
+
+  # in file ext/openssl/ossl_x509ext.c:366
+  def oid(); end
+
+  # in file ext/openssl/ossl_x509ext.c:310
+  def oid=(p1); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:61
+  def to_a(); end
+
+  # in file ext/openssl/ossl_x509ext.c:415
+  def to_der(); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:57
+  def to_h(); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:50
+  def to_s(); end
+
+  # in file ext/openssl/ossl_x509ext.c:389
+  def value(); end
+
+  # in file ext/openssl/ossl_x509ext.c:327
+  def value=(p1); end
+
+end
+
+
+class OpenSSL::X509::ExtensionFactory # is documented
+
+  attr_reader :issuer_certificate # in file ext/openssl/ossl_x509ext.c
+  attr_reader :subject_certificate # in file ext/openssl/ossl_x509ext.c
+  attr_reader :subject_request # in file ext/openssl/ossl_x509ext.c
+  attr_reader :crl # in file ext/openssl/ossl_x509ext.c
+  attr_reader :config # in file ext/openssl/ossl_x509ext.c
+  # in file ext/openssl/ossl_x509ext.c:184
+  def self.new(p1 = v1, p2 = v2, p3 = v3, p4 = v4); end
+
+  # in file ext/openssl/ossl_x509ext.c:167
+  def config=(p1); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:32
+  def create_ext_from_array(ary); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:44
+  def create_ext_from_hash(hash); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:37
+  def create_ext_from_string(str); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:24
+  def create_extension(*arg); end
+
+  # in file ext/openssl/ossl_x509ext.c:154
+  def crl=(p1); end
+
+  # in file ext/openssl/ossl_x509ext.c:118
+  def issuer_certificate=(p1); end
+
+  # in file ext/openssl/ossl_x509ext.c:130
+  def subject_certificate=(p1); end
+
+  # in file ext/openssl/ossl_x509ext.c:142
+  def subject_request=(p1); end
+
+end
+
+class OpenSSL::X509::Name # is documented
+
+  # in file ext/openssl/lib/openssl/x509.rb
+  def self.parse(str, template=OBJECT_TYPE_TEMPLATE); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:147
+  def self.parse_openssl(str, template=OBJECT_TYPE_TEMPLATE); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:142
+  def self.parse_rfc2253(str, template=OBJECT_TYPE_TEMPLATE); end
+
+end
+
+module OpenSSL::X509::Name::RFC2253DN # is documented
+
+  # in file ext/openssl/lib/openssl/x509.rb:68
+  Special = nil
+  # in file ext/openssl/lib/openssl/x509.rb:69
+  HexChar = nil
+  # in file ext/openssl/lib/openssl/x509.rb:70
+  HexPair = nil
+  # in file ext/openssl/lib/openssl/x509.rb:71
+  HexString = nil
+  # in file ext/openssl/lib/openssl/x509.rb:72
+  Pair = nil
+  # in file ext/openssl/lib/openssl/x509.rb:73
+  StringChar = nil
+  # in file ext/openssl/lib/openssl/x509.rb:74
+  QuoteChar = nil
+  # in file ext/openssl/lib/openssl/x509.rb:75
+  AttributeType = nil
+  # in file ext/openssl/lib/openssl/x509.rb:76
+  AttributeValue = nil
+  # in file ext/openssl/lib/openssl/x509.rb:81
+  TypeAndValue = nil
+  # in file ext/openssl/lib/openssl/x509.rb:97
+  def expand_hexstring(str); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:85
+  def expand_pair(str); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:104
+  def expand_value(str1, str2, str3); end
+
+  # in file ext/openssl/lib/openssl/x509.rb:111
+  def scan(dn); end
+
+end
+
+
+class OpenSSL::X509::Request # is documented
+
+  # in file ext/openssl/ossl_x509req.c:98
+  def self.new(p1 = v1); end
+
+  # in file ext/openssl/ossl_x509req.c:424
+  def add_attribute(p1); end
+
+  # in file ext/openssl/ossl_x509req.c:375
+  def attributes(); end
+
+  # in file ext/openssl/ossl_x509req.c:399
+  def attributes=(p1); end
+
+  # in file ext/openssl/ossl_x509req.c:307
+  def public_key(); end
+
+  # in file ext/openssl/ossl_x509req.c:321
+  def public_key=(p1); end
+
+  # in file ext/openssl/ossl_x509req.c:336
+  def sign(p1, p2); end
+
+  # in file ext/openssl/ossl_x509req.c:284
+  def signature_algorithm(); end
+
+  # in file ext/openssl/ossl_x509req.c:256
+  def subject(); end
+
+  # in file ext/openssl/ossl_x509req.c:270
+  def subject=(p1); end
+
+  # in file ext/openssl/ossl_x509req.c:164
+  def to_der(); end
+
+  # in file ext/openssl/ossl_x509req.c:141
+  def to_pem(); end
+
+  # in file ext/openssl/ossl_x509req.c
+  def to_s(); end
+
+  # in file ext/openssl/ossl_x509req.c:184
+  def to_text(); end
+
+  # in file ext/openssl/ossl_x509req.c:227
+  def version(); end
+
+  # in file ext/openssl/ossl_x509req.c:239
+  def version=(p1); end
+
+end
+
+
+class OpenSSL::X509::Revoked # is documented
+
+  # in file ext/openssl/ossl_x509revoked.c:88
+  def self.new(*args); end
+
+  # in file ext/openssl/ossl_x509revoked.c:195
+  def add_extension(p1); end
+
+  # in file ext/openssl/ossl_x509revoked.c:95
+  def serial(); end
+
+  # in file ext/openssl/ossl_x509revoked.c:105
+  def serial=(p1); end
+
+  # in file ext/openssl/ossl_x509revoked.c:116
+  def time(); end
+
+  # in file ext/openssl/ossl_x509revoked.c:126
+  def time=(p1); end
+
+end
+
+
+class OpenSSL::X509::Store # is documented
+
+  attr_reader :verify_callback # in file ext/openssl/ossl_x509store.c
+  attr_reader :error # in file ext/openssl/ossl_x509store.c
+  attr_reader :error_string # in file ext/openssl/ossl_x509store.c
+  attr_reader :chain # in file ext/openssl/ossl_x509store.c
+  # in file ext/openssl/ossl_x509store.c:126
+  def self.new(*args); end
+
+  # in file ext/openssl/ossl_x509store.c:303
+  def add_crl(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:237
+  def add_path(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:152
+  def flags=(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:168
+  def purpose=(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:200
+  def time=(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:184
+  def trust=(p1); end
+
+  # in file ext/openssl/ossl_x509store.c:322
+  def verify(p1, p2 = v2); end
+
+end
+
+class OpenSSL::X509::StoreContext # is documented
+
+  # in file ext/openssl/lib/openssl/x509.rb:157
+  def cleanup(); end
+
+end
+
+
+module Psych # is documented
+
+  # in file ext/psych/lib/psych/deprecated.rb:48
+  def self.add_private_type(type_tag, &block); end
+
+  # in file ext/psych/lib/psych/deprecated.rb:41
+  def self.add_ruby_type(type_tag, &block); end
+
+  # in file ext/psych/lib/psych/deprecated.rb:34
+  def self.detect_implicit(thing); end
+
+  # in file ext/psych/lib/psych/deprecated.rb:71
+  def self.object_maker(klass, hash); end
+
+  # in file ext/psych/lib/psych/deprecated.rb:61
+  def self.read_type_class(type, reference); end
+
+  # in file ext/psych/lib/psych/deprecated.rb:55
+  def self.tagurize(thing); end
+
+end
+
+
+class Psych::Coder # is documented
+
+  attr_accessor :tag # in file ext/psych/lib/psych/coder.rb:9
+  attr_accessor :style # in file ext/psych/lib/psych/coder.rb:9
+  attr_accessor :implicit # in file ext/psych/lib/psych/coder.rb:9
+  attr_accessor :object # in file ext/psych/lib/psych/coder.rb:9
+  attr_reader :type # in file ext/psych/lib/psych/coder.rb:10
+  attr_reader :seq # in file ext/psych/lib/psych/coder.rb:10
+  # in file ext/psych/lib/psych/coder.rb:12
+  def self.new(tag); end
+
+  # in file ext/psych/lib/psych/coder.rb:83
+  def [](k); end
+
+  # in file ext/psych/lib/psych/coder.rb:77
+  def []=(k, v); end
+
+  # in file ext/psych/lib/psych/coder.rb
+  def add(k, v); end
+
+  # in file ext/psych/lib/psych/coder.rb:23
+  def scalar(*args); end
+
+end
+
+
+
+
+class Psych::Handler::DumperOptions # is documented
+
+  attr_accessor :line_width # in file ext/psych/lib/psych/handler.rb:16
+  attr_accessor :indentation # in file ext/psych/lib/psych/handler.rb:16
+  attr_accessor :canonical # in file ext/psych/lib/psych/handler.rb:16
+  # in file ext/psych/lib/psych/handler.rb:18
+  def self.new(); end
+
+end
+
+
+class Psych::Handlers::Recorder # is documented
+
+  attr_reader :events # in file ext/psych/lib/psych/handlers/recorder.rb:25
+  # in file ext/psych/lib/psych/handlers/recorder.rb:27
+  def self.new(); end
+
+end
+
+
+class Psych::SyntaxError # is documented
+
+  attr_reader :file # in file ext/psych/lib/psych/syntax_error.rb:6
+  attr_reader :line # in file ext/psych/lib/psych/syntax_error.rb:6
+  attr_reader :column # in file ext/psych/lib/psych/syntax_error.rb:6
+  attr_reader :offset # in file ext/psych/lib/psych/syntax_error.rb:6
+  attr_reader :problem # in file ext/psych/lib/psych/syntax_error.rb:6
+  attr_reader :context # in file ext/psych/lib/psych/syntax_error.rb:6
+  # in file ext/psych/lib/psych/syntax_error.rb:8
+  def self.new(file, line, col, offset, problem, context); end
+
+end
+
+
+
+class Psych::Visitors::DepthFirst # is documented
+
+  # in file ext/psych/lib/psych/visitors/depth_first.rb:4
+  def self.new(block); end
+
+end
+
+class Psych::Visitors::Emitter # is documented
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:4
+  def self.new(io, options = {}); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:46
+  def visit_Psych_Nodes_Alias(o); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:24
+  def visit_Psych_Nodes_Document(o); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:40
+  def visit_Psych_Nodes_Mapping(o); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:30
+  def visit_Psych_Nodes_Scalar(o); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:34
+  def visit_Psych_Nodes_Sequence(o); end
+
+  # in file ext/psych/lib/psych/visitors/emitter.rb:18
+  def visit_Psych_Nodes_Stream(o); end
+
+end
+
+class Psych::Visitors::JSONTree # is documented
+
+  # in file ext/psych/lib/psych/visitors/json_tree.rb:8
+  def self.new(options = {}); end
+
+  # in file ext/psych/lib/psych/visitors/json_tree.rb:12
+  def accept(target); end
+
+end
+
+class Psych::Visitors::ToRuby # is documented
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:12
+  def self.new(ss = ScalarScanner.new); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:19
+  def accept(target); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:247
+  def visit_Psych_Nodes_Alias(o); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:239
+  def visit_Psych_Nodes_Document(o); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:139
+  def visit_Psych_Nodes_Mapping(o); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:103
+  def visit_Psych_Nodes_Scalar(o); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:107
+  def visit_Psych_Nodes_Sequence(o); end
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:243
+  def visit_Psych_Nodes_Stream(o); end
+
+end
+
+class Psych::Visitors::Visitor # is documented
+
+  # in file ext/psych/lib/psych/visitors/visitor.rb:10
+  DISPATCH = nil
+  # in file ext/psych/lib/psych/visitors/visitor.rb:4
+  def accept(target); end
+
+end
+
+class Psych::Visitors::YAMLTree # is documented
+
+  attr_reader :started # in file ext/psych/lib/psych/visitors/yaml_tree.rb:35
+  attr_reader :finished # in file ext/psych/lib/psych/visitors/yaml_tree.rb:35
+  attr_reader :finished? # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  attr_reader :started? # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:39
+  def self.new(options = {}); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  def <<(object); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:97
+  def accept(target); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:66
+  def finish(); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:77
+  def push(object); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:60
+  def start(encoding = Nodes::Stream::UTF8); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:72
+  def tree(); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:341
+  def visit_Array(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:243
+  def visit_BigDecimal(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:303
+  def visit_Class(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:215
+  def visit_Complex(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  def visit_Date(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:191
+  def visit_DateTime(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:168
+  def visit_Exception(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  def visit_FalseClass(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:232
+  def visit_Float(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:316
+  def visit_Hash(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:225
+  def visit_Integer(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:298
+  def visit_Module(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:351
+  def visit_NilClass(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:140
+  def visit_Object(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:132
+  def visit_Psych_Omap(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:330
+  def visit_Psych_Set(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:308
+  def visit_Range(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:202
+  def visit_Rational(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:187
+  def visit_Regexp(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:255
+  def visit_String(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:154
+  def visit_Struct(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:355
+  def visit_Symbol(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb:197
+  def visit_Time(o); end
+
+  # in file ext/psych/lib/psych/visitors/yaml_tree.rb
+  def visit_TrueClass(o); end
+
+end
+
+
+
+class Racc::Parser # is documented
+
+  # in file ext/racc/cparse/cparse.c
+  Racc_Runtime_Core_Version_C = nil
+  # in file ext/racc/cparse/cparse.c
+  Racc_Runtime_Core_Id_C = nil
+end
+
+
+class Rational # is documented
+
+  # in file ext/json/lib/json/add/rational.rb:7
+  def self.json_create(object); end
+
+  # in file ext/json/lib/json/add/rational.rb:11
+  def as_json(*); end
+
+  # in file ext/json/lib/json/add/rational.rb:19
+  def to_json(*); end
+
+end
+
+
+class Regexp # is documented
+
+  # in file ext/psych/lib/psych/visitors/to_ruby.rb:4
+  NOENCODING = nil
+end
+
+
+class StringIO # is documented
+
+  # in file ext/stringio/stringio.c:498
+  def binmode(); end
+
+  # in file ext/stringio/stringio.c:501
+  def fcntl(*args); end
+
+  # in file ext/stringio/stringio.c:1362
+  def fileno(); end
+
+  # in file ext/stringio/stringio.c:504
+  def flush(); end
+
+  # in file ext/stringio/stringio.c:507
+  def fsync(); end
+
+  # in file ext/stringio/stringio.c:1356
+  def isatty(); end
+
+  # in file ext/stringio/stringio.c:1359
+  def pid(); end
+
+  # in file ext/stringio/stringio.c:627
+  def sync=(p1); end
+
+  # in file ext/stringio/stringio.c:1356
+  def tty?(); end
+
+end
+
+
+module Syslog::Constants # is documented
+
+  # in file ext/syslog/syslog.c:404
+  def self.included(p1); end
+
+end
+
+
+
+module Syslog::Macros # is documented
+
+  # in file ext/syslog/syslog.c:404
+  def self.included(p1); end
+
+end
+
+
+class WIN32OLE # is documented
+
+  # in file ext/win32ole/win32ole.c
+  VERSION = nil
+  # in file ext/win32ole/win32ole.c
+  ARGV = nil
+  # in file ext/win32ole/win32ole.c
+  CP_ACP = nil
+  # in file ext/win32ole/win32ole.c
+  CP_OEMCP = nil
+  # in file ext/win32ole/win32ole.c
+  CP_MACCP = nil
+  # in file ext/win32ole/win32ole.c
+  CP_THREAD_ACP = nil
+  # in file ext/win32ole/win32ole.c
+  CP_SYMBOL = nil
+  # in file ext/win32ole/win32ole.c
+  CP_UTF7 = nil
+  # in file ext/win32ole/win32ole.c
+  CP_UTF8 = nil
+  # in file ext/win32ole/win32ole.c
+  LOCALE_SYSTEM_DEFAULT = nil
+  # in file ext/win32ole/win32ole.c
+  LOCALE_USER_DEFAULT = nil
+end
+
+module WIN32OLE::VARIANT # is documented
+
+  # in file ext/win32ole/win32ole.c
+  VT_EMPTY = nil
+  # in file ext/win32ole/win32ole.c
+  VT_NULL = nil
+  # in file ext/win32ole/win32ole.c
+  VT_I2 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_I4 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_R4 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_R8 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_CY = nil
+  # in file ext/win32ole/win32ole.c
+  VT_DATE = nil
+  # in file ext/win32ole/win32ole.c
+  VT_BSTR = nil
+  # in file ext/win32ole/win32ole.c
+  VT_USERDEFINED = nil
+  # in file ext/win32ole/win32ole.c
+  VT_PTR = nil
+  # in file ext/win32ole/win32ole.c
+  VT_DISPATCH = nil
+  # in file ext/win32ole/win32ole.c
+  VT_ERROR = nil
+  # in file ext/win32ole/win32ole.c
+  VT_BOOL = nil
+  # in file ext/win32ole/win32ole.c
+  VT_VARIANT = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UNKNOWN = nil
+  # in file ext/win32ole/win32ole.c
+  VT_I1 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UI1 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UI2 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UI4 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_I8 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UI8 = nil
+  # in file ext/win32ole/win32ole.c
+  VT_INT = nil
+  # in file ext/win32ole/win32ole.c
+  VT_UINT = nil
+  # in file ext/win32ole/win32ole.c
+  VT_ARRAY = nil
+  # in file ext/win32ole/win32ole.c
+  VT_BYREF = nil
+end
+
+class WIN32OLE_PARAM # is documented
+
+  # in file ext/win32ole/win32ole.c:7302
+  def self.new(p1, p2); end
+
+end
+
+class WIN32OLE_VARIANT # is documented
+
+  # in file ext/win32ole/win32ole.c
+  Empty = nil
+  # in file ext/win32ole/win32ole.c
+  Null = nil
+  # in file ext/win32ole/win32ole.c
+  Nothing = nil
+end
+
+
+class Win32::Registry # is documented
+
+  # in file ext/dl/win32/lib/win32/registry.rb:481
+  def inspect(); end
+
+end
+
+module Win32::Registry::API # is documented
+
+  # in file ext/dl/win32/lib/win32/registry.rb:306
+  def CloseKey(hkey); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:258
+  def CreateKey(hkey, name, opt, desired); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:298
+  def DeleteKey(hkey, name); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:294
+  def DeleteValue(hkey, name); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:273
+  def EnumKey(hkey, index); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:266
+  def EnumValue(hkey, index); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:302
+  def FlushKey(hkey); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:252
+  def OpenKey(hkey, name, opt, desired); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:310
+  def QueryInfoKey(hkey); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:281
+  def QueryValue(hkey, name); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:290
+  def SetValue(hkey, name, type, data, size); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:230
+  def check(result); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:234
+  def packdw(dw); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:243
+  def packqw(qw); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:238
+  def unpackdw(dw); end
+
+  # in file ext/dl/win32/lib/win32/registry.rb:247
+  def unpackqw(qw); end
+
+end
+
+module Win32::Registry::Constants # is documented
+
+  # in file ext/dl/win32/lib/win32/registry.rb:95
+  HKEY_CLASSES_ROOT = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:96
+  HKEY_CURRENT_USER = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:97
+  HKEY_LOCAL_MACHINE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:98
+  HKEY_USERS = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:99
+  HKEY_PERFORMANCE_DATA = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:100
+  HKEY_PERFORMANCE_TEXT = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:101
+  HKEY_PERFORMANCE_NLSTEXT = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:102
+  HKEY_CURRENT_CONFIG = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:103
+  HKEY_DYN_DATA = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:105
+  REG_NONE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:106
+  REG_SZ = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:107
+  REG_EXPAND_SZ = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:108
+  REG_BINARY = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:109
+  REG_DWORD = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:110
+  REG_DWORD_LITTLE_ENDIAN = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:111
+  REG_DWORD_BIG_ENDIAN = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:112
+  REG_LINK = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:113
+  REG_MULTI_SZ = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:114
+  REG_RESOURCE_LIST = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:115
+  REG_FULL_RESOURCE_DESCRIPTOR = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:116
+  REG_RESOURCE_REQUIREMENTS_LIST = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:117
+  REG_QWORD = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:118
+  REG_QWORD_LITTLE_ENDIAN = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:120
+  STANDARD_RIGHTS_READ = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:121
+  STANDARD_RIGHTS_WRITE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:122
+  KEY_QUERY_VALUE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:123
+  KEY_SET_VALUE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:124
+  KEY_CREATE_SUB_KEY = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:125
+  KEY_ENUMERATE_SUB_KEYS = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:126
+  KEY_NOTIFY = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:127
+  KEY_CREATE_LINK = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:128
+  KEY_READ = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:130
+  KEY_WRITE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:132
+  KEY_EXECUTE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:133
+  KEY_ALL_ACCESS = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:135
+  REG_OPTION_RESERVED = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:136
+  REG_OPTION_NON_VOLATILE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:137
+  REG_OPTION_VOLATILE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:138
+  REG_OPTION_CREATE_LINK = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:139
+  REG_OPTION_BACKUP_RESTORE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:140
+  REG_OPTION_OPEN_LINK = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:141
+  REG_LEGAL_OPTION = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:145
+  REG_CREATED_NEW_KEY = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:146
+  REG_OPENED_EXISTING_KEY = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:148
+  REG_WHOLE_HIVE_VOLATILE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:149
+  REG_REFRESH_HIVE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:150
+  REG_NO_LAZY_FLUSH = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:151
+  REG_FORCE_RESTORE = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:153
+  MAX_KEY_LENGTH = nil
+  # in file ext/dl/win32/lib/win32/registry.rb:154
+  MAX_VALUE_LENGTH = nil
+end
+
+class Win32::Registry::Error # is documented
+
+  # in file ext/dl/win32/lib/win32/registry.rb:167
+  FormatMessageA = nil
+  attr_reader :code # in file ext/dl/win32/lib/win32/registry.rb:175
+  # in file ext/dl/win32/lib/win32/registry.rb:168
+  def self.new(code); end
+
+end
+
+
+class Win32::Registry::PredefinedKey # is documented
+
+  # in file ext/dl/win32/lib/win32/registry.rb:182
+  def self.new(hkey, keyname); end
+
+end
+
+module Win32::Resolv # is documented
+
+  # in file ext/dl/win32/lib/win32/resolv.rb:11
+  API = nil
+  # in file ext/dl/win32/lib/win32/resolv.rb:13
+  def self.get_hosts_path(); end
+
+  # in file ext/dl/win32/lib/win32/resolv.rb:19
+  def self.get_resolv_info(); end
+
+end
+
+
+module Win32::SSPI # is documented
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:21
+  SECPKG_CRED_OUTBOUND = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:22
+  SECPKG_CRED_BOTH = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:26
+  SECURITY_NETWORK_DREP = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:30
+  ISC_REQ_SEQUENCE_DETECT = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:31
+  ISC_REQ_CONFIDENTIALITY = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:32
+  ISC_REQ_USE_SESSION_KEY = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:33
+  ISC_REQ_PROMPT_FOR_CREDS = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:34
+  ISC_REQ_CONNECTION = nil
+end
+
+
+class Win32::SSPI::Identity # is documented
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:134
+  SEC_WINNT_AUTH_IDENTITY_ANSI = nil
+  attr_accessor :user # in file ext/dl/win32/lib/win32/sspi.rb:136
+  attr_accessor :domain # in file ext/dl/win32/lib/win32/sspi.rb:136
+  attr_accessor :password # in file ext/dl/win32/lib/win32/sspi.rb:136
+  # in file ext/dl/win32/lib/win32/sspi.rb:138
+  def self.new(user = nil, domain = nil, password = nil); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:145
+  def to_p(); end
+
+end
+
+class Win32::SSPI::NegotiateAuth # is documented
+
+  attr_accessor :credentials # in file ext/dl/win32/lib/win32/sspi.rb:209
+  attr_accessor :context # in file ext/dl/win32/lib/win32/sspi.rb:209
+  attr_accessor :contextAttributes # in file ext/dl/win32/lib/win32/sspi.rb:209
+  attr_accessor :user # in file ext/dl/win32/lib/win32/sspi.rb:209
+  attr_accessor :domain # in file ext/dl/win32/lib/win32/sspi.rb:209
+end
+
+class Win32::SSPI::SSPIResult # is documented
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:157
+  SEC_I_CONTINUE_NEEDED = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:161
+  SEC_E_INTERNAL_ERROR = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:162
+  SEC_E_INVALID_HANDLE = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:163
+  SEC_E_INVALID_TOKEN = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:164
+  SEC_E_LOGON_DENIED = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:165
+  SEC_E_NO_AUTHENTICATING_AUTHORITY = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:166
+  SEC_E_NO_CREDENTIALS = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:167
+  SEC_E_TARGET_UNKNOWN = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:168
+  SEC_E_UNSUPPORTED_FUNCTION = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:169
+  SEC_E_WRONG_PRINCIPAL = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:173
+  SEC_E_SECPKG_NOT_FOUND = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:174
+  SEC_E_UNKNOWN_CREDENTIALS = nil
+  attr_reader :value # in file ext/dl/win32/lib/win32/sspi.rb:179
+  # in file ext/dl/win32/lib/win32/sspi.rb:181
+  def self.new(value); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:196
+  def ==(other); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:192
+  def ok?(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:188
+  def to_s(); end
+
+end
+
+class Win32::SSPI::SecurityBuffer # is documented
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:79
+  SECBUFFER_TOKEN = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:81
+  TOKENBUFSIZE = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:82
+  SECBUFFER_VERSION = nil
+  # in file ext/dl/win32/lib/win32/sspi.rb:84
+  def self.new(buffer = nil); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:90
+  def bufferSize(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:95
+  def bufferType(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:105
+  def to_p(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:100
+  def token(); end
+
+end
+
+class Win32::SSPI::SecurityHandle # is documented
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:54
+  def lower(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:58
+  def to_p(); end
+
+  # in file ext/dl/win32/lib/win32/sspi.rb:50
+  def upper(); end
+
+end
+
+class Win32::SSPI::TimeStamp # is documented
+
+  attr_reader :struct # in file ext/dl/win32/lib/win32/sspi.rb:68
+  # in file ext/dl/win32/lib/win32/sspi.rb:70
+  def to_p(); end
+
+end
+
+class Win32API # is documented
+
+  # in file ext/dl/win32/lib/Win32API.rb:8
+  DLL = nil
+  # in file ext/dl/win32/lib/Win32API.rb:9
+  TYPEMAP = nil
+  # in file ext/dl/win32/lib/Win32API.rb:10
+  POINTER_TYPE = nil
+  # in file ext/dl/win32/lib/Win32API.rb:12
+  def self.new(dllname, func, import, export = "0", calltype = :stdcall); end
+
+  # in file ext/dl/win32/lib/Win32API.rb
+  def Call(*args); end
+
+  # in file ext/dl/win32/lib/Win32API.rb:20
+  def call(*args); end
+
+end
+
+
+Files:       192
+
+Classes:     231 (  0 undocumented)
+Modules:      71 (  1 undocumented)
+Constants:   689 (160 undocumented)
+Attributes:  121 ( 48 undocumented)
+Methods:    2189 (458 undocumented)
+
+Total:      3301 (667 undocumented)
+ 79.79% documented
+
+Elapsed: 25.5s
