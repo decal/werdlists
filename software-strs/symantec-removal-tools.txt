@@ -1,0 +1,132 @@
+09/23/15	Trojan.Kotver Removal Tool
+04/08/15	W32.Pasobir Removal Tool
+02/24/15	W32.Ramnit Removal Tool
+01/14/15	W32.Tempedreve Removal Tool
+11/10/14	Trojan.Poweliks Removal Tool
+05/29/14	Trojan.Zbot Removal Tool
+12/16/11	Trojan.Zeroaccess Removal Tool
+04/21/11	W32.Qakbot Permission Reset Tool
+04/01/11	Adware.Ezula Removal Tool
+11/25/10	W32.Ackantta!Dr Removal Tool
+09/13/10	W32.Imsolk.B@mm Removal Tool
+09/06/10	Backdoor.Tidserv Removal Tool
+10/29/09	Trojan.Ramvicrype Removal Tool
+04/16/09	Symantec Trojan.Ransomlock Key Generator Tool
+04/15/09	Trojan.Initbar Removal Tool
+03/24/09	Trojan.Xrupter Removal Tool
+02/20/09	W32.Virut.CF Removal Tool
+02/01/09	Trojan.Bankpatch Removal Tool
+01/13/09	W32.Downadup Removal Tool
+07/22/08	Trojan.Brisv.A!inf Removal Tool
+01/11/07	Backdoor.Haxdoor.S/Trojan.Schoeberl.E Removal Tool
+01/04/07	W32.Spybot.ANDM Removal Tool
+11/29/06	W32.Spybot.ACYR Removal Tool
+10/19/06	W32.Rajump Removal Tool
+10/17/06	W32.Pasobir Removal Tool
+10/04/06	Symantec Support Tool ActiveX Control Cleanup Tool
+09/23/06	Trojan.Linkoptimizer Removal Tool
+09/14/06	W32.Bacalid Removal Tool
+03/23/06	Trojan.Abwiz Removal Tool
+03/23/06	Trojan.Exponny Removal Tool
+03/23/06	Trojan.Sientok Removal Tool
+03/23/06	W32.Antinny Removal Tool
+03/17/06	W32.Davs Removal Tool
+02/02/06	W32.Kiman Removal Tool
+01/17/06	W32.Blackmal@mm Removal Tool
+12/02/05	W32.Secefa Removal Tool
+11/10/05	Backdoor.Ryknos Removal Tool
+11/03/05	Trojan.Lodear Removal Tool
+10/20/05	Symantec Mobile Threats Removal Tool
+09/22/05	W32.Pexmor@mm Removal Tool
+08/29/05	W32.Bobax@mm Removal Tool
+08/17/05	W32.Esbot Removal Tool
+08/15/05	W32.Zotob Removal Tool
+07/19/05	W32.Reatle@mm Removal Tool
+05/16/05	Trojan.Jasbom Removal Tool
+04/29/05	Trojan.Vundo.B Removal Tool
+04/13/05	W32.Mytob.AR@mm Removal Tool
+03/18/05	W32.Serflog Removal Tool
+03/08/05	W32.Kelvir Removal Tool
+03/07/05	W32.Serflog.A Removal Tool
+02/28/05	W32.Mytob@mm Removal Tool
+02/03/05	W32.Bropia Removal Tool
+12/17/04	W32.Envid@mm Removal Tool
+11/22/04	Trojan.Vundo Removal Tool
+11/17/04	W32.Bofra@mm Removal Tool
+10/04/04	Adware.JustFindIt Removal Tool
+08/10/04	Backdoor.Agent.B Removal Tool
+08/04/04	W32.Evaman.C Removal Tool
+06/14/04	W32.Erkez.B@mm Removal Tool
+06/02/04	W32.Korgo Removal Tool
+05/20/04	W32.Donk.Q Removal Tool
+05/06/04	Tool to reset shell\open\command registry keys
+05/01/04	W32.Sasser Removal Tool
+04/21/04	W32.Opasa@mm Removal Tool
+04/20/04	W32.Erkez@mm Removal Tool
+04/07/04	W32.Blackmal.B@mm Removal Tool
+04/02/04	W32.Gaobot.UJ Removal Tool
+03/14/04	W32.Beagle.MO@mm Removal Tool
+02/18/04	W32.Netsky@mm Removal Tool
+01/30/04	W32.HLLW.Anig Removal Tool
+01/27/04	W32.Mydoom@mm Removal Tool
+01/19/04	W32.Beagle@mm Removal Tool
+01/13/04	W32.Gaobot Removal Tool
+10/29/03	W32.Sober Removal Tool
+10/03/03	Trojan.Qhosts Removal Tool
+09/19/03	W32.Swen.A@mm Removal Tool
+08/19/03	W32.Dumaru Removal Tool
+08/19/03	W32.Sobig.F@mm Removal Tool
+08/18/03	W32.Welchia.Worm Removal Tool
+08/11/03	W32.Blaster.Worm Removal Tool
+08/08/03	Backdoor.Winshell.50 Removal Tool
+08/01/03	W32.Mimail Removal Tool
+06/27/03	W32.Mumu.B.Worm Removal Tool
+06/25/03	W32.Sobig.E@mm Removal Tool
+06/16/03	W32.ExploreZip.Worm Removal Tool
+06/06/03	W32.Femot.Worm Removal Tool
+06/05/03	W32.Bugbear.B@mm Removal Tool
+06/04/03	Bat.Mumu.A.Worm Removal Tool
+06/01/03	W32.Sobig.C Removal Tool
+05/18/03	W32.Sobig.B Removal Tool
+05/12/03	W32.HLLW.Fizzer Removal Tool
+04/14/03	W32.HLLW.Nebiwo Removal Tool
+02/24/03	W32.HLLW.Lovgate Removal Tool
+01/25/03	W32.SQLExp.Worm Removal Tool
+01/14/03	W32.Sobig.A@mm Removal Tool
+01/09/03	W32.Lirva Removal Tool
+11/25/02	W32.HLLW.Winevar/W32.Funlove.4099 Removal Tool
+11/15/02	W32.Brid.A@mm/W32.Funlove.4099 Removal Tool
+10/01/02	W32.Bugbear@mm Removal Tool
+09/30/02	W32.Opaserv.Worm Removal Tool
+08/01/02	W32.Magistr Removal Tool
+07/16/02	W32.Frethem Removal Tool
+07/03/02	W32.Yaha Removal Tool
+05/10/02	Backdoor.Autoupder Removal Tool
+04/18/02	W32.Klez Removal Tool
+04/15/02	W2k.Stream Removal Tool
+04/15/02	Wscript.Kakworm Removal Tool
+04/01/02	W32.Gibe@mm Removal Tool
+03/28/02	W32.Mylife Removal Tool
+12/04/01	W32.Goner.A@mm Removal Tool
+11/28/01	W32.Badtrans.B@mm Removal Tool
+10/30/01	W32.Nimda.E@mm Removal Tool
+09/19/01	W32.Nimda.A@mm Removal Tool
+08/09/01	CodeRed Removal Tool
+07/31/01	VBS.Potok@mm Removal Tool
+07/20/01	W32.Sircam.Worm@mm Removal Tool
+07/16/01	VBS.Haptime Removal Tool
+03/09/01	DOS FunLove.4099 Fix Tool
+02/20/01	W32 HybrisF Fix Tool
+01/11/01	W95.CIH Removal Tool
+01/06/01	W95.HybrisF Fix Tool
+12/22/00	Fix W32.Funlove.4099 Tool (Cleanflc.exe)
+12/22/00	PrettyPark.Worm Removal Tool
+12/22/00	VBS.LoveLetter Fix
+12/22/00	VBS.Stages.A Fix
+12/21/00	Happy99.Worm Removal Tool
+12/21/00	W32.Navidad Fix
+12/20/00	Kak.Worm.B Fix
+12/20/00	W32.HLLW.QAZ.A Fix
+12/20/00	W32.Kriz Removal Tool
+12/19/00	BuddyList Removal Tool
+12/15/00	W95.MTX Fix Tool

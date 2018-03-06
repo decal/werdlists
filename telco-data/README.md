@@ -5,6 +5,7 @@ areacode-states-locations: Information about area codes in the United States
 country-codes-alphabetical: Country codes assigned by [ITU-T](https://www.itu.int "International Telecommunication Union") (alphabetical order)  
 country-codes-notes: Define single letter notes referenced in country code files  
 country-codes-numerical: Country codes assigned by [ITU-T](https://www.itu.int "International Telecommunication Union") (numerical order)  
+country-code-org: CSV data file taken from <http://countrycodes.org>
 country-exit-codes: international exit codes by country sorted alphabetically  
 country-service-restrictions: an outline of services missing in each country  
 geographical-codes-numerical: Geographical codes from [ITU-T](https://www.itu.int "International Telecommunication Union") (numerical order)  

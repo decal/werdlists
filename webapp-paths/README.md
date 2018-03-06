@@ -10,7 +10,7 @@ cpan-module-paths: paths in CPAN (Comprehensive Perl Archive Network) modules
 dirb-vulns-paths: pathnames of all vulnerabilities scanned for by the dirb tool  
 direct-web-remoting: paths for [Direct Web Remoting](http://directwebremoting.org "DWR is Easy AJAX for Java")  
 dirsearch-paths-list: `dict.txt` file packaged with the dirsearch tool  
-drupal-path-names: path names typically found under web root of the _Drupal_ CMS  
+drupal-path-names: path names typically found under the web root of a [Drupal](https://www.drupal.org "Open Source CMS") install  
 falcon-jsp-paths: _FalconPathScan_ `.php` extensions changed to `.jsp`  
 falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_   
 font-file-names: List of names for various OpenType and TrueType font files  

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="all" />
+<meta name="description" content="The abuse.ch ZeuS Tracker help you to track ZeuS Command&amp;Control servers (C&amp;Cs) and generating a IP-blocklist or domain-blocklist" />
+<meta name="keywords" content="Zeus, Zbot, wsnpoem, tracker, system, abuse, blocklist, blacklist, zeustracker, zeustracker.abuse.ch, C&amp;C, ZeuS Command&amp;Control server, iptables, squid webproxy" />
+<link href="https://zeustracker.abuse.ch/css/layout.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<title>ZeuS Tracker :: ZeuS blocklist</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17502585-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div class="MainContainer">
+	<div class="Header"></div>
+    <div class="navigation">
+<a href="index.php" target="_parent" title="home">Home</a> | <a href="faq.php" target="_parent" title="FAQ">FAQ</a> | <a href="blocklist.php" target="_parent" title="ZeuS Blocklist">ZeuS Blocklist</a> | <a href="monitor.php" target="_parent" title="ZeuS Tracker">ZeuS Tracker</a> | <a href="submit.php" target="_parent" title="Submit botnet controller">Submit C&amp;C</a> | <a href="removals.php" target="_parent" title="Removals">Removals</a> | <a href="ztdns.php" target="_parent" title="ZTDNS">ZTDNS</a> | <a href="statistic.php" target="_parent" title="ZeuS Statistic">Statistic</a> | <a href="feeds.php" target="_parent" title="ZeuS Tracker RSS Feeds">RSS Feeds</a> | <a href="contact.php" target="_parent" title="contact">Contact</a> | <a href="links.php" title="Links" target="_parent">Links</a></div>
+  <div class="ContentBox">
+    	<h1>ZeuS Tracker :: ZeuS blocklist</h1>
+    	<p>ZeuS Tracker offers various IP- and domain-blocklists that contains known ZeuS Command&amp;Control server (C&amp;C) assocaited with the ZeuS crimeware. ZeuS Tracker offers blocklists in various formats and for different purposes which are described below.</p>
+	<p>ZeuS Tracker recommends the following two blocklists (recommended blocklists):</p>
+	<div class="greenbox">
+	<h2>ZeuS domain blocklist (BadDomains)</h2>
+	<p>If you want to block domain names used by the ZeuS trojan, you should use this list. The ZeuS domain blocklist (<strong>BadDomains</strong>) is the recommended blocklist if you want to block only ZeuS domain names. It excludes domain names that ZeuS Tracker believes to be hijacked (level 2). Hence the false positive rate should be much lower compared to the standard ZeuS domain blocklist (see below).</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=baddomains" title="download abuse.ch ZeuS domain blocklist (BadDomains)" target="_parent">download ZeuS domain blocklist (BadDomains)</a></p>
+	<h2>ZeuS IP blocklist (BadIPs)</h2>
+	<p>This blocklists only includes IPv4 addresses that are used by the ZeuS trojan. It is the recommened blocklist if you want to block only ZeuS IPs. It excludes IP addresses that ZeuS Tracker believes to be hijacked (level 2) or belong to a free web hosting provider (level 3). Hence the false postive rate should be much lower compared to the standard ZeuS IP blocklist (see below).</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=badips" title="download abuse.ch ZeuS IP blocklist (BadIPs)" target="_parent">download ZeuS IP blocklist (BadIPs)</a></p>
+	</div>
+	<p>If you are looking for something specific you might want to check out the extended blocklists:</p>
+    	<h2>ZeuS domain blocklist (Standard)</h2>
+	<p>This blocklist contains the same data as the ZeuS domain blocklist (BadDomains) but with the slight difference that it doesn't exclude hijacked websites (level 2). This means that this blocklist contains all domain names associated with ZeuS C&amp;Cs which are currently being tracked by ZeuS Tracker. Hence this blocklist will likely cause some false positives.</p>
+        <p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=domainblocklist" title="download abuse.ch ZeuS domain blocklist" target="_parent">download ZeuS domain blocklist</a></p>
+   	<h2>ZeuS IP blocklist (Standard)</h2>
+        <p>This blocklist contains the same data as the ZeuS IP blocklist (BadIPs) but with the slight difference that it doesn't exclude hijacked websites (level 2) and free web hosting providers (level 3). This means that this blocklist contains all IPv4 addresses associated with ZeuS C&amp;Cswhich are currently being tracked by ZeuS Tracker. Hence this blocklist will likely cause some false positives.</p>
+        <p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=ipblocklist" title="download abuse.ch ZeuS IP blocklist" target="_parent">download ZeuS IP blocklist</a></p>
+	<h2>ZeuS compromised URL blocklist</h2>
+	<p>This blocklist only contains compromised / hijacked websites (level 2) which are being abused by cybercriminals to host a ZeuS botnet controller. Since blocking the FQDN or IP address of compromised host would cause a lot of false positives, the <em>ZeuS compromised URL blocklist</em> contains the full URL to the ZeuS config, dropzone or malware binary instead of the FQDN / IP address.</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=compromised" title="download abuse.ch ZeuS compromised URL blocklist" target="_parent">download ZeuS compromised URL blocklist</a></p>
+   	<h2>ZeuS blocklist for Squid</h2>
+    	<p>ZeuS Tracker also offers a ZeuS blocklist for Squid. The blocklist is a text file in the Squid format and can be used to block well known ZeuS C&amp;Cs using the <a href="http://www.squid-cache.org/" target="_blank">Squid webproxy</a>. To implement this blocklist on your Squid proxy, you need to add the following two lines to your Squid configuration (usually located at <em>/etc/squid/squid.conf</em> or for newer Squid versions <em>/etc/squid3/squid.conf</em>):</p>
+	<p class="code">acl zeustrackerdomain dstdomain "/etc/squid/zeus_squiddomain.acl"<br />
+acl zeustrackerip dst "/etc/squid/zeus_squidip.acl"</p>
+	<p>Afterwards you will need to tell Squid to block all traffic to these two ACL rules. You can do that by adding the following two lines in to your Squid configuration file. Please note that it is essential that you put those two lines in the correct place in your Squid configuration. If you are unsure where you have to put those two lines, please add them above <em>http_access deny all</em>:</p>
+	<p class="code">http_access deny zeustrackerdomain<br/>
+http_access deny zeustrackerip</p>
+	<p>You will need to download the ZeuS Tracker IP and domain blocklist in the squid format to <em>/etc/squid/</em> using these two hyperlinks:</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=squiddomain" title="download abuse.ch ZeuS domain blocklist for Squid" target="_parent">download ZeuS domain blocklist for Squid</a></p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=squidip" title="download abuse.ch ZeuS IP blocklist for Squid" target="_parent">download ZeuS IP blocklist for Squid</a></p>
+	<p>You can check if your new Squid configuration is correct and the two blocklists are readable by Squid using the command <em>sudo squid -k parse</em>. If the command doesn't report any errors you can now restart Squid to reload the Squid configuration (<em>sudo /etc/init.d/squid restart</em>). Squid should now block any traffic towards ZeuS C&amp;C servers that are tracked by ZeuS Tracker.</p>
+	<h2>ZeuS Tracker Snort Rules</h2>
+	<p>ZeuS Tracker also offers a Snort rule file. <a href="http://www.snort.org/" target="_blank" title="Snort IDS">Snort</a> is an Open Source Intrusion Detection System (IDS) used to detect bad / malicious traffic in your network. You can simply download and add the ZeuS Tracker rule file to your Snort configuration and you should be ready to go.</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=snort" title="download abuse.ch ZeuS Rule file for Snort" target="_parent">download abuse.ch ZeuS Rule file for Snort</a></p>
+	<h2>ZeuS IP blocklist for iptables</h2>
+	<p>The IP blocklist for iptables includes all ZeuS IPs. The blocklist is a bash script which will add a DROP rule to your iptables to drop traffic to well known ZeuS C&amp;Cs:</p>
+	 <p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=iptablesblocklist" title="download abuse.ch ZeuS IP blocklist for iptables" target="_parent">download ZeuS IP blocklist for iptables</a></p>
+    <h2>ZeuS domain blocklist for Windows (Hosts-File)</h2>
+    <p>The domain blocklist for Windows includes all ZeuS domains. The blocklist is a text file in the Windows Host-file format which points the ZeuS domains to localhost (127.0.0.1):</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=hostfile" title="download abuse.ch ZeuS domain blocklist for Windows" target="_parent">download ZeuS domain blocklist for Windows (Hostfile)</a></p>
+    <h2>ZeuS combined blocklist for unix (hosts.deny)</h2>
+	<p>The combined blocklist for unix can by copied to /etc/hosts.deny to block bad traffic from/to ZeuS C&amp;C servers:</p>
+	<p><img src="images/icons/disk.png" alt="download" width="12" height="12" border="0" /> <a href="blocklist.php?download=hostsdeny" title="download abuse.ch ZeuS domain blocklist for Unix" target="_parent">download ZeuS combined blocklist for Unix (Hosts.deny)</a></p>
+    <h2>Downloading IP- and domain blocklist via HTTP</h2>
+	<p>This feature has been deprecated and is no longer available.</p>
+  </div>
+  <div class="footer">
+	  <p>copyright &copy; 2018  zeustracker.abuse.ch, version 1.1 / 2009-06-20</p>
+	</div>
+</div>
+  
+</body>
+</html>

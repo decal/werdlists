@@ -1,4 +1,5 @@
 all-redirect-params: all parameters for location redirects combined as one file  
+burp-parameter-names: strings used by [Burp Suite Scanner](https://portswigger.net/burp) when scanning for query variable names  
 common-redirect-params: parameters commonly used in location redirects  
 http-get-flags: HTTP GET request parameters that aren't assigned to  
 http-query-params: common variable names used in POST bodies and GET requests  

@@ -1,0 +1,272 @@
+# for informational purposes only, use as a blocklist at your own risk
+# many of these domains are being abused by the bad guys
+# this is a list free/bulk domain registration services, who register 2nd level domains for free or almost free
+#.aa.am	#http://coom.in/
+*.0-0-0.info
+*.0rg.fr	#http://www.getfreedomain.name/
+*.1s.fr	#https://sites.google.com/a/softglobe.co.cc/sa/www-venez-fr
+*.2009.tk	#http://coom.in/
+*.2010.tk	#http://coom.in/
+*.2y.net
+*.da.ru	#https://sites.google.com/a/softglobe.co.cc/sa/www-da-ru
+*.345.pl	#http://www.getfreedomain.name/
+*.4000.tk	#http://coom.in/
+*.7000.tk	#http://coom.in/
+*.88n.eu	#http://www.getfreedomain.name/
+*.8s.nl
+*.8s.nl	#http://www.getfreedomain.name/
+*.9000.tk	#http://coom.in/
+*.aaa.ai	#http://coom.in/
+*.ae.am
+*.casubi.com	#http://www.casubi.com
+*.cd.am	#http://isc.sans.org/diary/+nl+ai+/12280
+*.air.ai	#http://coom.in/
+*.aq.pl	#http://www.getfreedomain.name/
+*.at.gg	#http://www.getfreedomain.name/
+*.at.hm	#http://www.getfreedomain.name/
+*.at.lv	#http://www.getfreedomain.name/
+*.at.mn	#http://www.getfreedomain.name/
+*.at.pn	#http://www.getfreedomain.name/
+*.at.tc
+*.at.tc	#http://www.getfreedomain.name/
+*.at.tf	#http://www.createnic.de/
+*.at.tf	#http://www.getfreedomain.name/
+*.at.vc	#http://www.getfreedomain.name/
+*.at.vu	#http://www.getfreedomain.name/
+*.atnet.nl
+*.au.mn	#http://www.getfreedomain.name/
+*.au.ms	#http://us.cydots.com/
+*.au.pn
+*.au.pn	#http://www.getfreedomain.name/
+*.au.tc	#http://www.getfreedomain.name/
+*.be.ma	#http://www.getfreedomain.name/
+*.be.tc
+*.be.tc	#http://www.getfreedomain.name/
+*.bee.pl	#http://komponenty.bee.pl
+*.bg.tc	#http://www.getfreedomain.name/
+*.bg.tf	#http://www.createnic.de/
+*.bij.pl	#http://www.bee.pl
+*.biz.br.tc
+*.biz.ly	#http://www.getfreedomain.name/
+*.box.tl	#http://www.e-discountwebhosting.com/
+*.br.ms	#http://us.cydots.com/
+*.br.tc	#http://www.getfreedomain.name/
+*.byinter.net
+*.bz.cm	#http://www.getfreedomain.name/
+*.c0m.at	#http://www.getfreedomain.name/
+*.c0m.li	#http://coom.in/
+*.c4.fr	#http://www.getfreedomain.name/
+*.ca.pn	#http://www.getfreedomain.name/
+*.ca.tf	#http://www.createnic.de/
+*.cc.ai	#http://isc.sans.org/diary/+nl+ai+/12280
+*.cc.cc	#http://www.getfreedomain.name/
+*.ce.ms	#http://www.getfreedomain.name/
+*.ce.vg
+*.ch.gg	#http://www.getfreedomain.name/
+*.ch.lv	#http://www.getfreedomain.name/
+*.ch.ma	#https://sites.google.com/a/softglobe.co.cc/sa/www-venez-fr
+*.ch.pn	#http://www.getfreedomain.name/
+*.ch.tc
+*.ch.tc	#http://www.getfreedomain.name/
+*.ch.tf	http://www.createnic.de/
+*.ch.vc	#http://www.getfreedomain.name/
+*.ch.vu	#http://www.getfreedomain.name/
+*.check-it-out.nl
+*.cjb.net
+*.cn.mn	#http://www.getfreedomain.name/
+*.cn.ms	#http://us.cydots.com/
+*.cn.pn
+*.cn.pn	#http://www.getfreedomain.name/
+*.co.at.tc
+*.co.at.tf	#http://www.createnic.de/
+*.co.be
+*.co.cc	#http://www.getfreedomain.name/
+*.co.com.au
+*.co.nu
+*.co.tv	#http://sites.google.com/a/softglobe.co.cc/sa/www-co-tv
+*.co.uk.tc
+*.co.vu	#http://www.getfreedomain.name/
+*.com.au.tc
+*.com.br.tc
+*.com.ua
+*.coom.in	#http://coom.in/
+*.cu.cc	#http://www.getfreedomain.name/
+*.cw.cm
+*.cx.cc	#http://www.getfreedomain.name/
+*.cz.cc	#https://sites.google.com/a/softglobe.co.cc/sa/www-cz-cc
+*.cz.tc	#http://www.getfreedomain.name/
+*.cz.tf	#http://www.createnic.de/
+*.dds-dvr.com
+*.de.gg	#http://www.getfreedomain.name/
+*.de.hm	#http://www.getfreedomain.name/
+*.de.lv	#http://www.getfreedomain.name/
+*.de.ms	#http://us.cydots.com/
+*.de.nu	#http://www.getfreedomain.name/
+*.de.pn	#http://www.getfreedomain.name/
+*.de.tc
+*.de.tc	#http://www.getfreedomain.name/
+*.de.tf	#http://www.createnic.de/
+*.de.vc	#http://www.getfreedomain.name/
+*.dk.tc	#http://www.getfreedomain.name/
+*.ë.cc	#http://coom.in/
+*.edu.tc	#http://www.getfreedomain.name/
+*.edu.tf	#http://www.createnic.de/
+*.epac.to
+*.es.tc	#http://www.getfreedomain.name/
+*.etc.br.tc
+*.eu.mn	#http://www.getfreedomain.name/
+*.eu.org	#https://sites.google.com/a/softglobe.co.cc/sa/www-eu
+*.eu.tc	#http://www.getfreedomain.name/
+*.eu.tf	#http://www.createnic.de/
+*.eu.tv	#https://sites.google.com/a/softglobe.co.cc/sa/www-eu-tv
+*.fr.am	#http://coom.in/
+*.fr.cr	#http://www.getfreedomain.name/domain/ze.cx
+*.fr.gg	#http://www.getfreedomain.name/
+*.fr.ht	#https://sites.google.com/a/softglobe.co.cc/sa/www-venez-fr
+*.fr.mn	#http://www.getfreedomain.name/
+*.fr.ms	#http://www.getfreedomain.name/
+*.fr.mu	#http://www.getfreedomain.name/
+*.fr.nf	#http://www.getfreedomain.name/domain/ze.cx
+*.fr.pn
+*.fr.pn	#http://www.getfreedomain.name/
+*.free	#http://www.getfreedomain.name/
+*.gg.gy	#http://coom.in/
+*.gicp.net
+*.glx.nl	#http://www.getfreedomain.name/
+*.gv.vg
+*.hk.ms	#http://us.cydots.com/
+*.hk.tc
+*.hk.tc	#http://www.getfreedomain.name/
+*.homepc.it
+*.hot.ai	#http://coom.in/
+*.ht.cx	#http://www.getfreedomain.name/
+*.hu.tc
+*.hu.tc	#http://www.getfreedomain.name/
+*.ibiz.cc	#http://www.getfreedomain.name/
+*.ie.tc
+*.ie.tc	#http://www.getfreedomain.name/
+*.info.br.tc
+*.info.ms	#http://us.cydots.com/
+*.int.tc
+*.int.tc	#http://www.getfreedomain.name/
+*.int.tf	#http://www.createnic.de/
+*.ipq.co	#http://www.getfreedomain.name/
+*.it.mn	#http://www.getfreedomain.name/
+*.it.pn	#http://www.getfreedomain.name/
+*.it.tc
+*.it.tc	#http://www.getfreedomain.name/
+*.iz.rs	#http://www.getfreedomain.name/
+*.jp.mn	#http://www.getfreedomain.name/
+*.jp.pn
+*.jp.pn	#http://www.getfreedomain.name/
+*.kr.tc	#http://www.getfreedomain.name/
+*.l2x.eu	#http://www.getfreedomain.name/
+*.me.uk.tc
+*.minidns.net
+*.mm.am	#http://coom.in/
+*.mo.tl
+*.mx.am	#http://www.getfreedomain.name/
+*.mx.tc	#http://www.getfreedomain.name/
+*.myhome.tv
+*.n10.nl	#http://www.getfreedomain.name/
+*.net.br.tc
+*.net.ms	#http://us.cydots.com/
+*.net.ru	#http://sites.google.com/a/softglobe.co.cc/sa/www-net-ru
+*.net.tc	#http://www.getfreedomain.name/
+*.net.tf	#http://www.createnic.de/
+*.nl-web.com
+*.nl.af	#http://coom.in/
+*.nl.ai	#http://nl.ai/	added 2011-11
+*.nl.am	#http://coom.in/
+*.nl.g	#http://coom.in/
+*.nl.gy	#http://coom.in/
+*.nl.mn	#http://www.getfreedomain.name/
+*.no.tc	#http://www.getfreedomain.name/
+*.no12u.bz
+*.noc.su
+*.noip.cn	#http://www.noip.cn/
+*.ok.pe	#https://sites.google.com/a/softglobe.co.cc/sa/www-ok-pe
+*.org.br.tc
+*.org.ru	#http://sites.google.com/a/softglobe.co.cc/sa/www-net-ru
+*.org.uk.tc
+*.orge.pl
+*.osa.pl	#http://www.bee.pl
+*.oueb.eu
+*.perl.sh
+*.ph.tc	#http://www.getfreedomain.name/
+*.pl.tf	#http://www.createnic.de/
+*.pp.ua	#http://www.getfreedomain.name/
+*.pro.tc	#http://www.getfreedomain.name/
+*.qc.cx	#http://www.getfreedomain.name/
+*.rift.tv	#http://coom.in/
+*.rr.nu	#https://sites.google.com/a/softglobe.co.cc/sa/www-rr-nu
+*.ru.tc	#http://www.getfreedomain.name/
+*.ru.tf	#http://www.createnic.de/
+*.se.tc	#http://www.getfreedomain.name/
+*.sg.tf	#http://www.createnic.de/
+*.shop.ms	#http://us.cydots.com/
+*.shop.tc
+*.shop.tc	#http://www.getfreedomain.name/
+*.slx.nl	#http://www.getfreedomain.name/
+*.tcl.tk
+*.th.tc
+*.th.tc	#http://www.getfreedomain.name/
+*.tr.vu	#http://www.getfreedomain.name/
+*.ua.tc
+*.ua.tc	#http://www.getfreedomain.name/
+*.uk.mn	#http://www.getfreedomain.name/
+*.uk.pn
+*.uk.pn	#http://www.getfreedomain.name/
+*.uk.tc
+*.uk.tc	#http://www.getfreedomain.name/
+*.uni.cc	#https://sites.google.com/a/softglobe.co.cc/sa/www-uni-cc
+*.uni.me	#http://www.getfreedomain.name/
+*.us.ms	#http://us.cydots.com/
+*.us.ms	#http://www.getfreedomain.name/
+*.us.pn	#http://www.getfreedomain.name/
+*.us.tc	#http://www.getfreedomain.name/
+*.us.tf	#http://www.createnic.de/
+*.usa.cc	#http://www.getfreedomain.name/
+*.ven.bz	#http://www.getfreedomain.name/
+*.vindme.nl
+*.vu.cx	#http://www.getfreedomain.name/
+*.vv.cc
+*.w-w-w.eu	#http://coom.in/
+*.wo.tv
+*.ww.ai	#http://coom.in/
+*.xe.cx	#http://www.getfreedomain.name/
+*.xl.cx	#http://www.getfreedomain.name/
+*.xn--cda.cc	#http://coom.in/
+*.xorg.pl	#https://sites.google.com/a/softglobe.co.cc/sa/www-xorg-pl
+*.yi.org	#https://sites.google.com/a/softglobe.co.cc/sa/www-yi-org
+*.za.net	#http://www.getfreedomain.name/
+*.za.net	#https://sites.google.com/a/softglobe.co.cc/sa/www-za-net
+*.za.org	#http://www.getfreedomain.name/
+*.za.pl	#http://www.getfreedomain.name/
+*.ze.cx	#http://www.getfreedomain.name/
+*.ze.tc	#http://www.getfreedomain.name/
+*.zik.dj	#http://www.getfreedomain.name/
+*.cuu.cc	#http://regdomains.com/
+*.of.cm	#http://regdomains.com/
+*.cyl.me	#http://regdomains.com/
+*.cuu.cc	#http://regdomains.com/
+*.dzw.tv	#http://regdomains.com/
+*.fnb.cc	#http://regdomains.com/
+*.nce.name	#http://regdomains.com/
+*.nvn.me	#http://regdomains.com/
+*.row.name	#http://regdomains.com/
+*.sge.me	#http://regdomains.com/
+*.zeg.cc	#http://regdomains.com/
+#.dnsmob.org	#http://Casubi.com
+*.dnsninja.org	#http://Casubi.com
+*.kilometa.org	#http://Casubi.com
+*.maxdns.org	#http://Casubi.com
+*.moredns.org	#http://Casubi.com
+*.ninja7.org	#http://Casubi.com
+*.s3h.net	#http://Casubi.com
+*.selfip.me	#http://Casubi.com
+*.vigg.net	#http://Casubi.com
+*.vugg.net	#http://Casubi.com
+*.wiggy.me	#http://Casubi.com
+*.zigg.me	#http://Casubi.com
+*.zma.me	#http://Casubi.com

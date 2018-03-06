@@ -16,3 +16,5 @@ special-cidr-blocks: List of "special" Intranet CIDR blocks
 suspect-network-blocks: [suspect_networks.txt](https://suspect-networks.io/downloads/suspect_networks.txt)  
 targets-ipv6-wordlist: taken from nmap `nselib/data/targets-ipv6-wordlist`  
 various-email-addresses: List of various e-mail addresses parsed from an [mbox](https://en.wikipedia.org/wiki/Mbox)    
+zeus-domain-blocklist: [abuse.ch ZeuS Domain blocklist](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist)  
+zeus-ip-blocklist: [abuse.ch ZeuS IP blocklist](https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist)  

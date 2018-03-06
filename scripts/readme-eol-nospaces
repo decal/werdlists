@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#
+# Find lines in README markdown files without the terminating double space that
+# creates a break-line in HTML..
+#
+
+egrep -v '[[:space:]]{2}$' */README.md
+
+exit 0
