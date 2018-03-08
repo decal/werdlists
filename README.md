@@ -28,9 +28,9 @@ style line feeds. @decal
 
 | Folder Name | Description of Contents |
 |------------:|:------------------------|
-| [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN (_Fully Qualified Domain Name_) |  
-| [http-security](tree/master/http-security) | HTTP (_Hyper Text Transfer Protocol_) security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-| [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX&circler;](http://www.unix.org/what_is_unix.html ") operating system and its clones |   
+| [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
+| [http-security](tree/master/http-security) | HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+| [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX &circler;](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
 | [telco-data](tree/master/telco-data) | POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) related information |  
 | [webapp-paths](tree/master/webapp-paths) | Path names related to web-based applications |  
 
