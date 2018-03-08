@@ -22,15 +22,17 @@ or line-based.  Although the `passes-dicts` folder contains inputs for password
 crackers, overall the files amassed here are intended to be useful in helping to
 create insecure software states (with the help of a black-box fuzzer or scanning
 utility, for example.)  The vast majority of files are simply ASCII with UNIX 
-style line feeds.
+style line feeds. @decal
 
 ## Descriptions of selected folders sampled from `INDEX.md`
 
-- [dns-hostnames](https://github.com/decal/werdlists/tree/master/dns-hostnames): The host name part of an FQDN (Fully Qualified Domain Name)
-- [http-security](https://github.com/decal/werdlists/tree/master/http-security): Hyper Text Transfer Protocol security info, i.e. CSP
-- [unix-data](https://github.com/decal/werdlists/tree/master/unix-data): Data associated with various flavors of the UNIX OS and its clones
-- [telco-data](https://github.com/decal/werdlists/tree/master/telco-data): 
-- [webapp-paths](https://github.com/decal/werdlists/tree/master/webapp-paths): Path names related to applications running on a web server
+| Folder Name | Description of Contents |
+|------------:|:------------------------|
+| [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN (_Fully Qualified Domain Name_) |  
+| [http-security](tree/master/http-security) | HTTP (_Hyper Text Transfer Protocol_) security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+| [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX&circler;](http://www.unix.org/what_is_unix.html ") operating system and its clones |   
+| [telco-data](tree/master/telco-data) | POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) related information |  
+| [webapp-paths](tree/master/webapp-paths) | Path names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects
 

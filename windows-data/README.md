@@ -4,5 +4,3 @@ peid-headers-userdb: packer patterns used by the PeID utility
 powershell-cmdlet-list: Microsoft Windows [PowerShell](https://docs.microsoft.com/powershell/) cmdlet list  
 usb-devices-list: USB devices HTML report from [USBDeview](http://nirsoft.net)  
 window-messages-list: a list of messages sent to GUI Window objects in [Win32 API](http://www.winprog.org/tutorial/ "theForger's Win32 API Programming Tutorial")    
-windows-exes-list: a list of 
-windows-exes64-list:
