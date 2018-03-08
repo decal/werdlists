@@ -1,0 +1,530 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5ECB-DEF3
+
+ Directory of C:\Windows\PolicyDefinitions
+
+06/02/2012  09:30 AM            13,460 DnsClient.admx
+               1 File(s)         13,460 bytes
+
+ Directory of C:\Windows\PolicyDefinitions\en-US
+
+07/26/2012  02:49 AM            31,340 DnsClient.adml
+               1 File(s)         31,340 bytes
+
+ Directory of C:\Windows\System32
+
+08/30/2011  11:05 PM            96,104 dns-sd.exe
+09/20/2012  01:31 AM           604,672 dnsapi.dll
+07/25/2012  10:08 PM            30,720 dnscacheugc.exe
+07/25/2012  11:50 PM           135,168 dnscmmc.dll
+07/25/2012  10:05 PM             9,728 dnsext.dll
+07/25/2012  10:05 PM           100,352 dnshc.dll
+09/20/2012  01:31 AM           210,432 dnsrslvr.dll
+08/30/2011  11:05 PM            85,864 dnssd.dll
+08/30/2011  11:05 PM           212,840 dnssdX.dll
+08/30/2011  11:05 PM            61,288 jdns_sd.dll
+07/25/2012  09:33 PM             8,192 KBDNSO.DLL
+07/25/2012  10:08 PM            71,168 wlidnsp.dll
+              12 File(s)      1,626,528 bytes
+
+ Directory of C:\Windows\System32\en-US
+
+07/26/2012  02:48 AM            69,120 dnsapi.dll.mui
+07/26/2012  02:48 AM            14,336 dnscmmc.dll.mui
+07/26/2012  02:48 AM             7,680 dnshc.dll.mui
+07/26/2012  02:48 AM             3,072 dnsrslvr.dll.mui
+07/26/2012  02:48 AM             2,048 wlidNSP.dll.mui
+               5 File(s)         96,256 bytes
+
+ Directory of C:\Windows\System32\migwiz\dlmanifests
+
+06/02/2012  09:30 AM             3,754 DNS-Client-DL.man
+06/02/2012  09:30 AM             2,305 DNS-Server-Service-DL.man
+               2 File(s)          6,059 bytes
+
+ Directory of C:\Windows\System32\migwiz\replacementmanifests
+
+06/21/2012  02:03 PM               802 DNS-Server-Role-Replacement.man
+06/02/2012  09:30 AM               634 DNS-Server-Tools-Replacement.man
+               2 File(s)          1,436 bytes
+
+ Directory of C:\Windows\System32\spp\tokens\ppdlic
+
+07/25/2012  11:43 PM             2,902 DNS-Client-license-ppdlic.xrm-ms
+               1 File(s)          2,902 bytes
+
+ Directory of C:\Windows\System32\wbem
+
+07/25/2012  10:05 PM           121,856 dnsclientcim.dll
+06/02/2012  09:31 AM            63,472 dnsclientcim.mof
+07/25/2012  10:05 PM           191,488 dnsclientpsprovider.dll
+06/02/2012  09:31 AM            14,644 dnsclientpsprovider.mof
+06/02/2012  09:31 AM             1,278 dnsclientpsprovider_Uninstall.mof
+               5 File(s)        392,738 bytes
+
+ Directory of C:\Windows\System32\wbem\en-US
+
+07/26/2012  02:48 AM             3,072 dnsclientcim.dll.mui
+07/26/2012  02:48 AM                25 dnsclientcim.mfl
+07/26/2012  02:48 AM            23,040 dnsclientpsprovider.dll.mui
+07/26/2012  02:48 AM            31,970 dnsclientpsprovider.mfl
+07/26/2012  02:48 AM               784 dnsclientpsprovider_uninstall.mfl
+               5 File(s)         58,891 bytes
+
+ Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules
+
+07/26/2012  03:13 AM    <DIR>          DnsClient
+               0 File(s)              0 bytes
+
+ Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules\DnsClient
+
+06/02/2012  09:31 AM             1,677 DnsClient.psd1
+06/02/2012  09:31 AM            17,850 DnsClientPSProvider.Format.ps1xml
+06/17/2012  11:08 AM             4,788 DnsClientPSProvider.Types.ps1xml
+06/02/2012  09:31 AM            61,640 DnsCmdlets.Format.ps1xml
+06/02/2012  09:31 AM            22,151 DnsCmdlets.Types.ps1xml
+06/02/2012  09:31 AM            20,344 DnsConfig.Format.ps1xml
+06/02/2012  09:31 AM             1,098 DnsConfig.Types.ps1xml
+07/25/2012  06:02 PM            40,960 dnslookup.dll
+06/02/2012  09:31 AM             4,504 MSFT_DnsClient.cdxml
+06/02/2012  09:31 AM             4,130 MSFT_DnsClientCache.cdxml
+06/02/2012  09:31 AM             1,306 MSFT_DnsClientGlobalSetting.cdxml
+06/02/2012  09:31 AM             3,613 MSFT_DnsClientServerAddress.cdxml
+06/02/2012  09:31 AM             5,188 PS_DnsClientNRPTGlobal_v1.0.0.cdxml
+06/02/2012  09:31 AM             1,704 PS_DnsClientNrptPolicy_v1.0.0.cdxml
+06/17/2012  11:08 AM            18,650 PS_DnsClientNRPTRule_v1.0.0.cdxml
+              15 File(s)        209,603 bytes
+
+ Directory of C:\Windows\System32\WindowsPowerShell\v1.0\Modules\NetworkTransition
+
+06/02/2012  09:33 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:33 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:33 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:33 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:33 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\SysWOW64
+
+08/30/2011  11:05 PM            83,816 dns-sd.exe
+09/20/2012  12:53 AM           461,824 dnsapi.dll
+07/25/2012  10:36 PM           129,024 dnscmmc.dll
+08/30/2011  11:05 PM            73,064 dnssd.dll
+08/30/2011  11:05 PM           178,536 dnssdX.dll
+08/30/2011  11:05 PM            50,536 jdns_sd.dll
+07/25/2012  09:43 PM             7,680 KBDNSO.DLL
+07/25/2012  10:20 PM            46,592 wlidnsp.dll
+               8 File(s)      1,031,072 bytes
+
+ Directory of C:\Windows\SysWOW64\en-US
+
+07/26/2012  02:48 AM            69,120 dnsapi.dll.mui
+07/26/2012  02:48 AM            14,336 dnscmmc.dll.mui
+07/26/2012  02:48 AM             2,048 wlidNSP.dll.mui
+               3 File(s)         85,504 bytes
+
+ Directory of C:\Windows\SysWOW64\migwiz\dlmanifests
+
+06/02/2012  09:30 AM             2,305 DNS-Server-Service-DL.man
+               1 File(s)          2,305 bytes
+
+ Directory of C:\Windows\SysWOW64\migwiz\replacementmanifests
+
+06/21/2012  02:03 PM               802 DNS-Server-Role-Replacement.man
+06/02/2012  09:30 AM               634 DNS-Server-Tools-Replacement.man
+               2 File(s)          1,436 bytes
+
+ Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules
+
+07/26/2012  03:13 AM    <DIR>          DnsClient
+               0 File(s)              0 bytes
+
+ Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\DnsClient
+
+06/02/2012  09:31 AM             1,677 DnsClient.psd1
+06/02/2012  09:31 AM            17,850 DnsClientPSProvider.Format.ps1xml
+06/17/2012  11:08 AM             4,788 DnsClientPSProvider.Types.ps1xml
+06/02/2012  09:31 AM            61,640 DnsCmdlets.Format.ps1xml
+06/02/2012  09:31 AM            22,151 DnsCmdlets.Types.ps1xml
+06/02/2012  09:31 AM            20,344 DnsConfig.Format.ps1xml
+06/02/2012  09:31 AM             1,098 DnsConfig.Types.ps1xml
+07/25/2012  06:01 PM            40,960 dnslookup.dll
+06/02/2012  09:31 AM             4,504 MSFT_DnsClient.cdxml
+06/02/2012  09:31 AM             4,130 MSFT_DnsClientCache.cdxml
+06/02/2012  09:31 AM             1,306 MSFT_DnsClientGlobalSetting.cdxml
+06/02/2012  09:31 AM             3,613 MSFT_DnsClientServerAddress.cdxml
+06/02/2012  09:31 AM             5,188 PS_DnsClientNRPTGlobal_v1.0.0.cdxml
+06/02/2012  09:31 AM             1,704 PS_DnsClientNrptPolicy_v1.0.0.cdxml
+06/17/2012  11:08 AM            18,650 PS_DnsClientNRPTRule_v1.0.0.cdxml
+              15 File(s)        209,603 bytes
+
+ Directory of C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\NetworkTransition
+
+06/02/2012  09:32 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:32 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:32 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:32 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:32 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS
+
+07/26/2012  03:03 AM    <DIR>          amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_ee555b24ace9cfdd
+01/11/2013  04:07 AM    <DIR>          amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002
+01/11/2013  04:07 AM    <DIR>          amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_ef1cd87fc5d97923
+07/26/2012  03:04 AM    <DIR>          amd64_microsoft-windows-dns-client-winrnr_31bf3856ad364e35_6.2.9200.16384_none_b217fa53d9da6d61
+07/26/2012  03:04 AM    <DIR>          amd64_microsoft-windows-dns-clientextension_31bf3856ad364e35_6.2.9200.16384_none_c90f8f14b7adf287
+07/26/2012  03:04 AM    <DIR>          amd64_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_d31a36f34f88ca61
+07/26/2012  03:04 AM    <DIR>          amd64_microsoft-windows-dns-client_31bf3856ad364e35_6.2.9200.16384_none_3aac24420c1d9962
+07/26/2012  03:05 AM    <DIR>          amd64_microsoft-windows-dns-license_31bf3856ad364e35_6.2.9200.16384_none_cf92d57cb9bd934c
+07/26/2012  03:05 AM    <DIR>          amd64_microsoft-windows-dnsclient-adm_31bf3856ad364e35_6.2.9200.16384_none_afc8eded9c0d23fa
+07/26/2012  03:03 AM    <DIR>          amd64_microsoft-windows-dnshelperclass_31bf3856ad364e35_6.2.9200.16384_none_d10946fc1a49140c
+07/26/2012  03:06 AM    <DIR>          amd64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_fcd7c63d412d80cd
+07/26/2012  02:48 AM    <DIR>          amd64_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_c0d50b95ee7111f0
+07/26/2012  03:03 AM    <DIR>          wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_f8aa0576e14a91d8
+01/11/2013  04:08 AM    <DIR>          wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_f8e6e5bce11d81fd
+01/11/2013  04:08 AM    <DIR>          wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_f97182d1fa3a3b1e
+07/26/2012  03:07 AM    <DIR>          wow64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_072c708f758e42c8
+07/26/2012  03:04 AM    <DIR>          x86_microsoft-windows-dns-client-winrnr_31bf3856ad364e35_6.2.9200.16384_none_55f95ed0217cfc2b
+07/26/2012  03:04 AM    <DIR>          x86_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_76fb9b6f972b592b
+07/26/2012  02:48 AM    <DIR>          x86_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_64b670123613a0ba
+               0 File(s)              0 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..2provider.resources_31bf3856ad364e35_6.2.9200.16384_en-us_bcf2c10455d4b010
+
+07/26/2012  02:48 AM            23,040 dnsclientpsprovider.dll.mui
+07/26/2012  02:48 AM            31,970 dnsclientpsprovider.mfl
+07/26/2012  02:48 AM               784 dnsclientpsprovider_uninstall.mfl
+               3 File(s)         55,794 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..entsnapin.resources_31bf3856ad364e35_6.2.9200.16384_en-us_d5b4ad04cde7f018
+
+07/26/2012  02:48 AM            14,336 dnscmmc.dll.mui
+               1 File(s)         14,336 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..ient-core.resources_31bf3856ad364e35_6.2.9200.16384_en-us_700cade28b015423
+
+07/26/2012  02:48 AM            69,120 dnsapi.dll.mui
+07/26/2012  02:48 AM             3,072 dnsrslvr.dll.mui
+               2 File(s)         72,192 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..lient-adm.resources_31bf3856ad364e35_6.2.9200.16384_en-us_9040f6896f5d3e41
+
+07/26/2012  02:49 AM            31,340 DnsClient.adml
+               1 File(s)         31,340 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..lient-wmiv2provider_31bf3856ad364e35_6.2.9200.16384_none_faa3423dfb7187a5
+
+07/25/2012  10:05 PM           191,488 dnsclientpsprovider.dll
+06/02/2012  09:31 AM            17,850 DnsClientPSProvider.Format.ps1xml
+06/02/2012  09:31 AM            14,644 dnsclientpsprovider.mof
+06/17/2012  11:08 AM             4,788 DnsClientPSProvider.Types.ps1xml
+06/02/2012  09:31 AM             1,278 dnsclientpsprovider_Uninstall.mof
+06/02/2012  09:31 AM             5,188 PS_DnsClientNRPTGlobal_v1.0.0.cdxml
+06/02/2012  09:31 AM             1,704 PS_DnsClientNrptPolicy_v1.0.0.cdxml
+06/17/2012  11:08 AM            18,650 PS_DnsClientNRPTRule_v1.0.0.cdxml
+               8 File(s)        255,590 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..lperclass.resources_31bf3856ad364e35_6.2.9200.16384_en-us_e94878360184bdb9
+
+07/26/2012  02:48 AM             7,680 dnshc.dll.mui
+               1 File(s)          7,680 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..owershell.resources_31bf3856ad364e35_6.2.9200.16384_en-us_9339ea9551215b88
+
+07/26/2012  02:48 AM             3,072 dnsclientcim.dll.mui
+07/26/2012  02:48 AM                25 dnsclientcim.mfl
+               2 File(s)          3,097 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..t-lookup-powershell_31bf3856ad364e35_6.2.9200.16384_none_c414280d4f055403
+
+06/02/2012  09:31 AM            61,640 DnsCmdlets.Format.ps1xml
+06/02/2012  09:31 AM            22,151 DnsCmdlets.Types.ps1xml
+07/25/2012  06:02 PM            40,960 dnslookup.dll
+               3 File(s)        124,751 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-d..tion-wmi-powershell_31bf3856ad364e35_6.2.9200.16384_none_7bc7d60e9a501d7f
+
+06/02/2012  09:31 AM             1,677 DnsClient.psd1
+07/25/2012  10:05 PM           121,856 dnsclientcim.dll
+06/02/2012  09:31 AM            63,472 dnsclientcim.mof
+06/02/2012  09:31 AM            20,344 DnsConfig.Format.ps1xml
+06/02/2012  09:31 AM             1,098 DnsConfig.Types.ps1xml
+06/02/2012  09:31 AM             4,504 MSFT_DnsClient.cdxml
+06/02/2012  09:31 AM             4,130 MSFT_DnsClientCache.cdxml
+06/02/2012  09:31 AM             1,306 MSFT_DnsClientGlobalSetting.cdxml
+06/02/2012  09:31 AM             3,613 MSFT_DnsClientServerAddress.cdxml
+               9 File(s)        222,000 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_ee555b24ace9cfdd
+
+07/25/2012  10:05 PM           604,672 dnsapi.dll
+07/25/2012  10:05 PM           210,432 dnsrslvr.dll
+               2 File(s)        815,104 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002
+
+09/20/2012  01:31 AM           604,672 dnsapi.dll
+09/20/2012  01:31 AM           210,432 dnsrslvr.dll
+               2 File(s)        815,104 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_ef1cd87fc5d97923
+
+09/20/2012  01:30 AM           604,672 dnsapi.dll
+09/20/2012  01:30 AM           210,432 dnsrslvr.dll
+               2 File(s)        815,104 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-clientextension_31bf3856ad364e35_6.2.9200.16384_none_c90f8f14b7adf287
+
+07/25/2012  10:05 PM             9,728 dnsext.dll
+               1 File(s)          9,728 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_d31a36f34f88ca61
+
+07/25/2012  11:50 PM           135,168 dnscmmc.dll
+               1 File(s)        135,168 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-client_31bf3856ad364e35_6.2.9200.16384_none_3aac24420c1d9962
+
+07/25/2012  10:08 PM            30,720 dnscacheugc.exe
+               1 File(s)         30,720 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dns-license_31bf3856ad364e35_6.2.9200.16384_none_cf92d57cb9bd934c
+
+07/25/2012  11:43 PM             2,902 DNS-Client-license-ppdlic.xrm-ms
+               1 File(s)          2,902 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dnsclient-adm_31bf3856ad364e35_6.2.9200.16384_none_afc8eded9c0d23fa
+
+06/02/2012  09:30 AM            13,460 DnsClient.admx
+               1 File(s)         13,460 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-dnshelperclass_31bf3856ad364e35_6.2.9200.16384_none_d10946fc1a49140c
+
+07/25/2012  10:05 PM           100,352 dnshc.dll
+               1 File(s)        100,352 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-i..l-keyboard-0000046c_31bf3856ad364e35_6.2.9200.16384_none_5637a9fbdfbb6ba5
+
+07/25/2012  09:33 PM             8,192 KBDNSO.DLL
+               1 File(s)          8,192 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16384_none_6aacba37061ea19d
+
+06/02/2012  09:33 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:33 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:33 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:33 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:33 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba
+
+06/02/2012  09:33 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:33 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:33 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:33 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:33 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.20604_none_6b8cda2e1efb5c2d
+
+06/02/2012  09:33 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:33 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:33 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:33 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:33 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-m..acementmanifests-ds_31bf3856ad364e35_6.2.9200.16384_none_80094f3b6f898780
+
+06/21/2012  02:03 PM               802 DNS-Server-Role-Replacement.man
+06/02/2012  09:30 AM               634 DNS-Server-Tools-Replacement.man
+               2 File(s)          1,436 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-m..evelmanifests-minio_31bf3856ad364e35_6.2.9200.16384_none_71c81d20f6cbb85b
+
+06/02/2012  09:30 AM             3,754 DNS-Client-DL.man
+               1 File(s)          3,754 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_microsoft-windows-m..wnlevelmanifests-ds_31bf3856ad364e35_6.2.9200.16384_none_f382528df0729efc
+
+06/02/2012  09:30 AM             2,305 DNS-Server-Service-DL.man
+               1 File(s)          2,305 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_fcd7c63d412d80cd
+
+07/25/2012  10:08 PM            71,168 wlidnsp.dll
+               1 File(s)         71,168 bytes
+
+ Directory of C:\Windows\WinSxS\amd64_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_c0d50b95ee7111f0
+
+07/26/2012  02:48 AM             2,048 wlidNSP.dll.mui
+               1 File(s)          2,048 bytes
+
+ Directory of C:\Windows\WinSxS\Backup
+
+07/26/2012  02:49 AM            69,120 amd64_microsoft-windows-d..ient-core.resources_31bf3856ad364e35_6.2.9200.16384_en-us_700cade28b015423_dnsapi.dll.mui_97465f8a
+07/26/2012  02:49 AM             3,072 amd64_microsoft-windows-d..ient-core.resources_31bf3856ad364e35_6.2.9200.16384_en-us_700cade28b015423_dnsrslvr.dll.mui_1e1a1ed1
+01/11/2013  04:10 AM            22,286 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002.manifest
+01/11/2013  04:10 AM           604,672 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002_dnsapi.dll_c81f5791
+01/11/2013  04:10 AM           210,432 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002_dnsrslvr.dll_faf65b7a
+02/21/2013  10:39 AM             7,111 amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba_msft_netdnstransitionconfiguration.cdxml_b4eb5908
+02/21/2013  10:39 AM             1,875 amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba_msft_netdnstransitionconfiguration.format.ps1xml_b1460d8a
+02/21/2013  10:39 AM             1,214 amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba_msft_netdnstransitionconfiguration.types.ps1xml_c95bd112
+02/21/2013  10:39 AM               460 amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba_msft_netdnstransitionmonitoring.cdxml_61669ec8
+02/21/2013  10:39 AM             1,491 amd64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_6aa4ed0f062406ba_msft_netdnstransitionmonitoring.format.ps1xml_de934af6
+07/26/2012  02:49 AM            69,120 wow64_microsoft-windows-d..ient-core.resources_31bf3856ad364e35_6.2.9200.16384_en-us_7a615834bf62161e_dnsapi.dll.mui_97465f8a
+01/11/2013  04:09 AM            18,396 wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_f8e6e5bce11d81fd.manifest
+01/11/2013  04:09 AM           461,824 wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_f8e6e5bce11d81fd_dnsapi.dll_c81f5791
+02/21/2013  10:38 AM             7,111 wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5_msft_netdnstransitionconfiguration.cdxml_b4eb5908
+02/21/2013  10:38 AM             1,875 wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5_msft_netdnstransitionconfiguration.format.ps1xml_b1460d8a
+02/21/2013  10:38 AM             1,214 wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5_msft_netdnstransitionconfiguration.types.ps1xml_c95bd112
+02/21/2013  10:38 AM               460 wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5_msft_netdnstransitionmonitoring.cdxml_61669ec8
+02/21/2013  10:38 AM             1,491 wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5_msft_netdnstransitionmonitoring.format.ps1xml_de934af6
+              18 File(s)      1,483,224 bytes
+
+ Directory of C:\Windows\WinSxS\FileMaps
+
+07/26/2012  03:11 AM             2,228 $$_system32_windowspowershell_v1.0_modules_dnsclient_b0c2aebd089fe246.cdf-ms
+07/26/2012  03:11 AM             2,244 $$_syswow64_windowspowershell_v1.0_modules_dnsclient_0e31ffd6bacbb67e.cdf-ms
+               2 File(s)          4,472 bytes
+
+ Directory of C:\Windows\WinSxS\Manifests
+
+07/25/2012  11:43 PM            85,162 amd64_microsoft-windows-dns-client-core_31bf3856ad364e35_6.2.9200.16384_none_d20b409348c0609e.manifest
+07/25/2012  11:44 PM            21,999 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_ee555b24ace9cfdd.manifest
+09/20/2012  03:03 AM            22,286 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_ee923b6aacbcc002.manifest
+09/20/2012  03:04 AM            22,286 amd64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_ef1cd87fc5d97923.manifest
+07/25/2012  11:58 PM             2,586 amd64_microsoft-windows-dns-client-winrnr_31bf3856ad364e35_6.2.9200.16384_none_b217fa53d9da6d61.manifest
+07/25/2012  11:56 PM             2,152 amd64_microsoft-windows-dns-clientextension_31bf3856ad364e35_6.2.9200.16384_none_c90f8f14b7adf287.manifest
+07/25/2012  11:56 PM             7,694 amd64_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_d31a36f34f88ca61.manifest
+07/25/2012  11:58 PM             5,803 amd64_microsoft-windows-dns-client_31bf3856ad364e35_6.2.9200.16384_none_3aac24420c1d9962.manifest
+07/25/2012  11:44 PM             2,072 amd64_microsoft-windows-dns-license_31bf3856ad364e35_6.2.9200.16384_none_cf92d57cb9bd934c.manifest
+07/25/2012  11:44 PM             2,800 amd64_microsoft-windows-dnsclient-adm_31bf3856ad364e35_6.2.9200.16384_none_afc8eded9c0d23fa.manifest
+07/25/2012  11:57 PM            18,113 amd64_microsoft-windows-dnshelperclass_31bf3856ad364e35_6.2.9200.16384_none_d10946fc1a49140c.manifest
+07/25/2012  11:58 PM             3,213 amd64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_fcd7c63d412d80cd.manifest
+07/26/2012  02:47 AM             2,501 amd64_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_c0d50b95ee7111f0.manifest
+07/25/2012  10:30 PM            83,502 wow64_microsoft-windows-dns-client-core_31bf3856ad364e35_6.2.9200.16384_none_dc5feae57d212299.manifest
+07/25/2012  10:30 PM            18,127 wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_f8aa0576e14a91d8.manifest
+09/20/2012  01:45 AM            18,396 wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_f8e6e5bce11d81fd.manifest
+09/20/2012  02:33 AM            18,396 wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_f97182d1fa3a3b1e.manifest
+07/25/2012  10:40 PM             3,211 wow64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_072c708f758e42c8.manifest
+07/25/2012  10:40 PM             2,582 x86_microsoft-windows-dns-client-winrnr_31bf3856ad364e35_6.2.9200.16384_none_55f95ed0217cfc2b.manifest
+07/25/2012  10:42 PM             7,690 x86_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_76fb9b6f972b592b.manifest
+07/26/2012  02:47 AM             2,499 x86_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_64b670123613a0ba.manifest
+              21 File(s)        353,070 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-d..ient-core.resources_31bf3856ad364e35_6.2.9200.16384_en-us_7a615834bf62161e
+
+07/26/2012  02:48 AM            69,120 dnsapi.dll.mui
+               1 File(s)         69,120 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-d..lient-wmiv2provider_31bf3856ad364e35_6.2.9200.16384_none_04f7ec902fd249a0
+
+06/02/2012  09:31 AM            17,850 DnsClientPSProvider.Format.ps1xml
+06/17/2012  11:08 AM             4,788 DnsClientPSProvider.Types.ps1xml
+06/02/2012  09:31 AM             5,188 PS_DnsClientNRPTGlobal_v1.0.0.cdxml
+06/02/2012  09:31 AM             1,704 PS_DnsClientNrptPolicy_v1.0.0.cdxml
+06/17/2012  11:08 AM            18,650 PS_DnsClientNRPTRule_v1.0.0.cdxml
+               5 File(s)         48,180 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-d..tion-wmi-powershell_31bf3856ad364e35_6.2.9200.16384_none_861c8060ceb0df7a
+
+06/02/2012  09:31 AM             1,677 DnsClient.psd1
+06/02/2012  09:31 AM            20,344 DnsConfig.Format.ps1xml
+06/02/2012  09:31 AM             1,098 DnsConfig.Types.ps1xml
+06/02/2012  09:31 AM             4,504 MSFT_DnsClient.cdxml
+06/02/2012  09:31 AM             4,130 MSFT_DnsClientCache.cdxml
+06/02/2012  09:31 AM             1,306 MSFT_DnsClientGlobalSetting.cdxml
+06/02/2012  09:31 AM             3,613 MSFT_DnsClientServerAddress.cdxml
+               7 File(s)         36,672 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16384_none_f8aa0576e14a91d8
+
+07/25/2012  10:18 PM           461,312 dnsapi.dll
+               1 File(s)        461,312 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.16420_none_f8e6e5bce11d81fd
+
+09/20/2012  12:53 AM           461,824 dnsapi.dll
+               1 File(s)        461,824 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-dns-client-minwin_31bf3856ad364e35_6.2.9200.20521_none_f97182d1fa3a3b1e
+
+09/20/2012  12:54 AM           461,824 dnsapi.dll
+               1 File(s)        461,824 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-i..l-keyboard-0000046c_31bf3856ad364e35_6.2.9200.16384_none_608c544e141c2da0
+
+07/25/2012  09:43 PM             7,680 KBDNSO.DLL
+               1 File(s)          7,680 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16384_none_750164893a7f6398
+
+06/02/2012  09:32 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:32 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:32 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:32 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:32 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.16497_none_74f997613a84c8b5
+
+06/02/2012  09:32 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:32 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:32 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:32 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:32 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-i..oexistencemigration_31bf3856ad364e35_6.2.9200.20604_none_75e18480535c1e28
+
+06/02/2012  09:32 AM             7,111 MSFT_NetDnsTransitionConfiguration.cdxml
+06/02/2012  09:32 AM             1,875 MSFT_NetDnsTransitionConfiguration.format.ps1xml
+06/02/2012  09:32 AM             1,214 MSFT_NetDnsTransitionConfiguration.types.ps1xml
+06/02/2012  09:32 AM               460 MSFT_NetDnsTransitionMonitoring.cdxml
+06/02/2012  09:32 AM             1,491 MSFT_NetDnsTransitionMonitoring.format.ps1xml
+               5 File(s)         12,151 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-m..acementmanifests-ds_31bf3856ad364e35_6.2.9200.16384_none_8a5df98da3ea497b
+
+06/21/2012  02:03 PM               802 DNS-Server-Role-Replacement.man
+06/02/2012  09:30 AM               634 DNS-Server-Tools-Replacement.man
+               2 File(s)          1,436 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_microsoft-windows-m..wnlevelmanifests-ds_31bf3856ad364e35_6.2.9200.16384_none_fdd6fce024d360f7
+
+06/02/2012  09:30 AM             2,305 DNS-Server-Service-DL.man
+               1 File(s)          2,305 bytes
+
+ Directory of C:\Windows\WinSxS\wow64_windows-id-connecte..nt-provider-wlidnsp_31bf3856ad364e35_6.2.9200.16384_none_072c708f758e42c8
+
+07/25/2012  10:20 PM            46,592 wlidnsp.dll
+               1 File(s)         46,592 bytes
+
+ Directory of C:\Windows\WinSxS\x86_microsoft-windows-d..entsnapin.resources_31bf3856ad364e35_6.2.9200.16384_en-us_79961181158a7ee2
+
+07/26/2012  02:48 AM            14,336 dnscmmc.dll.mui
+               1 File(s)         14,336 bytes
+
+ Directory of C:\Windows\WinSxS\x86_microsoft-windows-d..t-lookup-powershell_31bf3856ad364e35_6.2.9200.16384_none_67f58c8996a7e2cd
+
+06/02/2012  09:31 AM            61,640 DnsCmdlets.Format.ps1xml
+06/02/2012  09:31 AM            22,151 DnsCmdlets.Types.ps1xml
+07/25/2012  06:01 PM            40,960 dnslookup.dll
+               3 File(s)        124,751 bytes
+
+ Directory of C:\Windows\WinSxS\x86_microsoft-windows-dns-clientsnapin_31bf3856ad364e35_6.2.9200.16384_none_76fb9b6f972b592b
+
+07/25/2012  10:36 PM           129,024 dnscmmc.dll
+               1 File(s)        129,024 bytes
+
+ Directory of C:\Windows\WinSxS\x86_windows-id-connecte..r-wlidnsp.resources_31bf3856ad364e35_6.2.9200.16384_en-us_64b670123613a0ba
+
+07/26/2012  02:48 AM             2,048 wlidNSP.dll.mui
+               1 File(s)          2,048 bytes
+
+     Total Files Listed:
+             235 File(s)     11,187,536 bytes
+              21 Dir(s)  189,086,416,896 bytes free

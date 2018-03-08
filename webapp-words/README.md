@@ -1,13 +1,14 @@
-burp-word-list: word list taken from Burp Proxy attack tool  
-dirb-list-words: file names taken from dirb's wordlists folder and parsed  
-drupal-modules-list: Drupal modules list from `nselib/data/drupal-modules.lst`  
-drupal-themes-list: Drupal themes list from `nselib/data/drupal-themes.lst`  
-phpx-all-words: words uniquely parsed from all php files in webapp-files  
+burp-word-list: word list taken from [Burp Proxy](https://portswigger.net/burp "Burp Suite Scanner") attack tool  
+dirb-list-words: file names taken parsed from the [dirb](https://dirb.sourceforge.net) `wordlists` folder 
+drupal-modules-list: [Drupal](https://www.drupal.org/) modules list from `nselib/data/drupal-modules.lst`  
+drupal-themes-list: [Drupal](https://www.drupal.org/) themes list from `nselib/data/drupal-themes.lst`  
+phpx-all-words: words uniquely parsed from all [PHP](http://www.php.net) files in `webapp-files`  
 private-word-names: words that form private file names after extension appendage  
 services-word-names: list of service names potentially found in a web app  
-skipfish-word-names: words to form files with extensions from skipfish scanner  
+skipfish-word-names: words to form files with extensions from [skipfish](https://code.google.com/archive/p/skipfish/ "Skipfish is an active web application security reconnaissance tool") scanner  
+splunk-public-terms: words related to server and browser side web technologies.. the `etc/anonymizer/public-terms.txt` file from a [Splunk](https://www.splunk.com/) install  
 various-common-words: words that are commonly used to name files in web apps  
 webapp-words-combined: words from all of the above files uniquely combined  
-wordpress-plugins-list: WordPress plugins list from `nselib/data/wp-plugins.lst`  
-wordpress-themes-list: WordPress themes list from `nselib/data/wp-themes.lst`  
-wordpress-timthumbs-paths: template strings for paths to wordpress files  
+wordpress-plugins-list: [WordPress plugins](https://wordpress.org/plugins/ "WordPress Plugins") list from `nselib/data/wp-plugins.lst`  
+wordpress-themes-list: [WordPress themes](https://wordpress.org/themes/ "WordPress Themes") list from `nselib/data/wp-themes.lst`  
+wordpress-timthumbs-paths: template strings for paths to [WordPress](https://wordpress.org/) files  
