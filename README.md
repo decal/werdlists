@@ -15,24 +15,24 @@
 ```
 * * *
 
-# Brief Introduction to `werdlists`
+# Brief Introduction to `werdlists` `:book:`
 
 This project is a collection of word lists--they are mostly whitespace-delimited
-or line-based.  Although the `passes-dicts` folder contains inputs for password
-crackers, overall the files amassed here are intended to be useful in helping to
+or line-based.  Although the `passes-dicts` folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
+overall the files amassed here are intended to be useful in helping to
 create insecure software states (with the help of a black-box fuzzer or scanning
-utility, for example.)  The vast majority of files are simply ASCII with UNIX 
-style line feeds. @decal
+utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII) with the UNIX
+style [newline](https://en.wikipedia.org/wiki/Newline).   
 
 ## Descriptions of selected folders sampled from `INDEX.md`
 
 | Folder Name | Description of Contents |
 |------------:|:------------------------|
-| [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
-| [http-security](tree/master/http-security) | HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-| [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX &circler;](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-| [telco-data](tree/master/telco-data) | POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) related information |  
-| [webapp-paths](tree/master/webapp-paths) | Path names related to web-based applications |  
+`:page_with_curl:` | [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
+`:closed_lock_with_key:` | [http-security](tree/master/http-security) | HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+`:computer:` | [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
+`:telephone:` | [telco-data](tree/master/telco-data) | PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
+`:surfer:` | [webapp-paths](tree/master/webapp-paths) | [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects
 
@@ -49,7 +49,7 @@ original hand-crafted contents, verification/management scripts, expanded concep
 The `scripts` folder consists of shell scripts used for repository maintenance.
 All scripts use bash syntax and some data files were generated with a script.
 Folder names are outlined in the `INDEX.md` file in the repository's root 
-directory.  All files in each folder are detailed in the local `index.md` file,
+directory.  All files in each folder are detailed in the local `README.md` file,
 but these lowercased index files describe the contents of each data file, as
 opposed to directory contents. Each folder has a **subject** name and storage
 **type** which are separated by a dash.
@@ -66,6 +66,6 @@ according to the commands in the `scripts/compress-large-files` bash script. In
 spite of the fact that this is a word lists project, I'm striving to restrict the
 size of each file to a healthy maximum for manageability purposes.
 The index file in the root folder (`INDEX.md`), as well as the indices in each 
-data directory (`index.md`) are formatted with markdown.
+data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec").  
 
 * * *

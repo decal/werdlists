@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* Move `INDEX.md` into the bottom of `README.md` as a markdown table..
 * Make a 1.0 release on GitHub
 * script to check each dir for missing `index.md` entries
 * `scripts/write-index-lines` after fixing missing index entries and commit/push/tweet!
