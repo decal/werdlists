@@ -26,8 +26,8 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 
 ## Descriptions of selected folders sampled from `INDEX.md`
 
-| Folder Name | Description of Contents |
-|------------:|:------------------------|
+| Emoji Icon | Folder Name | Description of Contents |
+|-----------:|:-----------:|:------------------------|
 `:page_with_curl:` | [dns-hostnames](tree/master/dns-hostnames) | The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
 `:closed_lock_with_key:` | [http-security](tree/master/http-security) | HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
 `:computer:` | [unix-data](tree/master/unix-data) | Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
