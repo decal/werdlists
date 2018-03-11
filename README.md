@@ -6,47 +6,41 @@
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/ "Made with Bash")
 
 * * *
-```
-                                           _____      __
-                   _      _____  _________/ / (_)____/ /______
-                  | | /| / / _ \/ ___/ __  / / / ___/ __/ ___/
-                  | |/ |/ /  __/ /  / /_/ / / (__  ) /_(__  )
-                  |__/|__/\___/_/   \__,_/_/_/____/\__/____/
-```
+[![werdlists](blob/master/logo.png)](https://github.com/decal/werdlists "werdlists")
 * * *
 
 # Brief Introduction to `werdlists` :clipboard:
 
-This project is a collection of word lists--they are mostly whitespace-delimited
-or line-based.  Although the `passes-dicts` folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
-overall the files amassed here are intended to be useful in helping to
-create insecure software states (with the help of a black-box fuzzer or scanning
-utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII) with the UNIX
+This project is a collection of word lists--they are mostly [whitespace-delimited](https://en.wikipedia.org/wiki/String_literal#Whitespace_delimiters)
+or line-based.  Although the [`passes-dicts`](tree/master/passes-dicts "Password Dictionaries")] folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
+overall the files amassed here are intended to be useful in facilitating
+the creation of insecure [program state](https://en.wikipedia.org/wiki/State_(computer_science)#Program_state "Program State") (with the help of a [black-box fuzzer](https://en.wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
+utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://www.unix.org/what_is_unix.html)
 style [newline](https://en.wikipedia.org/wiki/Newline).   
 
 ## Descriptions of selected folders sampled from `INDEX.md` :books:
 
-| Folder Name | Description of Contents |
-|------------:|:------------------------|
+| Folder Name                                | Description of Contents |
+|:-------------------------------------------|:------------------------|
 | [dns-hostnames](tree/master/dns-hostnames) | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
 | [http-security](tree/master/http-security) | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-| [unix-data](tree/master/unix-data) | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-| [telco-data](tree/master/telco-data) | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
-| [webapp-paths](tree/master/webapp-paths) | :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
+| [unix-data](tree/master/unix-data)         | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
+| [telco-data](tree/master/telco-data)       | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
+| [webapp-paths](tree/master/webapp-paths)   | :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
 If you're already familiar with established repositories such as 
-[fuzzdb](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[SecLists](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
+[`fuzzdb`](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
+[`SecLists`](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
 then `werdlists` is quite similar in mission as it's a centralized attack strings 
-and input data resource--just with its own unique style and organization, 
+and [input](https://en.wikipedia.org/wiki/Input_(computer_science)) data resource with its own unique style, organization, 
 original hand-crafted contents, verification/management scripts, expanded concepts, etc.
 `SecLists` is maintained by my colleague and co-worker at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com "Daniel Miessler").
 
 ## Description of the Repository Directory Hierarchy :nut_and_bolt:
 
-The `scripts` folder consists of shell scripts used for repository maintenance.
+The [`scripts`](https://github.com/decal/werdlists/tree/master/scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
 All scripts use bash syntax and some data files were generated with a script.
 Folder names are outlined in the `INDEX.md` file in the repository's root 
 directory.  All files in each folder are detailed in the local `README.md` file,

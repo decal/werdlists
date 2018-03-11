@@ -1,0 +1,557 @@
+#please send additions to malwaredomains1@gmail.com1 (remove numbers in email address)
+#this is a list of url shorteners  - for informational purposes only, not meant to be used as a blocklist
+#xil.in	##unverified
+#xn6.net	##unverified
+#xurl.ch	##unverified
+#zip.li	##unverified
+#zly.me	##unverified
+#zootit.com	##unverified
+jesais.fr	#http://www.jelev.eu/accueil.php
+aelita.fr	#http://www.jelev.eu/accueil.php
+jelev.eu	#http://www.jelev.eu/accueil.php
+jesais.fr	#http://www.jelev.eu/accueil.php
+jtefaisla.biz	#http://www.jelev.eu/accueil.php
+lacheun.com	#http://www.jelev.eu/accueil.php
+lyoko.eu	#http://www.jelev.eu/accueil.php
+mattemon.info	#http://www.jelev.eu/accueil.php
+monbe.be	#http://www.jelev.eu/accueil.php
+oueb.eu	#http://www.jelev.eu/accueil.php
+pourle.net	#http://www.jelev.eu/accueil.php
+* xana.fr	#http://www.jelev.eu/accueil.php
+smll.me	#http://smll.me
+06.hk	#http://urlshortener.org
+kwik.to	#http://sitelutions.com
+0rz.tw	#http://0rz.tw
+10.rs	#http://urlshortener.org
+1iny.com	#from http://urlshortener.org
+1kh.de	#http://urlshortener.org
+1link.in	#from http://longurl.org/services
+1tja.com
+1url.com	#http://www.mrbup.com
+2.gp	#from http://longurl.org/services
+2big.at	#from http://urlshortener.org
+2tr.net	#http://urlshortener.org
+2tu.us	#http://urlshortener.org
+3.ly	#http://urlshortener.org/one_character_url_shorteners/
+307.to	#from http://longurl.org/services
+#4h.biz
+4ms.me	#from http://longurl.org/services
+4nu.net
+4sq.com	#from http://longurl.org/services
+4url.cc	#from http://longurl.org/services
+55c.cc	#http://urlshortener.org
+6t4.us	#http://urlshortener.org
+6url.com	#from http://longurl.org/services
+7.ly	#from http://longurl.org/services
+7les.com	#from http://urlshortener.org
+98.to	#http://98.to/tc/home.asp
+a.gg	#from http://longurl.org/services
+a.nf	#from http://longurl.org/services
+a.nf	#http://urlshortener.org/one_character_url_shorteners/
+aa.cx	#from http://longurl.org/services
+abcurl.net	#from http://longurl.org/services
+abe5.com/#from http://urlshortener.org
+ad.vu	#from http://longurl.org/services
+adf.ly	#from http://longurl.org/services
+adjix.com	#from http://longurl.org/services
+afx.cc	#from http://longurl.org/services
+all.fuseurl.com	#from http://longurl.org/services
+alturl.com	#from http://longurl.org/services
+amzn.to	#from http://longurl.org/services
+ao.co.za	#from http://urlshortener.org
+apu.sh	#http://urlshortener.org
+ar.gy	#from http://longurl.org/services
+arm.in	#http://urlshortener.org
+arst.ch	#from http://longurl.org/services
+atu.ca	#from http://longurl.org/services
+ax.ag	#http://urlshortener.org
+azc.cc	#from http://longurl.org/services
+b00b.tk	#from http://urlshortener.org
+b23.ru	#from http://longurl.org/services
+b2l.me	#http://urlshortener.org
+bacn.me	#from http://longurl.org/services
+bcool.bz	#from http://longurl.org/services
+biglnk.com	#from http://urlshortener.org
+binged.it	#from http://longurl.org/services
+bit.ly	#from http://longurl.org/services
+bizj.us	#from http://longurl.org/services
+bizy.be	#from http://urlshortener.org
+bizz.cc	#from http://urlshortener.org
+bloat.me	#from http://longurl.org/services
+bpt.st	#http://urlshortener.org
+br.st	#http://urlshortener.org
+bravo.ly	#from http://longurl.org/services
+bsa.ly	#from http://longurl.org/services
+budurl.com	#from http://longurl.org/services
+canurl.com	#from http://urlshortener.org
+cd4.me	#http://urlshortener.org
+checkthislink.com	#from http://urlshortener.org
+chilp.it	#from http://longurl.org/services
+chrst.ph	#from http://urlshortener.org
+chs.mx	#http://urlshortener.org
+chzb.gr	#from http://longurl.org/services
+cl.lk	#from http://longurl.org/services
+clck.ru	#from http://urlshortener.org
+cli.gs	#http://urlshortener.org
+cliccami.info	#from http://longurl.org/services
+clickthru.ca	#from http://longurl.org/services
+clockurl.com	#from http://urlshortener.org
+clop.in	#from http://urlshortener.org
+coge.la
+conta.cc	#from http://longurl.org/services
+cort.as	#from http://urlshortener.org
+cot.ag	#from http://longurl.org/services
+cr.am	#http://urlshortener.org
+crks.me	#from http://longurl.org/services
+cru.ms	#http://urlshortener.org
+ctvr.us	#from http://longurl.org/services
+cut.by	#http://urlshortener.org
+cutt.us	#from http://longurl.org/services
+d3c.co
+dai.ly	#from http://longurl.org/services
+decenturl.com	#from http://longurl.org/services
+delivr.com	#from http://urlshortener.org
+devnull.at	#from http://urlshortener.org
+df9.net	#http://urlshortener.org
+dfl8.me	#from http://urlshortener.org
+dickensurl.com	#from http://urlshortener.org
+digbig.com	#from http://longurl.org/services
+digg.com	#from http://longurl.org/services
+disq.us	#from http://longurl.org/services
+dld.bz	#from http://longurl.org/services
+dlvr.it	#from http://longurl.org/services
+do.my	#from http://longurl.org/services
+doiop.com	#from http://urlshortener.org
+dopen.us	#from http://longurl.org/services
+drv2.com	#from http://urlshortener.org
+dwarfurl.com	#from http://urlshortener.org
+dz.ly	#http://urlshortener.org
+earlme.com	#from http://urlshortener.org
+easyurl.net	#from http://longurl.org/services
+eepurl.com	#from http://longurl.org/services
+eg3.net/#from http://urlshortener.org
+ekey.us	#from http://urlshortener.org
+elurl.com	#from http://urlshortener.org
+eweri.com	#from http://longurl.org/services
+fa.by	#from http://longurl.org/services
+fat.ly	#http://urlshortener.org
+fav.me	#from http://longurl.org/services
+fb.me	#from http://longurl.org/services
+fbshare.me	#from http://longurl.org/services
+ff.im	#from http://longurl.org/services
+fff.to	#from http://fff.to/
+fhurl.com	#from http://urlshortener.org
+fire.to	#from http://longurl.org/services
+firsturl.de	#from http://longurl.org/services
+firsturl.net	#from http://longurl.org/services
+flib.in	#from http://urlshortener.org
+flic.kr	#from http://longurl.org/services
+flq.us	#http://urlshortener.org
+fly2.ws	#from http://longurl.org/services
+flyfrm.com
+fon.gs	#from http://longurl.org/services
+forit.org	#from http://urlshortener.org
+forwarding.clockwatchers.com	#http://forwarding.clockwatchers.com
+freak.to	#from http://longurl.org/services
+fuseurl.com	#from http://longurl.org/services
+fuzzy.to	#from http://longurl.org/services
+fwd4.me	#from http://urlshortener.org
+fwib.net	#from http://longurl.org/services
+g.ro.lt	#from http://urlshortener.org
+gentleurl.net	#from http://urlshortener.org
+gizmo.do	#from http://longurl.org/services
+gl.am	#http://urlshortener.org
+gli.im
+go.9nl.com	#from http://longurl.org/services
+go.ign.com	#from http://longurl.org/services
+go.usa.gov	#from http://longurl.org/services
+go2.st	#http://urlshortener.org
+goo.gl	#from http://longurl.org/services
+good.ly	#from http://urlshortener.org
+gop.am	#http://urlshortener.org
+goshrink.com	#from http://longurl.org/services
+gsfn.info
+gu.ma	#http://urlshortener.org
+gurl.es	#from http://urlshortener.org
+hex.io	#from http://longurl.org/services
+hi2.com
+hiderefer.com	#from http://longurl.org/services
+hmm.ph	#from http://longurl.org/services
+hop.im	#http://urlshortener.org
+hostviet.biz	#from http://urlshortener.org
+hotshorturl.com	#from http://urlshortener.org
+hotshr.com	#from http://urlshortener.org
+href.in	#from http://longurl.org/services
+href.to	#from http://urlshortener.org
+hsblinks.com	#from http://longurl.org/services
+htxt.it	#from http://longurl.org/services
+hub.tm	#http://urlshortener.org
+huff.to	#from http://longurl.org/services
+hulu.com	#from http://longurl.org/services
+hurl.me	#from http://urlshortener.org
+hurl.ws	#from http://urlshortener.org
+icanhaz.com	#from http://urlshortener.org
+idek.net	#from http://urlshortener.org
+ikr.me	#http://urlshortener.org
+ilix.in	#from http://longurl.org/services
+imfy.us	#from http://urlshortener.org
+in2s.us	#from http://urlshortener.org
+inturl.com	#from http://urlshortener.org
+ion.so
+is.gd	#http://urlshortener.org
+it1.nl	#http://urlshortener.org
+ito.mx	#http://urlshortener.org
+its.my	#from http://longurl.org/services
+ix.lt	#from http://longurl.org/services
+j.mp	#from http://longurl.org/services
+jijr.com	#from http://longurl.org/services
+ju.nu	#http://urlshortener.org
+kaano.info	#from http://urlshortener.org
+ki.tl	#http://urlshortener.org
+kissa.be/#from http://urlshortener.org
+kiwiurl.com	#from http://urlshortener.org
+kl.am	#http://urlshortener.org
+klck.me	#from http://longurl.org/services
+korta.nu	#from http://urlshortener.org
+krunchd.com	#from http://urlshortener.org
+krz.ch	#http://urlshortener.org
+ks.gs
+kuerzer.de	#from http://urlshortener.org
+kxk.me	#http://urlshortener.org
+l.pr	#http://urlshortener.org/one_character_url_shorteners/
+l9k.net	#from http://longurl.org/services
+lamped.co.uk/#from http://urlshortener.org
+lat.ms	#from http://longurl.org/services
+lawurl.com
+lb.vg	#http://urlshortener.org
+liip.to	#from http://longurl.org/services
+liltext.com	#from http://longurl.org/services
+linkasa.com	#from http://urlshortener.org
+linkbee.com	#from http://urlshortener.org
+linkbun.ch	#from http://longurl.org/services
+linkfrog.net	#from http://urlshortener.org
+linkpeak.com	#from http://urlshortener.org
+liteurl.com	#from http://urlshortener.org
+liurl.cn	#from http://urlshortener.org
+lllll.im
+ln-s.net	#from http://longurl.org/services
+ln-s.ru	#from http://longurl.org/services
+lnk.by	#http://urlshortener.org
+lnk.gd	#from http://longurl.org/services
+lnk.ms	#from http://longurl.org/services
+lnkd.in	#from http://longurl.org/services
+lnkurl.com	#from http://longurl.org/services
+lru.jp	#from http://longurl.org/services
+lt.tl	#from http://longurl.org/services
+lurl.no	#from http://longurl.org/services
+lymme.com	#from http://urlshortener.org
+macte.ch	#from http://longurl.org/services
+mash.to	#from http://longurl.org/services
+memurl.com	#from http://urlshortener.org
+merky.de	#from http://longurl.org/services
+metamark.net	#http://urlshortener.org
+migre.me	#from http://longurl.org/services
+minify.me	#from http://urlshortener.org
+minilien.com	#from http://urlshortener.org
+minilink.org	#from http://urlshortener.org
+miniurl.com	#from http://longurl.org/services
+minu.me	#from http://urlshortener.org
+minurl.fr	#from http://longurl.org/services
+minyurl.net	#from http://urlshortener.org
+mke.me	#from http://longurl.org/services
+moby.to	#from http://longurl.org/services
+monbe.be
+moourl.com	#from http://urlshortener.org
+mrte.ch	#from http://longurl.org/services
+multiurl.com	#from http://urlshortener.org
+mylnk.us	#from http://urlshortener.org
+myloc.me	#from http://longurl.org/services
+myurl.in	#from http://urlshortener.org
+myurlz.com	#from http://urlshortener.org
+n.pr	#from http://longurl.org/services
+nbc.co	#from http://longurl.org/services
+nblo.gs	#from http://longurl.org/services
+ncane.com	#from http://urlshortener.org
+ne8.org	#http://urlshortener.org
+netnet.me	#from http://urlshortener.org
+ni2.in	#http://urlshortener.org
+ninjalink.com	#from http://urlshortener.org
+niy.me
+nn.nf	#from http://longurl.org/services
+no1.in	#http://urlshortener.org
+normalurl.com	#from http://urlshortener.org
+not.my	#from http://longurl.org/services
+notlong.com	#from http://urlshortener.org
+nsfw.in	#from http://longurl.org/services
+nutshellurl.com	#from http://longurl.org/services
+nuurl.us	#from http://urlshortener.org
+nxy.in	#from http://longurl.org/services
+nyti.ms	#from http://longurl.org/services
+nznet.info
+o-x.fr	#http://urlshortener.org
+oc1.us	#from http://longurl.org/services
+ohurl.com	#from http://urlshortener.org
+om.ly	#from http://longurl.org/services
+omf.gd	#from http://longurl.org/services
+omoikane.net	#from http://longurl.org/services
+on.cnn.com	#from http://longurl.org/services
+on.mktw.net	#from http://longurl.org/services
+onforb.es	#from http://longurl.org/services
+orkurl.com	#from http://urlshortener.org
+orz.se	#from http://longurl.org/services
+ow.ly	#http://urlshortener.org
+p.gs	#http://urlshortener.org/one_character_url_shorteners/
+p.ly	#http://urlshortener.org/one_character_url_shorteners/
+parv.us	#from http://urlshortener.org
+pic.gd	#http://urlshortener.org
+picsorlinks.com	#from http://urlshortener.org
+ping.fm	#from http://longurl.org/services
+piurl.com	#from http://urlshortener.org
+pli.gs	#from http://longurl.org/services
+pnt.me	#http://urlshortener.org
+politi.co	#from http://longurl.org/services
+ponyurl.com	#from http://urlshortener.org
+post.ly	#from http://longurl.org/services
+pp.gg	#from http://longurl.org/services
+pr0n.net	#from http://urlshortener.org
+profile.to	#from http://longurl.org/services
+ptiturl.com	#from http://urlshortener.org
+pub.vitrue.com	#from http://longurl.org/services
+pwr.com	#http://urlshortener.org
+qlnk.net	#from http://urlshortener.org
+qte.me	#from http://longurl.org/services
+qu.tc	#from http://longurl.org/services
+qurlyq.com	#from http://urlshortener.org
+quu.nu	#http://urlshortener.org
+qwer.org	#from http://urlshortener.org
+qwx.si	#http://urlshortener.org
+qy.fi	#from http://longurl.org/services
+r.im	#from http://longurl.org/services
+rb6.me	#http://urlshortener.org
+rcez.info	#from http://urlshortener.org
+rde.me	#http://urlshortener.org
+read.bi	#from http://longurl.org/services
+readthis.ca	#from http://longurl.org/services
+reallytinyurl.com	#from http://longurl.org/services
+redir.ec	#from http://longurl.org/services
+redir.ec	#from http://urlshortener.org
+redirects.ca	#from http://longurl.org/services
+redirx.com	#from http://urlshortener.org
+relurl.com	#from http://urlshortener.org
+retwt.me	#from http://urlshortener.org
+ri.ms	#from http://longurl.org/services
+rickroll.it	#from http://longurl.org/services
+riz.gd	#from http://longurl.org/services
+rt.nu	#from http://longurl.org/services
+ru.ly	#from http://longurl.org/services
+rubyurl.com	#from http://longurl.org/services
+rurl.org	#from http://longurl.org/services
+rww.tw	#from http://longurl.org/services
+s4c.in	#from http://longurl.org/services
+s7y.us	#http://urlshortener.org
+safe.mn	#from http://longurl.org/services
+sameurl.com	#from http://longurl.org/services
+scrnch.me	#from http://urlshortener.org
+sdut.us	#from http://longurl.org/services
+sendtourl.com
+shar.es	#from http://longurl.org/services
+shink.de	#from http://longurl.org/services
+sho.li	#http://urlshortener.org
+shoor.tk
+shorl.com	#from http://urlshortener.org
+short.ie	#from http://longurl.org/services
+short.to	#from http://urlshortener.org
+shorten.ws	#from http://urlshortener.org
+shortlinks.co.uk	#from http://longurl.org/services
+shortna.me	#from http://urlshortener.org
+shortner.com	#from http://urlshortener.org
+shorturl.com	#from http://longurl.org/services
+shout.to	#from http://longurl.org/services
+show.my	#from http://longurl.org/services
+shrinkify.com	#from http://longurl.org/services
+shrinkr.com	#from http://longurl.org/services
+shrt.fr	#from http://longurl.org/services
+shrt.st	#from http://longurl.org/services
+shrten.com	#from http://longurl.org/services
+shrunkin.com	#from http://longurl.org/services
+shrvl.com	#from http://urlshortener.org
+shw.me	#http://urlshortener.org
+simurl.com	#from http://longurl.org/services
+simurl.com	#from http://urlshortener.org
+sl.ly	#http://urlshortener.org
+slate.me	#from http://longurl.org/services
+slnk.me	#from http://urlshortener.org
+smal.ly	#from http://urlshortener.org
+smallr.com	#from http://urlshortener.org
+smlurl.info
+smrls.tk	#from http://urlshortener.org
+smsh.me	#from http://longurl.org/services
+smurl.lv	#from http://urlshortener.org
+smurl.name	#from http://longurl.org/services
+sn.im	#from http://longurl.org/services
+snipr.com	#from http://longurl.org/services
+snipurl.com	#from http://urlshortener.org
+snurl.com	#from http://longurl.org/services
+sp2.ro	#http://urlshortener.org
+spedr.com	#from http://longurl.org/services
+sqze.it#http://long-shore.com/expand
+sra.li
+srnk.it	#from http://urlshortener.org
+srnk.net	#from http://longurl.org/services
+srs.li	#from http://longurl.org/services
+starturl.com	#from http://urlshortener.org
+sturly.com	#from http://urlshortener.org
+su.pr	#http://urlshortener.org
+surl.co.uk	#from http://longurl.org/services
+surl.co.uk	#from http://urlshortener.org
+surl.hu	#from http://longurl.org/services
+t.co	#from http://longurl.org/services
+t.lh.com	#from http://longurl.org/services
+ta.gd	#http://urlshortener.org
+tak.bz	#http://urlshortener.org
+takeme.to	#from http://urlshortener.org
+tbd.ly	#from http://longurl.org/services
+tcrn.ch	#from http://longurl.org/services
+te.tl	#http://urlshortener.org
+tgr.me	#from http://longurl.org/services
+tgr.ph	#from http://longurl.org/services
+thecow.me	#from http://urlshortener.org
+tighturl.com	#from http://urlshortener.org
+tiniuri.com	#from http://longurl.org/services
+tiny.cc	#from http://urlshortener.org
+tiny.ly	#from http://longurl.org/services
+tiny.pl	#from http://urlshortener.org
+tiny.tw
+tiny2go.com	#from http://urlshortener.org
+tinyftw.com	#from http://urlshortener.org
+tinylink.in	#from http://longurl.org/services
+tinyuri.ca	#from http://longurl.org/services
+tinyurl.com	#from http://urlshortener.org
+tl.gd	#from http://longurl.org/services
+tmi.me	#from http://longurl.org/services
+tnij.org	#from http://longurl.org/services
+tnw.to	#from http://longurl.org/services
+tny.com	#from http://longurl.org/services
+to.ly	#from http://longurl.org/services
+togoto.us	#from http://longurl.org/services
+totc.us	#from http://longurl.org/services
+toysr.us	#from http://longurl.org/services
+tpm.ly	#from http://longurl.org/services
+tr.im	#from http://longurl.org/services
+tra.kz	#http://urlshortener.org
+trunc.it	#from http://urlshortener.org
+tuaurl.com	#from http://urlshortener.org
+turls.me	#from http://urlshortener.org
+tutz.me	#from http://urlshortener.org
+tw3.it	#http://urlshortener.org
+tweak.tk/#from http://urlshortener.org
+tweez.me	#from http://urlshortener.org
+twhub.com	#from http://longurl.org/services
+twi.tl	#http://urlshortener.org
+twirl.at	#from http://longurl.org/services
+twitclicks.com	#from http://longurl.org/services
+twitterto.com	#from http://urlshortener.org
+twitterurl.net	#from http://urlshortener.org
+twitterurl.org	#from http://longurl.org/services
+twiturl.de	#from http://urlshortener.org
+twurl.cc	#from http://longurl.org/services
+twurl.nl	#from http://urlshortener.org
+u.go2.me	#from http://urlshortener.org
+u.mavrev.com	#from http://longurl.org/services
+u.nu	#from http://longurl.org/services
+u76.org	#from http://longurl.org/services
+ub0.cc	#from http://longurl.org/services
+ulu.lu	#from http://longurl.org/services
+updating.me	#from http://longurl.org/services
+ur1.ca	#from http://longurl.org/services
+url.az	#from http://longurl.org/services
+url.co.uk	#from http://longurl.org/services
+url.ie	#http://urlshortener.org
+url.in.it
+url.to.it	#from http://urlshortener.org
+url360.me	#from http://longurl.org/services
+url4.eu	#from http://longurl.org/services
+urlbit.us	#from http://urlshortener.org
+urlborg.com	#from http://longurl.org/services
+urlbrief.com	#from http://longurl.org/services
+urlcover.com	#from http://urlshortener.org
+urlcut.com	#from http://longurl.org/services
+urlenco.de	#from http://longurl.org/services
+urli.nl	#from http://longurl.org/services
+urlit.net	#from http://urlshortener.org
+urlminifier.com	#from http://urlshortener.org
+urlmorph.com	#from http://urlshortener.org
+urlpire.com	#from http://urlshortener.org
+urls.im	#from http://longurl.org/services
+urlx.ie	#from http://longurl.org/services
+urlxp.com	#from http://urlshortener.org
+urlzen.com	#from http://longurl.org/services
+usat.ly	#from http://longurl.org/services
+use.my	#from http://longurl.org/services
+ushort.co.uk	#from http://urlshortener.org
+ux.lv	#http://urlshortener.org
+vani.sh	#from http://urlshortener.org
+vb.ly	#from http://longurl.org/services
+vgn.am	#from http://longurl.org/services
+viewista.com	#from http://urlshortener.org
+virl.com	#from http://urlshortener.org
+vl.am	#from http://longurl.org/services
+vm.lc	#from http://longurl.org/services
+vs0.net
+w0p.de	#http://urlshortener.org
+w55.de	#from http://longurl.org/services
+wapo.st	#from http://longurl.org/services
+wapurl.co.uk	#from http://longurl.org/services
+webalias.com	#http://urlshortener.org
+weshort.in	#from http://urlshortener.org
+whit.me	#from http://urlshortener.org
+widg.me
+wipi.es	#from http://longurl.org/services
+wp.me	#from http://longurl.org/services
+wurl.ca	#from http://urlshortener.org
+wurl.ws	#from http://urlshortener.org
+wva.gd	#http://urlshortener.org
+wwb.in	#http://urlshortener.org
+x.co	#http://app.x.co/
+x.se	#http://urlshortener.org/one_character_url_shorteners/
+x.vu	#http://urlshortener.org/one_character_url_shorteners/
+x2t.com	#http://urlshortener.org
+xa.ly	#http://xa.ly/
+xaddr.com	#from http://urlshortener.org
+xiy.net	#http://urlshortener.org
+xpnd.it	#http://long-shore.com/expand
+xr.com	#http://urlshortener.org
+xrl.in	#from http://longurl.org/services
+xrl.us	#from http://longurl.org/services
+xurl.es	#from http://longurl.org/services
+xurl.jp	#from http://urlshortener.org
+y.ahoo.it	#from http://longurl.org/services
+yatuc.com	#from http://longurl.org/services
+ye.pe	#from http://longurl.org/services
+yep.it	#http://urlshortener.org
+yfrog.com	#from http://longurl.org/services
+yhoo.it	#from http://longurl.org/services
+yi.pe
+yiyd.com	#from http://longurl.org/services
+youtu.be	#from http://longurl.org/services
+yuarel.com	#from http://longurl.org/services
+yvy.me	#http://yvy.me/
+z.pe	#http://urlshortener.org/one_character_url_shorteners/
+z0p.de	#from http://longurl.org/services
+zapit.nu	#from http://urlshortener.org
+zeek.us	#from http://urlshortener.org
+zi.ma	#from http://longurl.org/services
+zi.mu	#from http://longurl.org/services
+zipmyurl.com	#from http://longurl.org/services
+ziprl.com	#from http://urlshortener.org
+zkracene.cz	#http://zkracene.cz/
+zolp.net
+zud.me	#from http://longurl.org/services
+zurl.ws	#from http://urlshortener.org
+zwap.to	#from http://urlshortener.org
+zxc9.com	#from http://urlshortener.org
+zz.gd	#from http://longurl.org/services
+zzang.kr	#from http://longurl.org/services
+zzz.ee	#http://urlshortener.org
+joturl.com	#http://www.joturl.comS
+co.nr	#http://www.freedomain.co.nr/
