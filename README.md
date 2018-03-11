@@ -9,7 +9,9 @@
 [![werdlists](logo.png)](# "werdlists")
 * * *
 
-# Brief Introduction to `werdlists` :clipboard:
+# Software Testing Word Lists and Vulnerability Assessment Attack Strings 
+
+## Brief Introduction to `werdlists` :clipboard:
 
 This project is a collection of word lists--they are mostly [whitespace-delimited](https://en.wikipedia.org/wiki/String_literal#Whitespace_delimiters)
 or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries") folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
@@ -20,13 +22,13 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 
 ## Descriptions of selected folders sampled from `INDEX.md` :books:
 
-| Folder Name                        | Description of Contents |
+|   Folder Name                      | Description of Contents |
 |:----------------------------------:|:------------------------|
-|   [dns-hostnames](dns-hostnames)   | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
-|   [http-security](http-security)   | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-|   [unix-data](unix-data)           | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-|   [telco-data](telco-data)         | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
-|   [webapp-paths](webapp-paths)     | :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
+|&nbsp;&nbsp;[dns-hostnames](dns-hostnames)&nbsp;&nbsp;| :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
+|&nbsp;&nbsp;[http-security](http-security)&nbsp;&nbsp;| :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+|&nbsp;&nbsp;[unix-data](unix-data)&nbsp;&nbsp;| :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
+|&nbsp;&nbsp;[telco-data](telco-data)&nbsp;&nbsp;| :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
+|&nbsp;&nbsp;[webapp-paths](webapp-paths)&nbsp;&nbsp;| :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
