@@ -1,18 +1,18 @@
 [![Twitter: @decalresponds](https://img.shields.io/badge/contact-@decalresponds-blue.svg)](https://twitter.com/decalresponds "@decalresponds")
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/decal/werdlists/issues/new "Ask Me Anything!")
-[![werdlists](https://img.shields.io/badge/werd-lists-lightgrey.svg)](https://github.com/decal/werdlists "werdlists")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](issues/new "Ask Me Anything!")
+[![werdlists](https://img.shields.io/badge/werd-lists-lightgrey.svg)](# "werdlists")
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0 "Apache License 2.0")
-[![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg)](https://github.com/decal/werdlists "repo-size")
+[![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg)](# "repo-size")
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/ "Made with Bash")
 
 * * *
-[![werdlists](logo.png)](https://github.com/decal/werdlists "werdlists")
+[![werdlists](logo.png)](# "werdlists")
 * * *
 
 # Brief Introduction to `werdlists` :clipboard:
 
 This project is a collection of word lists--they are mostly [whitespace-delimited](https://en.wikipedia.org/wiki/String_literal#Whitespace_delimiters)
-or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries")] folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
+or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries") folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
 overall the files amassed here are intended to be useful in facilitating
 the creation of insecure [program state](https://en.wikipedia.org/wiki/State_(computer_science)#Program_state "Program State") (with the help of a [black-box fuzzer](https://en.wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
 utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://www.unix.org/what_is_unix.html)
@@ -21,7 +21,7 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 ## Descriptions of selected folders sampled from `INDEX.md` :books:
 
 | Folder Name                                | Description of Contents |
-|:-------------------------------------------|:------------------------|
+|--------------------------------------------|:------------------------|
 | [dns-hostnames](dns-hostnames) | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
 | [http-security](http-security) | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
 | [unix-data](unix-data)         | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
@@ -31,8 +31,8 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
 If you're already familiar with established repositories such as 
-[`fuzzdb`](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[`SecLists`](https://github.com/danielmiessler/SecLists/ "The security tester's companion"), 
+[`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
+[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion"), 
 then `werdlists` is quite similar in mission as it's a centralized attack strings 
 and [input](https://en.wikipedia.org/wiki/Input_(computer_science)) data resource with its own unique style, organization, 
 original hand-crafted contents, verification/management scripts, expanded concepts, etc.
