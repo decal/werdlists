@@ -24,11 +24,11 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 
 |   Folder Name                      | Description of Contents |
 |:----------------------------------:|:------------------------|
-|&nbsp;&nbsp;[dns-hostnames](dns-hostnames)&nbsp;&nbsp;| :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
-|&nbsp;&nbsp;[http-security](http-security)&nbsp;&nbsp;| :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-|&nbsp;&nbsp;[unix-data](unix-data)&nbsp;&nbsp;| :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-|&nbsp;&nbsp;[telco-data](telco-data)&nbsp;&nbsp;| :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
-|&nbsp;&nbsp;[webapp-paths](webapp-paths)&nbsp;&nbsp;| :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
+|&nbsp;&nbsp;&nbsp;&nbsp;[dns-hostnames](dns-hostnames)&nbsp;&nbsp;&nbsp;&nbsp;| :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
+|&nbsp;&nbsp;&nbsp;&nbsp;[http-security](http-security)&nbsp;&nbsp;&nbsp;&nbsp;| :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+|&nbsp;&nbsp;&nbsp;&nbsp;[unix-data](unix-data)&nbsp;&nbsp;&nbsp;&nbsp;| :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
+|&nbsp;&nbsp;&nbsp;&nbsp;[telco-data](telco-data)&nbsp;&nbsp;&nbsp;&nbsp;| :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
+|&nbsp;&nbsp;&nbsp;&nbsp;[webapp-paths](webapp-paths)&nbsp;&nbsp;&nbsp;&nbsp;| :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
