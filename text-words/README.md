@@ -6,6 +6,7 @@ etc-anonymizer-names: copy of Splunk's `etc/anonymizer/names.txt`
 female-names-list: alphabetized and capitalized list of female names
 first-names-list: list of first names often used by people  
 fortune-global500-list: [Fortune 500](https://en.wikipedia.org/wiki/Fortune_500) companies list with rank, company name, revenue.. <http://fortune.com/global500/>  
+geographic-stop-words: geographical [stop words](https://en.wikipedia.org/wiki/Stop_words), i.e. words that are ignored during [natural language processing](https://en.wikipedia.org/wiki/Natural-language_processing)  
 infosec-glossary-terms: glossary of information security terminology  
 jargon-common-words: common information technology jargon words  
 jargon-common-bases: common base words in IT jargon  

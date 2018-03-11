@@ -5,6 +5,7 @@ best-1050-passes: a copy of the file `best1050.txt`
 default-passwords: a list of default passwords for various network devices  
 english-wikipedia-words: 10,000 most used words in the English [Wikipedia](https://en.wikipedia.org/)
 fifty-common-passwords: 50 common passwords that lack complexity  
+fgdump-uesrpass-list: list of usernames and passwords delimited by colon for use with the [fgdump](http://foofus.net/goons/fizzgig/fgdump/) tool  
 fuzzdb-passes-dicts: sorted and uniqifed fuzzdb `wordlists-user-passwds` folder  
 fuzzdb-unix-passwords: `unix_passwords.txt` file taken from [fuzzdb](https://github.com/fuzzdb-project/fuzzdb "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery")  
 fuzzdb-user-passwds: more passwords taken from [fuzzdb](https://github.com/fuzzdb-project/fuzzdb "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery")   
