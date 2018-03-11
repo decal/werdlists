@@ -1,6 +1,6 @@
 {
   "name": "werdlists",
-  "version": "0.8.8",
+  "version": "0.8.10",
   "description": "Text and other file formats consisting mostly of word lists organized for use in penetration testing",
   "author": "Derek Callaway",
   "license": "Apache License Version 2.0", 
