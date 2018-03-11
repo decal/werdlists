@@ -6,13 +6,13 @@
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/ "Made with Bash")
 
 * * *
-[![werdlists](blob/master/logo.png)](https://github.com/decal/werdlists "werdlists")
+[![werdlists](logo.png)](https://github.com/decal/werdlists "werdlists")
 * * *
 
 # Brief Introduction to `werdlists` :clipboard:
 
 This project is a collection of word lists--they are mostly [whitespace-delimited](https://en.wikipedia.org/wiki/String_literal#Whitespace_delimiters)
-or line-based.  Although the [`passes-dicts`](tree/master/passes-dicts "Password Dictionaries")] folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
+or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries")] folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
 overall the files amassed here are intended to be useful in facilitating
 the creation of insecure [program state](https://en.wikipedia.org/wiki/State_(computer_science)#Program_state "Program State") (with the help of a [black-box fuzzer](https://en.wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
 utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://www.unix.org/what_is_unix.html)
@@ -22,11 +22,11 @@ style [newline](https://en.wikipedia.org/wiki/Newline).
 
 | Folder Name                                | Description of Contents |
 |:-------------------------------------------|:------------------------|
-| [dns-hostnames](tree/master/dns-hostnames) | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
-| [http-security](tree/master/http-security) | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-| [unix-data](tree/master/unix-data)         | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-| [telco-data](tree/master/telco-data)       | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
-| [webapp-paths](tree/master/webapp-paths)   | :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
+| [dns-hostnames](dns-hostnames) | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
+| [http-security](http-security) | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://www.w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
+| [unix-data](unix-data)         | :computer: Data associated with various flavors of the [UNIX](http://www.unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
+| [telco-data](telco-data)       | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
+| [webapp-paths](webapp-paths)   | :surfer: [Path](https://en.wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
 
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
@@ -40,7 +40,7 @@ original hand-crafted contents, verification/management scripts, expanded concep
 
 ## Description of the Repository Directory Hierarchy :nut_and_bolt:
 
-The [`scripts`](https://github.com/decal/werdlists/tree/master/scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
+The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
 All scripts use bash syntax and some data files were generated with a script.
 Folder names are outlined in the `INDEX.md` file in the repository's root 
 directory.  All files in each folder are detailed in the local `README.md` file,
