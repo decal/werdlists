@@ -1,0 +1,10 @@
+(/|^).*
+*~
+*#
+core.*
+*example*
+*install
+*makefile
+*passwd*
+*readme*
+*,v

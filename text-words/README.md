@@ -12,6 +12,7 @@ jargon-common-words: common information technology jargon words
 jargon-common-bases: common base words in IT jargon  
 last-names-list: list of last names often used by people  
 linux-words-dict: words taken from `/usr/share/dict/words` on Linux install  
+obama-nobel-speech: [Barack Obama's 2009 Nobel Peace Prize](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize#Barack_Obama) award acceptance speech  
 one-hundred-thousand: the numbers 1-97935 with one on each line  
 not-found-translations: "Not Found" translations on [iBiblio](http://ibiblio.org)  
 reliable-passgen-wordlist: `wordlist.txt` from [BURP](https://github.com/jwmarshall/BURP "Beaituful Unique Reliable Password generator")   

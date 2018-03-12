@@ -1,0 +1,5 @@
+Contact: securityteam@mycompany.com
+Encryption: INSERTPGPKEYHERE_OR_LINKTOTXTFILEWITHKEY
+Policy: https://www.mycompany.com/linktosecuritypolicy
+Signature: https://www.mycompany.com/.well-known/security.txt.sig
+Hiring: https://www.mycompany.com/security_job_postings

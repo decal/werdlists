@@ -1,0 +1,14 @@
+document
+executable
+html
+java
+lex
+macro
+ms-dos
+perl
+python
+sgml
+shell
+troff
+troll
+xml

@@ -1,9 +1,9 @@
 errno-all-locales: the errno names and descriptions for all system locales  
 errno-description-list: errors in preprocessor constant, numeric and string form  
-free-bsd-groups: common GID names found in `/etc/group` on [FreeBSD](http://www.freebsd.com)    
-free-bsd-users: common UID names found in `/etc/passwd` on [FreeBSD](http://www.freebsd.com)    
-freebsd-sysctl-vars: [FreeBSD](http://www.freebsd.com) `sysctl(8)` variables with types and changeability  
-leap-seconds-list: list of leap seconds for computing international atomic time
+free-bsd-groups: common GID names found in [`/etc/group`](https://www.freebsd.org/cgi/man.cgi?group(5) "format of the group permissions file") on [FreeBSD](http://www.freebsd.com)    
+free-bsd-users: common UID names found in [`/etc/passwd`](https://www.freebsd.org/cgi/man.cgi?passwd(5) "format of the password file") on [FreeBSD](http://www.freebsd.com)    
+freebsd-sysctl-vars: [FreeBSD](http://www.freebsd.com) [`sysctl(8)`](https://www.freebsd.org/cgi/man.cgi?sysctl(8) "get or set kernel state") variables with types and changeability  
+leap-seconds-list: list of leap seconds for computing international atomic time  
 linux-error-strings: strings returned by [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf "WG14/N1256") function [strerror](https://linux.die.net/man/3/strerror "return string describing error number") on [Linux](https://www.linuxfoundation.org/)    
 locale-charmap-list: a list of all charmaps available with system locale info  
 locale-info-list: a list of all system locale identifier symbols  
@@ -13,14 +13,17 @@ macosx-brew-commands: commands available on a [MacOSX](https://en.wikipedia.org/
 macosx-server-group: common GID names found in `/etc/group` on [MacOSX](https://en.wikipedia.org/wiki/MacOS)     
 macosx-server-users: common UID names found in `/etc/passwd` on [MacOSX](https://en.wikipedia.org/wiki/MacOS)    
 msdos-command-list: list of [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS "MicroSoft Disk Operating System") commands  
-netbsd-error-strings: strings returned by C99 function strerror on [NetBSD](http://www.netbsd.com)    
+netbsd-error-strings: strings returned by C99 function [`strerror`](http://netbsd.gw.com/cgi-bin/man-cgi?strerror "system error messages") on [NetBSD](http://www.netbsd.com)    
 netbsd-procfs-paths: names of files located under the `/proc` directory on [NetBSD](http://www.netbsd.com)      
-netbsd-setid-files: set-ID file names only (i.e. `basename`) from [NetBSD](http://www.netbsd.com)    
+netbsd-setid-files: set-ID file names only (i.e. [`basename`](http://netbsd.gw.com/cgi-bin/man-cgi?basename "return filename or directory portion of pathname")) from [NetBSD](http://www.netbsd.com)    
 netbsd-setid-paths: the fully qualified pathnames to set-ID files on [NetBSD](http://www.netbsd.com)    
 netbsd-sgid-games: paths to executables that have the set-GID bit set on [NetBSD](http://www.netbsd.com)    
-netbsd-sysctl-list: symbols taken from [NetBSD](http://www.netbsd.com) `sysctl` entries  
-nmap-user-names: taken from nmap's `nselib/data/usernames.lst`  
+netbsd-sysctl-list: symbols taken from [NetBSD](http://www.netbsd.com) [`sysctl`](http://netbsd.gw.com/cgi-bin/man-cgi?sysctl "get or set kernel state") entries  
+nmap-user-names: taken from [NMap](https://nmap.org/ "Network Mapper") `nselib/data/usernames.lst`  
 real-users-list: list of user names taken from a real/live [UNIX](http://www.unix.org) system  
+splunk-bad-directories: directory names left out of default `splunkd` config  
+splunk-bad-filetypes: file types left out of default `splunkd` config  
+splunk-bad-fnmatches: [`fnmatch(3)` style wildcard patterns](https://www.gnu.org/software/libc/manual/html_node/Wildcard-Matching.html "Wildcard Matching") left out of default `splunkd` config  
 syslog-facility-values: [syslog](https://en.wikipedia.org/wiki/Syslog) system call facility values taken from [RFC3164](https://tools.ietf.org/html/rfc3164)  
 tmux-command-list: list of [tmux (terminal multiplexer)](https://github.com/tmux/tmux/wiki "tmux Wiki") commands  
 unix-admin-users: [UNIX](http://www.unix.org) administrative user names  

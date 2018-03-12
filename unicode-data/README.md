@@ -1,3 +1,4 @@
+idn-table-arabic: Version 1.0 of Arabic IDN table from <https://donuts.domains/wp-content/themes/bootstrap/files/idn-table-arab-1.0.txt>  
 unicode-emoji-data: [Unicode Technical Report #51 emoji data](https://unicode.org/Public/emoji/11.0)  
 unicode-emoji-sequences: emoji sequence data for Unicode Technical Report #51  
 unicode-emoji-test: provides data for testing which emoji forms should be in keyboards  
