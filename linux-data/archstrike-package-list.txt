@@ -1,0 +1,1270 @@
+0trace	20070125	A hop enumeration tool	archstrike
+3proxy	0.8.11	Tiny free proxy server	archstrike
+acccheck	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	archstrike
+ace	1.10	Automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface	archstrike
+aesfix	1.0.1	A tool to find AES key in RAM	archstrike
+aeskeyfind	1.0	A tool to find AES key in RAM	archstrike
+aespipe	2.4e	Reads data from stdin and outputs encrypted or decrypted results to stdout	archstrike
+afflib	3.7.7	An extensible open format for the storage of disk images and related forensic information	archstrike
+aiengine	1.8.2	A packet inspection engine with capabilities of learning without any human intervention.	archstrike
+aimage	3.2.5	A program to create aff-images.	archstrike
+air	2.0.0	A GUI front-end to dd/dc3dd designed for easily creating forensic images.	archstrike
+airgeddon-git	20180220.r1066	Multi-use bash script for Linux systems to audit wireless networks.	archstrike
+airgraph-ng-svn	3023	Graphing tool for the aircrack suite	archstrike
+airoscript-git	45.0a122ee	Script to simplify the use of aircrack-ng tools	archstrike
+allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	archstrike
+amap	5.4	Next-generation tool for assisting network penetration testing.	archstrike
+androguard	2.0	Python framework for Android application analysis.	archstrike
+androick-git	r5.35048d7	A python tool to help in forensics analysis on android.	archstrike
+angr	7.8.2.21	The next-generation binary analysis platform from UC Santa Barbara's Seclab!	archstrike
+apache-tika	1.17	Toolkit for detecting and extracting metadata and structured text content	archstrike
+arachni-scanner	1.5.1	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	archstrike
+archstrike-i3-config	1.2	i3wm configs for ArchStrike	archstrike
+archstrike-installer	2.1.7	Full ArchStike installer for the ArchStrike live environment	archstrike
+archstrike-keyring	20170321	ArchStrike PGP keyring	archstrike
+archstrike-menu	1.1	ArchStrike menu for XFCE	archstrike
+archstrike-mirrorlist	20170905	ArchStrike mirror list for use by pacman	archstrike
+archstrike-openbox-config	1.1	ArchStrike config files for OpenBox	archstrike
+archstrike-wallpapers	20171113.r18	Wallpapers for ArchStrike	archstrike
+archstrike-xfce-config	1.2	ArchStrike config files for Xfce	archstrike
+argtable	2.13	ANSI C command line parser	archstrike
+argus	3.0.8.2	Network monitoring tool with flow control	archstrike
+argus-clients	3.0.8.2	Network monitoring client for Argus	archstrike
+armitage	150813	A graphical cyber attack management tool for Metasploit	archstrike
+arpalert	2.0.12	Monitor ARP changes in ethernet networks.	archstrike
+arpoison	0.7	The UNIX arp cache update utility	archstrike
+arpon	3.0	A portable handler daemon that make ARP protocol secure in order to avoid the Man In The Middle (MITM) attack through ARP Spoofing, ARP Cache Poisoning or ARP Poison Routing (APR) attacks.	archstrike
+arpwner-git	20120106.r26.f300fdf	A tool for arp posioning and dns poisoning attacks, written in python.	archstrike
+artillery-git	20171219.r211	A combination of a honeypot, file-system monitoring, system hardening, and overall health of a server to create a comprehensive way to secure a system	archstrike-testing
+artlas-git	20160614.r140	Apache Real Time Logs Analyzer System	archstrike
+asleap	2.2	Actively recover LEAP/PPTP passwords.	archstrike
+asp-audit	2.2	ASP fingerprintinging tool and vulnerability scanner	archstrike
+autobrowser-git	20161027.r24	A python analysing and reporting tool for pentesters	archstrike
+automator-git	r88.42548cf	IP URL and MD5 OSINT Analysis	archstrike
+autopsy	2.24	A GUI for The Sleuth Kit.	archstrike
+autosploit-git	r45.766bd7b	Automate the exploitation of remote hosts	archstrike
+auto-xor-decryptographyr-git	7.2eb176d	Automatic XOR decryptographyr tool.	archstrike
+azazel-git	r14.e6a12a2	A userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.	archstrike
+backdoor-factory-git	0.r198.87bd28d	Patch win32/64 binaries with shellcode	archstrike-testing
+backdoorme-git	20171220.r308	Powerful utility capable of backdooring Unix machines with a slew of backdoors	archstrike
+backfuzz-git	20130611.r36.8e54ed6	A protocol fuzzing toolkit.	archstrike
+bamfdetect	1.6.12	Identifies and extracts information from bots and other malware	archstrike
+bandicoot	0.5.3	A toolbox to analyze mobile phone metadata.	archstrike
+batman-alfred	2017.4	Almighty Lightweight Fact Remote Exchange Daemon	archstrike
+bbqsql-git	v1.1.r15.g4f7c086	SQL injection exploit tool	archstrike
+bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	archstrike
+beecrypt	4.2.1	A strong and fast cryptography toolkit	archstrike
+beef-git	20180217.r2999	Pentesting framework that focuses on web-browser exploitation	archstrike
+beeswarm	0.7.18	A honeypot project which provides easy configuration, deployment and managment of honeypots.	archstrike
+beleth-git	0.r36.0963699	A Multi-threaded Dictionary based SSH cracker	archstrike
+bettercap-git	1015.3946fdd	A complete, modular, portable and easily extensible MITM framework.	archstrike
+bfbtester	2.0.1	Performs checks of single and multiple argument command line overflows and environment variable overflows	archstrike
+bindead-git	20151012.r4504.67019b97b	A static analysis tool for binaries	archstrike
+bing-ip2hosts	0.4	Enumerates all hostnames which Bing has indexed for a specific IP address.	archstrike
+binplist	0.1.4	A binary plist parser	archstrike
+binwally-git	0.r4.0aabd8b	Binary and Directory tree comparison tool using the Fuzzy Hashing concept (pydeep)	archstrike
+bios_memimage	1.2	A tool to dump RAM contents to disk (aka cold boot attack).	archstrike
+birp-git	r62.042ca46	A tool that will assist in the security assessment of mainframe applications served over TN3270.	archstrike-testing
+bitbucket-cli	0.5.1	Command-line tool for accessing BitBucket	archstrike
+bittwist	2.0	Bit-Twist is a simple yet powerful libpcap-based Ethernet packet generator. It is designed to complement tcpdump, which by itself has done a great job at capturing network traffic.	archstrike
+bkhive	1.1.1	Program for dumping the syskey bootkey from a Windows NT/2K/XP system hive	archstrike
+bletchley	0.0.1	A collection of practical application cryptanalyze tools.	archstrike-testing
+blindelephant-svn	7	A web application fingerprintinger. Attempts to discover the version of a (known) web application by comparing static files at known locations	archstrike
+blindsql	1.0	Set of bash scripts for blind SQL injection attacks	archstrike
+bluebox-ng	1.1.0	A GPL VoIP/UC vulnerability scanner written using Node.js powers	archstrike-testing
+bluediving	0.9	A Bluetooth penetration testing suite	archstrike-testing
+bluepot	0.1	A Bluetooth Honeypot written in Java, it runs on Linux	archstrike-testing
+blueprint	0.1_3	A perl tool to identify Bluetooth devices.	archstrike
+blueranger	1.0	A simple Bash script which uses Link Quality to locate Bluetooth device radios.	archstrike
+bluesnarfer	0.1	A bluetooth attacking tool	archstrike-testing
+bluez-utils-compat	5.48	Development and debugging utilities for the bluetooth protocol stack. Includes deprecated tools.	archstrike-testing
+bluto	2.01	Recon, Subdomain Bruting, Zone Transfers	archstrike
+bmap-tools	3.4	Tool for copying largely sparse files using information from a block map file	archstrike
+boost-bloom-filters-git	20130409.r190	A collection of generic, C++ Bloom Filter classes developed for the Boost C++ Libraries.	archstrike
+box-js	1.9.7	A tool for studying JavaScript malware.	archstrike
+braa	0.82	A mass snmp scanner	archstrike
+bro	2.4.1	A highly configurable IDS	archstrike
+brut3k1t-git	20170924.r80	Brute-force attack that supports multiple protocols and services	archstrike
+bruteforce-wallet	1.5.1	Tries to decrypt one of the encrypted addresses in the wallet by trying all the possible passwords	archstrike
+brutessh	0.6	A simple sshd password bruteforcer using a wordlist, it's very fast for internal networks. It's multithreads.	archstrike
+brutexss-git	20161123.r54	Cross-Site Scripting BruteForcer	archstrike
+bsqlbf	2.7	Blind SQL Injection Brute Forcer	archstrike
+bss	0.8	Bluetooth stack smasher / fuzzer	archstrike
+bt2-git	20160527.r18	A post-exploitation tool that leverages the infrastructure of Telegram as a C&C	archstrike
+bt_audit	0.1.1	Bluetooth audit	archstrike
+btproxy-git	20180129.r71	Bluetooth Proxy tool	archstrike-testing
+btscanner	2.1	Bluetooth device scanner.	archstrike
+buildhosts-git	20170524.r12.99ed481	Download and use custom hosts sources to build /etc/hosts	archstrike
+bulk-extractor	1.5.5	Bulk Email and URL extraction tool	archstrike
+burpsuite	1.7.27	An integrated platform for attacking web applications (free edition).	archstrike
+burst-git	20170829.r224	An HTTP framework.	archstrike
+buttinsky-git	r138.1a2a1b2	provide an open source framework for automated botnet monitoring	archstrike
+bvi	1.4.0	A display-oriented editor for binary files operate like 'vi' editor	archstrike
+callerpy-git	20140518.r40	Truecaller Name Retriever	archstrike
+canari	1.1	A transform framework for maltego	archstrike-testing
+cangibrina-git	20170823.r120.3dfe416	Fast and powerfull dashboard (admin) finder	archstrike
+cansina-git	r231.3c7960e	A python-based Web Content Discovery Tool	archstrike
+canto-curses	0.9.6	An ncurses UI for the Canto Atom/RSS feed reader	archstrike
+canto-daemon	0.9.5	Atom/RSS feed reader daemon	archstrike
+captipper-git	20170226.r70	A python-based HTTP traffic explorer tool used to analyze, explore and revive HTTP malicious traffic	archstrike
+carwhisperer	0.2	The carwhisperer project intends to sensibilise manufacturers of carkits and other Bluetooth appliances without display and keyboard for the possible security threat evolving from the use of standard passkeys.	archstrike
+casefile	1.0.1	The little brother to Maltego without transforms, but combines graph and link analyze to examine links between manually added data to mind map your information	archstrike-testing
+cdpsnarf	0.1.6	Cisco discovery protocol sniffer	archstrike
+centry-git	r72.6de2868	A Panic button for protection against cold boot attacks	archstrike
+cewl	4.3	A custom word list generator	archstrike-testing
+cfr	125	Another Java decompiler	archstrike
+changeme	0.4.5	A default credential scanner	archstrike-testing
+chaosreader	0.94	Fetch application data from snoop or tcpdump logs	archstrike
+checkiban	0.2	Checks an the validity of an International Bank Account Number (IBAN)	archstrike
+checkpwd	1.23	Oracle Password Checker (Cracker)	archstrike
+chipsec	1.3.5	A framework for analyzing security of PC platforms including hardware, system firmware including BIOS/UEFI and the configuration of platform components.	archstrike
+chisel	1.2.3	A fast TCP tunnel over HTTP	archstrike
+chkrootkit	0.52	Checks for rootkits on a system	archstrike
+chownat	0.08b	Allows two peers behind two separate NATs with no port forwarding and no DMZ setup on their routers to directly communicate with each other	archstrike
+ciphertest-git	22.e33eb4a	A better SSL cipher checker using gnutls	archstrike
+cisco-ocs	0.2	Cisco Router Default Password Scanner	archstrike
+cisco-router-config	1.0	copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration	archstrike
+cisco-torch	0.4b	Cisco Torch mass scanning, fingerprintinging, and exploit tool.	archstrike
+cjdns-git	20.1.r12.gd878d028	A routing engine designed for security, scalability, speed and ease of use	archstrike
+cjdnsify-git	20140717.r6.bc354af	Limit network access of bind-compatible programs to the local cjdns network	archstrike
+cjdscript	10.2	Script to deploy and run the collection of working tools included with cjdns	archstrike
+climber-git	0.r30.5530a78	Check UNIX/Linux systems for privilege escalation	archstrike
+cloakify-git	20180129.r112	Data Exfiltration In Plain Sight; Evade DLP/MLS Devices; Social Engineering of Analysts; Evade AV Detection	archstrike
+clusterd-git	r143.d190b2c	automates the fingerprinting, reconnaissance, and exploitation phases of an application server attack	archstrike
+cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	archstrike
+cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	archstrike
+codecrypt	1.8	A GnuPG-like program for encryption and signing that uses only quantum-computer-resistant algorithms	archstrike
+commix-git	20180223.r1029	Find and exploit a command injection vulnerability in a certain vulnerable parameter or string.	archstrike
+complemento	0.7.7.3	Complemento is a collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	archstrike
+conn	1.0.37	Small C library usefull to easy build ipv4/ipv6 network daemons/clients	archstrike
+conpot	0.5.1	ICS honeypot with the goal to collect intelligence about the motives and methods of adversaries targeting industrial control systems	archstrike
+cookie-cadger	1.08	An auditing tool for Wi-Fi or wired Ethernet connections	archstrike
+cookiejar	0.0.1	Cookiecutter templates discovery and management.	archstrike
+cpublaster	0.10	This library tries to intercept the memory allocations to skew the allocations to different offsets, so the performance penalty to disappear	archstrike
+crackle-git	100.ff47a48	Crack and decrypt BLE encryption	archstrike
+crackmapexec	3.1.5	A swiss army knife for pentesting Windows/Active Directory environments	archstrike
+crackserver-git	r33.e5763ab	An XMLRPC server for password cracking	archstrike
+creak-git	20170106.r40	Poison, reset, spoof, redirect MITM script	archstrike
+create_ap-git	r250.f906559	A shell script to create a NATed/Bridged Software Access Point(aka WiFi)	archstrike
+creds.py-git	r17.1ec8297	Harvest FTP/POP/IMAP/HTTP/IRC credentials along with interesting data from each of the protocols.	archstrike
+creepy-git	r137.9f60449	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	archstrike
+crowbar	3.4	A brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.	archstrike
+crunch	3.6	A wordlist generator for all combinations/permutations of a given character set	archstrike
+cryptcat	1.2.1	A lightweight version of netcat with integrated transport encryption capabilities.	archstrike
+crypthook-git	r17.0728cd1	A TCP/UDP symmetric encryption tunnel wrapper	archstrike
+cryptmount	5.2.3	Utility which allows an ordinary user to mount an encrypted file system	archstrike
+cryptohazemultiforcer	1.31	High performance multihash brute forcer with CUDA support	archstrike
+cryptonark	0.5.6	SSL security checker	archstrike
+cryptsetup-nuke-keys	1.7.5	cryptsetup patched to nuke all keyslots given a certain passphrase	archstrike-testing
+csrftester	1.0	The OWASP CSRFTester Project attempts to give developers the ability to test their applications for CSRF flaws.	archstrike
+csrft-git	r32.17146bb	In few words, this is a simple HTTP Server in NodeJS that will communicate with the clients (victims) and send them payload that will be executed using JavaScript	archstrike
+ctunnel	0.7	Tunnel and/or proxy TCP or UDP connections via a cryptographygraphic tunnel compiled with Openssl.	archstrike
+cuckoo	2.0.5.2	A malware analysis system	archstrike
+cupp-git	20160625.r20	Common User Password Profiler	archstrike
+cymothoa	1	A stealth backdooring tool, that inject backdoor's shellcode into an existing process.	archstrike
+damm-git	20170416.r32	Differential Analysis of Malware in Memory	archstrike
+darkjumper	5.8	This tool will try to find every website that host at the same server at your target	archstrike
+darm-git	416.cadffa7	An ARMv7 disassembling library written in C.	archstrike
+dashcam	0.1.1	C/Python dashcam built with Gstreamer for Raspberry Pi/BeagleBone Black	archstrike-testing
+davoset	1.3.5	A tool for using Abuse of Functionality and XML External Entities vulnerabilities on some websites to attack other websites	archstrike
+davtest	1.0	Tests WebDAV enabled servers by uploading test executable files, and then (optionally) uploading files which allow for command execution or other actions directly on the target	archstrike
+dbd	1.50	A Netcat-clone, designed to be portable and offer strong encryption. It runs on Unix-like operating systems and on Microsoft Win32.	archstrike
+dbpwaudit	0.8	A Java tool that allows you to perform online audits of password quality for several database engines	archstrike
+dc3dd	7.2.646	A patched version of dd that includes a number of features useful for computer forensics	archstrike
+ddrutility	2.8	Set of utilities for use with GNU ddrescue to aid with data recovery	archstrike
+deblaze-git	20101207.r1	A remote method enumeration tool for flex servers	archstrike
+deen	0.7.10	Generic data encoding/decoding application built with PyQt5	archstrike-testing
+delldrac	0.1	Rid_enum is a null session RID cycle attack for brute forcing domain controllers.	archstrike
+delta-git	20160608.r5	Track the changes of a website	archstrike
+depdep	2.0	A merciless sentinel which will seek sensitive files containing critical info leaking through your network	archstrike
+derrick	0.3	Simple tool for recording data streams of TCP and UDP traffic.	archstrike
+detectsniffer-git	20160520.r148	Tool that detects sniffers in the network	archstrike
+device-pharmer-git	r37.e0e6281	Opens 1K+ IPs or Shodan search results and attempts to login	archstrike
+dex2jar	2.0	A tool for converting Android's .dex format to Java's .class format	archstrike
+dff-scanner	1.1	Tool for finding path of predictable resource locations.	archstrike
+dfvfs	20160510	A tool that provides read-only access to file-system objects from various storage media types and file formats.	archstrike-testing
+dhcdrop	0.5	Remove illegal dhcp servers with IP-pool underflow. Stable version	archstrike
+dhcpig-git	r92.9fd8df5	Enumerates hosts, subdomains, and emails from a given domain using google	archstrike
+ding-libs-git	0.6.0.3.gd713c1f	'D is not GLib' utility libraries	archstrike
+dinouml	0.9.5	A network simulation tool, based on UML (User Mode Linux) that can simulate big Linux networks on a single PC	archstrike
+dirb	2.22	A web content scanner, brute forceing for hidden files	archstrike
+dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	archstrike
+dirsearch	0.3.8	A HTTP(S) directory/file brute forcer	archstrike
+dislocker	0.7.1	Read BitLocker encrypted volumes under Linux	archstrike
+dmitry	1.3a	Deepmagic Information Gathering Tool with the ability to gather as much information as possible about a host	archstrike
+dnmap	0.6	The distributed nmap framwork	archstrike
+dns2tcp	0.5.2	A tool for relaying TCP connections over DNS	archstrike
+dnsa	0.5	DNSA is a dns security swiss army knife	archstrike
+dnsbf-git	20160116.r7	Search for available domain names in an IP range	archstrike
+dnsbrute-git	0.r2.b1dc84a	Multi theaded DNS bruteforcing	archstrike
+dnschef	0.3	A highly configurable DNS proxy for pentesters	archstrike
+dnsenum	1.2.4.2	Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results	archstrike
+dnsmap	0.30	Passive DNS network mapper	archstrike
+dnspredict	0.0.2	DNS prediction	archstrike
+dnsrecon	0.8.9	DNS Enumeration Script	archstrike
+dns-spoof-git	r12.3918a10	DNS Spoof	archstrike
+dnswalk	2.0.2	A DNS debugging	archstrike
+domainanalyzer	0.8.1	A security analysis tool which automatically discovers and reports information about the given domain	archstrike
+doona-git	r142.710584f	A fork of the Bruteforce Exploit Detector Tool (BED).	archstrike
+dotdotpwn	3.0	The Transversal Directory Fuzzer	archstrike
+dpeparser	20160517	Default password enumeration project	archstrike
+dradis	3.1.0	An open source framework to enable effective information sharing.	archstrike-testing
+driftnet	1.1.5	Listens to network traffic and picks out images from TCP streams it observes	archstrike
+dripper-git	20130912.r3.2430d65	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS	archstrike
+dscanner-git	20171227.r1139	Swiss-army knife for D source code	archstrike
+dumb0-git	r19.1493e74	A simple tool to dump users in popular forums and CMS :)	archstrike
+dump1090-git	20141031.r386	Dump1090 is a simple Mode S decoder for RTLSDR devices. MalcolmRobb fork. Git version.	archstrike
+dumpzilla	03152013	A forensic tool for firefox	archstrike
+dupdump	0.5	Finds duplicat files and directories and outputs a parsable list that can be used to delete them	archstrike
+dvcs-ripper-git	20171102.r50	Rip web accessible (distributed) version control systems: SVN/GIT/...	archstrike
+eapmd5pass	1.4	An implementation of an offline dictionary attack against the EAP-MD5 protocol	archstrike
+easyfuzzer	3.6	A flexible fuzzer, not only for web, has a CSV output for efficient output analyze (platform independant).	archstrike
+edb	0.9.21	A QT4-based binary mode debugging with the goal of having usability on par with OllyDbg.	archstrike
+eh	1.3.1	Extracts hosts (IP/Hostnames) from files	archstrike
+eindeutig	20050628_1	Examine the contents of Outlook Express DBX email repository files (forensic purposes)	archstrike
+elettra	1.0	Encryption utility by Julia Identity	archstrike
+elettra-gui	1.0	Gui for the elettra cryptography application.	archstrike
+elfparser	1.4.0	Cross Platform ELF analysis	archstrike
+elidecode-git	20160618.r48	A tool to decode obfuscated shellcodes using the unicorn-engine for the emulation and the capstone-engine to print the asm code	archstrike
+empire	2.4	A pure PowerShell post-exploitation agent.	archstrike
+ent	1.0	Pseudorandom number sequence test.	archstrike
+enum4linux	0.8.9	A tool for enumerating information from Windows and Samba systems.	archstrike
+enumiax	0.4a	IAX enumerator	archstrike
+erase-registrations	1.0	IAX flooder	archstrike
+evilgrade-git	r28.c80707c	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	archstrike
+exabgp	4.0.5	The BGP swiss army knife of networking	archstrike
+exitmap	2016.04.21	A fast and modular scanner for Tor exit relays	archstrike
+exploitdb-git	20180117.r1458	The official Exploit Database repository	archstrike
+eyewitness-git	r677.4005a20	designed to take screenshots of websites, provide some server header info, and identify default credentials is possible	archstrike
+facebot-git	r23.57f6025	A facebook profile and reconnaissance system	archstrike
+fakeap	0.3.2	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	archstrike
+fakedns-git	20180120.r87.c0e1b4d	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	archstrike
+fakemail	1.0	Fake mail server that captures e-mails as files for acceptance testing.	archstrike
+fakenetbios-git	r7.b83701e	A Simulation of NetBIOS hosts (Windows-like)	archstrike
+fang	1.2	A multi service threaded MD5 cracker	archstrike
+faraday-git	20171117.r3995	A new concept (IPE) Integrated Penetration-Test Environment a multiuser Penetration test IDE. Designed for distribution, indexation and analyze of the generated data during the process of a security audit.	archstrike
+fatback	1.3	A *nix tool for recovering files from FAT file systems.	archstrike
+fbht-git	r70.d75ae93	A Facebook Hacking Tool	archstrike
+featherduster-git	20171030.r169	An automated, modular cryptanalysis tool	archstrike-testing
+fern-wifi-cracker-git	20170907.r256	WEP, WPA wifi cracker for wireless penetration testing	archstrike
+fierce-git	20170117.r9	A DNS scanner	archstrike
+fiked	0.0.5	Fake IDE daemon	archstrike
+filibuster-git	r167.c54ac80	A Egress filter mapping application with additional functionality	archstrike-testing
+filter_audio-git	r95.ada2f4f	An easy to use audio filtering library made from webrtc code	archstrike
+firecat	v.16	Penetration testing tool that allows you to punch reverse TCP tunnels out of a compromised network	archstrike
+firesql	0.0.2	A mysql firewall	archstrike
+firewalk	5.0	An active reconnaissancenaissance network security tool	archstrike
+firmwalker-git	20180104.r90	Simple bash script for searching the extracted or mounted firmware file system	archstrike
+firmware-mod-kit	099	Modify firmware images without recompiling!	archstrike
+firstexecution-git	r6.a275793	A Collection of different ways to execute code outside of the expected entry points	archstrike
+flare	0.6	Flare processes an SWF and extracts all scripts from it.	archstrike
+flashlight	1.0	Provides services to scan network/ports and gather information rapidly on target networks.	archstrike
+flasm	1.62	Disassembler tool for SWF bytecode	archstrike
+flawfinder	2.0.4	Searches through source code for potential security flaws	archstrike
+flowinspect-git	r97.34759ed	A network traffic inspection tool	archstrike
+flunym0us	2.0	a Python-based tool that searches Twitter for keywords and then parses any tweets that are found.	archstrike
+forager	2.0.3	Multithreaded threat Intelligence gathering utilizing Python3	archstrike
+force_bind	0.12	Force binding on a specific IP and/or port, change TTL/TOS/KA/MSS/REUSEADDR/FWMARK/PRIORITY. Works with both IPv4 and IPv6. Also, you can enforce bandwidth per process or per socket	archstrike
+fpdns	20130404	Program that remotely determines DNS server versions	archstrike
+fragroute	1.2	A network intrusion detection evasion toolkit	archstrike
+frida	10.6.40	Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android	archstrike
+fs	0.5.4	Filesystem abstraction layer	archstrike
+ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	archstrike
+ftpmap	0.4	scans remote FTP servers to identify what software and what versions they are running.	archstrike
+funkload	1.17.1	A functional and load web tester, written in Python	archstrike
+fusil	1.5	A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	archstrike
+fuzzap-git	r17.057002b	A python script for obfuscating wireless networks	archstrike
+fuzzball2	0.7	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	archstrike
+fuzzdb-git	20170116.r404	Attack and Discovery Pattern Database for Application Fuzz Testing	archstrike
+fuzzdiff	1.0	A simple tool designed to help out with crash analyze during fuzz testing. It selectively 'un-fuzzes' portions of a fuzzed file that is known to cause a crash, re-launches the targeted application, and sees if it still crashes.	archstrike
+g711conversions	1.0	A library needed by rtpinsertsound and rtpmixsound.	archstrike
+g72x	1	Decoder for the g72x++ codec.	archstrike
+galleta	20040505_1	Examine the contents of the IE's cookie files for forensic purposes	archstrike
+garminplugin	0.3.27	Garmin Communicator Plugin for Linux	archstrike
+garmintools	0.10	This software provides Linux users with the ability to communicate with the Garmin Forerunner 305 via the USB interface.	archstrike
+gcat-git	20160609.r28	A fully featured backdoor that uses Gmail as a C&C server	archstrike
+gef-git	r1225.265ac26	Provides additional features to GDB using the Python API to assist during the process of dynamic analysis or exploit development.	archstrike
+geoipgen	0.4	GeoIPgen is a country to IP addresses generator.	archstrike
+getsids	0.0.1	Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing â??lsnrctl serviceâ??.	archstrike
+gggooglescan	0.4	A Google scraper which performs automated searches and returns results of search queries in the form of URLs or hostnames.	archstrike
+ghettotooth	1.0	Ghettodriving for bluetooth	archstrike-testing
+ghostpdl	9.20	An interpreter for the Postscript language and for PDF - GhostPCL (PCL-5, and PCL-XL), GhostXPS (XPS), GhostPDF and ghostscript	archstrike
+ghostpop3	0.1.0	A program that simulates an 'always no messages' POP3 server	archstrike
+ghost.py	0.2.3	Webkit based webclient (relies on PyQT)	archstrike
+gitminer-git	20171229.r40	Tool for advanced mining for content on Github	archstrike
+globalplatform	6.0.0	Global Platform libraries	archstrike
+goatrider-git	20160125.r3	simple tool for doing a comparison of IP addresses or hostnames to BDS Artillery Feeds, OTX, Alexa Top 1M, and TOR	archstrike
+gobuster	1.4.1	Directory/file & DNS busting tool written in Go	archstrike
+goldeneye-git	r20.c84cd2c	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	archstrike
+golismero-git	20170717.r61	Opensource web security testing framework	archstrike
+goodork	2.2	A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line.	archstrike
+goofile	1.5	Command line filetype search	archstrike
+google-coredumper	1.2.1	Library can be compiled into applications to create core dumps of the running program -- without terminating.	archstrike-testing
+google-explorer-git	20180105.r111	Google mass exploit robot in python	archstrike
+googlesub	1.3	A python script to find domains by using google dorks	archstrike
+goog-mail	1.0	Enumerate domain emails from google.	archstrike
+gooscan	1.0.9	A tool that automates queries against Google search appliances, but with a twist.	archstrike
+gophish	0.4.0	Open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.	archstrike
+gpshell	1.4.4	GlobalPlatform command shell	archstrike
+grabber	0.1	A web application scanner. Basically it detects some kind of vulnerabilities in your website.	archstrike
+grepforrfi	0.1	Simple script for parsing web logs for RFIs and Webshells v1.2	archstrike
+gr-gsm-git	20170923.r828	Gnuradio blocks and tools for receiving GSM transmissions	archstrike-testing
+grokevt	0.5.0	A collection of scripts built for reading WindowsÂ NT/2K/XP/2K eventlog files.	archstrike-testing
+guymager	0.8.4	A forensic imager for media acquisition	archstrike
+gwt-toolset-git	20120831.r7.f27a5aa	analyzes the obfuscated Javascript produced by Google Web Toolkit (GWT) applications in order to enumerate all services and method calls	archstrike
+hackersh	0.2.0	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	archstrike
+hack_library	1.0	A library needed by rtpmixsound and rtpinsertsound	archstrike
+haka	0.3.0	Collection of tools that allows capturing TCP/IP packets and filtering them based on Lua policy files	archstrike
+halberd	0.2.4	HTTP load balancer detector	archstrike
+hamster-git	20131120.r3	Tool for HTTP session sidejacking.	archstrike-testing
+hashdb	3.1.0	A block hash toolkit	archstrike
+hashdeep	4.4	Advanced checksum hashing tool	archstrike
+hasher-git	r48.40173c5	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	archstrike
+hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	archstrike
+hashid-git	r397.7e8473a	dentify the different types of hashes used to encrypt data and especially passwords.	archstrike
+hashpump-git	r49.314268e	A tool to exploit the hash length extension attack in various hashing algorithms	archstrike
+hashtag-git	r5.34ba672	A python script written to parse and identify password hashes.	archstrike
+haystack	0.42	A Python framework for Finding C Structures from process memory - heap analysis - Memory structures forensics	archstrike
+hbad	1	Heartbleed client side test tool	archstrike
+hcraft	1.0.0	HTTP Vuln Request Crafter	archstrike
+hd2u	1.0.4	Dos2Unix text file converter	archstrike
+heartbleed-git	119.v0.2.0.r48.g4a3332c	Test whether a host is vulnerable to the Heartbleed attack	archstrike
+hellcat-git	r45.8873f05	netcat that takes unfair advantage of traffic shaping systems that don't initially ratelimit	archstrike
+hex2bin	2.5	Converts Motorola and Intel hex files to binary.	archstrike
+hexinject	1.6	A very versatile packet injector and sniffer that provides a command-line framework for raw network access	archstrike
+hidattack	0.1	HID Attack (attacking HID host implementations)	archstrike
+hodor	1.0	A MQTT client, that automatically subscribes to #	archstrike
+honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	archstrike
+honeypy-git	20171125.r498	A low interaction Honeypot	archstrike
+honggfuzz	0.8	Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage	archstrike-testing
+hotpatch-git	20131202.r89.4b65e3f	Hot patches executables on Linux using .so file injection	archstrike
+hpfeeds-git	20150522.r164	Honeynet Project generic authenticated datafeed protocol	archstrike
+hqlmap-git	r38.bb6ab46	This project has been created to exploit HQL Injections	archstrike
+htshells-git	20150702.r79.399feaa	Self contained web shells and other attacks via .htaccess files.	archstrike
+http-fuzz	20160523	A simple http fuzzer.	archstrike
+http-put	1.0	Simple http put perl script	archstrike
+httprint	301	A web server fingerprintinging tool.	archstrike
+httpry	0.1.8	A specialized packet sniffer designed for displaying and logging HTTP traffic.	archstrike
+hulk-git	r21.d47030b	HULK DoS tool ported to Go with some additional features.	archstrike
+hyenae	0.36.1	flexible platform independent packet generator	archstrike
+hyperfox-git	20170923.r65	A security tool for proxying and recording HTTP and HTTPs traffic.	archstrike
+i2pd-git	20170423.r4250	I2P router written in C++	archstrike
+iaito-git	r254.b7e9afc	A Qt and C++ GUI for radare2 reverse engineering framework	archstrike
+iaxflood	20131208	IAX flooder.	archstrike
+icmpquery	1.0	Send and receive ICMP queries for address mask and current time.	archstrike
+icmptx	0.2	IP over ICMP	archstrike
+iheartxor	0.01	iheartxor is a tool for bruteforcing encoded strings within a boundary defined by a regular expression. It will bruteforce the key value range of 0x1 through 0x255.	archstrike
+ikecrack	1.00	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analyze of RFC compliant aggressive mode authentication	archstrike
+ikeforce-git	r27.ea88d54	a command line IPSEC VPN brute forcing tool for Linux that allows group name/ID enumeration and XAUTH brute forcing capabilities.	archstrike
+ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	archstrike
+ike-scan	1.9.4	A tool that uses IKE protocol to discover, fingerprinting and test IPSec VPN servers	archstrike
+imagejs-git	20171101.r53	A Small tool to package javascript into a valid image file.	archstrike
+impacket	0.9.15	Collection of Python2 classes focused on providing access to network packets	community
+inception-git	r445.176e8c9	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP-2 DMA.	archstrike
+indxparse-git	r167.868ae16	A Tool suite for inspecting NTFS artifacts.	archstrike
+inetsim	1.2.7	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	archstrike
+inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	archstrike
+interlock-git	20180110.r362	File encryption front-end	archstrike
+interrogate	0.0.4	A proof-of-concept tool for identification of cryptographic keys in binary material (regardless of target operating system), first and foremost for memory dump analysis and forensic usage.	archstrike
+intersect-git	2.5.r82.e191768	Post-exploit framework	archstrike
+intrace-git	20161120.r27	Traceroute-like application piggybacking on existing TCP connections	archstrike-testing
+inundator	0.5	An ids evasion tool, used to anonymously inundate intrusion detection logs with false positives in order to obfuscate a real attack.	archstrike
+inviteflood	2.0	Flood a device with INVITE requests	archstrike
+iosforensic	1.0	iOS forensic tool. OWASP iOS Forensic	archstrike
+ip2clue	0.0.94	A mall memory/CPU footprint daemon to lookup country (and other info) based on IP (v4 and v6)	archstrike
+ipaudit	1.0BETA2	Monitors network activity on a network.	archstrike
+ipdecap	0.7.1	Decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, can also remove IEEE 802.1Q (virtual lan) header	archstrike
+iphoneanalyzer	2.1.0	Allows you to forensically examine or recover date from in iOS device.	archstrike
+ipscan	3.2.1	Angry IP scanner is a very fast IP address and port scanner.	archstrike
+ipsumdump	1.86	A tool that summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs	archstrike
+ipv6toolkit	2.0	A security assessment and troubleshooting tool for the IPv6 protocols	archstrike
+ircsnapshot-git	r94.cb02a85	Tool to gather information from IRC servers	archstrike
+irpas	0.10	Internetwork Routing Protocol Attack Suite.	archstrike
+itpp	4.3.1	C++ library of mathematical, signal processing and communication routines	archstrike
+javasnoop	1.1	A tool that lets you intercept methods, alter data and otherwise hack Java applications running on your computer	archstrike
+jboss-autopwn-git	0.r1.3bc2d29	A JBoss script for obtaining remote shell access	archstrike
+jbrofuzz	2.5	Web application protocol fuzzer that emerged from the needs of penetration testing.	archstrike
+jbrute	99	Open Source Security tool to audit hashed passwords.	archstrike
+jd-gui	1.4.0	A standalone graphical utility that displays Java source codes of .class files	archstrike
+jexboss-git	20170327.r86	Jboss verify and Exploitation Tool	archstrike
+jigsaw	1.3	A simple ruby script for enumerating information about a company's employees. It is useful for Social Engineering or Email Phishing. Source no long on GitHub available as tarball in ours.	archstrike
+jnetmap	0.5.4	Graphical network monitoring and documentation tool	archstrike
+johnny	2.2	GUI for John the Ripper	archstrike
+joomscan	2012.03.10	Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site.	archstrike
+jsql	0.81	A lightweight application used to find database information from a distant server.	archstrike
+kacak	1.0	Tools for penetration testers that can enumerate which users logged on windows system	archstrike
+kalibrate-rtl-git	20131214.r11	Fork of http://thre.at/kalibrate/ for use with rtl-sdr devices	archstrike
+karma-hostapd	1.0	a set of patches to access point software to get it to respond to probe requests not just for itself but for any ESSID requested	archstrike
+kautilya	0.5.5	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	archstrike-testing
+keimpx-git	20161209.r166	Tool to verify the usefulness of credentials across a network over SMB	archstrike-testing
+khc	0.2	Known Host Cracker (khc) is a small tool designed to recover hashed known_host files back to their plain-text equivalents	archstrike
+kippo	0.9	A medium interaction SSH honeypot designed to log brute force attacks and most importantly, the entire shell interaction by the attacker.	archstrike
+kismet-earth	20131215	Various scripts to convert kismet logs to kml file to be used in Google Earth.	archstrike-testing
+kismon	0.9.0	GUI client for kismet (wireless scanner/sniffer/monitor)	archstrike
+knockd-git	r88.258a27e	A simple port-knocking daemon and client	archstrike
+kraken-git	r32.368a837	A project to encrypt A5/1 GSM signaling using a Time/Memory Tradeoff Attack.	archstrike
+kwprocessor	1.00	Advanced keyboard-walk generator with configureable basechars, keymap and routes	archstrike
+kyotocabinet-python2	1.18	Python2 bindings for Kyoto Cabinet.	archstrike
+l0l-git	20170913.r322	The Exploit Development Kit	archstrike
+lanmap2-git	r127.1197999	Builds database/visualizations of LAN structure from passively sifted information.	archstrike
+lans-git	20151122.r168	A Multithreaded asynchronous packet parsing/injecting arp spoofer.	archstrike
+laudanum	1.0	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	archstrike
+lbd	0.4	Load Balancing detector	archstrike
+leo	5.3	Literate programmer's editor, outliner, and project manager	archstrike
+leroy-jenkins-git	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	archstrike
+lft	3.79	A layer four traceroute implementing numerous other features	archstrike
+libbde	20160731	Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes	archstrike-testing
+libbfio	20170123	Library to provide basic file input/output abstraction	archstrike
+libbtbb	2017.03.R2	A library to decode Bluetooth baseband packets, as produced by the Ubertooth and GR-Bluetooth projects.	archstrike
+libcli	1.9.7	A shared library for including a Cisco-like command-line interface into other software.	archstrike
+libcsystem	20150629	Library for cross-platform C system functions	archstrike-testing
+libdaq-static	2.0.6	Data Acquisition library for packet I/O.	archstrike
+libdnet-ipv6	1.12	A simplified, portable interface to several low-level networking routines (with ipv6 support)	archstrike
+libemu	20120122	A small library written in c offering basic x86 emulation and shellcode detection	archstrike
+libesedb	20160622	Library and tools to access the Extensible Storage Engine (ESE) Database File (EDB) format.	archstrike-testing
+libevent-static	2.0.22	An event notification library static libs	archstrike
+libevt	20160421	Library and tooling to access the Windows Event Log (EVT) format	archstrike-testing
+libevtx	20160421	Library and tooling to access the Windows XML Event Log (EVTX) format	archstrike-testing
+libfindrtp	0.4b	A library needed by rtpinsertsound and rtpmixsound.	archstrike-testing
+libfixbuf	1.7.1	IPFIX Message Format Implementation	archstrike
+libfsntfs	20160418	iLibrary and tools to access the New Technology File System (NTFS).	archstrike-testing
+libfwnt	20161103	Library for Windows NT data types.	archstrike-testing
+libfwsi	20160110	Library to access the Windows Shell Item format	archstrike-testing
+libguytools	2.0.4	A small programming toolbox for Guymager	archstrike
+liblnk	20160420	Library and tools to access the Windows Shortcut File (LNK) format	archstrike-testing
+liblognorm	2.0.2	log normalization library for rsyslog	archstrike-testing
+libmsiecf	20160904	Library and tools to access the Microsoft Internet Explorer (MSIE) Cache File (index.dat) files	archstrike-testing
+libnacl	20110221	NaCl (pronounced 'salt') Networking and Cryptography library (works with pynacl)	archstrike
+libnfc	1.7.1	The first free NFC SDK and Programmers API	archstrike
+libolecf	20161113	Library and tools to access the OLE 2 Compound File (OLECF) format	archstrike-testing
+libosmocore	0.9.0	core libs for osmocom	archstrike-testing
+libowfat	0.31	GPL reimplementation of libdjb	archstrike
+libpcap-1.4	1.4.0	A system-independent interface for user-level packet capture	archstrike-testing
+libpfm4	4.7.0	The hardware-based performance monitoring interface for Linux.	archstrike
+libqcow	20160123	Library and tools to support QEMU copy-on-write image format (QCOW, QCOW2), including a FUSE-based mount utility	archstrike-testing
+libregf	20160424	Library and tools to access the Windows NT Registry File (REGF) format	archstrike-testing
+libsigscan	20160312	Library for binary signature scanning.	archstrike-testing
+libsmdev	20160320	Library to access to storage media devices	archstrike-testing
+libsmraw-git	r203.29c8155	Library and tools to access the (split) RAW image format	archstrike-testing
+libsoc-git	r249.1e2fb9d	A C library for interfacing with common SoC peripherals through generic kernel interfaces	archstrike-testing
+libsocket-git	r546.8332600	The ultimate socket library for C and C++	archstrike-testing
+libvhdi	20160424	Library and tools to access the Virtual Hard Disk (VHD) image format	archstrike-testing
+libvidcap	0.2.1	A cross-platform library for capturing video from webcams and other video capture devices.	archstrike-testing
+libvmdk	20160119	Library and tools to access the VMware Virtual Disk (VMDK) format	archstrike-testing
+libvshadow	20160110	Library and tools to access the Volume Shadow Snapshot (VSS) format	archstrike-testing
+libvslvm	20160110	Library and tools to access the Linux Logical Volume Manager (LVM) volume system format.	archstrike-testing
+liffy-git	r66.b2d30c5	A Local File Inclusion Exploitation tool.	archstrike
+lightblue	0.4	A cross-platform Bluetooth API for Python which provides simple access to Bluetooth operations	archstrike-testing
+linenum-git	20170512.r28.ed3e4e5	Scripted Local Linux Enumeration & Privilege Escalation Checks	archstrike
+linux-exploit-suggester-git	0.r32.9db2f5a	A Perl script that tries to suggest exploits based OS version number	archstrike
+lisa.py-git	20170407.r41	An Exploit Dev Swiss Army Knife.	archstrike
+lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	archstrike
+log4cxx-svn	1763465	A C++ port of Log4j	archstrike
+logkeys	0.1.1c	Simple keylogger supporting also USB keyboards.	archstrike
+loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	archstrike
+lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	archstrike
+lte-cell-scanner	0.1.1	An OpenCL, TD-LTE and external LNB supports to LTE SDR cell scanner (optimized to work with RTL-SDR dongle and HACKRF board)	archstrike-testing
+luksipc	0.04	A tool to convert unencrypted block devices to encrypted LUKS devices in-place	archstrike
+mac-robber	1.02	Forensic tool that collects data from allocated files in a mounted file system. Useful together with sleuthkit.	archstrike
+magicrescue	1.1.9	Find and recover deleted files on block devices	archstrike
+magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	archstrike
+magic-unicorn	2.8.2	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory	archstrike
+mail-crawl	20160504	Tool to harvest emails from website	archstrike
+make-pdf	0.1.7	This tool will embed javascript inside a PDF document	archstrike
+malcom-git	20151127.r704	Analyze a system's network communication using graphical representations of network traffic	archstrike-testing
+malheur	0.5.4	A tool for the automatic analyze of malware behavior (program behavior recorded from malicious software in a sandbox environment)	archstrike
+maltego	4.0.11.9358	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	archstrike
+maltrieve-git	r342.b9e7560	A tool to retrieve malware directly from the source for security researchers.	archstrike
+malwasm	0.1.1	Offline debugging for malware's reverse engineering.	archstrike-testing
+mana-git	20160512.r84	A toolkit for rogue access point (evilAP) attacks first presented at Defcon 22	archstrike-testing
+maskprocessor	0.73	A High-Performance word generator with a per-position configurable charset	archstrike
+masscan-git	20171021.r484	TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes	archstrike
+massdns-git	20170818.r97	A high-performance DNS stub resolver in C	archstrike
+mat	0.6.1	Metadata Anonymisation Toolkit	archstrike
+matahari	0.1.30	A reverse HTTP shell to execute commands on remote machines behind firewalls.	archstrike
+matroschka-git	20160720.r52	Python steganography tool to hide images or text in images	archstrike
+mavlink-git	20170603.r2370	MAVLink micro air vehicle marshalling / communication libraries	archstrike
+mbox-git	20140526.r274.a131424	A lightweight sandbox tool for non-root users	archstrike
+mboxgrep	0.7.9	A small, non-interactive utility that scans mail folders for messages matching regular expressions. It does matching against basic and extended POSIX regular expressions, and reads and writes a variety of mailbox formats.	archstrike
+mdbtools	0.7.1	Utilities for viewing data and exporting schema from Microsoft Access Database files	archstrike-testing
+mdcrack	1.2	MD4/MD5/NTLM1 hash cracker	archstrike
+meltdown-git	20180118.r73	Meltdown Proof-of-Concept	archstrike
+memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	archstrike
+memfetch	0.05b	dumps any userspace process memory without affecting its execution	archstrike
+metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	archstrike
+metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	archstrike
+metasploitavevasion-git	2.0.20151222.r29	Metasploit payload generator that avoids most Anti-Virus products.	archstrike
+metasploit-payload-creator	1.4.4	A wrapper to generate multiple types of payloads, based on users choice.	archstrike
+mfcuk	0.3.8	MIFARE Classic Universal toolKit	archstrike
+mfoc	0.10.7	Mifare Classic Offline Cracker	archstrike-testing
+mfterm	1.0.7	Terminal for working with Mifare Classic 1-4k tags	archstrike
+mibble	2.10.1	Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1 files.	archstrike-testing
+microchip-mplabx-bin	2.00	IDE for Microchip PIC and dsPIC development	archstrike-testing
+middler	1.0	A Man in the Middle tool to demonstrate protocol middling attacks.	archstrike
+mimikatz	2.1.1.20171220	A little tool to play with Windows security	archstrike
+mimikittenz-git	20160709.r8	A post-exploitation powershell tool for extracting juicy info from memory	archstrike
+minimysqlator	0.5	Mini MySqlat0r is a multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	archstrike
+miranda-upnp	1.3	A Python-based Universal Plug-N-Play client application designed to discover, query and interact with UPNP devices	archstrike-testing
+missidentify	1.0	A program to find Win32 applications	archstrike
+missionplanner	1.2.55	A GroundControl Station for Ardupilot	archstrike-testing
+mitmap	20140522	Shell Script for launching a Fake AP with karma functionality and launches ettercap for packet capture and traffic manipulation.	archstrike
+mitmer-git	r22.b01c7fe	Man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook	archstrike
+mitmf-git	20170501.r449	A Framework for Man-In-The-Middle attacks written in Python.	archstrike-testing
+mkbrutus	1.0.2	A tool developed in Python 3 that performs bruteforce attacks (dictionary-based) systems against RouterOS (ver. 3.x or newer) which have the 8728/TCP port open.	archstrike
+mobiusft	0.5.21	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	archstrike
+morbid	0.8.7.3	A Twisted-based publish/subscribe messaging server that uses the STOMP protocol	archstrike
+morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	archstrike
+mosquito-git	20140320.r39	A XSS exploitation tool allowing an attacker to set up a HTTP proxy and leverage XSS to issue arbitrary HTTP requests through victim browser (and victim cookies).	archstrike
+mptcp-abuse-git	20140812.r6	A collection of tools and resources to explore MPTCP on your network. Initially released at Black Hat USA 2014.	archstrike-testing
+mrtparse-git	r464.9851c48	a module to read and analyze the MRT format data.	archstrike
+mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers.	archstrike
+ms-sys	2.5.3	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	archstrike
+mt-st-git	6.ece9c03	Utilities for managing magnetic tape storage devices	archstrike
+multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	archstrike
+multimac	1.0.3	Multiple MACs on an adapter	archstrike
+multimon-ng	1.1.3	An sdr decoder, supports pocsag, ufsk, clipfsk, afsk, hapn, fsk, dtmf, zvei.	archstrike
+mutator	0.2.2	This project aims to be a wordlist mutation with hormones	archstrike
+mybff-git	20170103.r94	A web application brute force framework	archstrike
+mylg	0.2.6	A General Network diagnostic tool	archstrike
+nassl	0.16.3	Experimental Python wrapper for OpenSSL	archstrike
+nbnspoof	1.0	NetBIOS Name Service Spoofer	archstrike
+nbtool-git	20140415.r2	Some tools for NetBIOS and DNS investigation, attacks, and communication.	archstrike
+ncp	1.2.4	A fast file copy tool for LANs	archstrike
+ncpfs	2.2.6	Allows you to mount volumes of NetWare servers under Linux.	archstrike-testing
+neighbor-cache-fingerprinter-git	r83.f1e596f	A mechanism for remote operating system detection by extrapolating characteristics of the target system's underlying Neighbor Cache and general ARP behavior.	archstrike-testing
+nessus-report-git	r13.b5015a1	Automatically parse and tabulate Nessus findings into OpenDocument tables	archstrike
+netcommander-git	20111208.r21	An easy-to-use arp spoofing tool	archstrike
+net-creds-git	20170213.r71	Sniffs sensitive data from interface or pcap	archstrike
+netdiscover	0.3.beta7	An active/passive address reconnaissancenaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	archstrike
+netmap	0.1.3	Netmap can be used to make a graphical representation of the surounding network.	archstrike-testing
+netmask	2.4.3	Helps determine network masks	archstrike
+netsed	1.2	Small and handful utility design to alter the contents of packets forwarded thru network in real time.	archstrike-testing
+netsniff-ng	0.6.4	A high performance Linux network sniffer for packet inspection.	archstrike
+netzob	1.0rc1	An opensource tool which supports the expert in its operations of reverse engineering, evaluation and simulation of communication protocols.	archstrike
+nfcutils	0.3.2	Provides a simple 'lsnearfield' command that list tags which are in your NFC device field	archstrike-testing
+nfdump	1.6.13	A set of tools to collect and process netflow data.	archstrike
+nfspy	1.0	A Python library for automating the falsification of NFS credentials when mounting an NFS share	archstrike
+nfsshell	19980519	Userland NFS command tool.	archstrike-testing
+nield	0.6.1	A tool to receive notifications from kernel through netlink socket, and generate logs related to interfaces, neighbor cache(ARP,NDP), IP address(IPv4,IPv6), routing, FIB rules, traffic control.	archstrike
+nightfall	1.1	Cjdns inet auto-peering tracker	archstrike
+nimbostratus-git	20140204.r54.c7c206f	Tools for fingerprintinging and exploiting Amazon cloud infrastructures	archstrike
+nipper	0.11.7	Network Infrastructure Parser	archstrike
+nishang	0.7.6	A PowerShell framework and collection of scripts and payloads for offensive security and pentesting	archstrike
+nkiller2	2.0	A TCP exhaustion/stressing tool.	archstrike
+nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	archstrike
+node-ar-drone-git	v0.3.3.2.g228bd45	A node.js client for controlling Parrot AR Drone 2.0 quad-copters	archstrike-testing
+node-mkdirp	0.5.0	Recursively mkdir, like mkdir -p, but in node.js	archstrike-testing
+nomorexor-git	20130122.r1.d723edb	Tool to help guess a files 256 byte XOR key by using frequency analyze	archstrike
+novnc-git	r1390.a49ade5	VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support.	archstrike
+nsdtool	1	toolset of scripts used to detect netgear switches in local networks. The tool contains some extra features like bruteforce and setting a new password	archstrike-testing
+nsec3walker	20101223	Enumerates domain names using DNSSEC	archstrike
+nsia	1.0.6	A website scanner that monitors websites in realtime in order to detect defacements, compliance violations, exploits, sensitive information disclosure and other issues.	archstrike-testing
+nsoq	1.9.5	A Network Security Tool for packet manipulation that allows a large number of options.	archstrike
+obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities	archstrike-testing
+obkey	1.0	Openbox Key Editor	archstrike-testing
+obmenu-generator	0.81	A fast pipe/static menu generator for the Openbox Window Manager (with icons support).	archstrike
+od1n-git	20170531.r201	A Web security tool to make fuzzing at HTTP inputs, made in C with libCurl	archstrike
+ohrwurm-git	20100930.r1	A small and simple RTP fuzzer	archstrike
+ollydbg	201g	A 32-bit assembler-level analysing debugging	archstrike
+onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	archstrike-testing
+onetwopunch-git	20170101.r15	Script combining the speed of unicornscan w/ the versitility of nmap	archstrike
+onioff	0.1	An onion url inspector for inspecting deep web links	archstrike
+onionscan-git	20170225.r130	Tool to scan onion services	archstrike
+onionshare	1.1	Securely and anonymously share a file of any size	archstrike
+opendnssec	2.0.4	Turn-key solution for DNSSEC (sqlite3)	archstrike-testing
+openstego	0.6.1	Plugin based tool for steganography, with encrytion support.	archstrike
+orbited	0.7.10	A browser(javascript)->tcp bridge; Comet is used to emulate TCP connections in the browser; Allows you to connect a web browser directly to an IRC or XMPP server, for instance.	archstrike
+origami	2.0.1	Aims at providing a scripting tool to generate and analyze malicious PDF files.	archstrike
+o-saft-git	r1833.be67651	An easy to use tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations	archstrike
+osueta-git	r71.3c04bfe	A simple Python script to exploit the OpenSSH User Enumeration Timing Attack.	archstrike
+outguess	0.2	A universal steganographic tool	archstrike
+owasp-zsc-git	20170719.r304	Shellcode/Obfuscate Code Generator	archstrike
+owtf-git	r1607.e6b271df	The Offensive (Web) Testing Framework	archstrike
+pacemaker-git	r78.e46f354	A CVE-2014-0160 client exploit	archstrike
+pack	0.0.4	Password Analysis and Cracking Kit	archstrike
+packerid-git	r12.7b2ee6e	Script which uses a PEiD database to identify which packer (if any) is being used by a binary.	archstrike
+packet-o-matic	0.0.18	A real time packet processor. Reads the packet from an input module, match the packet using rules and connection tracking information and then send it to a target module.	archstrike-testing
+packetsender	5.5.1	A utility to allow sending and receiving TCP and UDP packets.	archstrike
+packit	1.0	A network auditing tool. Its value is derived from its ability to customize, inject, monitor, and manipulate IP traffic.	archstrike
+pacumen	0.1a	Packet Acumen	archstrike
+padbuster	0.3.3	Automated script for performing Padding Oracle attacks	archstrike-testing
+paketto	1.10	Advanced TCP/IP Toolkit.	archstrike
+panoptic-git	0.r183.bc7236c	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability	archstrike
+paros	3.2.13	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	archstrike
+parsero-git	20140929.r81	A Robots.txt audit tool	archstrike
+pasco	20040505_1	Examines the contents of Internet Explorer's cache files for forensic purposes	archstrike
+passivedns	1.2.0	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	archstrike
+patator	0.7	A multi-purpose bruteforcer	archstrike
+pblind	1.0	Little utility to help exploiting blind sql injection vulnerabilities.	archstrike
+pcapfex	1.0	Packet CAPture Forensic Evidence eXtractor	archstrike
+pcapfix	1.1.1	A repair tool for corrupted pcap files.	archstrike
+pcapsipdump	0.2	pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a fashion similar to 'tcpdump -w' (format is exactly the same), but one file per sip session (even if there is thousands of concurrect SIP sessions).	archstrike
+pcredz	1.0.0	A tool that extracts credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, and more from a pcap file or from a live interface.	archstrike
+pdfbook-analyzer	2014220	Utility for facebook memory forensics.	archstrike
+pdfid	0.2.2	scan a file to look for certain PDF keywords	archstrike
+pdfminer	20140328	PDF parser and analyzer	archstrike
+pdfminer3k	1.3.1	A python3 port of pdfminer	archstrike
+pdf-parser	0.6.8	Parses a PDF document to identify the fundamental elements used in the analyzed file	archstrike
+pdgmail	1.0	A password dictionary attack tool that targets windows authentication via the SMB protocol	archstrike
+peach-git	20161029.r55	A SmartFuzzer that is capable of performing both generation and mutation based fuzzing	archstrike
+peepdf	0.3	A Python tool to explore PDF files in order to find out if the file can be harmful or not	archstrike
+pentbox	1.8	A security suite that packs security and stability testing oriented tools for networks and systems	archstrike
+pentmenu	1.7.2	Designed to be a simple way to implement various basic pentesting network functions, including network attacks, using wherever possible readily available software commonly installed on most linux distributions, without having to resort to multiple specialist tools	archstrike
+perl-algorithm-generatesequence	0.02	A sequence generator.	archstrike
+perl-algorithm-permute	0.12	Perl module for handy and fast permutations with object oriented interface	archstrike
+perl-bytes-random-secure	0.29	Perl extension to generate cryptographically-secure random bytes.	archstrike
+perl-cisco-copyconfig	1.4	IOS running-config manipulation	archstrike
+perl-class-errorhandler	0.04	Base class for error handling	archstrike
+perl-class-gomor	1.03	Another class and object builder	archstrike
+perl-class-loader	2.03	Loads modules and creates objects on demand	archstrike
+perl-convert-ascii-armour	1.4	Converts binary octets into ASCII armoured messages	archstrike
+perl-convert-pem	0.08	Read/write encrypted ASN.1 PEM files	archstrike
+perl-crypt-des_ede3	0.01	Perl module for triple-DES EDE encryption/decryption	archstrike
+perl-crypt-dh	0.07	Perl/CPAN Module Crypt::DH: Diffie-Hellman key exchange system	archstrike
+perl-crypt-dsa	1.17	DSA Signatures and Key Generation	archstrike
+perl-crypt-idea	1.10	Perl interface to IDEA block cipher	archstrike
+perl-crypt-primes	0.50	Provable Prime Number Generator suitable for Cryptographic Applications	archstrike
+perl-crypt-random	1.25	Cryptographically Secure, True Random Number Generator	archstrike
+perl-crypt-random-seed	0.03	Simple method to get strong randomness.	archstrike
+perl-crypt-random-tesha2	0.01	Random numbers using timer/schedule entropy.	archstrike
+perl-crypt-rsa	1.99	RSA public-key cryptographysystem.	archstrike
+perl-crypt-x	0.056	Cryptographically secure random number generator	archstrike
+perl-data-buffer	0.04	Read/write buffer class	archstrike
+perl-devel-overloadinfo	0.004	introspect overloaded operators	archstrike
+perl-digest-crc	0.22.2	Generic interface to CRC algorithms	archstrike
+perl-digest-md2	2.04	Perl interface to the MD2 Algorithm	archstrike
+perl-digest-md4	1.9	Digest::MD4::Perl - Perl interface to the MD4 Algorithm	archstrike
+perl-digest-perl-md5	1.9	Perl implementation of Ron Rivests MD5 Algorithm	archstrike
+perl-expect	1.32	Automate interactions with command line programs that expose a text terminal interface.	archstrike
+perl-file-homedir	1.00	Find your home and other directories on any platform	archstrike
+perl-geography-countries	2009041301	2-letter, 3-letter, and numerical codes for countries.	archstrike
+perl-html-linkextractor	0.13	Extract links from an HTML document	archstrike
+perl-html-tagparser	0.20	Yet another HTML document parser with DOM-like methods	archstrike
+perl-http-dav	0.48	A client module for the WebDAV protocol	archstrike
+perl-io-socket	1.2301	IO::Socket - Object interface to socket communications for perl	archstrike
+perl-io-socket-ip	0.39	Family-neutral IP socket supporting both IPv4 and IPv6	archstrike
+perl-io-socket-socks	0.74	Provides a way to create socks client or server both 4 and 5 version	archstrike
+perl-ip-country	2.28	fast lookup of country codes from IP addresses	archstrike
+perl-iptables-parse	1.6.1	IPTables::Parse - Perl extension for parsing iptables and ip6tables firewall rulesets	archstrike
+perl-libwhisker2	2.5	A full-featured Perl library used for HTTP-related functions, including vulnerability scanning and exploit	archstrike
+perl-linux-desktopfiles	0.25	Perl module to get and parse the Linux .desktop files	archstrike
+perl-lwp-protocol-socks	1.7	Adds support for the socks protocol and proxy facility	archstrike
+perl-math-bigint-gmp	1.6004	Big integer calculations using the GNU Multiple Precision Arithmetic Library.	archstrike
+perl-math-gmp	2.07	High speed arbitrary size integer math	archstrike
+perl-math-pari	2.01080900	Perl interface to PARI	archstrike
+perl-modern-perl	1.20170117	enable all of the features of Modern Perl with one command	archstrike
+perl-moose	2.2009	A postmodern object system for Perl 5	archstrike
+perl-net-cidr	0.18	Manipulate IPv4/IPv6 netblocks in CIDR notation	archstrike
+perl-net-frame	1.17	The base framework for frame crafting.	archstrike
+perl-net-frame-device	1.12	Get network device information and gateway.	archstrike
+perl-net-frame-dump	1.14	Base-class for a tcpdump like implementation.	archstrike
+perl-net-frame-layer-icmp6	1.10	Internet Control Message Protocol v6 layer object.	archstrike
+perl-net-frame-layer-ipv6	1.08	Internet Protocol v6 layer object.	archstrike
+perl-net-frame-layer-sinfp3	1.01	Frame crafting made easy.	archstrike
+perl-net-frame-simple	1.09	Frame crafting made easy.	archstrike
+perl-net-libdnet	0.98	Binding for Dug Song's libdnet	archstrike
+perl-net-libdnet6	0.27	Adds IPv6 support to Net::Libdnet.	archstrike
+perl-net-netmask	1.9022	Parse, manipulate and lookup IP network blocks.	archstrike
+perl-net-nslookup	2.04	Provide nslookup(1)-like capabilties.	archstrike
+perl-netpacket	1.6.0	Assemble/disassemble network packets at the protocol level	archstrike
+perl-net-pcap	0.18	Perl/CPAN Module Net::Pcap	archstrike
+perl-net-pcaputils	0.01	Perl/CPAN Module Net::PcapUtils	archstrike
+perl-net-rawip	0.25	Perl extension to manipulate raw IP packets with interface to B<libpcap>	archstrike
+perl-net-socks	0.03	TCP/IP access through firewalls using SOCKS	archstrike
+perl-net-ssh-perl	2.14	Perl client interface to SSH	archstrike
+perl-net-whois-ip	1.19	Perl extension for looking up the whois information for ip addresses	archstrike
+perl-net-write	1.10	Net::Write - a portable interface to open and send raw data to network	archstrike
+perl-number-range	0.12	Perl extension defining ranges of numbers and testing if a	archstrike
+perl-parallel-forkmanager	1.19	A simple parallel processing fork manager.	archstrike
+perl-rpc-xml	0.80	A set of classes for core data, message and XML handling	archstrike
+perl-string-random	0.29	Perl module to generate random strings based on a pattern	archstrike
+perl-task-weaken	1.04	Ensure that a platform has weaken support	archstrike
+perl-term-ansicolor	4.06	Term::ANSIColor - Color screen output using ANSI escape sequences for perl	archstrike
+perl-test-checkdeps	0.010	Check for presence of dependencies	archstrike
+perl-test-without-module	0.20	Test::Without::Module - Test fallback behaviour in absence of modules	community
+perl-text-csv-xs	1.34	comma-separated values manipulation routines	archstrike
+perl-tftp	1.0b3	TFTP - TFTP Client class for perl	archstrike
+perl-tie-encryptedhash	1.24	Hashes (and objects based on hashes) with encrypting fields	archstrike
+perl-time-interval	1.234	Converts time intervals of days, hours, minutes, and seconds.	archstrike
+perl-uniq	0.01	Perl extension for managing list of values.	archstrike
+perl-uri-fetch	0.13	Smart URI fetching/caching	archstrike
+perl-xml-dom	1.46	Implements Level 1 of W3's DOM	archstrike
+pev	0.80	Command line based tool for PE32/PE32+ file analyze	archstrike
+phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	archstrike
+php-mt-seed	3.2	PHP mt_rand() seed cracker	archstrike-testing
+phpstress-git	r5.f987a7e	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI	archstrike-testing
+phrasendrescher	1.2.2	A modular and multi processing pass phrase cracking tool	archstrike
+piklab	0.16.2	IDE for applications based on Microchip PIC and dsPIC microcontrollers similar to the MPLAB environment	archstrike-testing
+pip3line	3.0	Swiss army knife of byte manipulation	archstrike
+pipal	1.1	A password analyser	archstrike
+pkt2flow	1.3	A simple utility to classify packets into flows.	archstrike
+plasma-git	20171121.r897	Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.	archstrike
+plecost	1.0.1	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	archstrike
+pngcheck	2.3.0	Verifies the integrity of PNG, JNG and MNG files by checking the CRCs and decompressing the image data	archstrike
+pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	archstrike
+pocsuite	2.0.6	An open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.	archstrike
+polenum	1.0	a python script to extract the password policy information from a windows machine.	archstrike
+pompem-git	r138.da342a1	A python exploit tool finder	archstrike
+portspoof-git	1.3.22.gebac0d0	A lightweight, fast, portable and secure addition to any firewall system or security infrastructure.	archstrike
+powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	archstrike
+powershell-payload-excel-delivery-git	r37.35a2d03	A VBA macro that uses invoke-shellcode to execute a powershell payload in memory.	archstrike
+powersploit-git	r476.c7985c9	A PowerShell Post-Exploitation Framework	archstrike
+powerupsql-git	20171214.r694	Powershell Toolkit for Attacking SQL Server	archstrike
+praeda-git	r48.1dc2220	An automated data/information harvesting tool designed to gather critical information from various embedded devices.	archstrike-testing
+preeny	0.1	Some helpful preload libraries for pwning stuff.	archstrike
+princeprocessor	0.21	Standalone password candidate generator using the PRINCE algorithm	archstrike
+prometheus-git	r176.a316d66	A Firewall analyzer written in ruby	archstrike
+protos-sip	2	SIP test suite	archstrike
+proxyp	0.1	A fork of the Bruteforce Exploit Detector Tool (BED).	archstrike-testing
+ps1encode-git	r41.68d7778	A tool to generate and encode a PowerShell based Metasploit payloads	archstrike-testing
+pscan	1.3	A limited problem scanner for C source files	archstrike
+pshitt-git	20150625.r23	A lightweight fake SSH server designed to collect authentication data sent by intruders.	archstrike
+ptp	0.4.2	Ranks the discoveries listed in security tool reports.	archstrike
+pulledpork-git	20170729.r318	Snort rule management	archstrike
+pupy-binaries-git	20160828.r14	Precompiled templates for pupy	archstrike
+pupy-git	20170518.r7112	Opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python.	archstrike
+pwatch	0.0.6	An ncurses tool that can be run by root to give information about processes	archstrike
+pwdump	7.1	Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.	archstrike
+pwnat-git	20171221.r13.5de412c	Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT with no 3rd party, port forwarding, DMZ or spoofing involved	archstrike
+pwndbg-git	20171226.r629	A collection of python that makes debugging with gdb suck less	archstrike
+pwntools	3.11.0	The CTF framework used by #Gallopsled in every CTF	archstrike
+pyew-git	20170206.r104	a (command line) python tool to analyse malware.	archstrike
+pygitlab	1.1.0	A Python wrapper for the GitLab API	archstrike
+pyinstaller	3.3	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	archstrike
+pyminifakedns	0.1	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	archstrike
+pymssql	2.1.3	A fast MS SQL Server client library for Python directly using C API instead of ODBC. It is Python DB-API 2.0 compliant. Works on Linux, *BSD, Solaris, Mac OS X and Windows	archstrike-testing
+pyqt3	3.18.1	A set of Python bindings for the Qt3 toolkit	archstrike
+pytacle	alpha2	Automates the task of sniffing GSM frames	archstrike-testing
+pytbull	2.1	A python based flexible IDS/IPS testing framework shipped with more than 300 tests	archstrike
+python2-amoco	2.5.1	yet another tool for analysing binaries	archstrike
+python2-apache-log-parser	1.6.2	Parse lines from an apache log file	archstrike
+python2-artifacts	20180115	A free, community-sourced, machine-readable knowledge base of forensic artifacts that the world can use both as an information source and within other tools.	archstrike
+python2-async	0.6.2	Async aims to make writing asyncronous processing easier.	archstrike
+python2-bacpypes	0.16.6	BACpypes provides a BACnet application layer and network layer written in Python for daemons, scripting, and graphical interfaces.	archstrike
+python2-bbio	1.0.10	A module to control BeagleBone IO channels	archstrike
+python2-bencode	1.0	The BitTorrent bencode python module as leight-weight, standalone package.	archstrike
+python2-binaryornot	0.4.4	Ultra-lightweight pure Python package to check if a file is binary or text	archstrike
+python2-bintrees	2.0.7	Package provides Binary-, RedBlack- and AVL-Trees in Python and Cython.	archstrike
+python2-bitarray	0.8.1	Efficient arrays of booleans for Python	archstrike
+python2-bitstring	3.1.5	Python module designed to help make the creation, manipulation and analysis of binary data as simple and natural as possible	archstrike
+python2-boto3	1.5.22	The AWS SDK for Python	archstrike
+python2-botocore	1.8.36	A low-level interface to a growing number of Amazon Web Services	archstrike
+python2-bowcaster-git	20171027.r174	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	archstrike
+python2-bumpversion	0.5.3	Version-bump your software with a single command!	archstrike
+python2-cachetools	2.0.1	Extensible memoizing collections and decorators	archstrike
+python2-cerberus	1.1	Lightweight, extensible schema and data validation tool for Python dictionaries.	archstrike
+python2-clamd	1.0.2	A python interface to Clamd (an anti-virus engine)	archstrike
+python2-claripy	7.7.12.16	An abstraction layer for constraint solvers	archstrike
+python2-cle	7.7.12.16	CLE Loads Everything (at least, may binary formats!) and provides a Pythonic interface to analyze what they are and what they would look like in memory.	archstrike
+python2-click-plugins	1.0.3	An extension module for click to enable registering CLI commands via setuptools entry-points.	archstrike
+python2-cluster	1.4.0	Allows grouping a list of arbitrary objects into related groups (clusters)	archstrike
+python2-colorizer	0.1.7	Console colorizer, which acts like grep but paint each match in it's own color.	archstrike
+python2-colorlog	3.1.0	Log formatting with colors!	archstrike
+python2-cookiecutter	1.6.0	A command-line utility that creates projects from project templates	archstrike
+python2-cooldict	1.02	Some useful dict-like structures	archstrike
+python2-couchdbkit	0.6.5	A framework to allow python applications to use CouchDB	archstrike
+python2-crc16	0.1.1	Library for calculating CRC16	archstrike
+python2-crcelk	1.2	Updated fork of CrcMoose.	archstrike
+python2-crysp	0.9	A crypto related pkg for amoco	archstrike
+python2-cybox	2.1.0.14	A Python library for parsing and generating CybOX 2.1.0 content.	archstrike
+python2-dartspylru-git	20130715.r7	An LRUDict is basically a simple dictionary, which has a defined maximum capacity	archstrike
+python2-demjson	2.2.4	Encoder, decoder, and lint/validator for JSON (JavaScript Object Notation) compliant with RFC 4627	archstrike
+python2-dicttoxml	1.7.4	Converts a Python dictionary or other native data type into a valid XML string.	archstrike
+python2-dpkt-git	20171130.r451	This is a Python library for interacting with and creating packets.	archstrike
+python2-easyprocess	0.2.3	Easy to use python subprocess interface.	archstrike
+python2-elasticsearch	6.0.0	Python client for Elasticsearch	archstrike
+python2-elfesteem	0.2.1	ELFEsteem: ELF/PE/Mach-O file manipulation library	archstrike
+python2-elixir	0.7.1	A declarative layer on top of SQLAlchemy. It is a fairly thin wrapper, which provides the ability to define model objects following the Active Record design pattern	archstrike
+python2-emailprotectionslib	0.8.3	Python library to interact with SPF and DMARC	archstrike
+python2-enum	0.4.6	Robust enumerated type support in Python.	archstrike
+python2-esmre	0.3.1	Modules used to accelerate execution of a large collection of regular expressions using the Aho-Corasick algorithms	archstrike
+python2-exscript-git	20171213.r1754	A Python module making Telnet and SSH easy	archstrike
+python2-facepy	1.0.8	makes it really easy to interact with Facebook's Graph API	archstrike
+python2-fake-factory	0.4.2	Faker is a Python package that generates fake data for you.	archstrike
+python2-fbchat	1.1.1	Facebook Chat (Messenger) for Python	archstrike
+python2-foursquare	2016.9.12	easy-as-pie foursquare wrapper library	archstrike
+python2-fuzzywuzzy-git	20171209.r326	Fuzzy string matching in python	archstrike
+python2-geocoder	1.20.1	Geocoder is a simple and consistent geocoding library.	archstrike
+python2-geopy	1.11.0	Python Geocoding Toolbox	archstrike
+python2-gevent-websocket	0.9.5	Websocket handler for the gevent pywsgi server, a Python network library.	archstrike
+python2-gmpy	1.17	GMP or MPIR interface to Python 2.4+ and 3.x	archstrike
+python2-google	1.9.3	Python bindings to the Google search engine.	archstrike
+python2-grandalf	0.55555	A graph and drawing algorithms framework	archstrike
+python2-guess-language	0.2	Attempts to determine the natural language of a selection of Unicode (utf-8) text	archstrike
+python2-hachoir-core	1.3.3	A library written in Python which allows to see and edit a binary files field per field.	archstrike
+python2-hachoir-metadata	1.3.3	A tool to extract metadata from multimedia files.	archstrike
+python2-hachoir-parser	1.3.4	Most common file format parsers written using hachoir-core.	archstrike
+python2-hgapi	1.7.2	hgapi is a pure-Python API to Mercurial, that uses the command-line interface instead of the internal Mercurial API.	archstrike
+python2-idstools	0.6.0	A collection of Python libraries for working with IDS systems (typically Snort and Suricata).	archstrike
+python2-image	1.5.5	Django application that provides cropping, resizing, thumbnailing, overlays and masking for images and videos with the ability to set the center of attention,	archstrike
+python2-instagram-git	20160322.r232	Instagram api library for python.	archstrike
+python2-intervaltree	2.1.0	Editable interval tree data structure for Python 2 and 3	archstrike
+python2-iptools	0.6.1	Python utilites for manipulating IPv4 and IPv6 addresses	archstrike
+python2-ishell	0.1.4	Build Interactive Shells with Python	archstrike
+python2-js2py	0.58	Fast javascript parser (based on esprima.js)	archstrike
+python2-libnmap	0.7.0	Python NMAP library enabling you to start async nmap tasks, parse and compare/diff scan results	archstrike
+python2-libtaxii	1.1.110	TAXII Library.	archstrike
+python2-linkedin	0.1.5	A Python Library to interface with LinkedIn API, OAuth and JSON responses	archstrike
+python2-logutils	0.3.4.1	Logging utilities	archstrike
+python2-macholib	1.8	Mach-O header analysis and editing	archstrike
+python2-maec	4.1.0.13	An API for parsing and creating MAEC content.	archstrike
+python2-meliae	0.4.0	Meliae is a library meant to help people understand how their memory is being used in Python	archstrike
+python2-miasm-git	20171211.r2464	A Reverse engineering framework in Python	archstrike
+python2-mitmproxy	0.18.2	python2 version for mitmproxy	archstrike
+python2-mixbox	1.0.1	Utility library for cybox, maec, and stix packages	archstrike
+python2-mmh3	2.3.1	Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.	archstrike
+python2-modbus_tk	0.5.8	Implementation of modbus protocol in python	archstrike
+python2-mulpyplexer	0.08	A module that multiplexes interactions with lists of python objects.	archstrike
+python2-multipartposthandler	0.1.0	A handler for urllib2 to enable multipart form uploading	archstrike
+python2-netfilterqueue	0.6	A Python bindings for libnetfilter_queue	archstrike
+python2-nfqueue	0.6	Python bindings for libnetfilter_queue by Pierre Chifflier	archstrike
+python2-nmap	0.6.0	Python2 library which helps in using the nmap port scanner	archstrike
+python2-ntlm	1.1.0	Python clients running on any operating system to provide NTLM authentication to a supporting server	archstrike
+python2-ntplib	0.3.3	Python NTP library	archstrike
+python2-opinel	1.3.4	A Python package used by Scout2 and AWS-Recipes.	archstrike
+python2-ordered-set	2.0.1	A MutableSet that remembers its order, so that every entry has an index.	archstrike
+python2-osmgpsmap	0.7.3	Python bindings for osm-gps-map	archstrike
+python2-owasp-pysec-git	r266.163e10a	OWASP Python Security Project	archstrike
+python2-pager	3.3	Terminal/console pager module for Python	archstrike
+python2-paho-mqtt	1.2	Python 2 client library for MQTT v3.1 and v3.1.1	archstrike
+python2-pattern	2.6	Pattern is a web mining module for the Python programming language.	archstrike
+python2-peachpy	0.0.1	A Python framework for writing high-performance assembly kernels.	archstrike
+python2-pefile	2016.3.28	This is a Python library for PE file support and investigation.	archstrike
+python2-phply	1.0.0	PHP parser written in Python using PLY	archstrike
+python2-pluginbase	0.5	A support library for building plugins sytems in Python.	archstrike
+python2-plumbum	1.6.3	Plumbum: shell combinators library	archstrike
+python2-poyo	0.4.1	A minimal YAML Parser for Python	archstrike
+python2-ptrace	0.9.2	A debugging using ptrace (Linux, BSD and Darwin system call to trace processes) written in Python.	archstrike
+python2-pty-shells-git	20140728.r17	Python PTY backdoors - full PTY or nothing! http://insecurety.net	archstrike
+python2-publicsuffix	1.1.0	Get a public suffix for a domain name using the Public Suffix List.	archstrike
+python2-py3270	0.3.3	A Python interface to x3270, an IBM 3270 terminal emulator	archstrike
+python2-pybloom	1.1	PyBloom: A Probabilistic data structure	archstrike
+python2-pybloomfiltermmap	0.3.15	A Bloom filter (bloomfilter) for Python built on mmap	archstrike
+python2-pycallgraph	1.0.1	A Python module that creates call graphs for Python programs	archstrike
+python2-pyclamd	0.3.17	A python interface to Clamd (Clamav daemon)	archstrike
+python2-pydeep	0.2	This is the Python interface to ssdeep.	archstrike
+python2-pydes	2.0.1	Pure python implementation of DES and TRIPLE DES encryption algorithm	archstrike
+python2-pyexiftool-git	20141008.r29	A Python library to communicate with an instance of Phil Harvey's excellent ExifTool command-line application.	archstrike
+python2-pyexiv2	0.3.2	A python binding to exiv2	archstrike
+python2-pyghmi	1.0.10	This is a pure python implementation of IPMI protocol.	archstrike
+python2-pygoogle	0.6	Simple interface to Google	archstrike
+python2-pygraphml	2.2	Small library to parse GraphML files in Python	archstrike
+python2-pygraphviz	1.3.1	PyGraphviz is a Python interface to the Graphviz graph layout and visualization package.	archstrike
+python2-pygtail	0.7.0	Reads log file lines that have not been read.	archstrike
+python2-pyip	0.7	Efficient arrays of booleans for Python	archstrike
+python2-pyjsparser	2.5.2	Fast javascript parser (based on esprima.js)	archstrike
+python2-pylibemu	0.3.3	A Libemu Cython wrapper	archstrike
+python2-pyliblzma	0.5.3	Python 2 bindings for liblzma	archstrike
+python2-pylibpcap	0.6.4	Python module for the libpcap packet capture library, based on the original python libpcap module by Aaron Rhodes.	archstrike
+python2-pylzma	0.4.8	Python bindings for the LZMA library	archstrike
+python2-pynids	0.6.1	A Python wrapper for libnids.	archstrike
+python2-pypcap	1.1.5	Python extension module for libpcap.	archstrike
+python2-pypdf2	1.26.0	PDF toolkit	archstrike
+python2-pypdns	1.3	Python API for PDNS.	archstrike
+python2-pype32	0.1	Yet another Python library to read and write PE/PE+ files.	archstrike
+python2-pypssl	2.1	Python API for PSSL.	archstrike
+python2-pyqtgraph	0.9.10	Scientific Graphics and GUI Library for Python	archstrike
+python2-pyrasite	2.0	Code injection and introspection of running Python processes	archstrike
+python2-pyrasite-gui	2.0beta7	Code injection and introspection of running Python processes	archstrike-testing
+python2-pyric	0.1.6.3	Python Wireless Library	archstrike
+python2-pyrtlsdr-git	r250.2a3869c	A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)	archstrike
+python2-pyscard	1.9.5	A Python module adding smart cards support to Python	archstrike
+python2-pysctp	0.6	A python module for the SCTP protocol stack and library.	archstrike
+python2-pysendfile	2.0.1	A Python interface to sendfile	archstrike
+python2-pyshark	0.3.6.2	Python wrapper for tshark, allowing python packet parsing using wireshark dissectors	archstrike
+python2-pysmb	1.1.18	an experimental SMB/CIFS library written in Python	archstrike
+python2-pysnmp	4.3.5	SNMP library for Python	archstrike
+python2-pysqli-git	r21.37418c9	Python SQL injection framework	archstrike
+python2-pysvn	1.9.0	Python2 SVN Extension.	archstrike
+python2-python-owasp-zap-v2	0.0.9	OWASP ZAP API client	archstrike
+python2-pytorctl	201310164gc8fcb25	A Python Tor controller with extensions to support path building and various constraints on node and path selection, as well as statistics gathering.	archstrike
+python2-pyvex	7.7.12.16	A Python interface to libVEX and VEX IR.	archstrike
+python2-pyvirtualdisplay	0.2.1	python wrapper for Xvfb, Xephyr and Xvnc	archstrike
+python2-pyxml	0.8.4	A fast and simple micro-framework for small web applications.	archstrike
+python2-py-zabbix	1.1.3	Python modules for work with zabbix.	archstrike
+python2-qt4reactor	1.6	Twisted Qt4 integration	archstrike
+python2-rarfile	3.0	RAR archive reader for Python	archstrike
+python2-ratelim	0.1.6	Makes it easy to respect rate limits.	archstrike
+python2-rdpy	1.3.2	Remote Desktop Protocol in twisted python	archstrike
+python2-re2	0.2.22	Python wrapper for Google's RE2 using Cython	archstrike
+python2-regex	2017.02.08	Alternative regular expression module, to replace re.	archstrike
+python2-rekall	1.6.0	A Memory Forensic Framework	archstrike-testing
+python2-requests_ntlm	1.0.0	Allows for HTTP NTLM authentication using the requests library	archstrike
+python2-roguehostapd	1.1.6	Hostapd wrapper for hostapd	archstrike
+python2-rpyc	3.3.0	Remote Python Call (RPyC), a transparent and symmetric RPC library	archstrike
+python2-ruamel.ordereddict	0.4.9	a version of dict that keeps keys in insertion resp. sorted order	archstrike
+python2-scp	0.10.2	scp module for paramiko	archstrike
+python2-simuvex	7.7.9.8	A symbolic execution engine for the VEX IR	archstrike
+python2-skpy	0.6	An unofficial Python library for interacting with the Skype HTTP API.	archstrike
+python2-smoke-zephyr	1.1.0	Python utility collection	archstrike
+python2-smspdu	1.0	SMS PDU encoding and decoding, including GSM-0338 character set.	archstrike
+python2-stem-git	20170106.r2467	A controller library for Tor	archstrike
+python2-stix	1.2.0.3	An API for parsing and generating STIX content.	archstrike
+python2-stopit	1.1.1	Timeout control decorator and context managers, raise any exception in another thread	archstrike
+python2-symath	0.1.25	symbolic mathematics for python	archstrike
+python2-telepot	10.4	Python framework for Telegram Bot API	archstrike
+python2-telnetsrv	0.4	Telnet server handler library	archstrike
+python2-terminaltables	3.1.0	Generate simple tables in terminals from a nested list of strings.	archstrike
+python2-tinyec	0.3.1	A tiny library to perform arithmetic operations on elliptic curves in pure python	archstrike
+python2-tldextract	2.0.2	Accurately separates the gTLD or ccTLD (generic or country code top-level domain) from the registered domain and subdomains of a URL	archstrike
+python2-tweepy	1.7.1	A python library for the Twitter API. OAuth, complete coverage, streaming API	archstrike
+python2-twittersearch	1.0.1	A library to easily iterate tweets found by the Twitter API	archstrike
+python2-tzlocal	1.3	tzinfo object for the local timezone	archstrike
+python2-ua-parser	0.7.3	Python port of Browserscope's user agent parser	archstrike
+python2-uefi-firmware-parser	1.6	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	archstrike
+python2-user-agents	1.1.0	A library to identify devices (phones, tablets) and their capabilities by parsing (browser/HTTP) user agent strings	archstrike
+python2-utidylib-git	20100108.r2	Python2 bindings for Tidy HTML parser/cleaner.	archstrike
+python2-validictory	1.0.1	general purpose python data validator	archstrike
+python2-virustotal-api	1.1.9	Virus Total Public/Private/Intel API	archstrike
+python2-vulndb-git	r54.f208e18	Python SDK to access the vulnerability database	archstrike
+python2-weakrefmethod	1.0.3	A WeakMethod class for storing bound methods using weak references.	archstrike
+python2-webunit	1.3.10	Unit test your websites with code that acts like a web browser.	archstrike
+python2-whichcraft	0.4.1	This package provides cross-platform cross-python shutil.which functionality.	archstrike
+python2-wsgiref	0.1.2	WSGI (PEP 333) Reference Library	archstrike
+python2-xdot	0.6	Interactive viewer for Graphviz dot files	archstrike
+python2-yapsy	1.11.223	Yet another plugin system	archstrike
+python2-z3-solver	4.5.1.0.post2	an efficient SMT solver library	archstrike
+python2-zlib_wrapper	0.1.3	Wrapper around zlib with custom header crc32.	archstrike
+python-async	0.6.2	Async aims to make writing asyncronous processing easier.	archstrike
+python-async_timeout	1.2.0	Timeout context manager for asyncio programs	archstrike
+python-bfac-git	20171108.r41	Advanced Backup-File Artifacts Testing for Web-Applications	archstrike
+python-boto3	1.6.4	The AWS SDK for Python	community
+pythonect	0.5.0	A general-purpose dataflow programming language written in Python	archstrike
+python-http-parser	0.8.3	HTTP request/response parser for Python compatible with Python 2, Python 3 and Pypy.	community
+python-ipcalc	1.99.0	IP subnet calculator for Python.	archstrike
+python-ipgetter	0.6	Utility to fetch your external IP address	archstrike
+python-nmap	0.6.1	Python3 library which helps in using the nmap port scanner.	archstrike
+python-odfpy	1.3.4	Python API and tools to manipulate OpenDocument files	archstrike
+python-pefile	2016.3.28	Python PE parsing module	archstrike
+python-ptrace	0.9.3	A debugging using ptrace (Linux, BSD and Darwin system call to trace processes) written in Python.	community
+python-pydeep	0.2	This is the Python interface to ssdeep.	archstrike
+python-pyminifier	2.1	A Python code minifier, obfuscator, and compressor	archstrike
+python-pyqtgraph	0.9.10	Scientific Graphics and GUI Library for Python	archstrike
+python-pysmb	1.1.18	an experimental SMB/CIFS library written in Python	archstrike
+python-pystrich	0.8	A Python module to generate 1D and 2D barcodes (Code 128, DataMatrix, QRCode and EAN13).Forked from huBarcode.	archstrike
+python-r2pipe	0.8.9	A Pipe interface for radare2	archstrike
+python-spark	1.6.0	An Early-Algorithm Context-free grammar Parser	archstrike
+python-stem-git	20170226.r2510	A controller library for Tor	archstrike
+python-tabulate	0.8.2	Pretty-print tabular data in Python	archstrike
+python-uncompyle6	2.15.1	Python byte-code disassembler and source-code converter.	archstrike
+python-virustotal-api	1.1.2	Virus Total Public/Private/Intel API	archstrike
+pythonwhois	2.4.3	Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. No dependencies.	archstrike
+python-xbee	2.3.1	Python tools for working with XBee radios	archstrike
+python-xdis	3.6.8	Python cross-version byte-code disassembler and marshal routines.	archstrike
+pytinydns-git	r16.d8b53c4	A tiny DNS server that resolves A records to IPs.	archstrike
+qscintilla-qt3	1.7.1	A port to Qt3 of Neil Hodgson's Scintilla C++ editor class	archstrike-testing
+qt3	3.3.8b	A cross-platform application and UI framework	archstrike-testing
+quicksand_lite	1.01.001	Command line tool for scanning streams within office documents plus xor db attack	archstrike
+rainbowcrack	1.6.1	Password cracker based on the faster time-memory trade-off. With MySQL and Cisco PIX Algorithm patches	archstrike
+rarcrack	0.2	This program uses bruteforce algorithm to find correct password (rar, 7z, zip)	archstrike
+ratproxy	1.58	A passive web application security assessment tool	archstrike
+rawr-git	73.0924126	Web enumerator for the rapid Assessment of web resources	archstrike
+rcracki-mt	0.7.0	A tool to perform rainbow table attacks on password hashes. It is intended for indexed/perfected rainbow tables, mainly generated by the distributed project www.freerainbowtables.com	archstrike
+rdesktop-brute	1.5.0	It connects to windows terminal servers - Bruteforce patch included.	archstrike-testing
+reaver-wps-fork-t6x-git	1.6.3.r74.g1fbdf8d	Brute force attack against Wifi Protected Setup forked w/ added Pixie Dust Attack	archstrike
+rebind	0.3.4	DNS Rebinding Tool	archstrike-testing
+recon-ng-git	20180105.r909	A full-featured Web Reconnaissance framework written in Python.	archstrike
+recoverjpeg	2.6.1	Recover jpegs from damaged devices	archstrike
+recstudio	4.0_20130717	Cross platform interactive decompile	archstrike-testing
+redfang	2.5	Finds non-discoverable Bluetooth devices by brute-forcing the last six bytes of the Bluetooth addresses and calling read_remote_name()	archstrike-testing
+redirectpoison	1.1	A tool to poison a targeted issuer of SIP INVITE requests with 301 (i.e. Moved Permanently) redirection responses.	archstrike
+redpoint-git	20160308.r123	Digital Bond's ICS Enumeration Tools	archstrike
+regeorg-git	r30.1ca54c2	The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.	archstrike
+reglookup	1.0.1	Command line utility for reading and querying Windows NT registries	archstrike-testing
+replayproxy	1.1	Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file	archstrike-testing
+responder	2.3.0	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	archstrike
+rfcat	161011	RF ChipCon-based Attack Toolset	archstrike
+rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	archstrike-testing
+rfidiot-git	20170807.r78	An open source python library for exploring RFID devices.	archstrike
+rfidtool	0.01	A opensource tool to read / write rfid tags	archstrike-testing
+ridenum-git	r59.31c08aa	Rid_enum is a null session RID cycle attack for brute forcing domain controllers.	archstrike-testing
+rifiuti2	0.6.1	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	archstrike-testing
+rinetd	0.62	internet redirection server	archstrike-testing
+ropeme	1.0	ROPME is a set of python scripts to generate ROP gadgets and payload.	archstrike
+ropgadget	5.4	Lets you search your gadgets on your binaries (ELF format) to facilitate your ROP exploit.	archstrike
+routersploit-git	20180114.r654	The Router Exploitation Framework	archstrike
+rp++	1	Find ROP gadgets in PE/ELF/MACH-O x86/x64 binaries	archstrike-testing
+rr	4.5.0	A Record and Replay Framework	archstrike
+rsakeyfind	1.0	A tool to find RSA key in RAM.	archstrike
+rsmangler	1.4	Takes a wordlist and perform various manipulations on it similar to those done by John the Ripper with a few extras.	archstrike
+rspet-git	20161025.r201	Python based reverse shell equipped with functionalities that assist in a post exploitation scenario	archstrike
+rtlamr-git	306.bf6b099	An rtl-sdr receiver for smart meters operating in the 900MHz ISM band.	archstrike
+rtp-flood	1.0	RTP flooder	archstrike-testing
+rtpinsertsound	3.0	A tool to insert audio into a specified audio (i.e. RTP) stream	archstrike-testing
+rtpmixsound	3.0	A tool to mix pre-recorded audio in real-time with the audio (i.e. RTP) in the specified target audio stream.	archstrike-testing
+ruby-artii	2.1.2	A little Figlet-based ASCII art generator.	archstrike
+ruby-bundler	1.16.1	The best way to manage your application's dependencies	community
+ruby-colored	1.2	>> puts 'this is red'.red >> puts 'this is red with a blue background (read: ugly)'.red_on_blue...	archstrike
+ruby-highline	1.7.8	A high-level text user interface toolkit for Ruby	archstrike
+ruby-http_configuration	1.0.4	Gem that provides the ability to set defaults for proxies and timeouts for Net::HTTP.	archstrike
+ruby-mini_exiftool	2.8.0	This library is wrapper for the Exiftool command-line application (http://www.sno.phy.queensu.ca/~phil/exiftool).	archstrike
+ruby-mini_portile	0.7.0.rc4	Simplistic port-like solution for developers	archstrike-testing
+ruby-msgpack	1.0.2	MessagePack, a binary-based efficient data interchange format.	archstrike
+ruby-nokogiri	1.6.1	Nokogiri (é?) is an HTML, XML, SAX, and Reader parser	archstrike-testing
+ruby-rack	2.0.4	a modular Ruby webserver interface	community
+ruby-rubyzip	1.2.0	A ruby module for reading and writing zip files.	archstrike
+ruby-spider	0.5.1	A Web spidering library	archstrike
+ruby-zip	2.0.2	zip is a Ruby library for reading and writing Zip files	archstrike
+ruler-git	20170719.r206	A tool that allows you to interact with Exchange servers through the MAPI/HTTP protocol.	archstrike
+safecopy	1.7	A disk data recovery tool to extract data from damaged media	archstrike
+sagan	1.1.0	a snort-like log analysis engine	archstrike-testing
+sagan-rules	10222015	Rules package for Sagan	archstrike-testing
+sakis3g	0.2.0e	An all-in-one script for connecting with 3G	archstrike-testing
+salsapipe-git	20150727.r26.6d81ace	Encrypted network tunneling using salsa20 from libnettle and GPG from libgpgme	archstrike
+samdump2	3.0.0	Dump password hashes from a Windows NT/2k/XP installation	archstrike
+samhain	4.2.0	File integrity / intrusion detection system	archstrike-testing
+samydeluxe	20090216.r2.2ed1bac	Automatic samdump creation script.	archstrike-testing
+sandi-search	13	An open source project for search the exploits from exploit databases ...	archstrike-testing
+sandy	20140930.r6.531ab16	An open-source Samsung phone encryption assessment framework.	archstrike-testing
+sasm	3.9.0	A simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages	archstrike
+sbd	1.36	Netcat-clone, portable, offers strong encryption - features AES-128-CBC + HMAC-SHA1 encryption, program execution (-e), choosing source port, continuous reconnaissancenection with delay + more	archstrike
+scalpel	2.0	A frugal, high performance file carver	archstrike
+scannerl-git	20171213.r52	The modular distributed fingerprinting engine	archstrike-testing
+scansploit-git	20160415.r9	An Exploit using barcodes, QRcodes, earn13, datamatrix	archstrike
+scanssh	2.1.1	Fast SSH server and open proxy scanner.	archstrike
+scout2-git	20170108.r736	Security auditing tool for AWS environments	archstrike-testing
+scrape-dns-git	r58.3df392f	Searches for interesting cached DNS entries.	archstrike
+scrounge-ntfs	0.9	Data recovery program for NTFS file systems	archstrike
+sctpscan-git	20140205.r34	A network scanner for discovery and security	archstrike
+sdrangelove-git	20150707.r174	A project that allows you to control all the process inside a GNSS receiver, from the raw bits at the output of an analog-to-digital converter to the computation of the navigation solution, that is, obtaining receiver's position and time	archstrike-testing
+sea-git	r103.9aca1c8	A tool to help to create exploits of binary programs	archstrike-testing
+sec	2.7.12	A logfile monitoring tool with support for event correlation, written in perl	archstrike
+seclists-git	r356.43e28e3	A collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.	archstrike
+secscan	1.5	Web Apps Scanner and Much more utilities	archstrike
+secure-delete	3.1	Secure file, disk, swap, memory erasure toolkit	archstrike
+sees-git	r67.cd741aa	Increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same companyâ??s domain	archstrike
+sergio-proxy	0.2.1	A multi-threaded transparent HTTP proxy for manipulating web traffic	archstrike
+sessionlist	1.0	Sniffer that intents to sniff HTTP packets and attempts to reconnaissancestruct interesting authentication data from websites that do not employ proper secure cookie auth.	archstrike
+set-git	7.7.2.r0.gd501722de	Social-engineer toolkit. Aimed at penetration testing around Social-Engineering	archstrike
+sfuzz	0.7.0	Simple Fuzzer is a simple fuzzer	archstrike-testing
+shard	1.5	A command line tool to detect shared passwords	archstrike
+shellme-git	r5.d5206f0	Because sometimes you just need shellcode and opcodes quickly	archstrike
+shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	archstrike
+shellsploit	0.3	New Generation Exploit Development Kit	archstrike
+shellter	6.8	A Dynamic Shellcode Injector(wine version - beta)	archstrike
+shocker-git	20160318.r60	Tool to find and exploit servers vulnerable to Shellshock	archstrike
+shodan	1.7.7	A Python2 library for Shodan.io (https://developer.shodan.io)	archstrike
+sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	archstrike
+silk	3.14.0	CERT netflow tools.	archstrike-testing
+simple-ducky-git	20130909.r20	A payload generator	archstrike
+simple-email-spoofer-git	20161120.r50	A simple Python CLI to spoof emails.	archstrike
+sinfp	1.23	A full operating system stack fingerprintinging suite.	archstrike-testing
+sipcrack	0.2	A SIP protocol login cracker.	archstrike-testing
+sipp	3.5.1	A free Open Source test tool / traffic generator for the SIP protocol.	archstrike
+sipsak	0.9.6	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	archstrike
+sipvicious	0.2.8	Tools for auditing SIP devices	archstrike-testing
+skipfish	2.10b	A fully automated, active web application security reconnaissancenaissance tool	archstrike
+skyjack-git	10.d869851	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control	archstrike-testing
+skypefreak-git	r33.9347a65	A Forensic Framework for Skype	archstrike-testing
+slb	0.1.24	A set of tools that can help you to control a load-balancing system	archstrike-testing
+slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	archstrike
+slowloris6	0.7.1	IPv6 version - Slowloris HTTP DoS is a tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	archstrike
+smartphone-pentest-framework-git	20150913.r104	Repository for the Smartphone Pentest Framework (SPF)	archstrike
+smbmap	1.0.5	A handy SMB enumeration tool	archstrike-testing
+smod	1.0.3	Modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol.	archstrike
+smtp-fuzz	1.0	Simple smtp fuzzer	archstrike-testing
+smtpmap	0.8.234_BETA	Tool to identify the running smtp software on a given host.	archstrike-testing
+smtpscan	0.5	A tool to guess which MTA is used by sending several special SMTP requests and by comparing error codes	archstrike
+smtp-user-enum	1.2	Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.	archstrike
+snapception-git	20141017.r8	Intercept and decrypt all snapchats received over your network	archstrike
+snarf-git	20161006.r41	man-in-the-middle / relay suite	archstrike
+sniffjoke-git	20150102.r771	Injects packets in the transmission flow that are able to seriously disturb passive analyze like sniffing, interception and low level information theft	archstrike-testing
+sniffles	3.3.1	A Packet Capture Generator for IDS and Regular Expression Evaluation	archstrike
+snmp-brute-git	20151002.r15	SNMP brute force, enumeration, CISCO config downloader and password cracking script.	archstrike-testing
+snmpcheck	1.8	A free open source utility to get information via SNMP protocols.	archstrike
+snmpscan	0.1	A free, multi-processes SNMP scanner	archstrike
+snoopy-ng-git	r128.eac73f5	A distributed, sensor, data collection, interception, analysis, and visualization framework.	archstrike-testing
+snort	2.9.9.0	A lightweight network intrusion detection system.	archstrike
+snow	20130616	Steganography program for concealing messages in text files	archstrike
+softhsm	2.2.0	Software PKCS11 store	archstrike-testing
+spectools	2016_01_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	archstrike-testing
+speedpwn-git	20111209.r8.3dd2793	An active WPA/2 Bruteforcer, original created to prove weak standard key generation in different ISP-labeled routers without a client connected	archstrike-testing
+spiderfoot	2.8.0	The Open Source Footprinting Tool	archstrike-testing
+spiderpig-pdffuzzer	0.1	A javascript pdf fuzzer	archstrike-testing
+spike	2.9	IMMUNITYsec's fuzzer creation kit in C	archstrike-testing
+spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	archstrike-testing
+spiped	1.6.0	A utility for creating symmetrically encrypted and authenticated pipes between socket addresses	archstrike
+spipscan-git	r69.4ad3235	SPIP (CMS) Scanner for penetration testing purpose written in Python	archstrike
+sploitego	r153.d9568dc	Maltego Penetration Testing Transforms	archstrike-testing
+spoofcheck-git	20160817.r16	Simple script that checks a domain for email protections	archstrike
+spooftooph	0.5.2	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	archstrike-testing
+sps	4.3	A Linux packet crafting tool. Supports IPv4, IPv6 including extension headers, and tunneling IPv6 over IPv4.	archstrike
+sqlbrute	1.0	Brute forces data out of databases using blind SQL injection.	archstrike
+sqlninja	0.2.999	A tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end	archstrike
+sqlpat	1.0.1	This tool should be used to audit the strength of Microsoft SQL Server passwords offline.	archstrike
+sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	archstrike-testing
+squashfuse-git	20161009.r327	FUSE filesystem to mount squashfs archives	archstrike
+ssdc	1.2.0	Python API for cross-platform colored terminal text.	archstrike
+ssdeep	2.13	A program for computing context triggered piecewise hashes	archstrike
+sshatter	1.2	Password bruteforcer for SSH	archstrike-testing
+ssh-audit-git	20161102.r165	SSH server auditing (banner, key exchange, encryption, mac, compression, compatbility, etc)	archstrike
+sslcaudit-git	r524.f218b9b	Utility to perform security audits of SSL/TLS clients	archstrike
+ssldump-git	20170612.r47	an SSLv3/TLS network protocol analyzer	archstrike
+ssllabs-scan	1.4.0	Test whether a host is vulnerable to the Heartbleed attack	archstrike
+sslnuke-git	0.r5.c5faeaa	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	archstrike-testing
+sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	archstrike-testing
+sslyze	1.0.0	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations	archstrike
+ssma-git	20161206.r55	Simple Static Malware Analyzer	archstrike
+ssss	0.5	Split and Combine Secrets using Shamir's Secret Sharing Scheme	archstrike
+sstat-git	20141023.r8	Check the status of a server while fuzzing or DDoSing	archstrike-testing
+stackflow-git	0.r2.2af525d	Universal stack-based buffer overfow exploitation tool	archstrike
+starttls-mitm-git	r7.b257756	A starttls-capable transparent man-in-the-middle proxy	archstrike-testing
+statsprocessor	0.11	A high-performance word-generator based on per-position Markov-attack	archstrike
+stegsolve	1.0	Steganography Solver	archstrike
+stepic	0.3	Python image steganography	archstrike
+stickykeyshunter-git	20160911.r15	Script to test an RDP host for sticky keys and utilman backdoor	archstrike
+stomper	0.4.1	A transport neutral client implementation of the STOMP protocol.	archstrike
+stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	archstrike
+subbrute-git	20170212.r107	A (fast) multi-threaded python tool for enumerating subdomains	archstrike
+subdomainer	1.2	A tool designed for obtaining subdomain names from public sources.	archstrike-testing
+sublist3r-git	20170214.r94	A Fast subdomains enumeration tool for penetration testers	archstrike
+subterfuge	5.0	Automated Man-in-the-Middle Attack Framework	archstrike-testing
+sucrack	1.2.3	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	archstrike
+sulley-git	1.0.e72d343	A pure-python fully automated and unattended fuzzing framework	archstrike-testing
+suricata	3.2.1	An Open Source Next Generation Intrusion Detection and Prevention Engine	archstrike-testing
+svn-extractor-git	r34.bc6da4d	A simple script to extract all web resources by means of .SVN folder exposed over network.	archstrike-testing
+swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	archstrike-testing
+synscan	5.02	fast asynchronous half-open TCP portscanner	archstrike
+sysinternals-suite	20160729	Sysinternals tools suite	archstrike-testing
+t50	5.7.0	Experimental Multi-protocol Packet Injector Tool	archstrike
+taof	0.3.2	Taof is a GUI cross-platform Python generic network protocol fuzzer.	archstrike-testing
+tbear	1.5	An ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool and a Bluetooth hidden device locator	archstrike-testing
+tcpextract	1.1	Extracts files from captured TCP sessions. Support live streams and pcap files.	archstrike
+tcpick	0.2.1	TCP stream sniffer and connection tracker	archstrike
+tcpjunk	2.9.03	A general tcp protocols testing and hacking utility	archstrike-testing
+tcptraceroute	1.5beta7	A traceroute implementation using TCP packets.	archstrike
+tcpwatch	1.3.1	A utility written in Python that lets you monitor forwarded TCP connections or HTTP proxy connections.	archstrike
+tcpxtract	1.0.1	tcpxtract is a tool for extracting files from network traffic	archstrike
+teamsql	2.6.159	Multi-Platform SQL Client	archstrike-testing
+teardown	1.0	Command line tool to send a BYE request to tear down a call.	archstrike-testing
+termineter	0.2.6	Smart meter testing framework	archstrike-testing
+tftp-bruteforce	0.1	A fast TFTP filename bruteforcer written in perl	archstrike-testing
+thc-pptp-bruter	0.1.4	Brute force program against pptp vpn endpoints (tcp port 1723)	archstrike
+thcsmartbrute	1.0	A tool that finds undocumented and secret commands implemented in a smartcard.	archstrike-testing
+thc-ssl-dos	1.4	A tool to verify the performance of SSL. To be used in your authorized and legitimate area ONLY. You need to accept this to make use of it, no use for bad intentions, you have been warned!	archstrike-testing
+theharvester-git	20161011.r56	Python tool for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers)	archstrike
+themole	0.3	Automatic SQL Injection Exploitation Tool	archstrike-testing
+thezoo-git	20171107.r153	A project created to make the possibility of malware analysis open and available to the public	archstrike
+tiger	3.2.3	A security scanner that checks computer for known problems	archstrike
+tilt-git	90.2bc2ef2	Terminal Ip Lookup Tool	archstrike
+tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	archstrike
+tnscmd10g	1.3	A lame tool to prod the oracle tnslsnr process (1521/tcp)	archstrike
+tomb	2.5	A system for easy encryption and backup of personal files	archstrike
+tomcatwardeployer-git	20160912.r65	Apache Tomcat auto WAR deployment & pwning penetration testing tool.	archstrike
+topera-git	20140105.r19.3e230fd	A new security tools for IPv6, with the particularity that their attacks can't be detected by Snort.	archstrike
+tor-autocircuit	0.2	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	archstrike-testing
+torshammer	1.0	A slow post dos testing tool written in Python.	archstrike
+tpcat	latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures (taken on each side of the firewall as an example) and report any packets that were seen on the source capture but didnâ??t make it to the dest.	archstrike-testing
+tplmap	0.3.1	Automatic Server-Side Template Injection Detection and Exploitation Tool	archstrike-testing
+triad-decompiler	0.4.3	Capstone based x86 decompiler for ELF binaries	archstrike
+trid	2.24	Utility to identify file types using their binary signatures	archstrike
+trid-defs	31.10.16	Definitions DB for trid that describes recurring patterns in supported file types	archstrike
+trinity-git	v1.7.267.g37ae2cce	A Linux System call fuzzer	archstrike
+truecrack-git	20150326.r64	Password cracking for truecrypt(c) volumes.	archstrike-testing
+tsh-sctp	r2.850a2da	An open-source UNIX backdoor	archstrike-testing
+tuxcut	5.1	Netcut-like program for Linux written in PyQt	archstrike-testing
+twittor-git	20150909.r5	Stealthy python based backdoor that uses Twitter (Direct Messages) as a command and control server	archstrike
+twofi	2.0	Twitter Words of Interest	archstrike-testing
+u3-tool	0.3	Tool for controlling USB flash devices that confirm to the U3 specifications	archstrike-testing
+uatester	1.06	User Agent String Tester	archstrike
+ubertooth	2015.10.R1	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	archstrike
+udis86	1.7.2	A minimalistic disassembler library	archstrike
+udptunnel	19	Tunnels TCP over UDP packets.	archstrike
+ufonet	0.9	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	archstrike
+ufo-wardriving	4	Allows you to test the security of wireless networks by detecting their passwords based on the router model	archstrike-testing
+umap-git	r25.3ad8121	The USB host security assessment tool	archstrike-testing
+umit	1.0	A powerful nmap frontend.	archstrike
+underscorejs	1.8.3	Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects.	archstrike
+unicornscan	0.4.7	A new information gathering and correlation engine.	archstrike
+uniscan	6.2	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	archstrike-testing
+unix-privesc-check	1.4	Tries to find misconfigurations that could allow local unprivilged users to escalate privileges to other users or to access local apps (e.g. databases)	archstrike
+upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	archstrike
+urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	archstrike
+usbkill-git	r213.d3df79e	An anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.	archstrike
+username-anarchy	0.2	Tools for generating usernames when penetration testing	archstrike
+vbrute-git	r1.11dda8b	Virtual hosts brute forcer. Specify file containing domains and file containing IPs and will attempt to connect to IP with specific domain.	archstrike
+vbscan-git	20170215.r25	Black Box vBulletin Vulnerability Scanner	archstrike
+vega	1.0.devel.130	An open source platform to test the security of web applications	archstrike
+vfeed-git	20170616.r79	Open Source Cross Linked and Aggregated Local Vulnerability Database main repository	archstrike
+videosnarf	0.63	A new security assessment tool for pcap analyze	archstrike
+vinetto	0.07beta	A forensics tool to examine Thumbs.db files	archstrike-testing
+viper-git	r1239.6d18c47	A Binary analysis framework	archstrike
+vivisect	20140803	Python based static analyze and reverse engineering framework, Vdb is a Python based research/reversing focused debugging and programatic debugging API by invisigoth of kenshoto	archstrike-testing
+vmcloak	0.4.4	Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.	archstrike
+vncrack	1.21	What it looks like: crack VNC.	archstrike
+voiper	0.07	A VoIP security testing toolkit incorporating several VoIP fuzzers and auxilliary tools to assist the auditor.	archstrike-testing
+voiphopper	2.04	A security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.	archstrike
+voipong	2.0	A utility which detects all Voice Over IP calls on a pipeline, and for those which are G711 encoded, dumps actual conversation to seperate wave files.	archstrike-testing
+volafox	1.0.1	Mac OS X Memory Analysis Toolkit	archstrike-testing
+wafw00f	0.9.4	Identify and fingerprint Web Application Firewall (WAF) products protecting a website	archstrike
+waidps-git	20141225.r16	Wireless Auditing, Intrusion Detection & Prevention System	archstrike-testing
+wapiti	2.3.0	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	archstrike
+watchman	4.9.0	An inotify-based file watching and job triggering command line utility	archstrike
+waybackpack	0.3.5	Command-line tool that lets you download the entire Wayback Machine archive for a given URL.	archstrike
+wcc-git	20170522.r46	The Witchcraft Compiler Collection	archstrike
+webacoo	0.2.3	Web Backdoor Cookie Script-Kit	archstrike-testing
+webenum	0.1	Tool to enumerate http responses using dynamically generated queries and more. Useful for penetration tests against web servers.	archstrike-testing
+webhandler-git	r334.bcc9f0d	A handler for PHP system functions & also an alternative 'netcat' handler.	archstrike
+webpwn3r-git	0.r35.3fb27bb	A python based Web Applications Security Scanner	archstrike
+webrute	3.3	Web server directory brute forcer.	archstrike
+webscarab	20120422.001828	Framework for analysing applications that communicate using the HTTP and HTTPS protocols	archstrike
+websockify	0.8.0	WebSocket to TCP proxy/bridge.	archstrike
+webspa	0.8	A web knocking tool, sending a single HTTP/S to run O/S commands	archstrike-testing
+websploit-git	20140922.r5	advanced MITM framework	archstrike-testing
+weevely	3.5	A Stealth tiny web shell that provides a telnet-like console.	archstrike
+wemo-git	r5.d6c1f50	A POC for UPnP WeMo hacking	archstrike
+wepbuster	1.0.beta0.7	A script for automating aircrack-ng	archstrike
+wfuzz	2.2.3	Utility to bruteforce web applications to find their not linked resources	archstrike
+whatweb-git	r4194.039768f4	Next generation web scanner that identifies what websites are running.	archstrike
+wificurse	0.3.9	WiFi Jammer via fake deauthentication packets	archstrike
+wifi-honey	1.0	A management tool for wifi honeypots	archstrike-testing
+wifijammer-git	20171006.r79	A python script to continuosly jam all wifi clients within range	archstrike
+wifi-monitor-git	0.r24.33b682e	Prints the IPs on your local network that're sending the most packets	archstrike-testing
+wifiphisher-git	20180129.r651	A tool for Fast automated phishing attacks against WPA networks	archstrike
+wifitap	2b16088	WiFi injection tool through tun/tap device	archstrike
+wifite-git	20170515.r139.918a499	A tool to attack multiple WEP and WPA encrypted networks at the same time	archstrike
+wig-git	r574.d5ddd91	WebApp Information Gatherer	archstrike
+wikigen	1.0	A script to generate wordlists out of wikipedia pages.	archstrike
+wildpwn-git	20160726.r10	unix wildcard attacks	archstrike
+windows-binaries	0.5	A colleciton of pentesting Windows binaries	archstrike
+windows-exploit-suggester-git	20170217.r41	Compares a target patch levels against the Microsoft vulnerability database to detect potential missing patches on the target. Also notifies the user if there are public exploits and Metasploit modules available for missing bulletins	archstrike
+wireless-ids-git	r24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	archstrike-testing
+wlan2eth	1.3	re-writes 802.11 captures into standard Ethernet frames.	archstrike
+wmat	20160717	Automatic tool for testing webmail accounts	archstrike
+wol-e	2.0	A suite of tools for the Wake on LAN feature of network attached computers	archstrike
+wordpot-git	r38.ca12cb5	A Wordpress Honeypot	archstrike
+wpbf-git	r7.11b6ac1	Multithreaded WordPress brute forcer	archstrike
+wphardening	1.6	A security tool for WordPress	archstrike
+wsfuzzer	1.9.5	A Python tool written to automate SOAP pentesting of web services	archstrike
+wuzz	0.1.0	Interactive cli tool for HTTP inspection	archstrike-testing
+x3270	3.3.14ga11	An IBM 3270 terminal emulator for the X Window System patched for birp(https://github.com/sensepost/birp)	archstrike-testing
+xcat	0.7.1	A command line tool to automate the exploitation of blind XPath injection vulnerabilities	archstrike-testing
+xcavator-git	r5.bd9e2d8	man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook	archstrike-testing
+xmount	0.7.5	Tool to crossmount between multiple input and output harddisk image files	archstrike
+xorsearch	1.11.1	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	archstrike
+xorstrings	0.0.1	A combination of XORSearch tool and the well-known strings command to search for a given string in an XOR, ROL or ROT encoded binary file.	archstrike
+xortool	0.96	A tool to analyze multi-byte xor cipher.	archstrike
+xprobe2	0.3	An active OS fingerprintinging tool	archstrike
+xspy	1.0c	A utility for monitoring keypresses on remote X servers	archstrike
+xss-callback-git	r14.6a2bb85	A lightweight HTTP Server that exploits XSS victim's session automatically	archstrike-testing
+xsscrapy-git	20161111.r138.f859faa	xss spider	archstrike
+xsser-git	r31.4a55fc8	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	archstrike
+xssf	3.0	A Cross-Site Scripting Framework for metasploit	archstrike-testing
+xssless-git	r45.8e7ebe1	An automated XSS payload generator written in python.	archstrike
+xsspy-git	20170418.r50	A python tool for finding Cross Site Scripting vulnerabilities in websites	archstrike
+xsss	0.40b	brute force cross site scripting scanner	archstrike
+xssscan-git	r17.7f1ea90	Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.	archstrike
+xsssniper	0.9	An automatic XSS discovery tool	archstrike
+xssya-git	20160917.r16	A Cross Site Scripting Scanner & Vulnerability Confirmation (Working in two Methods)	archstrike-testing
+yaf	2.9.3	Yet Another Flowmeter	archstrike
+yararules-git	20180206.r1500	A Repository of yara rules	archstrike
+yasat	848	A simple stupid audit tool	archstrike
+yersinia	0.7.3	A network tool designed to take advantage of some weakness in different network protocols	archstrike
+z3-codeplex	4.5.0	Z3 is a high-performance theorem prover being developed at Microsoft Research (built from Codeplex sources, libraries only)	archstrike-testing
+zarp	0.1.8	A network attack tool centered around the exploit of local networks.	archstrike
+zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	archstrike-testing
+zgrab	0.0.1	Application layer scanner that operates with ZMap	archstrike
+zizzania	0.0.1	An Automated wireless DeAuth attack	archstrike
+zulu	0.1	Zulu is a light weight 802.11 wireless frame generation tool to enable fast and easy debugging and probing of 802.11 networks.	archstrike
+zulucrypt	5.4.0	a cli and gui frontend to cryptsetup.	archstrike
+zzuf	0.15	Transparent application input fuzzer.	archstrike

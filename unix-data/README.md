@@ -21,6 +21,7 @@ netbsd-sgid-games: paths to executables that have the set-GID bit set on [NetBSD
 netbsd-sysctl-list: symbols taken from [NetBSD](http://www.netbsd.com) [`sysctl`](http://netbsd.gw.com/cgi-bin/man-cgi?sysctl "get or set kernel state") entries  
 nmap-user-names: taken from [NMap](https://nmap.org/ "Network Mapper") `nselib/data/usernames.lst`  
 real-users-list: list of user names taken from a real/live [UNIX](http://www.unix.org) system  
+simple-users-list: list of simple user names taken from <https://raw.githubusercontent.com/1N3/BruteX/master/wordlists/simple-users.txt>  
 splunk-bad-directories: directory names left out of default `splunkd` config  
 splunk-bad-filetypes: file types left out of default `splunkd` config  
 splunk-bad-fnmatches: [`fnmatch(3)` style wildcard patterns](https://www.gnu.org/software/libc/manual/html_node/Wildcard-Matching.html "Wildcard Matching") left out of default `splunkd` config  
