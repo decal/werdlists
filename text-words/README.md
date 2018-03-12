@@ -22,6 +22,7 @@ reliable-passgen-wordlist: `wordlist.txt` from [BURP](https://github.com/jwmarsh
 rogets-thesaurus-ebook: Roget's Thesaurus EBook from [Project Gutenberg](https://www.gutenberg.org)  
 sfbay-companies-list: [List of companies based in the San Francisco Bay Area](https://en.wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area)  
 spike-proxy-allwords: dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy)  
+technical-manual-words: various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt>  
 tweet-word-ngrams: binary sequence and words parsed from tweets with cardinality  
 word-cluster-ngrams: word clusters parsed from the text in millions of tweets  
 zoo-animal-list: an alphabetically sorted list of names for zoo-kept animals  

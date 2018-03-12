@@ -1,4 +1,4 @@
-active-search-engines: list of active general purpose search engine names from <https://en.wikipedia.org/wiki/Template:Web_search_engines>
+active-search-engines: list of active general purpose search engine names from <https://en.wikipedia.org/wiki/Template:Web_search_engines>  
 alexa-top1mil-sites: [Alexa](https://www.alexa.com) list of top 1 million web sites  
 content-access-guidelines: Web Content Accessibility Guidelines by [W3C](https://www.w3.org "World Wide Web Consortium")  
 free-web-hosts: list of free web hosting services from <https://mirror1.malwaredomains.com/files/freewebhosts.txt>  
@@ -7,5 +7,6 @@ modern-web-history: [A History of The Modern Web](https://github.com/whatwg/web-
 piidox-search-sites: list of [personally identifiable information](https://en.wikipedia.org/wiki/Personally_identifiable_information) search engines  
 simpl-redir-shortcuts: shortcuts for redirection on `simpl.info`  
 sites-using-cloudflare: sites using CloudFlare WAF according to [GitHub @pirate](https://github.com/pirate)  
+tls-scanner-urls: URL's to test TLS scanning on via [Botan](https://en.wikipedia.org/wiki/Botan_(programming_library))  
 top-sites-global: Top 1,000 Internet web sites across the globe by OWASP headers  
 url-shortener-site: URL shortener sites taken from <http://dns-bh.sagadc.org/url_shorteners.txt>  

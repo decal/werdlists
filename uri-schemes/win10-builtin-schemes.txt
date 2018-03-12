@@ -1,0 +1,13 @@
+bingmaps:
+http:	
+mailto:
+ms-call:
+ms-chat:
+ms-drive-to:
+ms-people:
+ms-photos:
+ms-settings:
+ms-store:	
+ms-tonepicker:
+ms-walk-to:
+ms-yellowpage:
