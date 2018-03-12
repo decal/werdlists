@@ -9,6 +9,6 @@ skipfish-word-names: words to form files with extensions from [skipfish](https:/
 splunk-public-terms: words related to server and browser side web technologies.. the `etc/anonymizer/public-terms.txt` file from a [Splunk](https://www.splunk.com/) install  
 various-common-words: words that are commonly used to name files in web apps  
 webapp-words-combined: words from all of the above files uniquely combined  
-wordpress-plugins-list: [WordPress plugins](https://wordpress.org/plugins/ "WordPress Plugins") list from `nselib/data/wp-plugins.lst`  
+wordpress-plugins-list: [WordPress plugins](https://wordpress.org/plugins/ "WordPress Plugins") combined sources from [NMap](https://nmap.org), [wp-plugin-checker](https://github.com/r0oth3x49/wp-plugin-checker), [dirs3arch](https://github.com/puniaze/dirs3arch), [Wordpress-scanner](https://github.com/RamadhanAmizudin/Wordpress-scanner/blob/master/base/data/list-plugins.txt), [WP-plugin-scanner](https://github.com/mintobit/WP-plugin-scanner/blob/master/plugins.txt), etc.  
 wordpress-themes-list: [WordPress themes](https://wordpress.org/themes/ "WordPress Themes") list from `nselib/data/wp-themes.lst`  
 wordpress-timthumbs-paths: template strings for paths to [WordPress](https://wordpress.org/) files  
