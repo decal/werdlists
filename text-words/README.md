@@ -13,14 +13,15 @@ jargon-common-words: common information technology jargon words
 jargon-common-bases: common base words in IT jargon  
 last-names-list: list of last names often used by people  
 linux-words-dict: words taken from `/usr/share/dict/words` on Linux install  
+not-found-translations: "Not Found" translations on [iBiblio](http://ibiblio.org)  
 obama-nobel-speech: [Barack Obama's 2009 Nobel Peace Prize](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize#Barack_Obama) award acceptance speech  
+objects-name-list: listing that contains names of various objects from <http://domainsbot.com/Content/Data/terms/objects.txt>
 occupations-frequency-list: list of occupations sorted by numeric score--higher means more popular from <http://sunlight.s3.amazonaws.com/all_occupations.txt>  
 one-hundred-thousand: the numbers 1-97935 with one on each line  
-not-found-translations: "Not Found" translations on [iBiblio](http://ibiblio.org)  
 reliable-passgen-wordlist: `wordlist.txt` from [BURP](https://github.com/jwmarshall/BURP "Beaituful Unique Reliable Password generator")   
 rogets-thesaurus-ebook: Roget's Thesaurus EBook from [Project Gutenberg](https://www.gutenberg.org)  
 sfbay-companies-list: [List of companies based in the San Francisco Bay Area](https://en.wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area)  
-spike-proxy-allwords: dictionary distributed with ImmunitySec SPIKE Proxy dpkg  
+spike-proxy-allwords: dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy)  
 tweet-word-ngrams: binary sequence and words parsed from tweets with cardinality  
 word-cluster-ngrams: word clusters parsed from the text in millions of tweets  
 zoo-animal-list: an alphabetically sorted list of names for zoo-kept animals  

@@ -1,0 +1,58 @@
+# http://humanstxt.org
+# The humans responsible and
+# technology colophon
+
+# TEAM
+
+  Developer: Team Textpattern
+  Site: https://textpattern.com
+  Twitter: https://twitter.com/textpattern
+  GitHub: https://github.com/textpattern
+  Location: Everywhere
+
+# TECHNOLOGY COLOPHON
+
+  Standards: HTML5, CSS3
+  Server: Apache, MySQL, PHP
+  Components:
+    FluxBB: https://fluxbb.org/
+    PHP-Textile: https://github.com/textile/php-textile
+    jQuery: https://jquery.com/
+    Require.js: http://requirejs.org/
+    Prism: http://prismjs.com/
+  Software:
+    Node.js: https://nodejs.org/
+    Grunt.js: https://gruntjs.com/
+    Composer: https://getcomposer.org/
+    git: https://git-scm.com/
+  Source: https://github.com/textpattern/textpattern-forum
+
+
+            .ttTTttx
+           xPXTTTTTtt-                     xppx
+         pPPTTTTTTTTXxx                  px    xp
+       .tPTTTTTTTTTTTTt-               .t-      .t-
+      xPXTTTTTTTTTTTTTp               px          xx
+    -tPTTTTTTTTTTTTTt                -x          -t
+  .tPTTTTTTTTTTTTTT.                -x         .t-
+ xtXTTTTTTTTTTTTTTTt-              xx         xx
+PxTTTTTTTTTTTTTTTt..-t.          -t.     .pttx.
+xxXTTTTTTTTTTTTTPpp.- px        xp     xXTt-
+ -tPTTTTTTTTxTTTXppp... xx    px     pTTx
+   xtPTTTTf   tTTTxp-... .t-.t.    .XTt.
+    .xxXX-     -XTTPxp.- ..Pp     tTX-
+                 tTTTtp--xt     pTTx
+                  -XTTXtt-    .PTP.
+                    xTTp     xTTTx
+                    pt     pTTTP-.t.
+                  .t-    .PTTTP-   xx
+                 xx     xTTTTTXp-.  .t.
+               -t.    -XTx xTTTTt--.  px
+             .t-    .PTP.   .tTTTTx--.. xp
+            xx     xTTp       .PTTTP--.  -t.
+          -t.    -XTt           pTTTTt.-.  px
+        .t-   ..PTX.              xTTTTp--.. xp
+       px    .xTTp                 .PTTTP----..t-
+     px.   .-XTt                     pTTTTx.p.. -t.
+    -p.    tTX-                        tTTTXp-p.. px
+     -xxppTT.                            -xTTP--.-p
