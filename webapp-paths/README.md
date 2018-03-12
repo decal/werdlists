@@ -22,6 +22,7 @@ iis-path-names: path names commonly found under the web root of an _IIS_ install
 j2ee-paths-large: long list of custom created J2EE targeted path names  
 javascript-tooling-paths: [The Front-end Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling)  
 jboss-path-names: path names often handled by the _JBoss_ J2EE application server  
+jira-paths-list: [Jira](https://www.atlassian.com/software/jira) path names to test for
 joomla-path-names: file names found in the directory hierarchy of Joomla sites  
 login-path-names: pathnames that could reference login pages on a web server  
 magento-path-names:  file names often found under Magento's directory hierarchy  

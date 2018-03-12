@@ -1,0 +1,2674 @@
+RFC Editor Abbreviations List
+January 2018
+
+----------------------------------------------------------------------
+
+It is common in technical writing to abbreviate complex technical terms
+by combining the first letters.  The resulting abbreviations are often
+called acronyms.  Editorial guidelines for the RFC series generally
+require expansion of these abbreviations on first occurrence in a
+title, in an abstract, or in the body of the document.
+
+The RFC Editor attempts to keep the use of abbreviations consistent and
+to point out conflicts to authors.  For this purpose, we have built the
+abbreviation list below.  This list contains abbreviations appearing in
+RFCs and often reflects discussions with authors, WG chairs, and/or
+ADs.  There is no claim of completeness.  Note that some abbreviations
+have multiple expansions.
+
+Some abbreviations are so well known that expansion is probably
+unnecessary.  The RFC Editor exercises editorial judgment about whether
+a particular use of one of the "well-known" abbreviations requires
+expansion.  (For example, strict adherence to the expansion requirement
+can lead to impossibly ugly titles.)  In the following list of
+abbreviations, those that are usually (but not necessarily) treated as
+"well known" are marked with asterisks.  However, since there are so
+many different abbreviations and there is a range of knowledge among
+RFC readers, we tend to expand abbreviations in case of doubt.
+
+Finally, this list includes some terms that look like abbreviations
+but are actually fixed names for things, and hence cannot and should
+not be expanded.  These are noted as "No Expansion".
+
+----------------------------------------------------------------------
+
+2G        *- Second generation cellular (mobile) (2G) 
+2.5G      *- Enhanced second generation cellular (mobile) (2.5G) 
+3G        *- Third generation cellular (mobile) (3G) 
+3PCC       - Third Party Call Control (3PCC)
+3GPP      *- Third Generation Partnership Project
+3GPP IMS   - 3GPP Internet Multimedia System  or
+           - Third Generation Partnership Project IP Multimedia Subsystem
+3PCC       - third-party call control (3PCC) 
+4G	  *- 4th Generation Mobile network (mobile) (4G) 
+4rd        - IPv4 Residual Deployment (4rd) 
+6BBR	   - 6loWPAN Backbone Router (6BBR) 
+6CIO       - 6LoWPAN Capability Indication (6CIO) 
+6CO        - 6LoWPAN Context Option (6CO) 
+6LBR       - 6LoWPAN Border Router (6LBR) 
+6LN        - 6LoWPAN Node (6LN) 
+6LoRH	   - 6LoWPAN Routing Header (6LoRH) 
+6LoRHC	   - 6LoRH Critical (6LoRHC) 
+6LoRHE	   - 6LoRH Elective (6LoRHE) 
+6LoWPANs   - IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs)
+6LR        - 6LoWPAN Router (6LR) 
+6LSA       - IPv6 Label Switching Architecture (6LSA) 
+6PE        - IPv6 Provider Edge (6PE) 
+6rd        - IPv6 Rapid Deployment on IPv4 Infrastructures 
+6to4-PMT   - 6to4 Provider Managed Tunnel (6to4-PMT) 
+A+P        - Address plus Port 
+AAA        - Authentication, Authorization, and Accounting (AAA)
+AAC        - Advanced Audio Coding (AAC)
+AAD        - additional authenticated data (AAD)
+AAE        - Active-Active Edge (AAE) 
+AAH        - Abandoning All Hope (AAH) 
+AAK        - Authenticated Anticipatory Keying (AAK) 
+AAL5       - ATM Adaptation Layer 5 (AAL5)
+AAR        - AA-Request (AAR) 
+ABFAB      - Application Bridging for Federated Access Beyond web (ABFAB)
+ABI        - application binary interface (ABI) 
+ABNF      *- Augmented Backus-Naur form
+ABNO       - Application-Based Network Operations (ABNO) 
+ABR        - Area Border Router (ABR)
+ABRO       - Authoritative Border Router Option (ABRO) 
+AC         - Access Controller (AC)  or
+           - Attachment Circuit (AC)  or
+           - Access Category (AC)
+ACAP       - Application Configuration Access Protocol 
+ACE        - Access Control Entry (ACE) 
+ACH        - Associated Channel Header 
+ACK        - No Expansion (not an abbreviation) 
+ACL        - Access Control List (ACL)
+ACS        - Auto Configuration Server (ACS) 
+AD         - Authentic Data (bit or flag) (AD) 
+ADB        - Application Data Block (ADB) 
+ADBN       - Application Data Block Number (ADBN) 
+ADC        - analog-to-digital converter (ADC) 
+ADGoF      - Anderson-Darling Goodness-of-Fit (ADGoF) 
+ADISC      - Address Discovery Extended Link Service (ADISC)
+                Pronounced "ay-disk".
+Adj-RIB   *- No Expansion 
+ADK        - Anderson-Darling K-sample (ADK) 
+ADM        - Add-Drop Multiplexer (as in SONET ADM)
+ADMD       - ADministrative Management Domain 
+ADS        - Astrophysics Data System (ADS)
+ADSL      *- Asymmetric Digital Subscriber Line (ADSL) 
+ADSP       - Author Domain Signing Practices (ADSP) 
+ADU        - Application Data Unit (ADU) 
+AEAD       - Authenticated Encryption with Associated Data (AEAD)
+AEC        - Acoustic Echo Cancellation (AEC) 
+AERO       - Asymmetric Extended Route Optimization (AERO) 
+AES       *- Advanced Encryption Standard (AES)
+AES128	   - 
+AF         - Assured Forwarding (as in "Diffserv AF" 
+AFBR       - Address Family Border Router (AFBR) 
+AFI        - Address Family Identifier (AFI)
+AFN        - Address Family Number 
+AfriNIC   *- African Network Information Center
+AFRF       - Authentication Failure Reporting Format (AFRF) 
+AFS       *- Authentication File System
+                Typically not expanded
+                Proper name is now AFS; expansion name
+                dropped in the 1990s 
+AFTR       - Address Family Transition Router (AFTR) 
+AG         - Administrative Group (AG) 
+AGI        - Attachment Group Identifier 
+AGN        - aggregation node (AGN) 
+AH         - Authentication Header (AH)
+AHS        - Additional Header Segment (AHS)  or
+           - Adaptive HTTP Streaming (AHS) 
+AIA        - Authority Information Access (AIA)
+AIMD       - Additive Increase Multiplicative Decrease (AIMD)
+AIS        - Alarm Indication Signal (AIS) 
+AKA        - Authentication and Key Agreement (AKA)
+AMI        - Advanced Metering Infrastructure (AMI) 
+AMT        - Automatic Multicast Tunneling (AMT) 
+AKM	   - Authentication and Key Management (AKM) 
+ALC        - Asynchronous Layered Coding (ALC) 
+ALG        - Application Level Gateway (ALG)  or
+           - Application Layer Gateway (ALG) 
+ALOC       - Area Locator (ALOC) 
+ALT        - Alternative Logical Topology (ALT) 
+ALTO       - Application-Layer Traffic Optimization (ALTO) 
+AMEI	   - Association of Musical Electronics Industry (AMEI)
+AMID       - Additive Increase Multiplicative Decrease (AMID)
+AMR        - Adaptive Multi-Rate (AMR)
+AMR-WB     - Adaptive Multi-Rate - WideBand (AMR-WB)
+AMS        - authoritative mapping server (AMS) 
+AMSS       - Advanced Mobile Station Software (AMSS) 
+AN         - Access Node (AN) 
+ANAT       - Alternative Network Address Types (ANAT) 
+ANCP       - Access Node Control Protocol (ANCP) 
+ANDSF      - Access Network Discovery and Selection Function (ANDSF) 
+ANG        - Access Network Gateway (ANG) 
+ANI        - Access Network Identifier (ANI) 
+ANM        - Authentic Neighbours Memory (ANM)  or
+           - Adaptive Network Management (ANM) 
+ANSI      *- American National Standards Institute
+ANSN       - Advertised Neighbor Sequence Number (ANSN) 
+AODV       - Ad hoc On-Demand Distance Vector (AODV) 
+AOR        - address of record (AOR) 
+AP         - Access Point (AP)
+API       *- Application Programming Interface 
+APM        - Application Performance Measurement (APM)
+APN        - Access Point Name (APN) 
+APNIC     *- Asia Pacific Network Information Centre
+APP	   - Application-specific functions 
+APS        - Automatic Protection Switching (APS) 
+AQM        - Active Queue Management (AQM) 
+AR         - Address Resolution (AR)  or
+           - Access Router (AR) 
+ARAP       - Apple Remote Access Protocol (ARAP) 
+ARF        - Abuse Reporting Format (ARF)  
+ARIN      *- American Registry for Internet Numbers
+ARL        - Authority Revocation List (ARL) 
+ARMv4     *- Advanced RISC Machine version 4 
+ARO        - Access Router Option (ARO)  or
+           - Address Registration Option (ARO) 
+ARP       *- Address Resolution Protocol (ARP)
+ARQ        - Automatic Repeat reQuest
+AS         - Autonomous System (AS)  or 
+           - Applicability Statement (AS)  or
+           - Authentication Service (AS)  or
+           - Application Specific (AS)  or
+           - Application Server (AS)  or
+           - Authorization Server (AS)
+ASBR      *- Autonomous System Border Router
+ASCII     *- American Standard Code for Information Interchange
+ASE        - Autonomous System External (ASE)  or
+           - amplifier spontaneous emission (ASE)
+ASIC       - Application-Specific Integrated Circuit (ASIC)
+ASM        - Any-Source Multicast (ASM)  or
+           - address-sharing mechanism (ASM) 
+ASN        - Access Service Network (ASN)  or
+           - Autonomous System Number (ASN) 
+ASN.1     *- Abstract Syntax Notation One 
+ASNGW	   - Access Service Network Gateway (ASNGW) 
+ASON       - Automatically Switched Optical Network
+ASP        - Application Service Provider (ASP) 
+ASR        - Automatic Speech Recognition (ASR) 
+ATA        - Analog Telephone Adaptor (ATA) 
+ATD        - Activation Time Delay (ATD)
+ATM       *- Asynchronous Transfer Mode (ATM)  or
+          *- Automatic Teller Machine (ATM)  
+ATU        - ADSL Transceiver Unit (ATU)
+AU         - Access Unit (AU)
+AUID       - Agent or User Identifier (AUID) 
+AVA        - Attribute Value Assertion (AVA) 
+AVP        - attribute-value pair (AVP)
+          *- Audio-Visual Profile (AVP)
+AVPF      *- Audio-Visual Profile with Feedback (AVPF)
+AVT        - Audio/Video Transport
+AWG        - Arrayed Waveguide Grating (AWG)
+AXFR       - Authoritative Transfer
+	      (not full zone transfer or Asynchronous Full Transfer)
+B-ISDN     - Broadband Integrated Services Digital Network (B-ISDN)
+B-MAC      - Backbone MAC (B-MAC) (IEEE)
+B-VID      - Backbone VLAN ID 
+B-VLAN     - Backbone VLAN 
+B2BUA      - back-to-back user agent (B2BUA)
+B4         - Basic Bridging BroadBand (B4) 
+BA         - Behavior Aggregate (BA) 
+BAB        - Bundle Authentication Block (BAB)
+BACP       - Bandwidth Allocation Control Protocol (BACP)  or
+           - Bonding Aggregation Control Protocol (BACP) 
+BAS        - Broadband Access Switch (BAS) 
+bash       - Bourne-Again SHell (bash) 
+BB         - Bottleneck Bandwidth (BB) 
+BBF        - Broadband Forum (BBF) 
+BC         - Boundary Clock (BC) 
+BCB        - Backbone Core Bridge (BCB) 
+BCC        - Bonding Communication Channel (BCC) 
+BCD        - Binary Coded Decimal (BCD) 
+BCE        - Bonding Channel Entity (BCE) 
+BCH       *- Bose, Ray-Chaudhuri, Hocquenghem
+                Typically not expanded; as in "BCH code"
+BCP       *- Best Current Practice (should only be expanded for introductory
+                docs, e.g., Tao of the IETF)  or
+           - Bridging Control Protocol (BCP) 
+BDP        - Bandwidth-Delay Product (BDP) 
+BEB        - Backbone Edge Bridge (BEB) 
+BECN       - Backward Explicit Congestion Notification (BECN)
+BEEP       - Blocks Extensible Exchange Protocol (BEEP)
+BEET       - Bound End-to-End Tunnel (BEET) 
+BEK        - bundle encryption key (BEK)
+BER       *- Basic Encoding Rules 
+           - bit error rate (BER) 
+BEX        - Base Exchange (BEX) 
+BFCP       - Binary Floor Control Protocol (BFCP)
+BFD        - Bidirectional Forwarding Detection (BFD)
+BFER       - Bit-Forwarding Egress Router (BFER) 
+BFIR       - Bit-Forwarding Ingress Router (BFIR) 
+BFR        - Bit-Forwarding Router (BFR) 
+BGP       *- Border Gateway Protocol
+BGPsec     - Typically not expanded
+BHS        - Basic Header Segment (BHS) 
+BIA        - Bump-in-the-API (BIA) 
+BIDIR-PIM  - Bidirectional PIM (BIDIR-PIM) 
+BIER       - Bit Index Explicit Replication (BIER) 
+BIFT       - Bit Index Forwarding Table (BIFT) 
+BIH        - Bump-in-the-Host (BIH) 
+BIND      *- Berkeley Internet Name Domain (BIND)
+             No expansion per Paul Hoffman 
+BIRD      *- BIRD Internet Routing Daemon
+BIRT       - Bit Index Routing Table (BIRT) 
+BIS        - Bump-in-the-Stack (BIS) 
+BLA        - Bridged Line Appearance (BLA) 
+BMR        - Basic Mapping Rule (BMR) 
+BN         - Bundle Node (BN)  or
+           - Boundary Node (BN)
+BNC        - Branch Node Capability (BNC) 
+BNF       *- Backus-Naur form
+BNG        - Broadband Network Gateway (BNG)
+BOF       *- Birds of a Feather
+BOM        - Byte Order Mark (BOM) 
+BOSH       - Bidirectional-streams Over Synchronous HTTP (BOSH) 
+BPDU       - Bridge PDU (BPDU) 
+BR         - Border Router (BR)
+BRAS       - Broadband Remote Access Server (BRAS)
+BRDP       - Border Router Discovery Protocol (BRDP) 
+BRI        - Basic Rate Interface (BRI)
+BRPC       - Backward Recursive PCE-Based Computation (BRPC) 
+BS         - Base Station (BS) 
+BSC        - Base Station Controller (BSC) 
+BSD       *- [name of operating system; better known by acronym]
+BSL        - BitStringLength (BSL) 
+BSM        - Bootstrap Message (BSM)
+BSO        - Basic Security Option (BSO)
+BSP        - Bundle Security Protocol (BSP)
+BSR        - Bootstrap Router (BSR)
+BSS        - Business Support Systems (BSS) 
+           - Basic Service Set (BSS) 
+           - Base Station System (BSS) 
+BSSID      - Basic Service Set Identifier (BSSID)
+BTLE       - Bluetooth Low Energy (BTLE) 
+BTMM	   - Back to My Mac (BTMM)
+BTS	   - Base Tranceiver Station (BTS) 
+BTU        - Bonding Transmission Unit (BTU) 
+BUM        - Broadcast, Unknown Unicast, and Multicast (BUM) 
+BVT        - Bit-rate Variable Transponder (BVT) 
+BW	   - Bandwidth (BW) 
+BWS        - "bad" whitespace (BWS) 
+C-MAC      - customer MAC 
+CA         - certification authority (CA)  or
+           - cryptographic authentication (CA) 
+CAA        - Certification Authority Authorization (CAA) 
+CAB        - Converged Address Book (CAB) 
+CAC        - Connection Admission Control (CAC)
+CAdES      - CMS Advanced Electronic Signatures (CAdES)
+CAID       - Calculation Algorithm ID (CAID) 
+CalDAV     - Calendaring Extensions to WebDAV (CalDAV) 
+CALIPSO    - Common Architecture Label IPv6 Security Option (CALIPSO) 
+CALS       - Computer-Aided Acquisition and Life-Cycle Support (CALS)
+CAM        - Content Addressable Memory (CAM)
+captcha    - Completely Automated Public Turing test to tell Computers
+                and Humans Apart (captcha)  
+CAP        - Candidate Access Point (CAP) 
+CAPWAP     - Control and Provisioning of Wireless Access Points (CAPWAP)
+CAPEX      - Capital Expenditure (CAPEX)
+CAR        - Committed Access Rate (CAR) 
+CARD       - Candidate Access Router Discovery (CARD)
+CAT-iq	   - Cordless Advanced Technology - internet and quality (CAT-iq)
+CATNIP     - Common Architecture for Next Generation Internet Protocol (CATNIP) 
+CAVE       - Cellular Authentication and Voice Encryption (CAVE)
+CBC        - Cipher Block Chaining (CBC)
+CBC-MAC    - Cipher Block Chaining Message Authentication Code (CBC-MAC)
+CBHE       - Compressed Bundle Header Encoding (CBHE) 
+CBID       - Crypto-Based Identifier (CBID)
+CBOR       - Concise Binary Object Representation (CBOR) 
+CBQ        - Class-Based Queuing (CBQ) 
+CBR        - Constant Bitrate (CBR)
+CC         - Continuity Check (CC)  or
+           - CSRC count (CC)  or
+           - Call Completion (CC)  or
+	   - Call Control (CC) 
+CC-V       - Continuity Check and Connectivity Verification (CC-V) 
+CCE        - Call-Completion Entity (CCE) 
+CCID       - Congestion Control Identifier (CCID)  or
+           - Content Collection IDentifier (CCID) 
+CCM        - Counter with CBC-MAC (CCM)
+           - Codec Control Messages (CCM)
+           - Continuity Check Message (CCM) 
+CCNL       - Call Completion on Not Logged-in (CCNL) 
+CCNR       - Call Completion on No Reply (CCNR) 
+CCMP       - Counter Mode with CBC-MAC Protocol (CCMP)  or
+           - Centralized Conferencing Manipulation Protocol (CCMP) 
+CCS        - Change Cipher Spec (CCS)  or
+             coded character set (CCS) 
+ccTLD      - Country Code Top-Level Domain (ccTLD)
+CCV        - Common Communication Vehicle (CCV) 
+CCXML      - Call Control XML (CCXML)
+CDF        - Comma-Delimited Format  or 
+           - cumulative distribution function (CDF)
+CDMA      *- Code Division Multiple Access
+CDMA2000   - No Expansion 
+                It is a registered trademark of the Telecommunications
+		Industry Association in the US. 
+CDMF      *- Commercial Data Masking Facility 
+CDMI       - Cloud Data Management Interface (CDMI) 
+CDN        - Call-Disconnect-Notify (CDN)   or
+           - Content Delivery Network (CDN)  or
+           - Content Distribution Network (CDN) 
+CDNI       - Content Distribution Network Interconnection (CDNI) 
+CDP        - Content Delivery Protocol (CDP) 
+CDR        - Call Data Record (CDR) 
+CDRR       - Current Data Rate (Receive) (CDRR) 
+CDRT       - Current Data Rate (Transmit) (CDRT) 
+CE         - Customer Edge (CE)  or
+           - Control Element (CE)  or
+           - Congestion Experienced (CE)
+CEA        - Capabilities-Exchange-Answer (CEA)  or
+           - Consumer Electronics Association (CEA)
+CEID       - Control Element ID (CEID)
+CEK        - content-encryption key (CEK) 
+CELP       - Code-Excited Linear Prediction (CELP)
+CELT       - Constrained-Energy Lapped Transform (CELT) 
+CEMA       - Connection Establishment for Media Anchoring (CEMA) 
+CEP        - Circuit Emulation over Packet (CEP)
+CERT      *- Computer Emergency Response Team (CERT) 
+CES        - Circuit Emulation Service (CES)
+           - Core-Edge Separation (CES) 
+CESoPSN    - Circuit Emulation Service over Packet Switched Network (CESoPSN)
+CFB        - Cipher FeedBack (CFB)
+CFI        - Canonical Format Indicator (CFI)
+CFM        - Connectivity Fault Management (CFM) 
+CFWS       - comments and/or folding white space (CFWS) 
+CGA        - Cryptographically Generated Addresses (CGA)  
+CGI        - Common Gateway Interface (CGI)
+CGN        - Carrier-Grade NAT (CGN)
+CHAP       - Challenge Handshake Authentication Protocol (CHAP) 
+CHbH       - Critical Hop-by-Hop (CHbH) 
+CHID       - Channel Identifier (CHID) 
+CI/T       - CDNI Control interface / Triggers (CI/T) 
+CIA        - Confidentiality, Integrity, and Availability (CIA) 
+CID        - Carousel Instance Descriptor (CID) 
+           - Connection Identifier (CID) 
+           - Content Identifier (CID) 
+           - Context Identifier (CID) 
+CIDR       - Classless Inter-Domain Routing (CIDR)
+CIFS       - Common Internet File System (CIFS) 
+CIID       - Carousel Instance IDentifier (CIID) 
+CIM        - Common Information Model (CIM) 
+CIN        - Client Identification Name (CIN) 
+CIPID      - Contact Information in PIDF (CIPID)
+CIPSO      - Common Internet Protocol Security Option (CIPSO)  or
+           - Commercial IP Security Option (CIPSO)
+CIS        - Cryptographic Interoperability Strategy (CIS) 
+CISC       - Complex Instruction Set Computer (or Computing)
+CIST       - Common and Internal Spanning Tree (CIST) 
+CItE       - Critical Ingress-to-Egress (CItE) 
+CL         - Controlled Load (CL) 
+CLAT       - customer-side translator (CLAT) 
+CLDR       - Connectionless Data Response (CLDR)  or
+           - Common Locale Data Repository (CLDR)
+CLE        - Congestion Level Estimate (CLE) 
+CLEI       - Common Language Equipment Identifier (CLEI)
+CLI        - command-line interface (CLI)  or 
+           - Call Level Interface (CLI)
+           - Calling Line Identification (CLI) 
+CLNP       - Connectionless Network Protocol (CLNP)  or
+           - Connectionless-mode Network Protocol (CLNP) (ISO 8473)
+CLNS       - Connectionless Network Service (CLNS)
+CLP        - Cell Loss Priority (CLP) 
+                A flag in an ATM cell.
+CMAC	   - Cipher-Based Message Authentication Code (CMAC) 
+CMC        - Certificate Management over CMS (CMC) 
+CMCC       - Conference and Media Control Client (CMCC) 
+CMS        - Cryptographic Message Syntax (CMS)
+CMT        - Coordinated Multicast Trees (CMT) 
+CMTS       - cable modem termination system (CMTS)
+CN         - Client Node (CN)  or
+           - correspondent node (CN)  or
+           - Common Name (CN)  or
+           - Comfort Noise (CN) 
+CNAME	  *- Canonical Name (CNAME) 
+CNF        - Cache-and-Forward (CNF) 
+CNG        - comfort noise generation (CNG)
+CNP        - Checksum Neutrality Preserver (CNP) 
+CoA        - Care-of Address (CoA)  or
+           - Change-of-Authorization (CoA) 
+CoAP       - Constrained Application Protocol (CoAP) 
+CO         - Central Office (CO)  or
+           - Connection Only (CO) 
+COM        - Component Object Module (COM) 
+COMEDIA    - Connection-Oriented Media (COMEDIA) 
+COMSEC     - Communications Security (COMSEC) 
+CONS       - Content distribution Overlay Network Service (CONS) 
+COPS       - Common Open Policy Service (COPS)
+CoRAP      - Conditional Random Access Point (CoRAP) 
+CORS       - Cross-Origin Resource Sharing (CORS) 
+Corba      - common object request broker architecture (Corba)
+CoS        - Class of Service (CoS)
+COSE	   - CBOR Object Signing and Encryption (COSE) 
+CoT        - Care-of Test (CoT) 
+CoTI       - Care-of Test Init (CoTI) 
+CP         - Certificate Policy (CP) 
+CPA        - Certification Path Advertisement (CPA) 
+CPE        - Customer Premises Equipment (CPE) 
+CPIM	   - Common Presence and Instant Messaging (CPIM) 
+CPL        - Call Processing Language (CPL) 
+CPLD       - Complex Programmable Logic Device (CPLD)
+CPP        - Common Profile for Presence (CPP) 
+CPS        - Certification Path Solicitation (CPS)  or
+           - Certification Practices Statement (CPS) 
+CPU       *- Central Processing Unit
+CR         - Carriage Return (CR)  or
+           - Correspondent Router (CR) 
+CRC        - Cyclic Redundancy Check (CRC)
+CR-LDP     - Constraint-based Routed LDP (CR-LDP)
+CRIME      - Compression Ratio Info-leak Made Easy (CRIME) 
+CRIO       - Core Router-Integrated Overlay (CRIO) 
+CRISP      - Cross Registry Internet Service Protocol (CRISP)
+CRL        - Certificate Revocation List (CRL)
+CRLF      *- Carriage-Return Line-Feed (ASCII control character sequence)
+CRM        - Customer Relationship Management (CRM) 
+CRMF       - Certificate Request Message Format (CRMF)
+CRS        - Coordinate Reference System (CRS) 
+CRT	   - Chinese Remainder Theorem (CRT) 
+CRUD       - Create, Read, Update, Delete (CRUD) 
+cRTP       - compressed RTP (cRTP)
+CS         - Communication Session (CS) 
+CSA        - Configured Security Association (CSA) 
+CSAIL      - Computer Science and Artificial Intelligence Laboratory (CSAIL)
+CSG        - Cell Site Gateways (CSG)
+CSIRT      - Computer Security Incident Response Team (CSIRT) 
+CSMA/CD    - Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+CSNP       - Complete Sequence Number PDU (CSNP)
+CSO        - Cross-Stratum Optimization (CSO) 
+CSP        - Content Service Provider (CSP) 
+           - Content Security Policy (CSP) 
+CSPF       - Constrained Shortest Path First (CSPF)
+CSR        - Certificate Signing Request (CSR) 
+           - Clock Synchronization Request (CSR) 
+           - control and status registers (CSR) 
+           - Customer Service Representative (CSR) 
+CSRC       - contributing source (CSRC) 
+CSRF       - cross-site request forgery (CSRF) 
+CSS   	   - Cascading Style Sheets (CSS) 
+	   - Connectivity Specifications Sequence (CSS) 
+	   - Controlled Slip Seconds (CSS) 
+CT         - Certificate Transparency (CT) 
+CT_IU      - Common Transport Information Unit (CT_IU)
+CTO        - Congestion Timeout (CTO) 
+CTM        - Cellular Text Telephone Modem (CTM) 
+CTR        - Counter Mode (CTR)
+CTS        - clear to send (CTS)  or
+           - Cipher Text Stealing (CTS)
+CUG        - Closed User Group (CUG)
+CV         - Connectivity Verification (CV)
+CVEs       - Common Vulnerabilities and Exposures (CVEs) 
+CVO        - Coordination of Video Orientation (CVO) 
+CW         - Control Word (CW)  or
+           - Contention Window (CW)
+CWDM       - Coarse Wavelength Division Multiplexing (CWDM)
+DA         - Destination Address (DA) 
+           - Datamover Architecture (DA) (for iSCSI) 
+DAC        - Dynamic Authorization Client (DAC)  or
+           - Duplicate Address Confirmation (DAC)  or
+           - Discretionary Access Control (DAC) 
+           - digital-to-analog converter (DAC) 
+	   - Destination Address Compression (DAC) 
+DAD        - Duplicate Address Detection (DAD)
+DAG        - Directed Acyclic Graph (DAG) 
+DAM	   - Destination Address Mode (DAM) 
+DAMA       - Demand Assigned Multiple Access (DAMA) 
+DANE       - DNS-Based Authentication of Named Entities (DANE) 
+DAO        - Destination Advertisement Object (DAO) 
+DAR        - dynamic alternate routing (DAR)  or
+           - Duplicate Address Request (DAR) 
+DARPA      - Defense Advanced Research Projects Agency (DARPA)
+DASH       - Dynamic Adaptive Streaming over HTTP (DASH) 
+DASS2      - Digital Access Signaling System 2 (DASS2)
+DBA        - Dynamic Bandwidth Allocation (DBA)
+DC         - data center (DC)
+DCA        - Domain Confidentiality Authority (DCA) 
+DCCP       - Datagram Congestion Control Protocol (DCCP)
+dCDN       - downstream Content Delivery Network (dCDN) 
+DCE        - Data Communications Equipment (DCE)  or
+           - Distributed Computing Environment (DCE)
+DCI        - Data Center Interconnect (DCI) 
+DCN        - Data Center Network (DCN) 
+DCOM       - Distributed Component Object Model (DCOM)
+DCT        - Discrete Cosine Transform (DCT)
+DD         - Database Description (DD) 
+DDDS       - Dynamic Delegation Discovery System (DDDS) 
+DDNS	   - Dynamic DNS (DDNS) 
+DDoS      *- Distributed Denial of Service (DDoS)
+DDP        - Device Discovery Protocol (DDP)  or
+           - Direct Data Placement Protocol (DDP)
+DDT        - Delegated Database Tree (DDT) 
+DDUL       - Dynamic DNS Update Lease (DDUL)
+DE         - Discard Eligible (DE)
+                [flag in a Frame Relay frame 
+DECADE     - DECoupled Application Data Enroute (DECADE)
+DECT       - Digital Enhanced Cordless Telecommunications (DECT) (ETSI EN 300175)
+DEI        - Drop Eligibility Indicator (DEI) 
+DELT       - Dual Ended Loop Test (DELT)
+DER       *- Distinguished Encoding Rules 
+DES       *- Data Encryption Standard (DES)
+DF         - Don't Fragment (DF)  or
+             Designated Forwarder (DF) 
+DFZ        - Default-Free Zone (DFZ)
+DGIWG      - Defence Geospatial Information Working Group (DGIWG) 
+DH         - Diffie-Hellman (DH) -or-
+           - Distant Host (DH)
+DHAAD      - Dynamic Home Agent Address Discovery (DHAAD) 
+DHCP      *- Dynamic Host Configuration Protocol (DHCP)
+DHCPv6    *- Dynamic Host Configuration Protocol for IPv6 (DHCPv6)
+DHT        - Distributed Hash Table (DHT)
+DI         - Datamover Interface (DI) 
+DID        - Direct Inward Dialing (DID) 
+DIFS       - Distributed Interframe Space (DIFS) 
+
+DIO        - DODAG Information Object (DIO) 
+DIS        - DODAG Information Solicitation (DIS)  or
+           - Designated Intermediate System (DIS) 
+DIT        - Directory Information Tree (DIT)
+DKIM       - DomainKeys Identified Mail (DKIM) 
+DLC	   - Data Link Control (DLC) 
+DLCI       - Data Link Connection Identifier (DLCI)
+DLEP       - Dynamic Link Exchange Protocol (DLEP) 
+DLP        - Discrete Logarithm Problem (DLP)
+DLSw       - Data Link Switching (DLSw) 
+                [A forwarding mechanism for the IBM SNA
+                (Systems Network Architecture). It places SNA NPDUs
+                into a TCP connection between two routers, which tunnel
+                them across an IP network.]
+DLV        - DNSSEC Lookaside Validation (DLV)
+DM         - Delay Measurement (DM)
+DMARC      - Domain-based Message Authentication, Reporting, and Conformance (DMARC)
+DMM        - Delay Measurement Message (DMM)  or
+             Distributed Mobility Management (DMM) 
+DMR        - Default Mapping Rule (DMR) 
+DMTF       - Distributed Management Task Force (DMTF) 
+DN         - Distinguished Name (DN)
+DNA        - Detecting Network Attachment (DNA)  or
+             Domain Name Association (DNA) 
+DNS       *- Domain Name System
+DNS-SD     - DNS-based Service Discovery (DNS-SD) 
+DNSBL      - DNS BlockList  or
+           - DNS blacklist 
+DNSSEC    *- DNS Security 
+          *- DNS Security Extensions 
+DNT        - Do Not Track (DNT) 
+DOCSIS     - Data-Over-Cable Service Interface Specification (DOCSIS)
+DoD        - Downstream-on-Demand (DoD) 
+DODAG      - Destination-Oriented Directed Acyclic Graph (DODAG) 
+DOI        - Domain of Interpretation (DOI)   or
+           - Digital Object Identifier (DOI) 
+DOM        - Document Object Model (DOM) 
+DoS       *- Denial of Service (DoS)
+                different from DOS (operating system)
+DP         - Data Plane (DP)  or
+           - distribution point (DP)  or
+           - DNSSEC Policy (DS) 
+DPA	   - Destination Preference Attribute
+DPI        - deep packet inspection (DPI) 
+DPNSS      - Digital Private Network Signaling System (DPNSS)
+DPR        - Disconnect-Peer-Request (DPR) 
+DPS        - Distributed Programming System (DPS)  or
+           - Domain Pseudonym System (DPS)  or
+           - DNSSEC Practice Statement (DPS) 
+DR         - designated router (DR)
+DRB        - Designated RBridge (DRB) 
+DRBG       - deterministic random-bit generator (DRBG) 
+DRC        - duplicate request cache (DRC) 
+DRCV       - Data Receiver (DRCV) 
+DRO        - Discovery Reply Object (DRO) 
+DRR        - direct response routing (DRR) 
+DRS        - DGIWG Registry System (DRS) 
+DRM        - Digital Rights Management (DRM) 
+DS         - Diffserv (DS)
+           - Differentiated Services (DS) 
+           - Delegation Signer (DS) 
+DS-Lite    - Dual-Stack Lite (DS-Lite) 
+DSA        - Digital Signature Algorithm (DSA)
+DSAA2	   - DECT Standard Authentication Algorithm #2 (DSAA2) 
+DSACK      - Duplicate Selective Acknowledgement (DSACK)
+DSAP       - Destination Service Access Point (DSAP)
+DSC	   - DECT Standard Cipher (DSC) 
+DSC2	   - DECT Standard Cipher #2 
+DSCP       - Differentiated Services Code Point (DSCP)
+DSDL       - Document Schema Definition Languages (DSDL) 
+DSE        - DSA-Specific Entry (DSE)
+DSL       *- Digital Subscriber Line (DSL)
+DSLAM      - Digital Subscriber Line Access Multiplexer
+DSM        - Demand-Side Management (DSM) 
+DSN        - Delivery Status Notification (DSN) 
+DSND       - Data Sender (DSND) 
+DSP        - Digital Signal Processor (DSP)  or
+           - Digital Signal Processing (DSP)
+DSRK       - Domain-Specific Root Key (DSRK) 
+DSRL       - Document Semantics Renaming Language 
+DSS        - Digital Signature Standard (DSS)
+DSUSRK     - Domain-Specific Usage-Specific Root Keys (DSUSRK) 
+DTD       *- Document Type Definition
+           - Deactivation Time Delay (DTD) 
+DTE        - Data Terminal Equipment (DTE)
+DTLS       - Datagram Transport Layer Security (DTLS)
+DTMF       - dual-tone multi-frequency (DTMF)
+DTN        - Delay-Tolerant Networking (DTN)
+DTOS       - Distributed Trusted Operating System (DTOS) 
+DTS        - decoding time stamp (DTS)  or
+           - decode time stamp (DTS) 
+DTSN       - Destination Advertisement Trigger Sequence Number (DTSN)
+DTX        - Discontinuous Transmission (DTX) 
+DUA        - DASS 2 Extensions (DUA)
+DUID       - DHCP Unique Identifier (DUID) 
+DUNS       - Data Universal Numbering System (DUNS)
+DUT        - Device Under Test (DUT)
+DVB        - Digital Video Broadcasting (DVB) 
+DVI        - No Expansion
+DVMRP      - Distance Vector Multicast Routing Protocol (DVMRP) 
+DWDM	   - Dense Wavelength Division Multiplexing (DWDM) 
+E.164      - No Expansion
+                Refers to a telephone numbering plan as specified by the
+                ITU-T E.164 specification
+E-L1CS     - Extended Level 1 Circuit Scope (E-L1CS) 
+E-L1FS     - Extended Level 1 Flooding Scope (E-L1FS) 
+E-LAN      - Bidirectional Logical Connectivity between >2 UNIs (E-LAN) 
+	   - Ethernet LAN, provides multipoint connectivity 
+E-LINE	   - Ethernet point-to-point connectivity
+E-LSP      - Explicitly TC-encoded-PSC LSP (E-LSP)
+                 (note: expansion in RFC 3270 was updated by RFC 5462)
+E-VLAN     - Ethernet Virtual Private LAN (E-VLAN) 
+E2E        - end to end (E2E) 
+EAG        - Extended Administrative Group (EAG) 
+EAP        - Extensible Authentication Protocol (EAP)
+EAP-GSPK   - Extensible Authentication Protocol - Generalized Pre-Shared Key
+             (EAP-GPSK) 
+EAP-TTLS   - Extensible Authentication Protocol Tunneled Transport Layer
+             Security (EAP-TTLS) 
+EATF       - Emergency Access Transfer Function (EATF) 
+EBCDIC    *- Extended Binary Coded Decimal Interchange Code (EBCDIC)
+EBGP       - External BGP (EBGP)
+EBM        - Equipped Bit Mask (EBM)
+EC	   - Elliptic Curve (EC)  or
+           - Extended Communities (EC)  or
+           - Exchange Complete (EC) 
+ECAM       - European Committee for Academic Middleware (ECAM) 
+EC2N       - elliptic curve group over GF[2^N] (as in EC2N group)
+ECC        - Elliptic Curve Cryptography (ECC)
+ECC CDH    - Elliptic Curve Cryptography Cofactor Diffie-Hellman (ECC CDH)
+ECCSI      - Elliptic Curve-Based Certificateless Signatures for
+                Identity-Based Encryption (ECCSI) 
+ECDH       - Elliptic Curve Diffie-Hellman 
+ECDSA      - Elliptic Curve Digital Signature Algorithm (ECDSA)
+ECM        - Error Correction Mode (ECM)  or
+           - Encapsulated Control Message (ECM) 
+ECMP      *- Equal-Cost Multipath (ECMP)
+EC2N       - Elliptic Curve Group over GF[2^N] (as in EC2N group)
+ECN        - Explicit Congestion Notification (ECN)
+ECP        - Elliptic Curve Group over GF[P] (as in ECP group)  or
+           - Electronic CodeBook (ECP)  or
+           - Encryption Control Protocol (ECP) 
+ECRTP      - Enhanced Compressed RTP (ECRTP) 
+ECT        - ECN-Capable Transport (ECT)
+           - Encapsulating Content Type (ECT) 
+EDCA	   - Enhanced Distributed Channel Access (EDCA) 
+EDF        - empirical distribution function (EDF) 
+EDGE       - Enhanced Data rates for GSM Evolution (EDGE)
+EDI        - Electronic Data Interchange (EDI)
+EDIINT     - Electronic Data Interchange - Internet Integration (WG name)
+EDNS(0)    - Extension Mechanisms for DNS (EDNS(0)) 
+EE         - End Entity (EE)  or
+EENA       - European Emergency Number Association (EENA) 
+EF         - Expedited Forwarding (as in "Diffserv EF")
+EFCI       - Explicit Forward Congestion Indication (EFCI)
+EFM        - Ethernet First Mile (EFM) 
+EFR        - Enhanced Full Rate (EFR)
+EGP       *- Exterior Gateway Protocol
+EHLO      *- Extended Hello 
+                For the template in RFC 5321, "EHLO" is specified a term of
+		art, not an abbreviation.
+EID        - Endpoint Identifier (EID)  or
+           - Extension Header ID (EID) 
+EIP        - Extended Internet Protocol (EIP) 
+EISS       - Extended Internal Sublayer Service (EISS) 
+EIR        - Equipment Identity Register (EIR) 
+EIRP	   - Equivalent Isotropic Radiated Power (EIRP)  or
+             Effective Isotropically Radiated Power (EIRP)
+EKT        - Encrypted Key Transport (EKT) 
+EKU        - extended key usage (EKU)
+EL         - Entropy Label (EL) 
+ELI        - Entropy Label Indicator (ELI) 
+ELOC       - Endpoint Locator (ELOC) 
+EMA        - External Measurement Agent (EMA) 
+EMS        - Energy Management Systems (EMS) (Smart Grid)
+EMSK       - Extended Master Session Key (EMSK) 
+eNB        - Evolved Node B (eNB) 
+ENT        - Empty Non-Terminal (ENT) 
+ENUM       - No Expansion
+                Refers generally to a telephone numbering plan.  However,
+                the term ENUM is universal, whereas Telephone Number 
+                Mapping is not.  There are ENUM activities and 
+                organizations all over the world.  The "long name" of
+                the ENUM WG long name is the anomaly, because ENUM is
+                not an abbreviation, despite appearances.
+EOF       *- End of File (EOF)
+EOF        - Extended Options and Flags (EOF) 
+EoR        - End-of-Row (EoR) 
+EOR       *- exclusive or 
+                [In logical operations, the exclusive disjunction, also
+                called exclusive or, (symbolized XOR or EOR), is a type
+                of logical disjunction on two operands that results in a
+                value of "true" if and only if exactly one of the
+                operands has a value of "true."  (wikipedia)]
+           - End of Rib (EoR) 
+EPC        - Electronic Product Code (EPC) 
+           - Evolved Packet Core (EPC) 
+EPD        - Endpoint Discriminator (EPD) 
+EPI        - Educational Policy Institute (EPI) 
+EPON       - Ethernet Passive Optical Network (EPON) 
+EPP        - Extensible Provisioning Protocol (EPP)
+EPS        - Evolved Packet System (EPS) 
+EPUB      *- electronic publication (EPUB)
+ER         - EAP Re-authentication (ER)  or
+           - Explicit Route (ER) 
+ERE        - Extended Regular Expressions (ERE)
+ERO        - Explicit Route Object (ERO)
+ERP	   - EAP Re-authentication Protocol (ERP) 
+           - Enterprise Resource Provision (ERP) 
+           - Enterprise Resource Planning (ERP) 
+ERT        - Expected Residual Time (ERT) 
+ERU        - Effective Request URI (ERU) 
+ERX	   - EAP Re-authentication Extension (ERX) 
+ES         - Errored Seconds (ES)  or
+           - Ethernet Segment (ES) 
+ESA        - Effective Security Association (ESA) 
+ESADI      - End-Station Address Distribution Information (ESADI) 
+ESB        - Extension Security Block (ESB)
+ESC        - Event State Compositor (ESC) 
+ESI        - Error Source Identifier (ESI)  or
+           - Entity Status Inquiry  or
+           - Encoding Symbol ID 
+           - Energy Services Interface (ESI) (Smart Grid)  or
+           - Ethernet Segment Identifier (ESI) 
+ESMTP     *- Extended Simple Mail Transfer Protocol
+ESN        - Electronic Serial Number (ESN)  or
+           - Extended Sequence Number 
+	        Per Errata 3615, the N (of ESN) can also be "Numbers", but
+		the abbreviation should not be plural (i.e., the abbreviation
+		shoul still be ESN).
+ESO        - Extended Security Option (ESO)
+ESP        - Encapsulating Security Payload (ESP)
+ESRP       - Emergency Service Routing Proxy (ESRP) 
+ESS        - Extended Service Set (ESS)  or
+           - Enhanced Security Services (ESS) 
+EST        - Enrollment over Secure Transport (EST) 
+ETag       - entity-tag (ETag) 
+ETM        - excess-traffic-marked (ETM) 
+ETR        - Egress Tunnel Router (ETR) 
+ETS        - Emergency Telecommunications Service (ETS) 
+ETSI      *- European Telecommunications Standards Institute (ETSI)
+ETX        - Expected Transmission Count (ETX) 
+EUI        - Extended Unique Identifier (EUI)
+EUI-64     - 64-bit Extended Unique Identifier (EUI-64) 
+EVDO       - Evolution-Data Optimized (EVDO) 
+EVI        - EVPN Instance 
+EVPL       - Ethernet Virtual Private Line (EVPL) 
+EVPN       - Ethernet VPN (EVPN)
+EVRC       - Enhanced Variable Rate CODEC (EVRC)
+EVRC-NW    - Enhanced Variable Rate Narrowband-Wideband Codec (EVRC-NW) 
+EVS        - Extended-Vendor-Specific (EVS) 
+EWMA       - exponentially weighted moving average (EWMA) 
+F-BM       - Forwarding Bit Mask (F-BM) 
+FA         - forwarding adjacency (FA)
+           - Foreign Agent (FA)
+FAD        - feature and attribute data (FAD) 
+FAN ELS    - Fabric Address Notification Extended Link Service (FAN ELS)
+                Pronounced "fan ee el es".
+FARP       - Fibre Channel Address Resolution Protocol (FARP)
+                Pronounced "farp".
+FAT        - flow-aware transport (FAT) 
+FBL        - Feedback Loop (FBL) 
+FCAPS      - Fault, Configuration, Accounting, Performance, and Security (FCAPS) 
+FCC        - Floor Control Chair (FCC) 
+FCFS	   - First come, first served (FCFS) 
+FCI        - Feedback Control Information (FCI)  or
+           - Footprint & Capabilities Advertisement interface (FCI) 
+FCIP       - Fibre Channel Over TCP/IP (FCIP)
+FCP        - Fibre Channel Protocol (FCP)  or
+           - Floor Control Participant (FCP) 
+FCS        - Frame Check Sequence (FCS)  or
+           - Floor Control Server 
+FDB        - Filtering Database (FDB) 
+FDDI       - Fiber Distributed Data Interface (FDDI) 
+FDMA	   - Frequency-Division Multiplex (FDMA)
+FDT        - File Delivery Table (FDT) 
+FE         - Forwarding Element (FE) 
+FEC        - Forward Error Correction (FEC)  or
+           - Forwarding Equivalence Class (FEC) 
+FECN       - Forward Explicit Congestion Notification (FECN)
+FedFS      - Federated File System (FedFS) 
+FEM        - Forwarding Element Manager (FEM) 
+FF         - Fixed-Filter (FF)
+FFC	   - Finite Field Cryptography (FFC) 
+FFD        - Full Function Device (FFD) 
+ffs        - for further study
+FFT        - Fast Fourier Transform (FFT)
+FG         - forest guide (FG) 
+FGL        - Fine-Grained Labeling (FGL)  or
+             Fine-Grained Labeled (FGL)  or
+             Fine-Grained Label (FGL) 
+FI         - Forwarding Indicator (FI) 
+FIA        - form interpretation algorithm (FIA) (W3C VoiceXML 2.0)
+FIB       *- Forwarding Information Base (FIB) 
+FID        - Flow ID (FID) 
+FIFO      *- First In, First Out 
+                [This is listed in Merriam Websters Dictionary.]
+FII        - Forked Instance Identifier (FII) 
+FIN        - Not expanded 
+                TCP flag bit name; see SYN.
+FIPS	  *- Federal Information Processing Standards (FIPS)
+FIR        - Full Intra Request (FIR) 
+FLAC       - Free Lossless Audio Codec (FLAC) 
+FLUTE      - File Delivery over Unidirectional Transport (FLUTE) 
+FM         - forwarding management (FM) 
+           - Fault Management (FM) 
+FMIPv6     - Fast Handovers for Mobile IPv6 (FMIPv6) 
+FMT        - feedback message type (FMT) 
+FNV        - Fowler/Noll/Vo (FNV) 
+ForCES     - Forwarding and Control Element Separation (ForCES) 
+FP	   - Fixed Part (FP) 
+FPGA       - Field-Programmable Gate Array (FPGA)
+FPS        - Frames Per Second (FPS) 
+FQ         - Fair Queuing (FQ) 
+FQDN       - Fully Qualified Domain Name (FQDN)
+FR         - Frame Relay (FR)
+FRAND      - fair, reasonable, and non-discriminatory (FRAND) 
+FRR        - Fast Reroute (FRR)
+FS-LSP     - Flooding Scope LSP (FS-LSP) 
+FSID       - File System ID (FSID) 
+FSM        - Finite State Machine (FSM)
+FSPF       - Fabric Shortest Path First (FSPF)
+FSSI       - FEC-Scheme-Specific Information (FSSI) 
+FT         - feedback target (FT)
+FTN        - FEC-to-NHLFE (FTN) 
+FTP       *- File Transfer Protocol
+FTTH       - fiber to the home (FTTH)
+FWS        - folding white space (FWS) 
+G-ACh      - Generic Associated Channel (G-ACh) 
+GAL        - Generic Associated Channel Label (GAL )or
+             G-ACh Label (GAL) 
+GAP	   - Generic Access Profile (GAP) 
+GARP       - Generic Attribute Registration Protocol (GARP)
+GAS        - Generic Advertisement Service (GAS)
+GbE        - Gigabit Ethernet (GbE)
+GBR        - Guaranteed Bit Rate (GBR)
+GBS        - Generic Bonding Sub-layer (GBS) 
+GCKS       - Group Controller/Key Server (GCKS)
+GCM        - Galois/Counter Mode (GCM)
+GCO        - Global Concurrent Optimization (GCO)
+GDOI       - Group Domain of Interpretation (GDOI)
+GERAN      - GSM/EDGE Radio Access Network (GERAN) 
+GFP        - Generic Framing Procedure (GFP) 
+GGSN       - Gateway GPRS Support Node (GGSN)
+GHC        - Generic Header Compression (GHC) 
+GID        - Group Identifier (GID) 
+           - Global Identifier (GID) 
+GIST       - General Internet Signaling Transport (GIST) 
+GLB        - Global Locator Block (GLO) 
+GLOP       - No Expansion 
+GMA        - Generalized Modulus Algorithm (GMA) 
+GMAC       - Galois Message Authentication Code (GMAC) 
+GMII       - Gigabit Media Independent Interface (GMII) 
+GML        - Geography Markup Language (GML)
+GMPLS     *- Generalized Multiprotocol Label Switching
+GMRP       - GARP Multicast Registration Protocol (GMRP)
+GNSS       - Global Navigation Satellite System 
+GPL        - General Public License (GPL)
+GPMD       - General-Purpose Media Descriptor (GPMD) 
+GPRS       - General Packet Radio Service (GPRS) (3GPP)  or
+           - General Packet Radio System (GPRS) (3GPP)
+GPS       *- Global Positioning System (GPS)
+GPU        - Graphics Processing Unit (GPU) 
+GRE       *- Generic Routing Encapsulation (GRE)
+GRUU       - Globally Routable User Agent URI (GRUU)
+GSAKMP     - Group Secure Association Key Management Protocol (GSAKMP)
+GSE        - Generalized Structure Element (GSE)
+GSI        - Grid Security Infrastructure (GSI)
+GSLB       - Global Server Load Balancing (GSLB) 
+GSM       *- Global System for Mobile Communications (GSM)
+GSMA       - Global System for Mobile Communications Association (GSMA)
+GSPD       - Group Security Policy Database (GSPD)
+GSPM       - Generic Secure Password Method (GSPM) 
+GSS-API    - Generic Security Service Application Program Interface (GSS-API)
+GSTN       - General Switched Telephone Network (GSTN)  or
+           - Global Switched Telephone Network (GSTN) 
+GTK        - Group Temporal Key (GTK)
+gTLD       - Generic Top-Level Domain (gTLD)
+GTP        - Generic Tunneling Protocol (GTP)
+           - GPRS Tunnelling Protocol (GTP) 
+GTSM       - Generalized TTL Security Mechanism (GTSM)
+GUI       *- Graphical User Interface
+GUID       - Globally Unique Identifier (GUID)
+GVRP       - Generic VLAN Registration Protocol (GVRP)
+H-PCE      - Hierarchical PCE (H-PCE) 
+HA         - Home Agent (HA) 
+HAAA       - Home AAA (HAAA) 
+HAC        - Home Agen Controller (HAC) 
+HAS        - HTTP Adaptive Streaming (HAS) 
+HBA        - Host Bus Adapter (HBA)  or
+           - Host-Based Authentication (HBA)  or
+           - Hash-Based Addresses (HBA) 
+HbH	   - Hop-by-Hop (HbH) 
+HC         - high capacity (HC)  or
+           - Header Compression (HC) 
+HCA        - Host Channel Adapter (HCA) 
+HD        *- High Definition
+HDLC       - High-Level Data Link Control (HDLC)
+HELD       - HTTP-Enabled Location Delivery (HELD) 
+HET        - Header Extension Type (HET) 
+HFC        - Hybrid Fiber Coaxial (HFC)
+HFS+       - Hierarchical File System Plus (HFS+) 
+HG         - home gateway (HG)
+HI         - Host Identifier (HI)  or
+           - Host Identity (HI) 
+HIP        - Host Identity Protocol (HIP)  
+hIPv4      - hierarchical IPv4 
+HIT        - Host Identity Tag (HIT)
+HKDF       - HMAC-based Key Derivation Function (HKDF) 
+HL	   - Hop Limit (HL) 
+HLR        - Home Location Register (HLR) 
+HMAC       - Hashed Message Authentication Code (HMAC)
+	   - Hash-Based Message Authentication Code (HMAC) 
+HMIPv6     - Hierarchical Mobile IPv6 (HMIPv6) 
+HoA        - Home Address (HoA)
+HOBA       - HTTP Origin-Bound Authentication (HOBA) 
+HoT        - Home Test (HoT) 
+HoTI       - Home Test Init (HoTI) 
+HOKEY      - Handover Keying (HOKEY) 
+HPC        - High-Performance Computing (HPC) 
+HPKP       - HTTP Public Key Pinning (HPKP)
+HPTP       - HTTP-based Peer to Peer (HPTP)  or
+           - HTTP-based Peer-to-Peer (HPTP) (adj.)
+HSM        - Hardware Security Module (HSM) 
+HSMP       - Hub and Spoke Multipoint (HSMP)
+HSPA       - High Speed Packet Access (HSPA) 
+	        (No hyphen, not our term to define)
+HSS        - Home Subscriber Server (HSS) 
+HSTS       - HTTP Strict Transport Security (HSTS) 
+HTTP      *- HyperText Transfer Protocol
+HTTPS     *- Hypertext Transfer Protocol Secure 
+HTML      *- HypterText Markup Language
+H-VPLS     - Hierarchical Virtual Private LAN Service (H-VPLS) 
+I2RS       - Interface to the Routing System (I2RS) 
+IaaS       - Infrastructure as a Service (IaaS) 
+IA         - Identity Association (IA) 
+IA-RWA     - Impairment-Aware Routing and Wavelength Assignment (IA-RWA) 
+IA_PD      - Identity Association for Prefix Delegation (IA_PD) 
+IAB       *- Internet Architecture Board (should only be expanded for
+                introductory docs, e.g., Tao of the IETF) 
+IAID       - Identity Association IDentifier (IAID) 
+IAMM       - In-line Aware MRB Mode (IAMM) 
+IANA      *- Internet Assigned Numbers Authority (should only be expanded for
+                introductory docs, e.g., Tao of the IETF)
+IAP        - Intercept Access Point (IAP) 
+           - Internet Access Provider (IAP) 
+           - Intermediate Anonymization Process (IAP) 
+IAX        - Inter-Asterisk eXchange (IAX) 
+IBAKE      - Identity-Based Authenticated Key Exchange (IBAKE) 
+IBCF       - Interconnection Border Control Function (IBCF) (3GPP term)
+IBE        - Identity-Based Encryption (IBE) 
+IBGP       - Internal BGP (IBGP) 
+ICANN     *- Internet Corporation for Assigned Names and Numbers (ICANN)
+ICC        - ITU Carrier Code (ICC) (https://www.itu.int/oth/T0201)
+ICCP       - Inter-Chassis Communication Protocol (ICCP) 
+ICE        - Interactive Connectivity Establishment (ICE)
+ICMP      *- Internet Control Message Protocol
+ICP        - Internet Content Provider (ICP) 
+ICRP       - Incoming-Call-Reply (ICRP)
+ICRQ       - Incoming-Call-Request (ICRQ)
+ICS        - IMS Centralized Services (ICS) 
+ICSA       - International Computer Security Association (ICSA)
+ICT        - Inner Content Type (ICT)  or
+           - Information and Communications Technology (ICT) 
+ICV        - Integrity Check Value (ICV)
+I-D        - Internet-Draft (I-D)
+I-SID      - Service Instance Identifier (I-SID) (IEEE)
+IDEA       - International Data Encryption Algorithm (IDEA) 
+IDN        - Internationalized Domain Name (IDN) 
+IDNA       - Internationalizing Domain Names in Applications (IDNA) 
+           - Internationalized Domain Names for Applications (IDNA) 
+IdP        - Identity Provider (IdP) 
+IDR        - Instantaneous Decoding Refresh (IDR) 
+IDRP       - Inter-Domain Routing Protocol (IDRP) (ISO/IEC 10747)
+IDS        - Intrusion Detection System (IDS)
+IE         - Information Element (IE)
+	   - Internet Explorer (IE) 
+IEA        - Ingress Egress Aggregate (IEA) 
+IEC       *- International Electronical Commission
+IED        - Intelligent Electronic Device (IED) 
+IEEE      *- Institute of Electrical & Electronics Engineers
+IESG      *- Internet Engineering Steering Group (should only be expanded for
+                introductory docs, e.g., Tao of the IETF)
+IETF      *- Internet Engineering Task Force (should only be expanded for
+                introductory docs, e.g., Tao of the IETF) 
+IF         - intermediate frequency (IF)
+iff       *- if and only if (from mathematical logic)
+IFG        - Inter-Frame Gap (IFG) 
+IGD        - Internet Gateway Device (IGD)
+IGP       *- Interior Gateway Protocol (IGP)
+IGMP      *- Internet Group Management Protocol
+IHL        - Internet Header Length (IHL)
+IID        - Instance ID (IID) 
+	   - Interface Identifier (IID)
+IIH        - IS-IS Hello (IIH) 
+IIR        - infinite impulse response (IIR) 
+IKE        - Internet Key Exchange Protocol (IKE)
+IKEv2      - Internet Key Exchange Protocol Version 2 (IKEv2)
+ILM        - Incoming Label Map
+ILMI       - Integrated Local Management Interface (ILMI)
+ILNP       - Identifier-Locator Network Protocol (ILNP) 
+	   - Interim LNP (ILNP) 
+ILV        - Index-Length-Value (ILV) 
+IMA        - Inverse Multiplexing for ATM (IMA) 
+IMAP      *- Internet Message Access Protocol
+IMEI       - International Mobile Equipment Identity (IMEI)  or
+             International Mobile station Equipment Identity (per 3GPP)
+IMEISV     - International Mobile station Equipment Identity and
+             Software Version number (IMEISV) 
+IMG        - Inter-domain Multicast Gateway (IMG) 
+iMIP       - iCalendar Message-Based Interoperability Protocol (iMIP) 
+IMPP       - Instant Messaging and Presence Protocol (IMPP)
+IMS        - IP Multimedia Subsystems (IMS)
+IMSI       - International Mobile Subscriber Identity (IMSI)
+INCITS     - INternational Committee for Information Technology Standards
+INR        - Internet Number Resource (INR) 
+I/O       *- Input/Output (I/O) 
+IO         - information object (IO)  or
+           - Initialize Only (IO) 
+IODEF      - Incident Object Description Exchange Format (IODEF) 
+IOI        - Item of Interest (IOI) 
+	   - Inter Operator Identifier (IOI) 
+ION	   - IETF Operational Notes (ION) 
+IOS       *- Internetwork Operating System (IOS); as in Cisco IOS
+IoT        - Internet of Things (IoT) 
+IP        *- Internet Protocol
+IPBX       - IP Private Branch Exchange (IPBX)
+IPEI	   - International Portable Equipment Identity (IPEI) 
+IPCP       - IP Control Protocol (IPCP)
+IPDV       - Inter-Packet Delay Variation (IPDV)  or
+             IP Packet Delay Variation (IPDV) 
+IPFIX      - IP Flow Information Export 
+IPFRR      - IP Fast Reroute (IPFRR) 
+IPHC       - IP Header Compression (IPHC)
+IPng      *- IP Next Generation
+IPoE       - IP over Ethernet (IPoE)
+IPoIB      - IP over InfiniBand (IPoIB) 
+IPP        - Internet Printing Protocol (IPP) 
+IPPM       - IP Performance Metrics (IPPM)
+IPR       *- Intellectual Property Rights (IPR)
+IPS        - Intrusion Prevention System (IPS) 
+IPsec     *- IP Security (IPsec)
+IPSO       - IP Security Option (IPSO) 
+IPTV       - No Expansion
+                A service that delivers television signals over
+                an RTP/UDP/IP video stream. It is read "IP TV".
+IPv4      *- Internet Protocol version 4 
+IPv6      *- Internet Protocol version 6
+IPX        - Internetwork Packet Exchange (IPX)  or
+           - IP Packet eXchange 
+IQN	   - iSCSI Qualified Name (IQN) 
+IR         - Initiation and Refresh (IR)  or
+	   - Internet Registry (IR)  or
+           - Ingress Replication (IR) 
+IRC        - Internet Relay Chat (IRC)
+IRD        - Information Resource Directory (IRD) 
+IRI        - Internationalized Resource Identifier (IRI)
+IRO        - Include Route Object (IRO) 
+IRON       - Internet Routing Overlay Network (IRON)
+IRR        - Internet Routing Registry
+IRTF      *- Internet Research Task Force (should only be expanded for
+                introductory docs, e.g., Tao of the IETF)
+IS         - Information Service (IS)  or
+          *- Intermediate System (IS)
+IS-IS     *- Intermediate System to Intermediate System (routing protocol)
+ISAKMP     - Internet Security Association and Key Management Protocol (ISAKMP)
+ISATAP	   - Intra-Site Automatic Tunnel Addressing Protocol (ISATAP) 
+ISC        - Internet Systems Consortium (ISC)
+ISCD       - Interface Switching Capability Descriptor 
+iSCSI      - Internet Small Computer System Interface (iSCSI)
+ISE        - Independent Submissions Editor (ISE)
+ISDN      *- Integrated Services Digital Network (ISDN)
+iSER       - iSCSI Extensions for RDMA (iSER) 
+ISID       - Initiator Session Identifier (ISID) 
+iSNS       - Internet Storage Name Service (iSNS) 
+ISO       *- International Organization for Standardization
+ISOC      *- Internet Society
+ISP       *- Internet Service Provider
+iSPF       - incremental Shortest Path First (iSPF)
+ISS        - Internal Sublayer Service 
+ISSN      *- International Standard Serial Number (ISSN)
+ISSU       - In-Service Software Upgrade (ISSU)
+IST        - Internal Spanning Tree (IST) 
+ISUP       - ISDN User Part (ISUP) 
+iTIP       - iCalendar Transport-independent Interoperability Protocol (iTIP) 
+ITR        - Ingress Tunnel Router (ITR) 
+ITT        - Initiator Task Tag (ITT) 
+ITU       *- International Telecommunication Union
+             (Please note the singular "Telecommunication" per
+              http://www.itu.int/en/about/Pages/default.aspx -- not
+              the plural "Telecommunications" that authors often use)
+ITU-T     *- ITU Telecommunication standardization sector
+IU         - Information Unit (IU)
+IUA        - ISDN Q.921-User Adaptations Layer (IUA)
+IUMM       - In-line Unaware MRB Mode (IUMM) 
+IV         - Initialization Vector (IV)  or
+           - Impairment Validation (IV) 
+IVL        - Independent VLAN Learning (IVL)
+IVR        - Interactive Voice Response (IVR)
+IW	   - Initial Window (IW) 
+IWF        - Interworking Function (IWF) 
+IWLAN      - Interworking Wireless LAN 
+IXFR       - Incremental Zone Transfer (IXFR)
+IXP        - Internet Exchange Point (IXP) 
+JID        - Jabber Identifier (JID) 
+             (Peter Saint-Andre prefers "Jabber ID" for exp.)
+JOSE       - JSON Object Signing and Encryption (JOSE) 
+J-PAKE     - Juggling PAKE (J-PAKE) 
+JPEG      *- Joint Photographic Experts Group
+JRD        - JSON Resource Descriptor (JRD) 
+JSON      *- JavaScript Object Notation 
+JWA        - JSON Web Algorithms (JWA) 
+JWE        - JSON Web Encryption (JWE) 
+JWK        - JSON Web Key (JWK)
+JWS	   - JSON Web Signature (JWS) 
+JWT        - Joint Working Team (JWT)  or
+           - JavaScript Object Notation Web Token (JWT) 
+KAM3       - Key Agreement Mechanism 3 (KAM3) 
+KARP	   - Keying and Authentication for Routing Protocols (KARP) 
+KDC        - Key Distribution Center (KDC)
+KDF        - Key Derivation Function (KDF) 
+KE         - key establishment (KE) 
+KEK        - key encryption key (or key-encryption key) (KEK)
+KEM        - Key Encapsulation Mechanism 
+KIM        - Key Identifier Mode (KIM) 
+KINK       - Kerberized Internet Negotiation of Keys (KINK)
+KLV        - Key-Length-Value (KLV) 
+KMP	   - Key Management Protocol (KMP) 
+KMS        - Key Management Service (KMS)
+KPAK       - Key Management Service Public Authentication Key (KPAK) 
+KPML       - Key Press Markup Language (KPML) 
+KSAK       - Key Management Service Secret Authentication Key (KSAK) 
+KSK        - Key Signing Key (KSK) 
+L2F        - Layer 2 Forwarding (L2F)
+L2SS       - L2-Specific Sublayer (L2SS) 
+L2TP       - Layer 2 Tunneling Protocol (L2TP)
+L2VPN      - Layer 2 Virtual Private Network (L2VPN)
+L3VPN      - Layer 3 Virtual Private Network (L3VPN)
+L-LSP      - Label-Only-Inferred-PSC LSP (L-LSP)
+LAALP      - Local Active-Active Link Protocol (LAALP) 
+LAC        - L2TP Access Concentrator (LAC) 
+LACNIC    *- Latin American and Caribbean Internet Addresses Registry
+LACP       - Link Aggregation Control Protocol (LACP) 
+LAG        - Link Aggregation Group (LAG) 
+LAN       *- Local Area Network (LAN)
+LATM       - Low-overhead MPEG-4 Audio Transport Multiplex (LATM) 
+LBR        - LLN Border Router (LBR) 
+LbyR       - Location-by-Reference (LbyR) 
+LbyV       - Location-by-Value (LbyV) 
+LC         - Local Controller (LC)  or
+           - Link Connection (LC)
+           - Line Card (LC)
+LCAF       - LISP Canonical Address Format (LCAF) 
+LCAS       - Link Capacity Adjustment Scheme (LCAS) 
+LCCE       - Logical Cluster Computing Environment (LCCE)  or
+           - L2TP Control Connection Endpoint 
+LCG        - Linear Congruential Generator (LCG) 
+LCI        - Location Configuration Information (LCI) 
+LCP        - Location Configuration Protocol (LCP)  or
+           - large content providers (LCP) 
+           - Link Control Protocol (LCP) 
+LCT        - Layered Coding Transport (LCT) 
+LDAP       - Lightweight Directory Access Protocol (LDAP)
+LDH        - letter-digit-hyphen (LDH) 
+LDI	   - Link Down Indication (LDI) 
+LDML       - Locale Data Markup Language (LDML) 
+LDN        - Local Domain Name (LDN) 
+LDP       *- Label Distribution Protocol (LDP)
+LDPC	   - Low-Density Parity Check (LDPC) 
+LDR        - Link Delivery Ratio (LDR) 
+LEDBAT     - Low Extra Delay Background Transport (LEDBAT) 
+LEC        - Loss Estimation Counter (LEC) 
+             Local Exchange Carrier (LEC) 
+LER        - Label Edge Router (LER)
+LF        *- Line Feed
+LFA        - Loop-Free Alternate (LFA) 
+LFB        - Logical Functional Block (LFB) 
+           - Logical Function Block (LFB) 
+LFE        - Low Frequency Effects (LFE) 
+LFIB       - Label Forwarding Information Base (LFIB) 
+LFN        - Long Fat Network (LFN)  or
+           - Local Fixed Node (LFN) 
+LFS        - Label Format Specifier (LFS) 
+LFSR       - linear feedback shift register (LFSR) 
+LGR        - Label Generation Ruleset (LGR) 
+LIFO       - last-in-first-out (LIFO)
+LIG        - LISP Internet Groper (LIG) 
+LIP        - Loop Initialization Primitive Sequence (LIP) 
+                Pronounced "lip".
+LIPA       - Local IP Access (LIPA) 
+LIR	   - Local Internet Registry (LIR) 
+LIS        - Location Information Server (LIS) 
+LISP       - Locator-Identifier Split Protocol (LISP)  or
+             Locator/ID Separation Protocol (LISP) 
+LKH        - Logical Key Hierarchy (LKH)
+LLC/SNAP   - Logical Link Control/Subnetwork Access Protocol (LLC/SNAP) 
+                Pronounced "el el see snap".
+LLDP       - Link Layer Discovery Protocol (LLDP) (ANSI/TIA-1057)
+LLDP-MED   - Link Layer Discovery Protocol - Media Endpoint Discovery (LLDP-MED) 
+LLID       - Logical Link Identifier (LLID) 
+LLME	   - Lower Layer Management Entity (LLME) 
+LLMNR	   - Link-Local Multicast Name Resolution (LLMNR) 
+LLN        - Low-Power and Lossy Network (plural LLNs) 
+LLQC       - Last Listener Query Count (LLQC) 
+LLQI       - Last Listener Query Interval (LLQI) 
+LLQT       - Last Listener Query Timer (LLQT) 
+LLS        - Link-Local Signaling (LLS) 
+LM         - Loss Measurement (LM)  or
+           - location management 
+LMA        - Local Mobility Anchor (LMA) 
+LMAA       - Local Mobility Anchor Address (LMAA) 
+LMAP       - Large-scale Measurement of Broadband Performance (LMAP)
+LMDS       - Local Multipoint Distribution Service (LMDS)
+LMP        - Link Management Protocol (LMP)
+LMQC       - Last Member Query Count (LMQC) 
+LMQI       - Last Member Query Interval (LMQI) 
+LMQT       - Last Member Query Timer (LMQT) 
+LMTP       - Local Mail Transfer Protocol (LMTP) 
+LO         - Leading Only (LO) 
+Loc-RIB   *- No Expansion 
+LOPS       - Loss of Packet Synchronization (LOPS)
+LoST       - Location-to-Service Translation (LoST) 
+LoWPAN     - Low-Power Wireless Personal Area Network (LoWPAN) 
+LPC        - linear-predictive coding (LPC) 
+LQI        - Link Quality Indication (LQI) 
+LRA        - Localized Routing Acknowledge (LRA) 
+           - Local Registration Authority (LRA) 
+LRDD       - Link-based Resource Descriptor Document (LRDD) 
+LRI        - Localized Routing Initialization (LRI) 
+LRM        - Link Resource Manager (LRM) 
+LRU        - Least Recently Used (LRU)
+LSA        - Link State Advertisement (LSA)
+LSAP       - Link Service Access Point (LSAP)
+LSB        - least significant bit (LSB)  or
+           - Locator-Status-Bit (LSB) 
+LSC        - Link State Control (LSC)
+           - Lambda Switch Capable (LSC) 
+           - Lambda Switching Capable (LSC) 
+LSDB       - Link State Database (LSDB)
+LSE        - Label Stack Entry (LSE) 
+LSF        - Line Spectral Frequency (LSF) 
+LSI        - Local Scope Identifier (LSI) 
+LSN	   - Large-Scale NAT (LSN) 
+LSP        - Label Switched Path (LSP)
+           - Label Switching Path (LSP) -- RARELY USED
+           - Link State Packet (LSP)
+           - Link State PDU (LSP) (or Link State Protocol Data Unit) 
+             (Note: Link State PDU whenever referring to IS-IS; per Janos
+	     Farkas re: RFC 7813)
+           - Location Service Provider (LSP) 
+LSPA       - LSP Attributes (LSP) 
+LSPDB      - Link State PDU Database (LSPDB) 
+LSR        - Label Switching Router (LSR)
+           - Loose Source Routing (LSR) 
+vLSRR       - Loose Source and Record Route (LSRR)
+LSW        - Least Significant Word (LSW)
+LTE       *- Long Term Evolution (LTE) 
+	        (No hyphen; not our term to define)
+LTP        - Licklider Transmission Protocol (LTP) 
+LU         - Logical Unit (LU) 
+LUN        - Logical Unit Number (LUN)
+LW-IGMPv3  - Lightweight IGMPv3 (LW-IGMPv3) 
+LW-MLDv2   - Lightweight MLDv2 (LW-MLDv2) 
+lw4o6      - Lightweight 4over6 (lw4o6) 
+LW46       - LightWeight 46 (LW46) 
+lwAFTR     - Lightweight AFTR (lwAFTR) 
+lwB4       - Lightweight B4 (lwB4) 
+LWSP       - linear whitespace (LWSP) 
+LZ77       - Lempel-Ziv (LZ77) 
+LZQ        - Lempel-Ziv-Welch (LZQ) 
+M2M        - machine-to-machine (M2M) 
+mAFTR	   - Multicast AFTR (mAFTR) 
+mB4	   - Multicast Basic Bridging BroadBand (mB4) 
+MA         - Multicast Acquisition (MA)  or
+           - multiple attachment (MA)  or
+           - Measurement Agent (MA) 
+           - Maintenance Association (MA) 
+MA/RA      - Maintenance Agency/Registration Authority (MA/RA)
+MAC        - Media Access Control (MAC)  or
+           - Medium Access Control (MAC)  or       
+           - Message Authentication Code (MAC)  or
+           - Mandatory Access Control (MAC) 
+             Caution when expanding these.  Alfred provides the
+             following info:
+             a)  IEEE 802.2 (et al.) :
+                 MAC == Media Access Control -- Sublayer of the Link Layer;
+                 most frequently used in combination with "address".
+                 I pose the rule of thumb: Whenever "MAC" appears in context
+                 with "address", it has to be expanded in the IEEE sense.
+             b)  Legacy cryptographic terminology :
+                 MAC == Message Authentication Code
+             c)  Media/Medium dependent upon plural/singular.  
+                 Per Dan Romascanu for RFCs 5412-5418.
+MACE       - Middleware Architecture Committee for Education (MACE) 
+MAE        - Metropolitan Area Ethernet (MAE) 
+MAG        - Mobile Access Gateway (MAG) 
+MAN       *- Metropolitan Area Network
+MANET      - Mobile Ad Hoc Network (MANET) 
+MAP        - Mobility Anchor Point (MAP) 
+           - Mobile Application Part (MAP) 
+MAP-E      - Mapping of Address and Port with Encapsulation (MAP-E) 
+MAP-T      - Mapping of Address and Port using Translation (MAP-T) 
+MAS        - Mobile Access Station (MAS) 
+MBB        - Make-Before-Break (MBB) 
+MBGP       - Multicast BGP (MBGP)  or
+             Multiprotocol BGP (MBGP) 
+MBMS       - Multimedia Broadcast/Multicast Service (MBMS) 
+MBZ        - MUST be zero
+MC         - Motion Compensation (MC)
+MC-LAG     - Multi-Chassis Link Aggregation (MC-LAG) 
+MCA        - Multiple Call Appearance (MCA) 
+MCC        - Mobile Country Code (MCC) 
+           - Management Communication Channel (MCC) 
+MCLT       - Maximum Client Lead Time (MCLT) 
+MCU        - Multipoint Control Unit (MCU)
+MCMS       - Multimedia Cable Network System (MCNS)
+MD         - Maintenance Domain (MD) 
+MD5       *- Message Digest 5 (Typically not expanded 
+MDA        - Mail Delivery Agent (MDA) 
+MDC        - Modification Detection Code (MDC) 
+MDL        - maximum datagram lifetime (MDL) 
+mDNS       - Multicast DNS (mDNS) 
+MDNs	   - Message Disposition Notifications (MDNs) 
+MDRR       - Maximum Data Rate (Receive) (MDRR) 
+MDRT       - Maximum Data Rate (Transmit) (MDRT) 
+MDS        - Maximal Separable Distance (MDS) 
+           - MetaData Server (MDS) 
+MDT        - Multicast Distribution Tree (MDT) 
+ME         - Maintenance Entity (ME)
+MED        - Multi-Exit Discriminator (MED)
+MEDIACTRL *- Media Server Control 
+MEG        - Maintenance Entity Group (MEG) 
+MELPe      - Mixed Excitation Linear Prediction Enhanced 
+MEP        - Maintenance Entity Group End Point (MEP) 
+MF         - More Fragments (MF) 
+MFIB       - Multicast Forwarding Information Base (MFIB)
+MG         - Media Gateway (MG) 
+MGC        - Media Gateway Controller (MGC)
+MGCP       - Media Gateway Control Protocol (MGCP)
+MHAE       - Mobile-Home Authentication Extension (MHAE)
+MHD        - multi-homed device (MHD) 
+MHN        - multi-homed network (MHN) 
+MHP        - Multimedia Home Platform (MHP)  or
+           - Multi-Homed Prefix (MHP) 
+MI-PMSI    - Multidirectional Inclusive PMSI (MI-PMSI) 
+MIB       *- Management Information Base
+MIC        - Message Integrity Check (MIC)  or
+           - Message Integrity Code (MIC)
+MIDCOM     - Middlebox Communications (midcom)
+MIDI       - MIDI (Musical Instrument Digital Interface)
+                Typically not expanded.
+                If expand, make MIDI primary, that is,
+                use "MIDI (Musical Instrument Digital Interface)",
+                not "Musical Instrument Digital Interface (MIDI)".
+                (per RFC Editor note for RFCs 4695 and 4696)
+MIF        - multiple interfaces (MIF) 
+MIKEY      - Multimedia Internet KEYing (MIKEY)
+MIME      *- Multipurpose Internet Mail Extensions
+MIN        - Mobile Identification Number (MIN)
+MINC       - multicast inference of network characteristics (MINC) 
+MINE       - Minimal Encapsulation in IP (MINE) 
+MIP        - Mobile IP
+           - Maintenance Entity Group Intermediate Point 
+MIP6       - Mobile IPv6 (MIP6) 
+MIPS      *- Million Instructions Per Second
+MITM       - man in the middle (MITM)  [typically hyphenated as adj. before "attack"]
+MKI        - Master Key Identifier (MKI)
+MKT	   - Master Key Tuple (MKT) 
+MLA        - Multiple Call Line Appearance 
+MLD        - Multicast Listener Discovery (MLD) 
+MLDv2      - Multicast Listener Discovery Version 2 (MLDv2)
+mLDP       - Multipoint LDP (mLDP) 
+                not as defined in RFC 6388 (mLDP:  Multipoint extensions for LDP)
+                confirmed by WG chair and AD   
+MLE        - Mesh Link Establishment (MLE) 
+MLI        - Message Length Indicator (MLI) 
+MLM        - Mailing List Manager (MLM) 
+MLPP       - Multilevel Precedence and Preemption (MLPP)
+MLS        - Multi-Level Secure (MLS)  or
+           - Multi-Level Security (MLS) 
+MM	   - Mobility Management (MM) 
+MMA        - MIDI Manufacturers Association
+MMDEF      - Malware Metadata Exchange Format (MMDEF) 
+MME        - Mobile Management Entity (MME)
+MMORPG     - Massively Multiplayer Online Role-Playing Game (MMORPG)
+MMRP       - Multiple MAC Registration Protocol (MMRP) 
+MMS        - Multimedia Messaging Service (MMS)
+MN         - Mobile Node (MN) 
+MN-FA      - Mobile Node - Foreign Agent (MN-FA)
+MNC        - Mobile Network Code (MNC) 
+MNG        - Mobile Network Gateway (MNG) 
+MO         - Measurement Object (MO) 
+MOBIKE     - IKEv2 Mobility and Multihoming (MOBIKE)
+MODP       - modular exponentiation (MODP) (often MODP group)
+MOP        - Mode of Operation (MOP) 
+MOS        - mean opinion score (MOS) 
+MOSPF      - Multicast Extensions to OSPF (MOSPF) 
+MP         - Multiprotocol (MP)  or
+           - Maintenance Point (MP)
+MP-BGP     - Multiprotocol BGP 
+MP2PE      - Multi-Point to Point Emulation (MP2PE) 
+MP2MP	   - Multipoint-to-Multipoint (MP2MP)
+MPA        - Marker PDU Aligned Framing for TCP 
+MPD        - Media Presentation Description (MPD) 
+MPEG      *- Motion Picture Experts Group
+                Typically not expanded. 
+MPI        - Minimum Picture Interval (MPI)  or
+           - Multiprecision Integer (MPI) 
+MPL        - Multicast Protocol for Low-Power and Lossy Networks (MPL)
+MPLS      *- Multiprotocol Label Switching
+                Use "Multiprotocol" wherever "Multi Protocol"  or
+                "MultiProtocol" occur 
+MPLS-TE   *- MPLS Traffic Engineering (MPLS-TE) 
+MPLS-TP    - MPLS Transport Profile (MPLS-TP) 
+MPNTP      - Multipath Network Time Protocol (MPNTP) 
+MPPTP      - Multipath Precision Time Protocol (MPPTP) 
+MPR        - multipoint relay (MPR) 
+MPT        - Merge Point (MPT) 
+MPTCP      - Multipath TCP (MPTCP) 
+MR         - Mobile Router (MR)  or
+           - Map Resolver (MR) 
+MRB        - Media Resource Broker (MRB) 
+MRD        - Multicast Router Discovery (MRD) 
+MRIB       - Multicast Routing Information Base (MRIB)
+MRRU       - Maximum Reconstructed Reception Unit (MRRU) 
+MRT        - Multi-threaded Routing Toolkit (MRT)  or
+             Maximally Redundant Tree (MRT) 
+MRTG       - Multi Router Traffic Grapher (MRTG)
+MRU        - Maximum Receive Unit (MRU)
+MS         - Media Server (MS) 
+           - Mobile Station (MS) 
+           - Message Store (MS) 
+           - Manual Switch (MS) 
+MS-PW      - Multi-Segment Pseudowire (MS-PW) 
+MSA        - Mail Submission Agent (MSA) 
+           - Message Submission Agent (MSA) 
+           - Mobility Service Authorizer (MSA) 
+MSB        - most significant bit (MSB) 
+MSC        - Mobile Switching Center (MSC) 
+MSCML      - Media Server Control Markup Language (MSCML) 
+MSDP       - Multicast Source Discovery Protocol (MSDP)
+MSISDN     - Mobile Station International Subscriber Dial Number (MSISDN)  or
+             Mobile Subscriber Integrated Services Digital Network number (MSISDN) 
+MSL        - maximum segment lifetime (MSL)
+MSM        - Mobile Station Modem (MSM) 
+MSML       - Media Server Markup Language (MSML) 
+MSN        - Master Sequence Number (MSN) 
+MSP        - Mail Service Provider (MSP)  or
+             Mapping Service Provider (MSP) 
+MSRP       - Message Session Relay Protocol (MSRP) 
+MSS        - Maximum Segment Size (MSS)  or
+           - Mobile Support Station (MSS) 
+MSTI       - Multiple Spanning Tree Instance (MSTI) [802.1q]
+MSTP       - Multiple Spanning Tree Protocol (MSTP)  or
+           - Mobility Service Transport Protocol (MSTP) 
+MSW        - Most Significant Word (MSW)
+MT         - Message Transfer (MT) 
+           - Mobile Terminal (MT) 
+           - Multiplier (MT) 
+           - Multi-Topology (MT) 
+MTA        - Mail Transport Agent (MTA)  or 
+           - Mail Transfer Agent (MTA)
+           - Message Transfer Agent (MTA)
+           - Message Transfer Agent 
+MTTR       - mean time to repair (MTTR) 
+MTU       *- Maximum Transmission Unit
+MTU-s      - Multi-Tenant Unit switch (MTU-s) 
+MUA        - Mail User Agent (MUA)  or 
+           - Message User Agent (MUA)
+MUC        - Multi-User Chat (MUC) 
+MVPN       - Multicast VPN (MVPN)
+MVRP       - Multiple VLAN Registration Protocol (MVRP) (IEEE 802.1ak)
+MWI        - Message-Waiting Indicator (MWI) 
+MXF        - Material Exchange Format (MXF) 
+NA         - Neighbor Advertisement (NA) 
+NAA        - Network Address Authority (NAA) 
+NACK      *- Negative ACKnowledgement
+NACM       - NETCONF Access Control Model (NACM) 
+NAI        - Network Access Identifier (NAI)
+NAL        - Network Abstraction Layer (NAL) 
+NANPA      - North American Numbering Plan Administration (NANPA) 
+NAPT      *- Network Address Port Translator (NAPT)  or
+	  *- Network Address and Port Translator (NAPT)
+	       (can use Translator or Translation - both are fine)
+NAPTR      - Naming Authority Pointer (NAPTR)
+NAR        - New Access Router (NAR) 
+NAS        - Network Access Server (NAS)
+           - Network-Attached Storage (NAS) 
+NASREQ     - Network Access Server Requirements (NASREQ) 
+NAT       *- Network Address Translation (NAT)  or 
+          *- Network Address Translator (NAT)
+NAT64      - Network Address and Protocol Translation from IPv6 Clients to
+               IPv4 Servers 
+NAT64-CGN  - NAT64 Carrier-Grade NAT (NAT64-CGN) 
+NAT64-FE   -   NAT64 server Front End (NAT64-FE) 
+NAT-PMP    - NAT Port Mapping Protocol (NAT-PMP) 
+NAT-PT     - Network Address Translation - Protocol Translation (NAT-PT)  or
+           - Network Address Translator - Protocol Translator (NAT-PT)
+NAT-T      - Network Address Translation Traversal (NAT-T)
+NBMA       - Non-Broadcast Multi-Access (NBMA)
+NC         - Neighbor Cache (NC) 
+NC         - Network Controller (NC)
+NCE        - Network Connection Endpoint (NCE)  or
+           - Neighbor Cache Entry (NCE) 
+NCP        - Network Control Protocol (NCP)
+NCS        - Network Control Signaling (NCS)
+ND         - Neighbor Discovery (ND) 
+NDN        - Named Data Networking (NDN) 
+NDP        - Neighbor Discovery Protocol (NDP) 
+           - Neighbor Discovery Process (NDP) 
+NE         - Network Element (NE) 
+NEA        - Network Endpoint Assessment (NEA) 
+NEMO       - Network Mobility (NEMO)
+NENA       - National Emergency Number Association (NENA)
+NETCONF    - Network Configuration Protocol (NETCONF) 
+               [Not typically expanded in titles, but expand in abstract]
+NetInf     - Network of Information (NetInf) 
+NEWPRED    - No Expansion
+                Refers to error resilience in MPEG-4 version 2
+                regarding which frame should be used as 
+                the reference for the next prediction.
+NFV	   - Network Function Virtualization (NFV) 
+NFC        - Normalization Form C (NFC) -- Unicode Normalization Form C
+           - Near Field Communication (NFC)
+NFKC       - Normalization Form KC (NFKC) 
+NFS       *- Network File System 
+NHC        - Next Header Compression (NHC) 
+NHDP       - Neighborhood Discovery Protocol 
+NHLFE      - Next Hop Label Forwarding Entry
+NI	   - Named Information (NI) 
+NIC        - Network Interface Card (NIC)  or
+           - Network Information Center (NIC) (as in AfriNIC, APNIC, LACNIC)  or
+           - Network Interface Controller (NIC)
+NID        - Network Interface device (NID)  or 
+           - Network Identifier (NID) 
+           - Namespace Identifier (NID) 
+NIDS       - Network Intrusion Detection System 
+NIH	   - Named Information for Humans (NIH) 
+NIR        - National Internet Registry (NIR) 
+NIS        - Network Information Service (NIS)
+NIST      *- National Institute of Standards and Technology (NIST)
+NLM        - Network Lock Manager (NLM) 
+NLP        - nonlinear processing (NLP) 
+NLPID      - Network Layer Protocol Identifier (NLPID)
+NLRI       - Network Layer Reachability Information (NLRI) 
+nMAG       - new Mobility Access Gateway (nMAG) 
+NMDA	   - Network Management Datastore Architecture (NMDA)
+NMP        - Network Musical Performance (NMP)
+NMS        - Network Management System (NMS)
+           - Network Management Station (NMS)
+NNI        - Network-Network Interface (NNI)
+NNTP       - Network News Transfer Protocol (NNTP)
+NOC	   - Network Operations Center (NOC) 
+NOP        - No Operation (NOP) 
+NORM       - NACK-Oriented Reliable Multicast (NORM) 
+NOS/OLS    - Not_Operational Primitive Sequence / Offline Primitive Sequence (NOS/OLS)
+N-PE       - Network-facing PE 
+NP        *- nondeterministic polynomial time 
+NPT        - Normal Play Time (NPT) 
+NPTv6      - IPv6-to-IPv6 Network Prefix Translation (NPTv6) 
+NR-LDH     - Non-Reserved LDH (NR-LDH) 
+NREN       - National Research and Education Network (NREN) 
+NRPN	   - Non-Registered Parameter Numbers (NRPN) 
+                Note: the plural is used in MIDI documents
+NRS        - Name Resolution Service (NRS) 
+NRZ        - Non-Return-to-Zero (NRZ)
+NS         - No Expansion
+                as in "NS simulator" is network simulator, but should not
+                be expanded
+             or
+           - Neighbor Solicitation (NS) 
+NSD       *- Name Server Daemon (NSD) 
+             No expansion per Paul Hoffman 
+NSAP       - Network Service Access Protocol (NSAP)  or
+           - Network Service Access Point (NSAP) 
+NSC        - Network Simulation Cradle (NSC) 
+NSCP       - Name Server Control Protocol (NSCP) 
+NSE        - Named Signaling Event (NSE)
+NSEC      *- NextSECure (NSEC) 
+NSF       *- National Science Foundation
+NSI        - non-service initialized (NSI) 
+NSID       - Name Server Identifier (NSID) 
+NSIS       - Next Steps in Signaling (NSIS)
+NSLP       - NSIS Signaling Layer Protocol (NSLP)
+NSP        - native service processing (NSP)  or
+           - Network-Specific Prefix (NSP)  or
+           - Network Service Provider (NSP) 
+NSS        - Namespace Specific String (NSS) 
+NSSA       - Not-So-Stubby Area (NSSA) 
+NTFS       - New Technology File System (NTFS)
+NTP       *- Network Time Protocol 
+NTSC      *- National Television Standards Committee
+NUD        - Neighbor Unreachability Discovery 
+NUT        - Network Under Test (NUT) 
+NVC        - Number of Virtual Components (NVC) 
+NVE        - Network Virtualization Edge (NVE)
+NVFS       - Network Virtual File System (NVFS) 
+NVT        - Network Virtual Terminal (NVT) 
+NWK	   - Network Layer (NWK) 
+OA         - Ordered Aggregate (OA)
+OACK       - Option Acknowledgment (OACK) 
+OAM        - Operations, Administration, and Maintenance (OAM)
+                per Adrian Farrel 
+OASIS      - Organization for the Advancement of Structured
+             Information Standards (OASIS) 
+OATC       - Open Authentication Technology Committee (OATC) 
+OAuth     *- [seems to be more of a name rather than an abbreviation]
+O&M        - OAM and Management (O&M) 
+                per Adrian Farrell 
+OC         - Ordinary Clock 
+OCB        - No Expansion 
+                OCB was initially an acronym of Offset Codebook but
+                is now the algorithm's full name (see RFC 7253)
+OCP        - Objective Code Point (OCP) 
+OCR        - optical character recognition (OCR)
+OCRP       - Outgoing-Call-Reply (OCRP)
+OCRQ       - Outgoing-Call-Request (OCRQ)
+OCSP       - Online Certificate Status Protocol (OCSP)
+ODU        - Optical Data Unit (ODU) 
+OEM        - original equipment manufacturer (OEM)
+OEO        - optical-electronic-optical (OEO) 
+OF         - Objective Function (OF) 
+OFB        - Output FeedBack (OFB)
+OFDM	   - Orthogonal Frequency Division Multiplexing (OFDM) 
+oFIB       - ordered forwarding information base (oFIB) 
+OGA        - ORCHID Generation Algorithm (OGA) 
+OGC        - Open Geospatial Consortium (OGC) 
+OGF        - Open Grid Forum (OGF) 
+OID       *- Object Identifier 
+oif        - outgoing interface
+OIPF       - Open IPTV Forum (OIPF) 
+OLS	   - Optical Line System (OLS) 
+OLSR       - Optimized Link State Routing (OLSR) 
+OLT        - Optical Line Terminal (OLT) (Server unit of the EPON) 
+OM         - Overlay Multicast (OM) 
+OMA        - Open Mobile Alliance (OMA)
+OMAP       - Online Multimedia Authorization Protocol (OMAP) 
+OMP        - Optical Multi-Point (OMP) 
+ONC        - Open Network Computing (ONC) 
+OOMF       - Overload Originated Multi-destination Frame (OOMF) 
+OpenPGP    - No Expansion 
+OPES       - Open Pluggable Edge Services (OPES)
+OPEX       - Operating Expenses (OPEX) 
+	   - Operational Expediture (OPEX) 
+OPML       - Outline Processor Markup Language (OPML)
+ORCHID     - Overlay Routable Cryptographic Hash Identifiers (ORCHID) 
+ORO        - Option Request Option (ORO) 
+OS        *- Operating System 
+OS         - Outbound Streams (OS) 
+OS         - Opportunisitic Security (OS) 
+OSI       *- Open Systems Interconnection 
+OSN        - Original Sequence Number (OSN)
+OSPF      *- Open Shortest Path First (routing protocol)
+OSS        - Operational Support System (OSS)  or
+           - Operations Support System (OSS) 
+                (an author objected to the former)
+OSSI       - Open Source Software Institute (OSSI)
+OTAF       - Over-the-Air Functionality (OTAF)
+OTASP      - Over-the-Air Service Provisioning (OTASP)
+OTI        - Object Transmission Information (OTI) 
+OTN        - Optical Transport Network (OTN) 
+OTP        - One-Time Password (OTP)
+OTT        - Over the Top (OTT) 
+OU         - Organizational Unit (OU)
+OUI        - Organizationally Unique Identifier (OUI) 
+OWE	   - Opportunistic Wireless Encryption (OWE) 
+OWS        - optional whitespace (OWS) 
+OXC        - Optical Cross-Connect (OXC)
+OWAMP      - One-Way Active Measurement Protocol 
+P-GW       - Packet Data Network Gateway (P-GW) 
+P2MP       - Point-to-Multipoint (P2MP)  or
+           - Peer-to-Multipeer 
+P2P        - peer-to-peer (P2P)  or
+           - point-to-point (P2P)
+P2PE       - Point-to-Point Emulation (P2PE) 
+P2PSIP     - Peer-to-Peer SIP (P2PSIP) 
+P3P        - Platform for Privacy Preferences (P3P) 
+PA         - provider-aggregated (PA)  or
+             provider assigned (PA) 
+PaaS       - Platform as a Service (PaaS) 
+PAA        - PANA Authentication Agent 
+PaC        - PANA Client (PaC) 
+PAC       *- Proxy Auto-Configuration (PAC)
+                Not typically expanded; e.g., "the PAC file" or "Microsoft
+		PAC"
+             or
+           - PPTP Access Concentrator (PAC)  or
+           - privilege attribute certificate (PAC) 
+PACE       - Password Authenticated Connection Establishment (PACE) 
+PAD        - Peer Authorization Database (PAD)  or
+           - principal authentication data (PAD) 
+PAI        - P-Asserted-Identity (PAI) 
+PAKE       - password-authenticated key exchange (PAKE) 
+PAL       *- Phase Alternation Line  or
+             Package Availability List (PAL) 
+PANA       - Protocol for Carrying Authentication for Network Access 
+PAR        - previous access router (PAR) 
+PAT        - Port Address Translation (PAT)
+PAWS       - Protocol to Access White-Space (PAWS) Databases 
+PB         - Provider Bridge (PB) (IEEE 802.1ad)  or
+           - Posture Broker 
+PBA        - Proxy Binding Acknowledgement (PBA) 
+PBAC       - Policy-Based Admission Control (PBAC) 
+PBB        - Provider Backbone Bridge (PBB) (IEEE 802.1ah)
+PBKDF2     - Password-Based Key Derivation Function 2 (PBKDF2)
+PBBN       - Provider Backbone Bridged Network 
+PBU        - Proxy Binding Update (PBU) 
+PBX        - Private Branch Exchange (PBX)
+PC         - Protocol Controller (PC) 
+PCB        - Payload Confidentiality Block (PCB)
+PCC	   - Path Computation Client (PCC) 
+	   - Policy and Charging Control (PCC) 
+PCE       *- Path Computation Element (PCE) 
+PCED       - PCE Discovery (PCED) 
+PCEP       - Path Computation Element Communication Protocol (PCEP)
+PCM       *- Pulse Code Modulation (PCM) (noun)   or
+          *- Pulse Code Modulated (PCM) (adjective)
+PCMU      *- Pulse Coded Modulation
+                Pronounced 'mu-law'
+                Not typically expanded 
+PCN        - Pre-Congestion Notification 
+PCP        - Port Control Protocol (PCP) 
+PCR        - Path Control and Reservation (PCR) 
+PCRE       - Perl Compatible Regular Expressions (PCRE)
+PCRF       - Policy and Charging Rule Function (PCRF) 
+PD	   - Prefix Delegation 
+PDA       *- Personal Digital Assistant
+PDC       *- Personal Digital Cellular (mobile phone standard)
+                Similar to CDMA; should not be expanded.
+PDF       *- Portable Document Format (PDF)
+PDH        - Plesiochronous Digital Hierarchy (PDH)
+PDM        - Performance and Diagnostic Metrics (PDM) 
+PDN        - Packet Data Network (PDN)
+PDN-GW	   - Packet Data Network Gateway (PDN-GW) 
+PDP        - Packet Data Protocol (PDP) 
+PDS        - Parameter Data Structure (PDS) 
+PDSN       - Packet Data Serving Node (PDSN) 
+PDU       *- Packet Data Unit  or
+           - Protocol Data Unit   or
+           - Power Distribution Unit (PDU) 
+PDV        - Packet Delay Variation (PDV) 
+PE         - Provider Edge (PE)
+PEAP       - Protected Extensible Authentication Protocol (PEAP)
+PEM        - Privacy-Enhanced Mail (PEM)
+PEM1       - No Expansion
+                PEM-1 is not an abbreviation, it is an acronym, and
+                cannot be expanded.  
+PEN        - Private Enterprise Number (PEN)
+PEP        - Policy Enforcement Point (PEP)
+PER        - Packed Encoding Rules (PER)
+PETR       - Proxy Egress Tunnel Router (PETR) 
+PEX        - Peer Exchange (PEX) 
+PFS        - Perfect Forward Secrecy (PFS) 
+PGM        - Pragmatic General Multicast (PGM) 
+PGP        - Pretty Good Privacy (PGP)
+PGW        - Packet Data Network Gateway (PGW)
+PHB        - Per Hop Behavior (PHB)
+PHIB       - Previous Hop Insertion Block (PHIB)
+PHOP       - previous hop (PHOP)
+PHP        - Penultimate Hop Popping (PHP) 
+PHR        - Per Hop Reservation (PHR)
+PHY        - Physical Layer (PHY)
+PI         - Provider Independent (PI)  or
+           - Protocol Instantiation (PI)  or
+           - protocol interpreter (PI)  or
+           - Policy Identifier (PI) 
+PIB        - Payload Integrity Block (PIB) 
+PID        - Provider-defined Identifier (PID) 
+	   - Packet ID (PID)
+PIDF       - Presence Information Data Format (PIDF)
+PIDF-LO    - Presence Information Data Format Location Object (PIDF-LO)
+PIE        - Proportional Integral controller Enhanced (PIE) 
+PII        - Personally Identifiable Information (PII) 
+PIM       *- Protocol Independent Multicast
+PIM-DM     - Protocol Independent Multicast - Dense Mode (PIM-DM) 
+PIM-SM     - Protocol Independent Multicast - Sparse Mode (PIM-SM) 
+PIM-SSM    - PIM Source-Specific Multicast (PIM-SSM) 
+PIN	  *- Personal Identification Number (PIN)
+PIO        - Prefix Information Option (PIO) 
+PITR       - Proxy Ingress Tunnel Router (PITR) 
+PKCS      *- Public-Key Cryptography Standards (PKCS)
+PKG        - Private Key Generator (PKG) 
+PKI       *- Public Key Infrastructure (PKI)
+PKINIT     - Public Key Cryptography for Initial Authentication in Kerberos (PKINIT) 
+PKIX      *- Public Key Infrastructure using X.509
+PL         - Protocol Laye 
+PLAT       - provider-side translator (PLAT) 
+PLC        - Packet Loss Concealment (PLC)  or
+           - Policy (Rule) Lifetime Change (PLC)  or
+           - Power Line Communication (PLC) 
+	        (Communication can be singular or plural)
+PLCP       - Physical Layer Convergence Procedure (PLCP)
+PLI        - Picture Loss Indication (PLI) 
+PLR        - Point of Local Repair (PLR)  or
+           - Packet Loss Rate (PLR) 
+PLMN       - Public Land-based Mobile Network (PLMN)
+PLPMTUD    - Packetization Layer Path MTU Discovery 
+pMAG       - previous Mobility Access Gateway (pMAG) 
+PMD        - Physical Medium Dependent (PMD) 
+PMID	   - Portable MAC Identity (PMID) 
+PMIPv6     - Proxy Mobile IPv6 
+PMS        - Physical Media Specific (PMS) 
+PMSI       - P-Multicast Service Interface (PMSI)  or
+           - Provider Multicast Service Interface 
+PMTU       - Path MTU (PMTU)
+PMTUD      - Path MTU Discovery (PMTUD) 
+PNF	   - Physical Network Function (PNF)
+pNFS       - Parallel NFS (pNFS) 
+PNG       *- Portable Network Graphics (PNG)
+PNNI       - Private Network-Network Interface (PNNI)
+PoE        - Power over Ethernet (PoE) 
+POI        - Purge Originator Identification 
+PON        - Passive Optical Network (PON) 
+POP        - Point of Presence (POP)  or
+           - Post Office Protocol (POP)  or
+           - proof of possession (PoP) 
+POS        - PPP over SONET (POS)  or
+           - Packet over SONET (POS)
+POSH       - PKIX over Secure HTTP (POSH) 
+POSIX     *- Portable Operating System Interface (POSIX) 
+POTS       - Plain Old Telephone Service
+PP	   - Portable Part (PP) 
+PPP       *- Point-to-Point Protocol
+PPPoA      - Point-to-Point Protocol over ATM (PPPoA)
+PPPoE      - Point-to-Point Protocol over Ethernet (PPPoE)
+PPS        - Packets Per Second (PPS)
+PPSP	   - Peer-to-Peer Streaming Portocol (PPSP) 
+PPTP       - Point-to-Point Tunneling Protocol (PPTP) 
+PR         - Persistent Reservation (PR) 
+PR-SCTP    - Partially Reliable Stream Control Transmission Protocol (PR-SCTP)
+PRA        - Purported Responsible Address (PRA) 
+PRECIS     - Preparation, Enforcement, and Comparison of
+               Internationalized Strings (PRECIS) 
+PRF        - Pseudorandom Function (PRF)
+PRL        - Potential Router List (PRL)  or
+             Parameter Request List (PRL) 
+PRNG       - Pseudorandom Number Generator (PRNG)
+PRR        - Port-Range Router (PRR)  or
+           - Policy Reserve Rule (PRR) 
+PS         - Parametric Stereo (PS)  or
+           - Proxy Signature
+PSAMP      - Packet Sampling (PSAMP)
+PSAP       - Public Safety Answering Point (PSAP) 
+PSC        - Packet Switch Capable (PSC)
+           - Packet Switching Capable (PSC)  or 
+           - PHB Scheduling Class (PSC)  or
+           - Protection State Coordination (PSC) 
+PSD        - Power Spectral Density (PSD) 
+PSK        - Pre-Shared Key (PSK) 
+PSKC       - Portable Symmetric Key Container (PSKC) 
+PSN       *- Public Switched Network  or 
+           - Packet Switched Network
+PSNP       - Partial Sequence Number PDU (PSNP)  or
+           - Partial Sequence Numbers PDU (PSNP)  or
+           - Packet Sequence Number (PSN) 
+PSS        - Packet-switched Streaming Service (PSS) (3GPP)  or
+           - Probabilistic Signature Scheme (PSS) (as in RSASSA-PSS)  
+PSTN       - Public Switched Telephone Network (PSTN)
+PT         - payload type (PT)  or
+           - posture transport  or
+           - Protection Type (PT) 
+PTA        - PMSI Tunnel Attribute (PTA) 
+PTB        - Packet Too Big (PTB) 
+PTI        - Payload Type Identifier (PTI)
+PTK        - Pairwise Transient Key (PTK)
+PTM        - Packet Transfer Mode (PTM)  or 
+           - Pulse-Time Modulation (PTM)
+PTP        - Precision Time Protocol (PTP)
+PTS        - presentation time stamp (PTS) 
+PTSW       - payload type switch (PTSW) 
+PtM        - Point to Multipoint (PtM)
+PtP        - Point to Point (PtP)
+PVC        - Permanent Virtual Circuit (PVC)
+PVP        - Permanent Virtual Path (PVP)
+PVT        - Public Validation Token (PVT) 
+PW         - pseudowire
+PW-RED     - Pseudowire Redundancy (PW-RED) 
+PWE3       - Pseudowire Emulation Edge-to-Edge (PWE3)
+QNAME     *- query 
+QoE        - Quality of Experience (QoE)
+QoP        - Quality of Protection (QoP) 
+QoS       *- Quality of Service (QoS)
+QQIC       - Querier's Query Interval Code (QQIC) 
+QRV        - Querier's Robustness Variable (QRV) 
+QSIG       - Q-signaling protocol 
+	        [No Expansion]
+R2T        - request-to-transmit (R2T)  or
+           - Ready to Transfer (R2T) 
+R2TSN      - Ready to Transfer Sequence Number (R2TSN) 
+RA         - Router Advertisement (RA)  or
+           - Router Alert (RA)  or
+           - Routing Area (RA)  or
+           - registration authority (RA) 
+RADIUS    *- Remote Authentication Dial-In User Service (RADIUS)
+                Year 2006+ docs don't expand RADIUS in title
+RAID       - Redundant Array of Independent Disks (RAID)
+RAM       *- Random-Access Memory
+RAMS       - Rapid Acquisition of Multicast Sessions (RAMS) 
+RAMS-R     - RAMS Request (RAMS-R) 
+RAMS-T     - RAMS Termination (RAMS-T) 
+RAN        - Radio Access Network (RAN)  or
+             Regional Access Network (RAN)
+RANAP      - Radio Access Network Application Protocol (RANAP) 
+RANGER     - Routing and Addressing in Networks with Global
+                Enterprise Recursion (RANGER) 
+RAO        - Router Alert Option (RAO) 
+RAP        - Random Access Point (RAP) 
+RAQMON     - Real-time Application Quality-of-Service Monitoring (RAQMON) 
+RBAC       - Resource-Based Admission Control (RBAC) 
+RBNF       - Routing Backus-Naur Form (RBNF) 
+RBR        - Realm Border Router (RBR) 
+RBridge    - Routing Bridge (RBridge) 
+          *- RBridge Channel (not an abbreviation - is a name of a facility
+    	     per Donald Eastlake) 
+RC         - Routing Controller (RC) 
+RCODE      - No Expansion 
+RD 	   - Route Distinguisher (RD) 
+	   - Router Discovery (RD) 
+RDDP       - Remote Direct Data Placement Protocol (RDDP)
+RDF        - Resource Description Framework (RDF)
+RDI        - Remote Defect Indicator (RDI)
+           - Remote Defect Indication (RDI) 
+RDMA       - Remote Direct Memory Access (RDMA)
+RDN        - Relative Distinguished Name (RDN)
+rDNS       - reverse DNS (rDNS) 
+RDNSS      - Recursive DNS Server (RDNSS) 
+RDO        - Route Discovery Option (RDO) 
+RDP        - 
+RDS        - Resolution Discovery System (RDS)
+RE         - Redundancy Elimination (RE) 
+REAP       - Reachability Protocol (REAP) 
+RED        - Random Early Detection (RED) 
+RELAX NG  *- Regular Language for XML Next Generation (do not expand; 
+             better known by RELAX NG) 
+RELOAD     - REsource LOcation And Discovery (RELOAD) 
+REMB	   - Receiver Estimated Maximum Bitrate (REMB) 
+REST       - Representational State Transfer (REST) 
+RESTCONF   - No Expansion 
+RF         - radio frequency (RF)
+RFB        - Remote Framebuffer (RFB) 
+RFC       *- Request for Comments 
+RFD        - Reduced Function Device (RFD)  or
+           - Route Flap Damping (RFD)
+RFID       - Radio Frequency Identification (RFID) 
+RFPI	   - Radio Fixed Part Identity (RFPI) 
+RGB       *- red, green, blue 
+RH3	   - type 3 Routing Header for IPv6 (RH3) 
+RHO	   - Redirected Header Option (RHO) 
+RI         - Router Information (RI)  or
+           - CDNI Request Routing Redirection interface (RI) 
+RIB       *- Routing Information Base (RIB)
+RIG        - Referral Internet Groper (RIG) 
+RIID       - Rendezvous Point Interface ID 
+RIP       *- Routing Information Protocol
+RIPE NCC  *- Reseaux IP Europeens Network Coordination Centre
+RIPng      - Routing Information Protocol Next Generation (RIPng)
+RIR        - Regional Internet Registry (RIR)
+RISC       - Reduced Instruction Set Computer (or Computing)
+RJRS       - Recovery Journal Receiver Structure (RJRS)
+RJSS       - Recovery Journal Sending Structure (RJSS)
+RLE       *- Run Length Encoding 
+RLMI       - Resource List Meta-Information (RLMI) 
+RLOC       - Routing Locator (RLOC) 
+RLQR       - Relative Link Quality (Receive) (RLQR) 
+RLQT       - Relative Link Quality (Transmit) (RLQT) 
+RLS	   - Resource List Server (RLS) 
+RMON       - remote (network) monitoring (RMON) 
+RMS        - root mean square (RMS) 
+RMT        - Reliable Multicast Transport (RMT)
+RNC        - Radio Network Controller (RNC)  or
+           - Relax NG Compact Notation 
+RNIC       - RDMA-enabled Network Interface Controller (RNIC) 
+ROA        - Route Origin Authorization (ROA) 
+ROADM      - Reconfigurable Optical Add/Drop Multiplexer (ROADM) 
+RoCE       - RDMA over Converged Ethernet (RoCE) 
+               Per RFC 7609 author Mike Fox, "RoCE" is pronounced "Rocky" 
+ROHC       - RObust Header Compression (ROHC)
+ROLIE      - Resource-Oriented Lightweight Information Exchange (ROLIE)
+ROLL       - Routing Over Low-Power and Lossy Network (ROLL)
+ROM       *- Read-Only Memory
+RP         - Rendezvous Point (RP)  or
+           - Relying Party (RP) 
+           - Reply Path (RP) 
+           - Routing Processor (RP)
+RPC       *- Remote Procedure Call (RPC)  or
+           - RFC Production Center (RPC)
+RPCSEC_GSS *- RPC security protocol RPC-over-RDMA Version 1 
+           - Remote Direct Memory Access Transport for Remote Procedure Call
+   	     Version 1 (no need to expand if RFC 8166 is referenced)
+RPF        - Reverse Path Forwarding (RPF)
+RPI 	   - RPL Packet Information (RPI) 
+RPKI       - Resource Public Key Infrastructure (RPKI) 
+RPL        - Routing Protocol for Low-Power and Lossy Networks (RPL)  or
+             Rendezvous Point Link (RPL) 
+RPN	   - Registered Parameter Numbers (RPN) 
+                  Note: the plural is used in MIDI documents
+RPR        - relay peer routing (RPR) 
+RPT	   - Rendezvous Point Tree (RPT) 
+RPSI	   - Reference Picture Selection Indication (RPSI) 
+RPSL       - Routing Policy Specification Language (RPSL)
+RR         - Resource Record (RR)  or 
+           - receiver report (RR)  or
+           - Route Reflector (RR) (as used by BGP)
+RRO        - Record Route Object (RRO)
+RRT        - Return Routability Test (RRT)
+RS         - Retransmission Server (RS)  or
+           - Router Solicitation (RS)  or
+           - Resource Server (RS) or
+           - Recording Session (RS) 
+RSA       *- Rivest, Shamir and Adleman  or
+             Routing and Spectrum Assignment (RSA) 
+RSAES-OAEP - RSA Encryption Scheme - Optimal Asymmetric Encryption
+             Padding (RSAES-OAEP)
+RSASSA-PSS - RSA Probabilistic Signature Scheme (RSASSA-PSS)
+RSE        - RFC Series Editor (RSE)
+RSI	   - Receiver Summary Information (RSI) 
+RSIP	   - Realm Specific IP (RSIP) 
+RSN	   - Reservation Sequence Number (RSN) 
+RSOO       - Relay-Supplied Options option (RSOO) 
+RSS       *- Rich Site Summary (RSS)
+           - Read Sequence Status Block (RSS) 
+           - Received Signal Strength (RSS) 
+           - Receive Segment Coalescing (RSC)
+RSSI       - Received Signal Strength Indication (RSSI)
+RSTP       - Rapid Spanning Tree Protocol (RSTP) (IEEE 802.1t)
+RSVP      *- Resource Reservation Protocol 
+RSVP-TE   *- RSVP - Traffic Engineering 
+RT         - Route Target (RT) 
+RTBH       - Remote Triggered Black Hole (RTBH) 
+RTCP       - RTP Control Protocol (RTCP)
+      if RTP in RTCP needs to be expanded, should be expanded as:
+RTCP       - Real-time Transport Control Protocol (RTCP)
+RTCWEB    *- Web Real-Time Communication
+RTMFP      - Real-Time Media Flow Protocol (RTMFP) 
+RTMP       - Real Time Messaging Protocol (RTMP) 
+RTO        - retransmission timeout (RTO)
+RTP       *- Real-time Transport Protocol
+RTS        - request to send (RTS)
+RTSP       - Real-Time Streaming Protocol (RTSP)
+RTT       *- round-trip time 
+RTX       *- Retransmission
+RVS        - Rendezvous Server (RVS) 
+RW	   - Restart Window (RW) 
+RWA        - Routing and Wavelength Assignment (RWA) 
+RWS        - required whitespace (RWS) 
+RZ         - Return-to-Zero (RZ)
+S-BFD      - Seamless Bidirectional Forwarding Detection (S-BFD) 
+S-BGP      - Secure Border Gateway Protocol (S-BGP)
+S-GW       - Serving Gateway (S-GW) 
+S-NAPTR    - Straightforward-Naming Authority Pointer (S-NAPTR) 
+S-PE       - Switching Provider Edge 
+S-PMSI     - Selective PMSI (S-PMSI) 
+S-VLAN     - Service VLAN (S-VLAN) 
+S2L        - source-to-leaf (S2L) 
+SaaS       - Software as a Service (SaaS) 
+           - Storage as a Service (SaaS) 
+SA         - security association (SA)  or 
+           - Source-Active (SA)  or
+           - Source Address (SA)
+SAC	   - Source Address Compression (SAC)  or
+             State Advertisement Control (SAC) 
+SACK       - selective acknowledgment (SACK) 
+SAD        - Security Association Database (SAD) 
+SAFI       - Subsequent Address Family Identifier (SAFI)
+SAI        - Service Activation Interface (SAI) 
+SAID       - Security Association ID 
+   	        Historically (back to early drafts "SAId" is being used in
+                MIB object Names, also in enumeration values like "Said" are
+                being used; can leave them as is mainly because:
+                a) NMS vendors and operators are familiar with that syntax 
+                  for OBJECT names involving SAIDs 
+                b) It is risky to make global replace that could lead to
+                  SNMP syntax errors on deployment (e.g., global replace of
+                  SAId for SAID 
+                Fix in DESCRIPTION Clauses ONLY: 
+                "(SAID)" instead of "(SAId)"
+                "SAID" instead of "SAId"
+SALT       - Speech Application Language Tags (SALT) 
+SAM        - Scalable Adaptive Multicast (SAM) 
+	   - Source Address Mode (SAM) 
+SAM2       - SCSI Architecture Model - 2 (SAM2) 
+SAML       - Security Assertion Markup Language (SAML)
+SAN        - System Area Network (SAN)
+           - Subject Alternative Name (SAN) 
+SANA       - Space Assigned Numbers Authority (SANA) 
+SAOL       - Structured Audio Orchestra Language (SAOL) 
+SAP        - Session Announcement Protocol (SAP)  or
+           - Service Access Point (SAP)  or
+           - Serving Access Point (SAP) 
+SAR        - Segmentation and Reassembly (SAR)
+SAS        - Serial Attached SCSI (SAS) 
+SASL       - Simple Authentication and Security Layer (SASL)
+SAToP      - Structure-Agnostic Time Division Multiplexing over Packet (SAToP) 
+SAVI       - Source Address Validation Improvement (SAVI) 
+SAVP      *- Secure Audio-Visual Profile (SAVP) 
+SAVPF     *- Secure Audio-Visual Profile with Feedback (SAVPF) 
+SB         - Source Block (SB) 
+SBC        - Session Border Controller (SBC) 
+SBE        - Signaling Path Border Element (SBE) 
+SBM        - Subnet Bandwidth Manager (SBM)
+SBN        - Source Block Number (SBN) 
+SBR        - Spectral Band Replication (SBR) 
+SC         - Softwire Concentrator (SC) 
+SCCRP      - Start-Control-Connection-Reply (SCCRP)
+SCCRQ      - Start-Control-Connection-Request (SCCRQ)
+SCHAC      - Schema for Academia (SCHAC) 
+SCI        - Structured Cybersecurity Information (SCI) 
+SCIM       - System for Cross-domain Identity Management (SCIM)
+SCRAM      - Salted Challenge Response Authentication Mechanism (SCRAM)
+SCS	   - Secure Cookie Sessions (SCS) 
+SCSI       - Small Computer System Interface (SCSI) 
+	   - Switching Capability-specific information (SCSI) 
+SCT        - Sender Current Time (SCT) 
+SCTP       - Stream Control Transmission Protocol (SCTP)
+SCVP       - Simple Certificate Validation Protocol (SCVP)
+           - Server-Based Certificate Validation Protocol (SCVP) 
+S/D        - Source/Destination (S/D)
+SD         - Standard Definition (SD)  or
+           - sub-domain (SD) 
+SDAT       - Simple DNA address table (SDAT) 
+SDES       - source description (SDES)
+SDH        - Synchronous Digital Hierarchy (SDH)
+SDID       - Signing Domain Identifier (SDID) 
+SDK       *- software development kit
+SDN        - Software-Defined Networking (SDN) 
+SDNV       - Self-Delimiting Numeric Value (SDNV)
+SDO        - Standards Development Organization (SDO) 
+SDP        - Session Description Protocol (SDP)
+SDSI       - Simple Distributed Security Infrastructure (SDSI)
+SDU        - service data unit (SDU)
+SEAL       - Subnetwork Encapsulation and Adaptation Layer (SEAL) 
+SECG       - Standards for Efficient Cryptography Group (SECG)
+SEI        - Supplemental Enhancement Information (SEI) 
+SEND       - Secure Neighbor Discovery (SEND) 
+SERO       - Secondary Explicit Route Object (SERO) 
+SES        - Severely Errored Seconds (SES)
+SESPAKE    - Security Evaluated Standardized Password Authenticated
+               Key Exchange (SESPAKE) 
+SFGMP      - Source Filtering Group Management Protocol (SFGMP)
+SFMT       - sub-feedback message type (SFMT)
+SFU        - Selective Forwarding Units (SFU) 
+SGML       - Standard Generalized Markup Language (SGML)
+SGSN       - Serving GPRS Support Node (SGSN) 
+SGW	   - Serving Gateway (SGW) 
+SHA       *- Secure Hash Algorithm 
+SHDSL      - Single-pair High-speed Digital Subscriber Line (SHDSL) 
+SHIM       - Stanza Headers and Internet Metadata (SHIM)
+Shim6     *- Site Multihoming by IPv6 Intermediation (Shim6)
+          *- Level 3 Multihoming Shim Protocol for IPv6 (Shim6)
+SI         - softwire initiator (SI)  or
+           - Set Identifier (SI) 
+SIA        - Subject Information Access (SIA) 
+SID        - session ID or server ID or sender ID  or
+           - Silence Insertion Descriptor (SID)  or
+           - Silence Descriptor (SID) 
+                From Ingemar Johansson (author)
+                There seems to be two definitions: "Silence Descriptor" and
+                "Silence Insertion Description".  The 3GPP and ETSI definition
+                seems to be "Silence Descriptor" 
+SIDR       - Secure Inter-Domain Routing (SIDR) 
+SIFS       - Short Interframe Space (SIFS)
+SIIT       - Stateless IP/ICMP Translation Algorithm (SIIT) 
+SILK       - Not an acronym. See usage in RFC 6716
+SIMCO	   - Simple Middlebox Configuration (SIMCO) 
+SIMD       - single instruction, multiple data (SIMD) 
+SIMPLE     - SIP for Instant Messaging and Presence Leveraging Extensions (SIMPLE) 
+SIP       *- Session Initiation Protocol
+SIPP       - Simple Internet Protocol plus (SIPP) 
+SIPREC     - SIP-Based Media Recording (SIPREC) 
+SIPS       - Session Initiation Protocol Secure (SIPS)
+SIPTO      - Selected IP Traffic Offload (SIPTO) 
+SIR        - Source Intermediary Recipient (SIR) 
+           - Signal-to-Interference Ratio (SIR) 
+SIV        - Synthetic Initialization Vector (SIV) 
+SKFC       - Session Key Far Component (SKFC) 
+SKI        - Subject Key Identifier (SKI) 
+SKNC       - Session Key Near Component (SKNC) 
+SLA        - Service Level Agreement (SLA)
+SLAAC      - Stateless Address Autoconfiguration (SLAAC) 
+SLI        - Set-Link-Info (SLI) (includes hyphens)
+	   - Slice Lost Indication (SLI) 
+SLLA       - Source Link-Layer Address (SLLA)
+SLLAO      - Source Link-Layer Address Option (SLLAO)
+SLP        - Service Location Protocol (SLP)
+SM         - Single Marking (SM) 
+SMB        - Session Management Broker (SMB)  or
+           - Server Message Block (SMB) 
+SMDS       - Switched Multimegabit Data Service (SMDS)
+SMF        - Standard MIDI File (SMF) 
+S/MIME    *- Secure/Multipurpose Internet Mail Extensions
+SMI        - Structure of Management Information (SMI) 
+SMIL       - Synchronized Multimedia Integration Language (SMIL)
+SMIv2      - Structure of Management Information Version 2 (SMIv2)
+SMP        - Shared Mesh Protection (SMP) 
+SMPTE	   - Society of Motion Picture and Television Engineers (SMPTE) 
+SMR        - Solicit-Map-Request (SMR) 
+SMS       *- Short Message Service 
+SMSS       - Sender Maximum Segment Size (SMSS) 
+SMTP      *- Simple Mail Transfer Protocol
+SMUX       - SNMP Multiplex (SMUX)
+SN         - Sequence Number (SN)
+Sn         - No Expansion
+                number value Sn in mathematical equations 
+SNA        - Systems Network Architecture (SNA) 
+SNACK      - Selective Negative Acknowledgment (SNACK)  or
+           - Sequence Number Acknowledgement (SNACK) 
+SNAP       - Subnetwork Access Protocol (SNAP) 
+           - Simple Notification and Alarm Protocol (SNAP) 
+SNI        - Server Name Indication (SNI) 
+SNIA       - Storage Networking Industry Association (SNIA) 
+SNID       - subnamespace identifier (SNID) 
+SNMP      *- Simple Network Management Protocol 
+SNP        - Subnetwork Point (SNP)  or 
+           - Sequence Number Packet (SNP)  or
+           - Sequence Number PDU (SNP)
+SNPA       - Subnetwork Point of Attachment (SNPA) 
+SNR        - Signal-to-Noise Ratio (SNR)  or
+           - Serial Number (SNR) 
+SNTP       - Simple Network Time Protocol (SNTP)
+SOA        - Start of Authority 
+SOAP      *- Simple Object Access Protocol
+                But "a Web services messaging protocol; originally the
+                acronym for Simple Object Access Protocol, the term is
+                no longer defined in common use" -IEEE Computer Society
+                "In previous versions of this specification the SOAP name was an
+		acronym. This is no longer the case." - W3C
+		(http://www.w3.org/TR/2007/REC-soap12-part1-20070427/) 
+SOCKS      - No Expansion. name of protocol. 
+SOHO       - Small Office, Home Office (SOHO) 
+SOI        - SESSION-OF-INTEREST (SOI) 
+SONET      - Synchronous Optical Network (SONET)
+SOP        - Start of Packet (SOP)  or
+           - Same-Origin Policy (SOP) 
+SP         - Service Provider (SP) 
+SPB        - Shortest Path Bridging (SPB) 
+SPBM       - Shortest Path Bridging MAC mode (SPBM) (IEEE 802.1aq)
+SPC        - Service Provider Code (SPC)
+SPD        - Security Policy Database (SPD) 
+SPE        - Synchronous Payload Envelope (SPE)
+SPEKE      - Simple Password Exponential Key Exchange (SPEKE)
+SPF        - Sender Policy Framework (SPF)
+           - Shortest Path First (SPF) 
+		9/8/08 - SPF should be expanded in most if not all
+		IS-IS documents as "Shortest Path First" rather than
+		"Sender Policy Framework" 
+SPI        - Security Parameter Index (SPI)
+SPICE      - Secure Protocol for Internet Content Exchange (SPICE) 
+SPID       - Service Provider ID (SPID) 
+SPIT       - Spam over Internet Telephony (SPIT) 
+SPKI       - Simple Public Key Infrastructure (SPKI) 
+           - SubjectPublicKeyInfo (SPKI) 
+SPKM       - Simple Public-Key GSS-API Mechanism (SPKM) 
+SPM        - Secure Password Method (SPM) 
+SPME       - Sub-Path Maintenance Element (SPME) 
+SPND       - Secure Proxy Neighbor Discovery (SPND)
+SPNEGO     - Simple and Protected GSS-API Negotiation 
+SPT        - shortest path tree (SPT)
+SPVC       - Switched Permanent Virtual Circuit (SPVC)
+SQL	  *- Structured Query Language 
+SR         - sender report (SR)
+SR-VCC     - Single Radio Voice Call Continuity (SR-VCC) 
+SRC        - Session Recording Client (SRC) 
+SRG        - Shared Risk Group (SRG) 
+SRGS       - Speech Recognition Grammar Specification (SRGS) 
+SRH        - Source Routing Header (SRH) 
+SRLG       - Shared Risk Link Group (SRLG)
+SRP        - Secure Routing Protocol (SRP)
+           - Secure Remote Password (SRP) 
+SRR        - status report request (SRR)  or
+           - symmetric recursive routing (SRR) 
+SRRO       - Secondary Record Route Object (SRRO) 
+SRS        - Session Recording Server (SRS) 
+SRTP       - Secure Real-time Transport Protocol (SRTP) 
+               ("Realtime" also okay)
+SRTCP      - Secure Real-time Transport Control Protocol (SRTCP)
+SRV        - Service Record (SRV)
+SS7        - Signaling System 7 (SS7) 
+SS-FSSI    - Sender-Side FEC-Scheme-Specific Information (SS-FSSI) 
+SS-PW      - Single-Segment Pseudowire (SS-PW) 
+SSAP       - Source Service Access Point (SSAP)
+SSE        - Server Session End (SSE)  or
+           - State Signaling Event (SSE)
+SSH        - Secure Shell (SSH) 
+SSID       - Service Set Identifier (SSID)
+           - Session ID (SSID) 
+SSK        - Secret Signing Key (SSK) 
+SSL        - Secure Sockets Layer (SSL)
+SSL/TLS    - Secure Sockets Layer/Transport Layer Security (SSL/TLS)
+SSM        - source-specific multicast (SSM)  or
+           - Single-Source Multicast (SSM) 
+SSN        - Server Sequence Number (SSN)  or
+           - subsystem number (SSN)  or
+           - Stream Sequence Number (SSN)  or
+           - Station Serial Number (SSN)
+SSO        - Single Sign-On (SSO) 
+SSON       - Spectrum-Switched Optical Network (SSON) 
+SSP        - scheme-specifc part (SSP)  or 
+           - SIP Service Provider (SSP) 
+SSPI       - Security Support Provider Interface (SSPI)
+SSRC       - synchronization source (SSRC)
+SSRR       - Strict Source and Record Route (SSRR)
+SSV        - Shared Secret Value (SSV)  or
+           - Secret State Verifier (SSV)
+ST-PE      - Source Terminating Provider Edge (ST-PE) 
+STag       - Steering Tag (STag) 
+STB	   - Set-Top Box (STB) 
+STP        - Spanning Tree Protocol (STP)  or 
+           - Secure Transfer Protocol (STP)
+STS        - Synchronous Transport Signal (STS)
+           - Security Token Service (STS) 
+STUN       - Session Traversal Utilities for NAT (STUN) 
+           - Simple Traversal of the UDP Protocol through NAT (STUN) 
+SUT        - System Under Test (SUT)
+SVC        - Switched Virtual Circuit (SVC)
+SVEC       - Synchronization Vector (SVEC) 
+*SVG 	   - Scalable Vector Graphics (SVG)
+SVL        - Shared VLAN Learning (SVL)
+SVN        - Software Version Number (SVN) 
+SW         - Session Wide (SW) 
+SYN        - No Expansion 
+                TCP flag bit name.  See FIN.
+T-MPLS     - Transport MPLS (T-MPLS) 
+T-PE       - Terminating Provider Edge (T-PE) 
+TAC        - Type Allocation Code (TAC) 
+TAMP       - Trust Anchor Management Protocol (TAMP) 
+TC         - Textual Convention (TC)
+             Toplogoy Control (TC) - messages 
+             Traffic Class (TC) 
+             Transmission Convergence (TC)
+             Transparent Clock (TC) 
+TCA        - Target Channel Adapter (TCA) 
+TCAM       - Ternary Content-Addressable Memory (TCAM)
+TCN        - Topology Change Notification (TCN) 
+TCP       *- Transmission Control Protocol
+TCP-AO     - TCP Authentication Option (TCP-AO) 
+
+TDD        - Telecommunication Device for the Deaf (TDD) 
+	   - Time-Division Duplex (TDD) 
+TDIM       - Time-Division Inverse Multiplexing (TDIM) 
+TDM        - Time-Division Multiplexer (TDM)  or
+           - Time-Division Multiplexing (TDM)
+TDMA      *- Time-Division Multiple Access
+                See also CDMA
+	   - Time Division Multiplex (TDMA) 
+TDMoIP     - Time-Division Multiplexing over IP (TDMoIP) 
+TE        *- Traffic Engineering (TE)  or
+          *- Traffic Engineered (TE)
+TEAP       - Tunnel Extensible Authentication Protocol (TEAP) 
+TED        - Traffic Engineering Database (TED)
+TEI        - Terminal Endpoint Identifier (TEI)
+TEP        - tunnel endpoint (TEP) 
+TERENA     - Trans-European Research and Education Networking
+             Association (TERENA) 
+TESLA      - Timed Efficient Stream Loss-Tolerant Authentication (TESLA)
+TF         - transport format (TF) 
+TF-EMC2    - Task Force on European Middleware Coordination and
+             Collaboration (TF-EMC2) 
+TFC        - Traffic Flow Confidentiality (TFC) 
+TFRC       - TCP Friendly Rate Control (TFRC)
+TFS	   - Time and Frequency Synchronization (TFS) 
+*TFTP      - Trivial File Transfer Protocol 
+TGS        - Ticket-Granting Server (TGS)  or 
+           - Ticket-Granting Service (TGS)
+TGT        - Ticket-Granting Ticket (TGT)
+THD        - Total Harmonic Distortion (THD) 
+TIAS       - Transport Independent Application Specific (Maximum) (TIAS)
+TIB        - Tree Information Base (TIB) 
+TIMIP      - Terminal Independent Mobile IP (TIMIP) 
+TKIP	   - Temporal Key Integrity Protocol (TKIP) 
+TLD        - Top-Level Domain (TLD)
+tLDP       - Targeted LDP (tLDP) 
+	        (not T-LDP as used in several other RFCs, e.g., RFC 6373)
+		confirmed by WG Chair
+TLLA       - Target Link-Layer Address (TLLA)
+TLLAO      - Target Link-Layer Address Option (TLLAO)
+TLS        - Transport Layer Security (TLS)  or
+           - Transparent LAN Services (TLS) 
+TLSA       - No exp -- RRtype per RFC 6698
+TLSP       - TRILL Link State Protocol (TLSP) 
+TLV       *- Type-Length-Value (self-describing data)
+TMF        - Task Management Function (TMF) 
+TML        - Transport Mapping Layer 
+TMMBR      - Temporary Maximum Media Stream Bit Rate Request (TMMBR) 
+TMMBN	   - Temporary Maximum Media Stream Bit Rate Notification (TMMBN) 
+TMTU       - Tunnel MTU (TMTU) 
+TNC        - Trusted Network Connect (TNC) 
+TNCP       - TRILL Network Control Protocol (TNCP) 
+TNP        - TRILL Network Protocol (TNP) 
+TO         - Tagged Offset (TO) 
+ToIP       - Real-time Text over Internet Protocol (ToIP) 
+TOE        - TCP Offload Engine (TOE)  or
+           - target of evaluation (TOE) 
+TOFU       - trust-on-first-use (TOFU) 
+TOI        - Transmission Object Identifier (TOI) 
+ToR        - Top-of-Rack (ToR) 
+TOS        - Type of Service (TOS) 
+TPGT       - Target Portal Group Tag (TPGT)
+TPDU       - Transport Protocol Data Unit (TPDU)
+TPM        - Transport Performance Metrics (TPM)
+TPS        - Transport Protocol Specific (TPS) 
+TPUI	   - Temporary Portable User Identity (TPUI) 
+TR         - Tunnel Router (TR) 
+TRILL      - Transparent Interconnection of Lots of Links (TRILL) 
+TS         - Traffic Selector (TS)  or
+           - Transport Stream (TS) 
+TSCH	   - Time-Slotted Channel Hopping (TSCH) 
+TSDM       - Trusted System Development Methodology (TSDM) 
+TSI        - Transport Session Identifier (TSI) 
+TSM	   - Transport Security Model
+TSN        - Trunk Switched Network (TSN)  or 
+           - Test Support Network (TSN)  or
+           - Transmission Sequence Number (TSN) 
+TSTN	   - Temporal-Spatial Trade-off Notification (TSTN) 
+TT-PE      - Target Terminating Provider Edge (TT-PE) 
+TTD        - Throughput Test Device (TTD) 
+TTL       *- Time to Live
+TTSI       - Text-To-Speech Interface (TTSI)
+TTT        - Target Transfer Tag (TTT) 
+TU         - Time Unit (TU)  or
+           - transaction user (TU)
+TUG        - Tributary Unit Group (TUG)
+TURN       - Traversal Using Relay NAT (TURN)  or
+           - Traversal Using Relays around NAT (TURN) 
+TV         - Type/Value (TV) 
+TWAMP      - Two-Way Active Measurement Protocol (TWAMP) 
+TX        *- Transmission 
+UA         - User Agent (UA)
+UAC        - User Agent Client (UAC)
+UAK	   - User Authentication Key (UAK) 
+UAL        - Unused Association Lifetime (UAL) 
+UAM        - Universal Access Method (UAM)
+UAS        - User Agent Server (UAS)
+           - Unavailable Seconds (UAS)
+uCDN       - upstream Content Delivery Network (uCDN) 
+UDDI       - Universal Description, Discovery, and Integration (UDDI)
+UDP       *- User Datagram Protocol
+UDP-Lite  *- User Datagram Protocol Lite
+UDPTL      - UDP Transport Layer (UDPTL)
+UDVM       - Universal Data/Voice Multiplexer (UDVM)
+UE         - User Equipment (UE) 
+UHF       *- Ultra High Frequency
+UHP        - Ultimate Hop Popping (UHP) 
+UI        *- User Interface
+UICC       - Universal Integrated Circuit Card (UICC) 
+UID        - Unique Identifier (UID)  or
+           - User Identifier (UID)
+U/L	   - Universal/Local (U/L) 
+ULA        - Unique Local Addressing (ULA) 
+           - Unique Local Address (ULA)
+ULB        - Upper Layer Binding (ULB) 
+ULE	   - Ultra Low Energy (ULE) 
+ULID       - Upper-Layer Identifier (ULID) 
+ULP        - Unequal Loss Protection (ULP)  or
+           - Upper-Level Protocol (ULP) 
+	   - Upper-Layer Protocol (ULP) 
+UMA        - Unlicensed Mobile Access (UMA)
+UMB        - Ultra Mobile Broadband
+UMH        - Upstream Multicast Hop (UMH) 
+UML        - Unified Modeling Language (UML)
+UMTS       - Universal Mobile Telecommunications System (UMTS) 
+UNC        - Universal Naming Convention (UNC) 
+UNI        - User-Network Interface (UNI)
+U-NII      - Unlicensed National Information Infrastructure (U-NII) 
+UNSAF      - UNilateral Self-Address Fixing (UNSAF) 
+U-PE       - User-facing PE 
+UPA        - Update Notification Acknowledgement (UPA) 
+UPN        - Update Notification (UPN) 
+UPnP       - Universal Plug and Play (UPnP)
+URI       *- Uniform Resource Identifier 
+URL       *- Uniform Resource Locator
+URN       *- Uniform Resource Name 
+uRPF       - unicast reverse path forwarding (uRPF) 
+USB       *- Universal Serial Bus 
+US-CERT    - US Computer Emergency Readiness Team (CERT)
+USM	   - User-based Security Model
+USRK       - Usage Specific Root Keys (USRK) 
+UTC       *- Coordinated Universal Time
+UTF-8     *- Unicode transformation format 8.
+UTI        - Universal Transport Interface (UTI) - note: Cisco
+	   - Uniform Type Identifier (UTI) 
+UTRAN      - Universal Terrestrial Radio Access Network (UTRAN) 
+UUI        - User-to-User Information (UUI)
+UUID       - Universally Unique Identifier (UUID)
+VACM       - View-based Access Control Model (VACM)
+VAD        - Voice Activity Detection (VAD) 
+VBCM	   - Video Back Channel Message (VBCM) 
+VBD        - Voiceband Data (VBD) 
+VBR-NRT    - Variable Bit Rate - Non Real Time 
+VBR-RT     - Variable Bit Rate - Real Time 
+VC         - Virtual Circuit (VC)
+vCard     *- No Expansion
+VCAT       - Virtual Concatenation (VCAT) 
+VCC        - Virtual Channel Connection (VCC) 
+VCCV       - Virtual Circuit Connectivity Verification (VCCV)
+VCI        - Virtual Channel Identifier (VCI)  or
+           - Virtual Circuit Identifier (VCI)
+VDL        - Valid Data Length (VDL)
+VDSL       - Very high bit-rate Digital Subscriber Line (VDSL)  or
+           - Very high speed Digital Subscriber Line (VDSL)
+VE         - VPLS Edge (VE) 
+VET        - Virtual Enterprise Traversal (VET)
+VHF       *- Very High Frequency
+VI         - Virtual Interface (VI) 
+VID        - VLAN ID (VID) 
+vIP       *- virtual IP address (vIP) 
+VL         - VLAN labeled (VL) 
+VLAN      *- Virtual Local Area Network
+VLB        - Valiant Load-Balancing (VLB) 
+VM         - Virtual Machine (VM) 
+VMR        - Variable Multi Rate (VMR)
+VMR-WB     - Variable Multi Rate WideBand (VMR-WB)
+VMS        - Virtual Memory System (VMS) 
+VNC        - Virtual Network Computing (VNC) 
+VNF	   - Virtual Network Function (VNF)
+VNI        - VXLAN Network Identifier 
+VNTM       - Virtual Network Topology Manager (VNTM) 
+VoD        - Video on Demand (VoD) 
+VoIP       - Voice over IP (VoIP)
+VoLTE      - Voice over LTE (VoLTE) 
+VO         - Virtual Organization (VO) 
+VOP        - Video Object Plane (VOP) 
+VOQ        - Virtual Output Queueing (VOQ)
+VPC        - Virtual Path Connection (VPC)
+VPD        - Vital Product Data (VPD) 
+VPI        - Virtual Path Identifier (VPI)
+VPIM       - Voice Profile for Internet Mail (VPIM) 
+VPN       *- Virtual Private Network (VPN)
+VPLS       - Virtual Private LAN Service (VPLS)
+VPMS       - Virtual Private Multicast Service (VPMS) 
+VPWS       - Virtual Private Wire Service (VPWS) 
+VRF        - VPN Routing and Forwarding (VRF)  or
+           - Virtual Routing and Forwarding (VRF) 
+VRP        - VLAN Registration Protocol (VRP) 
+VRRP       - Virtual Router Redundancy Protocol (VRRP)
+VSA        - Vendor-Specific Attribute (VSA) 
+VSI        - Virtual Switch Instance (VSI) 
+VSP        - Voice Service Provider (VSP) 
+VSS        - Virtual Subnet Selection (VSS) 
+VT         - Virtual Tributary (VT)
+VTEP       - VXLAN Tunnel End Point (VTEP) 
+VXLAN      - Virtual eXtensible Local Area Network (VXLAN) 
+VXML       - VoiceXML (VXML)
+W3C       *- World Wide Web Consortium (W3C)
+WAN       *- Wide Area Networks
+WAP        - Wireless Application Protocol (WAP) 
+W-CDMA     - Wideband Code Division Multiple Access (W-CDMA)
+WCE        - Write Cache Enable (WCE) 
+WDM        - Wavelength Division Multiplexing (WDM)
+WebDAV     - Web Distributed Authoring and Versioning (WebDAV)
+WEBRC      - Wave and Equation Based Rate Control (WEBRC) 
+WebRTC    *- Real-time Communication Between Browsers
+WEP        - Wired Equivalent Privacy (WEP)
+WF         - Wildcard-Filter (WF)
+WFQ        - Weighted Fair Queuing (WFQ) 
+WG        *- Working Group
+WGS 84 	   - World Geodetic System 1984 (WGS 84) 
+WHT        - Walsh-Hadamard transform (WHT) 
+WiLD       - WiFi-based Long Distance (WiLD) 
+WiMAX      - Worldwide Interoperability for Microwave Access (WiMAX)
+WKP        - Well-Known Prefix (WKP)  or
+           - Well-Known Port (WKP) 
+WLAN      *- Wireless Local Area Network (WLAN) 
+WLE        - Whole Label Evaluation (WLE) 
+WM         - Wireless Medium (WM)
+WMN        - Wireless Mesh Network (WMN) 
+WPA2       - Wi-Fi Protected Access 2 (WPA2) 
+WRAP       - Web Resource Authorization Profiles (WRAP) 
+WRED       - Weighted Random Early Detection (WRED) 
+WRR        - Weighted Round Robin (WRR) 
+WS 	   - White Space (WS)
+WSDL       - Web Services Description Language (WSDL) 
+WSON       - Wavelength Switched Optical Network (WSON) 
+WSP        - whitespace 
+WSS        - Wavelength Selective Switch (WSS)  or
+           - Secure WebSocket (WSS)  or
+           - Web Services Security (WSS) 
+WWN        - World Wide Name (WWN)
+WWNN       - World Wide Node Name (WWNN)
+WWPN       - World Wide Port Name (WWPN)
+WWW       *- World Wide Web
+XACML      - eXtensible Access Control Markup Language (XACML) 
+XCAP	   - XML Configuration Access Protocol (XCAP) 
+Xcast      - Explicit Multicast (Xcast) 
+XCON       - Centralized Conferencing (XCON) 
+XDR        - External Data Representation (XDR) 
+XEID       - Extended Endpoint Identifier (XEID) 
+XHTML     *- Extensible Hypertext Markup Language (XHTML)
+XID        - Transaction ID 
+XLAT       - translator (XLAT) 
+XML       *- EXtensible Markup Language
+XML-RPC    - Extensible Markup Language-Remote Procedure Calling (XML-RPC) 
+XMLDSIG    - XML Digital Signatures (XMLDSIG)
+XMLSIG     - XML-Signature Syntax and Processing (XMLSIG)
+XMP        - Extensible Metadata Platform (XMP) 
+XMPP       - Extensible Messaging and Presence Protocol (XMPP) 
+XNQ        - eXtended Network Quality (XNQ)
+XOR       *- exclusive or (see EOR above)
+XPath	   - XML Path Language (XPath) 
+XR         - Extended Report (XR) 
+XRD        - Extensible Resource Descriptor (XRD) 
+XRI        - Extensible Resource Identifier (XRI)
+XSD        - XML Schema Definition (XSD)
+XSF        - XMPP Standards Foundation (XSF) 
+XTP        - Xpress Transfer Protocol (XTP)  or
+           - Xpress Transport Protocol (XTP) 
+XUI        - XCAP User Identifier (XUI)
+YADIFA    *- No Expansion 
+YANG      *- do not expand.
+YIN        - YANG Independent Notation (YIN)
+zsh        - Z SHell (zsh) 
+ZKPP       - Zero-Knowledge Password Proof (ZKPP) 
+ZSK        - Zone Signing Key (ZSK) 

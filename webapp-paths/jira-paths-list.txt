@@ -1,0 +1,8 @@
+/si/
+/sr/
+/issues/?jql=
+/secure/ManageFilters.jspa
+/secure/ManageFilters.jspa?filterView=search
+/rest/greenhopper/1.0/xboard/toolSections?mode='")
+/secure/MyJiraHome.jspa
+/secure/ConfigureReport!default.jspa?reportKey=abc
