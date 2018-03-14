@@ -51,8 +51,8 @@ java-data: Data found in or related to source code of programs written with [Jav
 libc-data: data for or about programming with the [C standard library](https://en.wikipedia.org/wiki/C_standard_library "C standard library")  
 link-layer: Info concerning OSI layer 2 also known as the link layer (below IP)    
 linux-data: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system    
-linux-paths: Path names found on file systems created by Linux installations    
-methbot-iocs: Indicators of Compromise identify malware from the Methbot botnet    
+linux-paths: Path names found on [file systems](https://en.wikipedia.org/wiki/File_system) created by Linux installations    
+malware-iocs: Indicators of Compromise for identification of malware infections  
 mobile-devs: :mobile-phone: Miscellaneous items and objects found within mobile devices    
 net-ifaces: :three-networked-computers: Detailed information which can be extracted from network interfaces    
 netsh-data: Output received by executing the `netsh.exe` utility on Windows    

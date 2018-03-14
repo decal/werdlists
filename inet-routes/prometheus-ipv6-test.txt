@@ -1,0 +1,486 @@
+: Saved
+:
+ASA Version 8.4(4)1 
+!
+hostname asa
+domain-name securesub.net
+enable password XXX encrypted
+passwd XXX encrypted
+names
+name 192.168.0.11 DAN_NIX
+name 192.168.0.1 ASA_INSIDE
+!
+interface Ethernet0/0
+ switchport access vlan 2
+!
+interface Ethernet0/1
+!
+interface Ethernet0/2
+!
+interface Ethernet0/3
+!
+interface Ethernet0/4
+!
+interface Ethernet0/5
+ switchport monitor Ethernet0/0 
+!
+interface Ethernet0/6
+!
+interface Ethernet0/7
+!
+interface Vlan1
+ description \\LAN Connection to Switch\\
+ nameif inside
+ security-level 100
+ ip address ASA_INSIDE 255.255.255.0 
+!
+interface Vlan2
+ description //OUT TO FIOS///
+ nameif outside
+ security-level 0
+ ip address dhcp setroute 
+!
+boot system disk0:/asa844-1-k8.bin
+ftp mode passive
+clock timezone EST -5
+clock summer-time EDT recurring
+dns domain-lookup inside
+dns domain-lookup outside
+dns server-group DefaultDNS
+ name-server 192.168.0.25
+ name-server 4.2.2.2
+ domain-name securesub.net
+same-security-traffic permit intra-interface
+object network INSIDE_LAN
+ subnet 192.168.0.0 255.255.255.0
+object network CAFFEINATED-SSH
+ host 192.168.0.22
+object network ASA_INSIDE
+ host 192.168.0.1
+object network ASA-ASDM_SSLVPN
+ host 192.168.0.1
+object network AnyConnect_VPN_USERS
+ description Anyconnet VPN Range
+object network ANYCONNECT_VPN_USERS
+object network ANYCONNECT_VPN_POOL
+object network ANYCONNECT_VPN
+ subnet 192.168.0.200 255.255.255.248
+object network EXCHANGE_SMTP(SSL)
+ host 192.168.0.4
+object network Dans-Desktop
+ host 192.168.0.10
+object network EXCHANGE_OWA
+ host 192.168.0.4
+object network EXCHANGE_ACTIVESYNC
+ host 192.168.0.4
+object network EXCHANGE_IMAP
+ host 192.168.0.4
+object network EXCHANGE_SMTP
+ host 192.168.0.4
+object network ESX_5_SERVER
+ host 192.168.0.5
+ description ESX5 Server
+object network DansDesktop
+ host 192.168.0.10
+ description DansDesktop
+object network RRAS
+ host 192.168.0.4
+object network RDWeb_App
+ host 192.168.0.4
+object network RRAS_L2TP_IKE
+ host 192.168.0.4
+object network RRAS_L2TP_IPSEC
+ host 192.168.0.4
+object network VPN-POOL
+ host 192.168.0.200
+object network DD-WRT
+ host 192.168.0.101
+object network SWITCH
+ host 192.168.0.2
+object network ESX_MANAGEMENT
+ host 192.168.0.3
+object network WDTV
+ host 192.168.0.7
+object network FREENAS
+ host 192.168.0.12
+object network CANON_PRINTER
+ host 192.168.0.26
+object network Ventrilo_tcp
+ host 192.168.0.6
+ description Ventrilo Server
+object network ventrilo_udp
+ host 192.168.0.6
+object network Vent_data_tcp
+ host 192.168.0.6
+object network vent_data_udp
+ host 192.168.0.6
+object network US.LOGON.BATTLE.NET
+ host 12.129.206.130
+ description Ysera
+object network YSERA
+ host 199.107.6.199
+object network IIS_OWA
+ host 192.168.0.4
+object service https
+ service tcp source eq https destination eq https 
+object network Minecraft
+ host 192.168.0.22
+object network Media-Server
+ host 192.168.0.6
+object service 6in4
+ service 41 
+object network ipv6_remote_endpoint
+ host 216.66.22.2
+object network ipv6_local_endpoint
+ host 192.168.0.25
+object network DNS_lookup
+ host 192.168.0.25
+object network DNS_transfer
+ host 192.168.0.25
+object-group network obj-192.168.0.0
+object-group service metasploit_range tcp
+ port-object range 4444 4454
+object-group protocol TCPUDP
+ protocol-object udp
+ protocol-object tcp
+object-group network INTERNAL_ONLY_DEVICES
+ network-object object CANON_PRINTER
+ network-object object DD-WRT
+ network-object object ESX_5_SERVER
+ network-object object ESX_MANAGEMENT
+ network-object object FREENAS
+ network-object object SWITCH
+ network-object object WDTV
+object-group service Vent tcp-udp
+ port-object eq 6011
+ port-object eq 3784
+object-group service World_of_Warcraft tcp
+ port-object eq 3724
+ port-object eq 6112
+ port-object range 6881 6999
+object-group network Ventrilo
+ network-object object Vent_data_tcp
+ network-object object vent_data_udp
+ network-object object Ventrilo_tcp
+ network-object object ventrilo_udp
+object-group service Battlenet_login tcp
+ port-object eq 1119
+object-group service irc_ports tcp
+ port-object eq 8001
+object-group service minecraft tcp
+ port-object eq 25565
+object-group service Vent_3784 tcp
+ port-object eq 3784
+object-group service Vent_3784_udp udp
+ port-object eq 3784
+access-list outside_access_in extended permit tcp any object CAFFEINATED-SSH eq ssh 
+access-list outside_access_in extended permit tcp any object ASA_INSIDE eq 8080 
+access-list inside_nat0_outbound extended permit ip 192.168.0.0 255.255.255.0 192.168.0.0 255.255.255.0 
+access-list ALLOWED_FROM_OUTSIDE extended permit ip 192.168.0.0 255.255.255.0 object ANYCONNECT_VPN 
+access-list ALLOWED_FROM_OUTSIDE extended permit object-group TCPUDP any object CAFFEINATED-SSH object-group Vent log emergencies 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object DansDesktop eq 64620 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_ACTIVESYNC eq www 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object RDWeb_App eq 3389 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_OWA eq https 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_SMTP(SSL) eq 587 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object CAFFEINATED-SSH eq ssh 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object ASA-ASDM_SSLVPN eq www 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_IMAP eq 993 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object EXCHANGE_SMTP eq smtp 
+access-list ALLOWED_FROM_OUTSIDE extended permit tcp any object RRAS eq pptp 
+access-list ALLOWED_FROM_OUTSIDE extended permit gre any object RRAS
+access-list INSIDE_INBOUND extended deny ip ff00::/16 any6 log 
+access-list guestwifidmz_access_in extended deny ip ff00::/16 any6 log
+access-list outside_access_in_1 extended permit ip any any 
+access-list outside_access_in_1 extended permit 41 any any 
+access-list inside_access_in_1 extended permit 41 any any 
+access-list inside_access_in_1 extended permit ip any any 
+access-list global_access extended permit icmp any any echo 
+access-list global_access extended permit icmp any any echo-reply 
+access-list global_access extended permit tcp any object US.LOGON.BATTLE.NET object-group Battlenet_login log emergencies 
+access-list global_access extended permit tcp any any object-group World_of_Warcraft log emergencies 
+access-list global_access extended permit tcp any any eq 8001 log emergencies 
+access-list global_access extended deny tcp any any eq finger 
+access-list global_access extended deny ip object-group INTERNAL_ONLY_DEVICES interface outside 
+access-list global_access extended permit ip 192.168.0.0 255.255.255.0 any 
+access-list global_access extended permit tcp any object Dans-Desktop eq 64620 
+access-list global_access extended permit object-group TCPUDP any object DNS_lookup eq domain 
+access-list global_access extended permit tcp any object Media-Server eq 64621 
+access-list global_access extended permit tcp any object EXCHANGE_ACTIVESYNC eq www 
+access-list global_access extended permit tcp any object RDWeb_App eq 3389 
+access-list global_access extended permit tcp any object EXCHANGE_SMTP(SSL) eq 587 
+access-list global_access extended permit tcp any object CAFFEINATED-SSH eq ssh 
+access-list global_access extended permit tcp any object ASA-ASDM_SSLVPN eq www 
+access-list global_access extended permit tcp any object EXCHANGE_IMAP eq 993 
+access-list global_access extended permit tcp any object EXCHANGE_SMTP eq smtp 
+access-list global_access extended permit tcp any object RRAS eq pptp 
+access-list global_access extended permit gre any object RRAS 
+access-list global_access extended permit tcp any object EXCHANGE_OWA eq https 
+access-list global_access extended permit tcp any object Minecraft object-group minecraft 
+access-list global_access extended permit tcp any object Vent_data_tcp object-group Vent_3784 
+access-list global_access extended permit udp any object vent_data_udp object-group Vent_3784_udp 
+access-list BAH-PKI-LAB remark BAH-PKI-LAB ACCESS
+access-list BAH-PKI-LAB standard permit 10.100.60.0 255.255.255.0 
+access-list BAH-PKI-LAB remark Vandyke WIFI
+access-list BAH-PKI-LAB standard permit 192.168.5.0 255.255.255.0 
+access-list BAH-PKI-LAB remark BAH-PKI-LAB ACCESS
+access-list BAH-PKI-LAB remark Vandyke WIFI
+access-list inside_access_in extended permit ip any any 
+access-list irc extended permit tcp any any eq 8001 log emergencies interval 1 
+access-list irc extended permit tcp object CAFFEINATED-SSH any object-group irc_ports log debugging interval 10 
+access-list ipv6tunnel extended permit object 6in4 object ipv6_remote_endpoint object ipv6_local_endpoint 
+pager lines 24
+logging enable
+logging emblem
+logging console emergencies
+logging monitor emergencies
+logging buffered emergencies
+logging trap emergencies
+logging history emergencies
+logging asdm emergencies
+logging mail emergencies
+logging from-address asa@coffee.no-ip.info
+logging host inside 192.168.0.22 format emblem
+logging message 101001 level emergencies
+mtu inside 1500
+mtu outside 1500
+ip local pool VPN 192.168.0.200-192.168.0.205 mask 255.255.255.0
+ipv6 local pool SecuresubIPV6 2001:470:8:1044::100/64 10
+ipv6 access-list outside_access_ipv6_in permit icmp6 interface outside interface inside echo 
+ipv6 access-list outside_access_ipv6_in permit icmp6 interface outside interface inside echo-reply 
+no failover
+icmp unreachable rate-limit 1 burst-size 1
+asdm image disk0:/asdm-649-103.bin
+no asdm history enable
+arp timeout 14400
+nat (inside,outside) source static INSIDE_LAN INSIDE_LAN destination static ANYCONNECT_VPN ANYCONNECT_VPN
+nat (inside,outside) source static ipv6_local_endpoint interface destination static ipv6_remote_endpoint ipv6_remote_endpoint
+!
+object network INSIDE_LAN
+ nat (inside,outside) dynamic interface
+object network CAFFEINATED-SSH
+ nat (inside,outside) static interface service tcp ssh ssh 
+object network EXCHANGE_SMTP(SSL)
+ nat (inside,outside) static interface service tcp 587 587 
+object network EXCHANGE_OWA
+ nat (inside,outside) static interface service tcp https https 
+object network EXCHANGE_ACTIVESYNC
+ nat (inside,outside) static interface service tcp www www 
+object network EXCHANGE_IMAP
+ nat (inside,outside) static interface service tcp 993 993 
+object network EXCHANGE_SMTP
+ nat (inside,outside) static interface service tcp smtp smtp 
+object network DansDesktop
+ nat (inside,outside) static interface service tcp 64620 64620 
+object network RRAS
+ nat (inside,outside) static interface service tcp pptp pptp 
+object network RDWeb_App
+ nat (inside,outside) static interface service tcp 3389 3389 
+object network Ventrilo_tcp
+ nat (any,outside) static interface service tcp 3784 3784 
+object network ventrilo_udp
+ nat (any,outside) static interface service udp 3784 3784 
+object network Vent_data_tcp
+ nat (any,outside) static interface service tcp 6011 6011 
+object network vent_data_udp
+ nat (any,outside) static interface service udp 6011 6011 
+object network IIS_OWA
+ nat (any,outside) static interface service tcp https https 
+object network Minecraft
+ nat (any,outside) static interface service tcp 25565 25565 
+object network Media-Server
+ nat (any,outside) static interface service tcp 64621 64621 
+object network DNS_lookup
+ nat (any,outside) static interface service tcp domain domain 
+object network DNS_transfer
+ nat (any,outside) static interface service udp domain domain 
+!
+nat (outside,outside) after-auto source dynamic ANYCONNECT_VPN interface
+access-group ipv6tunnel in interface outside
+access-group outside_access_ipv6_in in interface outside
+access-group global_access global
+timeout xlate 3:00:00
+timeout pat-xlate 0:00:30
+timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 icmp 0:00:02
+timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+timeout tcp-proxy-reassembly 0:01:00
+timeout floating-conn 0:00:00
+dynamic-access-policy-record DfltAccessPolicy
+user-identity default-domain LOCAL
+aaa authentication ssh console LOCAL 
+http server enable 8080
+http server idle-timeout 10
+http 0.0.0.0 0.0.0.0 inside
+http 0.0.0.0 0.0.0.0 outside
+no snmp-server location
+no snmp-server contact
+snmp-server enable traps snmp authentication linkup linkdown coldstart
+crypto ipsec ikev2 ipsec-proposal AES256
+ protocol esp encryption aes-256
+ protocol esp integrity sha-1 md5
+crypto ipsec ikev2 ipsec-proposal AES192
+ protocol esp encryption aes-192
+ protocol esp integrity sha-1 md5
+crypto ipsec ikev2 ipsec-proposal AES
+ protocol esp encryption aes
+ protocol esp integrity sha-1 md5
+crypto ipsec ikev2 ipsec-proposal 3DES
+ protocol esp encryption 3des
+ protocol esp integrity sha-1 md5
+crypto ipsec ikev2 ipsec-proposal DES
+ protocol esp encryption des
+ protocol esp integrity sha-1 md5
+crypto dynamic-map SYSTEM_DEFAULT_CRYPTO_MAP 65535 set ikev2 ipsec-proposal AES256 AES192 AES 3DES DES
+crypto map outside_map 65535 ipsec-isakmp dynamic SYSTEM_DEFAULT_CRYPTO_MAP
+crypto map outside_map interface outside
+crypto ca trustpoint ASDM_TrustPoint1
+ enrollment terminal
+ crl configure
+crypto ca trustpoint securesub
+ revocation-check ocsp
+ keypair securesub
+ ocsp url http://192.168.0.22:3502
+ crl configure
+crypto ca certificate chain ASDM_TrustPoint1
+ certificate ca XXXXX
+  quit
+crypto ca certificate chain securesub
+ certificate XXXXX
+  quit
+crypto ikev2 policy 1
+ encryption aes-256
+ integrity sha
+ group 5
+ prf sha
+ lifetime seconds 86400
+crypto ikev2 policy 10
+ encryption aes-192
+ integrity sha
+ group 5
+ prf sha
+ lifetime seconds 86400
+crypto ikev2 policy 20
+ encryption aes
+ integrity sha
+ group 5
+ prf sha
+ lifetime seconds 86400
+crypto ikev2 policy 30
+ encryption 3des
+ integrity sha
+ group 5
+ prf sha
+ lifetime seconds 86400
+crypto ikev2 policy 40
+ encryption des
+ integrity sha
+ group 5
+ prf sha
+ lifetime seconds 86400
+crypto ikev2 remote-access trustpoint securesub
+crypto ikev1 policy 10
+ authentication pre-share
+ encryption des
+ hash sha
+ group 2
+ lifetime 86400
+telnet timeout 5
+ssh 192.168.0.0 255.255.255.0 inside
+ssh timeout 60
+ssh key-exchange group dh-group1-sha1
+console timeout 0
+management-access inside
+
+dhcpd auto_config outside
+!
+dhcpd dns 129.250.35.250 129.250.35.251 interface inside
+!
+threat-detection basic-threat
+threat-detection statistics
+threat-detection statistics tcp-intercept rate-interval 30 burst-rate 400 average-rate 200
+ssl trust-point securesub outside
+ssl trust-point securesub inside
+webvpn
+ port 8080
+ enable outside
+ anyconnect-essentials
+ anyconnect image disk0:/anyconnect-win-3.0.5080-k9.pkg 1
+ anyconnect profiles coffee_anyconnect_client_profile disk0:/coffee_anyconnect_client_profile.xml
+ anyconnect enable
+ tunnel-group-list enable
+group-policy DefaultRAGroup internal
+group-policy DfltGrpPolicy attributes
+ vpn-tunnel-protocol ikev1 l2tp-ipsec ssl-clientless
+group-policy GroupPolicy_coffee_anyconnect internal
+group-policy GroupPolicy_coffee_anyconnect attributes
+ wins-server none
+ dns-server value 192.168.0.25 4.2.2.2
+ vpn-tunnel-protocol ikev2 ssl-client 
+ split-tunnel-policy excludespecified
+ split-tunnel-network-list value BAH-PKI-LAB
+ default-domain value securesub
+ webvpn
+  anyconnect keep-installer installed
+  anyconnect ssl rekey time 30
+  anyconnect ssl rekey method ssl
+  anyconnect profiles value coffee_anyconnect_client_profile type user
+  anyconnect ask enable default anyconnect timeout 5
+group-policy coffee_clientless internal
+group-policy coffee_clientless attributes
+ vpn-tunnel-protocol ssl-clientless
+ webvpn
+  url-list value dans
+  anyconnect ask none default anyconnect
+ service-type remote-access
+username dano password XXXXXX encrypted privilege 15
+tunnel-group coffee_anyconnect type remote-access
+tunnel-group coffee_anyconnect general-attributes
+ address-pool VPN
+ ipv6-address-pool SecuresubIPV6
+ default-group-policy GroupPolicy_coffee_anyconnect
+tunnel-group coffee_anyconnect webvpn-attributes
+ authentication aaa certificate
+ group-alias coffee_anyconnect disable
+ group-alias securesub enable
+tunnel-group coffee_clientless type remote-access
+tunnel-group coffee_clientless general-attributes
+ default-group-policy coffee_clientless
+!
+class-map global-class
+ match default-inspection-traffic
+class-map inspection_default
+ match default-inspection-traffic
+!
+!
+policy-map type inspect dns preset_dns_map
+ parameters
+  message-length maximum 512
+policy-map FTPPOLICY
+ class inspection_default
+  inspect ftp 
+policy-map global-policy
+ class global-class
+  inspect esmtp 
+  inspect ipsec-pass-thru 
+!
+service-policy global-policy global
+prompt hostname context 
+no call-home reporting anonymous
+call-home
+ profile CiscoTAC-1
+  no active
+  destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+  destination address email callhome@cisco.com
+  destination transport-method http
+  subscribe-to-alert-group diagnostic
+  subscribe-to-alert-group environment
+  subscribe-to-alert-group inventory periodic monthly
+  subscribe-to-alert-group configuration periodic monthly
+  subscribe-to-alert-group telemetry periodic daily
+hpm topN enable
+Cryptochecksum:a92a6de1278b17f8c59b7af2be9e525e
+: end
+asdm image disk0:/asdm-649-103.bin
+no asdm history enable

@@ -9,14 +9,14 @@
 [![werdlists](logo.png)](# "werdlists")
 * * *
 
-# Software Testing Word Lists and Vulnerability Assessment Attack Strings 
+# Software Security Testing Word Lists and Attack Strings
 
 ## Brief Introduction to `werdlists` :clipboard:
 
 This project is a collection of word lists--they are mostly [whitespace-delimited](https://en.wikipedia.org/wiki/String_literal#Whitespace_delimiters)
 or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries") folder contains inputs for [password cracking](https://en.wikipedia.org/wiki/Password_cracking),
 overall the files amassed here are intended to be useful in facilitating
-the creation of insecure [program state](https://en.wikipedia.org/wiki/State_(computer_science)#Program_state "Program State") (with the help of a [black-box fuzzer](https://en.wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
+the creation of insecure [program state](https://en.wikipedia.org/wiki/State_(computer_science)#Program_state) (with the help of a [black-box fuzzer](https://en.wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
 utility, for example.)  The vast majority of files are simply [ASCII](https://en.wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://www.unix.org/what_is_unix.html)
 style [newline](https://en.wikipedia.org/wiki/Newline).   
 
