@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* Write `sed` script to simplify URL's in markdown
 * Make a file like `windows-data/security-advisories-2017.txt`, but with all years
 * Move `INDEX.md` into the bottom of `README.md` as a markdown table..
 * Make a 1.0 release on GitHub
