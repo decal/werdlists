@@ -1,6 +1,7 @@
 common-colon-logins: colon delimited lines of common user and pass combinations  
-google-strings-list: very long list of strings parsed from Google SERP's  
-npm-modules-list: NodeJS modules list from `~/node_modules` directory  
+github-api-emojis: official list of Emoji icons supported by GitHub style markdown from <https://api.github.com/emojis>  
+google-strings-list: very long list of strings parsed from Google [SERP's](https://en.wikipedia.org/wiki/Search_engine_results_page "Search Engine Results Pages")  
+npm-modules-list: [NodeJS](https://nodejs.org) modules list from `~/node_modules` directory  
 percent-encoding-double: all one-byte values doubly percent-encoded  
 percent-encoding-single: all one-byte values encoded in percent-encoding style  
 siteminder-authreason-codes: SiteMinder AUTHREASON query parameter values..  
@@ -11,6 +12,6 @@ webapp-charset-attacks: Some strings to test a web server's character set setup
 webapp-code-execution: HTTP GET queries that may result in remote code execution  
 webapp-common-logins: credentials commonly used to login to web applications  
 webapp-file-prepends: Strings often found prepended to filenames on the web  
-webapp-sql-injection: RDBMS query fragments for SQL injection testing  
-websphere-errors-text: Error descriptions for IBM's J2EE WebSphere app server  
+webapp-sql-injection: [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational DataBase Management System") query fragments for SQL injection testing  
+websphere-errors-text: Descriptions of errors returned by [IBM WebSphere Application Server](https://ibm.com/cloud/websphere-application-platform)  
 websphere-server-namespaces: Identifier strings extracted in WebSphere reverse  

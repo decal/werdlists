@@ -1,0 +1,14 @@
+Publication Date	Advisory Number	Title
+December 12, 2017	4056318	Guidance for securing AD DS account used by Azure AD Connect for directory synchronization
+November 8, 2017	4053440	Securely opening Microsoft Office documents that contain Dynamic Data Exchange (DDE) fields
+August 8, 2017	4038556	Guidance for securing applications that host the WebBrowser Control
+June 26, 2017	4033453	Vulnerability in Azure AD Connect Could Allow Elevation of Privilege
+June 13, 2017	4025685	Guidance related to June 2017 security update release
+May 9, 2017	4022345	Identifying and correcting failure of Windows Update client to receive updates
+May 9, 2017	4021279	Vulnerabilities in .NET Core, ASP.NET Core Could Allow Elevation of Privilege
+May 9, 2017	4010323	Deprecation of SHA-1 for SSL/TLS Certificates in Microsoft Edge and Internet Explorer 11
+May 8, 2017	4022344	Security Update for Microsoft Malware Protection Engine
+March 14, 2017
+(Originally published January 12, 2016)	3123479	Deprecation of SHA-1 Hashing Algorithm for Microsoft Root Certificate Program
+January 27, 2017	4010983	Vulnerability in ASP.NET Core MVC 1.1.0 Could Allow Denial of Service
+January 10, 2017	3214296	Vulnerabilities in Identity Model Extensions Token Signing Verification Could Allow Elevation of Privilege

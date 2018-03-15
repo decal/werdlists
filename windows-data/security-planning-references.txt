@@ -1,0 +1,26 @@
+
+A false sense of security by Julie Bort: Lantimes http://www.lantimes.com
+An Intro to Computer Security by Del Armstrong - John Simonson
+Automated Security By Donn Parker: http://www.infosecurity.com/
+Back-End System issues for online financial sites: http://www.incurrent.com/
+Computer Security by Dieter Gollmann
+Distributed Denial Of Service Attacks: http://www.icsa.net/
+Electronic Sabotage by Carol E. Brown and Alan Sangster http://www.bus.orst.edu/
+Have Script will Destroy (Lessons In DoS) by Brian Martin: http://www.attrition.org/
+Internet Hoaxes: http://ciac.llnl.gov
+Internet Security Policy: A Technical Guide by Barbara Guttman and Robert Bagwill: National Institute of Standards and Technology Computer Security Division http://csrc.nist.gov/
+Is the hacker threat real? By Christopher Null: Lantimes http://www.lantimes.com
+Microsoft Windows 2000 Resource Kit
+Microsoft Windows NT 4.0 Server Resource Kit
+Microsoft Windows NT 4.0 Workstation Resource Kit
+Practical Unix and Internet Security by Simon Garfinkel and Gene Spafford
+Pretty Good Privacy: http://www.pgp.com
+Special Report: DDOS wreaks havoc on the Internet: http://www.infosecurity.com/
+The Latest in Denial of Service Attacks: "Smurfing" http://www.pentics.net/denial-of-service/white-papers/smurf.cgi
+The Trusted Network Interpretation ('Red Book'): National Computer Security Center
+Things that Go Bump in the Net by David Chess http://www.research.ibm.com
+Threat Assessment of Malicious Code and Human Threats by Lawrence E. Bassham & W. Timothy Polk: National Institute of Standards and Technology Computer security Division http://csrc.nist.gov/
+Trojan Horses http://www.cert.org
+Trusted Computer Security Evaluation Criteria (Orange Book): National Computer Security Center
+Viruses: http://ciac.llnl.gov
+Viruses: http://e-comm.webopedia.com/

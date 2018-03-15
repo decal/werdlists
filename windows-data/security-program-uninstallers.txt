@@ -1,0 +1,17 @@
+Avast Uninstall Utility: http://www.avast.com/uninstall-utility
+AVG Remover Tool: http://www.avg.com/us-en/utilities
+Avira RegistryCleaner: http://www.avira.com/en/downloads#tools
+BitDefender: How to uninstall BitDefender: http://www.bitdefender.com/support/How-to-uninstall-BitDefender-333.html
+BullGuard: Uninstalling BullGuard: http://www.bullguard.com/support/product-guides/bullguard-internet-security-guides/uninstall.aspx
+ESET: How do I manually uninstall my Windows ESET security product?: http://kb.eset.com/esetkb/index?page=content&id=SOLN2289
+F Secure: Uninstalling F-Secure Internet Security/Anti-Virus: http://www.f-secure.com/en/web/home_global/support/article/kba/2109
+Kaspersky: Removal tool for Kaspersky Lab products: http://support.kaspersky.com/kis2010/service?qid=208279463
+McAfee: How to uninstall or reinstall supported McAfee consumer products using the McAfee Consumer Products Removal tool (MCPR.exe): http://service.mcafee.com/faqdocument.aspx?id=CS41013&lang=en_US&prior_tid=2&AnswerID=16777217&turl==http%3A%2F%2Fkb.mcafee.com%2Finfocenter%2Findex%3Fpage%3Dcontent%26id%3DCS41013%26actp%3Dsearch%26viewlocale%3Den_US
+Norton Removal Tool: https://www-secure.symantec.com/norton-support/jsp/help-solutions.jsp?lg=english&ct=united+states&docid=20080710133834EN&product=home&version=1&pvid=f-home
+Panada Security: http://www.pandasecurity.com/search/?hl=en&lr=lang_en&nq=site%3awww.pandasecurity.com%2f&term=uninstall
+PC Tools: How do I uninstall ThreatFire?: http://www.pctools.com/threatfire/answers/id/760/
+Prevx: Prevx2.0 Removal Tool (and Prevx1): http://info.prevx.com/removaltool.asp
+Spybot Search and Destroy: How to uninstall: http://www.safer-networking.org/en/howto/uninstall.html
+TrendMicro: How to uninstall my Trend Micro program using the Trend Micro Diagnostic Toolkit: http://esupport.trendmicro.com/Pages/How-do-I-remove-old-or-new-versions-of-Trend-Micro-products-in-my-comp.aspx
+Windows Live OneCare: http://download.microsoft.com/download/4/c/b/4cb845e7-1076-437b-852a-7842a8ab13c8/OneCareCleanUp.exe
+ZoneAlarm: Complete full uninstall of ZoneAlarm: Go to http://www.zonealarm.com/security/en-us/support/zonealarm-service-support.htm, and the search for "uninstall".

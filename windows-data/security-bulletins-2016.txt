@@ -1,0 +1,222 @@
+Date	Bulletin number	Title	Affected Software
+December 2016
+December 13, 2016	MS16-155	Security Update for .NET Framework (3205640)	Microsoft Windows
+December 13, 2016	MS16-154	Security Update for Adobe Flash Player (3209498)	Microsoft Windows
+December 13, 2016	MS16-153	Security Update for Common Log File System Driver (3207328)	Microsoft Windows
+December 13, 2016	MS16-152	Security Update for Windows Kernel (3199709)	Microsoft Windows
+December 13, 2016	MS16-151	Security Update for Kernel-Mode Driver (3205651)	Microsoft Windows
+December 13, 2016	MS16-150	Security Update for Windows Secure Kernel Mode (3205642)	Microsoft Windows
+December 13, 2016	MS16-149	Security Update for Windows (3205655)	Microsoft Windows
+December 13, 2016	MS16-148	Security Update for Microsoft Office (3204068)	Microsoft Windows
+Microsoft Office
+December 13, 2016	MS16-147	Security Update for Microsoft Uniscribe (3204063)	Microsoft Windows
+December 13, 2016	MS16-146	Security Update for Microsoft Graphics Component (3204066)	Microsoft Windows
+December 13, 2016	MS16-145	Cumulative Security Update for Microsoft Edge (3204062)	Microsoft Windows
+Microsoft Edge
+December 13, 2016	MS16-144	Cumulative Security Update for Internet Explorer (3204059)	Microsoft Windows
+Internet Explorer
+November 2016
+November 8, 2016	MS16-142	Cumulative Security Update for Internet Explorer (3198467)	Microsoft Windows
+Internet Explorer
+November 8, 2016	MS16-141	Security Update for Adobe Flash Player (3202790)	Microsoft Windows
+Adobe Flash Player
+November 8, 2016	MS16-140	Security Update For Boot Manager (3193479)	Microsoft Windows
+November 8, 2016	MS16-139	Security Update for Windows Kernel (3199720)	Microsoft Windows
+November 8, 2016	MS16-138	Security Update to Microsoft Virtual Hard Disk Driver (3193229)	Microsoft Windows
+November 8, 2016	MS16-137	Security Update for Windows Authentication Methods (3199173)	Microsoft Windows
+November 8, 2016	MS16-136	Security Update for SQL Server (3199641)	Microsoft Windows
+Microsoft SQL Server
+November 8, 2016	MS16-135	Security Update for Kernel-Mode Drivers (3199135)	Microsoft Windows
+November 8, 2016	MS16-134	Security Update for Common Log File System Driver 3193706)	Microsoft Windows
+November 8, 2016	MS16-133	Security Update for Microsoft Office (3199168)	Microsoft Windows
+Microsoft Office
+November 8, 2016	MS16-132	Security Update for Microsoft Graphics Component (3199120)	Microsoft Windows
+November 8, 2016	MS16-131	Security Update for Microsoft Video Control (3199151)	Microsoft Windows
+November 8, 2016	MS16-130	Security Update for Microsoft Windows (3199172)	Microsoft Windows
+November 8, 2016	MS16-129	Cumulative Security Update for Microsoft Edge (3199057)	Microsoft Windows
+Microsoft Edge
+October 2016
+October 27, 2016	MS16-128	Security Update for Adobe Flash Player (3201860)	Microsoft Windows,
+Adobe Flash Player
+October 11, 2016	MS16-127	Security Update for Adobe Flash Player (3194343)	Microsoft Windows,
+Adobe Flash Player
+October 11, 2016	MS16-126	Security Update for Microsoft Internet Messaging API (3196067)	Microsoft Windows
+October 11, 2016	MS16-125	Security Update for Diagnostics Hub (3193229)	Microsoft Windows
+October 11, 2016	MS16-124	Security Update for Windows Registry (3193229)	Microsoft Windows
+October 11, 2016	MS16-123	Security Update for Kernel-Mode Drivers (3192892)	Microsoft Windows
+October 11, 2016	MS16-122	Security Update for Microsoft Video Control (3192892)	Microsoft Windows
+October 11, 2016	MS16-121	Security Update for Microsoft Office (3194063)	Microsoft Office
+October 11, 2016	MS16-120	Security Update for Microsoft Graphics Component (3192884)	Microsoft Windows
+October 11, 2016	MS16-119	Cumulative Security Update for Microsoft Edge(3192890)	Microsoft Windows,
+Microsoft Edge
+October 11, 2016	MS16-118	Cumulative Security Update for Internet Explorer (3192887)	Microsoft Windows,
+Internet Explorer
+September 2016
+September 13, 2016	MS16-117	Security Update for Adobe Flash Player (3188128)	Microsoft Windows,
+Adobe Flash Player
+September 13, 2016	MS16-116	Security Update in OLE Automation for VBScript Scripting Engine (3188724)	Microsoft Windows
+September 13, 2016	MS16-115	Security Update for Microsoft Windows PDF Library (3188733)	Microsoft Windows
+September 13, 2016	MS16-114	Security Update for Windows SMBv1 Server (3185879)	Microsoft Windows
+September 13, 2016	MS16-113	Security Update for Windows Secure Kernel Mode (3185876)	Microsoft Windows
+September 13, 2016	MS16-112	Security Update for Windows Lock Screen (3178469)	Microsoft Windows
+September 13, 2016	MS16-111	Security Update for Windows Kernel (3186973)	Microsoft Windows
+September 13, 2016	MS16-110	Security Update for Microsoft Windows (3178467)	Microsoft Windows
+September 13, 2016	MS16-109	Security Update for Silverlight (3182373)	Microsoft Silverlight
+September 13, 2016	MS16-108	Security Update for Microsoft Exchange Server (3185883)	Microsoft Exchange
+September 13, 2016	MS16-107	Security Update for Microsoft Office (3185852)	Microsoft Office,
+Microsoft Office Services and Web Apps
+September 13, 2016	MS16-106	Security Update for Microsoft Graphics Component (3185848)	Microsoft Windows
+September 13, 2016	MS16-105	Cumulative Security Update for Microsoft Edge (3183043)	Microsoft Windows,
+Microsoft Edge
+September 13, 2016	MS16-104	Cumulative Security Update for Internet Explorer (3183038)	Microsoft Windows,
+Internet Explorer
+August 2016
+August 9, 2016	MS16-103	Security Update for ActiveSyncProvider (3182332)	Microsoft Windows
+August 9, 2016	MS16-102	Security Update for Microsoft Windows PDF Library (3182248)	Microsoft Windows
+August 9, 2016	MS16-101	Security Update for Windows Authentication Methods (3178465)	Microsoft Windows
+August 9, 2016	MS16-100	Security Update for Secure Boot (3179577)	Microsoft Windows
+August 9, 2016	MS16-099	Security Update for Microsoft Office (3177451)	Microsoft Office
+August 9, 2016	MS16-098	Security Update for Windows Kernel-Mode Drivers (3178466)	Microsoft Windows
+August 9, 2016	MS16-097	Security Update for Microsoft Graphics Component (3177393)	Microsoft Windows,
+Microsoft Office,
+Microsoft Communications Platforms and Software
+August 9, 2016	MS16-096	Cumulative Security Update for Microsoft Edge (3177358)	Microsoft Windows,
+Microsoft Edge
+August 9, 2016	MS16-095	Cumulative Security Update for Internet Explorer (3177356)	Microsoft Windows,
+Internet Explorer
+July 2016
+July 12, 2016	MS16-094	Security Update for Secure Boot (3177404)	Microsoft Windows
+July 12, 2016	MS16-093	Security Update for Adobe Flash Player (3174060)	Microsoft Windows,
+Adobe Flash Player
+July 12, 2016	MS16-092	Security Update for Windows Kernel (3171910)	Microsoft Windows
+July 12, 2016	MS16-091	Security Update for .NET Framework (3170048)	Microsoft Windows,
+Microsoft .NET Framework
+July 12, 2016	MS16-090	Security Update for Windows Kernel-Mode Drivers (3171481)	Microsoft Windows
+July 12, 2016	MS16-089	Security Update for Windows Secure Kernel Mode (3170050)	Microsoft Windows
+July 12, 2016	MS16-088	Security Update for Microsoft Office (3170008)	Microsoft Office,
+Microsoft Office Services and Web Apps
+July 12, 2016	MS16-087	Security Update for Windows Print Spooler Components (3170005)	Microsoft Windows
+July 12, 2016	MS16-086	Cumulative Security Update for JScript and VBScript (3169996)	Microsoft Windows
+July 12, 2016	MS16-085	Cumulative Security Update for Microsoft Edge (3169999)	Microsoft Windows,
+Microsoft Edge
+July 12, 2016	MS16-084	Cumulative Security Update for Internet Explorer (3169991)	Microsoft Windows,
+Internet Explorer
+June 2016
+June 16, 2016	MS16-083	Security Update for Adobe Flash Player (3167685)	Microsoft Windows,
+Adobe Flash Player
+June 14, 2016	MS16-082	Security Update for Microsoft Windows Search Component (3165270)	Microsoft Windows
+June 14, 2016	MS16-081	Security Update for Active Directory (3160352)	Microsoft Windows
+June 14, 2016	MS16-080	Security Update for Microsoft Windows PDF (3164302)	Microsoft Windows
+June 14, 2016	MS16-079	Security Update for Microsoft Exchange Server (3160339)	Microsoft Exchange Server
+June 14, 2016	MS16-078	Security Update for Windows Diagnostic Hub (3165479)	Microsoft Windows
+June 14, 2016	MS16-077	Security Update for WPAD (3165191)	Microsoft Windows
+June 14, 2016	MS16-076	Security Update for Netlogon (3167691)	Microsoft Windows
+June 14, 2016	MS16-075	Security Update for Windows SMB Server (3164038)	Microsoft Windows
+June 14, 2016	MS16-074	Security Update for Microsoft Graphics Component (3164036)	Microsoft Windows
+June 14, 2016	MS16-073	Security Update for Windows Kernel-Mode Drivers (3164028)	Microsoft Windows
+June 14, 2016	MS16-072	Security Update for Group Policy (3163622)	Microsoft Windows
+June 14, 2016	MS16-071	Security Update for Microsoft Windows DNS Server (3164065)	Microsoft Windows
+June 14, 2016	MS16-070	Security Update for Microsoft Office (3163610)	Microsoft Office,
+Microsoft Office Services and Web Apps
+June 14, 2016	MS16-069	Cumulative Security Update for JScript and VBScript (3163640)	Microsoft Windows
+June 14, 2016	MS16-068	Cumulative Security Update for Microsoft Edge (3163656)	Microsoft Windows,
+Microsoft Edge
+June 14, 2016	MS16-063	Cumulative Security Update for Internet Explorer (3163649)	Microsoft Windows,
+Internet Explorer
+May 2016
+May 10, 2016	MS16-067	Security Update for Volume Manager Driver (3155784)	Microsoft Windows
+May 10, 2016	MS16-066	Security Update for Virtual Secure Mode (3155451)	Microsoft Windows
+May 10, 2016	MS16-065	Security Update for .NET Framework (3156757)	Microsoft Windows,
+Microsoft .NET Framework
+May 10, 2016	MS16-064	Security Update for Adobe Flash Player (3157993)	Microsoft Windows,
+Adobe Flash Player
+May 10, 2016	MS16-062	Security Update for Windows Kernel-Mode Drivers (3158222)	Microsoft Windows
+May 10, 2016	MS16-061	Security Update for Microsoft RPC (3155520)	Microsoft Windows
+May 10, 2016	MS16-060	Security Update for Windows Kernel (3154846)	Microsoft Windows
+May 10, 2016	MS16-059	Security Update for Windows Media Center (3150220)	Microsoft Windows
+May 10, 2016	MS16-058	Security Update for Windows IIS (3141083)	Microsoft Windows
+May 10, 2016	MS16-057	Security Update for Windows Shell (3156987)	Microsoft Windows
+May 10, 2016	MS16-056	Security Update for Windows Journal (3156761)	Microsoft Windows
+May 10, 2016	MS16-055	Security Update for Microsoft Graphics Component (3156754)	Microsoft Windows
+May 10, 2016	MS16-054	Security Update for Microsoft Office (3155544)	Microsoft Office,
+Microsoft Office Services and Web Apps
+May 10, 2016	MS16-053	Cumulative Security Update for JScript and VBScript (3156764)	Microsoft Windows
+May 10, 2016	MS16-052	Cumulative Security Update for Microsoft Edge (3155538)	Microsoft Windows,
+Microsoft Edge
+May 10, 2016	MS16-051	Cumulative Security Update for Internet Explorer (3155533)	Microsoft Windows,
+Internet Explorer
+April 2016
+April 12, 2016	MS16-050	Security Update for Adobe Flash Player (3154132)	Microsoft Windows,
+Adobe Flash Player
+April 12, 2016	MS16-049	Security Update for HTTP.sys (3148795)	Microsoft Windows
+April 12, 2016	MS16-048	Security Update for CSRSS (3148528)	Microsoft Windows
+April 12, 2016	MS16-047	Security Update for SAM and LSAD Remote Protocols (3148527)	Microsoft Windows
+April 12, 2016	MS16-046	Security Update for Secondary Logon (3148538)	Microsoft Windows
+April 12, 2016	MS16-045	Security Update for Windows Hyper-V (3143118)	Microsoft Windows
+April 12, 2016	MS16-044	Security Update for Windows OLE (3146706)	Microsoft Windows
+April 12, 2016	MS16-042	Security Update for Microsoft Office (3148775)	Microsoft Office,
+Microsoft Office Services and Web Apps
+April 12, 2016	MS16-041	Security Update for .NET Framework (3148789)	Microsoft Windows,
+Microsoft .NET Framework
+April 12, 2016	MS16-040	Security Update for Microsoft XML Core Services (3148541)	Microsoft Windows
+April 12, 2016	MS16-039	Security Update for Microsoft Graphics Component (3148522)	Microsoft Windows,
+Microsoft .NET Framework,
+Microsoft Office,
+Skype for Business,
+Microsoft Lync.
+April 12, 2016	MS16-038	Cumulative Security Update for Microsoft Edge (3148532)	Microsoft Edge,
+Microsoft Windows
+April 12, 2016	MS16-037	Cumulative Security Update for Internet Explorer (3148531)	Microsoft Windows,
+Internet Explorer
+March 2016
+March 10, 2016	MS16-036	Security Update for Adobe Flash Player (3144756)	Microsoft Windows,
+Adobe Flash Player
+March 8, 2016	MS16-035	Security Update for .NET Framework to Address Security Feature Bypass (3141780)	Microsoft Windows,
+Microsoft .NET Framework
+March 8, 2016	MS16-034	Security Update for Windows Kernel-Mode Drivers to Address Elevation of Privilege (3143145)	Microsoft Windows
+March 8, 2016	MS16-033	Security Update for Windows USB Mass Storage Class Driver to Address Elevation of Privilege (3143142)	Microsoft Windows
+March 8, 2016	MS16-032	Security Update for Secondary Logon to Address Elevation of Privilege (3143141)	Microsoft Windows
+March 8, 2016	MS16-031	Security Update for Microsoft Windows to Address Elevation of Privilege (3140410)	Microsoft Windows
+March 8, 2016	MS16-030	Security Update for Windows OLE to Address Remote Code Execution (3143136)	Microsoft Windows
+March 8, 2016	MS16-029	Security Update for Microsoft Office to Address Remote Code Execution (3141806)	Microsoft Office,
+Microsoft Office Services and Web Apps
+March 8, 2016	MS16-028	Security Update for Microsoft Windows PDF Library to Address Remote Code Execution (3143081)	Microsoft Windows
+March 8, 2016	MS16-027	Security Update for Windows Media to Address Remote Code Execution (3143146)	Microsoft Windows
+March 8, 2016	MS16-026	Security Update for Graphic Fonts to Address Remote Code Execution (3143148)	Microsoft Windows
+March 8, 2016	MS16-025	Security Update for Windows Library Loading to Address Remote Code Execution (3140709)	Microsoft Windows
+March 8, 2016	MS16-024	Cumulative Security Update for Microsoft Edge (3142019)	Microsoft Windows,
+Microsoft Edge
+March 8, 2016	MS16-023	Cumulative Security Update for Internet Explorer (3142015)	Microsoft Windows,
+Internet Explorer
+February 2016
+February 9, 2016	MS16-022	Security Update for Adobe Flash Player (3135782)	Microsoft Windows,
+Adobe Flash Player
+February 9, 2016	MS16-021	Security Update for NPS RADIUS Server to Address Denial of Service (3133043)	Microsoft Windows
+February 9, 2016	MS16-020	Security Update for Active Directory Federation Services to Address Denial of Service (3134222)	Microsoft Windows
+February 9, 2016	MS16-019	Security Update for .NET Framework to Address Denial of Service (3137893)	Microsoft Windows,
+Microsoft .NET Framework
+February 9, 2016	MS16-018	Security Update for Windows Kernel-Mode Drivers to Address Elevation of Privilege (3136082)	Microsoft Windows
+February 9, 2016	MS16-017	Security Update for Remote Desktop Display Driver to Address Elevation of Privilege (3134700)	Microsoft Windows
+February 9, 2016	MS16-016	Security Update for WebDAV to Address Elevation of Privilege (3136041)	Microsoft Windows
+February 9, 2016	MS16-015	Security Update for Microsoft Office to Address Remote Code Execution (3134226)	Microsoft Office,
+Microsoft Office Services and Web Apps,
+Microsoft Server Software
+February 9, 2016	MS16-014	Security Update for Microsoft Windows to Address Remote Code Execution (3134228)	Microsoft Windows
+February 9, 2016	MS16-013	Security Update for Windows Journal to Address Remote Code Execution (3134811)	Microsoft Windows
+February 9, 2016	MS16-012	Security Update for Microsoft Windows PDF Library to Address Remote Code Execution (3138938)	Microsoft Windows
+February 9, 2016	MS16-011	Cumulative Security Update for Microsoft Edge (3134225)	Microsoft Windows,
+Microsoft Edge
+February 9, 2016	MS16-009	Cumulative Security Update for Internet Explorer (3134220)	Microsoft Windows,
+Internet Explorer
+January 2016
+January 12, 2016	MS16-010	Security Update in Microsoft Exchange Server to Address Spoofing (3125573)	Microsoft Exchange
+January 12, 2016	MS16-008	Security Update for Windows Kernel to Address Elevation of Privilege (3124605)	Microsoft Windows
+January 12, 2016	MS16-007	Security Update for Microsoft Windows to Address Remote Code Execution (3124901)	Microsoft Windows
+January 12, 2016	MS16-006	Security Update for Silverlight to Address Remote Code Execution (3126036)	Microsoft Developer Tools and Software
+January 12, 2016	MS16-005	Security Update for Windows Kernel-Mode Drivers to Address Remote Code Execution (3124584)	Microsoft Windows
+January 12, 2016	MS16-004	Security Update for Microsoft Office to Address Remote Code Execution (3124585)	Microsoft Office
+January 12, 2016	MS16-003	Cumulative Security Update for JScript and VBScript to Address Remote Code Execution (3125540)	Microsoft Windows
+January 12, 2016	MS16-002	Cumulative Security Update for Microsoft Edge (3124904)	Microsoft Edge,
+Microsoft Windows
+January 12, 2016	MS16-001	Cumulative Security Update for Internet Explorer (3124903)	Internet Explorer,
+Microsoft Windows

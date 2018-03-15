@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+#
+# Append two spaces to the end of each markdown line such that the generated
+# HTML contains a line break where intended..
+#
+
+[ -f scripts/shared/colors ] && source scripts/shared/colors
+
+if [ ! "$1" ]
+  then echo -e "${reset}"
+  echo -ne "${purplef}"
+  dos2unix --version 2>&1
+  echo -e "${reset}"
+  echo -ne "${whitef}"
+  mv --version 2>&1 
+  echo -e "${reset}"
+  echo -ne "${redf}"
+  cp --version 2>&1
+  echo -e "${reset}"
+  echo -e "${yellowf}usage${boldon}:${reset} ${bluef}${ulon}$0${reset} ${greenb}MDFILE${reset}"
+  echo -e "  ${greenb}MDFILE${reset}  ${italicson}markdown file to normalize with line terminating spaces${reset}"
+  echo 
+
+  exit 1
+fi
+
+echo -ne "${redf}"
+
+cp -v -- "$1" /tmp 2>&1
+
+echo -e "${reset}"
+
+declare achar="$(echo '$1' | sed -r 's!([A-Z]{1}).*$!\1!g')"
+declare afile="${achar}.md"
+
+(while read line
+  do echo "${line}  "
+done) < "$1" > "$afile"
+
+echo -ne "${whitef}"
+
+mv -v -- "$afile" "$1" 2>&1
+
+echo -e "${reset}"
+
+echo -ne "${purplef}"
+
+dos2unix -- "$1" 2>&1
+
+echo -e "${reset}"
+
+exit 0

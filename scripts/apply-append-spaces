@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#
+# This script is essentially a wrapper to provide markdown file pathnames to the
+# worker script `append-spaces-endofline` for processing..
+#
+
+if [ ! -f INDEX.md ]
+  then echo "${reset}"
+  echo "${bluef}***${reset} ${italicson}This script must be executed from the root folder!${reset}"
+  echo
+
+  exit 1
+fi
+
+scripts/append-spaces-endofline 'INDEX.md'
+
+for anmd in */README.md
+  do scripts/append-spaces-endofline "$anmd"
+done
+
+exit 0

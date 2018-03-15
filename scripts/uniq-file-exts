@@ -3,11 +3,11 @@
 # Show unique file name extensions found in the repository's directory hierarchy
 #
 
-if [ ! -L bin ]
+if [ ! -d scripts ]
   then echo "usage: $0"
   echo 
-  echo "Must be run from repository root!"
-  echo "ex. bin/uniq-file-exts"
+  echo 'Must be run from repository root!'
+  echo 'ex. scripts/uniq-file-exts'
   echo
 
   exit 1

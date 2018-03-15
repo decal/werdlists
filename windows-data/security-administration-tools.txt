@@ -1,0 +1,81 @@
+Microsoft security administration tools
+
+OS Security: Authentication
+
+Kerbtray
+Kerberos Tray is a GUI tool that displays ticket information for a computer running the Kerberos protocol.
+Klist
+Kerberos List is a command-line tool that enables you to view and delete Kerberos tickets granted to the current logon session. To use this tool, and see any tickets, your Windows 2000 computer must be joined to a Windows 2000 domain.
+Dommon
+Domain Monitor monitors the status of servers in a domain and the secure channel status to the domain controller and to domain controllers in trusted domains. Domain Monitor displays the domain controller name and a list of trusted domains, plus various status errors.
+Getsid
+GetSID compares the user security IDs (SIDs) of two accounts. You can use it to compare account SIDs between a primary domain controller and backup domain controller when you suspect user database corruption.
+Setspn
+This command-line tool allows you to manage the Service Principal Names (SPN) directory property for an Active Directory directory service account. SPNs are used to locate a target principal name for running a service. SetSpn allows you to view the current SPNs, reset the host SPNs, and add or delete supplemental SPNs.
+
+OS Security: Access Control
+ 
+Appsec
+The Application Security tool is a GUI-based application that allows an administrator in a multi-user environment to restrict the access of ordinary users to a predefined set of applications on the network. Enabling application security using this tool will cause the system to reject any attempts by ordinary users to execute a program that they are not authorized to use.
+Showpriv
+ShowPriv is a command-line tool that displays the users and groups granted a particular privilege. This tool must be run locally on the target computer or on a domain controller to display users and groups with domain privileges.
+Svcacls
+This command-line tool sets access control lists (ACLs) on service objects, enabling administrators to delegate control of services.
+Enumprop
+This command-line tool dumps all properties set on any directory service object. Using EnumProp, you can display the security descriptor or list only a given set of attributes for an object.
+Global
+This command-line tool displays members of global groups on remote servers or domains.
+Grpcpy
+This GUI-based tool enables users to copy the user names in an existing group to another group in the same or another domain or on a computer running Microsoft Windows 2000.
+Local
+This command-line tool displays members of local groups on remote servers or domains.
+ntrights
+With this command-line tool, you can grant or revoke any Windows 2000 right for a user or group of users on a local or remote computer. You can also place an entry in the computer's event log noting the change.
+permcopy
+This command-line tool copies share (Full Control, Read, Change) and file (Full Control, Modify, Read & Execute, Read, Write, Traverse Directory) level permissions (ACLs) from one share to another.
+perms
+Perms displays a user's access permissions for a specified file or set of files.
+showacls
+This command-line tool enumerates access rights for files, folders, and trees. It allows masking to enumerate only specific ACLs.
+showgrps
+This command-line tool shows the groups to which a user belongs, even within a given network domain.
+subinacl
+With this command-line tool, administrators can obtain security information on files, registry keys, and services, and transfer this information from user to user, from local or global group to group, and from domain to domain.
+showmbrs
+This command-line tool shows the user names of members of a given group, even within a given network domain.
+Usrtogrp
+This command-line tool adds users to a local or global group according to information contained in a user-specified input text file.
+xcacls
+This tool allows you to set all file-system security options accessible in Windows Explorer from the command line. XcAcls does this by displaying and modifying the access control lists (ACLs) of files.
+
+OS Security: Auditing
+ 
+Auditpol
+AuditPol is a command-line tool that enables the user to modify the audit policy of the local computer or of any remote computer. To run AuditPol, the user must have administrator privileges on the target computer.
+Dumpel
+Dump Event Log is a command-line tool that dumps an event log for a local or remote system into a tab-separated text file. This tool can also be used to filter for or filter out certain event types.
+Logevent
+This tool enables you to make entries to the Event Log on either a local or remote computer from the command prompt or a batch file.
+
+Communications Security
+ 
+Iasparse
+This command-line tool parses Internet Authentication Service (IAS) and remote access server logs and converts them into a readable format. The log file generated both these services is very cryptic and is difficult for ordinary users to understand.
+ipsecpol
+This command-line tool configures Internet Protocol Security (IPSec) policies in the directory service, or in a local or remote registry. It does everything that the IPSec Microsoft Management Console (MMC) snap-in does, and is even modeled after the snap-in.
+
+Public Key Infrastructure
+ 
+Dsstore
+This tool assists in managing Enterprise Public Key Integration. It includes functionality necessary for several deployment scenarios.
+Efsinfo
+This command-line tool displays information about files and folders encrypted with Encrypting File System (EFS) on NTFS partitions.
+
+Third-party tools
+ 
+System Scanner
+System Scanner for Windows is a security assessment solution for Microsoft Windows 2000, Microsoft Windows NT version 4.0, Microsoft Windows 95, and Microsoft Windows 98.
+CyberSafe Log Analyst
+CyberSafe Log Analyst is a Microsoft Windows 2000 Security Event Log analysis tool. Designed as a snap-in to the Microsoft Management Console (MMC) used with Windows 2000, the CyberSafe Log Analyst assists you in organizing and interpreting security event logs from Windows 2000, providing more effective, system-wide user activity analysis.
+Tru Access manager Lite
+TRU Access Manager Lite is a comprehensive network accounting application developed by Telco Research that lets you track and report use of your network by users and/or workgroups.

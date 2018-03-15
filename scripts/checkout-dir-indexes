@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 #
-# Check each folder's index.md file out of the code repository
-# in case they were mistakenly removed.. 
+# Check each folder's index.md file out of the code repository in case they were
+# mistakenly removed and/or corrupted during maintenance procedures..
 #
 
-read -t 2 -p "Are you sure you want to checkout each directory's index.md file from the repository (this should only be done if they were removed by mistake)? [y/N]: " ANSWER
+read -t 2 -p "Are you sure you want to checkout each folder's README.md file from the repository (this should only be done if they were removed by mistake)? [y/N]: " ANSWER
 
 [ "$ANSWER" -a "${ANSWER[0]}" != "y" -a "${ANSWER[0]}" != "Y" ] && exit 1
 
@@ -12,6 +12,7 @@ while [ ! -d .git ]
   do cd ..
 
   declare cdirname=$( basename `pwd` )
+
   [[ $cdirname == 'GIT' ]] && exit 1
 done
 
@@ -22,11 +23,15 @@ for d in ${xdirnames[*]}
 
   [ $? -ne 0 ] && continue
 
-  mv index.md index.md.bak 
+  [ -f README.md ] && mv -v README.md README.md.bak
 
-  git checkout index.md
+  git checkout README.md
 
-  [ -f index.md ] && rm -f index.md.bak 
+  if [ -f README.md ] 
+    then rm -f README.md.bak 
+  else
+    mv -v README.md.bak README.md
+  fi
 
   cd ..
 done
