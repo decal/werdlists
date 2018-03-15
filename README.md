@@ -9,7 +9,7 @@
 [![werdlists](logo.png)](# "werdlists")
 * * *
 
-# Software Security Testing Word Lists and Attack Strings
+# Software Security Testing Word Lists, Attack Strings and More..
 
 ## Brief Introduction to `werdlists` :clipboard:
 

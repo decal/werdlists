@@ -1,8 +1,10 @@
+bash-builtin-funcs: BASH builtin functions as revealed by the enable builtin  
 errno-all-locales: the errno names and descriptions for all system locales  
 errno-description-list: errors in preprocessor constant, numeric and string form  
+fish-builtin-names: the names of builtin keywords in the fish shell  
 free-bsd-groups: common GID names found in [`/etc/group`](https://www.freebsd.org/cgi/man.cgi?group(5) "format of the group permissions file") on [FreeBSD](http://www.freebsd.com)    
-free-bsd-users: common UID names found in [`/etc/passwd`](https://www.freebsd.org/cgi/man.cgi?passwd(5) "format of the password file") on [FreeBSD](http://www.freebsd.com)    
 freebsd-sysctl-vars: [FreeBSD](http://www.freebsd.com) [`sysctl(8)`](https://www.freebsd.org/cgi/man.cgi?sysctl(8) "get or set kernel state") variables with types and changeability  
+free-bsd-users: common UID names found in [`/etc/passwd`](https://www.freebsd.org/cgi/man.cgi?passwd(5) "format of the password file") on [FreeBSD](http://www.freebsd.com)    
 leap-seconds-list: list of leap seconds for computing international atomic time  
 linux-error-strings: strings returned by [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf "WG14/N1256") function [strerror](https://linux.die.net/man/3/strerror "return string describing error number") on [Linux](https://www.linuxfoundation.org/)    
 locale-charmap-list: a list of all charmaps available with system locale info  
@@ -34,3 +36,4 @@ unix-shell-tricks: Useful command-line tricks for [UNIX](http://www.unix.org) sh
 unix-user-names: a long list of [UNIX](http://www.unix.org) user name possibilities  
 vms-unix-commands: translation of [VMS](https://www.hpe.com/us/en/servers/openvms.html "HP Enterprise OpenVMS") commands to [UNIX](http://www.unix.org) equivalents  
 vt100-codes-chart: [VT100](https://www.vt100.net/) and VT52 Compatable Modes ESCape Codes Chart  
+zsh-builtin-funcs: Z shell builtin functions as revealed by the enable builtin  

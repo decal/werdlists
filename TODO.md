@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* system-calls => linux-data, opersys-strs => software-strs, polyglot-files => webapp-attacks
+* Write manual page for werdlists itself, or scripts it uses
 * Write `sed` script to simplify URL's in markdown
 * Make a file like `windows-data/security-advisories-2017.txt`, but with all years
 * Move `INDEX.md` into the bottom of `README.md` as a markdown table..
