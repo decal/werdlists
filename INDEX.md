@@ -54,13 +54,11 @@ net-attacks: Info about attacks on networks and applications
 net-ifaces: :three-networked-computers: Detailed information which can be extracted from network interfaces    
 ntfs-paths: Path names expected to be seen in NT file system folders    
 nvd-data: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
-opersys-strs: Strings that relate to one operating system or another     
 owasp-data: :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")    
 passes-dicts: :key: Dictionary files used in [brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack) against account passwords    
 passes-sites: :open-lock: Password lists that were publicized after major site compromises    
 perl-data: :dromedary-camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)     
 php-data: :page-facing-up: Files containing information about the [PHP](http://www.php.net) programming language    
-polyglot-files: Files having contents of multiple MIME types like [GIFAR's](https://en.wikipedia.org/wiki/Gifar "Graphics Interchange Format Java Archives")  
 postal-data: :open-mailbox-with-raised-flag: [United States Postal Service](https://www.usps.com/) information
 python-data: :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime    
 radio-data: :radio: Things commonly used in radio frequency transmissions    
@@ -74,15 +72,16 @@ software-strs: Strings found in multi-user software packages
 ssltls-proto: SSLv2/3 and TLSv1+ (transport layer/secure sockets) protocol stuff  
 string-enums: Enumerations of values that aren't too terribly unusual  
 system-admin: :male-technologist: System administration and [BOFH](https://en.wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
-system-calls: System calls info for functions that execute in [ring0](https://en.wikipedia.org/wiki/Protection_ring "Protection ring")  
 system-notices: Disclaimer/warning messages shown by networked computer systems  
 telco-data: :fax-machine: Data on voice-based telecommunications technologies: [POTS](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://en.wikipedia.org/wiki/SMS "Short Message Service") etc.
+text-files: a special kind of "text file" as in those archived at [textfiles.com](https://textfiles.com), i.e. old school zine articles
 text-words: :speech-balloon: Lists of words likely to be found in an actual hard copy dictionary  
 top-secret: :zipper-mouth-face: Files and/or data related to documents that were/are classified  
 unicode-art: Unicode art pieces (i.e. requires wide character symbols)  
 unicode-data: Info on [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  
 unix-data: :spiral-shell: Data associated with various flavors of the UNIX OS and its clones  
 unix-paths: File path names found in various [UNIX file systems](https://en.wikipedia.org/wiki/Unix_File_System)  
+uri-attacks: Malicious URI materials specially crafted for attack targets  
 uri-schemes: :link-symbol: Lists containing references for [URI schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) (part before colon)    
 uri-data: [Universal Resource Identifier](https://www.w3.org/Addressing/#background "Learning About URI's") related data  
 vuln-data: :bar-chart: Information about security vulnerabilities found in server software  

@@ -14,6 +14,9 @@ kernel-git-shortlog: Kernel authors taken from source tree's `git shortlog`
 libc-getconf-vars: system configuration variable values from [`getconf(1)`](https://linux.die.net/man/1/getconf "get configuration values")    
 linux-errno-constants: preprocessor constants/messages collection from `errno`  
 linux-syscall-names: A list of Linux system call identifiers from kernel code  
+system-calls-32bit: x86 ABI functions listed by trinity Linux syscall fuzzer  
+system-calls-64bit: x86_64 ABI functions listed by trinity Linux syscall fuzzer  
+system-calls-wsl: Windows Subsystem for Linux syscalls from MSDN Release notes  
 ubuntu-manual-pages: list of Ubuntu manual page names (without section numbers)  
 ubuntu-server-groups: common GID names found in [`/etc/group`](http://manpages.ubuntu.com/manpages/man5/group.5.html "user group file") on Ubuntu Server  
 ubuntu-server-users: common UID names found in [`/etc/passwd`](http://manpages.ubuntu.com/manpages/man5/passwd.5.html "the password file") on Ubuntu Server  

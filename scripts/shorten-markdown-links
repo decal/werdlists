@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #
-# Append two spaces to the end of each markdown line such that the generated
-# HTML contains a line break where intended..
+# Shorten hyperlinks within the markdown syntax of the given file
 #
 
 [ ! -d scripts ] && echo
@@ -21,7 +20,7 @@ if [ ! "$1" ]
   cp --version 2>&1
   echo -e "${reset}"
   echo -e "${yellowf}usage${boldon}:${reset} ${bluef}${ulon}$0${reset} ${greenb}MDFILE${reset}"
-  echo -e "  ${greenb}MDFILE${reset}  ${italicson}markdown file to normalize with line terminating spaces${reset}"
+  echo -e "  ${greenb}MDFILE${reset}  ${italicson}markdown file containing links to rewrite${reset}"
   echo 
 
   exit 1
@@ -29,16 +28,18 @@ fi
 
 echo -ne "${redf}"
 
-cp -v -- "$1" /tmp 2>&1
+cp -v -- "$1" "/tmp/${1}.${RANDOM}" 2>&1
 
 echo -e "${reset}"
 
 declare achar="$(echo '$1' | sed -r 's!([A-Z]{1}).*$!\1!g')"
 declare afile="${achar}.md"
 
-(while read line
-  do echo "${line}  "
-done) < "$1" > "$afile"
+sed 's!http://en.wikipedia.org!https://en.wikipedia.org!g' "$1" | \
+  sed 's!https://en.wikipedia.org!https://wikipedia.org!g' | \
+  sed 's!http://wikipedia.org!https://wikipedia.org!g' > "$afile"
+
+## TODO: 's!http://host.dom:80!http://host.dom!g' 's!https://host.dom:443!https://host.dom!g'
 
 echo -ne "${whitef}"
 

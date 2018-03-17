@@ -10,7 +10,8 @@
 # See Also:      create-all-lists
 #
 
-[ -f shared/colors ] && source -- shared/colors
+[ -f shared/colors ] && source shared/colors
+[ -f scripts/shared/colors ] && source scripts/shared/colors
 
 if [ ! -d webapp-files ]
   then cd ..
