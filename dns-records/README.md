@@ -5,13 +5,14 @@ dig-numeric-types: set arbitrary [dig](https://en.wikipedia.org/wiki/Dig_(comman
 dig-record-types: record types for the `IN` (INternet) resource record class  
 dnsmasq-chaos-txt: `CHAOS` `TXT` records specific to the [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) software  
 example-in-db: example IN class zone database from [BIND](https://www.isc.org/downloads/bind/) source tree under `bin/tests/system`  
-examplecom-in-soa: zone file with `IN` `SOA` record for `example.com.`  
+examplecom-in-soa: zone file with `IN SOA` record for `example.com.`  
 iana-record-types: record type strings as specified by [IANA](https://www.iana.org)     
-in-srv-names: names for `IN` `SRV` taken from nmap's `nselib/data/dns-srv-names`  
+in-srv-protocols: protocol names defined by [`IN SRV`] resource records 
+in-srv-services: service names defined by `IN SRV` resource records from [NMap](https://nmap.org) source tree data of [NSE script dns-srv-enum](https://nmap.org/nsedoc/scripts/dns-srv-enum.html) <https://github.com/nmap/nmap/blob/master/nselib/data/dns-srv-names>  
 nsupdate-record-types: record types used in [nsupdate](https://en.wikipedia.org/wiki/Nsupdate) protocol messages  
 record-classes-long: all record class strings as specified by [IANA](https://www.iana.org)  
 record-types-in: record types specific to the `IN` class   
 record-types-long: all record type strings specified by [IANA](https://www.iana.org) regardless of class  
-root-zone-records: [resource records](https://en.wikipedia.org/wiki/Domain_Name_System#DNS_resource_records) of varying types for top-level domains in the [DNS root zone](https://en.wikipedia.org/wiki/DNS_root_zone "DNS root zone")  
+root-zone-records: [resource records](https://en.wikipedia.org/wiki/Domain_Name_System#DNS_resource_records) of varying types for top-level domains in the [DNS root zone](https://wikipedia.org/wiki/DNS_root_zone)  
 suspect-networks-zone: [DNS RPZ](https://dnsrpz.info/ "DNS Response Policy Zones") for data from <http://suspect-networks.io>
 header-flag-codes: DNS query header flag field as defined by [RFC1035 section 4.1.1](https://tools.ietf.org/html/rfc1035#section-4.1.1)  

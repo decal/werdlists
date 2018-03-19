@@ -37,7 +37,6 @@ _ldap._tcp
 _ldap._tcp.dc._msdcs
 _ldap._tcp.gc._msdcs
 _ldap._tcp.pdc._msdcs
-_msdcs
 _mysqlsrv._tcp
 _nntp._tcp
 _ntp._udp
@@ -59,11 +58,8 @@ _ssh._tcp
 _stun._tcp
 _stun._udp
 _svcp._tcp
-_tcp
 _telnet._tcp
 _test._tcp
-_tls
-_udp
 _vlmcs._tcp
 _vlmcs._udp
 _whois._tcp
