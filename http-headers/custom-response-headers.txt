@@ -133,6 +133,8 @@ X-Version
 X-Vimeo-Device
 X-VServer
 X-W-DC
+X-W3C-Validator-Recursion
+X-W3C-Validator-Status
 X-Weave-Backoff
 X-WebKit-CSP
 X-WebCluster

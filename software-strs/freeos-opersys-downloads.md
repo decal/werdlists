@@ -1,0 +1,43 @@
+AdaOS None
+AROS <http://www.aros.org/download.php>
+AtheOS <http://www.atheos.cx/download/list.php3>
+BSD None
+Cefarix <http://sourceforge.net/projects/cefarix>
+Chaos <http://chaosdev.org/index.pl?chaos/Download>
+CP/M <http://www.seasip.demon.co.uk/Cpm/software/index.html>
+Darwin <http://www.opensource.apple.com/projects/darwin/release.html>
+DCP <http://www.kc85.de/downloads.html>
+Debian GNU/Hurd <http://www.debian.org/ports/hurd/hurd-cd>
+E.R.I.K.A <http://erika.sssup.it/download.shtml>
+eCos <http://ecos.sourceware.org/getstart.html>
+ELKS <http://elks.sourceforge.net/download/>
+ERaMS <http://erams.sourceforge.net/distrib.>
+EROS <http://www.eros-os.org/project/build.html>
+Fiasco <http://os.inf.tu-dresden.de/fiasco/download.html>
+Free-VMS ftp://freevms.nvg.org/pub/vms/freevms
+FreeBSD <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/mirrors.html>
+FreeDOS <http://www.freedos.org/freedos/files/>
+Freedows None
+Linux <http://www.linux.org>
+Menuet <http://www.menuetos.org/download.htm>
+Minix <http://www.cs.vu.nl/pub/minix/>
+MorphOS <http://www.morphos.de/fileslinks.php3>
+NetBSD <http://www.netbsd.org/Releases/>
+Oberon <http://www.oberon.ethz.ch/native/>
+OpenBEOS <http://sourceforge.net/projects/crux/>
+OpenBSD <http://www.openbsd.org/ftp.html>
+Plan 9 <http://plan9.bell-labs.com/plan9dist/download.html>
+PowerOS <http://www.poweros.de/download.html>
+QNX <http://get.qnx.com>
+ReactOS <http://www.reactos.com/index.php?tab=softwareion=reactos>
+RTEMS <http://www.rtems.com/RTEMS/Source/source.html>
+S.Ha.R.K <http://shark.sssup.it/download.html>
+SkyOS <http://www.skyos.org/downloads/>
+Solaris 8 <http://www.sun.com/solaris/binaries/get.html>
+Unununium None
+V2_OS <http://www.v2os.cx/>
+VSTa <http://vsta.sourceforge.net/>
+Winmac <http://sourceforge.net/projects/winmac>
+xMach <http://sourceforge.net/projects/xmach/>
+Yamit <http://yamit.sourceforge.net/download.html>
+ZotOS <http://members.tripod.com/~zot_os/public_html/download.html>

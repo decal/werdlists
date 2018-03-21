@@ -1,5 +1,8 @@
 bsd-symbol-list: symbols from strings'ing binaries on BSD operating systems  
 code-project-list: popular code projects, well-known dependencies, API's, etc.  
+freebsd-dns-tools: a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns>  
+freeos-opersys-list: comparison of free operating systems by freeos.com <http://www.freeos.com/Compare>  
+freeos-opersys-downloads: links to free operating system downloads by freeos.com <http://www.freeos.com/Downloads>  
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
 http-server-platforms: HTTP server software platform list  
 java-platform-list: list of Java platform names taken from `libs.xml` `unixActions.jar`  

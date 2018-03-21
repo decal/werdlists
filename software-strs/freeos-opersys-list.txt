@@ -1,0 +1,48 @@
+OS	License	Platform	Developement Status
+AdaOS	GPL/LGPL/GFDL	i386	Early stages
+AROS	AROS PUBLIC LICENSE	x86, Amiga, m68	Slow but Active.
+AtheOS	GPL	x86	This OS is being actively developed. Support Intel, AMD and other compatible processors.
+BSD	BSD	-	See OpenBSD/FreeBSD/NetBSD for development status.
+Cefarix	GPL	i386	The Project is inactive
+Chaos	BSD	x86	Since chaos is fairly new, the hardware support is rather limited.Not much documentation.
+CP/M	Freeware	68000, 8086	No development seems to be happening here. Caldera currently holds the rights to this OS. They have released the original source code but not under the GPL. Source code is available for CP/M 2 and 3 for the PCW16.
+Darwin	Apple Public Source	PowerPC	Quite active. Apple is working hard here and is also giving back a lot of code to the open source community. Support for the Intel platform is also planned.
+DCP	Unknown	x86	Development was discontinued in the early 90s.
+Debian GNU/Hurd	GNU GPL	x86	Actively developed. Debian GNU/Hurd is not officially released yet, and won't be for some time.
+E.R.I.K.A	GPL	x86	Not very active.
+eCos	GNU GPL	ARM, Hitachi H8300, Intel x86, MIPS, Matsushita AM3x, Motorola 68k, PowerPC, SuperH, SPARC and NEC V8xx	Very active.
+ELKS	GNU GPL	8086, 80286	Not very active.
+ERaMS	GPL	x86	Not very active
+EROS	GNU GPL	Intel 486 and higher	Code is complete, not very active.
+Fiasco	GPL	x86	Quite an active development project.
+Free-VMS	GNU GPL	x86	Development is slow.
+FreeBSD	BSD	x86, DEC Alpha, IA-64, PC-98 and UltraSPARC	It works on a wide platform and it is under active development and support.
+FreeBSD	BSD	x86, DEC Alpha, IA-64, PC-98 and UltraSPARC	It works on a wide platform and it is under active development and support.
+FreeDOS	GNU GPL	Intel	Very active. The site is up to date. Not as bad as most of the other free operating systems that seem to have sunk into oblivion. Still does not have multitasking, protected mode. Works under DosEmu.
+Freedows	GNU GPL	Intel	The project is almost dead. No development has happened recently.
+Linux	GPL	Intel, Alpha, SPARC, PowerPC	Very active. Some big names are behind it so expect a lot from this OS.
+Menuet	GPL	x86	Not very Active
+Minix	BSD	Intel	Minix is upto V2.0 but the page was last updated in 1996.
+MorphOS	Open Source	Amiga	The first release has been sent to some selected developers for evaluation on their hardware. There is a lot of expectation from this OS.
+NetBSD	BSD	alpha, amiga, arc, arm26, arm32, atari, bebox, cobalt, hp300, hpcmips, i386, luna68k, mac68k, macppc, mipsco, mvme68k, news68k, newsmips, next68k, ofppc, pc532, pmax, prep, sgimips, sh3, sparc, sparc64, sun3, vax, x68k	This is definitely an active project. New work is being done all the time and all documentation and FAQs are current. Release schedules are quite slow though.
+NetBSD	BSD	alpha, amiga, arc, arm26, arm32, atari, bebox, cobalt, hp300, hpcmips, i386, luna68k, mac68k, macppc, mipsco, mvme68k, news68k, newsmips, next68k, ofppc, pc532, pmax, prep, sgimips, sh3, sparc, sparc64, sun3, vax, x68k	This is definitely an active project. New work is being done all the time and all documentation and FAQs are current. Release schedules are quite slow though.
+Oberon	General ETH Oberon S	x86, Alpha	The project is very active.
+OpenBEOS	aq.php?list=all&prog	x86	This is the unofficial release ofter the original BEOS company got acquired. This is actively developed by fan followers.
+OpenBSD	BSD	Alpha, Amiga, HP300, i386, mac68k, mvme68k, pmax, powerpc,SPARC, sun3,vax	Active development with developers all round the world. The project is always on the lookout for more resources and help so see if you can get in and help them out.
+OpenBSD	BSD	Alpha, Amiga, HP300, i386, mac68k, mvme68k, pmax, powerpc,SPARC, sun3,vax	Active development with developers all round the world. The project is always on the lookout for more resources and help so see if you can get in and help them out.
+Plan 9	Plan 9	Intel, Mips, DEC Alpha, and Power PC	This OS was recently released to the open source community but it seems to have been a bit too late. There has not been much interest in this promising OS.
+PowerOS	Open Source	PowerPC	PowerOS is currently under development. Not very active
+QNX	QNX Open Community	x86	This was originally a commercial project. Definitely very well supported and very actively developed.
+ReactOS	GNU Copyleft	Intel	Actively developed.
+RTEMS	Open Source	Motorola PowerPC, M683x0, M680x0, Coldfire; Intel ix86, i960; MIPS R46x SPARC; Hitachi SH; AMD 29K; HP PA-RISC	Very active. Beta 4.5.0 was released on 23 May 2000. There is also a active development community behind this.
+S.Ha.R.K	GPL	x86	This project is very active.
+SkyOS	freeware		Version 5.0 is now available for distribution to beta testers. Users may download previous versions for free.
+Solaris 8	Solaris 8 BCL	Intel, Sparc	This is a very mature project. Actively developed and supported.
+Unununium	BSD	i386	This is being actively developed.
+V2_OS	GNU GPL	Intel i386	Quite an active project and some good code has come out of it too.
+VSTa	Copylefted	i386, Amiga 68030	Not very actively developed.
+Winmac	GPL	Intel	No files have been released as yet.
+xMach	LGPL	x86	There is a small developer team here and they're actively looking for more coders.
+xMach	LGPL	x86	There is a small developer team here and they're actively looking for more coders.
+Yamit	BSD		Early releases of the microkernel are available for download.
+ZotOS		x86	Not very active
