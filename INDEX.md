@@ -67,7 +67,7 @@ ruby-data: :gem: Data typically seen within the syntax of the [Ruby](https://www
 search-dorks: :right-pointing-magnifying-glass: General purpose search-engine queries likely to find insecure sites    
 smtp-messages: :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers    
 soap-messages: :bar-of-soap: [SOAP](https://en.wikipedia.org/wiki/SOAP "Simple Object Access Protocol") (Simple Object Access Protocol) messages  
-social-data: :speaking-head-in-silhouette: Data taken from popular social media web sites  
+social-data: :speaking-head-in-silhouette: Sociological or social media related data sets  
 software-strs: Strings found in multi-user software packages  
 ssltls-proto: SSLv2/3 and TLSv1+ (transport layer/secure sockets) protocol stuff  
 string-enums: Enumerations of values that aren't too terribly unusual  
