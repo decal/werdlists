@@ -1,0 +1,20 @@
+kind	sax	etree	minidom	pulldom	xmlrpc	lxml	genshi
+billion laughs	True	True	True	True	True	False (1)	False (5)
+quadratic blowup	True	True	True	True	True	True	False (5)
+external entity expansion (remote)	True	False (3)	False (4)	True	false	False (1)	False (5)
+external entity expansion (local file)	True	False (3)	False (4)	True	false	True	False (5)
+DTD retrieval	True	False	False	True	false	False (1)	False
+gzip bomb	False	False	False	False	True	partly (2)	False
+xpath support (7)	False	False	False	False	False	True	False
+xsl(t) support (7)	False	False	False	False	False	True	False
+xinclude support (7)	False	True (6)	False	False	False	True (6)	True
+C library	expat	expat	expat	expat	expat	libxml2	expat
+
+1. Lxml is protected against billion laughs attacks and doesn't do network lookups by default.
+2. libxml2 and lxml are not directly vulnerable to gzip decompression bombs but they don't protect you against them either.
+3. xml.etree doesn't expand entities and raises a ParserError when an entity occurs.
+4. minidom doesn't expand entities and simply returns the unexpanded entity verbatim.
+5. genshi.input of genshi 0.6 doesn't support entity expansion and raises a ParserError when an entity occurs.
+6. Library has (limited) XInclude support but requires an additional step to process inclusion.
+7. These are features but they may introduce exploitable holes, see Other things to consider
+

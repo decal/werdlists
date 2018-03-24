@@ -1,0 +1,26 @@
+Buffer Overflow Block invalid requests causing buffer overflow attacks (Compare subject length and maximum value)
+Cookie Poisoning Blocks the falsification of cookies containing authentication information
+Cross Site Scripting Blocks malicious script code having the possibility to be executed by the client
+Directory Listing Block the leakage of web sites directory and files
+Error Handling Controls error messages so as to avoid exposure of information about web server, WAS, DBMS server, etc
+Extension Filtering Blocks access of files which do not have permitted file extensions
+File Upload Blocks the upload of files which can be executed on the web server
+Include Injection Blocks the injection of untrustworthy files and external URIs
+Input Content Filtering Blocks or substitutes words that are not permitted on a website
+Invalid HTTP Blocks access not in compliance with HTTP standards
+Invalid URI Blocks access not in compliance with standard URI syntax
+IP Black List Blocks when more than the set value of access attempts from the same source IP are detected during a specific time (value set by user)
+IP Filtering Blocks access to a specific IP range or countries (set by user)
+Parameter Tampering Blocks attacks which send maliciously manipulated parameters to websites
+Privacy File Filtering Blocks leakage of private information from files transmitted from the web server
+Privacy Input Filtering Blocks leakage of private information via HTTP request
+Privacy Output Filtering Blocks leakage of private information via HTTP response
+Request Header Filtering Blocks HTTP requests having headers that have been abnormally modified
+Request Method Filtering Blocks risky HTTP request methods
+Response Header Filtering Blocks leakage of web server information via HTTP response
+SQL Injection Blocks requests to inject SQL Query statements
+Stealth Commanding Blocks requests to execute specific commands in the web server through HTTP Request
+Suspicious Access Blocks access which does not fit the standard web browser request
+Unicode Directory Traversal Blocks request of access to directory and files using vulnerabilities related to Unicode manipulation of the web server
+URI Access Control Controls requests of access to specific URIs and files
+Website Defacement Detects defacement of websites and recovers the web page

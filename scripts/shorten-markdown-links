@@ -37,7 +37,11 @@ declare afile="${achar}.md"
 
 sed 's!http://en.wikipedia.org!https://en.wikipedia.org!g' "$1" | \
   sed 's!https://en.wikipedia.org!https://wikipedia.org!g' | \
-  sed 's!http://wikipedia.org!https://wikipedia.org!g' > "$afile"
+  sed 's!http://wikipedia.org!https://wikipedia.org!g' | \
+  sed 's!http://www.gnu.org!https://www.gnu.org!g' | \
+  sed 's!https://www.gnu.org!https://gnu.org!g' | \ 
+  sed 's!http://gnu.org!https://gnu.org!g' | \
+  sed 's!https://www.iana.org!https://iana.org!g' > "$afile"
 
 ## TODO: 's!http://host.dom:80!http://host.dom!g' 's!https://host.dom:443!https://host.dom!g'
 

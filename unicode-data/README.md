@@ -6,6 +6,7 @@ unicode-emoji-test: provides data for testing which emoji forms should be in key
 unicode-emoji-variation: emoji variation sequences for [Unicode Technical Report #51](http://unicode.org/reports/tr51/)  
 unicode-emoji-zwj: emoji Zero Width Join sequences from [Unicode Technical Report #51](http://unicode.org/reports/tr51/)  
 unicode-emoticons: wide-character emoticons which may require Unicode [code pages](https://en.wikipedia.org/wiki/Code_page) to be viewed properly  
+unicode-character-list: a list of Unicode characters from `\u0000` through `\uffff`
 unicode-confusables-intentional: Unicode intentionally confusable symbols  
 unicode-confusables-list: Unicode list of confusable symbols  
 unicode-confusables-summary: Unicode summary of confusable symbols  

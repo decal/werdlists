@@ -53,7 +53,7 @@ opposed to directory contents. Each folder has a **subject** name and storage
 ### Naming Scheme, Syntax and Meaning Associated With File Extensions :speech_balloon:
 
 Most files have the `*.txt` extension signifying the `text/plain` [MIME type](https://en.wikipedia.org/wiki/Media_type)
-Other file extensions in use are: `*.csv`, `*.xml`, `*.html`, and `*.yml`
+Other file extensions in use are: `*.asc`, `*.csv`, `*.xml`, `*.html`, and `*.yml`
 These are for [Comma-Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
 [Extended Markup Language](https://en.wikipedia.org/wiki/XML) (`application/xml`),
 [Hyper Text Markup Language](https://en.wikipedia.org/wiki/HTML) (`application/html`), etc.

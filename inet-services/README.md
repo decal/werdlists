@@ -1,4 +1,5 @@
 bgp-looking-telnet: [BGP Looking Glass](https://www.bgp4.net/) telnet servers sampled from [Advanced Internet Routing Resources](http://www.bgp4.as)  
+cisco-joy-ports: <https://raw.githubusercontent.com/cisco/joy/master/data/ports.txt>  
 curl-config-protos: output displayed when executing `curl-config --protocols`  
 nmap-services-file: [NMap's Well-Known Port List](https://nmap.org/book/nmap-services.html) `nmap-services` file  
 oracle-port-list: [Oracle App Server Install Guide Default Port Numbers](https://docs.oracle.com/cd/B14101_13/install.1012/install/ports.htm)   
