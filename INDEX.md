@@ -8,22 +8,22 @@ chat-data: :mouth: Additional data on [IRC](https://en.wikipedia.org/wiki/Intern
 cipher-data: Data denoting or used by [cryptographic algorithm](https://en.wikipedia.org/wiki/Category:Cryptographic_algorithms) implementations  
 cmd-usage: Help text shown in a terminal when attempting to execute [CLI](https://en.wikipedia.org/wiki/Command-line_interface "Command-line interface") programs  
 cms-errors: Error codes and/or messages rendered by a [CMS](https://en.wikipedia.org/wiki/Content_management_system "Content Management System")  
-code-keywords: Identifiers known as reserved words in programming language specs  
-cpu-arch: things pertaining to low-level computer architecture
-crypt-output: The cipher text output created by cryptographic functions  
-dbase-strs: Strings often encountered when working with database software  
-dialup-modems: Info about modems on the plain old (e.g. analog) telephone system  
-dns-commands: Commands, packages, utilities, etc. used for Domain Name Service   
+code-keywords: [Computer language](https://en.wikipedia.org/wiki/Computer_language) identifiers declared in defining standards including [reserved words](https://en.wikipedia.org/wiki/Reserved_word)  
+cpu-arch: Low-level computer architecture and hardware subjects 
+crypt-output: Cipher text string outputs created by [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)  
+dbase-strs: Strings often encountered when working with [database](https://en.wikipedia.org/wiki/Database) software  
+dialup-modems: Info about analog [modems](https://en.wikipedia.org/wiki/Modem) on [POTS](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain Old Telephone Service")  
+dns-commands: Commands, packages, utilities, etc. used by the [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)  
 dns-domains: A list of domains that may or may not be found in the live DNS tree  
-dns-hostnames: The host name part of an FQDN (Fully Qualified Domain Name)  
-dns-records: Data specific to RR's (Resource Records) in the DNS system  
+dns-hostnames: The host name part of an [FQDN](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully Qualified Domain Name")  
+dns-records: Data specific to [RR's](http://www.freesoft.org/CIE/Topics/78.htm "Resource Records") in the DNS system  
 dns-servers: Data provided to, produced by or related to DNS name servers  
-dns-toplevel: TLD's or Top Level Domains are the uppermost part of DNS hierarchy  
+dns-toplevel: TLD's or [Top Level Domains](https://en.wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
 environ-infos: Details pertaining to a machine's OS runtime environment  
-environ-names: Environment variable names as encountered at the shell prompt  
+environ-names: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) names as encountered at the shell prompt  
 environ-values: Environment variable values as encountered as the shell prompt  
 exploit-info: Technical information on exploitation of security vulnerabilities  
-file-extens: File extensions, i.e. the part after the period in a file name  
+file-extens: Anything concerning [Filename extension](https://en.wikipedia.org/wiki/Filename_extension), i.e. the part after the period in a file name  
 file-specs: [File format](https://wikipedia.org/wiki/File_format) specifications as distributed by vendor(s)/author(s)  
 ftp-data: Various [FTP](https://wikipedia.org/wiki/File_Transfer_Protocol "File Transfer Protocol") datum from RFC's and elsewhere  
 glibc-data: Data taken from the source code of the [GNU C Library](https://gnu.org/software/libc/ "glibc")  
@@ -42,17 +42,17 @@ inet-routes: Data useful in the maintenance and use of an Internet [routing tabl
 inet-services: Lists of Internet protocols/daemons--similar to `/etc/services`    
 infosec-people: Noteworthy individuals within the information security community    
 ios-data: Datum specific to [Cisco](https://cisco.com) IOS (Internetwork Operating System)     
-iso-codes: International Standardization Organization code numbers and such    
+iso-codes: [ISO](https://iso.org "International Standardization Organization") code numbers and such    
 java-data: Data found in or related to source code of programs written with [Java](https://java.com)  
 libc-data: data for or about programming with the [C standard library](https://en.wikipedia.org/wiki/C_standard_library "C standard library")  
 link-layer: Info concerning OSI layer 2 also known as the link layer (below IP)    
 linux-data: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system    
-linux-paths: Path names found on [file systems](https://en.wikipedia.org/wiki/File_system) created by Linux installations    
-malware-iocs: Indicators of Compromise for identification of malware infections  
+linux-paths: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://en.wikipedia.org/wiki/File_system) created by Linux installations    
+malware-iocs: [IOC](https://en.wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 mobile-devs: :mobile-phone: Miscellaneous items and objects found within [mobile devices](https://wikipedia.org/wiki/Mobile_device)  
 net-attacks: Info about attacks on telecommunications and Internetworks
 net-ifaces: :three-networked-computers: Detailed information which can be extracted from network interfaces    
-ntfs-paths: Path names expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders    
+ntfs-paths: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders    
 nvd-data: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 owasp-data: :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")    
 passes-dicts: :key: Dictionary files used in [brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack) against account passwords    

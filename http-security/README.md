@@ -8,15 +8,17 @@ content-policy-sources: Content Security Policy sources via [CSP.com](https://co
 csp-header-apache: `Content-Security-Policy` HTTP response header Apache config  
 csp-header-iis: `Content-Security-Policy` HTTP response header IIS config  
 csp-header-nginx: `Content-Security-Policy` HTTP response header NGINX config  
+danwin1210-onion-links: <https://danwin1210.me/onions.php?format=text>
 dirsearch-words-list: words parsed from the dirsearch tool's `dict.txt` file  
 example-uri-refs: Example URI's from the RFC3986 URI specification issues list  
 mozilla-cacerts-list: Info and PEM's on Certificate Authorities used by Mozilla   
 onion-links-list: List of onion sites verified in 2017 left on `pastebin.com`  
 proc-model-defs: [https://html.spec.whatwg.org/multipage/webappapis.html#definitions-2]("")  
-rails-secret-tokens: Ruby on Rails secret authorization token string values  
-referrer-policy-directives: W3C Referrer Policy directives from HTTP replies  
+rails-secret-tokens: [Ruby on Rails](http://rubyonrails.org) secret authorization token string values  
+referrer-policy-directives: [Referrer Policy](https://www.w3.org/TR/referrer-policy/) directives 
 rfc1918-common-addrs: [RFC1918](https://tools.ietf.org/html/rfc1918 "Address Allocations for Private Internets") based [IPv4 private network address spaces](https://en.wikipedia.org/wiki/Private_network#Private_IPv4_address_spaces) for [SSRF](https://www.owasp.org/index.php/Server_Side_Request_Forgery) attacks  
 snort-http-inspect: Snort HTTP inspect module global configuration variables  
+transport-security-state: [HSTS](https://www.chromium.org/hsts "HTTP Strict Transport Security") preloaded list in machine-readable format <https://cs.chromium.org/chromium/src/net/http/transport_security_state_static.json>  
 uri-spec-issues: Messages to the URI-WG mailing list about ambiguous URI syntax  
 variable-name-strings: Commonly lucrative HTTP GET query variable names  
 variable-value-strings: Typical HTTP GET query variable values  

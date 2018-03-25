@@ -14,7 +14,6 @@ macos-commmands-ss64: macOS commands list taken from [ss64.com](https://ss64.com
 macosx-brew-commands: commands available on a [MacOSX](https://en.wikipedia.org/wiki/MacOS) install with [Homebrew](https://brew.sh/) packages installed  
 macosx-server-group: common GID names found in `/etc/group` on [MacOSX](https://en.wikipedia.org/wiki/MacOS)     
 macosx-server-users: common UID names found in `/etc/passwd` on [MacOSX](https://en.wikipedia.org/wiki/MacOS)    
-msdos-command-list: list of [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS "MicroSoft Disk Operating System") commands  
 netbsd-error-strings: strings returned by C99 function [`strerror`](http://netbsd.gw.com/cgi-bin/man-cgi?strerror "system error messages") on [NetBSD](http://www.netbsd.com)    
 netbsd-procfs-paths: names of files located under the `/proc` directory on [NetBSD](http://www.netbsd.com)      
 netbsd-setid-files: set-ID file names only (i.e. [`basename`](http://netbsd.gw.com/cgi-bin/man-cgi?basename "return filename or directory portion of pathname")) from [NetBSD](http://www.netbsd.com)    

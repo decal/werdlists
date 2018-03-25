@@ -1,5 +1,6 @@
 anti-virus-software: list of Anti-Virus software suites groked from [VirusTotal](https://www.virustotal.com)  
 dns-system-files: cleaned up output of `dir/s C:\Windows\*dns*`  
+msdos-command-list: list of [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS "MicroSoft Disk Operating System") commands  
 netsh-trace-providers: names of various network services that can be traced  
 peid-headers-userdb: packer patterns used by the [PeID](https://www.aldeid.com/wiki/PEiD) utility <http://handlers.sans.org/jclausing/userdb.txt>   
 powershell-cmdlet-list: Microsoft Windows [PowerShell](https://docs.microsoft.com/powershell) cmdlet list  

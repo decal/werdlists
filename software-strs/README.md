@@ -6,6 +6,7 @@ freeos-opersys-downloads: links to free operating system downloads by freeos.com
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
 http-server-platforms: HTTP server software platform list  
 java-platform-list: list of Java platform names taken from `libs.xml` `unixActions.jar`  
+kamilio-features-list: <https://www.kamailio.org/w/features/>  
 libressl-function-symbols: symbols for SSL functions from `libressl-portable`  
 linux-distribution-list: list of Linux distribution names taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm>  
 macos-homebrew-list: list of [macOS homebrew](https://brew.sh) package names  

@@ -4,6 +4,9 @@ ascii-world-map: <http://plewylli.sdf-eu.org/help.shtml#asciimap>
 dec-vt100-demo: <ftp://ftp.freeshell.org/pub/computers/vt100/vt100.demo>  
 digital-logic-gates: symbols for fundamental [logic gates](https://wikipedia.org/wiki/Logic_gate) in digital electronic schematics  
 dumb-terminal-tube: ASCII art version of a [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation") monochrome thin client like the [VT220](https://en.wikipedia.org/wiki/VT220)  
+micah-trollwot-diamond: <https://github.com/micahflee/trollwot/blob/master/ascii_art/diamond.txt>  
+micah-trollwot-eff: <https://github.com/micahflee/trollwot/blob/master/ascii_art/eff.txt>  
+micah-trollwot-micah: <https://github.com/micahflee/trollwot/blob/master/ascii_art/micah.txt>  
 periodic-table-elements: Periodic table of elements <https://wiki.fysik.dtu.dk/gpaw/setups/setups.html#periodic-table>
-shadowed-box-drawings: Pretty self-explanatory
+shadowed-box-drawing: Pretty self-explanatory
 smtp-enhanced-codes: SMTP Enhanced Status Code Registry <https://tools.ietf.org/html/rfc5248>
