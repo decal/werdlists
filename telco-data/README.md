@@ -1,4 +1,5 @@
-areacode-da(http://itu.int)  tabase-cols: Describes columns in [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association") area codes database below  
+ansi-t1-refslist: <https://web.archive.org/web/20060929025357fw_/http://www.its.bldrdoc.gov/projects/devglossary/t1g-forw.html>  
+areacode-database-cols: Describes columns in [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association") area codes database below  
 areacode-database-rows: Database containing details on area codes from [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association")  
 att-800-numbers: businesses with 800 numbers from [AT&T](https://www.att.net "American Telephone and Telegraph")  
 areacode-states-locations: Information about area codes in the United States  

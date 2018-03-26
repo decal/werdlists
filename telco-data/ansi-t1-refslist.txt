@@ -1,0 +1,98 @@
+ANSI T1 References List
+
+Numerical List of ANSI T1 Standards and T1 Reports cited in this glossary:
+
+Note: The T1-cited terms defined herein are as used in the standards developed by Committee T1. The same terms may be used in a different context with a different meaning.
+
+Standard/Report Number, Title of the ANSI T1 Standard (R = reaffirmed)
+
+T1A1.2-2000 -- T1A1/2 Proposed Definitions for Baseline Document T1A1.2/2000-002
+T1.101-1999 -- Synchronization Interface Standard
+T1.104-1991 (R1997) -- Exchange-Interexchange Carrier Interfaces-Individual Channel Signaling Protocols
+T1.105.03-1994 -- Synchronous Optical Network (SONET)-Jitter at Network Interfaces
+T1.105.09-1996 -- Synchronized Optical Network (SONET) Network Element Timing and Synchronization
+T1.110-1999 -- Signalling System No. 7 (SS7)-General Information
+T1.118-1992 (R1997) -- Signalling System No. 7 (SS7)-Intermediate Signalling Network Identification (ISNI)
+T1.204-1992 (R1997) -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Lower-Layer Protocols for Interfaces between Operations Systems and Network Elements
+T1.206-1994 -- Digital Exchanges and PBXs-Digital Circuit Loopback Test Line with NxDSO Capability
+T1.207-2000 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Terminating Test Line Access and Capabilities
+T1.209-1998 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Network Tones and Announcements
+T1.210-1989 and 1993 (R1999) -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Principles of Functions, Architectures, and Protocols for Interfaces between Operations Systems and Network Elements
+T1.213-1990 (R1996) -- Coded Identification of Equipment Entities of the North American Telecommunications System for Information Exchange
+T1.215-1990 and 1994 -- Operations, Administration, Maintenance and Provisioning (OAM&P;)-Fault Management Messages for Interfaces between Operations Systems and Network Elements
+T1.216-1990 and 1998 -- Signalling System Number 7 (SS7)-Operations, Maintenance and Administration Part (OAM&P;)
+T1.217-1991 (R1998) -- Integrated Services Digital Network (ISDN) Management-Primary Rate Physical Layer
+T1.218-1991 (R1999) -- Integrated Services Digital Network (ISDN) Management-Data-Link and Network Layers
+T1.222-1991 (replaced by T1.251-1996) -- Identification of Exchange Carrier Company Names and Codes for the North American Telecommunications System
+T1.223.1991 (R1997) -- Information Interchange-Structure and Representation of Network Channel (NC) and Network Channel Interface (NCI) Codes for the North American Telecommunications System
+T1.224-1992 (withdrawn) -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Protocols for Interfaces between Operations Systems in Different Jurisdictions
+T1.226-1992 -- Operations, Administration, Maintenance and Provisioning (OAM&P;)-Management of Functions for Signalling System No. 7 (SS7) Network Interconnections
+T1.230-1994 (R1999) -- Telecommunications Credit Card and Billed Number Screening Validation Message Component
+T1.231-1997 -- Digital Hierarchy-Layer 1 In-Service Digital Transmission Performance Monitoring
+T1.232-1996 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-G Interface Specification for Use with the Telecommunications Management Network (TMN)
+T1.233-1993 (R1999) -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Security Framework for Telecommunications Management Network (TMN) Interfaces
+T1.234-1993 -- Signalling System Number 7 (SS7)-MTP Levels 2 and 3 Compatibility Testing
+T1.235-1993 -- Signalling System Number 7 (SS7)-SCCP Class 0 Compatibility Testing
+T1.236-1993 -- Signalling System Number 7 (SS7)-ISDN User Part Compatibility Testing
+T1.238-1994 and 1997 -- Information Interchange-Structure for the Identification of Telecommunications Facilities for the North American Telecommunications System
+T1.243-1995 (R1999) -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Baseline Security Requirements for the Telecommunications Management Network
+T1.244-1995 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Interface Standards for Personal Communications Services
+T1.245-1997 -- Directory Service for Telecommunications Management Network (TMN) and Synchronous Optical Network (SONET)
+T1.246-1998 and 1999 -- Operations, Administration, Maintenance and Provisioning (OAM&P;)-Information Model and Services for Interfaces between Operations Systems Across Jurisdictional Boundaries to Support Configuration Management Customer Account Record Exchange (CARE)
+T1.250-1996 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Extension to Generic Network Information Model for Interfaces Between Operations Systems and Network Elements to Support Configuration Management-Analog and Narrowband ISDN Customer Service Provisioning
+T1.251-1996 -- Identification of Telecommunications Service Provider Codes for the North American Telecommunications System
+T1.253-1999 -- Information Interchange-Code Description and Codes for the Identification of Location Entities for the North American Telecommunications System
+T1.255-1997 -- In-Service, Non-Intrusive Measurement Device (INMD)-Methodology for Applying INMD Measurements to Customer Opinion Models
+T1.256-1999 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Model for Interface Across Jurisdictional Boundaries to Support Electronic Access Service Ordering: Inquiry Function
+T1.263-1998 -- Operations, Administration, Maintenance, and Provisioning (OAM&P;)-Model for Interfaces Across Jurisdictional Boundaries to Support Service-Level Connection Management
+T1.266-2000 -- Information Interchange-Structure for the Identification of Telecommunications Circuits for the North American Telecommunications System
+T1.305-1990 (withdrawn) -- Digital Processing of Program Audio Signals-Algorithm for 15-kHz Audio at 384 kbit/s using 14/11 Bit Coding
+T1.308-1996 -- Central Office Equipment-Electrostatic Discharge Immunity Requirements
+T1.309-1990 (withdrawn) -- Digital Circuit Multiplication Equipment (DCME)-Interface Functional and Performance Specification
+T1.310-1991 (withdrawn) -- Digital Processing of Voice-Band Signals-Algorithms for 5-, 4-, 3-, and 2-bit/Sample Embedded Adaptive Differential Pulse Code Modulation (ADPCM)
+T1.312-1991 (R1997) -- Voice Packetization-Packetized Voice Protocol
+T1.313-1997 -- Electrical Protection for Telecommunications Central Offices and Similar Type Facilities
+T1.316-1997 -- Electrical Protection of Telecommunications Outside Plant
+T1.317-1993 (R1999) -- Uniform Language for Accessing Power Plants-Human-Machine Language
+T1.318-2000 -- Electrical Protection Applied to Telecommunications Network Plant at Entrances to Customer Structures or Buildings
+T1.320-1994 -- Above-Baseline Electrical Protection for Designated Telecommunications Central Offices and Similar-Type Facilities against High-Altitude Electromagnetic Pulse (HEMP)
+T1.321-1995 -- Electrical Protection for Network Operator-Type Equipment Positions
+T1.328-1995 -- Protection of Telecommunications Links from Physical Stress and Radiation Effects and Associated Requirements for DC Power Systems (A Baseline Standard)
+T1.329-1995 -- Network Equipment-Earthquake Resistance
+T1.330-1997 -- Valve-Regulated Lead-Acid Batteries Used in the Telecommunications Environment
+T1.401.03-1998 -- Network-to-Customer Installation Interfaces-Analog Voicegrade Switched Access Lines with Calling Number Delivery, Calling Name Delivery or Visual Message-Waiting Indicator Features
+T1.407-1997 -- Network to Customer Installation Interfaces-Analog Voicegrade Special Access Lines Using Customer-Installation-Provided Loop-Start Supervision
+T1.408-1990 -- (replaced by T1.403.01-1999) Integrated Services Digital Network (ISDN) Primary Rate-Customer Installation Metallic Interfaces Layer 1 Specification
+T1.409-1996 -- Network to Customer Installation Interfaces-Analog Voicegrade Special Access Lines Using E&M; Signaling
+T1.414-1998 -- Network to Customer Interfaces-Enhanced 911 Analog Voicegrade PSAP Access Using Loop Reverse-Battery Signaling
+T1.503-1996 -- Network Performance Parameters for Dedicated Digital Services-Definitions and Measurements
+T1.507-1996 -- Network Performance Parameters for Circuit-Switched Digital Services-Definitions and Measurements
+T1.508-1998 -- Loss Plan for Evolving Digital Networks
+T1.509-1995 (R1999) -- Packetized Circuit Multiplication Equipment-Interface Specification
+T1.514-1995 -- Network Performance Parameters and Objectives for Dedicated Digital Services-SONET Bit Rates
+T1.601-1988 (R1999) -- Integrated Services Digital Network-Basic Access Interface for Use on Metallic Loops for Application on the Network Side of the NT (Layer 1 Specification)
+T1.615-1992 (R1999) -- Digital Subscriber Signalling System No. 1 (DSS1)-Layer 3 Overview
+T1.620-1991 (R1997) -- Integrated Services Digital Network (ISDN)-Circuit-Mode Bearer Service Category Description
+T1.625-1993 (R1999) -- Integrated Services Digital Network (ISDN)-Calling Line Identification Presentation and Restriction Supplementary Services
+T1.627-1993 (R1999) -- Broadband ISDN-ATM Layer Functionality and Specification
+T1.628-1993 -- Routing, Bridging, and Transfer of Emergency Service Calls (RBTESC)
+T1.629-1999 -- Broadband ISDN-ATM Adaptation Layer 3/4 Common Part- Functions and Specification
+T1.630-1999 -- Broadband ISDN-ATM Adaptation Layer for Constant Bit Rate Services Functionality and Specification
+T1.640-1996 -- Broadband ISDN Network Node Interfaces and Inter-Network Interfaces-Rates and Formats Specifications
+T1.646-1995 (supercedes T1.624-1993) -- Broadband ISDN-Physical Layer Specification for User-Network Interfaces Including DS1/ATM
+T1.647-1995 -- Integrated Services Digital Network (ISDN)-Conference Calling Supplementary Service
+T1.649-1995 -- B-ISDN Cell Relay Service Description
+T1.653-1996 -- Integrated Services Digital Network (ISDN)-Call Park Supplementary Service
+T1.661-1997 -- Signalling System Number 7 (SS7)-Release to Pivot (RTP)
+T1.667-1999 -- Intelligent Network
+T1.701-1994 (R1999) -- Universal Personal Telecommunication (UPT)-Service Description (Service Set One)
+T1.702-1995 -- Personal Communications Terminology
+T1.707-1998 -- Requirements for a User Identity Module (UIM) for Personal Communications Services (PCS)
+T1.708-1998 -- PCS 1900 Service Provider Number Portability
+T1.711-1999 -- Number Portability for PCS 1900 Short Message Service and Other Services
+T1.800.01-1995 -- Visual Telephone Systems and Terminal Equipment Using Digital Channels up to 1920 kbit/s
+T1.800.06-1995 -- Multipoint Control Units for Audiovisual Systems Using Digital Channels up to 1920 kbit/s
+T1.800.08-1995 -- Multimedia Communications and Performance
+T1.801.02-1996 -- Digital Transport of Video Teleconferencing/Video Telephony Signals-Performance Terms, Definitions, and Examples
+T1.801.04-1997 -- Multimedia Communications Delay, Synchronization, and Frame Rate
+T1.X1 -- Definitions provided by T1X1 from their experts on synchronization and timing.
