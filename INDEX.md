@@ -56,8 +56,8 @@ ntfs-paths: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa36
 nvd-data: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 owasp-data: :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")    
 passes-dicts: :key: Dictionary files used in [brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack) against account passwords    
-passes-sites: :open-lock: Password lists that were publicized after major site compromises    
-perl-data: :dromedary-camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)     
+passes-sites: :unlock: Password lists that were publicized after major site compromises    
+:dromedary-camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)     
 php-data: :page-facing-up: Files containing information about the [PHP](http://www.php.net) programming language    
 postal-data: :open-mailbox-with-raised-flag: [United States Postal Service](https://www.usps.com/) information
 python-data: :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime    

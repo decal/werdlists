@@ -53,7 +53,7 @@ about:newtab
 about:noadd-ons
 about:noadd-onsinfo
 about:offlineinformation
-about:opera
+about:overview
 about:permissions
 about:plugins
 about:postnotcached
@@ -61,10 +61,12 @@ about:preferences
 about:privatebrowsing
 about:rights
 about:robots
+about:sandbox
 about:securityrisk
 about:sessionrestore
 about:shorthang
 about:srcdoc
+about:start
 about:startpage
 about:stats
 about:support

@@ -11,6 +11,7 @@ webapp-code-execution: HTTP GET queries that may result in remote code execution
 webapp-sql-injection: [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) query fragments for [SQL injection](https://www.owasp.org/index.php/SQL_Injection) testing  
 webapp-xss-scripts: [JavaScript](https://en.wikipedia.org/wiki/JavaScript) code fragments for testing [Cross-Site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29)    
 wordpress-plugin-vulns: list of [WordPress](https://www.wordpress.com) plugins with versions that have publicly known vulnerabilities  
+xml-vulns-attacks: sample attack syntaxes that exploit common XML vulnerabilities  
 xss-bypass-filter: [rvrsh3ll](https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec "xxsfilterbypass.lst")  
 xss-payloads-misc: miscellaneous XSS payloads from <http://xssor.io/s/payload/xssmisc.txt>  
 xss-vectors-zephrfish: XSS Vectors.txt from [ZephrFish](https://blog.zsec.uk/) user on [GitHub](https://github.com/zephrfish)  

@@ -1,0 +1,38 @@
+Anheuser-Busch
+Abbott Laboratories
+AstraZeneca
+BNP Paribas
+Boeing
+British Petroleum
+Comcast
+Commerzbank
+FedEx
+General Electric
+GlaxoSmithKline
+Humana
+ING
+Intel
+JPMorgan Chase
+Allianz
+AXA
+Chevron
+Citigroup
+Deutsche Post
+Hewlett-Packard
+McKesson
+Nestle
+Royal Bank of Scotland
+Repsol
+Royal Dutch Shell
+Statoil
+Vodafone
+Volkswagen
+Microsoft
+NEC
+Sanofi
+Sony
+Siemens
+Verizon
+Volvo
+WebMD
+Wells Fargo

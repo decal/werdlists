@@ -4,6 +4,9 @@ google-strings-list: very long list of strings parsed from Google [SERP's](https
 npm-modules-list: [NodeJS](https://nodejs.org) modules list from `~/node_modules` directory  
 percent-encoding-double: all one-byte values doubly percent-encoded  
 percent-encoding-single: all one-byte values encoded in percent-encoding style  
+secureblackbox-activex-control: <https://www.secureblackbox.com/kb/help/ref_dc_activex.html>  
+secureblackbox-flex-control: <https://www.secureblackbox.com/kb/help/ref_dc_flex.html>  
+secureblackbox-java-applet: <https://www.secureblackbox.com/kb/help/ref_dc_java.html>  
 siteminder-authreason-codes: SiteMinder AUTHREASON query parameter values..  
 wahh-tasks-checklist: Web Application Hacker's Handbook tasks checklist   
 wahh-test-method: Web Application Hacker's Handbook test methodology  
