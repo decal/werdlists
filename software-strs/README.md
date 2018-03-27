@@ -14,6 +14,7 @@ macports-titles-list: [MacPorts](https://www.macports.org) software titles list
 opensrc-softlic-compare: Comparison of text from popular [open source software licenses](https://opensource.org/licenses)  
 operating-system-list: a list of computer operating systems taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm>  
 opsys-names-list: list of many operating system names  
+perfect-software-attributes: Perfect software attributes.. (Supposed Web 3.0 features) <http://pgl.yoyo.org/web3.0/intro.php>  
 perl-release-dates: [Perl](https://www.perl.org) version strings and their corresponding release dates  
 program-language-designed: List of design reasons for programming languages   
 rfceditor-abbrevs-list: January 2018 RFC Editor Abbreviations List from <https://www.rfc-editor.org/materials/abbrev.expansion.txt>  

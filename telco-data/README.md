@@ -10,6 +10,7 @@ country-code-org: CSV data file taken from <http://countrycodes.org>
 country-exit-codes: international exit codes by country sorted alphabetically  
 country-service-restrictions: an outline of services missing in each country  
 geographical-codes-numerical: Geographical codes from [ITU-T](https://www.itu.int "International Telecommunication Union") (numerical order)  
+itu-cybersecurity-definition: Cybersecurity as defined by the [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union)  
 itu-mobile-glossary: Glossary of mobile terms published by [ITU-T](https://www.itu.int "International Telecommunication Union")  
 itu-mobile-glossary: [ITU-T](https://www.itu.int "International Telecommunication Union") Glossary of Mobile Terms  
 mobile-codes-alphabetical: alphabetized mobile or geographical area codes   
@@ -19,6 +20,7 @@ mobile-operator-churn: CSV describing account churn of Mobile telecom operators
 nanpa-class-codes: [NANPA](https://www.nationalnanpa.com "North American Numbering Plan Association") vertical service code assignments  
 national-network-tones: Specifications/meanings of tones by country via [ITU-T](https://www.itu.int "International Telecommunication Union")  
 sdf-outbound-rates: CSV of outbound [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP "Voice over IP") rates taken from the SDF FTP server  
+security-roadmap-taxonomy: <https://www.itu.int/en/ITU-T/studygroups/2013-2016/17/ict/Pages/ict-part02.aspx>  
 sms2email-mailer-records: Cellular carriers' SMTP gateways for SMS messages  
 sms-spam-collection: various unsolicited commercial SMS messages in the UK  
 star-codes-list: like `vertical-service-codedefs` entry below, but with more codes listed and briefer descriptions

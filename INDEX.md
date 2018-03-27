@@ -18,10 +18,8 @@ dns-domains: A list of domains that may or may not be found in the live DNS tree
 dns-hostnames: The host name part of an [FQDN](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "Fully Qualified Domain Name")  
 dns-records: :ticket: Data specific to [RR's](http://www.freesoft.org/CIE/Topics/78.htm "Resource Records") in the DNS system  
 dns-servers: Data provided to, produced by or related to DNS name servers  
-dns-toplevel: TLD's or [Top Level Domains](https://en.wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
-environ-infos: Details pertaining to a machine's OS runtime environment  
-environ-names: :tent: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) names as encountered at the shell prompt  
-environ-values: Environment variable values as encountered as the shell prompt  
+dns-toplevel: :top: TLD's or [Top Level Domains](https://en.wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
+environ-names: :tent: [Environment variable](https://en.wikipedia.org/wiki/Environment_variable) names, settings, etc.   
 exploit-info: :8ball: Technical information on exploitation of security vulnerabilities  
 file-extens: :anchor: Anything concerning [Filename extension](https://en.wikipedia.org/wiki/Filename_extension), i.e. the part after the period in a file name  
 file-specs: :file_folder: [File format](https://wikipedia.org/wiki/File_format) specifications as distributed by vendor(s)/author(s)  
@@ -47,7 +45,7 @@ libc-data: :factory: data for or about programming with the [C standard library]
 linux-data: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system    
 linux-paths: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://en.wikipedia.org/wiki/File_system) created by Linux installations    
 malware-iocs: :skull: [IOC](https://en.wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
-mobile-devs: :iphone: Miscellaneous items and objects found within [mobile devices](https://wikipedia.org/wiki/Mobile_device)  
+mobile-dev: :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factorsc
 net-attacks: :hotsprings: Info about attacks on telecommunications and Internetworks
 net-ifaces: :three-networked-computers: Detailed information which can be extracted from network interfaces    
 ntfs-paths: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders    
