@@ -11,7 +11,8 @@ eu-domain-names: DNSSEC recource records within the [.eu ccTLD](https://en.wikip
 face-book-doms: hostnames for FaceBook's bug bounty program  
 fbi-blackshades-domains: <https://info.publicintelligence.net/FBI-BlackshadesDomains.txt>  
 fr-domain-names: DNSSEC resource records within the [.fr ccTLD](https://en.wikipedia.org/wiki/.fr)  
-georgia-blacklists-malware: parsed from <http://blacklists.cert.gov.ge/malwaredomains.txt>
+georgia-blacklists-malware: parsed from <http://blacklists.cert.gov.ge/malwaredomains.txt>  
+goscanssh-domain-blacklist: The GoScanSSH tool will skip testing an IP address if the reverse lookup points to a parent domain in this list <https://blog.talosintelligence.com/2018/03/goscanssh-analysis.html>  
 gov-domain-names: DNSSEC resource records within the [.gov TLD](https://en.wikipedia.org/wiki/.gov)   
 gov-domain-names: various governmental domain names  
 ldns-walk-pgbs0dh: DNSSEC resource records for [IDNA](https://unicode.org/cldr/utility/idna.jsp "Unicode Utilities: Internationalized Domain Names (IDN)") encoded domain xn--pgbs0dh  

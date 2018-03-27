@@ -6,6 +6,7 @@ ether-type-codes: [Ethernet Codes master page](http://www.cavebear.com/archive/c
 ether-vendor-codes: [Ethernet Codes master page](http://www.cavebear.com/archive/cavebear/Ethernet/)  
 freed-ipv4-ranges: IPv4 Ranges Allocated by [RFC3330](https://tools.ietf.org/search/rfc3330#section-2 "Global and Other Specialized Address Blocks") and freed by [RFC5735](https://tools.ietf.org/search/rfc5735#appendix-A "Differences between This Document and RFC3330")  
 georgia-blacklists-suspicious: downloaded from <http://blacklists.cert.gov.ge/suspicioutIPs.txt>  
+goscanssh-ipaddr-blacklist: <https://blog.talosintelligence.com/2018/03/goscanssh-analysis.html>
 incapsula-cidr-blocks: IPv4 and IPv6 [CIDR blocks](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_blocks) occupied by the **Incapsula** WAF  
 malc0de-ip-blacklist: malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses")  
 malware-domain-ips: IP addresses from [Malware Domain List](https://www.malwaredomainlist.com)  

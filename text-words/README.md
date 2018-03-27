@@ -1,4 +1,5 @@
 acronyms-defined-dict: a dictionary of defined acronyms from technical jargon  
+alfred-hitchcock-movies: all films produced by [Alfred Hitchcock](http://www.imdb.com/name/nm0000033/ "Alfred Hitchcock - IMDb") <http://infolab.stanford.edu/pub/movies/Hitch.html>  
 buildings-word-list: list of words related to buildings from <http://domainsbot.com/Content/Data/terms/buildings.txt>  
 curse-words-list: _**Warning!**_ list of vulgar (i.e. "curse") words   
 english-top-1000: 1,000 most used words in the english language  

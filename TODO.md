@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* write script that converts Wikipedia article URL's with HTML tables to markdown tables
 * script that shortens URL's (removes en. subdomain from Wikipedia, www if not needed, remove trailing slash, HTTPS if possible)
 * site:{nvd,pages}.nist.gov ext:csv,xml https://pages.nist.gov/sctools/
 * system-calls => linux-data, opersys-strs => software-strs, polyglot-files => webapp-attacks
