@@ -14,7 +14,6 @@ curl-environ-names: variables set to define proxies for the `curl(1)` tool
 dash-environ-names: environment variables set by default on Debian dash shell  
 debian-shell-names: common names of environment variables in Debian BASH shell  
 dialog-command-envinfos: description of environment variables from `dialog(1)`  
-environ-manpage-names: environment variables listed in Linux manual pages  
 environ-setenv-names: environment variables displayed by `env` at shell prompt  
 etc-init-environ: environment variables parsed from scripts in `/etc/init`  
 flask-environ-names: environment variables for the Flask Python web framework  
@@ -30,6 +29,7 @@ locale-environ-names: environment variable names for multi-language support
 macos-dyld-names: MacOS dynamic link editor environment variable names  
 macos-pids-names: environment variable names from the Mac OSX process table  
 mallopt-environ-names: GNU libc memory allocation option environment variables  
+manpage-environ-names: environment variables listed in Linux manual pages  
 misc-environ-assign: environment variable values that don't fall anywhere else  
 misc-environ-names: miscellaneous environment variable names don't fit elsewhere  
 mosh-environ-names: MObile SHell specific environment variable names  

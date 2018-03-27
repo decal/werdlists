@@ -30,6 +30,7 @@ malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)
 more-intranet-hosts: `common-intranet-hosts` with numeric digits appended  
 mvps-hosts-file: hosts file downloaded from [MSFT MVP's site](http://mvps.org)  
 nmap-vhosts-all: virtual host names from nmap's `vhosts-full.lst` and `vhosts-default.lst`  
+pglyoyo-adservers-hostlist: <https://pgl.yoyo.org/adservers/serverlist.php>  
 siph0n-subdomains-list: subdomain name list from [~~siph0n~~](http://siph0n.net)  
 someonewhocares-zero-hosts: [zero hosts file](http://someonewhocares.org/hosts/zero/) matching host names to [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)   
 someonewhocares-ipv6-hosts: [ipv6 text file](http://someonewhocares.org/hosts/ipv6/) matching host names to IPv6 [Localhost](https://en.wikipedia.org/wiki/Localhost)  
