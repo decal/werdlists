@@ -1,0 +1,110 @@
+Robust and Performant SIP (RFC3261) Server flavours
+Registrar server
+Location server
+Proxy server
+SIP Application server
+Redirect server
+Flexibility
+small footprint  suitable for embedded devices  the binary file is small size, functionality can be stripped/added via modules
+plug&play module interface  ability to add new extensions, without touching the core, therefore assuring a great stability of core components
+modular architecture  core, internal libraries and module interface to extend the servers functionality
+impressive extension repository  overall more than 150 modules are included in the Kamailio source tree
+SIP Routing Capabilities
+stateless and transactional stateful SIP Proxy processing
+serial and parallel forking
+NAT traversal support for SIP and RTP traffic
+load balancing with many distribution algorithms and failover support
+flexible least cost routing
+routing failover
+replication for High Availability (HA)
+Transport Layers
+support for communication via UDP, TCP, TLS and SCTP
+IPv4 and IPv6
+transport layer gatewaying (IPv4 to IPv6, UDP to TLS, a.s.o.)
+SCTP multi-homing and multi-streaming
+WebSocket for WebRTC
+Asynchronous Processing
+asynchronous TCP handling
+asynchronous SIP message processing
+asynchronous inter-process message queues communication system
+distributed message queue
+Secure Communication
+Digest SIP User authentication
+Authorization via ACL or group membership
+IP and Network authentication
+TLS support for SIP signaling
+transparent handling of SRTP for secure audio
+TLS domain name extension support
+authentication and authorization against database (MySQL, PostgreSQL, UnixODBC, BerkeleyDB, Oracle, text files), RADIUS and DIAMETER
+IP and DNS
+support for SRV and NAPTR DNS lookups
+SRV DNS failover
+DNSsec support
+ENUM support
+internal DNS caching system  avoid DNS blocking
+IP level Blacklists
+multi-homed and multi-domain support
+topology hiding  hide IP addresses in SIP headers to protect your network architecture
+Accounting
+event based accounting
+configurable accounting data details
+multi-leg call accounting
+storage to database, Radius or Diameter
+prepaid engine
+Configuration File
+scripting language for configurations file. With a syntax similar to scripting languages, the configuration offers a powerful and flexible way to deploy custom SIP services.
+pseudo-variables to access and manage parts of the SIP messages and attributes specific to users and server
+transformations to modify existing pseudo-variables, accessing only the wanted parts of the information
+over 1000 parameters, variables and functions exported to config file
+runtime update framework  to avoid restarting the SIP server when needing to change the config parameters
+External Interaction via
+RPC control interface  via XMLRPC, JSONRPC, UDP or TCP
+RabbitMQ and NSQ connectors
+Rich Communication Services
+SIP SIMPLE Presence Server (rich presence)
+Presence User Agent
+XCAP client capabilities
+Embedded XCAP Server
+Presence DialogInfo support  SLA/BLA
+Instant Messaging
+Embedded MSRP relay
+Monitoring and Troubleshooting
+SNMP  interface to Simple Network Management Protocol
+config file step-by-step debugger
+remote control via XMLRPC
+internal statistics exported via RPC and SNMP
+flexible debug and error message logging system  log custom messages including any header or pseudo-variable and parts of SIP message structure.
+Extensibility APIs
+Perl Programming Interface  embed your extensions written in Perl
+Java SIP Servlet Application Interface  write Java SIP Servlets to extent your VoIP services and integrate with web services
+Lua Programming Interface
+JavaScript Programming Interface
+Managed Code (C#) Programming Interface
+Python Programming Interface
+Java Programming Interface
+Generic Event API via TCP connections
+Multiple Database Backends
+(MySQL, PostgreSQL, SQLite, UnixODBC, BerkeleyDB, Oracle, text files) and other database types which have unixodbc drivers
+connections pool
+different backends can be used at same time (e.g., accounting to Oracle and authorization against MySQL)
+connectors for Memcached, Redis, MongoDB and Cassandra no-SQL backends
+Interconnectivity
+straightforward interconnection with PSTN gateways
+gateway to sms or xmpp and other IM services
+interoperability with SIP enabled devices and applications such as SIP phones (Snom, Cisco, etc.), Media Servers (Asterisk, FreeSwitch, etc.)
+IMS
+diameter support and authentication
+I-CSCF, P-CSCF, S-CSCF
+charging, QOS, ISC
+Miscellaneous
+CPL  Call Processing Language (RFC3880)
+Internal generic caching system
+Memcached connector
+Redis NoSQL database connector
+CLI  kamctl and sercmd
+Web Management Interface: Siremis
+SIP-T and SIP-I
+music on hold queue
+message body compression/decompression (gzip-deflate)
+ss7 parser to JSON converter
+Extensive documentation for both administrators and developers

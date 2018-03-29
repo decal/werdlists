@@ -1,5 +1,6 @@
 10k-most-common: 10,000 most commonly used passwords in one file (one per line)  
 1k-most-common: 1,000 most commonly used passwords..  
+1mil-activedir-passwords: list of potential Active Directory passwords used by the `icebreaker` tool <https://github.com/DanMcInerney/icebreaker/blob/master/1mil-AD-passwords.txt>  
 500-worst-passwords: 500 of the worst passwords that people tend to commonly use  
 best-1050-passes: a copy of the file `best1050.txt`  
 case-mutation-full: dictionary of alternating capitalization passwords from <http://index-of.es/Word-Lists/gdataonline/Case_Mutation_Full.txt.gz>  

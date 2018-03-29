@@ -5,6 +5,7 @@ freeos-opersys-list: comparison of free operating systems by freeos.com <http://
 freeos-opersys-downloads: links to free operating system downloads by freeos.com <http://www.freeos.com/Downloads>  
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
 http-server-platforms: HTTP server software platform list  
+icon-naming-spec: "standard icon names that should be used by artists when creating themes, and by developers when writing applications" <https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html>
 java-platform-list: list of Java platform names taken from `libs.xml` `unixActions.jar`  
 kamilio-features-list: <https://www.kamailio.org/w/features/>  
 libressl-function-symbols: symbols for SSL functions from `libressl-portable`  
