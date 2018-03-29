@@ -16,5 +16,6 @@ john-password-list: the password.lst file distributed with [John The Ripper](htt
 l33t-dict-full: dictionary of [leetspeak](https://en.wikipedia.org/wiki/leetspeak "Leet") passwords from <http://index-of.es/Word-Lists/gdataonline/L33t_Dict_Full.txt.gz>  
 military-pass-words: passwords typically found in military information systems  
 nmap-passwords-list: taken from [nmap](https://nmap.org) `nselib/data/passwords.lst`  
+oracle-default-userpass: default usernames and password for the Oracle RDBMS <https://github.com/1N3/BruteX/blob/master/wordlists/oracle-default-userpass.txt>  
 snmp-community-strings: [SNMP](http://snmp.com) commmunity strings taken from <https://raw.githubusercontent.com/1N3/BruteX/master/wordlists/snmp-strings.txt>  
 zxcvbn-passwords-list: passwords from `passwords.txt` included with *zxcvbn*  

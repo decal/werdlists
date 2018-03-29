@@ -7,6 +7,7 @@ english-words-various: various english words taken from some old ZIP files
 etc-anonymizer-names: copy of Splunk's `etc/anonymizer/names.txt`  
 female-names-list: alphabetized and capitalized list of female names  
 first-names-list: list of first names often used by people  
+first20hours-google-20k: 20,000 words parsed from Google <https://github.com/first20hours/google-10000-english/blob/master/20k.txt>  
 fortune-global500-list: [Fortune 500](https://en.wikipedia.org/wiki/Fortune_500) companies list with rank, company name, revenue.. <http://fortune.com/global500/>  
 geographic-stop-words: geographical [stop words](https://en.wikipedia.org/wiki/Stop_words), i.e. words that are ignored during [natural language processing](https://en.wikipedia.org/wiki/Natural-language_processing)  
 infosec-glossary-terms: glossary of information security terminology copied from RFC4949: <https://tools.ietf.org/html/rfc4949>  

@@ -10,4 +10,5 @@ rundll32-command-lines: list of [`rundll32.exe`](https://docs.microsoft.com/wind
 urlacl-reserved-links: hyperlinks taken from output of `netsh http show urlacl`  
 usb-devices-list: USB devices HTML report from [USBDeview](http://nirsoft.net)  
 window-messages-list: a list of messages sent to GUI Window objects in [Win32 API](http://www.winprog.org/tutorial/ "theForger's Win32 API Programming Tutorial")    
+windows10-source-tree: "Windows source tree reproduction based on debugging symbols and checked builds" <https://github.com/honorarybot/WinSrcTree>  
 winsock-catalog-entries: entry descriptions shown by [Winsock](https://wikipedia.org/wiki/Winsock) catalog   
