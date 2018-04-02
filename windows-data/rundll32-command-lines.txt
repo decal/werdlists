@@ -1,0 +1,189 @@
+Add/Remove Programs
+
+RunDll32.exe shell32.dll,Control_RunDLL appwiz.cpl,,0
+
+Content Advisor
+
+RunDll32.exe msrating.dll,RatingSetupUI
+
+Control Panel
+
+RunDll32.exe shell32.dll,Control_RunDLL
+
+Delete Temporary Internet Files
+
+ RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 8
+
+Delete Cookies
+
+ RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 2
+
+Delete History
+
+ RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 1
+
+Delete Form Data
+
+ RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 16
+
+Delete Passwords
+
+RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 32
+
+Delete All
+
+RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 255
+
+Delete All + files and settings stored by Add-ons:
+
+RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 4351
+
+Date and Time Properties
+
+RunDll32.exe shell32.dll,Control_RunDLL timedate.cpl
+
+Display Settings
+
+RunDll32.exe shell32.dll,Control_RunDLL access.cpl,,3
+
+Device Manager
+
+RunDll32.exe devmgr.dll DeviceManager_Execute
+
+Folder Options  General
+
+RunDll32.exe shell32.dll,Options_RunDLL 0
+
+Folder Options  File Types
+
+RunDll32.exe shell32.dll,Control_Options 2
+
+Folder Options  Search
+
+RunDll32.exe shell32.dll,Options_RunDLL 2
+
+Folder Options  View
+
+RunDll32.exe shell32.dll,Options_RunDLL 7
+
+Forgotten Password Wizard
+
+RunDll32.exe keymgr.dll,PRShowSaveWizardExW
+
+Hibernate
+
+RunDll32.exe powrprof.dll,SetSuspendState
+
+
+ 
+Internet Explorers Internet Properties dialog box.
+
+Rundll32 Shell32.dll,ConBring up trol_RunDLL Inetcpl.cpl,,6
+
+Keyboard Properties
+
+RunDll32.exe shell32.dll,Control_RunDLL main.cpl @1
+
+Lock Screen
+
+RunDll32.exe user32.dll,LockWorkStation
+
+Mouse Button  Swap left button to function as right
+
+Rundll32 User32.dll,SwapMouseButton
+
+Mouse Properties Dialog Box
+
+Rundll32 Shell32.dll,Control_RunDLL main.cpl @0,0
+
+Map Network Drive Wizard
+
+Rundll32 Shell32.dll,SHHelpShortcuts_RunDLL Connect
+
+Network Connections
+
+RunDll32.exe shell32.dll,Control_RunDLL ncpa.cpl
+
+Organize IE Favourites
+
+Rundll32.exe shdocvw.dll,DoOrganizeFavDlg
+
+Open With Dialog Box
+
+Rundll32 Shell32.dll,OpenAs_RunDLL Any_File-name.ext
+
+Printer User Interface
+
+Rundll32 Printui.dll,PrintUIEntry /?
+
+Printer Management Folder.
+
+Rundll32 Shell32.dll,SHHelpShortcuts_RunDLL PrintersFolder
+
+Power Options
+
+RunDll32.exe Shell32.dll,Control_RunDLL powercfg.cpl
+
+Process Idle Tasks
+
+rundll32.exe advapi32.dll,ProcessIdleTasks
+
+Regional and Language Options
+
+Rundll32 Shell32.dll,Control_RunDLL Intl.cpl,,0
+
+Stored Usernames and Passwords
+
+RunDll32.exe keymgr.dll,KRShowKeyMgr
+
+Safely Remove Hardware Dialog Box
+
+Rundll32 Shell32.dll,Control_RunDLL HotPlug.dll
+
+Sound Properties Dialog Box
+
+Rundll32 Shell32.dll,Control_RunDLL Mmsys.cpl,,0
+
+System Properties Box
+
+Rundll32 Shell32.dll,Control_RunDLL Sysdm.cpl,,3
+
+System Properties  Advanced
+
+RunDll32.exe shell32.dll,Control_RunDLL sysdm.cpl,,4
+
+System Properties: Automatic Updates
+
+RunDll32.exe shell32.dll,Control_RunDLL sysdm.cpl,,5
+
+Taskbar Properties
+
+RunDll32.exe shell32.dll,Options_RunDLL 1
+
+User Accounts
+
+RunDll32.exe shell32.dll,Control_RunDLL nusrmgr.cpl
+
+Unplug/Eject Hardware
+
+RunDll32.exe shell32.dll,Control_RunDLL hotplug.dll
+
+Windows Security Center
+
+RunDll32.exe shell32.dll,Control_RunDLL wscui.cpl
+
+Windows  About
+
+RunDll32.exe SHELL32.DLL,ShellAboutW
+
+Windows Fonts Installation Folder
+
+Rundll32 Shell32.dll,SHHelpShortcuts_RunDLL FontsFolder
+
+Windows Firewall
+
+RunDll32.exe shell32.dll,Control_RunDLL firewall.cpl
+
+Wireless Network Setup
+
+RunDll32.exe shell32.dll,Control_RunDLL NetSetup.cpl,@0,WNSW

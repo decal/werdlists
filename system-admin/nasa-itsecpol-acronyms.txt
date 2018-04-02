@@ -1,0 +1,80 @@
+AC Access Control
+AO Authorizing Official
+AODR Authorizing Official Designated Representative
+AT Awareness and Training
+ATO Authorization to Operate
+AU Audit and Accountability
+CA Certification Authority
+CD Compact Disc
+C.F.R. Code of Federal Regulations
+CIO Chief Information Officer
+CISO Chief Information Security Officer
+CM Configuration Management
+CNSI Classified National Security Information
+COOP Continuity of Operations
+CP Contingency Plan
+CT Counterterrorism
+DVD Digital Video Disc
+e .g. For Example
+ESIGN Electronic Signatures in Global and National Commerce
+Etc. Et Cetera
+Exec. Executive
+FAR Federal Acquisition Regulations
+FDCC Federal Desktop Core Configuration
+FIPS Federal Information Processing Standards
+FISCAM Federal Information System Controls Audit Manual
+FISMA Federal Information Security Management Act
+GAO Government Accounting Office
+GOCO Government Owned, Contractor Operated
+HSPD Homeland Security Presidential Directive
+IA Identification and Authorization
+ICAM Identity, Credential, and Access Management
+ID Identification
+IEEE Institute of Electrical and Electronic Engineers
+IR Incident Response and Management
+IO Information Owner
+ISA Interconnection Security Agreement
+ISO Information System Owner
+ISSO Information System Security Officer
+IT Information Technology
+ITS-HBK Information Technology Security Handbook
+ITSAB Information Technology Security Advisory Board
+JPL Jet Propulsion Laboratory
+MA Media Access
+MOA Memorandum of Agreement
+MOU Memorandum of Understanding
+MP Media Protection
+NASA National Aeronautics and Space Administration
+NIST National Institute of Standards and Technology
+NITR NASA Information Technology Requirement
+NPD NASA Policy Directive
+NPR NASA Procedural Requirement
+NTISS National Telecommunications and Information System Security
+OCIO Office of the Chief Information Officer
+OCSO Organizational Computer Security Official
+OIG Office of the Inspector General
+OMB Office of Management and Budget
+OPS Office of Protective Services
+PDA Personal Digital Assistant
+PE Physical and Environmental Protection
+PIA Privacy Impact Assessment
+PM Program/ Project Manager
+POA &M Plan of Action and Milestones
+PL Planning
+P.L. Public Law
+PS Protective Services
+RA Registration Authorities
+RMF Risk Management Framework
+SA System and Services Acquisition
+SAISO Senior Agency Information Security Officer
+SBU Sensitive But Unclassified
+SC System and Communications Protection
+SI System and Information Integrity
+SOC Security Operations Center
+SP Special Publication
+SSP System Security Plan
+USA PATRIOT Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism 
+USB Universal Serial Bus
+U.S.C. United States Code
+USGCB United States Government Configuration Baseline
+VPN Virtual Private Network 

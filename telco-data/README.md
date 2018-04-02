@@ -6,9 +6,10 @@ areacode-states-locations: Information about area codes in the United States
 country-codes-alphabetical: Country codes assigned by [ITU-T](https://www.itu.int "International Telecommunication Union") (alphabetical order)  
 country-codes-notes: Define single letter notes referenced in country code files  
 country-codes-numerical: Country codes assigned by [ITU-T](https://www.itu.int "International Telecommunication Union") (numerical order)  
-country-code-org: CSV data file taken from <http://countrycodes.org>
+country-code-org: CSV data file taken from <http://countrycodes.org>  
 country-exit-codes: international exit codes by country sorted alphabetically  
 country-service-restrictions: an outline of services missing in each country  
+dualtone-multifreq-digits: table of [DTMF](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling "Dual Tone Multi-Frequency") digits, frequencies and lengths <http://www.blueboxing.org/ccitt5.html>  
 geographical-codes-numerical: Geographical codes from [ITU-T](https://www.itu.int "International Telecommunication Union") (numerical order)  
 itu-cybersecurity-definition: Cybersecurity as defined by the [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union)  
 itu-mobile-glossary: Glossary of mobile terms published by [ITU-T](https://www.itu.int "International Telecommunication Union")  
