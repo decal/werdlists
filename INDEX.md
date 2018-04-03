@@ -9,7 +9,7 @@ cipher-data: :blowfish: Data denoting or used by [cryptographic algorithm](https
 cmd-usage: :hammer: Help text shown in a terminal when attempting to execute [CLI](https://en.wikipedia.org/wiki/Command-line_interface "Command-line interface") programs  
 cms-errors: :exclamation: Error codes and/or messages rendered by a [CMS](https://en.wikipedia.org/wiki/Content_management_system "Content Management System")  
 code-keywords: :coffee: [Computer language](https://en.wikipedia.org/wiki/Computer_language) identifiers declared in defining standards such as [reserved words](https://en.wikipedia.org/wiki/Reserved_word)  
-cpu-arch: :factory: Low-level computer architecture and hardware subjects 
+cpu-arch: :control_knobs: Low-level computer architecture and hardware subjects 
 crypt-output: :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)  
 database-strs: :floppy_disk: Strings often encountered when working with [database](https://en.wikipedia.org/wiki/Database) software  
 dialup-modems: :fax: Info about analog [modems](https://en.wikipedia.org/wiki/Modem) on [POTS](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain Old Telephone Service")  
@@ -75,13 +75,13 @@ top-secret: :alien: Files and/or data related to documents that were/are classif
 unicode-art: :performing_arts: Unicode art pieces (i.e. requires wide character symbols)  
 unicode-data: :symbols: [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  
 unix-data: :shell: Data associated with various flavors of the UNIX OS and its clones  
-unix-paths: :file_cabinet: File path names found in various [UNIX file systems](https://en.wikipedia.org/wiki/Unix_File_System)  
+unix-paths: :file_cabinet: File path names found in various [UNIX file systems](https://wikipedia.org/wiki/Unix_File_System)  
 uri-attacks: :boom: Malicious URI materials specially crafted for attack targets  
 uri-schemes: :paperclip: Lists containing references for [URI schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) (part before colon)      
-uri-data: :link: [Universal Resource Identifier](https://www.w3.org/Addressing/#background "Learning About URI's") related data  
+uri-data: :link: [Universal Resource Identifier](https://w3.org/Addressing/#background "Learning About URI's") related data  
 vuln-data: :bar_chart: Information about security vulnerabilities found in server software  
 webapp-attacks: :syringe: [Security Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating various styles of web application attacks  
-webapp-data: :briefcase: Data associated with applications hosted on web servers  
+webapp-data: :eyeglasses: Data associated with applications hosted on web servers  
 webapp-dirs: Directories related to applications running on a web server  
 webapp-files: :card_index: Files related to applications running on a web server  
 webapp-paths: :bookmark_tabs: Path names related to applications running on a web server  

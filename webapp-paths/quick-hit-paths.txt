@@ -369,6 +369,7 @@
 .tmproj
 .tox
 .transients_purge.log
+.TemporaryItems
 .Trash
 .Trashes
 .travis.yml
@@ -610,6 +611,7 @@ admpar/.ftppass
 admrev/.ftppass
 admrev/_files/
 adsystem
+afpd.core
 affiliates.sql
 ajax/app/yahoo/yahoo.htm
 alfa/

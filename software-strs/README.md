@@ -1,4 +1,5 @@
-bsd-symbol-list: symbols from strings'ing binaries on BSD operating systems  
+asp-functions-list: a list of [ASP](https://wikipedia.org/wiki/Active_Server_Pages "Active Server Pages") functions <http://www.virtualsplat.com/tips/asp-functions.asp>
+bsd-symbol-list: symbols gathered from running strings on binaries in BSD operating systems  
 code-project-list: popular code projects, well-known dependencies, API's, etc.  
 freebsd-dns-tools: a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns>  
 freeos-opersys-list: comparison of free operating systems by freeos.com <http://www.freeos.com/Compare>  
@@ -12,6 +13,7 @@ libressl-function-symbols: symbols for SSL functions from `libressl-portable`
 linux-distribution-list: list of Linux distribution names taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm>  
 macos-homebrew-list: list of [macOS homebrew](https://brew.sh) package names  
 macports-titles-list: [MacPorts](https://www.macports.org) software titles list  
+nistdict-algorithms-datastructs: [NIST](https://nist.gov "National Institute of Standards and Technology")  [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) entry names
 opensrc-softlic-compare: Comparison of text from popular [open source software licenses](https://opensource.org/licenses)  
 operating-system-list: a list of computer operating systems taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm>  
 opsys-names-list: list of many operating system names  
@@ -24,5 +26,5 @@ security-tools-archive: list of security archives tools and software from <http:
 strings-docker-bin: output of strings on docker container utility binary  
 symantec-removal-tools: list of malware removal/fix tools by Symantec 
 vidgame-malware-removed: list of malware from <https://vidga.me/transparency/malware/removed.txt>  
-virtualsplat-abbrev-dict: [Abbreviation Dictionary](virtualsplat.com/abbrevs)  
+virtualsplat-abbrev-dict: [Abbreviation Dictionary](http://virtualsplat.com/abbrevs)  
 windows-sdb-strings: Strings dumped from Windows Application Compatibility Databases using `SDBExplorer.exe`  
