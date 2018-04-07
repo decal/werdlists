@@ -1,0 +1,68 @@
+Your post advocates a
+
+( ) technical ( ) legislative (X) market-based (X) vigilante ( ) form-based
+
+approach to fighting spam. Your idea will not work. Here is why it won't work. (One or more of the following may apply to your particular idea, and it may have other flaws which used to vary from state to state before a bad federal law was passed.)
+
+( ) Spammers can easily use it to harvest email addresses
+( ) Mailing lists and other legitimate email uses would be affected
+( ) No one will be able to find the guy or collect the money
+( ) It is defenseless against brute force attacks
+(X) It will stop spam for two weeks and then we'll be stuck with it
+(X) Users of email will not put up with it
+(X) Microsoft will not put up with it
+(X) The police will not put up with it
+( ) Requires too much cooperation from spammers
+(X) Requires immediate total cooperation from everybody at once
+(X) Many email users cannot afford to lose business or alienate potential employers
+( ) Spammers don't care about invalid addresses in their lists
+( ) Anyone could anonymously destroy anyone else's career or business
+(X) The meme is tired and worn out and I'm just as likely to get a -1 troll as a +5 funny.
+
+Specifically, your plan fails to account for
+
+( ) Laws expressly prohibiting it
+( ) Lack of centrally controlling authority for email
+( ) Open relays in foreign countries
+( ) Ease of searching tiny alphanumeric address space of all email addresses
+(X) Asshats
+( ) Jurisdictional problems
+( ) Unpopularity of weird new taxes
+( ) Public reluctance to accept weird new forms of money
+( ) Huge existing software investment in SMTP
+( ) Susceptibility of protocols other than SMTP to attack
+( ) Willingness of users to install OS patches received by email
+( ) Armies of worm riddled broadband-connected Windows boxes
+( ) Eternal arms race involved in all filtering approaches
+(X) Extreme profitability of spam
+(X) Joe jobs and/or identity theft
+(X) Technically illiterate politicians
+(X) Extreme stupidity on the part of people who do business with spammers
+( ) Dishonesty on the part of spammers themselves
+( ) Bandwidth costs that are unaffected by client filtering
+(X) Outlook
+
+and the following philosophical objections may also apply:
+
+(X) Ideas similar to yours are easy to come up with, yet none have ever been shown practical
+( ) Any scheme based on opt-out is unacceptable
+( ) SMTP headers should not be the subject of legislation
+( ) Blacklists suck
+( ) Whitelists suck
+(X) We should be able to talk about Viagra without being censored
+( ) Countermeasures should not involve wire fraud or credit card fraud
+( ) Countermeasures should not involve sabotage of public networks
+( ) Countermeasures must work if phased in gradually
+(X) Sending email should be free
+(X) Why should we have to trust you and your servers?
+( ) Incompatibility with open source or open source licenses
+(X) Feel-good measures do nothing to solve the problem
+( ) Temporary/one-time email addresses are cumbersome
+( ) I don't want the government reading my email
+(X) Killing them that way is not slow and painful enough
+
+Furthermore, this is what I think about you:
+
+(X) Sorry dude, but I don't think it would work.
+(X) This is a stupid idea, and you're a stupid person for suggesting it.
+(X) Nice try, assh0le! I'm going to find out where you live and burn your house down!

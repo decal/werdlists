@@ -28,5 +28,6 @@ sfbay-companies-list: [List of companies based in the San Francisco Bay Area](ht
 spike-proxy-allwords: dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy)  
 technical-manual-words: various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt>  
 tweet-word-ngrams: binary sequence and words parsed from tweets with cardinality  
+usgovt-manual-acronyms: [U.S. Government Manual](https://usgovernmentmanual.gov) Commonly Used Agency Acronyms  
 word-cluster-ngrams: word clusters parsed from the text in millions of tweets  
 zoo-animal-list: an alphabetically sorted list of names for zoo-kept animals  

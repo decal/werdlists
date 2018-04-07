@@ -2,7 +2,7 @@
 #
 # missing-index-entries v0.9b
 #
-# Look for folders without an readme.md file or are missing entries from it
+# Look for folders without an README.md file or are missing entries from it
 #
 # Written By:    Derek Callaway [decal {AT} sdf {D0T} org]
 # Last Modified: Sat Nov 12 13:08:03 EST 2016
@@ -34,7 +34,7 @@ for adir in "${wldirs[@]}"
   
   cd -- "${xdir}"
 
-  declare -a wlfiles=( `ls -1 *.* | cut -d '.' -f1 | egrep -iv '^index$'` )
+  declare -a wlfiles=( `ls -1 *.* | cut -d '.' -f1 | egrep -iv '^INDEX$'` )
  
   [[ $? != 0 ]] && continue
 
@@ -43,16 +43,16 @@ for adir in "${wldirs[@]}"
   for afil in "${wlfiles[@]}"
     do #
     
-    if [ ! -s readme.md ] 
-      then rm -f readme.md
-      touch readme.md
+    if [ ! -s README.md ] 
+      then rm -f README.md
+      touch README.md
 
       for anam in ${wlfiles[*]}
-        do echo -e "${anam}: " >> readme.md
+        do echo -e "${anam}: " >> README.md
       done
     fi
 
-    declare output=$( egrep -i "^${afil}:" readme.md | egrep -iv '^index\.md$' ) 
+    declare output=$( egrep -i "^${afil}:" README.md | egrep -iv '^INDEX\.md$' ) 
 
     [[ $output == "" ]] && listfiles_missing+=( $afil ) 
   done
@@ -65,7 +65,7 @@ for adir in "${wldirs[@]}"
   fi
  
   echo -e "${reset}"
-  # echo ${afil} >> readme.md
+  # echo ${afil} >> README.md
 
   cd ..
 done

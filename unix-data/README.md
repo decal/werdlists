@@ -31,6 +31,8 @@ tmux-command-list: list of [tmux (terminal multiplexer)](https://github.com/tmux
 unix-admin-users: [UNIX](http://www.unix.org) administrative user names  
 unix-filesystem-list: list of acronyms representing [UNIX](http://www.unix.org) filesystem types  
 unix-flavor-names: [UNIX](http://www.unix.org) flavors list from the [Unix History](https://www.levenez.com/unix/) page at [Éric Lévénez's site](https://www.levenez.com)  
+unix-general-tips: Some of these might differ depdnding on GNU/BSD option syntax and so on <http://dylanleigh.net/notes/unix-tips/index.rst>  
+unix-security-tips: This is written mainly for Unix gurus who are not necessarily [Unix security](https://wikipedia.org/wiki/Unix_security) experts <http://dylanleigh.net/notes/unix-security/index.rst>  
 unix-shell-tricks: Useful command-line tricks for [UNIX](http://www.unix.org) shell accounts  
 unix-stackexchange-tags: tags used to organize question posts on <https://unix.stackexchange.com/tags>
 unix-user-names: a long list of [UNIX](http://www.unix.org) user name possibilities  

@@ -1,3 +1,4 @@
+badbotlist-user-agents: Apache configuration to reject requests containing bad user agents <https://gist.github.com/idea34/1377722>
 chrome-user-agents: Google Chrome user agent strings   
 common-user-agents: common user agent strings  
 firefox-user-agents: Mozilla FireFox user agent strings  

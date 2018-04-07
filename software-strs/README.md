@@ -3,6 +3,10 @@ code-project-list: popular code projects, well-known dependencies, API's, etc.
 freebsd-dns-tools: a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns>  
 freeos-opersys-list: comparison of free operating systems by freeos.com <http://www.freeos.com/Compare>  
 freeos-opersys-downloads: links to free operating system downloads by freeos.com <http://www.freeos.com/Downloads>  
+git-glossary-manpage: A GIT glossary; taken from the `gitglossary(7)` manual page contents 
+github-explore-topics: GitHub topics <https://github.com/topic>
+gitlab-gitignore-patterns: pathname patterns of `.gitignore` files listed by GitLab API (without comments) <https://gitlab.com/api/v4/templates/gitignores?per_page=1024>
+gitlab-languages-list: a list of languages extracted from [GitLab](https://gitlab.com) `.gitignore` templates <https://gitlab.com/api/v4/templates/gitignores?per_page=1024>  
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
 http-server-platforms: HTTP server software platform list  
 icon-naming-spec: "standard icon names that should be used by artists when creating themes, and by developers when writing applications" <https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html>

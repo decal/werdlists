@@ -5,7 +5,7 @@ for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
 
   cd -- $adir
 
-  declare -i acnt=$(wc -l index.md | awk '{print($1);}') 
+  declare -i acnt=$(wc -l README.md | awk '{print($1);}') 
   declare -i bcnt=$(ls -1 | egrep -v '^index[.]md$' | wc -l) 
 
   if [[ $acnt != $bcnt ]] 
@@ -16,7 +16,7 @@ for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
 
       [ $afil == "index" ] && continue
 
-      [ ! "$(grep $afil index.md)" ] && echo -n "$afil "
+      [ ! "$(grep $afil README.md)" ] && echo -n "$afil "
     done
 
     echo
