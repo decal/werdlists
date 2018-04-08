@@ -1,5 +1,6 @@
 apt-cache-search: list of Debian packages gathered via empty cache search string  
 apt-config-dump: sample contents of Debian APT's configuration space  
+atomicorp-linux-features: Atomic Secure Linux features list <https://wiki.atomicorp.com/wiki/index.php/ASL>  
 archstrike-package-list: list of [pacman](https://www.archlinux.org/pacman/ "Pacman Home Page") packages distributed with [ArchStrike](https://archstrike.org) from <https://archstrike.org/packages/search/%20/name-description>  
 bash-function-bindings: bash shell function bindings as listed with `bind -l`  
 bash-shell-builtins: bash shell builtins as viewed via `enable -a`  

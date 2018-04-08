@@ -1,5 +1,6 @@
 common-colon-logins: colon delimited lines of common user and pass combinations  
-github-api-emojis: official list of Emoji icons supported by GitHub style markdown from <https://api.github.com/emojis>  
+github-api-emojis: Emoji icons supported by GitHub API in JSON format <https://api.github.com/emojis>  
+github-emojis-list: same as `github-api-emojis`, but only a single emoji names on each line
 google-strings-list: very long list of strings parsed from Google [SERP's](https://en.wikipedia.org/wiki/Search_engine_results_page "Search Engine Results Pages")  
 npm-modules-list: [NodeJS](https://nodejs.org) modules list from `~/node_modules` directory  
 percent-encoding-double: all one-byte values doubly percent-encoded  

@@ -1,0 +1,27 @@
+Web Application Firewall with Realtime Atomicorp/Gotroot.com rules
+Highspeed Stateful firewall
+Attack Chain Disruption to prevent zero day attacks
+Network based Intrusion Prevention System
+Host Based Intrusion Prevention for event monitoring, file system integrity checking, and rootkit protection
+Web Based Security Information Manager and Unified Threat Manager
+Vulnerability scanner and vulnerability repair and elimination system
+Realtime Malware Protection
+Hardened secure kernel to protect against rootkits
+Self Healing system for system, database and application errors
+Self Learning Least Privilege Role Based Access Control System
+System Hardening tools
+Stand Alone secure web GUI
+Malware uploader scanner
+Brute force attack detection (Control Panels, FTP, SSH, Web applications, SMTP, POP, IMAP and more!)
+Just In Time Patching system: Automatic security rules to protect unpatched systems, and unpatched web applications.
+Rootkit detection and prevention, including kernel level rootkits
+Process monitoring watchdog, to ensure critical and security services are always running
+Web Application inventory module
+Systems configuration validation (SSH, PHP and more)
+General security hardening (unnecessary services, etc)
+PHP configuration, checks and fixes dangerous settings
+Apache configuration checks and fixes
+DOS protection system
+Rule updater for Mod_security, GRsecurity, HIDS, Self Healing and the Application Inventory system
+Custom code for system hardening
+Special ClamAV rules
