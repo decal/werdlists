@@ -70,7 +70,7 @@ system-admin: :necktie: System administration and [BOFH](https://en.wikipedia.or
 system-notices: :warning: Disclaimer/warning messages shown by networked computer systems  
 telco-data: :telephone_receiver: Data on voice-based telecommunications technologies: [POTS](https://en.wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://en.wikipedia.org/wiki/SMS "Short Message Service") etc.  
 text-files: :pushpin: a special kind of "text file" as in those archived at [textfiles.com](https://textfiles.com), i.e. old school zine articles  
-text-words: :pencil2: Lists of words likely to be found in an actual hard copy dictionary  
+text-words: :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 top-secret: :alien: Files and/or data related to documents that were/are classified  
 unicode-art: :performing_arts: Unicode art pieces (i.e. requires wide character symbols)  
 unicode-data: :symbols: [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  

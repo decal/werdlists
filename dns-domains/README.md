@@ -28,6 +28,7 @@ org-domain-names: DNSSEC resource records within the [.org TLD](https://en.wikip
 pgbs0dh-domain-records: a list of DNSSEC resource records in the pgbs0dh TLD  
 popular-subdomains-list: List of most popular subdomains on the Internet  
 special-use-domains: DNS domain names categorized as "Special-Use" by [IANA](https://www.iana.org/)  
+special-use-extra: All domains from `special-use-domains` and additional names that might be considered "special", but in a non-standard way  
 tlds-alpha-dom: an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  
 top-level-names: New [gTLD](https://en.wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") list taken from `ntldstats.com`  
 uk-domain-names: DNSSEC resource records within the [.uk ccTLD](https://en.wikipedia.org/wiki/.uk)  

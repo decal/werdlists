@@ -1,0 +1,19 @@
+# Connection	Modulation	Bitrate [kbit/s]	Year released
+110 baud Bell 101 modem	FSK	0.1	1958
+300 baud (Bell 103 or V.21)	FSK	0.3	1962
+1200 modem (1200 baud) (Bell 202)	FSK	1.2	
+1200 modem (600 baud) (Bell 212A or V.22)	QPSK	1.2	1980
+2400 modem (600 baud) (V.22bis)	QAM	2.4	1984
+2400 modem (1200 baud) (V.26bis)	PSK	2.4	
+4800 modem (1600 baud) (V.27ter)	PSK	4.8	
+9600 modem (2400 baud) (V.32)	QAM	9.6	1984
+14.4k modem (2400 baud) (V.32bis)	trellis	14.4	1991
+19.2k modem (2400 baud) (V.32terbo)	trellis	19.2	1993
+28.8k modem (3200 baud) (V.34)	trellis	28.8	1994
+33.6k modem (3429 baud) (V.34)	trellis	33.6	1996
+56k modem (8000/3429 baud) (V.90)	digital	56.0/33.6	1998
+56k modem (8000/8000 baud) (V.92)	digital	56.0/48.0	2000
+Bonding modem (two 56k modems) (V.92)[14]		112.0/96.0	
+Hardware compression (variable) (V.90/V.42bis)		56.0220.0	
+Hardware compression (variable) (V.92/V.44)		56.0320.0	
+Server-side web compression (variable) (Netscape ISP)		100.01,000.0	

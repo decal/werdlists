@@ -1,0 +1,28 @@
+LOCATION	FACILITY	PEERING FABRIC	IPV4	IPV6
+Amsterdam, NL	Interxion Amsterdam	AMS-IX	208.69.35.0/24	2620:0:cc4::/48
+Ashburn, US	Equinix Ashburn	Equinix Ashburn	208.69.32.0/24	2620:0:ccb::/48
+Berlin, DE	E-Shelter Berlin	BCIX Berlin	185.60.84.0/24	2a04:e4c0:11::/48
+Bucharest, RO	NX Data	Interlan	185.60.86.0/24	2a04:e4c0:14::/48
+Chicago, US	Equinix Chicago	Equinix Chicago	208.69.36.0/24	2620:0:cc5::/48
+Copenhagen, DK	Interxion CPH1	Netnod IX Copenhagen	146.112.135.0/24	2a04:e4c0:17::/48
+Dallas, US	Equinix Dallas	Equinix Dallas	204.194.238.0/24	2620:0:cc6::/48
+Dubai, AE	Dubai IBX Data Center	UAE-IX	146.112.131.0/24	2a04:e4c0:31::/48
+Dublin, IE	Interxion DUB1	N/A	146.112.130.0/24	2a04:e4c0:18::/48
+Frankfurt, DE	Equinix Frankfurt	DE-CIX	208.69.33.0/24	2620:0:cc7::/48
+Hong Kong, CN	Equinix Hong Kong	HKIX	67.215.82.0/24	2620:0:cce::/48
+Johannesburg, ZA	Teraco Johannesburg	NAPAfrica IX	67.215.86.0/24	2a04:e4c0:30::/48
+London, GB	Equinix London	LINX / LoNAP	208.69.34.0/24	2a04:e4c0:10::/48
+Los Angeles, US	Equinix Los Angeles	Equinix Los Angeles	204.194.237.0/24	2620:0:cc8::/48
+Miami, US	CoreSite Miami	FL-IX	204.194.239.0/24	2620:119:13::/48
+Mumbai, IN	TATA BKC	N/A	146.112.134.0/24	2a04:e4c0:22::/48
+New York, US	CoreSite NY2	NYIIX	208.67.217.0/24	2620:0:cc9::/48
+Palo Alto, US	Equinix Santa Clara	Equinix San Jose / PAIX	208.67.219.0/24	2620:0:cc3::/48
+Paris, FR	Telehouse Paris 2 (Voltaire)	FranceIX	146.112.128.0/24	2a04:e4c0:12::/48
+Sao Paulo, BR	Equinix SP3	IX.br Sao Paulo	146.112.133.0/24	2a04:e4c0:40::/48
+Seattle, US	Equinix Seattle	SIX	208.67.216.0/24	2620:119:12::/48
+Singapore, SG	Equinix Singapore	Equinix Singapore	67.215.80.0/24	2620:0:cca::/48
+Sydney, AU	Equinix Sydney	Equinix Sydney / PIPE	67.215.83.0/24	2620:0:ccf::/48
+Tokyo, JP	Equinix Tokyo	JPNAP	208.69.37.0/24	2a04:e4c0:20::/48
+Toronto, CA	Equinix Toronto	TorIX	67.215.84.0/24	2620:119:10::/48
+Vancouver, CA	Cologix	VANIX	67.215.85.0/24	2620:119:11::/48
+Warsaw, PL	Linx Data Center Warsaw	PLIX	185.60.87.0/24	2a04:e4c0:16::/48

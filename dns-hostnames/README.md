@@ -27,6 +27,7 @@ hphosts-partial-database: [hosts-partial.txt](https://hosts-file.net/hphosts-par
 huge-hosts-combine: unique combo of a half-dozen subdomain lists in this folder   
 inet-hosts-sample: sample of real host names from Internet [zone files](https://en.wikipedia.org/wiki/Zone_file)  
 intranet-hosts-list: combination of several intranet host lists files   
+intranet-hosts-short: a short list of intranet hostnames without numbers appended
 malekal-hosts-filter: hosts file used to block adware  
 malwareteks-hosts-file: hosts file from [MalwareTeks](http://malwareteks.com)  
 more-intranet-hosts: `common-intranet-hosts` with numeric digits appended  
