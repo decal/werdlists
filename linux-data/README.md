@@ -15,6 +15,7 @@ kernel-git-shortlog: Kernel authors taken from source tree's `git shortlog`
 libc-getconf-vars: system configuration variable values from [`getconf(1)`](https://linux.die.net/man/1/getconf "get configuration values")    
 linux-errno-constants: preprocessor constants/messages collection from `errno`  
 linux-syscall-names: A list of Linux system call identifiers from kernel code  
+posix-header-files: a list of POSIX conformant header files <http://pubs.opengroup.org/onlinepubs/9699919799/idx/head.html>  
 system-calls-32bit: x86 ABI functions listed by trinity Linux syscall fuzzer  
 system-calls-64bit: x86_64 ABI functions listed by trinity Linux syscall fuzzer  
 system-calls-wsl: Windows Subsystem for Linux syscalls from MSDN Release notes  
