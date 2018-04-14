@@ -1,0 +1,89 @@
+#!/usr/bin/env bash
+#
+# Shorten and secure URL's in a [GFM](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) 
+# file's linking syntax (i.e. square brackets followed by parentheses as demonstrated above.)  
+# 'Shorten' by removing unnecessary `www` hostnames and 'secure' by converting `http:` schemes to `https:`.
+#
+# Written By:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Modified: Sat Apr 14 02:27:36 DST 2018
+# Tested On:     Ubuntu Bash in Windows Subsystem for Linux
+#
+
+[ ! -d scripts ] && echo
+
+[ -f scripts/shared/colors ] && source scripts/shared/colors
+[ -f scripts/shared/env ] && source scripts/shared/env 
+
+if [ ! "$1" ]
+  then echo -e "${reset}"
+  echo -ne "${purplef}"
+
+  dos2unix --version 2>&1
+
+  echo -e "${reset}"
+  echo -ne "${whitef}"
+
+  mv --version 2>&1 
+
+  echo -e "${reset}"
+  echo -ne "${redf}"
+
+  cp --version 2>&1
+
+  echo -e "${reset}"
+  echo -e "${yellowf}usage${boldon}:${reset} ${bluef}${ulon}$0${reset} ${greenb}MDFILE${reset}"
+  echo -e "  ${greenb}MDFILE${reset}  ${italicson}markdown file containing links to rewrite${reset}"
+  echo 
+
+  exit 1
+fi
+
+echo -ne "${redf}"
+
+declare aback="/tmp/.$(echo $1 | tr '/' '-').${RANDOM}"
+declare achar="$(echo $1 | sed -r 's!([A-Z]{1}).*$!\1!g')"
+declare afile="${achar}.md"
+
+# Make a backup in case there's a bug below
+cp -v -- "$1" "$aback" 2>&1
+
+echo -e "${reset}"
+
+sed 's!http://en.wikipedia.org!https://en.wikipedia.org!g' "$1" | \
+  sed 's!https://en.wikipedia.org!https://wikipedia.org!g' | \
+  sed 's!http://www.unix.org!http://unix.org!g' | \
+  sed 's!http://wikipedia.org!https://wikipedia.org!g' | \
+  sed 's!http://www.gnu.org!https://www.gnu.org!g' | \
+  sed 's!https://www.gnu.org!https://gnu.org!g' | \
+  sed 's!http://www.microsoft.com!https://www.microsoft.com!g' | \
+  sed 's!https://www.microsoft.com!https://microsoft.com!g' | \
+  sed 's!http://www.ibm.com!https://www.ibm.com!g' | \
+  sed 's!https://www.ibm.com!https://ibm.com!g' | \
+  sed 's!http://www.adobe.com!https://www.adobe.com!g' | \
+  sed 's!https://www.adobe.com!https://adobe.com!g' | \
+  sed 's!http://www.itu.int!https://www.itu.int!g' | \
+  sed 's!https://www.itu.int!https://itu.int!g' | \
+  sed 's!http://www.mcafee.com!https://www.mcafee.com!g' | \
+  sed 's!https://www.mcafee.com!https://mcafee.com!g' | \
+  sed 's!http://www.w3.org!https://www.w3.org!g' | \
+  sed 's!https://www.w3.org!https://w3.org!g' | \
+  sed 's!http://www.att.net!https://www.att.net!g' | \
+  sed 's!https://www.att.net!https://att.net!g' | \
+  sed 's!http://www.iana.org!https://www.iana.org!g' | \
+  sed 's!https://www.iana.org!https://iana.org!g' > "$afile"
+
+## TODO: 's!http://host.dom:80!http://host.dom!g' 's!https://host.dom:443!https://host.dom!g'
+## TODO: resolve hostnames for host.dom and www.host.dom to make sure they're the same numeric IP
+
+echo -ne "${whitef}"
+
+mv -v -- "$afile" "$1" 2>&1
+
+echo -e "${reset}"
+echo -ne "${purplef}"
+
+dos2unix -- "$1" 2>&1
+
+echo -e "${reset}"
+
+exit 0

@@ -49,7 +49,7 @@ for d in $LS
   for f in $( ls -1 * | egrep -v '^readme\.md$' )
     do declare anam=$( echo $f | cut -d '.' -f1 )
     echo -ne "${bluef}${avar}${boldon}:${boldoff}${reset} "
-    echo -ne "$(grep --color=ALWAYS -ira -- "${anam}" readme.md)"
+    echo -ne "$(grep --color=ALWAYS -ira -- "${anam}" README.md)"
     echo
   done
 

@@ -1,6 +1,6 @@
 alpha-lower-chars: Individual alphabetic letters without any capitalization  
 alpha-lower-pairs: All possible pairings of lowercase alphabetic characters  
-_alpha-lower-pairs: List of under-scored lowercase alphabetic letter pairings   
+_alpha-lower-pairs: List of under-scored lowercase alphabetic letter pairings  
 __alpha-lower-pairs: Two underscores prepended to lowercase letter pairings  
 alpha-upper-chars: Stand-alone alphabetic letters capitalized  
 alpha-upper-pairs: all possible pairings of uppercase alphabetic characters  

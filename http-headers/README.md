@@ -15,8 +15,8 @@ iana-http-headers: Uniquely Sorted List of IANA Message Headers Assignments
 meetup-request-headers: HTTP request headers used by the MeetUp.com API  
 meetup-response-headers: HTTP response headers used by the MeetUp.com API  
 mozdev-docs-headers: header list from left sidebar of Mozilla Developer Docs  
-permanent-message-headers: [Permanent Message Header Field Names](https://www.iana.org/assignments/message-headers/perm-headers.csv)  
-provisional-message-headers: [Provisional Message Header Field Names](https://www.iana.org/assignments/message-headers/prov-headers.csv)  
+permanent-message-headers: [Permanent Message Header Field Names](https://iana.org/assignments/message-headers/perm-headers.csv)  
+provisional-message-headers: [Provisional Message Header Field Names](https://iana.org/assignments/message-headers/prov-headers.csv)  
 platform-request-headers: request headers that are specific to certain platforms  
 platform-response-headers: response headers particular to certain platforms  
 rfc-request-headers: request header names that appear in an IETF RFC document  

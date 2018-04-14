@@ -10,10 +10,10 @@
 for d in $(ls -1d *-*)
   do cd -- "$d"
 
-  cp -avf index.md .index.md.bak
+  cp -avf INDEX.md .INDEX.md.bak
   rm -fv i.md
 
-  for f in $(awk -F\| '{print($1);}' index.md)
+  for f in $(awk -F\| '{print($1);}' INDEX.md)
     do #
 
     if [ -f ${f}.*.xz ]
@@ -21,7 +21,7 @@ for d in $(ls -1d *-*)
 
       xzlinc=$(xzcat -- ${f}.*.xz | wc -l)
 
-      declare xzdesc=$(egrep -- "^${f}" index.md | cut -d ':' -f2-)
+      declare xzdesc=$(egrep -- "^${f}" INDEX.md | cut -d ':' -f2-)
 
       builtin echo "${f}|${xzlinc}:${xzdesc}" >> i.md
     else
@@ -29,13 +29,13 @@ for d in $(ls -1d *-*)
       
       linesc=$(wc -l -- ${f}.* | cut -d ' ' -f1)
 
-      declare xzdesc=$(egrep -- "^${f}" index.md | cut -d ':' -f2-)
+      declare xzdesc=$(egrep -- "^${f}" INDEX.md | cut -d ':' -f2-)
 
       builtin echo "${f}|${linesc}:${xzdesc}" >> i.md
     fi
   done
   
-  mv -vf i.md index.md
+  mv -vf i.md INDEX.md
 
   cd ..
 done

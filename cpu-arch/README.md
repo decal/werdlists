@@ -1,1 +1,1 @@
-pentium-instruction-set: [operation codes](https://en.wikipedia.org/wiki/Opcode) for the [Intel Pentium](https://en.wikipedia.org/wiki/Pentium) architecture  
+pentium-instruction-set: [operation codes](https://wikipedia.org/wiki/Opcode) for the [Intel Pentium](https://wikipedia.org/wiki/Pentium) architecture  

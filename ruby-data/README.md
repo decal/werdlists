@@ -2,7 +2,7 @@ ri-classes-modules: classes and modules known to Ruby [RI](http://ruby-doc.org/s
 ruby-all-symbols: results of interpreting `irb` statement [Symbol.all_symbols](https://ruby-doc.org/core-2.2.0/Symbol.html#method-c-all_symbols)  
 ruby-encoding-names: list of encoding names from [Encoding.name_list](https://ruby-doc.org/core-2.2.0/Encoding.html#method-c-name_list) in `irb(1)`  
 ruby-parsing-rules: keywords and parsing rules used by the "Interactive [Ruby](https://www.ruby-lang.org)" parser, [IRB](http://ruby-doc.org/stdlib-2.0.0/libdoc/irb/rdoc/IRB.html)  
-rubygems-dash-version: Output listing of raw [Rubygems](https://rubygems.org) command `gem search ''`    
+rubygems-dash-version: Output listing of raw [Rubygems](https://rubygems.org) command `gem search ''`  
 rubygems-names-only: list of [Ruby](https://www.ruby-lang.org) gems--names only and nothing else..  
 rubygems-name-version: List of [Rubygems](https://rubygems.org) with name and version delimited by dash  
 undocumented-ruby-libraries: `undocumented_lib.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation")  

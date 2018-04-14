@@ -8,5 +8,5 @@ long-redirect-params: long parameter list most likely for location redirects
 mobile-deeplink-params: list from Virginia Tech deep link security whitepaper  
 php-easter-eggs: PHP easter egg query string values for version fingerprinting  
 remote-file-includes: examples of RFI (Remote File Inclusion) parameters  
-rfc6749-oauth2-params: HTTP GET request parameters for OAuth2 from [RFC6749](https://tools.ietf.org/html/rfc6749)    
+rfc6749-oauth2-params: HTTP GET request parameters for OAuth2 from [RFC6749](https://tools.ietf.org/html/rfc6749)  
 ssrf-crafting-sample: server side request forgery crafting sample  

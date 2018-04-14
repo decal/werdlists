@@ -1,5 +1,5 @@
 burp-word-list: word list taken from [Burp Proxy](https://portswigger.net/burp "Burp Suite Scanner") attack tool  
-dirb-list-words: file names taken parsed from the [dirb](https://dirb.sourceforge.net) `wordlists` folder 
+dirb-list-words: file names taken parsed from the [dirb](https://dirb.sourceforge.net) `wordlists` folder  
 drupal-modules-list: [Drupal](https://www.drupal.org/) modules list from `nselib/data/drupal-modules.lst`  
 drupal-themes-list: [Drupal](https://www.drupal.org/) themes list from `nselib/data/drupal-themes.lst`  
 phpx-all-words: words uniquely parsed from all [PHP](http://www.php.net) files in `webapp-files`  

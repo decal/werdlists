@@ -4,6 +4,8 @@
 # worker script `append-spaces-endofline` for processing..
 #
 
+## TODO: condense this script into append-spaces-endofline to remove this extraneous file
+
 if [ ! -f INDEX.md ]
   then echo "${reset}"
   echo "${bluef}***${reset} ${italicson}This script must be executed from the root folder!${reset}"

@@ -12,7 +12,7 @@ direct-web-remoting: paths for [Direct Web Remoting](http://directwebremoting.or
 dirsearch-paths-list: `dict.txt` file packaged with the dirsearch tool  
 drupal-path-names: path names typically found under the web root of a [Drupal](https://www.drupal.org "Open Source CMS") install  
 falcon-jsp-paths: _FalconPathScan_ `.php` extensions changed to `.jsp`  
-falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_   
+falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_  
 font-file-names: List of names for various OpenType and TrueType font files  
 forcepoint-ink-files: file names for scanning custom extensions  
 generic-path-names: general path names that could be used on any web server  
@@ -22,12 +22,12 @@ iis-path-names: path names commonly found under the web root of an _IIS_ install
 j2ee-paths-large: long list of custom created J2EE targeted path names  
 javascript-tooling-paths: [The Front-end Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling)  
 jboss-path-names: path names often handled by the _JBoss_ J2EE application server  
-jira-paths-list: [Jira](https://www.atlassian.com/software/jira) path names to test for
+jira-paths-list: [Jira](https://www.atlassian.com/software/jira) path names to test for  
 joomla-path-names: file names found in the directory hierarchy of Joomla sites  
 login-path-names: pathnames that could reference login pages on a web server  
 magento-path-names:  file names often found under Magento's directory hierarchy  
 nmap-rtsp-urls: taken from nmap's `nselib/data/rtsp-urls.txt`  
-oracle-business-intelligence: paths taken from _Oracle Business Intelligence_ docs    
+oracle-business-intelligence: paths taken from _Oracle Business Intelligence_ docs  
 oracle-path-names: pathnames usually served by _Oracle Application Server_  
 oracle-robots-text: the `robots.txt` that was served by <http://www.oracle.com>  
 oracle-robots-txt: pathnames to documentation on Oracle's primary web site  
@@ -44,7 +44,7 @@ unix-traverse-passwd: UNIX path names for directory traversing to passwd file
 web-inf-paths: list of path names typically found under the `WEB-INF` directory  
 web-inf-paths: typical path names to be founder under a `WEB-INF` folder  
 weblogic-j2ee-paths: common paths found on the J2EE WebLogic application server  
-websphere-class-path: IBM WebSphere `CLASSPATH` runtime environment variable   
+websphere-class-path: IBM WebSphere `CLASSPATH` runtime environment variable  
 websphere-path-names: pathnames usually available from _IBM WebSphere_ listeners  
 well-known-paths: Well-Known URI path names taken from IANA assignment  
 wfuzz-vulns-list: combined list of paths from the _wfuzz_ tool's `vulns` folder  

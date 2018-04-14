@@ -1,6 +1,7 @@
 Things To Do
 ============
 
+* Make PoC's part of the wiki
 * check */README.md for links, especially `environ-vars`
 * write script that converts Wikipedia article URL's with HTML tables to markdown tables
 * script that shortens URL's (removes en. subdomain from Wikipedia, www if not needed, remove trailing slash, HTTPS if possible)

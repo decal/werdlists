@@ -1,4 +1,4 @@
-arpa-domains-list: list of sub-domains under the `.arpa` top-level domain from <https://www.iana.org/domains/arpa>  
+arpa-domains-list: list of sub-domains under the `.arpa` top-level domain from <https://iana.org/domains/arpa>  
 cctld-char-pairs: a list of ccTLD's, ie. country code top-level domains  
 misc-tlds-list: miscellaneous top-level domain names list  
 ntld-launch-dates: New gTLD launches in chronological order via [new gTLDs launches](https://ntldstats.com/launch?start=)  
