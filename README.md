@@ -11,7 +11,7 @@
 
 # "Word Lists" for Software Security Test Cases
 
-> This project consists of word lists, dictionary files, attack strings, miscellaneous datasets and a PoC wiki for penetration testers
+> Word lists, dictionary files, attack strings, miscellaneous datasets and a PoC wiki for penetration testers
 
 ## Brief Introduction to `werdlists` :scissors:
 
