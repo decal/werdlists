@@ -6,7 +6,7 @@
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://gnu.org/software/bash/ "Made with Bash")
 
 * * *
-[![werdlists]](logo.png "Word Lists, Attack Strings, Miscellaneous Datasets and a PoC Wiki for Penetration Testing")
+[![werdlists](logo.png)](# "Word Lists, Attack Strings, Miscellaneous Datasets and a PoC Wiki for Penetration Testing")
 * * *
 
 # "Word Lists" for Software Security Test Cases
