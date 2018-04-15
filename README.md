@@ -106,7 +106,7 @@ http-paths: :feet: Path names that browsers include in queries to servers
 http-queries: :grey_question: The object syntax that appears after the question mark in URI's  
 http-security: :cop: Hyper Text Transfer Protocol security info, i.e. CSP  
 http-servers: :office: Information related to the usage of web server software  
-http-status: :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231, Section 6](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
+http-status: :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
 inet-addrs: :electric_plug: Numeric Internet addresses a.k.a. IP addresses--mostly version 4  
 inet-routes: :cloud: Data useful in the maintenance and use of an Internet [routing table](https://wikipedia.org/wiki/Routing_table)  
 inet-services: :fountain: Lists of Internet protocols/daemons--similar to `/etc/services`  

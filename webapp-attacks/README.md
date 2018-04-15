@@ -4,6 +4,7 @@ html-png-polyglot: Another file with HTML/CSS/JS code that's also a PNG
 joomla-components-targeted: list of [Joomla](https://www.joomla.com) components vulnerable to [LFI](https://wikipedia.org/wiki/File_inclusion_vulnerability "File inclusion vulnerability") targeted on a honeypot from <http://tacticalwebappsec.blogspot.com/2011/11/mass-joomla-component-lfi-attacks.html>  
 mongodb-nosql-injection: [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists)  
 png-html-polyglot: a PNG image file also containing HTML, CSS and JavaScript  
+sql-errors-data: typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system")  
 wapples-vseries-rules: WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf.pdf>  
 webapp-attack-strings: Various HTTP GET query strings that represent attacks  
 webapp-charset-attacks: Character set strings to test a web server's [content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation) behavior..  

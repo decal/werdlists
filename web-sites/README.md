@@ -9,6 +9,8 @@ modern-web-history: [A History of The Modern Web](https://github.com/whatwg/web-
 piidox-search-sites: list of [personally identifiable information](https://wikipedia.org/wiki/Personally_identifiable_information) search engines  
 simpl-redir-shortcuts: shortcuts for redirection on `simpl.info`  
 sites-using-cloudflare: sites using CloudFlare WAF according to [GitHub @pirate](https://github.com/pirate)  
+subreddit-list-full: <http://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits>
+subreddit-list-nsfw: *WARNING!* _NSFW_ Same as above, but with "not-safe-for-work" subreddit materials
 tls-scanner-urls: URL's to test TLS scanning on via [Botan](https://wikipedia.org/wiki/Botan_(programming_library))  
 top-sites-global: Top 1,000 Internet web sites across the globe by OWASP headers  
 url-shortener-site: URL shortener sites taken from <http://dns-bh.sagadc.org/url_shorteners.txt>  
