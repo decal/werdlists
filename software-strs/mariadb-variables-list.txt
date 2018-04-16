@@ -1,0 +1,2150 @@
+-0, --log-long-format
+-a (--ansii)
+Aborted_clients
+Aborted_connects
+--abort-slave-event-count
+Access_denied_errors
+Acl_column_grants
+Acl_database_grants
+Acl_function_grants
+Acl_package_body_grants
+Acl_package_spec_grants
+Acl_procedure_grants
+Acl_proxy_users
+Acl_role_grants
+Acl_roles
+Acl_table_grants
+Acl_users
+--allow-suspicious-udfs
+--ansii
+--aria-block-size, aria_block_size
+--aria-checkpoint-interval, aria_checkpoint_interval
+--aria-checkpoint-log-activity, aria_checkpoint_log_activity
+--aria-encrypt-tables, aria_encrypt_tables
+--aria-force-start-after-recovery-failures, aria_force_start_after_recovery_failures
+--aria-group-commit, aria_group_commit
+--aria-group-commit-interval, aria_group_commit_interval
+--aria-log-file-size, aria_log_file_size
+--aria-log-purge-type, aria_log_purge_type
+--aria-max-sort-file-size, aria_max_sort_file_size
+--aria-pagecache-age-threshold, aria_pagecache_age_threshold
+Aria_pagecache_blocks_not_flushed
+Aria_pagecache_blocks_unused
+Aria_pagecache_blocks_used
+--aria-pagecache-buffer-size, aria_pagecache_buffer_size
+--aria-pagecache-division-limit, aria_pagecache_division_limit
+--aria-pagecache-file-hash-size, aria_pagecache_file_hash_size
+Aria_pagecache_read_requests
+Aria_pagecache_reads
+Aria_pagecache_write_requests
+Aria_pagecache_writes
+--aria-page-checksum, aria_page_checksum
+--aria-recover, aria_recover
+--aria-repair-threads, aria_repair_threads
+--aria-sort-buffer-size, aria_sort_buffer_size
+--aria-stats-method, aria_stats_method
+--aria-sync-log-dir, aria_sync_log_dir
+Aria_transaction_log_syncs
+aria_used_for_temp_tables
+--autocommit, autocommit
+--auto-increment-increment, auto_increment_increment
+--auto-increment-offset, auto_increment_offset
+--automatic-sp-privileges, automatic_sp_privileges
+aws_key_management_key_spec
+aws_key_management_log_level
+aws_key_management_master_key_id
+aws_key_management_rotate_key
+--back-log, back_log
+-b, --basedir, basedir
+--big-tables, big_tables
+--bind-address, bind_address
+--binlog-annotate-row-events, binlog_annotate_row_events
+Binlog_bytes_written
+Binlog_cache_disk_use
+--binlog-cache-size, binlog_cache_size
+Binlog_cache_use
+--binlog-checksum, binlog_checksum
+Binlog_commits
+--binlog-commit-wait-count, binlog_commit_wait_count
+--binlog-commit-wait-count, binlog_commit_wait_usec
+--binlog-direct-non-transactional-updates, binlog_direct_non_transactional_updates
+--binlog-do-db
+--binlog-file-cache-size, binlog_file_cache_size
+--binlog-format, binlog_format
+Binlog_group_commits
+Binlog_group_commit_trigger_count
+Binlog_group_commit_trigger_lock_wait
+Binlog_group_commit_trigger_timeout
+--binlog-ignore-db
+--binlog-optimize-thread-scheduling, binlog_optimize_thread_scheduling
+--binlog-row-event-max-size
+--binlog-row-image, binlog_row_image
+Binlog_snapshot_file
+Binlog_snapshot_position
+Binlog_stmt_cache_disk_use
+--binlog-stmt-cache-size, binlog_stmt_cache_size
+Binlog_stmt_cache_use
+--bootstrap
+--bulk_insert-buffer-size, bulk_insert_buffer_size
+Busy_time
+Bytes_received
+Bytes_sent
+cassandra_default_thrift_host
+cassandra_failure_retries
+cassandra_insert_batch_size
+cassandra_multiget_batch_size
+Cassandra_multiget_keys_scanned
+Cassandra_multiget_reads
+Cassandra_multiget_rows_read
+Cassandra_network_exceptions
+cassandra_read_consistency
+cassandra_rnd_batch_size
+Cassandra_row_insert_batches
+Cassandra_row_inserts
+Cassandra_timeout_exceptions
+Cassandra_unavailable_exceptions
+cassandra_write_consistency
+-C, --character-set-server, character_set_server
+character_set_client
+--character-set-client-handshake
+character_set_connection
+character_set_database
+--character-set-filesystem, character_set_filesystem
+character_set_results
+--character-sets-dir, character_sets_dir
+character_set_system
+--check-constraint-checks, check_constraint_checks
+collation_connection
+collation_database
+--collation-server, collation_server
+Column_compressions
+--column-compression-threshold, column_compression_threshold
+--column-compression-zlib-level, column_compression_zlib_level
+--column-compression-zlib-strategy, column_compression_zlib_strategy
+--column-compression-zlib-wrap, column_compression_zlib_wrap
+Column_decompressions
+Com_admin_commands
+Com_alter_db
+Com_alter_db_upgrade
+Com_alter_event
+Com_alter_function
+Com_alter_procedure
+Com_alter_sequence
+Com_alter_server
+Com_alter_table
+Com_alter_tablespace
+Com_alter_user
+Com_analyze
+Com_assign_to_keycache
+Com_backup_table
+Com_begin
+Com_binlog
+Com_call_procedure
+Com_change_db
+Com_change_master
+Com_check
+Com_checksum
+Com_commit
+Com_compound_sql
+Com_create_db
+Com_create_event
+Com_create_function
+Com_create_index
+Com_create_package
+Com_create_package_body
+Com_create_procedure
+Com_create_role
+Com_create_sequence
+Com_create_server
+Com_create_table
+Com_create_temporary_table
+Com_create_trigger
+Com_create_udf
+Com_create_user
+Com_create_view
+Com_dealloc_sql
+Com_delete
+Com_delete_multi
+Com_do
+Com_drop_db
+Com_drop_event
+Com_drop_function
+Com_drop_index
+Com_drop_package
+Com_drop_package_body
+Com_drop_procedure
+Com_drop_role
+Com_drop_sequence
+Com_drop_server
+Com_drop_table
+Com_drop_temporary_table
+Com_drop_trigger
+Com_drop_user
+Com_drop_view
+Com_empty_query
+Com_execute_immediate
+Com_execute_sql
+Com_flush
+Com_get_diagnostics
+Com_grant
+Com_grant_role
+Com_ha_close
+Com_ha_open
+Com_ha_read
+Com_help
+Com_insert
+Com_insert_select
+Com_install_plugin
+Com_kill
+Com_load
+Com_load_master_data
+Com_load_master_table
+Com_lock_tables
+Com_multi
+Com_optimize
+--completion-type, completion_type
+Com_preload_keys
+Com_prepare_sql
+Compression
+Com_purge
+Com_purge_before_date
+Com_release_savepoint
+Com_rename_table
+Com_rename_user
+Com_repair
+Com_replace
+Com_replace_select
+Com_reset
+Com_resignal
+Com_restore_table
+Com_revoke
+Com_revoke_all
+Com_revoke_grant
+Com_rollback
+Com_rollback_to_savepoint
+Com_savepoint
+Com_select
+Com_set_option
+Com_show_authors
+Com_show_binlog_events
+Com_show_binlogs
+Com_show_charsets
+Com_show_client_statistics
+Com_show_collations
+Com_show_column_types
+Com_show_contributors
+Com_show_create_db
+Com_show_create_event
+Com_show_create_func
+Com_show_create_package
+Com_show_create_package_body
+Com_show_create_proc
+Com_show_create_table
+Com_show_create_trigger
+Com_show_create_user
+Com_show_databases
+Com_show_engine_logs
+Com_show_engine_mutex
+Com_show_engine_status
+Com_show_errors
+Com_show_events
+Com_show_explain
+Com_show_fields
+Com_show_function_status
+Com_show_generic
+Com_show_grants
+Com_show_index_statistics
+Com_show_keys
+Com_show_master_status
+Com_show_new_master
+Com_show_open_tables
+Com_show_package_body_status
+Com_show_package_status
+Com_show_plugins
+Com_show_privileges
+Com_show_procedure_status
+Com_show_processlist
+Com_show_profile
+Com_show_profiles
+Com_show_relaylog_events
+Com_show_slave_hosts
+Com_show_slave_status
+Com_show_status
+Com_show_storage_engines
+Com_show_tables
+Com_show_table_statistics
+Com_show_table_status
+Com_show_triggers
+Com_show_user_statistics
+Com_show_variable
+Com_show_warnings
+Com_shutdown
+Com_signal
+Com_slave_start
+Com_slave_stop
+Com_start_all_slaves
+Com_start_slave
+Com_stmt_close
+Com_stmt_execute
+Com_stmt_fetch
+Com_stmt_prepare
+Com_stmt_reprepare
+Com_stmt_reset
+Com_stmt_send_long_data
+Com_stop_all_slaves
+Com_stop_slave
+Com_truncate
+Com_uninstall_plugin
+Com_unlock_tables
+Com_update
+Com_update_multi
+Com_xa_commit
+Com_xa_end
+Com_xa_prepare
+Com_xa_recover
+Com_xa_rollback
+Com_xa_start
+--concurrent-insert, concurrent_insert
+--connect-class-path, connect_class_path
+--connect-conv-size, connect_conv_size
+--connect-enable-mongo, connect_enable_mongo
+--connect-exact-info, connect_exact_info
+--connect-indx-map, connect_indx_map
+Connection_errors_accept
+Connection_errors_internal
+Connection_errors_max_connections
+Connection_errors_peer_address
+Connection_errors_select
+Connection_errors_tcpwrap
+Connections
+--connect-java-wrapper, connect_java_wrapper
+--connect-json-grp-size, connect_json_grp_size
+--connect-json-null, connect_json_null
+--connect-jvm-path, connect_jvm_path
+--connect-timeout, connect_timeout
+--connect-type-conv, connect_type_conv
+--connect-use-tempfile, connect_use_tempfile
+--connect-work-size, connect_work_size
+--connect-xtrace, connect_xtrace
+--console
+--core-file
+Cpu_time
+cracklib-password-check, cracklib_password_check
+cracklib-password-check-dictionary, cracklib_password_check-dictionary
+Created_tmp_disk_tables
+Created_tmp_files
+Created_tmp_tables
+--date-format, date_format
+--datetime-format, datetime_format
+--deadlock-search-depth-long, deadlock_search_depth_long
+--deadlock-search-depth-short, deadlock_search_depth_short
+--deadlock-timeout-long, deadlock_timeout_long
+--deadlock-timeout-short, deadlock_timeout_short
+--debug-assert-if-crashed-table
+--debug_binlog_fsync_sleep=#
+--debug-crc-break=#
+-#, --debug, debug
+--debug-flush
+--debug-no-thread-alarm, debug_no_thread_alarm
+debug_sync
+--debug-sync-timeout[=#]
+--default-character-set
+--default-collation
+--default-master-connection, default_master_connection
+--default-regex-flags, default_regex_flags
+--defaults-extra-file
+--defaults-file
+--default-storage-engine, default_storage_engine
+--default-table-type, default_table_type
+--default-time-zone
+--default-tmp-storage-engine, default_tmp_storage_engine
+--default-week-format, default_week_format
+Delayed_errors
+--delayed-insert-limit, delayed_insert_limit
+Delayed_insert_threads
+--delayed-insert-timeout, delayed_insert_timeout
+--delayed-queue-size, delayed_queue_size
+Delayed_writes
+--delay-key-write, delay_key_write
+--delay-key-write-for-all-tables
+Delete_scan
+--des-key-file
+--disconnect-slave-event-count
+--div-precision-increment, div_precision_increment
+Empty_queries
+--enable-locking
+--enable-named-pipe
+--encrypt-binlog, encrypt_binlog
+--encryption-algorithm, encryption_algorithm
+--encrypt-tmp-disk-tables, encrypt_tmp_disk_tables
+--encrypt-tmp-files, encrypt_tmp_files
+enforce_storage_engine
+--engine-condition-pushdown, engine_condition_pushdown
+error_count
+--event-scheduler, event_scheduler
+Executed_events
+Executed_triggers
+--expensive-subquery-limit, expensive_subquery_limit
+--expire-logs-days, expire_logs_days
+--explicit-defaults-for-timestamp, explicit_defaults_for_timestamp
+--external-locking
+external_user
+--extra-max-connections, extra_max_connections
+--extra-port, extra_port
+Feature_check_constraint
+Feature_delay_key_write
+Feature_dynamic_columns
+Feature_fulltext
+Feature_gis
+Feature_invisible_columns
+Feature_locale
+Feature_subquery
+Feature_timezone
+Feature_trigger
+Feature_window_functions
+Feature_xml
+--feedback
+--feedback-http-proxy, feedback_http_proxy
+--feedback-send-retry-wait, feedback_send_retry_wait
+--feedback-send-timeout, feedback_send_timeout
+feedback_server_uid
+--feedback-url, feedback_url
+--feedback-user-info, feedback_user_info
+--flashback
+Flush_commands
+--flush, flush
+--flush-time, flush_time
+foreign_key_checks
+--ft-boolean-syntax, ft_boolean_syntax
+--ft-max-word-len, ft_max_word_len
+--ft-min-word-len, ft_min_word_len
+--ft-query-expansion-limit, ft_query_expansion_limit
+--ft-stopword-file, ft_stopword_file
+--gdb
+--general-log-file, general_log_file
+--general-log, general_log
+--getopt-prefix-matching
+--group-concat-max-len, group_concat_max_len
+gtid_binlog_pos
+gtid_binlog_state
+gtid_current_pos
+--gtid-domain-id, gtid_domain_id
+--gtid-ignore-duplicates, gtid_ignore_duplicates
+gtid_pos_auto_engines
+gtid_seq_no
+gtid_slave_pos
+--gtid-strict-mode, gtid_strict_mode
+Handler_commit
+Handler_delete
+Handler_discover
+Handler_external_lock
+Handler_icp_attempts
+Handler_icp_match
+Handler_mrr_init
+Handler_mrr_key_refills
+Handler_mrr_rowid_refills
+Handler_prepare
+Handler_read_first
+Handler_read_key
+Handler_read_last
+Handler_read_next
+Handler_read_prev
+Handler_read_retry
+Handler_read_rnd
+Handler_read_rnd_deleted
+Handler_read_rnd_next
+Handler_rollback
+Handler_savepoint
+Handler_savepoint_rollback
+--handlersocket-accept-balance, handlersocket_accept_balance
+--handlersocket-address, handlersocket_address
+--handlersocket-backlog, handlersocket_backlog
+--handlersocket-epoll, handlersocket_epoll
+--handlersocket-plain-secret, handlersocket_plain_secret
+--handlersocket-plain-secret-wr, handlersocket_plain_secret_wr
+--handlersocket-port, handlersocket_port
+--handlersocket-port-wr, handlersocket_port_wr
+--handlersocket-rcvbuf, handlersocket_rcvbuf
+--handlersocket-readsize, handlersocket_readsize
+--handlersocket-sndbuf, handlersocket_sndbuf
+--handlersocket-threads, handlersocket_threads
+--handlersocket-threads_wr, handlersocket_threads_wr
+--handlersocket-timeout, handlersocket_timeout
+--handlersocket-verbose, handlersocket_verbose
+--handlersocket-wrlock-timeout, handlersocket_wrlock_timeout
+Handler_tmp_delete
+Handler_tmp_update
+Handler_tmp_write
+Handler_update
+Handler_write
+have_compress
+have_crypt
+have_csv
+have_dynamic_loading
+have_geometry
+have_innodb
+have_ndbcluster
+have_openssl
+have_partitioning
+have_profiling
+have_query_cache
+have_rtree_keys
+have_ssl
+have_symlink
+-h, --datadir, datadir
+--help
+--histogram-size, histogram_size
+--histogram-type, histogram_type
+--host-cache-size, host_cache_size
+hostname
+identity
+--idle-readonly-transaction-timeout, idle_readonly_transaction_timeout
+--idle-transaction-timeout, idle_transaction_timeout
+--idle-write-transaction-timeout, idle_write_transaction_timeout
+--ignore-builtin-innodb, ignore_builtin_innodb
+--ignore-db-dir
+ignore_db_dirs
+--init-connect, init_connect
+--init-file, init_file
+--init-rpl-role
+--init-slave, init_slave
+--innodb
+--innodb-adaptive-checkpoint, innodb_adaptive_checkpoint
+--innodb-adaptive-flushing, innodb_adaptive_flushing
+--innodb-adaptive-flushing-lwm, innodb_adaptive_flushing_lwm
+--innodb_adaptive-flushing-method, innodb_adaptive_flushing_method
+Innodb_adaptive_hash_cells
+Innodb_adaptive_hash_hash_searches
+Innodb_adaptive_hash_heap_buffers
+--innodb-adaptive-hash-index, innodb_adaptive_hash_index
+--innodb-adaptive-hash-index-partitions, innodb_adaptive_hash_index_partitions
+--innodb-adaptive-hash-index-parts, innodb_adaptive_hash_index_parts
+Innodb_adaptive_hash_non_hash_searches
+--innodb-adaptive-max-sleep-delay, innodb_adaptive_max_sleep_delay
+--innodb-additional-mem-pool-size, innodb_additional_mem_pool_size
+--innodb-api-bk-commit_interval, innodb_api_bk_commit_interval
+--innodb-api-disable-rowlock, innodb_api_disable_rowlock
+--innodb_api_enable_binlog, innodb_api_enable_binlog
+--innodb-api-enable-mdl, innodb_api_enable_mdl
+--innodb-api-trx-level, innodb_api_trx_level
+--innodb-autoextend-increment, innodb_autoextend_increment
+--innodb-autoinc-lock-mode, innodb_autoinc_lock_mode
+--innodb-auto-lru-dump, innodb-auto-lru-dump
+Innodb_available_undo_logs
+Innodb_background_log_sync
+--innodb-background-scrub-data-check-interval, innodb_background_scrub_data_check_interval
+--innodb-background-scrub-data-compressed, innodb_background_scrub_data_compressed
+--innodb-background-scrub-data-interval, innodb_background_scrub_data_interval
+--innodb-background-scrub-data-uncompressed, innodb_background_scrub_data_uncompressed
+--innodb-blocking-buffer-pool-restore, innodb_blocking_buffer_pool_restore
+--innodb-buf-dump-status-frequency, innodb_buf_dump_status_frequency
+Innodb_buffer_pool_bytes_data
+Innodb_buffer_pool_bytes_dirty
+--innodb-buffer-pool-chunk-size, innodb_buffer_pool_chunk_size
+--innodb-buffer-pool-dump-at-shutdown, innodb_buffer_pool_dump_at_shutdown
+--innodb-buffer-pool-dump-now, innodb_buffer_pool_dump_now
+--innodb-buffer-pool-dump-pct, innodb_buffer_pool_dump_pct
+Innodb_buffer_pool_dump_status
+--innodb-buffer-pool-evict, innodb_buffer_pool_evict
+--innodb-buffer-pool-filename, innodb_buffer_pool_filename
+--innodb-buffer-pool-instances, innodb_buffer_pool_instances
+--innodb-buffer-pool-load-abort, innodb_buffer_pool_load_abort
+--innodb-buffer-pool-load-at-startup, innodb_buffer_pool_load_at_startup
+Innodb_buffer_pool_load_incomplete
+--innodb-buffer-pool-load-now, innodb_buffer_pool_load_now
+Innodb_buffer_pool_load_status
+--innodb-buffer-pool-pages
+--innodb-buffer-pool-pages-blob
+Innodb_buffer_pool_pages_data
+Innodb_buffer_pool_pages_dirty
+Innodb_buffer_pool_pages_flushed
+Innodb_buffer_pool_pages_free
+--innodb-buffer-pool-pages-index
+Innodb_buffer_pool_pages_LRU_flushed
+Innodb_buffer_pool_pages_made_not_young
+Innodb_buffer_pool_pages_made_young
+Innodb_buffer_pool_pages_misc
+Innodb_buffer_pool_pages_old
+Innodb_buffer_pool_pages_total
+--innodb-buffer-pool-populate, innodb_buffer_pool_populate
+Innodb_buffer_pool_read_ahead
+Innodb_buffer_pool_read_ahead_evicted
+Innodb_buffer_pool_read_ahead_rnd
+Innodb_buffer_pool_read_requests
+Innodb_buffer_pool_reads
+Innodb_buffer_pool_resize_status
+--innodb-buffer-pool-restore-at-startup, innodb_buffer_pool_restore_at_startup
+--innodb-buffer-pool-shm-checksum, innodb_buffer_pool_shm_checksum
+--innodb-buffer-pool-shm-key, innodb_buffer_pool_shm_key
+--innodb-buffer-pool-size, innodb_buffer_pool_size
+Innodb_buffer_pool_wait_free
+Innodb_buffer_pool_write_requests
+--innodb-change-buffering-debug, innodb_change_buffering_debug
+--innodb-change-buffering, innodb_change_buffering
+--innodb-change-buffer-max-size, innodb_change_buffer_max_size
+Innodb_checkpoint_age
+--innodb-checkpoint-age-target, innodb_checkpoint_age_target
+Innodb_checkpoint_max_age
+Innodb_checkpoint_target_age
+--innodb-checksum-algorithm, innodb_checksum_algorithm
+--innodb-checksums, innodb_checksums
+--innodb-cleaner-lsn-age-factor, innodb_cleaner_lsn_age_factor
+--innodb-cmp
+--innodb-cmpmem
+--innodb-cmpmem-reset
+--innodb-cmp-per-index-enabled, innodb_cmp_per_index_enabled
+--innodb-cmp-reset
+--innodb-commit-concurrency, innodb_commit_concurrency
+--innodb-compression-algorithm, innodb_compression_algorithm
+--innodb-compression-default, innodb_compression_default
+--innodb-compression-failure-threshold-pct, innodb_compression_failure_threshold_pct
+--innodb-compression-level, innodb_compression_level
+--innodb-compression-pad-pct-max, innodb_compression_pad_pct_max
+--innodb-concurrency-tickets, innodb_concurrency_tickets
+--innodb-corrupt-table-action, innodb_corrupt_table_action
+Innodb_current_row_locks
+--innodb-data-file-path, innodb_data_file_path
+Innodb_data_fsyncs
+--innodb-data-home-dir, innodb_data_home_dir
+Innodb_data_pending_fsyncs
+Innodb_data_pending_reads
+Innodb_data_pending_writes
+Innodb_data_read
+Innodb_data_reads
+Innodb_data_writes
+Innodb_data_written
+Innodb_dblwr_pages_written
+Innodb_dblwr_writes
+--innodb-deadlock-detect, innodb_deadlock_detect
+Innodb_deadlocks
+--innodb-default-encryption-key-id, innodb_default_encryption_key_id
+--innodb-default-page-encryption-key, innodb_default_page_encryption_key
+--innodb-default-row-format, innodb_default_row_format
+Innodb_defragment_compression_failures
+Innodb_defragment_count
+Innodb_defragment_failures
+--innodb-defragment-fill-factor, innodb_defragment_fill_factor
+--innodb-defragment-fill-factor-n-recs, innodb_defragment_fill_factor_n_recs
+--innodb-defragment-frequency, innodb_defragment_frequency
+--innodb-defragment, innodb_defragment
+--innodb-defragment-n-pages, innodb_defragment_n_pages
+--innodb-defragment-stats-accuracy, innodb_defragment_stats_accuracy
+--innodb-dict-size-limit, innodb_dict_size_limit
+Innodb_dict_tables
+--innodb-disable-sort-file-cache, innodb_disable_sort_file_cache
+innodb_disallow_writes
+--innodb-doublewrite-file, innodb_doublewrite_file
+--innodb-doublewrite, innodb_doublewrite
+--innodb_empty-free-list-algorithm, innodb_empty_free_list_algorithm
+--innodb-enable-unsafe-group-commit, innodb_enable_unsafe_group_commit
+Innodb_encryption_n_merge_blocks_decrypted
+Innodb_encryption_n_merge_blocks_encrypted
+Innodb_encryption_n_rowlog_blocks_decrypted
+Innodb_encryption_n_rowlog_blocks_encrypted
+Innodb_encryption_num_key_requests
+--innodb-encryption-rotate-key-age, innodb_encryption_rotate_key_age
+Innodb_encryption_rotation_estimated_iops
+--innodb-encryption-rotation-iops, innodb_encryption_rotation_iops
+Innodb_encryption_rotation_pages_flushed
+Innodb_encryption_rotation_pages_modified
+Innodb_encryption_rotation_pages_read_from_cache
+Innodb_encryption_rotation_pages_read_from_disk
+--innodb-encryption-threads, innodb_encryption_threads
+--innodb-encrypt-log, innodb_encrypt_log
+--innodb-encrypt-tables, innodb_encrypt_tables
+--innodb-expand-import
+--innodb-extra-rsegments, innodb_extra_rsegments
+--innodb-extra-undoslots, innodb_extra_undoslots
+--innodb-fake-changes, innodb_fake_changes
+--innodb-fast-checksum, innodb_fast_checksum
+--innodb-fast-recovery
+--innodb-fast-shutdown, innodb_fast_shutdown
+--innodb-fatal-semaphore-wait-threshold, innodb_fatal_semaphore_wait_threshold
+--innodb-file-format-check, innodb_file_format_check
+--innodb-file-format, innodb_file_format
+--innodb-file-format-max, innodb_file_format_max
+--innodb-file-io-threads
+--innodb-file-per-table, innodb_file_per_table
+--innodb-fill-factor, innodb_fill_factor
+--innodb-flushing-avg-loops, innodb_flushing_avg_loops
+--innodb_flush_log_at_timeout
+--innodb-flush-log-at-trx-commit, innodb_flush_log_at_trx_commit
+--innodb-flush-log-at-trx-commit-session
+--innodb-flush-method, innodb_flush_method
+--innodb-flush-neighbor-pages, innodb_flush_neighbor_pages
+--innodb-flush-neighbors, innodb_flush_neighbors
+--innodb-flush-sync, innodb_flush_sync
+--innodb-force-load-corrupted, innodb_force_load_corrupted
+--innodb-force-primary-key, innodb_force_primary_key
+--innodb-force-recovery, innodb_force_recovery
+--innodb-foreground-preflush, innodb_foreground_preflush
+--innodb-ft-aux-table, innodb_ft_aux_table
+--innodb-ft-cache-size, innodb_ft_cache_size
+--innodb-ft-enable-diag-print, innodb_ft_enable_diag_print
+--innodb-ft-enable-stopword, innodb_ft_enable_stopword
+--innodb-ft-max-token-size, innodb_ft_max_token_size
+--innodb-ft-min-token-size, innodb_ft_min_token_size
+--innodb-ft-num-word-optimize, innodb_ft_num_word_optimize
+--innodb-ft-result-cache-limit, innodb_ft_result_cache_limit
+--innodb-ft-server-stopword-table, innodb_ft_server_stopword_table
+--innodb-ft-sort-pll-degree, innodb_ft_sort_pll_degree
+--innodb-ft-total-cache-size, innodb_ft_total_cache_size
+--innodb-ft-user-stopword-table, innodb_ft_user_stopword_table
+Innodb_have_atomic_builtins
+Innodb_have_bzip2
+Innodb_have_lz4
+Innodb_have_lzma
+Innodb_have_lzo
+Innodb_have_punch_hole
+Innodb_have_snappy
+Innodb_history_list_length
+--innodb-ibuf-accel-rate, innodb_ibuf_accel_rate
+--innodb-ibuf-active-contract, innodb_ibuf_active_contract
+Innodb_ibuf_discarded_delete_marks
+Innodb_ibuf_discarded_deletes
+Innodb_ibuf_discarded_inserts
+Innodb_ibuf_free_list
+--innodb-ibuf-max-size, innodb_ibuf_max_size
+Innodb_ibuf_merged_delete_marks
+Innodb_ibuf_merged_deletes
+Innodb_ibuf_merged_inserts
+Innodb_ibuf_merges
+Innodb_ibuf_segment_size
+Innodb_ibuf_size
+--innodb-idle-flush-pct, innodb_idle_flush_pct
+--innodb-immediate-scrub-data-uncompressed, innodb_immediate_scrub_data_uncompressed
+--innodb-import-table-from-xtrabackup, innodb_import_table_from_xtrabackup
+--innodb-index-stats
+Innodb_instant_alter_column
+--innodb-instrument-semaphores, innodb_instrument_semaphores
+--innodb-io-capacity, innodb_io_capacity
+--innodb-io-capacity-max, innodb_io_capacity_max
+innodb_kill_idle_transaction
+--innodb-large-prefix, innodb_large_prefix
+--innodb-lazy-drop-table, innodb_lazy_drop_table
+--innodb-locking-fake-changes, innodb_locking_fake_changes
+--innodb-locks
+--innodb-lock-schedule-algorithm, innodb_lock_schedule_algorithm
+--innodb-locks-unsafe-for-binlog, innodb_locks_unsafe_for_binlog
+--innodb-lock-waits
+--innodb-lock-wait-timeout, innodb_lock_wait_timeout
+--innodb-log-arch-dir, innodb_log_arch_dir
+--innodb-log-arch-expire-sec, innodb_log_arch_expire_sec
+--innodb-log-archive, innodb_log_archive
+--innodb-log-block-size, innodb_log_block_size
+--innodb-log-buffer-size, innodb_log_buffer_size
+-- innodb-log-checksum-algorithm, innodb_log_checksum_algorithm
+-- innodb-log-checksums, innodb_log_checksums
+-- innodb-log-compressed-pages, innodb_log_compressed_pages
+--innodb-log-files-in-group, innodb_log_files_in_group
+--innodb-log-file-size, innodb_log_file_size
+--innodb-log-group-home-dir, innodb_log_group_home_dir
+Innodb_log_waits
+--innodb-log-write-ahead-size, innodb_log_write_ahead_size
+Innodb_log_write_requests
+Innodb_log_writes
+--innodb-lru-scan-depth, innodb_lru_scan_depth
+Innodb_lsn_current
+Innodb_lsn_flushed
+Innodb_lsn_last_checkpoint
+Innodb_master_thread_10_second_loops
+Innodb_master_thread_1_second_loops
+Innodb_master_thread_active_loops
+Innodb_master_thread_background_loops
+Innodb_master_thread_idle_loops
+Innodb_master_thread_main_flush_loops
+Innodb_master_thread_sleeps
+--innodb-max-bitmap-file-size, innodb_max_bitmap_file_size
+--innodb-max-changed-pages, innodb_max_changed_pages
+--innodb-max-dirty-pages-pct, innodb_max_dirty_pages_pct
+--innodb-max-dirty-pages-pct-lwm, innodb_max_dirty_pages_pct_lwm
+--innodb-max-purge-lag-delay, innodb_max_purge_lag_delay
+--innodb-max-purge-lag, innodb_max_purge_lag
+Innodb_max_trx_id
+--innodb-max-undo-log-size, innodb_max_undo_log_size
+Innodb_mem_adaptive_hash
+Innodb_mem_dictionary
+Innodb_mem_total
+--innodb-merge-sort-block-size, innodb_merge_sort_block_size
+--innodb-mirrored-log-groups, innodb_mirrored_log_groups
+--innodb-monitor-disable, innodb_monitor_disable
+--innodb-monitor-enable, innodb_monitor_enable
+--innodb-monitor-reset-all, innodb_monitor_reset_all
+--innodb-monitor-reset, innodb_monitor_reset
+--innodb-mtflush-threads, innodb_mtflush_threads
+Innodb_mutex_os_waits
+Innodb_mutex_spin_rounds
+Innodb_mutex_spin_waits
+--innodb-numa-interleave, innodb_numa_interleave
+Innodb_num_index_pages_written
+Innodb_num_non_index_pages_written
+Innodb_num_open_files
+Innodb_num_page_compressed_trim_op
+Innodb_num_page_compressed_trim_op_saved
+Innodb_num_pages_encrypted
+Innodb_num_pages_page_compressed
+Innodb_num_pages_page_compression_error
+Innodb_num_pages_page_decompressed
+Innodb_num_pages_page_decrypted
+Innodb_num_pages_page_encryption_error
+--innodb-old-blocks-pct, innodb_old_blocks_pct
+--innodb-old-blocks-time, innodb_old_blocks_time
+Innodb_oldest_view_low_limit_trx_id
+--innodb-online-alter-log-max-size, innodb_online_alter_log_max_size
+Innodb_onlineddl_pct_progress
+Innodb_onlineddl_rowlog_pct_used
+Innodb_onlineddl_rowlog_rows
+--innodb-open-files, innodb_open_files
+--innodb-optimize-fulltext-only, innodb_optimize_fulltext_only
+Innodb_os_log_fsyncs
+Innodb_os_log_pending_fsyncs
+Innodb_os_log_pending_writes
+Innodb_os_log_written
+--innodb-overwrite-relay-log-info
+--innodb-page-cleaners, innodb_page_cleaners
+Innodb_page_compression_saved
+Innodb_page_compression_trim_sect1024
+Innodb_page_compression_trim_sect16384
+Innodb_page_compression_trim_sect2048
+Innodb_page_compression_trim_sect32768
+Innodb_page_compression_trim_sect4096
+Innodb_page_compression_trim_sect512
+Innodb_page_compression_trim_sect8192
+Innodb_pages0_read
+Innodb_pages_created
+Innodb_page_size
+--innodb-page-size, innodb_page_size
+Innodb_pages_read
+Innodb_pages_written
+--innodb-pass-corrupt-table, innodb-pass-corrupt-table
+--innodb-prefix-index-cluster-optimization, innodb_prefix_index_cluster_optimization
+--innodb-print-all-deadlocks, innodb_print_all_deadlocks
+--innodb-purge-batch-size, innodb_purge_batch_size
+--innodb-purge-rseg-truncate-frequency, innodb_purge_rseg_truncate_frequency
+--innodb-purge-threads, innodb_purge_threads
+Innodb_purge_trx_id
+Innodb_purge_undo_no
+--innodb-random-read-ahead, innodb_random_read_ahead
+--innodb-read-ahead, innodb_read_ahead
+--innodb-read-ahead-threshold, innodb_read_ahead_threshold
+--innodb-read-io-threads, innodb_read_io_threads
+--innodb-read-only, innodb_read_only
+Innodb_read_views_memory
+--innodb-recovery-stats, innodb_recovery_stats
+--innodb-recovery-update-relay-log, innodb-recovery-update-relay-log
+--innodb-replication-delay, innodb_replication_delay
+--innodb-rollback-on-timeout, innodb_rollback_on_timeout
+--innodb-rollback-segments, innodb_rollback_segments
+Innodb_row_lock_current_waits
+Innodb_row_lock_numbers
+Innodb_row_lock_time
+Innodb_row_lock_time_avg
+Innodb_row_lock_time_max
+Innodb_row_lock_time_waits
+Innodb_rows_deleted
+Innodb_rows_inserted
+Innodb_rows_read
+Innodb_rows_updated
+--innodb-rseg
+--innodb-sched-priority-cleaner, innodb_sched_priority_cleaner
+Innodb_scrub_background_page_reorganizations
+Innodb_scrub_background_page_split_failures_missing_index
+Innodb_scrub_background_page_split_failures_out_of_filespace
+Innodb_scrub_background_page_split_failures_underflow
+Innodb_scrub_background_page_split_failures_unknown
+Innodb_scrub_background_page_splits
+Innodb_scrub_log
+--innodb-scrub-log, innodb_scrub_log
+--innodb-scrub-log-interval, innodb_scrub_log_interval
+--innodb-scrub-log-speed, innodb_scrub_log_speed
+Innodb_secondary_index_triggered_cluster_reads
+Innodb_secondary_index_triggered_cluster_reads_avoided
+--innodb-show-locks-held, innodb-show-locks-held
+--innodb-show-verbose-locks, innodb_show_verbose_locks
+innodb_simulate_comp_failures
+Innodb_s_lock_os_waits
+Innodb_s_lock_spin_rounds
+Innodb_s_lock_spin_waits
+--innodb-sort-buffer-size, innodb_sort_buffer_size
+--innodb-spin-wait-delay, innodb_spin_wait_delay
+--innodb-stats-auto-recalc, innodb_stats_auto_recalc
+--innodb-stats-auto-update, innodb_stats_auto_update
+--innodb-stats-include-delete-marked, innodb_stats_include_delete_marked
+--innodb-stats-method, innodb_stats_method
+--innodb-stats-modified-counter, innodb_stats_modified_counter
+--innodb-stats-on-metadata, innodb-stats-on-metadata
+--innodb-stats-persistent, innodb_stats_persistent
+--innodb-stats-persistent-sample-pages, innodb_stats_persistent_sample_pages
+--innodb-stats-sample-pages, innodb_stats_sample_pages
+--innodb-stats-traditional, innodb_stats_traditional
+--innodb-stats-transient-sample-pages, innodb_stats_transient_sample_pages
+--innodb-stats-update-need-lock, innodb_stats_update_need_lock
+--innodb-status-file
+--innodb-status-output, innodb_status_output
+--innodb-status-output-locks, innodb_status_output_locks
+--innodb-strict-mode, innodb_strict_mode
+--innodb-support-xa, innodb_support_xa
+--innodb-sync-array-size, innodb_sync_array_size
+--innodb-sync-spin-loops, innodb_sync_spin_loops
+--innodb-sys-indexes
+--innodb-sys-stats
+--innodb-sys-tables
+Innodb_system_rows_deleted
+Innodb_system_rows_inserted
+Innodb_system_rows_read
+Innodb_system_rows_updated
+--innodb-table-locks, innodb_table_locks
+--innodb-table-stats
+--innodb_temp_data_file_path, innodb_temp_data_file_path
+--innodb-thread-concurrency, innodb_thread_concurrency
+--innodb-thread-concurrency-timer-based, innodb_thread_concurrency_timer_based
+--innodb-thread-sleep-delay, innodb_thread_sleep_delay
+--innodb-tmpdir, innodb_tmpdir
+--innodb-track-changed-pages, innodb_track_changed_pages
+--innodb-track-redo-log-now, innodb_track_redo_log_now
+Innodb_truncated_status_writes
+--innodb-trx
+--innodb-undo-directory, innodb_undo_directory
+--innodb-undo-logs, innodb_undo_logs
+--innodb-undo-log-truncate, innodb_undo_log_truncate
+--innodb-undo-tablespaces, innodb_undo_tablespaces
+--innodb-use-atomic-writes, innodb_use_atomic_writes
+--innodb-use-fallocate, innodb_use_fallocate
+--innodb-use-global-flush-log-at-trx-commit, innodb_use_global_flush_log_at_trx_commit
+--innodb-use-mtflush, innodb_use_mtflush
+--innodb-use-native_aio, innodb_use_native_aio
+--innodb-use-purge-thread, innodb_use_purge_thread
+--innodb-use-stacktrace, innodb_use_stacktrace
+--innodb-use-sys-malloc, innodb_use_sys_malloc
+--innodb-use-sys-stats-table, innodb_use_sys_stats_table
+--innodb-use-trim, innodb_use_trim
+innodb_version
+--innodb-write-io-threads, innodb_write_io_threads
+Innodb_x_lock_os_waits
+Innodb_x_lock_spin_rounds
+Innodb_x_lock_spin_waits
+--insert_id
+--interactive-timeout, interactive_timeout
+in_transaction
+--join-buffer-size, join_buffer_size
+--join-buffer-space-limit, join_buffer_space_limit
+--join-cache-level, join_cache_level
+--keep-files-on-create, keep_files_on_create
+Key_blocks_not_flushed
+Key_blocks_unused
+Key_blocks_used
+Key_blocks_warm
+--key-buffer-size, key_buffer_size
+--key-cache-age-threshold, key_cache_age_threshold
+--key-cache-block-size, key_cache_block_size
+--key-cache-division-limit, key_cache_division_limit
+--key-cache-file-hash-size, key_cache_file_hash_size
+--key-cache-segments, key_cache_segments
+Key_read_requests
+Key_reads
+Key_write_requests
+Key_writes
+large_files_support
+large_page_size
+--large-pages, large_pages
+last_gtid
+last_insert_id
+Last_query_cost
+--lc-messages-dir, lc_messages_dir
+--lc-messages, lc_messages
+--lc-time-names, lc_time_names
+license
+-L, --language, language
+-l, --log, log
+--local-infile, local_infile
+locked_in_memory
+--lock-wait-timeout, lock_wait_timeout
+--log-basename
+log_bin_basename
+--log-bin-compress, log_bin_compress
+--log-bin-compress-min-len, log_bin_compress_min_len
+--log-bin-index, log_bin_index
+--log-bin, log_bin
+--log-bin-trust-function-creators, log_bin_trust_function_creators
+--log-bin-trust-routine-creators
+--log-disabled-statements, log_disabled_statements
+--log-error, log_error
+--log-isam
+--log-output, log_output
+--log-queries-not-using-indexes, log_queries_not_using_indexes
+--log-short-format
+--log-slave-updates, log_slave_updates
+--log-slow-admin-statements, log_slow_admin_statements
+--log-slow-disabled-statements, log_slow_disabled_statements
+--log-slow-file
+--log-slow-filter, log_slow_filter
+--log-slow-queries, log_slow_queries
+--log-slow-rate-limit, log_slow_rate_limit
+--log-slow-slave-statements, log_slow_slave_statements
+--log-slow-time
+--log-slow-verbosity, log_slow_verbosity
+--log-tc
+--log-tc-size, log_tc_size
+--log-update
+--long-query-time, long_query_time
+lower_case_file_system
+--lower-case-table-names, lower_case_table_names
+--low-priority-updates, low_priority_updates
+--master-connect-retry
+Master_gtid_wait_count
+Master_gtid_wait_time
+Master_gtid_wait_timeouts
+--master-host
+--master-info-file
+--master-password
+--master-port
+--master-retry-count, master_retry_count
+--master-ssl
+--master-ssl-ca
+--master-ssl-capath
+--master-ssl-cert
+--master-ssl-cipher
+--master-ssl-key
+--master-user
+--master-verify-checksum, master_verify_checksum
+--max-allowed-packet, max_allowed_packet
+--max-binlog-cache-size, max_binlog_cache_size
+--max-binlog-dump-events
+--max-binlog-size, max_binlog_size
+--max-binlog-stmt-cache-size, max_binlog_stmt_cache_size
+--max-connect-errors, max_connect_errors
+--max-connections, max_connections
+--max-delayed-threads, max_delayed_threads
+--max-digest-length, max_digest_length
+--max-error-count, max_error_count
+--max-heap-table-size, max_heap_table_size
+max_insert_delayed_threads
+--max-join-size, max_join_size
+--max-length-for-sort-data, max_length_for_sort_data
+--max-long-data-size, max_long_data_size
+--max-prepared-stmt-count, max_prepared_stmt_count
+--max-recursive-iterations, max_recursive_iterations
+--max-relay-log-size, max_relay_log_size
+--max-seeks-for-key, max_seeks_for_key
+--max-session-mem-used, max_session_mem_used
+--max-sort-length, max_sort_length
+--max-sp-recursion-depth, max_sp_recursion_depth
+Max_statement_time_exceeded
+--max-statement-time, max_statement_time
+--max-tmp-tables, max_tmp_tables
+Max_used_connections
+--max-user-connections, max_user_connections
+--max-write-lock-count, max_write_lock_count
+--memlock
+Memory_used
+Memory_used_initial
+--metadata-locks-cache-size, metadata_locks_cache_size
+--metadata-locks-hash-instances, metadata_locks_hash_instances
+--min-examined-row-limit, min-examined-row-limit
+mroonga_action_on_fulltext_query_error
+mroonga_boolean_mode_syntax_flags
+Mroonga_count_skip
+mroonga_database_path_prefix
+mroonga_default_parser
+mroonga_default_tokenizer
+mroonga_default_wrapper_engine
+mroonga_dry_write
+mroonga_enable_operations_recording
+mroonga_enable_optimization
+Mroonga_fast_order_limit
+mroonga_libgroonga_embedded
+mroonga_libgroonga_support_zlib
+mroonga_libgroonga_support_zstd
+mroonga_libgroonga_version
+mroonga_log_file
+mroonga_log_level
+mroonga_match_escalation_threshold
+mroonga_max_n_records_for_estimate
+mroonga_query_log_file
+mroonga_vector_column_delimiter
+mroonga_version
+--mrr-buffer-size, mrr_buffer_size
+--multi_range_count=#
+--myisam-block-size, myisam_block_size
+--myisam-data-pointer-size, myisam_data_pointer_size
+--myisam-max-extra-sort-file-size, myisam_max_extra_sort_file_size
+--myisam-max-sort-file-size, myisam_max_sort_file_size
+--myisam-mmap-size, myisam_mmap_size
+--myisam-recover-options, myisam_recover_options
+--myisam-repair-threads, myisam_repair_threads
+--myisam-sort-buffer-size, myisam_sort_buffer_size
+--myisam-stats-method, myisam_stats_method
+--myisam-use-mmap, myisam_use_mmap
+--mysql56-temporal-format, mysql56_temporal_format
+named_pipe
+--ndb-use-copying-alter-table
+--net-buffer-length, net_buffer_length
+--net-read-timeout, net_read_timeout
+--net-retry-count, net_retry_count
+--net-write-timeout, net_write_timeout
+--new
+Not_flushed_delayed_rows
+--old-alter-table, old_alter_table
+--old-mode, old_mode
+--old, old
+--old-passwords, old_passwords
+--old-style-user-limits
+--one-thread
+Opened_files
+Opened_table_definitions
+Opened_tables
+Opened_views
+Open_files
+--open-files-limit, open_files_limit
+Open_streams
+Open_table_definitions
+Open_tables
+--optimizer-prune-level , optimizer_prune_level
+--optimizer-search-depth, optimizer_search_depth
+--optimizer-selectivity-sampling-limit, optimizer_selectivity_sampling_limit
+--optimizer-switch, optimizer_switch
+--optimizer-use-condition-selectivity, optimizer_use_condition_selectivity
+oqgraph_allow_create_integer_latch
+Oqgraph_boost_version
+Oqgraph_compat_mode
+Oqgraph_verbose_debug
+-O, --set-variable
+--pbxt
+--pbxt-auto-increment-mode
+--pbxt-checkpoint-frequency
+--pbxt-data-file-grow-size
+--pbxt-data-log-threshold
+--pbxt-flush-log-at-trx-commit
+--pbxt-garbage-threshold
+--pbxt-index-cache-size
+--pbxt-log-buffer-size
+--pbxt-log-cache-size
+--pbxt-log-file-count
+--pbxt-log-file-threshold
+--pbxt-max-threads
+--pbxt-offline-log-function
+--pbxt-record-cache-size
+--pbxt-row-file-grow-size
+--pbxt-statistics
+--pbxt-support-xa
+--pbxt-sweeper-priority
+--pbxt-transaction-buffer-size
+Performance_schema_accounts_lost
+--performance-schema-accounts-size, performance_schema_accounts_size
+Performance_schema_cond_classes_lost
+Performance_schema_cond_instances_lost
+--performance-schema-consumer-events-stages-current
+--performance-schema-consumer-events-stages-history
+--performance-schema-consumer-events-stages-history-long
+--performance-schema-consumer-events-statements-current
+--performance-schema-consumer-events-statements-history
+--performance-schema-consumer-events-statements-history-long
+--performance-schema-consumer-events-waits-current
+--performance-schema-consumer-events-waits-history
+--performance-schema-consumer-events-waits-history-long
+--performance-schema-consumer-global-instrumentation
+--performance-schema-consumer-statements-digest
+--performance-schema-consumer-thread-instrumentation
+Performance_schema_digest_lost
+--performance-schema-digests-size, performance_schema_digests_size
+--performance-schema-events-stages-history-long-size, performance_schema_events_stages_history_long_size
+--performance-schema-events-stages-history-size, performance_schema_events_stages_history_size
+--performance-schema-events-statements-history-long-size, performance_schema_events_statements_history_long_size
+--performance-schema-events-statements-history-size, performance_schema_events_statements_history_size
+--performance-schema-events-waits-history-long-size, performance_schema_events_waits_history_long_size
+--performance-schema-events-waits-history-size, performance_schema_events_waits_history_size
+Performance_schema_file_classes_lost
+Performance_schema_file_handles_lost
+Performance_schema_file_instances_lost
+Performance_schema_hosts_lost
+--performance-schema-hosts-size, performance_schema_hosts_size
+Performance_schema_locker_lost
+--performance-schema-max-cond-classes, performance_schema_max_cond_classes
+--performance-schema-max-cond-instances, performance_schema_max_cond_instances
+--performance-schema-max-digest-length, performance_schema_max_digest_length
+--performance-schema-max-file-classes, performance_schema_max_file_classes
+--performance-schema-max-file-handles, performance_schema_max_file_handles
+--performance-schema-max-file-instances, performance_schema_max_file_instances
+--performance-schema-max-mutex-classes, performance_schema_max_mutex_classes
+--performance-schema-max-mutex-instances, performance_schema_max_mutex_instances
+--performance-schema-max-rwlock-classes, performance_schema_max_rwlock_classes
+--performance-schema-max-rwlock-instances, performance_schema_max_rwlock_instances
+--performance-schema-max-socket-classes, performance_schema_max_socket_classes
+--performance-schema-max-socket-instances, performance_schema_max_socket_instances
+--performance-schema-max-stage-classes, performance_schema_max_stage_classes
+--performance-schema-max-statement-classes, performance_schema_max_statement_classes
+--performance-schema-max-table-handles, performance_schema_max_table_handles
+--performance-schema-max-table-instances, performance_schema_max_table_instances
+--performance-schema-max-thread-classes, performance_schema_max_thread_classes
+--performance-schema-max-thread-instances, performance_schema_max_thread_instances
+Performance_schema_mutex_classes_lost
+Performance_schema_mutex_instances_lost
+--performance-schema, performance_schema
+Performance_schema_rwlock_classes_lost
+Performance_schema_rwlock_instances_lost
+Performance_schema_schema_users_lost
+--performance-schema-session-connect-attrs-size, performance_schema_session_connect_attrs_size
+--performance-schema-setup-actors-size, performance_schema_setup_actors_size
+--performance-schema-setup-objects-size, performance_schema_setup_objects_size
+Performance_schema_socket_classes_lost
+Performance_schema_socket_instances_lost
+Performance_schema_stage_classes_lost
+Performance_schema_statement_classes_lost
+Performance_schema_table_handles_lost
+Performance_schema_table_instances_lost
+Performance_schema_thread_classes_lost
+Performance_schema_thread_instances_lost
+--performance_schema_users_size, performance_schema_users_size
+--pid-file, pid_file
+--plugin-dir, plugin_dir
+--plugin-load
+--plugin-load-add
+--plugin-maturity, plugin_maturity
+--port-open-timeout
+-P, --port, port
+--preload-buffer-size, preload_buffer_size
+Prepared_stmt_count
+profiling
+--profiling-history-size, profiling_history_size
+--progress-report-time, progress_report_time
+protocol_version
+--proxy-protocol-networks, proxy_protocol_networks
+proxy_user
+pseudo_slave_mode
+pseudo_thread_id
+Qcache_free_blocks
+Qcache_free_memory
+Qcache_hits
+Qcache_inserts
+Qcache_lowmem_prunes
+Qcache_not_cached
+Qcache_queries_in_cache
+Qcache_total_blocks
+Queries
+--query-alloc-block-size, query_alloc_block_size
+--query-cache-limit, query_cache_limit
+--query-cache-min-res-unit, query_cache_min_res_unit
+--query-cache-size, query_cache_size
+--query-cache-strip-comments, query_cache_strip_comments
+--query-cache-type, query_cache_type
+--query-cache-wlock-invalidate, query_cache_wlock_invalidate
+--query-prealloc-size, query_prealloc_size
+query_response_time_flush
+--query-response-time-range-base , query_response_time_range_base
+query_response_time_range_exec_time_debug
+--query-response-time-stats, query_response_time_stats
+Questions
+rand_seed1
+rand_seed2
+--range-alloc-block-size, range_alloc_block_size
+-r, --chroot
+--read-binlog-speed-limit, read_binlog_speed_limit
+--read-buffer-size, read_buffer_size
+--read-only, read_only
+--read-rnd-buffer-size, read_rnd_buffer_size
+--record-buffer
+relay_log_basename
+--relay-log-index, relay_log_index
+--relay-log-info-file, relay_log_info_file
+--relay-log-purge, relay_log_purge
+--relay-log-recovery, relay_log_recovery
+--relay-log, relay_log
+--relay-log-space-limit, relay_log_space_limit
+--replicate-annotate-row-events, replicate_annotate_row_events
+--replicate-do-db, replicate_do_db
+--replicate-do-table, replicate_do_table
+--replicate-events-marked-for-skip, replicate_events_marked_for_skip
+--replicate-ignore-db, replicate_ignore_db
+--replicate-ignore-table, replicate_ignore_table
+--replicate-rewrite-db
+--replicate-same-server-id
+--replicate-wild-do-table, replicate_wild_do_table
+--replicate-wild-ignore-table, replicate_wild_ignore_table
+--report-host, report_host
+--report-password, report_password
+--report-port, report_port
+--report-user, report_user
+--rocksdb-access-hint-on-compaction-start, rocksdb_access_hint_on_compaction_start
+--rocksdb-advise-random-on-open, rocksdb_advise_random_on_open
+--rocksdb-allow-concurrent-memtable-write, rocksdb_allow_concurrent_memtable_write
+--rocksdb-allow-mmap-reads, rocksdb_allow_mmap_reads
+--rocksdb-allow-mmap-writes, rocksdb_allow_mmap_writes
+--rocksdb-background-sync, rocksdb_background_sync
+--rocksdb_base-background-compactions, rocksdb_base_background_compactions
+--rocksdb-blind-delete-primary-key, rocksdb_blind_delete_primary_key
+Rocksdb_block_cache_add
+Rocksdb_block_cachecompressed_hit
+Rocksdb_block_cachecompressed_miss
+Rocksdb_block_cache_data_hit
+Rocksdb_block_cache_data_miss
+Rocksdb_block_cache_filter_hit
+Rocksdb_block_cache_filter_miss
+Rocksdb_block_cache_hit
+Rocksdb_block_cache_index_hit
+Rocksdb_block_cache_index_miss
+Rocksdb_block_cache_miss
+--rocksdb-block-cache-size, rocksdb_block_cache_size
+--rocksdb_block_restart_interval, rocksdb_block_restart_interval
+--rocksdb-block-size-deviation, rocksdb_block_size_deviation
+--rocksdb-block-size, rocksdb_block_size
+Rocksdb_bloom_filter_prefix_checked
+Rocksdb_bloom_filter_prefix_useful
+Rocksdb_bloom_filter_useful
+--rocksdb-bulk-load, rocksdb_bulk_load
+--rocksdb-bulk-load-size, rocksdb_bulk_load_size
+--rocksdb-bytes-per-sync, rocksdb_bytes_per_sync
+Rocksdb_bytes_read
+Rocksdb_bytes_written
+--rocksdb-cache-index-and-filter-blocks, rocksdb_cache_index_and_filter_blocks
+--rocksdb-checksums-pct, rocksdb_checksums_pct
+--rocksdb-collect-sst-properties, rocksdb_collect_sst_properties
+--rocksdb-commit-in-the-middle, rocksdb_commit_in_the_middle
+--rocksdb-compact-cf, rocksdb_compact_cf
+Rocksdb_compaction_key_drop_new
+Rocksdb_compaction_key_drop_obsolete
+Rocksdb_compaction_key_drop_user
+--rocksdb-compaction-readahead-size, rocksdb_compaction_readahead_size
+--rocksdb-compaction-sequential-deletes-count-sd, rocksdb_compaction_sequential_deletes_count_sd
+--rocksdb-compaction-sequential-deletes-file-size, rocksdb_compaction_sequential_deletes_file_size
+--rocksdb-compaction-sequential-deletes, rocksdb_compaction_sequential_deletes
+--rocksdb-compaction-sequential-deletes-window, rocksdb_compaction_sequential_deletes_window
+Rocksdb_compact_read_bytes
+Rocksdb_compact_write_bytes
+--rocksdb-concurrent-prepare, rocksdb_concurrent_prepare
+--rocksdb-create-checkpoint, rocksdb_create_checkpoint
+--rocksdb-create-if-missing, rocksdb_create_if_missing
+--rocksdb-create-missing-column-families, rocksdb_create_missing_column_families
+--rocksdb-datadir, rocksdb_datadir
+--rocksdb-db-write-buffer-size, rocksdb_db_write_buffer_size
+--rocksdb-deadlock-detect, rocksdb_deadlock_detect
+--rocksdb-debug-optimizer-no-zero-cardinality, rocksdb_debug_optimizer_no_zero_cardinality
+--rocksdb-default-cf-options, rocksdb_default_cf_options
+--rocksdb-delayed-write-rate, rocksdb_delayed_write_rate
+--rocksdb-delete-obsolete-files-period-micros, rocksdb_delete_obsolete_files_period_micros
+--rocksdb-enable-2pc, rocksdb_enable_2pc
+--rocksdb-enable-bulk-load-api, rocksdb_enable_bulk_load_api
+--rocksdb-enable-thread-tracking, rocksdb_enable_thread_tracking
+--rocksdb-enable-write-thread-adaptive-yield, rocksdb_enable_write_thread_adaptive_yield
+--rocksdb-error-if-exists, rocksdb_error_if_exists
+--rocksdb-flush-log-at-trx-commit, rocksdb_flush_log_at_trx_commit
+--rocksdb-flush-memtable-on-analyze, rocksdb_flush_memtable_on_analyze
+Rocksdb_flush_write_bytes
+--rocksdb-force-compute-memtable-stats, rocksdb_force_compute_memtable_stats
+--rocksdb-force-flush-memtable-now, rocksdb_force_flush_memtable_now
+--rocksdb-force-index-records-in-range, rocksdb_force_index_records_in_range
+Rocksdb_getupdatessince_calls
+--rocksdb-hash-index-allow-collision, rocksdb_hash_index_allow_collision
+--rocksdb-index-type, rocksdb_index_type
+--rocksdb-info-log-level, rocksdb_info_log_level
+--rocksdb-is-fd-close-on-exec, rocksdb_is_fd_close_on_exec
+--rocksdb-keep-log-file-num, rocksdb_keep_log_file_num
+Rocksdb_l0_num_files_stall_micros
+Rocksdb_l0_slowdown_micros
+--rocksdb-lock-scanned-rows, rocksdb_lock_scanned_rows
+--rocksdb-lock-wait-timeout, rocksdb_lock_wait_timeout
+--rocksdb-log-file-time-to-roll, rocksdb_log_file_time_to_roll
+--rocksdb-manifest-preallocation-size, rocksdb_manifest_preallocation_size
+--rocksdb-master-skip-tx-api, rocksdb_master_skip_tx_api
+--rocksdb-max-background-compactions, rocksdb_max_background_compactions
+--rocksdb-max-background-flushes, rocksdb_max_background_flushes
+--rocksdb-max-log-file-size, rocksdb_max_log_file_size
+--rocksdb-max-manifest-file-size, rocksdb_max_manifest_file_size
+--rocksdb-max-open-files, rocksdb_max_open_files
+--rocksdb-max-row-locks, rocksdb_max_row_locks
+--rocksdb-max-subcompactions, rocksdb_max_subcompactions
+--rocksdb-max-total-wal-size, rocksdb_max_total_wal_size
+Rocksdb_memtable_compaction_micros
+Rocksdb_memtable_hit
+Rocksdb_memtable_miss
+--rocksdb-merge-buf-size, rocksdb_merge_buf_size
+--rocksdb-merge-combine-read-size, rocksdb_merge_combine_read_size
+--rocksdb-new-table-reader-for-compaction-inputs, rocksdb_new_table_reader_for_compaction_inputs
+--rocksdb-no-block-cache, rocksdb_no_block_cache
+Rocksdb_no_file_closes
+Rocksdb_no_file_errors
+Rocksdb_no_file_opens
+Rocksdb_number_block_not_compressed
+Rocksdb_number_deletes_filtered
+Rocksdb_number_keys_read
+Rocksdb_number_keys_updated
+Rocksdb_number_keys_written
+Rocksdb_number_merge_failures
+Rocksdb_number_multiget_bytes_read
+Rocksdb_number_multiget_get
+Rocksdb_number_multiget_keys_read
+Rocksdb_number_reseeks_iteration
+Rocksdb_number_sst_entry_delete
+Rocksdb_number_sst_entry_merge
+Rocksdb_number_sst_entry_other
+Rocksdb_number_sst_entry_put
+Rocksdb_number_sst_entry_singledelete
+Rocksdb_number_stat_computes
+Rocksdb_number_superversion_acquires
+Rocksdb_number_superversion_cleanups
+Rocksdb_number_superversion_releases
+Rocksdb_num_iterators
+--rocksdb-override-cf-options, rocksdb_override_cf_options
+--rocksdb-paranoid-checks, rocksdb_paranoid_checks
+--rocksdb-pause-background-work, rocksdb_pause_background_work
+--rocksdb-perf-context-level, rocksdb_perf_context_level
+--rocksdb-persistent-cache-path, rocksdb_persistent_cache_path
+--rocksdb-persistent-cache-size-mb, rocksdb_persistent_cache_size_mb
+--rocksdb-pin-l0-filter-and-index-blocks-in-cache, rocksdb_pin_l0_filter_and_index_blocks_in_cache
+--rocksdb-print-snapshot-conflict-queries, rocksdb_print_snapshot_conflict_queries
+Rocksdb_rate_limit_delay_millis
+--rocksdb-rate-limiter-bytes-per-sec, rocksdb_rate_limiter_bytes_per_sec
+--rocksdb-read-free-rpl-tables, rocksdb_read_free_rpl_tables
+--rocksdb-records-in-range, rocksdb_records_in_range
+Rocksdb_rows_deleted
+Rocksdb_rows_deleted_blind
+Rocksdb_rows_inserted
+Rocksdb_rows_read
+Rocksdb_rows_updated
+--rocksdb-seconds-between-stat-computes, rocksdb_seconds_between_stat_computes
+--rocksdb-signal-drop-index-thread, rocksdb_signal_drop_index_thread
+--rocksdb-skip-bloom-filter-on-read, rocksdb_skip_bloom_filter_on_read
+--rocksdb-skip-fill-cache, rocksdb_skip_fill_cache
+--rocksdb-skip-unique-check-tables, rocksdb_skip_unique_check_tables
+Rocksdb_snapshot_conflict_errors
+--rocksdb-stats-dump-period-sec, rocksdb_stats_dump_period_sec
+--rocksdb-store-row-debug-checksums, rocksdb_store_row_debug_checksums
+--rocksdb-strict-collation-check, rocksdb_strict_collation_check
+--rocksdb-strict-collation-exceptions, rocksdb_strict_collation_exceptions
+--rocksdb-supported-compression-types, rocksdb_supported_compression_types
+Rocksdb_system_rows_deleted
+Rocksdb_system_rows_inserted
+Rocksdb_system_rows_read
+Rocksdb_system_rows_updated
+--rocksdb-table-cache-numshardbits, rocksdb_table_cache_numshardbits
+--rocksdb-table-stats-sampling-pct, rocksdb_table_stats_sampling_pct
+--rocksdb-tmpdir, rocksdb_tmpdir
+--rocksdb-trace-sst-api, rocksdb_trace_sst_api
+--rocksdb-unsafe-for-binlog, rocksdb_unsafe_for_binlog
+--rocksdb-use-adaptive-mutex, rocksdb_use_adaptive_mutex
+--rocksdb-use-direct-io-for-flush-and-compaction, rocksdb_use_direct_io_for_flush_and_compaction
+--rocksdb-use-direct-reads, rocksdb_use_direct_reads
+--rocksdb-use-fsync, rocksdb_use_fsync
+--rocksdb-validate-tables, rocksdb_validate_tables
+--rocksdb-verify-row-debug-checksums, rocksdb_verify_row_debug_checksums
+Rocksdb_wal_bytes
+--rocksdb-wal-bytes-per-sync, rocksdb_wal_bytes_per_sync
+--rocksdb-wal-dir, rocksdb_wal_dir
+Rocksdb_wal_group_syncs
+--rocksdb-wal-recovery-mode, rocksdb_wal_recovery_mode
+--rocksdb-wal-size-limit-mb, rocksdb_wal_size_limit_mb
+Rocksdb_wal_synced
+--rocksdb-wal-ttl-seconds, rocksdb_wal_ttl_seconds
+--rocksdb-whole-key-filtering, rocksdb_whole_key_filtering
+--rocksdb-write-disable-wal, rocksdb_write_disable_wal
+--rocksdb-write-ignore-missing-column-families, rocksdb_write_ignore_missing_column_families
+Rocksdb_write_other
+Rocksdb_write_self
+Rocksdb_write_timedout
+Rocksdb_write_wal
+--rowid-merge-buff-size, rowid_merge_buff_size
+Rows_read
+Rows_sent
+Rows_tmp_read
+--rpl-recovery-rank, rpl_recovery_rank
+Rpl_semi_sync_master_clients
+rpl-semi-sync-master-enabled rpl_semi_sync_master_enabled
+Rpl_semi_sync_master_net_avg_wait_time
+Rpl_semi_sync_master_net_waits
+Rpl_semi_sync_master_net_wait_time
+Rpl_semi_sync_master_no_times
+Rpl_semi_sync_master_no_tx
+Rpl_semi_sync_master_status
+Rpl_semi_sync_master_timefunc_failures
+rpl-semi-sync-master-timeout, rpl_semi_sync_master_timeout
+rpl-semi-sync-master-trace-level , rpl_semi_sync_master_trace_level
+Rpl_semi_sync_master_tx_avg_wait_time
+Rpl_semi_sync_master_tx_waits
+Rpl_semi_sync_master_tx_wait_time
+rpl-semi-sync-master-wait-no-slave, rpl_semi_sync_master_wait_no_slave
+rpl-semi-sync-master-wait-point, rpl_semi_sync_master_wait_point
+Rpl_semi_sync_master_wait_pos_backtraverse
+Rpl_semi_sync_master_wait_sessions
+Rpl_semi_sync_master_yes_tx
+rpl-semi-sync-slave-delay-master, rpl_semi_sync_slave_delay_master
+rpl-semi-sync-slave-enabled, rpl_semi_sync_slave_enabled
+rpl-semi-sync-slave-kill-conn-timeout, rpl_semi_sync_slave_kill_conn_timeout
+Rpl_semi_sync_slave_status
+rpl-semi-sync-slave-trace-level, rpl_semi_sync_slave_trace_level
+Rpl_status
+Rpl_transactions_multi_engine
+--safemalloc-mem-limit
+--safe-mode
+--safe-show-database, safe_show_database
+--safe-user-create
+--secure-auth, secure_auth
+--secure-file-priv, secure_file_priv
+Select_full_join
+Select_full_range_join
+Select_range
+Select_range_check
+Select_scan
+Server_audit_active
+Server_audit_current_log
+--server-audit-events, server_audit_events
+--server-audit-excl-users, server_audit_excl_users
+--server-audit-file-path, server_audit_file_path
+--server-audit-file-rotate-now, server_audit_file_rotate_now
+--server-audit-file-rotate-size, server_audit_file_rotate_size
+--server-audit-file-rotations, server_audit_file_rotations
+--server-audit-incl-users, server_audit_incl_users
+Server_audit_last_error
+--server-audit-loc-info, server_audit_loc_info
+--server-audit-logging, server_audit_logging
+--server-audit-mode, server_audit_mode
+--server-audit-output-type, server_audit_output_type
+--server-audit-query-limit, server_audit_query_limit
+--server-audit-syslog-facility, server_audit_syslog_facility
+--server-audit-syslog-ident, server_audit_syslog_ident
+--server-audit-syslog-info, server_audit_syslog_info
+--server-audit-syslog-priority, server_audit_syslog_priority
+Server_audit_writes_failed
+--server-id, server_id
+--session-track-schema, session_track_schema
+--session-track-state-change, session_track_state_change
+--session-track-system-variables, session_track_system_variables
+--session-track-transaction-info, session_track_transaction_info
+shared_memory
+shared_memory_base_name
+--show-slave-auth-info
+--simple-password-check-digits, simple_password_check_digits
+--simple_password-check-letters-same-case, simple_password_check_letters_same_case
+--simple-password-check-minimal_length, simple_password_check_minimal_length
+--simple_password-check-other-characters, simple_password_check_other_characters
+--skip-automatic-sp-privileges
+--skip-external-locking, skip_external_locking
+--skip-grant-tables
+--skip-host-cache
+--skip-innodb
+--skip-innodb-checksums
+--skip-innodb-doublewrite
+--skip-large-pages
+--skip-locking
+--skip-name-resolve, skip_name_resolve
+--skip-networking, skip_networking
+--skip-new
+skip_parallel_replication
+--skip-partition
+skip_replication
+--skip-show-database, skip_show_database
+--skip-slave-start
+--skip-ssl
+--skip-stack-trace
+--skip-symbolic-links
+--skip-symlink
+--skip-thread-priority
+--slave-compressed-protocol, slave_compressed_protocol
+Slave_connections
+--slave-ddl-exec-mode, slave_ddl_exec_mode
+--slave-domain-parallel-threads, slave_domain_parallel_threads
+--slave-exec-mode, slave_exec_mode
+Slave_heartbeat_period
+--slave-load-tmpdir, slave_load_tmpdir
+--slave-max-allowed-packet, slave_max_allowed_packet
+--slave-net-timeout, slave_net_timeout
+Slave_open_temp_tables
+--slave-parallel-max-queued, slave_parallel_max_queued
+slave_parallel_mode
+--slave-parallel-threads, slave_parallel_threads
+--slave-parallel-workers, slave_parallel_workers
+Slave_received_heartbeats
+Slave_retried_transactions
+Slave_running
+slave_run_triggers_for_rbr, slave-run-triggers-for-rbr
+Slaves_connected
+--slave-skip-errors, slave_skip_errors
+Slave_skipped_errors
+--slave-sql-verify-checksum, slave_sql_verify_checksum
+Slaves_running
+--slave-transaction-retries, slave_transaction_retries
+--slave-transaction-retry-errors, slave_transaction_retry_errors
+--slave-transaction-retry-interval, slave_transaction_retry_interval
+--slave-type-conversions, slave_type_conversions
+Slow_launch_threads
+--slow-launch-time, slow_launch_time
+Slow_queries
+--slow-query-log-file, slow_query_log_file
+--slow-query-log, slow_query_log
+--socket, socket
+--sort-buffer-size, sort_buffer_size
+Sort_merge_passes
+Sort_priority_queue_sorts
+Sort_range
+Sort_rows
+Sort_scan
+Sphinx_error
+Sphinx_time
+Sphinx_total
+Sphinx_total_found
+Sphinx_word_count
+Sphinx_words
+spider_auto_increment_mode
+spider_bgs_first_read
+spider_bgs_mode
+spider_bgs_second_read
+spider_bka_engine
+spider_bka_mode
+spider_block_size
+spider_bulk_size
+spider_bulk_update_mode
+spider_bulk_update_size
+spider_casual_read
+spider_connect_error_interval
+spider_connect_mutex
+spider_connect_retry_count
+spider_connect_retry_interval
+spider_connect_timeout
+spider_conn_recycle_mode
+spider_conn_recycle_strict
+spider_conn_wait_timeout
+spider_crd_bg_mode
+spider_crd_interval
+spider_crd_mode
+spider_crd_sync
+spider_crd_type
+spider_crd_weight
+spider_delete_all_rows_type
+Spider_direct_aggregate
+spider_direct_dup_insert
+spider_direct_order_limit
+Spider_direct_order_limit
+spider_dry_access
+spider_error_read_mode
+spider_error_write_mode
+spider_first_read
+spider_force_commit
+spider_general_log
+spider_index_hint_pushdown
+spider_init_sql_alloc_size
+spider_internal_limit
+spider_internal_offset
+spider_internal_optimize
+spider_internal_optimize_local
+spider_internal_sql_log_off
+spider_internal_unlock
+spider_internal_xa
+spider_internal_xa_id_type
+spider_internal_xa_snapshot
+spider_load_crd_at_startup
+spider_load_sts_at_startup
+spider_local_lock_table
+spider_lock_exchange
+spider_log_result_errors
+spider_log_result_error_with_sql
+spider_low_mem_read
+spider_max_connections
+spider_max_order
+Spider_mon_table_cache_version
+Spider_mon_table_cache_version_req
+spider_multi_split_read
+spider_net_read_timeout
+spider_net_write_timeout
+spider_ping_interval_at_trx_start
+spider_quick_mode
+spider_quick_page_size
+spider_read_only_mode
+spider_remote_access_charset
+spider_remote_autocommit
+spider_remote_default_database
+spider_remote_sql_log_off
+spider_remote_time_zone
+spider_remote_trx_isolation
+spider_reset_sql_alloc
+spider_same_server_link
+spider_second_read
+spider_select_column_mode
+spider_selupd_lock_mode
+spider_semi_split_read
+spider_semi_split_read_limit
+spider_semi_table_lock
+spider_semi_table_lock_connection
+spider_semi_trx
+spider_semi_trx_isolation
+spider_skip_default_condition
+spider_skip_parallel_search
+spider_split_read
+spider_store_last_crd
+spider_store_last_sts
+spider_sts_bg_mode
+spider_sts_interval
+spider_sts_mode
+spider_sts_sync
+spider_support_xa
+spider_sync_autocommit
+spider_sync_time_zone
+spider_sync_trx_isolation
+spider_table_crd_thread_count
+spider_table_init_error_interval
+spider_table_sts_thread_count
+spider_udf_ct_bulk_insert_interval
+spider_udf_ct_bulk_insert_rows
+spider_udf_ds_bulk_insert_rows
+spider_udf_ds_table_loop_mode
+spider_udf_ds_use_real_table
+spider_udf_table_lock_mutex_count
+spider_udf_table_mon_mutex_count
+spider_use_all_conns_snapshot
+spider_use_consistent_snapshot
+spider_use_default_database
+spider_use_flash_logs
+spider_use_handler
+spider_use_pushdown_udf
+spider_use_table_charset
+spider_version
+spider_xa_register_mode
+--sporadic-binlog-dump-fail
+sql_auto_is_null
+sql_big_selects
+sql_big_tables
+--sql-bin-update-same
+sql_buffer_result
+--sql-error-log-filename, sql_error_log_filename
+--sql-error-log-rate, sql_error_log_rate
+--sql-error-log-rotate, sql_error_log_rotate
+--sql-error-log-rotations, sql_error_log_rotations
+--sql-error-log-size-limit, sql_error_log_size_limit
+sql_log_bin
+sql_log_off
+sql_log_update
+sql_low_priority_updates
+sql_max_join_size
+--sql-mode, sql_mode
+sql_notes
+sql_quote_show_create
+sql_safe_updates
+sql_select_limit
+sql_slave_skip_counter
+sql_warnings
+--ssl
+Ssl_accept_renegotiates
+Ssl_accepts
+Ssl_callback_cache_hits
+--ssl-capath, ssl_capath
+--ssl-ca, ssl_ca
+--ssl-cert, ssl_cert
+Ssl_cipher
+Ssl_cipher_list
+--ssl-cipher, ssl_cipher
+Ssl_client_connects
+Ssl_connect_renegotiates
+--ssl-crlpath, ssl_crlpath
+--ssl-crl, ssl_crl
+Ssl_ctx_verify_depth
+Ssl_ctx_verify_mode
+Ssl_default_timeout
+Ssl_finished_accepts
+Ssl_finished_connects
+--ssl-key, ssl_key
+Ssl_server_not_after
+Ssl_server_not_before
+Ssl_session_cache_hits
+Ssl_session_cache_misses
+Ssl_session_cache_mode
+Ssl_session_cache_overflows
+Ssl_session_cache_size
+Ssl_session_cache_timeouts
+Ssl_sessions_reused
+Ssl_used_session_cache_entries
+Ssl_verify_depth
+Ssl_verify_mode
+-s, --symbolic-links
+--stack-trace
+--standard-compliant-cte, standard_compliant_cte
+storage_engine
+--stored-program-cache, stored_program_cache
+--strict-password-validation, strict_password_validation
+Subquery_cache_hit
+Subquery_cache_miss
+--sync-binlog, sync_binlog
+--sync-frm, sync_frm
+--sync-master-info, sync_master_info
+--sync-relay-log-info, sync_relay_log_info
+--sync-relay-log, sync_relay_log
+Syncs
+--sync-sys
+--sysdate-is-now
+--system_time_zone
+--system-versioning-alter-history, system_versioning_alter_history
+system_versioning_asof
+--system-versioning-innodb-algorithm-simple, system_versioning_innodb_algorithm_simple
+--table-cache
+--table-definition-cache, table_definition_cache
+Table_locks_immediate
+Table_locks_waited
+--table-lock-wait-timeout, table_lock_wait_timeout
+Table_open_cache_active_instances
+Table_open_cache_hits
+--table-open-cache-instances, table_open_cache_instances
+Table_open_cache_misses
+Table_open_cache_overflows
+--table-open-cache, table_open_cache
+table_type
+--tc-heuristic-recover
+Tc_log_max_pages_used
+Tc_log_page_size
+Tc_log_page_waits
+--tcp-keepalive-interval, tcp_keepalive_interval
+--tcp-keepalive-interval, tcp_keepalive_time
+--tcp-keepalive-probes, tcp_keepalive_probes
+--temp-pool
+--test-expect-abort
+--test-ignore-wrong-options
+-T, --exit-info
+--thread-alarm
+--thread-cache-size, thread_cache_size
+--thread-concurrency, thread_concurrency
+--thread-handling, thread_handling
+Threadpool_idle_threads
+--thread-pool-idle-timeout, thread_pool_idle_timeout
+--thread-pool-max-threads, thread_pool_max_threads
+--thread-pool-min-threads, thread_pool_min_threads
+thread_pool_oversubscribe
+--thread-pool-prio-kickup-timer, thread_pool_prio_kickup_timer
+--thread-pool-priority, thread_pool_priority
+--thread-pool-size, thread_pool_size
+--thread-pool-stall-limit, thread_pool_stall_limit
+Threadpool_threads
+Threads_cached
+Threads_connected
+Threads_created
+Threads_running
+--thread-stack, thread_stack
+--timed-mutexes, timed_mutexes
+--time-format, time-format
+timestamp
+time_zone
+--tmp-disk-table-size, tmp_disk_table_size
+--tmp-memory-table-size, tmp_memory_table_size
+--tmp-table-size, tmp_table_size
+tokudb_alter_print_error
+tokudb_analyze_time
+Tokudb_basement_deserialization_fixed_key
+Tokudb_basement_deserialization_variable_key
+Tokudb_basements_decompressed_for_write
+Tokudb_basements_decompressed_prefetch
+Tokudb_basements_decompressed_prelocked_range
+Tokudb_basements_decompressed_target_query
+Tokudb_basements_fetched_for_write
+Tokudb_basements_fetched_for_write_bytes
+Tokudb_basements_fetched_for_write_seconds
+Tokudb_basements_fetched_prefetch
+Tokudb_basements_fetched_prefetch_bytes
+Tokudb_basements_fetched_prefetch_seconds
+Tokudb_basements_fetched_prelocked_range
+Tokudb_basements_fetched_prelocked_range_bytes
+Tokudb_basements_fetched_prelocked_range_seconds
+Tokudb_basements_fetched_target_query
+Tokudb_basements_fetched_target_query_bytes
+Tokudb_basements_fetched_target_query_seconds
+Tokudb_broadcase_messages_injected_at_root
+Tokudb_buffers_decompressed_for_write
+Tokudb_buffers_decompressed_prefetch
+Tokudb_buffers_decompressed_prelocked_range
+Tokudb_buffers_decompressed_target_query
+Tokudb_buffers_fetched_for_write
+Tokudb_buffers_fetched_for_write_bytes
+Tokudb_buffers_fetched_for_write_seconds
+Tokudb_buffers_fetched_prefetch
+Tokudb_buffers_fetched_prefetch_bytes
+Tokudb_buffers_fetched_prefetch_seconds
+Tokudb_buffers_fetched_prelocked_range
+Tokudb_buffers_fetched_prelocked_range_bytes
+Tokudb_buffers_fetched_prelocked_range_seconds
+Tokudb_buffers_fetched_target_query
+Tokudb_buffers_fetched_target_query_bytes
+Tokudb_buffers_fetched_target_query_seconds
+tokudb_bulk_fetch
+tokudb_cache_size
+Tokudb_cachetable_cleaner_executions
+Tokudb_cachetable_cleaner_iterations
+Tokudb_cachetable_cleaner_period
+Tokudb_cachetable_evictions
+Tokudb_cachetable_long_wait_pressure_count
+Tokudb_cachetable_long_wait_pressure_time
+Tokudb_cachetable_miss
+Tokudb_cachetable_miss_time
+Tokudb_cachetable_prefetches
+Tokudb_cachetable_size_cachepressure
+Tokudb_cachetable_size_cloned
+Tokudb_cachetable_size_current
+Tokudb_cachetable_size_leaf
+Tokudb_cachetable_size_limit
+Tokudb_cachetable_size_nonleaf
+Tokudb_cachetable_size_rollback
+Tokudb_cachetable_size_writing
+Tokudb_cachetable_wait_pressure_count
+Tokudb_cachetable_wait_pressure_time
+tokudb_check_jemalloc
+Tokudb_checkpoint_begin_time
+Tokudb_checkpoint_duration
+Tokudb_checkpoint_duration_last
+Tokudb_checkpoint_failed
+tokudb_checkpointing_period
+Tokudb_checkpoint_last_began
+Tokudb_checkpoint_last_complete_began
+Tokudb_checkpoint_last_complete_ended
+tokudb_checkpoint_lock
+Tokudb_checkpoint_long_begin_count
+Tokudb_checkpoint_long_begin_time
+tokudb_checkpoint_on_flush_logs
+Tokudb_checkpoint_period
+Tokudb_checkpoint_taken
+tokudb_cleaner_iterations
+tokudb_cleaner_period
+tokudb_commit_sync
+tokudb_create_index_online
+Tokudb_cursor_skip_deleted_leaf_entry
+tokudb_data_dir
+Tokudb_db_closes
+Tokudb_db_open_current
+Tokudb_db_open_max
+Tokudb_db_opens
+tokudb_debug
+Tokudb_descriptor_set
+Tokudb_dictionary_broadcast_updates
+Tokudb_dictionary_updates
+tokudb_directio
+tokudb_disable_hot_alter
+tokudb_disable_prefetching
+tokudb_disable_slow_alter
+tokudb_empty_scan
+Tokudb_filesystem_fsync_num
+Tokudb_filesystem_fsync_time
+Tokudb_filesystem_long_fsync_num
+Tokudb_filesystem_long_fsync_time
+Tokudb_filesystem_threads_blocked_by_full_disk
+tokudb_fs_reserve_percent
+tokudb_fsync_log_period
+tokudb_hide_default_row_format
+tokudb_killed_time
+tokudb_last_lock_timeout
+Tokudb_leaf_compression_to_memory_seconds
+Tokudb_leaf_decompression_to_memory_seconds
+Tokudb_leaf_deserialization_to_memory_seconds
+Tokudb_leaf_node_compression_ratio
+Tokudb_leaf_node_full_evictions
+Tokudb_leaf_node_full_evictions_bytes
+Tokudb_leaf_node_partial_evictions
+Tokudb_leaf_node_partial_evictions_bytes
+Tokudb_leaf_nodes_created
+Tokudb_leaf_nodes_destroyed
+Tokudb_leaf_nodes_flushed_checkpoint
+Tokudb_leaf_nodes_flushed_checkpoint_bytes
+Tokudb_leaf_nodes_flushed_checkpoint_seconds
+Tokudb_leaf_nodes_flushed_checkpoint_uncompressed_bytes
+Tokudb_leaf_nodes_flushed_not_checkpoint
+Tokudb_leaf_nodes_flushed_not_checkpoint_bytes
+Tokudb_leaf_nodes_flushed_not_checkpoint_secondss
+Tokudb_leaf_nodes_flushed_not_checkpoint_uncompressed_bytes
+Tokudb_leaf_serialization_to_memory_seconds
+tokudb_loader_memory_size
+Tokudb_loader_num_created
+Tokudb_loader_num_current
+Tokudb_loader_num_max
+tokudb_load_save_space
+tokudb_lock_timeout
+tokudb_lock_timeout_debug
+Tokudb_locktree_escalation_num
+Tokudb_locktree_escalation_seconds
+Tokudb_locktree_latest_post_escalation_memory_size
+Tokudb_locktree_long_wait_count
+Tokudb_locktree_long_wait_escalation_count
+Tokudb_locktree_long_wait_escalation_time
+Tokudb_locktree_long_wait_time
+Tokudb_locktree_memory_size
+Tokudb_locktree_memory_size_limit
+Tokudb_locktree_open_current
+Tokudb_locktree_pending_lock_requests
+Tokudb_locktree_sto_eligible_num
+Tokudb_locktree_sto_ended_num
+Tokudb_locktree_sto_ended_seconds
+Tokudb_locktree_timeout_count
+Tokudb_locktree_wait_count
+Tokudb_locktree_wait_escalation_count
+Tokudb_locktree_wait_escalation_time
+Tokudb_locktree_wait_time
+tokudb_log_dir
+Tokudb_logger_wait_long
+Tokudb_logger_writes
+Tokudb_logger_writes_bytes
+Tokudb_logger_writes_seconds
+Tokudb_logger_writes_uncompressed_bytes
+tokudb_max_lock_memory
+Tokudb_mem_estimated_maximum_memory_footprint
+Tokudb_messages_flushed_from_h1_to_leaves_bytes
+Tokudb_messages_ignored_by_leaf_due_to_msn
+Tokudb_messages_injected_at_root
+Tokudb_messages_injected_at_root_bytes
+Tokudb_messages_in_trees_estimate_bytes
+Tokudb_nonleaf_compression_to_memory_seconds
+Tokudb_nonleaf_decompression_to_memory_seconds
+Tokudb_nonleaf_deserialization_to_memory_seconds
+Tokudb_nonleaf_node_compression_ratio
+Tokudb_nonleaf_node_full_evictions
+Tokudb_nonleaf_node_full_evictions_bytes
+Tokudb_nonleaf_node_partial_evictions
+Tokudb_nonleaf_node_partial_evictions_bytes
+Tokudb_nonleaf_nodes_created
+Tokudb_nonleaf_nodes_destroyed
+Tokudb_nonleaf_nodes_flushed_to_disk_checkpoint
+Tokudb_nonleaf_nodes_flushed_to_disk_checkpoint_bytes
+Tokudb_nonleaf_nodes_flushed_to_disk_checkpoint_seconds
+Tokudb_nonleaf_nodes_flushed_to_disk_checkpoint_uncompressed_bytes
+Tokudb_nonleaf_nodes_flushed_to_disk_not_checkpoint
+Tokudb_nonleaf_nodes_flushed_to_disk_not_checkpoint_bytes
+Tokudb_nonleaf_nodes_flushed_to_disk_not_checkpoint_seconds
+Tokudb_nonleaf_nodes_flushed_to_disk_not_checkpoint_uncompressed_bytes
+Tokudb_nonleaf_serialization_to_memory_seconds
+tokudb_optimize_index_fraction
+tokudb_optimize_index_name
+tokudb_optimize_throttle
+Tokudb_overall_node_compression_ratio
+Tokudb_pivots_fetched_for_prefetch
+Tokudb_pivots_fetched_for_prefetch_bytes
+Tokudb_pivots_fetched_for_prefetch_seconds
+Tokudb_pivots_fetched_for_query
+Tokudb_pivots_fetched_for_query_bytes
+Tokudb_pivots_fetched_for_query_seconds
+Tokudb_pivots_fetched_for_write
+Tokudb_pivots_fetched_for_write_bytes
+Tokudb_pivots_fetched_for_write_seconds
+tokudb_pk_insert_mode
+tokudb_prelock_empty
+Tokudb_promotion_h1_roots_injected_into
+Tokudb_promotion_injections_at_depth_0
+Tokudb_promotion_injections_at_depth_1
+Tokudb_promotion_injections_at_depth_2
+Tokudb_promotion_injections_at_depth_3
+Tokudb_promotion_injections_lower_than_depth_3
+Tokudb_promotion_leaf_roots_injected_into
+Tokudb_promotion_roots_split
+Tokudb_promotion_stopped_after_locking_child
+Tokudb_promotion_stopped_at_height_1
+Tokudb_promotion_stopped_child_locked_or_not_in_memory
+Tokudb_promotion_stopped_child_not_fully_in_memory
+Tokudb_promotion_stopped_nonempty_buffer
+tokudb_read_block_size
+tokudb_read_buf_size
+tokudb_read_status_frequency
+tokudb_row_format
+tokudb_rpl_check_readonly
+tokudb_rpl_lookup_rows
+tokudb_rpl_lookup_rows_delay
+tokudb_rpl_unique_checks
+tokudb_rpl_unique_checks_delay
+tokudb_support_xa
+tokudb_tmp_dir
+Tokudb_txn_aborts
+Tokudb_txn_begin
+Tokudb_txn_begin_read_only
+Tokudb_txn_commits
+tokudb_version
+tokudb_write_status_frequency
+--transaction-alloc-block-size, transaction_alloc_block_size
+--transaction-isolation
+--transaction-prealloc-size, transaction_prealloc_size
+--transaction-read-only
+Transactions_gtid_foreign_engine
+Transactions_multi_engine
+-t, --tmpdir, tmpdir
+tx_isolation
+tx_read_only
+unique_checks
+--updatable-views-with-limit, updatable_views_with_limit
+Update_scan
+Uptime
+Uptime_since_flush_status
+--userstat, userstat
+--use-stat-tables, use_stat_tables
+--use-symbolic-links
+-u, --user
+version_comment
+version_compile_machine
+version_compile_os
+version_malloc_library
+version_source_revision
+version_ssl_library
+-v, --verbose
+-V, --version, version
+--wait-timeout, wait_timeout
+warning_count
+--warnings
+-W, --log-warnings, log_warnings
+wsrep_apply_oooe
+wsrep_apply_oool
+wsrep_auto_increment_control
+wsrep_causal_reads
+wsrep_cert_deps_distance
+wsrep_certify_nonPK
+wsrep_cluster_address
+wsrep_cluster_conf_id
+wsrep_cluster_name
+wsrep_cluster_size
+wsrep_cluster_state_uuid
+wsrep_cluster_status
+wsrep_connected
+wsrep_convert_LOCK_to_trx
+wsrep_data_home_dir
+wsrep_dbug_option
+wsrep_debug
+wsrep_desync
+wsrep_dirty_reads
+wsrep_drupal_282555_workaround
+wsrep_flow_control_paused
+wsrep_flow_control_recv
+wsrep_flow_control_sent
+wsrep_forced_binlog_format
+wsrep_gtid_domain_id
+wsrep_gtid_mode
+wsrep_last_committed
+wsrep_load_data_splitting
+wsrep_local_bf_aborts
+wsrep_local_cert_failures
+wsrep_local_commits
+wsrep_local_index
+wsrep_local_recv_queue
+wsrep_local_recv_queue_avg
+wsrep_local_replays
+wsrep_local_send_queue
+wsrep_local_send_queue_avg
+wsrep_local_state_uuid
+wsrep_log_conflicts
+wsrep_max_ws_rows
+wsrep_mysql_replication_bundle
+--wsrep-new-cluster
+wsrep_node_address
+wsrep_node_incoming_address
+wsrep_node_name
+wsrep_notify_cmd
+wsrep_on
+wsrep_OSU_method
+wsrep_patch_version
+wsrep_protocol_version
+wsrep_provider
+wsrep_provider_name
+wsrep_provider_options
+wsrep_provider_vendor
+wsrep_provider_version
+wsrep_ready
+wsrep_received
+wsrep_received_bytes
+wsrep_recover
+wsrep_replicated
+wsrep_replicated_bytes
+wsrep_replicate_myisam
+wsrep_retry_autocommit
+wsrep_slave_FK_checks
+wsrep_slave_threads
+wsrep_slave_UK_checks
+wsrep_sst_auth
+wsrep_sst_donor
+wsrep_sst_donor_rejects_queries
+wsrep_sst_method
+wsrep_sst_receive_address
+wsrep_start_position
+wsrep_sync_wait
+wsrep_thread_count
