@@ -1,0 +1,227 @@
+
+File  	Rev.	Age	Author	Last log entry
+  Parent Directory	 	 	 	 
+  adns/	 459004	 2 months	 bapt	  Remove wrong build dependency on m4 The only thing that depends on m4 is for bu
+  adsuck/	 453284	 4 months	 olgeni	  Fix whitespace issues (mixed tab/spaces, alignment) in a few ports.
+  ares/	 447034	 7 months	 zi	  - MASTER_SITES cleanup
+  autotrust/	 435306	 12 months	 miwi	  - Chase ldns shlip bump PR:	217495
+  axfr2acl/	 444443	 8 months	 danfe	  - Update DNS Tools ports to their most recent versions - Switch to HTTP instead 
+  bind-tools/	 459829	 8 weeks	 mat	  Switch bind-tools to BIND9 9.12. Sponsored by:	Absolight
+  bind9-devel/	 465008	 2 days	 mat	  Update to latest commit. Sponsored by:	Absolight
+  bind910/	 465009	 2 days	 mat	  Update BIND9 ports to 9.9.12, 9.10.7, 9.11.3 and 9.12.1. Sponsored by:	Absoligh
+  bind911/	 465009	 2 days	 mat	  Update BIND9 ports to 9.9.12, 9.10.7, 9.11.3 and 9.12.1. Sponsored by:	Absoligh
+  bind912/	 465009	 2 days	 mat	  Update BIND9 ports to 9.9.12, 9.10.7, 9.11.3 and 9.12.1. Sponsored by:	Absoligh
+  bind99/	 465009	 2 days	 mat	  Update BIND9 ports to 9.9.12, 9.10.7, 9.11.3 and 9.12.1. Sponsored by:	Absoligh
+  bindgraph/	 416349	 21 months	 amdmi3	  - Add NO_ARCH - Switch to options helpers - Regenerate patches with `make makepa
+  bundy/	 455813	 3 months	 linimon	  Mark more ports broken that fail on both armv6 and armv7. Approved by:	portmgr 
+  c-ares/	 449591	 6 months	 gerald	  Bump PORTREVISION for ports depending on the canonical version of GCC (via Mk/bs
+  checkdns/	 395387	 2 years	 amdmi3	  - Switch to options helpers - Don't install COPYING and INSTALL
+  cli53/	 465067	 37 hours	 meta	  Update MAINTAINER to my new FreBSD.org account also update my email address in 
+  credns/	 462129	 4 weeks	 sunpoet	  Use BROKEN_SSL Approved by:	portmgr (blanket)
+  crossip/	 371557	 3 years	 bapt	  Cleanup plist
+  curvedns/	 452629	 4 months	 vsevolod	  - Update libsodium to 1.0.15 [1] - Bump revisions for all dependent ports PR:	
+  ddclient/	 441283	 10 months	 asomers	  Use anticongestion in dns/ddclient Introduced in src r316342, the anticongestio
+  ddns/	 415503	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-messages Approved by:	portmgr blanket
+  denominator/	 444308	 8 months	 sunpoet	  Fix WWW Approved by:	portmgr (blanket)
+  dhisd/	 435385	 12 months	 amdmi3	  - Switch to USES=localbase - Switch to options helpers - Simplify installation -
+  djbdns/	 459204	 2 months	 lx	  Bump loop detection limit to 500 PR:	216260 Submitted by:	tjd-freebsd@phlegeth
+  djbdns-tools/	 345075	 4 years	 ehaupt	  Support staging
+  dlint/	 418112	 20 months	 rene	  dns/dlint: unbreak - update to 1.4.1 - update MASTER_SITES PR:	205334 Submitte
+  dnrd/	 412087	 23 months	 amdmi3	  - Clarify LICENSE - Add LICENSE_FILE - Switch to options helpers - Fix WWW:
+  dns2blackhole/	 452689	 4 months	 adamw	  Update to 0.1. DOCS option is removed, see manpage instead. PR:	223175 Submitt
+  dns2tcp/	 415738	 21 months	 amdmi3	  Convert tab after WWW: in pkg-descrs to single space as per PHB Approved by:	po
+  dns_balance/	 433820	 13 months	 krion	  Update dns/dns_balance to 2.1 PR:	216958 Submitted by:	maintainer Approved by:
+  dnscap/	 463328	 2 weeks	 sunpoet	  Update to 1.9.0 Changes:	https://github.com/DNS-OARC/dnscap/releases
+  dnscheck/	 346115	 4 years	 ehaupt	  - Support staging - Use shebangfix
+  dnscheckengine/	 444341	 8 months	 sunpoet	  Remove Perl core modules - While I'm here: - Add NO_ARCH - Use USES=mysql -
+  dnscrypt-proxy/	 461445	 5 weeks	 dbaio	  dns/dnscrypt-proxy: Update MASTER_SITES and WWW Domain dnscrypt.org is gone. [1
+  dnscrypt-wrapper/	 464425	 7 days	 sunpoet	  Update to 0.4.1 Changes:	https://github.com/cofyc/dnscrypt-wrapper/releases h
+  dnsdbck/	 444443	 8 months	 danfe	  - Update DNS Tools ports to their most recent versions - Switch to HTTP instead 
+  dnsdbq/	 464746	 4 days	 truckman	  Upgrade dnsdbq to version 1.0.0: * add positivity check for -l * avoid EPIPE
+  dnsdist/	 462248	 4 weeks	 cpm	  - Update to 1.2.1 [1] - Switch from devel/llvm40 to devel/llvm50 Changelog: htt
+  dnsenum/	 416094	 21 months	 pawel	  Multithreaded perl script to enumerate DNS information of a domain and discover 
+  dnsflood/	 447034	 7 months	 zi	  - MASTER_SITES cleanup
+  dnsforwarder/	 441830	 9 months	 bapt	  Dnsforwarder is A simple DNS forwarder.Main fetures: 1.Forwarding queries to c
+  dnshistory/	 428143	 15 months	 tijl	  Remove libpcre.so.3 compatibility link that was added in r374303 to prevent mass
+  dnsjava/	 458513	 2 months	 mat	  Remove support for variables that have been deprecated for a while. variables 
+  dnsmasq/	 465034	 46 hours	 mandree	  dns/dnsmasq update to release v2.79 Note there are a few incompatible changes. 
+  dnsmasq-devel/	 465092	 26 hours	 mandree	  Mark IGNORE since the stable version dns/dnsmasq is newer.
+  dnsmax-perl/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  dnsperf/	 428150	 15 months	 tijl	  Remove libiconv.so.3 compatibility link that was added in r374303 to prevent mas
+  dnsproxy/	 441925	 9 months	 antoine	  Register dependency on groff PR:	213725
+  dnsrecon/	 457499	 2 months	 antoine	  Simplify some USES=python With hat:	portmgr
+  dnsreflector/	 345079	 4 years	 ehaupt	  - Support staging - Define DOCS - Respect CC - Fix build with clang
+  dnstable/	 453381	 4 months	 olgeni	  Fix whitespace issues (mixed tab/spaces, alignment) in a few ports. This round 
+  dnstop/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  dnstracer/	 437764	 11 months	 linimon	  Now builds on sparc64.
+  dnsutl/	 455167	 3 months	 linimon	  For ports that are marked BROKEN on armv6, and also fail to build on armv7, mark
+  dnsviz/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  dnswalk/	 440707	 10 months	 feld	  dns/dnswalk: Unbreak port Deprecated Perl syntax was preventing the port from w
+  dnswall/	 423154	 17 months	 ehaupt	  - Unbreak - Relocate to github - Add LICENSE
+  doc/	 432165	 13 months	 rene	  Reset sanpei@'s ports after 18 months of inactivity.
+  dq/	 459450	 2 months	 sunpoet	  Update to 20180112 - While I'm here, strip binary executable Changes:	https://
+  drool/	 462224	 4 weeks	 wen	  - Update to 1.1.0 PR:	225995 Submitted by:	jaap@NLnetLabs.nl(maintainer)
+  dynip/	 456312	 3 months	 adamw	  Add dns/dynip. dynip is a daemon that monitors your host system ISP assigned dy
+  erlang-idna/	 441977	 9 months	 olgeni	  Update dns/erlang-idna to version 5.0.2.
+  ez-ipupdate/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  fastresolve/	 455182	 3 months	 amdmi3	  - Fix LICENSE - Add LICENSE_FILE - Switch to USES=localbase - Switch to options 
+  firedns/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  fpdns/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  gdnsd/	 446075	 8 months	 mmokhi	  sysutils/liburcu: Update port to 0.10.0 Bump revision for consumer ports. This 
+  gdnsd2/	 454804	 3 months	 zi	  - Add libmaxminddb for geoip2 support - Bump PORTREVISION PR:	223814 Submitted
+  gen6dns/	 452587	 4 months	 se	  Upgrade to version 1.3.
+  getdns/	 464254	 9 days	 zi	  - Update to 1.4.1
+  ghtool/	 462778	 3 weeks	 amdmi3	  - Add LICENSE - Simplify Makefile and pkg-descr - Update WWW Approved by:	portm
+  hesiod/	 421635	 18 months	 amdmi3	  Most commonly used build systems support silent builds, when they hide actual co
+  hostdb/	 437099	 11 months	 rodrigc	  Move from google code to github Approved by:	ak Differential Revision:	https:/
+  hs-dns/	 461362	 5 weeks	 tcberner	  Switch C compiler used to compile GHC to base Clang. This removes build depende
+  hs-gnuidn/	 461362	 5 weeks	 tcberner	  Switch C compiler used to compile GHC to base Clang. This removes build depende
+  idnkit/	 455744	 3 months	 amdmi3	  - Add LICENSE - Regenerate patches PR:	223252 Submitted by:	yasu@utahime.org 
+  idnkit2/	 439460	 10 months	 cpm	  - Add INSTALL_TARGET=install-strip While here, sort LICENSE_FILE PR:	218416 S
+  inadyn/	 386312	 2 years	 mat	  MASTER_SITES cleanup. - Replace ${MASTER_SITE_FOO} with FOO. - Merge MASTER_SIT
+  inadyn-mt/	 431996	 13 months	 sunpoet	  Update WWW: SF redirects to https://sourceforge.net/projects/<PROJECT_NAME>/
+  ipcheck/	 439050	 10 months	 amdmi3	  - Fix shebangs - Add NO_ARCH
+  ironsides/	 464084	 11 days	 gerald	  Bump PORTREVISIONs of all users of math/mpc that we just updated to version 1.1.
+  kf5-kdnssd/	 464265	 9 days	 tcberner	  Update KDE Frameworks to 5.44 PR:	226498 Exp-run by:	antoine
+  knot-resolver/	 463786	 2 weeks	 yuri	  dns/knot-resolver: Update to 2.1.1 Port changes: * Changed to DISTVERSION * Add
+  knot1/	 448519	 6 months	 swills	  dns/knot1: avoid UDP traffic issues PR:	216439 Submitted by:	Leo Vandewoestijn
+  knot2/	 462774	 3 weeks	 yuri	  dns/knot2: Update to 2.6.5 Additional port changes: * Changed to DISTVERSION * 
+  ldapdns/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  ldns/	 463123	 3 weeks	 mat	  Switch some MASTER_SITES from http/ftp to https. Also some cleanup of dead entr
+  libasr/	 464863	 3 days	 yuri	  dns/libasr: Unbreak Port changes: * Remove the manpage option - not needed, alw
+  libasr-devel/	 464864	 3 days	 yuri	  dns/libasr-devel: Unbreak Port changes: * Remove the manpage option - not neede
+  libbind/	 441925	 9 months	 antoine	  Register dependency on groff PR:	213725
+  libdjbdns/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  libidn/	 463287	 2 weeks	 amdmi3	  - Add LICENSE - Switch to USES=localbase - Pet portlint - Switch to options help
+  libidn2/	 449040	 6 months	 sunpoet	  Update to 2.0.4 Changes:	https://gitlab.com/libidn/libidn2/blob/master/NEWS
+  libnspsl/	 453002	 4 months	 vanilla	  Update devel/netsurf-buildsystem to 1.6 devel/nsgenbind to 0.5 dns/libnspsl to 
+  libpsl/	 463125	 3 weeks	 sunpoet	  Update dns/libpsl to 0.20.1 - Bump PORTREVISION of dependent ports for shlib ch
+  linux-c6-libasyncns/	 432937	 13 months	 tijl	  - Autodetect the installed linux_base port and use LINUX_DEFAULT only as a las
+  linux-c7-libasyncns/	 432953	 13 months	 tijl	  Enable i386 support to Linux CentOS 7 ports. PR:	216646
+  mDNSResponder_nss/	 454434	 4 months	 dbaio	  dns/mDNSResponder_nss: Update to 878.1.1 PR:	223730 Submitted by:	Matthieu Vol
+  maradns/	 463305	 2 weeks	 amdmi3	  - Add missing python run-dependency - Fix shebang Approved by:	portmgr blanket 
+  mdnsd/	 464341	 8 days	 tobik	  dns/mdnsd: Fix package and install missing library Shared object "liblibmdnsd.s
+  mydns/	 436247	 12 months	 mat	  Remove all USE_OPENSSL occurrences. Sponsored by:	Absolight
+  mydns-ng/	 436248	 12 months	 mat	  Remove all _USE=openssl occurrences. Sponsored by:	Absolight
+  noip/	 458761	 2 months	 danfe	  - Convert to option helper install target (add OPTIONS_DEFINE=DOCS when it was
+  nsd/	 462420	 4 weeks	 yuri	  dns/nsd: Update to 4.1.20 This release fixes memory leaks when reading zonefile
+  nslint/	 386097	 2 years	 mat	  Cleanup DIST* variables. When appropriate: - Try to use DISTVERSION{SUF,PRE}FIX
+  nsnotifyd/	 446662	 7 months	 dvl	  Handle DNS NOTIFY messages by running a command
+  nsping/	 415134	 22 months	 bapt	  Prevent collision with dprintf(3)
+  nss_mdns/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  nss_resinit/	 383107	 2 years	 mat	  Remove OSVERSION checks that do not make sense any more. For example (${OSVERSI
+  opendd/	 417651	 20 months	 mat	  Replace bsd.openssl.mk with USES=ssl Add a qa hint about needing, or not, USES=
+  opendnssec/	 439969	 10 months	 pi	  dns/opendnssec: update 1.4.12 -> 1.4.14 - OPENDNSSEC-888: Fix up MySQL<->SQLite
+  opendnssec2/	 447941	 7 months	 matthew	  Update to 2.1.3: As of today version 2.1.3 of OpenDNSSEC has been released. No 
+  openmdns/	 458739	 2 months	 danfe	  Do not abuse INSTALL_MAN when installing documentation, examples, and other misc
+  openresolv/	 396614	 2 years	 amdmi3	  - Add NO_ARCH - Add empty directory to plist - Whitespace fixes Approved by:	po
+  p5-AnyEvent-CacheDNS/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-AnyEvent-DNS-EtcHosts/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-BIND-Conf_Parser/	 439317	 10 months	 sunpoet	  Add NO_ARCH - Sort PLIST
+  p5-BIND-Config-Parser/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-DNS-Config/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-DNS-EasyDNS/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  p5-DNS-Ldns/	 373448	 3 years	 mat	  Change the way Perl modules are installed, update the default Perl to 5.18. Bef
+  p5-DNS-Zone/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-DNS-ZoneParse/	 373448	 3 years	 mat	  Change the way Perl modules are installed, update the default Perl to 5.18. Bef
+  p5-Data-Validate-Domain/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  p5-IO-Async-Resolver-DNS/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Mozilla-PublicSuffix/	 460913	 6 weeks	 sunpoet	  Update dns/public_suffix_list to 20180125 - Bump PORTREVISION of dependent port
+  p5-Net-Amazon-Route53/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-Bonjour/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-DNS/	 461302	 5 weeks	 sunpoet	  Update to 1.15 Changes:	http://search.cpan.org/dist/Net-DNS/Changes
+  p5-Net-DNS-Async/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-DNS-Check/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNS-Codes/	 373448	 3 years	 mat	  Change the way Perl modules are installed, update the default Perl to 5.18. Bef
+  p5-Net-DNS-Lite/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-DNS-Match/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-DNS-RR-SRV-Helper/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNS-Resolver-Mock/	 456808	 2 months	 sunpoet	  Update to 1.20171219 Changes:	https://github.com/marcbradshaw/Net-DNS-Resolver-
+  p5-Net-DNS-Resolver-Programmable/	 447231	 7 months	 culot	  - Update to 0.009 [1] - Update minimum dependency requirements on Net::DNS PR:	
+  p5-Net-DNS-SEC/	 465124	 20 hours	 sunpoet	  Update to 1.05 Changes:	http://search.cpan.org/dist/Net-DNS-SEC/Changes
+  p5-Net-DNS-TestNS/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNS-ToolKit/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNS-Zone-Parser/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNS-ZoneFile-Fast/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DNSBL-MultiDaemon/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  p5-Net-DNSBL-Statistics/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-DRI/	 444063	 8 months	 sunpoet	  Remove Perl core modules - Bump PORTREVISION for dependency change With hat:	p
+  p5-Net-Domain-ExpireDate/	 437889	 11 months	 sunpoet	  Update to 1.19 - Remove MASTER_SITE_SUBDIR Changes:	http://search.cpan.org/dis
+  p5-Net-Domain-TLD/	 409154	 2 years	 wen	  - Update to 1.74 Changes: http://cpansearch.perl.org/src/ALEXP/Net-Domain-TLD-1.
+  p5-Net-LibIDN/	 450679	 5 months	 sunpoet	  Fix LICENSE - Add LICENSE_FILE - Sort PLIST
+  p5-Net-LibIDN2/	 454010	 4 months	 sunpoet	  Add version requirement for libidn2
+  p5-Net-Nslookup/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Net-RBLClient/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-Net-RNDC/	 392078	 2 years	 pi	  New port: dns/p5-Net-RNDC Net-RNDC implements the BIND Remote Name Daemon Contr
+  p5-POE-Component-Client-DNS/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-POE-Component-Client-DNS-Recursive/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-POE-Component-Client-DNSBL/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-POE-Component-Resolver/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-POE-Component-Server-DNS/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-POE-Filter-DNS-TCP/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  p5-Stanford-DNSserver/	 375378	 3 years	 bofh	  Change my non-FreeBSD MAINTAINER mail to bofh@ Approved by:	bapt
+  p5-Tie-DNS/	 449893	 6 months	 mat	  Fix license information for portgs that use "the same license as Perl". Sponsor
+  p5-URBL-Prepare/	 373448	 3 years	 mat	  Change the way Perl modules are installed, update the default Perl to 5.18. Bef
+  p5-pgeodns/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  packetq/	 463692	 2 weeks	 yuri	  dns/packetq: Update to 1.4.1 Port changes: * Changed to DISTVERSION * Grouped U
+  pdnsd/	 400033	 2 years	 amdmi3	  - Implement clean deinstallation PR:	203466 Submitted by:	amdmi3 Approved by:	
+  pear-File_DNS/	 463917	 12 days	 mat	  Introduce PHP flavors. Ports using USES=php:phpize, php:ext, php:zend, and ph
+  pear-Horde_Idna/	 444450	 8 months	 mm	  Horde package update: security/pear-Horde_Auth 2.2.1 -> 2.2.2 devel/pear-Horde_
+  pear-Net_DNS2/	 461832	 5 weeks	 joneum	  dns/pear-Net_DNS2: Update to 1.4.4 Changelog: - bugfix when returning an empty
+  powerdns/	 462387	 4 weeks	 krion	  Update to 4.1.1 This is a bug-fix only release, with fixes to the LDAP and MySQ
+  powerdns-recursor/	 459742	 8 weeks	 krion	  Update to version 4.1.1 - Fixes "PowerDNS Security Advisory 2018-01: Insufficie
+  powerdns-recursor40/	 459315	 2 months	 jbeich	  devel/boost-*: update to 1.66.0 Changes:	http://www.boost.org/users/history/ver
+  public_suffix_list/	 460913	 6 weeks	 sunpoet	  Update dns/public_suffix_list to 20180125 - Bump PORTREVISION of dependent port
+  py-cloudflare/	 463065	 3 weeks	 sunpoet	  Update to 2.1.0 Changes:	https://github.com/cloudflare/python-cloudflare/blob/m
+  py-dns/	 462307	 4 weeks	 antoine	  Reduce dependency on the python2 metaport PR:	225752 Submitted by:	Yasuhiro KI
+  py-dns-lexicon/	 465230	 26 minutes	 sunpoet	  Update to 2.1.24 Changes:	https://github.com/AnalogJ/lexicon/releases PR:	2268
+  py-dnschain/	 462887	 3 weeks	 yuri	  Replaced my old rawbw.com maintainer's address with yuri@FreeBSD.org 98 ports a
+  py-dnspython/	 457499	 2 months	 antoine	  Simplify some USES=python With hat:	portmgr
+  py-easyzone/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  py-idna/	 465057	 40 hours	 koobs	  dns/py-idna: Update to 2.6 Changelog: https://github.com/kjd/idna/blob/v2.6/
+  py-idna_ssl/	 464782	 4 days	 sunpoet	  Add py-idna_ssl 1.0.1 idna-ssl patches ssl.match_hostname for Unicode(idna) dom
+  py-idnkit2/	 462307	 4 weeks	 antoine	  Reduce dependency on the python2 metaport PR:	225752 Submitted by:	Yasuhiro KI
+  py-ldns/	 435305	 12 months	 miwi	  - Update to 1.7.0 Changelog: https://git.nlnetlabs.nl/ldns/tree/Changelog PR:	
+  py-namebench/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  py-publicsuffix/	 461265	 5 weeks	 amdmi3	  Canonicalize PyPi WWWs: - Switch to https:// - Remove trailing slashes Approved
+  py-py3dns/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  py-pycares/	 416959	 21 months	 demon	  Update to version 2.1.0
+  py-pydnstable/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  py-pywdns/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  py-tld/	 459604	 8 weeks	 antoine	  New port: dns/py-tld Extract the top level domain (TLD) from the URL given. Lis
+  py-tldextract/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  radns/	 386097	 2 years	 mat	  Cleanup DIST* variables. When appropriate: - Try to use DISTVERSION{SUF,PRE}FIX
+  rbldnsd/	 426053	 16 months	 pi	  dns/rbldnsd: update 0.997a -> 0.998 - use ${ETCDIR} - don't install RPM spec an
+  rbllookup/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  rbllookup-ng/	 426959	 15 months	 amdmi3	  - Add LICENSE - Remove unneeded perl module - Fix depends (these are runtime, no
+  renewck/	 444443	 8 months	 danfe	  - Update DNS Tools ports to their most recent versions - Switch to HTTP instead 
+  rpsl2acl/	 444443	 8 months	 danfe	  - Update DNS Tools ports to their most recent versions - Switch to HTTP instead 
+  rubygem-dnsruby/	 447804	 7 months	 sunpoet	  Update to 1.60.2 Changes:	https://github.com/alexdalitz/dnsruby/blob/master/REL
+  rubygem-idn-ruby/	 451294	 5 months	 sunpoet	  Fix RUN_DEPENDS - Bump PORTREVISION for dependency change
+  rubygem-net-dns/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  rubygem-public_suffix/	 461728	 5 weeks	 sunpoet	  Update to 3.0.2 Changes:	https://github.com/weppos/publicsuffix-ruby/blob/maste
+  rubygem-public_suffix_service/	 460913	 6 weeks	 sunpoet	  Update dns/public_suffix_list to 20180125 - Bump PORTREVISION of dependent port
+  rubygem-simpleidn/	 459072	 2 months	 swills	  dns/rubygem-simpleidn: update to 0.0.9 PR:	224770 Approved by:	Douglas Thrift 
+  rubygem-validates_hostname/	 454210	 4 months	 sunpoet	  Update to 1.0.8 Changes:	https://github.com/KimNorgaard/validates_hostname/comm
+  samba-nsupdate/	 457256	 2 months	 tijl	  Add missing USES=libtool. Reported by:	antoine
+  scavenge/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  sheerdns/	 433274	 13 months	 danfe	  Clean up a few things in `dns/sheerdns' port: - Spell `LICENSE_FILE' knob correc
+  sleuth/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  sshfp/	 455210	 3 months	 mat	  Convert Python ports to FLAVORS. Ports using USE_PYTHON=distutils are now fla
+  tinystats/	 376393	 3 years	 ehaupt	  Move MASTER_SITES from CRITICAL to LOCAL/ehaupt
+  totd/	 415738	 21 months	 amdmi3	  Convert tab after WWW: in pkg-descrs to single space as per PHB Approved by:	po
+  udns/	 418767	 20 months	 mat	  When there is a do-install target, do not use a post-install target, do everythi
+  unbound/	 465195	 2 hours	 pi	  dns/unbound: upgrade 1.6.8 -> 1.7.0 Features - auth-zone provides a way to conf
+  updatedd/	 395491	 2 years	 amdmi3	  - Switch to @sample Approved by:	portmgr blanket
+  validns/	 462130	 4 weeks	 sunpoet	  Use BROKEN_SSL Approved by:	portmgr (blanket)
+  vhostcname/	 444443	 8 months	 danfe	  - Update DNS Tools ports to their most recent versions - Switch to HTTP instead 
+  vizone/	 421683	 18 months	 ehaupt	  Mark NO_ARCH
+  void-zones-tools/	 449591	 6 months	 gerald	  Bump PORTREVISION for ports depending on the canonical version of GCC (via Mk/bs
+  walker/	 415498	 22 months	 amdmi3	  - Fix trailing whitespace in pkg-descrs, categories [a-f]* Approved by:	portmgr
+  wdns/	 441953	 9 months	 sunpoet	  Fix OPTIONS_DEFAULT: remove EXAMPLES which is added by framework Approved by:	p
+  whoseip/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  wrapsrv/	 412346	 23 months	 mat	  Remove ${PORTSDIR}/ from dependencies, categories d, e, f, and g. With hat:	por
+  yadifa/	 449591	 6 months	 gerald	  Bump PORTREVISION for ports depending on the canonical version of GCC (via Mk/bs
+  zkt/	 430631	 14 months	 amdmi3	  Remove always-true/false conditions after 9.x, 10.[12] EOL While here, couple mi
+  zonecheck/	 457596	 2 months	 krion	  Restore trailing slash. Reminded by:	danfe
+  zonenotify/	 419847	 19 months	 ehaupt	  Strip binary

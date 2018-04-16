@@ -1,0 +1,104 @@
+Numeric
+Format
+210	<nick> <channel> <set-on> <expires> <remaining> :<reason>
+270	<nick> :<count> servers and <count> users, average <average count> users per server
+271	<nick> <nick> <nick>!*@*
+272	<nick> :End of Silence List
+330	<nick> <nick> <accountname> :is logged in as
+335	<nick> <network> :is a bot on
+336	<nick> :is on private/secret channels:
+384	<nick> <channel> :Cannot join channel, CBANed (<reason>)
+385	<nick> <channel> :Added CBAN for <duration> seconds (<reason>)
+386	<nick> <channel> :Removed CBAN with <duration> seconds left before expiry (<reason>)
+379	<nick> <nick> :was connecting from *@host.name.here
+396	<nick> <host> :is now your hidden host
+420	<nick> :Ambiguous abbreviation. Possible matches: <command list>
+447	<nick> :Can't change nickname while on <channel> (+N is set)
+468	<nick> <channel> :Only servers may set channel mode +q
+470	<nick> :<channel> has become full, so you are automatically being transferred to the linked channel <channel>
+480	<nick> :Can't KNOCK on <channel>, +K is set.
+482	<nick> <channel> :You are not a channel founder
+484	<nick> <channel> :Can't kick user <nick> from channel (+Q set)
+489	<nick> <channel> :Cannot join channel (+z)
+490	<nick> <channel> :all members of the channel must be connected via SSL
+491	<nick> <nick> <channel> :is not invited to channel <channel>
+492	<nick> <channel> :You are not on that channel!
+493	<nick> :You were uninvited from <channel> by <nick>
+494	<nick> <channel> <nick> :Uninvited
+495	<nick> <channel> :You cannot rejoin this channel yet after being kicked (+J)
+500	<nick> :Only a U-Lined server may modify the +r channel/user mode
+520	<nick> <channel> :Only IRC operators may join the channel <channel> (+O is set)
+523	<nick> WHO :Command aborted: More results than configured limit
+530	<nick> <channel> :Only IRC operators may create new channels
+531	<nick> <nick> :You are not permitted to send private messages to this user
+600	<nick> <nick> <ident> <host> <timestamp> :arrived online
+601	<nick> <nick> <ident> <host> <timestamp> :went offline
+602	<nick> <nick> <ident> <host> <timestamp> :stopped watching
+603	<nick> :You have <number> and are on <number> WATCH entries
+604	<nick> <nick> <ident> <host> <timestamp> :is online
+605	<nick> <nick> <ident> <host> <timestamp> :is offline
+606	<nick> :<current watchlist>
+607	<nick> :End of WATCH list
+608	<nick> <channel> :Invalid flood parameter
+609	<nick> <nick> <ident> <host> <timestamp> :is away
+666	<nick> :You cannot identify as a server, you are a USER. IRC Operators informed.
+670	<nick> :STARTTLS successful, go ahead with TLS handshake
+691	<nick> :STARTTLS failure
+690	<nick> :Circular redirection, mode +L to <channel> not allowed.
+700	<nick> :<module info>
+702	<nick> :<command> <module name> <minimum parameters>
+703	<nick> :End of MODULES list
+704	<nick> :End of COMMANDS list
+900	<nick> <nick!user@host> <account> :You are now logged in as <account>.
+903	<nick> :SASL authentication successful
+904	<nick> :SASL authentication failed
+905	<nick> :SASL message too long
+906	<nick> :SASL authentication aborted
+907	<nick> :You have already completed SASL authentication
+925	<nick> <channel> :End of channel opflags
+926	<nick> <channel> <opflag> <user>[,<user>[...]] :Opflag is held by these users
+927	<nick> :You are already parked up to the maximum number of allowed times.
+928	<nick> :Incorrect park key.
+929	<nick> :User <nick> is parked, but their message queue is full. Message not saved.
+930	<nick> :User <nick> is parked. Your message was saved.
+935	<nick> <channel> <word> :Word is too long for censor list
+936	<nick> <channel> <word> :Your message contained a censored word, and was blocked
+937	<nick> <channel> :The word %s is already on the spamfilter list
+938	<nick> <channel> :No such spamfilter word is set
+939	<nick> <channel> :Channel spamfilter list is full
+940	<nick> <channel> :End of channel spamfilter list
+941	<nick> <channel> <spamfilter>
+942	<nick> <nick> :Invalid user specified.
+943	<nick> <nick> :This user is not parked.
+944	<nick> :Idle time set.
+945	<nick> <nick> :Nickname now unlocked.
+946	<nick> <nick> :This user's nickname is already locked.
+948	<nick> :Invalid idle time.
+950	<nick> <nick> :Removed <nick>!*@* from silence list
+951	<nick> <nick> :Added <nick>!*@* to silence list
+952	<nick> <nick> :<nick> is already on your silence list
+953	<nick> <channel> :End of channel timed modes
+954	<nick> <channel> <expiry> :<modes>
+972	<nick> <modulename> :Failed to unload module: <error>
+973	<nick> <modulename> :Module successfully unloaded.
+974	<nick> <modulename> :Failed to load module: <error>
+975	<nick> <modulename> :Module successfully loaded.
+980	<nick> <targetnick> :Nickname already frozen
+981	<nick> <targetnick> :Nickname frozen
+982	<nick> <targetnick> :Nickname unfrozen
+983	<nick> <targetnick> :Nickname already thawed
+984	<nick> :Cannot execute command, you are frozen --- May be used at a later date
+985	<nick> <targetnick> :Cannot freeze user as they are an IRC operator
+986	<nick> <targetnick> :is listed on dnsbl '<listname>' (<reason>)
+988	<nick> <servername> :Closed for new connections
+989	<nick> <servername> :Open for new connections
+990	<nick> :Users on your DCCALLOW list:
+991	<nick> <nick> :<nick> (<hostmask>)
+992	<nick> :End of DCCALLOW list
+993	<nick> <nick> :Added <nick> to DCCALLOW list for <duration> seconds
+994	<nick> <nick> :Added <nick> to DCCALLOW list for this session
+995	<nick> <nick> :Removed <nick> from your DCCALLOW list
+996	<nick> <nick> :<nick> is already on your DCCALLOW list
+997	<nick> <nick> :DCCALLOW entry for <nick> has expired
+998	<nick> :DCCALLOW HELP
+999	<nick> :End of DCCALLOW HELP
