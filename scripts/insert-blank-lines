@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+#
+# This script is just like a plain UNIX cat execution, except it echoes a blank
+# line after each actual line of the file that it displays.
+#
+
+if [ ! "$1" ]
+  then echo "usage: $0 PATH"
+  echo '  PATH  location of file to insert blank lines in'
+  exit 1
+fi
+
+while read l
+  do echo $l
+  echo
+done < "$1"
+
+exit 0
