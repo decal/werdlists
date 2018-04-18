@@ -66,8 +66,6 @@ size of each file to a healthy maximum for manageability purposes.
 The index file in the root folder (`INDEX.md`), as well as the indices in each 
 data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec").  
 
-* * *
-
 ## Index Describing Each Folder in the Project :clipboard:
 
 arpa-headers: :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
@@ -104,7 +102,7 @@ http-methods: :arrow_forward: Names of HTTP [Request methods](https://wikipedia.
 http-params: :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
 http-paths: :feet: Path names that browsers include in queries to servers  
 http-queries: :grey_question: The object syntax that appears after the question mark in URI's  
-http-security: :cop: Hyper Text Transfer Protocol security info, i.e. CSP  
+http-security: :cop: [HTTP security](https://www.w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
 http-servers: :office: Information related to the usage of web server software  
 http-status: :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
 inet-addrs: :electric_plug: Numeric Internet addresses a.k.a. IP addresses--mostly version 4  
@@ -129,13 +127,13 @@ perl-data: :camel: Data often seen in [PERL](http://www.perl.org) (Practical Ext
 php-data: :page-facing-up: Files containing information about the [PHP](http://www.php.net) programming language  
 postal-data: :mailbox_with_mail: [United States Postal Service](https://www.usps.com/) information  
 python-data: :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime  
-radio-data: :radio: Things commonly used in radio frequency transmissions  
+radio-data: :radio: Things commonly used in [radio frequency](https://wikipedia.org/wiki/Radio_frequency) transmissions  
 regex-data: :speech_balloon: Regular expression patterns to mount attacks and match strings  
 ruby-data: :gem: Data typically seen within the syntax of the [Ruby](https://www.ruby-lang.org) scripting language  
 search-dorks: :mag_right: General purpose search-engine queries likely to find insecure sites  
 smtp-messages: :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers  
 soap-messages: :incoming_envelope: [SOAP](https://wikipedia.org/wiki/SOAP "Simple Object Access Protocol") (Simple Object Access Protocol) messages  
-social-data: :eyes: Sociological or social media related data sets  
+social-data: :eyes: Sociological or [social media](https://wikipedia.org/wiki/Social_media) related data sets  
 software-strs: :minidisc: Strings that describe [software engineering](https://wikipedia.org/wiki/Software_engineering), [programming languages](https://wikipedia.org/wiki/Programming_language), etc.  
 string-enums: :ferris_wheel: Enumerations of values that aren't too terribly unusual  
 system-admin: :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
@@ -155,7 +153,7 @@ vuln-data: :bar_chart: Information about security vulnerabilities found in serve
 webapp-attacks: :syringe: [Security Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating various styles of web application attacks  
 webapp-data: :briefcase: Data associated with applications hosted on web servers  
 webapp-dirs: Directories related to applications running on a web server  
-webapp-files: :card_index: Files related to applications running on a web server  
+webapp-files: :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
 webapp-paths: :bookmark_tabs: Path names related to applications running on a web server  
 webapp-words: :thought_balloon: Words related to applications running on a web server  
 web-sites: :earth_americas: Addresses to and/or information on well known/organized WWW sites  
@@ -163,3 +161,6 @@ wifi-networks: :satellite: [IEEE 802.11](http://www.ieee802.org/11/ "The Working
 windows-data: :briefcase: Data only found within the [Microsoft Windows](https://wikipedia.org/wiki/Microsoft_Windows) series of OSes  
 
 * * *
+
+* * *
+

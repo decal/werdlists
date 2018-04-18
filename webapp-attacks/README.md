@@ -5,10 +5,11 @@ joomla-components-targeted: list of [Joomla](https://www.joomla.com) components 
 mongodb-nosql-injection: [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists)  
 png-html-polyglot: a PNG image file also containing HTML, CSS and JavaScript  
 sql-errors-data: typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system")  
-wapples-vseries-rules: WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf.pdf>  
+wapples-vseries-rules: WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf>  
 webapp-attack-strings: Various HTTP GET query strings that represent attacks  
 webapp-charset-attacks: Character set strings to test a web server's [content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation) behavior..  
 webapp-code-execution: HTTP GET queries that may result in remote code execution  
+webapp-pentest-checklist: Checklist for Web Application Penetration Testing <https://hackercombat.com/web-application-penetration-testing-checklist>  
 webapp-sql-injection: [RDBMS](https://wikipedia.org/wiki/Relational_database_management_system) query fragments for [SQL injection](https://www.owasp.org/index.php/SQL_Injection) testing  
 webapp-xss-scripts: [JavaScript](https://wikipedia.org/wiki/JavaScript) code fragments for testing [Cross-Site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29)  
 wordpress-plugin-vulns: list of [WordPress](https://www.wordpress.com) plugins with versions that have publicly known vulnerabilities  

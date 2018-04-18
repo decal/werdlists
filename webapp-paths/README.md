@@ -16,6 +16,7 @@ falcon-path-scan: The `paths.txt` file distributed with the _FalconPathScan_
 font-file-names: List of names for various OpenType and TrueType font files  
 forcepoint-ink-files: file names for scanning custom extensions  
 generic-path-names: general path names that could be used on any web server  
+github-gitignore-paths: path names parsed from `.gitignore` files in various GitHub repositories via `scripts/make-gitignore-paths`
 httpoxyscan-cgilist-paths: [cgi_list.txt](https://github.com/1N3/HTTPoxyScan "HTTPoxyScan")  
 ibm-bea-paths: paths for both J2EE app servers IBM WebSphere and Oracle WebLogic  
 iis-path-names: path names commonly found under the web root of an _IIS_ install  

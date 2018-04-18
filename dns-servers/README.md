@@ -1,4 +1,5 @@
 alexa-site-nameservers: the nameservers of [Alexa](https://www.alexa.com/) sites advertised by NS records  
+bsdports-dns-tools: <https://github.com/freenas/iocage-ports/tree/master/dns>  
 dnsrd-syslog-codes: [DNS Resources Directory (DNSRD)](http://web.archive.org/web/*/www.dns.net/dnsrd/)  
 dns-root-servers: root zone's nameserver record data for various resource types  
 dnsbrute-resolvers-list: list of public-facing nameservers via `dnsbrute` tool  

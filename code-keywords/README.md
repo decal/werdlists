@@ -1,4 +1,4 @@
-awk-builtin-variables: builtin variable names and values for AWK language  
+awk-builtin-variables: builtin variable names and values for [AWK](https://wikipedia.org/wiki/AWK) language  
 bing-search-operators: Advanced search operators in the Microsoft [Bing query language](https://msdn.microsoft.com/library/ff795667.aspx "Bing Query Language") <https://msdn.microsoft.com/library/ff795620.aspx>  
 ch-language-keywords: keywords for Ch--the cross-platform C and C++ interpeter  
 esoteric-programming-languages: list of esoteric programming language names from <https://esolangs.org/wiki/Language_list>  
