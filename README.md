@@ -113,7 +113,7 @@ iso-codes: :heavy_check_mark: [ISO](https://iso.org "International Standardizati
 java-data: :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 libc-data: :factory: data for or about programming with the [C standard library](https://wikipedia.org/wiki/C_standard_library "C standard library")  
 linux-data: :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
-linux-paths: :linked_paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
+linux-paths: :linked-paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
 malware-iocs: :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 mobile-dev: :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 net-attacks: :hotsprings: Info about attacks on telecommunications and Internetworks  
