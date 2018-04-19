@@ -66,7 +66,7 @@ size of each file to a healthy maximum for manageability purposes.
 The index file in the root folder (`INDEX.md`), as well as the indices in each 
 data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec").  
 
-## Index Describing Each Folder in the Project :clipboard:
+## Contents Description for Each Folder :clipboard:
 
 arpa-headers: :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 ascii-art: :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
@@ -124,7 +124,7 @@ owasp-data: :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web 
 passes-dicts: :key: Dictionary files used in [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
 passes-sites: :unlock: Password lists that were publicized after major site compromises  
 perl-data: :camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)  
-php-data: :page-facing-up: Files containing information about the [PHP](http://www.php.net) programming language  
+php-data: :page_facing_up: Files containing information about the [PHP](http://www.php.net) programming language  
 postal-data: :mailbox_with_mail: [United States Postal Service](https://www.usps.com/) information  
 python-data: :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime  
 radio-data: :radio: Things commonly used in [radio frequency](https://wikipedia.org/wiki/Radio_frequency) transmissions  
