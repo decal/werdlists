@@ -119,7 +119,7 @@ mobile-dev: :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) d
 net-attacks: :hotsprings: Info about attacks on telecommunications and Internetworks  
 net-ifaces: :three-networked-computers: Detailed information which can be extracted from network interfaces  
 ntfs-paths: :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
-nvd-data: :classical_building: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
+nvd-data: :orange_book: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 owasp-data: :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
 passes-dicts: :key: Dictionary files used in [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
 passes-sites: :unlock: Password lists that were publicized after major site compromises  
