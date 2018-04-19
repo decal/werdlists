@@ -6,6 +6,7 @@ css-prefixes-gecko: [Gecko](https://peter.sh/experiments/vendor-prefixed-css-pro
 css-prefixes-trident: [Trident](https://peter.sh/experiments/vendor-prefixed-css-property-overview)  
 css-property-names: Style sheet property names from [cssreference.io](https://cssreference.io)  
 html-entities-list: List of [HTML Entities](https://wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML), i.e. symbols prepended by ampersands  
+html-entities-spec: HTML entities with associated codepoints and characters <https://html.spec.whatwg.org/entities.json>  
 html5-tags-list: A list of [HTML5](https://wikipedia.org/wiki/HTML5) tags (one-per-line)  
 iso8859-characters-list: Character entity references for [ISO 8859-1](https://wikipedia.org/wiki/ISO/IEC_8859-1) characters <https://w3.org/TR/html401/sgml/entities.html#h-24.2.1>  
 javascript-reserved-words: reserved words in [JavaScript](https://wikipedia.org/wiki/JavaScript)  
