@@ -9,6 +9,7 @@ gitlab-gitignore-patterns: pathname patterns of `.gitignore` files listed by Git
 gitlab-languages-list: a list of languages extracted from [GitLab](https://gitlab.com) `.gitignore` templates <https://gitlab.com/api/v4/templates/gitignores?per_page=1024>  
 gnulinux-distribution-names: Linux distribution names extracted from the GNU/Linux Distribution Timeline <http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.svg>  
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
+gnu-long-options: GNU `getopt_long()` options from the GNU Coding Standard <https://www.gnu.org/prep/standards/>  
 http-server-platforms: HTTP server software platform list  
 icon-naming-spec: "standard icon names that should be used by artists when creating themes, and by developers when writing applications" <https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html>  
 java-platform-list: list of Java platform names taken from `libs.xml` `unixActions.jar`  
