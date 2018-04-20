@@ -54,9 +54,9 @@ according to the commands in the `scripts/compress-large-files` bash script.
 
 |&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| arpa-headers    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
-| ascii-art       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
-| biology-info    | :microscope: Reference information useful in the study of biological issues  
+| [arpa-headers](arpa-headers)    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
+| [ascii-art](ascii-art)       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
+| [biology-info](biology-info)    | :microscope: Reference information useful in the study of biological issues  
 | browser-data    | :door: Data related to GUI browser software like [Chrome](https://www.google.com/chrome/ "Chrome Web Browser"), [FireFox](https://www.mozilla.org/en-US/firefox/new/ "Download FireFox"), etc.  
 | cert-data       | :scroll: Information commonly utilized by cryptographic certificate materials  
 | char-encodes    | :ideograph_advantage: Various [character encodings](https://w3.org/International/articles/definitions-characters/ "Character encodings: Essential concepts") provided by different [locales](https://wikipedia.org/wiki/Locale_(computer_software) "Locale (computer software)")/[charsets](https://w3.org/International/articles/http-charset/index "Setting the HTTP charset parameter")  
@@ -137,7 +137,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | vuln-data       | :bar_chart: Information about security vulnerabilities found in server software  
 | webapp-attacks  | :syringe: [Security Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating various styles of web application attacks  
 | webapp-data     | :briefcase: Data associated with applications hosted on web servers  
-| webapp-dirs     | :inbox_tray: Directories related to applications running on a web server  
+| webapp-dirs     | :bookmark_tabs: Directories related to applications running on a web server  
 | webapp-files    | :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
 | webapp-paths    | :surfer: Path names related to applications running on a web server  
 | webapp-words    | :thought_balloon: Words related to applications running on a web server  
