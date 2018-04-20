@@ -52,7 +52,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 
 ## Folder Names and Description of Contents :clipboard:
 
-| _Folder Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | arpa-headers    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | ascii-art       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
@@ -98,11 +98,11 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | java-data       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 | libc-data       | :factory: data for or about programming with the [C standard library](https://wikipedia.org/wiki/C_standard_library "C standard library")  
 | linux-data      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
-| linux-paths     | :linked-paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
+| linux-paths     | :linked_paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
 | malware-iocs    | :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 | mobile-dev      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 | net-attacks     | :hotsprings: Info about attacks on telecommunications and Internetworks  
-| net-ifaces      | :three-networked-computers: Detailed information which can be extracted from network interfaces  
+| net-ifaces      | :three_networked_computers: Detailed information which can be extracted from network interfaces  
 | ntfs-paths      | :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
 | nvd-data        | :orange_book: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 | owasp-data      | :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
