@@ -10,6 +10,7 @@ gitlab-languages-list: a list of languages extracted from [GitLab](https://gitla
 gnulinux-distribution-names: Linux distribution names extracted from the GNU/Linux Distribution Timeline <http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.svg>  
 gnu-cvs-repos: [Repository Listing](http://cvs.savannah.gnu.org/viewvc)  
 gnu-long-options: GNU `getopt_long()` options from the GNU Coding Standard <https://www.gnu.org/prep/standards/>  
+go-by-example: list of topics from [Go By Example](https://gobyexample.com)
 http-server-platforms: HTTP server software platform list  
 icon-naming-spec: "standard icon names that should be used by artists when creating themes, and by developers when writing applications" <https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html>  
 java-platform-list: list of Java platform names taken from `libs.xml` `unixActions.jar`  
