@@ -98,11 +98,11 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | java-data       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 | libc-data       | :factory: data for or about programming with the [C standard library](https://wikipedia.org/wiki/C_standard_library "C standard library")  
 | linux-data      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
-| linux-paths     | :linked_paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
+| linux-paths     | :paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
 | malware-iocs    | :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 | mobile-dev      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 | net-attacks     | :hotsprings: Info about attacks on telecommunications and Internetworks  
-| net-ifaces      | :three_networked_computers: Detailed information which can be extracted from network interfaces  
+| net-ifaces      | :desktop_computer: Detailed information which can be extracted from network interfaces  
 | ntfs-paths      | :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
 | nvd-data        | :orange_book: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 | owasp-data      | :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
@@ -137,7 +137,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | vuln-data       | :bar_chart: Information about security vulnerabilities found in server software  
 | webapp-attacks  | :syringe: [Security Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating various styles of web application attacks  
 | webapp-data     | :briefcase: Data associated with applications hosted on web servers  
-| webapp-dirs     | Directories related to applications running on a web server  
+| webapp-dirs     | :inbox_tray: Directories related to applications running on a web server  
 | webapp-files    | :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
 | webapp-paths    | :surfer: Path names related to applications running on a web server  
 | webapp-words    | :thought_balloon: Words related to applications running on a web server  
