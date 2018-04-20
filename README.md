@@ -69,7 +69,7 @@ data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https
 ## Contents Description for Each Folder :clipboard:
 
 | _Folder Name_  | _Description of Contents_
------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|:---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | arpa-headers   | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | ascii-art      | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
 | biology-info   | :microscope: Reference information useful in the study of biological issues  
@@ -160,8 +160,6 @@ data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https
 | web-sites      | :earth_americas: Addresses to and/or information on well known/organized WWW sites  
 | wifi-networks  | :satellite: [IEEE 802.11](http://www.ieee802.org/11/ "The Working Group for WLAN Standards") [Wi-Fi](https://wikipedia.org/wiki/Wi-Fi) network information  
 | windows-data   | :briefcase: Data only found within the [Microsoft Windows](https://wikipedia.org/wiki/Microsoft_Windows) series of OSes  
-
-* * *
 
 * * *
 
