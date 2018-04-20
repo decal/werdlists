@@ -74,13 +74,12 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [cpu-arch](cpu-arch)        | :factory: Low-level computer architecture and hardware subjects  
 | [crypt-output](crypt-output)    | :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://wikipedia.org/wiki/Cryptographic_hash_function)  
 | [database-strs](database-strs)   | :floppy_disk: Strings often encountered when working with [database](https://wikipedia.org/wiki/Database) software  
-| [dns-commands](dns-commands)    | :spades: Commands, packages, utilities, etc. used by the [Domain Name System](https://wikipedia.org/wiki/Domain_Name_System)  
 | [dns-domains](dns-domains)     | :globe_with_meridians: A list of domains that may or may not be found in the live DNS tree  
 | [dns-hostnames](dns-hostnames)   | :flashlight: The host name part of an [FQDN](https://wikipedia.org/wiki/Fully_qualified_domain_name "Fully Qualified Domain Name")  
 | [dns-records](dns-records)     | :ticket: Data specific to [RR's](http://freesoft.org/CIE/Topics/78.htm "Resource Records") in the DNS system  
 | [dns-servers](dns-servers)     | :battery: Data provided to, produced by or related to DNS name servers  
 | [dns-toplevel](dns-toplevel)    | :top: TLD's or [Top Level Domains](https://wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
-| [environ-names](environ-names)   | :tent: [Environment variable](https://wikipedia.org/wiki/Environment_variable) names, settings, etc.  
+| [environ-vars](environ-vars)   | :tent: [Environment variable](https://wikipedia.org/wiki/Environment_variable) names, settings, etc.  
 | [exploit-info](exploit-info)    | :8ball: Technical information on exploitation of security vulnerabilities  
 | [file-extens](file-extens)     | :anchor: Anything concerning [Filename extension](https://wikipedia.org/wiki/Filename_extension), i.e. the part after the period in a file name  
 | [file-specs](file-specs)      | :file_folder: [File format](https://wikipedia.org/wiki/File_format) specifications as distributed by vendor(s)/author(s)  
@@ -91,8 +90,6 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [http-headers](http-headers)    | :cookie: Header fields sent in requests and responses by browser/server software 
 | [http-methods](http-methods)    | :arrow_forward: Names of HTTP [Request methods](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) that are sent at the start of a browser's first request line  
 | [http-params](http-params)     | :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
-| [http-paths](http-paths)      | :feet: Path names that browsers include in queries to servers  
-| [http-queries](http-queries)    | :grey_question: The [query string](https://wikipedia.org/wiki/Query_string) syntax that appears after the question mark character in URI's  
 | [http-security](http-security)   | :closed_lock_with_key: [HTTP security](https://w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
 | [http-servers](http-servers)    | :office: Information related to the usage of [web server software](https://w3.org/Servers.html)  
 | [http-status](http-status)     | :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
@@ -102,15 +99,13 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [infosec-people](infosec-people)  | :neckbeard: Noteworthy individuals known from [information security communities](http://infosecevents.net/communities/)  
 | [iso-codes](iso-codes)       | :heavy_check_mark: [ISO](https://iso.org "International Standardization Organization") code numbers and such  
 | [java-data](java-data)       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
-| [libc-data](libc-data)       | :factory: data for or about programming with the [C standard library](https://wikipedia.org/wiki/C_standard_library "C standard library")  
 | [linux-data](linux-data)      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
 | [linux-paths](linux-paths)     | :paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
 | [malware-iocs](malware-iocs)    | :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
-| [mobile-dev](mobile-dev)      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
+| [mobile-devs](mobile-devs)      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 | [net-attacks](net-attacks)     | :hotsprings: Info about attacks on telecommunications and Internetworks  
 | [net-ifaces](net-ifaces)      | :desktop_computer: Detailed information which can be extracted from network interfaces  
 | [ntfs-paths](ntfs-paths)      | :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
-| [nvd-data](nvd-data)        | :orange_book: Datum utilized by [NIST's NVD](https://nvd.nist.gov "National Vulnerability Database")  
 | [owasp-data](owasp-data)      | :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
 | [passes-dicts](passes-dicts)    | :key: Dictionary files used in [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
 | [passes-sites](passes-sites)    | :unlock: Password lists that were publicized after major site compromises  
@@ -133,7 +128,6 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [text-files](text-files)      | :pushpin: a special kind of "text file" as in those archived at [textfiles.com](https://textfiles.com), i.e. old school zine articles  
 | [text-words](text-words)      | :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 | [top-secret](top-secret)      | :alien: Files and/or data related to documents that were/are classified  
-| [unicode-art](unicode-art)     | :performing_arts: Unicode art pieces (i.e. requires wide character symbols)  
 | [unicode-data](unicode-data)    | :symbols: [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  
 | [unix-data](unix-data)       | :shell: Data associated with various flavors of the UNIX OS and its clones  
 | [unix-paths](unix-paths)      | :file_cabinet: File path names found in various [UNIX file systems](https://wikipedia.org/wiki/Unix_File_System)  

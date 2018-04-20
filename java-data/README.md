@@ -4,3 +4,4 @@ java-errors-data: data which is usually shown within Java error messages
 jca-engine-classes: JCA (Java Cryptography Architecture) engine descriptions  
 jca-core-classes: JCA core class and interface names list  
 jca-api-packages: the list of Security API package namespaces used by JCA  
+java-se8std-index: Java SE 8 code identifier index  
