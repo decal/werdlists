@@ -22,16 +22,6 @@ the creation of insecure [program state](https://wikipedia.org/wiki/State_(compu
 utility, for example.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://unix.org/what_is_unix.html)
 style [newline](https://wikipedia.org/wiki/Newline).   
 
-## Details on Selected Folder Samples :books:
-
-|&nbsp;&nbsp;&nbsp;&nbsp;Folder&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents |
-|:----------------------------------:|:------------------------|
-| [dns-hostnames](dns-hostnames)  | :page_with_curl: The host name part of an FQDN ([_Fully Qualified Domain Name_](https://wikipedia.org/wiki/Fully_qualified_domain_name "Fully qualified domain name")) |  
-| [http-security](http-security)  | :closed_lock_with_key: HTTP ([_Hyper Text Transfer Protocol_](https://w3.org/Protocols/ "Hyper Text Transfer Protocol") security info, i.e. CSP ([_Content Security Policy_](https://content-security-policy.com/ "Content Security Policy Quick Reference Guide")) |  
-| [unix-data](unix-data)          | :computer: Data associated with various flavors of the [UNIX](http://unix.org/what_is_unix.html "What is UNIX?") operating system and its clones |   
-| [telco-data](telco-data)        | :telephone: PSTN ([_Public Switched Telephone Network_](http://www.linfo.org/pstn.html "PSTN Definition")) a.k.a. POTS ([_Plain Old Telephone Service_](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old Telephone Service")) [dialing codes](http://www.dialingcode.com/ "Dialing Codes and Country Codes") and related information |  
-| [webapp-paths](webapp-paths)    | :surfer: [Path](https://wikipedia.org/wiki/Path_(computing)) names related to web-based applications |  
-
 ## Inspiration Taken from Similar Projects :thought_balloon:
 
 If you're already familiar with established repositories such as 
@@ -42,15 +32,13 @@ and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource w
 original hand-crafted contents, verification/management scripts, expanded concepts, etc.
 `SecLists` is maintained by my colleague and co-worker at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com "Daniel Miessler").
 
-## Description of the Repository Directory Hierarchy :nut_and_bolt:
+## Repository Directory Hierarchy and Structure :nut_and_bolt:
 
 The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
 All scripts use bash syntax and some data files were generated with a script.
-Folder names are outlined in the `INDEX.md` file in the repository's root 
-directory.  All files in each folder are detailed in the local `README.md` file,
-but these lowercased index files describe the contents of each data file, as
-opposed to directory contents. Each folder has a **subject** name and storage
-**type** which are separated by a dash.
+Folder names are detailed in the "Folder Names and Description of Contents" 
+section below.  All files in each folder are detailed in the `README.md` file
+for that folder. 
 
 ### Naming Scheme, Syntax and Meaning Associated With File Extensions :speech_balloon:
 
@@ -59,16 +47,12 @@ Other file extensions in use are: `*.asc`, `*.csv`, `*.xml`, `*.html`, and `*.ym
 These are for [Comma-Separated Values](https://wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
 [Extended Markup Language](https://wikipedia.org/wiki/XML) (`application/xml`),
 [Hyper Text Markup Language](https://wikipedia.org/wiki/HTML) (`application/html`), etc.
-Any file that is larger than 1MB uncompressed should be compressed with [xz](https://wikipedia.org/wiki/Xz)
-according to the commands in the `scripts/compress-large-files` bash script. In
-spite of the fact that this is a word lists project, I'm striving to restrict the
-size of each file to a healthy maximum for manageability purposes.
-The index file in the root folder (`INDEX.md`), as well as the indices in each 
-data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec").  
+Any file that is larger than 1MB uncompressed will be compressed with [xz](https://wikipedia.org/wiki/Xz)
+according to the commands in the `scripts/compress-large-files` bash script. 
 
-## Contents Description for Each Folder :clipboard:
+## Folder Names and Description of Contents :clipboard:
 
-| _Folder Name_   | _Description of Contents_
+| _Folder Name_&nbsp;&nbsp;&nsbp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | arpa-headers    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | ascii-art       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
@@ -103,7 +87,7 @@ data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https
 | http-params     | :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
 | http-paths      | :feet: Path names that browsers include in queries to servers  
 | http-queries    | :grey_question: The [query string](https://wikipedia.org/wiki/Query_string) syntax that appears after the question mark character in URI's  
-| http-security   | :cop: [HTTP security](https://www.w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
+| http-security   | :closed_lock_with_key: [HTTP security](https://www.w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
 | http-servers    | :office: Information related to the usage of [web server software](https://w3.org/Servers.html)  
 | http-status     | :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
 | inet-addrs      | :electric_plug: Numeric Internet addresses a.k.a. IP addresses--mostly version 4  
@@ -155,7 +139,7 @@ data directory (`README.md`) are formatted with [GitHub Flavored Markdown](https
 | webapp-data     | :briefcase: Data associated with applications hosted on web servers  
 | webapp-dirs     | Directories related to applications running on a web server  
 | webapp-files    | :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
-| webapp-paths    | :bookmark_tabs: Path names related to applications running on a web server  
+| webapp-paths    | :surfer: Path names related to applications running on a web server  
 | webapp-words    | :thought_balloon: Words related to applications running on a web server  
 | web-sites       | :earth_americas: Addresses to and/or information on well known/organized WWW sites  
 | wifi-networks   | :satellite: [IEEE 802.11](http://www.ieee802.org/11/ "The Working Group for WLAN Standards") [Wi-Fi](https://wikipedia.org/wiki/Wi-Fi) network information  

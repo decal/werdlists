@@ -10,6 +10,7 @@ centos7-yum-pkgs: list of packages from `yum` in [CentOS](https://www.centos.org
 dot-path-names: various path names, i.e. files and dirs prepended with a period  
 git-command-descs: git command names with manual page sections and descriptions  
 glibc-tunable-names: options that match GNU libc runtime behavior with workload  
+icmpv6-iptables-rules: [ICMPv6](https://wikipedia.org/wiki/Internet_Control_Message_Protocol_for_IPv6 "Internet Control Message Protocol for IPv6") iptables rule set  
 kali-dpkg-list: A list of package names gathered with apt-cache on [Kali Linux](https://www.kali.org)  
 kernel-git-shortlog: Kernel authors taken from source tree's `git shortlog`  
 libc-getconf-vars: system configuration variable values from [`getconf(1)`](https://linux.die.net/man/1/getconf "get configuration values")  

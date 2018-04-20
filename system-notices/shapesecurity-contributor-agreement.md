@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/shapesecurity/CLA/master/README.md
