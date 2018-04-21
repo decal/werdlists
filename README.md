@@ -58,7 +58,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 
 ## <a name="contents"></a>Folder Names and Description of Contents :clipboard:
 
-|&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;| _Description of Contents_
+|&nbsp;&nbsp&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | [arpa-headers](arpa-headers)    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | [ascii-art](ascii-art)       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
