@@ -1,2 +1,4 @@
 plugins:
   - jemoji
+
+theme: jekyll-theme-dinky
