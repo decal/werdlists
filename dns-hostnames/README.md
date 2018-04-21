@@ -1,3 +1,5 @@
+# DNS Hostnames
+
 |&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
 |:---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | adaway-block-list          | hosts block list distributed by `adaway.org`  
