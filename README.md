@@ -58,7 +58,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 
 ## <a name="contents"></a>Folder Names and Description of Contents :clipboard:
 
-|&nbsp;&nbsp&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | [arpa-headers](arpa-headers)    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | [ascii-art](ascii-art)       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
@@ -70,7 +70,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [cipher-data](cipher-data)     | :blowfish: Data denoting or used by [cryptographic algorithm](https://wikipedia.org/wiki/Category:Cryptographic_algorithms) implementations  
 | [cmd-usage](cmd-usage)       | :hammer: Help text shown in a terminal when attempting to execute [CLI](https://wikipedia.org/wiki/Command-line_interface "Command-line interface") programs  
 | [cms-errors](cms-errors)      | :exclamation: Error codes and/or messages rendered by a [CMS](https://wikipedia.org/wiki/Content_management_system "Content Management System")  
-| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers declared in defining standards such as [reserved words](https://wikipedia.org/wiki/Reserved_word)  
+| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers ([reserved words](https://wikipedia.org/wiki/Reserved_word)) from defining standards 
 | [cpu-arch](cpu-arch)        | :factory: Low-level computer architecture and hardware subjects  
 | [crypt-output](crypt-output)    | :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://wikipedia.org/wiki/Cryptographic_hash_function)  
 | [database-strs](database-strs)   | :floppy_disk: Strings often encountered when working with [database](https://wikipedia.org/wiki/Database) software  
@@ -81,13 +81,13 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [dns-toplevel](dns-toplevel)    | :top: TLD's or [Top Level Domains](https://wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
 | [environ-vars](environ-vars)   | :tent: [Environment variable](https://wikipedia.org/wiki/Environment_variable) names, settings, etc.  
 | [exploit-info](exploit-info)    | :8ball: Technical information on exploitation of security vulnerabilities  
-| [file-extens](file-extens)     | :anchor: Anything concerning [Filename extension](https://wikipedia.org/wiki/Filename_extension), i.e. the part after the period in a file name  
+| [file-extens](file-extens)     | :anchor: Stuff on [Filename extensions](https://wikipedia.org/wiki/Filename_extension), i.e. the part after the dot
 | [file-specs](file-specs)      | :file_folder: [File format](https://wikipedia.org/wiki/File_format) specifications as distributed by vendor(s)/author(s)  
 | [ftp-data](ftp-data)        | :outbox_tray: Various [FTP](https://wikipedia.org/wiki/File_Transfer_Protocol "File Transfer Protocol") datum from RFC's and elsewhere  
 | [glibc-data](glibc-data)      | :gear: Data taken from the source code of the [GNU C Library](https://gnu.org/software/libc/ "glibc")  
 | [html-words](html-words)      | :keyboard: Words not uncommon to come across when parsing HTML dialects  
 | [http-agents](http-agents)     | :flags: Software version banners for [HTTP User Agents](https://wikipedia.org/wiki/User_agent#Use_in_HTTP "User agent - Use in HTTP") also known as browsers  
-| [http-headers](http-headers)    | :cookie: Header fields sent in requests and responses by browser/server software 
+| [http-headers](http-headers)    | :cookie: Header fields sent in requests/responses by browser/server software 
 | [http-methods](http-methods)    | :arrow_forward: Names of HTTP [Request methods](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) that are sent at the start of a browser's first request line  
 | [http-params](http-params)     | :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
 | [http-security](http-security)   | :closed_lock_with_key: [HTTP security](https://w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
@@ -107,7 +107,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [net-ifaces](net-ifaces)      | :desktop_computer: Detailed information which can be extracted from network interfaces  
 | [ntfs-paths](ntfs-paths)      | :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
 | [owasp-data](owasp-data)      | :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
-| [passes-dicts](passes-dicts)    | :key: Dictionary files used in [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
+| [passes-dicts](passes-dicts)    | :key: Dictionary files for [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
 | [passes-sites](passes-sites)    | :unlock: Password lists that were publicized after major site compromises  
 | [perl-data](perl-data)       | :camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)  
 | [php-data](php-data)        | :page_facing_up: Files containing information about the [PHP](http://www.php.net) programming language  
@@ -120,11 +120,11 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [smtp-messages](smtp-messages)   | :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers  
 | [soap-messages](soap-messages)   | :incoming_envelope: [SOAP](https://wikipedia.org/wiki/SOAP "Simple Object Access Protocol") (Simple Object Access Protocol) messages  
 | [social-data](social-data)     | :eyes: Sociological or [social media](https://wikipedia.org/wiki/Social_media) related data sets  
-| [software-strs](software-strs)   | :minidisc: Strings that describe [software engineering](https://wikipedia.org/wiki/Software_engineering), [programming languages](https://wikipedia.org/wiki/Programming_language), etc.  
+| [software-strs](software-strs)   | :minidisc: Strings describing [software engineering](https://wikipedia.org/wiki/Software_engineering), [programming languages](https://wikipedia.org/wiki/Programming_language), etc.  
 | [string-enums](string-enums)    | :ferris_wheel: Enumerations of values that aren't too terribly unusual  
 | [system-admin](system-admin)    | :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
 | [system-notices](system-notices)  | :warning: Disclaimer/warning messages shown by networked computer systems  
-| [telco-data](telco-data)      | :telephone_receiver: Data on voice-based telecommunications technologies: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
+| [telco-data](telco-data)      | :telephone_receiver: Voice telecommunications technologies datum: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
 | [text-files](text-files)      | :pushpin: a special kind of "text file" as in those archived at [textfiles.com](https://textfiles.com), i.e. old school zine articles  
 | [text-words](text-words)      | :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 | [top-secret](top-secret)      | :alien: Files and/or data related to documents that were/are classified  
@@ -135,7 +135,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [uri-schemes](uri-schemes)     | :paperclip: Lists containing references for [URI schemes](https://iana.org/assignments/uri-schemes/uri-schemes.xhtml) (part before colon)  
 | [uri-data](uri-data)        | :link: [Universal Resource Identifier](https://w3.org/Addressing/#background "Learning About URI's") related data  
 | [vuln-data](vuln-data)       | :bar_chart: Information about security vulnerabilities found in server software  
-| [webapp-attacks](webapp-attacks)  | :syringe: [Security Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating various styles of web application attacks  
+| [webapp-attacks](webapp-attacks)  | :syringe: [Proof-of-concept](https://wikipedia.org/wiki/Proof_of_concept#Security) samples demonstrating attacks against web applications  
 | [webapp-data](webapp-data)     | :briefcase: Data associated with applications hosted on web servers  
 | [webapp-dirs](webapp-dirs)     | :bookmark_tabs: Directories related to applications running on a web server  
 | [webapp-files](webapp-files)    | :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
