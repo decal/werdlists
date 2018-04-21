@@ -125,7 +125,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [system-admin](system-admin)    | :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
 | [system-notices](system-notices)  | :warning: Disclaimer/warning messages shown by networked computer systems  
 | [telco-data](telco-data)      | :telephone_receiver: Voice telecommunications technologies datum: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
-| [text-files](text-files)      | :pushpin: a special kind of "text file" as in those archived at [textfiles.com](https://textfiles.com), i.e. old school zine articles  
+| [text-files](text-files)      | :pushpin: zine articles and such like those archived at [textfiles.com](https://textfiles.com)
 | [text-words](text-words)      | :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 | [top-secret](top-secret)      | :alien: Files and/or data related to documents that were/are classified  
 | [unicode-data](unicode-data)    | :symbols: [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  
