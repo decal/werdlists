@@ -2,7 +2,7 @@
 #
 # files-vs-readme v1.0
 #
-# Compare folders listed in each folder to those shown in its `README.md`
+# Compare files listed in each folder to those shown in its `README.md`
 # This shows maintainers which files aren't listed in the folder index
 #
 # Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
@@ -15,6 +15,7 @@ WRDLS_PAGER='/bin/more'
 [ ! -x "$WRDLS_PAGER" ] && WRDLS_PAGER="`which less`"
 [ ! -x "$WRDLS_PAGER" ] && WRDLS_PAGER='/bin/cat'
 
+export LESS='-R'
 export WRDLS_PAGER
 
 [ -f colors ] && source -- colors
@@ -46,10 +47,10 @@ for d in $LS
 
   cd $avar
   
-  for f in $( ls -1 * | egrep -v '^readme\.md$' )
+  for f in $( ls -1 * | egrep -v '^README\.md$' )
     do declare anam=$( echo $f | cut -d '.' -f1 )
     echo -ne "${bluef}${avar}${boldon}:${boldoff}${reset} "
-    echo -ne "$(grep --color=ALWAYS -ira -- "${anam}" README.md)"
+    echo -ne "$(grep --color=ALWAYS -ia -- "${anam}" README.md)"
     echo
   done
 

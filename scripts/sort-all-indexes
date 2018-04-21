@@ -1,16 +1,17 @@
 #!/usr/bin/env bash
 
-sort -u INDEX.md > I.md
-mv -vf I.md INDEX.md
+
+# This is going to be tricky with markdown tables in the local README markdown now
+exit 0
+
+sort -u README.md > R.md && mv -vf R.md README.md
 
 for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
   do declare adir=$(echo $d | sed -r 's!^[.][/]!!')
 
   cd -- "$adir"
 
-  sort -u INDEX.md > I.md
-
-  mv -vf I.md INDEX.md
+  sort -u README.md > R.md && mv -vf R.md README.md
 
   cd ..
 done

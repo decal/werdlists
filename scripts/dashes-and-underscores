@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 # 
+# Display the given pathname listing with all combinations of dashes and underscores
+# i.e. convert each individiual dash to an underscore and vice versa incrementally
+# This is to ensure that no archaic paths are missed during directory busting 
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Sat Apr 21 09:44:44 PDT 2018
+# Tested On:    Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
 #
 
 if [ ! "$1" ]
@@ -34,30 +41,30 @@ for w in `sort -uf "$1"`
   [ $(contains "${l[@]}" "$s") != "y" ] && echo $w.${2} && l+=($w.${2})
 
   if [ "`echo $w | grep '-'`" ]
-    then declare s="$(echo $w | sed -r 's!-!_!').${2}"
+    then declare s="$(echo $w | sed 's!-!_!').${2}"
 
     [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
 
     while [ "`echo $s | grep '-'`" ]
-      do s="$(echo $s | sed -r 's!-!_!')"
+      do s="$(echo $s | sed 's!-!_!')"
 
       [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
     done
   fi
   
   if [ "`echo $w | grep '_'`" ]
-    then declare s="$(echo $w | sed -r 's!_!-!').${2}"
+    then declare s="$(echo $w | sed 's!_!-!').${2}"
 
     [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
 
     while [ "`echo $s | grep '_'`" ]
-      do s="$(echo $s | sed -r 's!_!-!')"
+      do s="$(echo $s | sed 's!_!-!')"
 
       [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
     done
 
     while [ "`echo $s | grep '-'`" ]
-      do s="$(echo $s | sed -r 's!-!_!')"
+      do s="$(echo $s | sed 's!-!_!')"
 
       [ $(contains "${l[@]}" "$s") != "y" ] && echo $s && l+=($s)
     done

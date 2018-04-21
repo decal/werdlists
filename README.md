@@ -88,7 +88,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [html-words](html-words)      | :keyboard: Words not uncommon to come across when parsing HTML dialects  
 | [http-agents](http-agents)     | :flags: Software version banners for [HTTP User Agents](https://wikipedia.org/wiki/User_agent#Use_in_HTTP "User agent - Use in HTTP") also known as browsers  
 | [http-headers](http-headers)    | :cookie: Header fields sent in requests/responses by browser/server software 
-| [http-methods](http-methods)    | :arrow_forward: Names of HTTP [Request methods](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) that are sent at the start of a browser's first request line  
+| [http-methods](http-methods)    | :arrow_forward: Names [Request methods](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) browsers send in the first line of HTTP
 | [http-params](http-params)     | :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
 | [http-security](http-security)   | :closed_lock_with_key: [HTTP security](https://w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
 | [http-servers](http-servers)    | :office: Information related to the usage of [web server software](https://w3.org/Servers.html)  

@@ -1,10 +1,19 @@
 #!/usr/bin/env bash
 #
+# unique-file-extensions v1.1
+#
 # Show unique file name extensions found in the repository's directory hierarchy
+# (this requires filtering out the staging and scripts directories and duplicates)
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Sat Apr 21 10:36:19 PDT 2018
+# Tested On:    Kali GNU/Linux Rolling
+#               Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
 #
 
 if [ ! -d scripts ]
-  then echo "usage: $0"
+  then echo
+  echo "usage: $0"
   echo 
   echo 'Must be run from repository root!'
   echo 'ex. scripts/uniq-file-exts'

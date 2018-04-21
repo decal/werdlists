@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Check each folder's index.md file out of the code repository in case they were
+# Check each folder's `README.md` file out of the code repository in case they were
 # mistakenly removed and/or corrupted during maintenance procedures..
 #
 

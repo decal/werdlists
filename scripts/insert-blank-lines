@@ -1,7 +1,14 @@
 #!/usr/bin/env bash
 #
+# insert-blank-lines v1.1
+#
 # This script is just like a plain UNIX cat execution, except it echoes a blank
 # line after each actual line of the file that it displays.
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Sat Apr 21 10:19:08 PDT 2018
+# Tested On:    Kali GNU/Linux Rolling
+#               Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
 #
 
 if [ ! "$1" ]

@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 #
+# extract-manpages-environ v1.1
+#
 # Extract environment variable names from Linux manual pages
+# (ensure that /usr/libexec/makewhatis has been executed)
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Sat Apr 21 10:08:23 PDT 2018
+# Tested On:    Ubuntu 16.04.3 LTS
+#               Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
 #
 
 PAGER=cat

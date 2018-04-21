@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+#
+# expand-intranet-hosts v1.0
+#
+# expand the hostnames from `dns-hostnames/common-intranet-hosts.txt` by
+# appending various combinations of numbers and letters to them..
+#
+# Written by:    Derek Callaway [decal (AT) sdf (D0T) org]
+# Last Modified: Mon Oct 23 18:53:38 PDT 2017
+# Tested On:     Ubuntu Bash on Windows Subsystem for Linux
+#                Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
+# Use Case:      scripts/expand-host-names dns-hostnames/common-intranet-hosts.txt > dns-hostnames/expanded-intranet-hosts.txt
+#
+
+if [ ! "$1" ]
+  then echo 
+  echo "usage: $0 FILE [...]"
+  echo '  FILE  one or more files containing strings to append to number/letter combinations to'
+  echo
+
+  exit 1
+fi
+
+for h in $*
+  do echo $h
+  echo -e "${h}0\n${h}1\n${h}2\n${h}00\n${h}01\n${h}02\n${h}-0\n${h}-1\n${h}-00\n${h}-01\n${h}-02\n${h}a\n${h}b\n${h}c\n${h}-a\n${h}-b\n${h}-c"
+done 
+
+exit 0

@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+#
+# missing-index-files v1.1
+#
+# Show files that aren't included in the folder's local `README.md`
+#
+# Written By:   Derek Callaway
+# Last Updated: Sat Apr 21 10:24:37 PDT 2018
+# Tested On:    Kali GNU/Linux Rolling
+#               Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
+# Use Cases:    scripts/missing-index-lines
+#
+
+for d in $(find . -maxdepth 1 -type d -iname '*-*' -print)
+  do declare adir=$(echo $d | sed -E 's!^[.][/]!!')
+
+  cd -- $adir
+
+  declare -i acnt=$(wc -l README.md | awk '{print($1);}') 
+  declare -i bcnt=$(ls -1 | egrep -v '^README[.]md$' | wc -l) 
+
+  if [[ $acnt != $bcnt ]] 
+    then echo -n "$adir "
+
+    for f in $(find . -maxdepth 1 -type f -print)
+      do afil=$(basename $f | awk -F. '{print($1);}')
+
+      [ $afil == "index" ] && continue
+
+      [ ! "$(grep $afil README.md)" ] && echo -n "$afil "
+    done
+
+    echo
+  fi
+
+  cd ..
+done
+
+exit 0

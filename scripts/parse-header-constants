@@ -1,15 +1,22 @@
 #!/usr/bin/env bash
 #
-# parse-header-constants v1.0
+# parse-header-constants v1.1
 #
-# Written by:   Derek Callaway [decal (AT) sdf {D0T} org]
-# Tested on:    Ubuntu 16.04.3 LTS
-# Last updated: Sun Feb 25 04:10:30 STD 2018
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Sat Apr 21 10:03:33 PDT 2018
+# Tested On:    Ubuntu 16.04.3 LTS
+#               Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
+# Use Case:     parse-header-constants /usr/include
 #
 
-if [ ! "$1 " ]
-  then echo "usage: $0 INCDIR"
+if [ ! "$1" ]
+  then echo 
+  echo "usage: $0 INCDIR"
+  echo
   echo '  INCDIR  include directory where header files are to be found'
+  echo
+  echo ex. $0 /usr/include
+  echo
 
   exit 1
 fi

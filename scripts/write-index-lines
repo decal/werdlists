@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Write the number of lines for each file to index markdown..
+# Write the number of lines for each file to local README markdown
 #
 # Written by:    Derek Callaway [decal (AT) sdf {D0T} org]
 # Last modified: Sat Feb 17 09:10:36 STD 2018
@@ -10,10 +10,10 @@
 for d in $(ls -1d *-*)
   do cd -- "$d"
 
-  cp -avf INDEX.md .INDEX.md.bak
-  rm -fv i.md
+  cp -avf README.md .README.md.bak
+  rm -fv r.md
 
-  for f in $(awk -F\| '{print($1);}' INDEX.md)
+  for f in $(awk -F\| '{print($1);}' README.md)
     do #
 
     if [ -f ${f}.*.xz ]
@@ -21,21 +21,21 @@ for d in $(ls -1d *-*)
 
       xzlinc=$(xzcat -- ${f}.*.xz | wc -l)
 
-      declare xzdesc=$(egrep -- "^${f}" INDEX.md | cut -d ':' -f2-)
+      declare xzdesc=$(egrep -- "^${f}" README.md | cut -d ':' -f2-)
 
-      builtin echo "${f}|${xzlinc}:${xzdesc}" >> i.md
+      builtin echo "${f}|${xzlinc}:${xzdesc}" >> r.md
     else
       declare -i linesc=0
       
       linesc=$(wc -l -- ${f}.* | cut -d ' ' -f1)
 
-      declare xzdesc=$(egrep -- "^${f}" INDEX.md | cut -d ':' -f2-)
+      declare xzdesc=$(egrep -- "^${f}" README.md | cut -d ':' -f2-)
 
-      builtin echo "${f}|${linesc}:${xzdesc}" >> i.md
+      builtin echo "${f}|${linesc}:${xzdesc}" >> r.md
     fi
   done
   
-  mv -vf i.md INDEX.md
+  mv -vf r.md README.md
 
   cd ..
 done
