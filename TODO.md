@@ -22,7 +22,6 @@ Things To Do
 * use find to parse `--help` output and create `argv-getopt-long.txt` in `linux-data`
 * finish `scripts/extract-manpages-environ`
 * make a script in `scripts/shared` to check if the CWD is scripts or repo root
-* add list of scripts to `scripts/README.md`
 * Make markdown tables in `telco-data/mobile-codes-notes.txt` like [List of Mobile Country or Geographical Area Codes](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212A-2017-PDF-E.pdf)
 * Make markdown tables in `telco-data/country-codes-notes.txt` like [List of ITU-T Recommendation E.164 Assigned Country Codes](https://www.itu.int/itudoc/itu-t/ob-lists/icc/e164_763.pdf)
 * write script to clean up which includes a `sort -u` of all `README.md` files

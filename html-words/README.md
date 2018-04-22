@@ -12,4 +12,3 @@ iso8859-characters-list: Character entity references for [ISO 8859-1](https://wi
 javascript-reserved-words: reserved words in [JavaScript](https://wikipedia.org/wiki/JavaScript)  
 left-angle-bracket: 70 '<' encodings from [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  
 rgb-code-names: an 8-bit triplet of [HTML color codes](https://htmlcolorcodes.com) and the associated name  
-unicode-escape-sequences: Unicode backslash escape sequences from `u0000` through `uffff`  

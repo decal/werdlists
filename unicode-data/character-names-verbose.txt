@@ -1,0 +1,554 @@
+
+ 
+1 (superscript)
+1/2 (fraction)
+1/4 (fraction)
+2 (superscript)
+3 (superscript)
+3/4 (fraction)
+a acute
+a circumflex
+a grave
+a ring
+a tilde
+a umlaut
+acute a
+acute accent
+acute e
+acute i
+acute o
+acute u
+acute y
+ae diphthong
+alef symbol
+almost equal to
+alpha, lower case
+Alpha, upper case
+alternate negation sign
+ampersand
+and (logical)
+angle
+angle bracket (left)
+angle bracket (right)
+angle quotation mark (left)
+angle quotation mark (right)
+angle quotation mark, single (left)
+angle quotation mark, single (right)
+APL downstile
+APL overbar
+APL quote
+APL upstile
+apostrophe
+approximately equal to
+arrow down
+arrow down with corner leftwards
+arrow down, double
+arrow left
+arrow left and right
+arrow left and right, double
+arrow left, double
+arrow right
+arrow right, double
+arrow up
+arrow up, double
+asterisk operator
+asymptotic to
+backward difference
+bar, broken vertical
+belongs to
+beta, lower case
+Beta, upper case
+black club suit
+black diamond suit
+black heart suit
+black small circle
+black spade suit
+blackletter I
+blackletter R
+blind P
+bra
+broken vertical bar
+bullet
+c cedilla
+cap
+caron s
+carriage return
+cedilla
+cedilla c
+ceiling, left
+ceiling, right
+cent sign
+chi, lower case
+Chi, upper case
+circle over a
+circle, small black
+circled plus
+circled times
+circumflex
+circumflex a
+circumflex e
+circumflex i
+circumflex o
+circumflex u
+clubs
+comma, Georgian
+congruent
+conjoctive, kana
+conjunction, logical
+contained in or equals
+contains as member
+contains or equals
+copyright sign
+cubed
+cup
+currency (general) sign
+dagger
+dagger, double
+dash, em
+dash, en
+dash, long
+degree sign
+del
+delta, lower case
+Delta, upper case
+denial of set membership
+diaeresis
+diaeresis a
+diaeresis e
+diaeresis i
+diaeresis o
+diaeresis u
+diaeresis y
+diameter
+diamonds
+difference, backward
+differential, partial
+diphthong ae
+diphthong oe
+diphthong sz
+direct sum
+discretionary hyphen
+disjunction, logical
+divide sign
+dot operator
+dot, middle
+dot, raised conjunction
+double arrow down
+double arrow left
+double arrow left and right
+double arrow right
+double arrow up
+double dagger
+double low-9 quotation mark
+double prime
+double quotation mark, left
+double quotation mark, right
+down arrow
+down arrow with corner leftwards
+down arrow, double
+e acute
+e circumflex
+e grave
+e umlaut
+edh, lower case
+Edh, upper case
+element of
+ellipsis (horizontal)
+em dash
+em space
+empty set
+en dash
+en space
+epsilon, lower case
+Epsilon, upper case
+equal to or a subset of
+equivalence
+equivalence, material
+ess-zed
+eszet (German)
+eta, lower case
+Eta, upper case
+eth, lower case
+Eth, upper case
+euro
+exclamation mark, inverted
+existential quantification
+existential quantifier
+f hook
+feet
+feminine ordinal indicator
+figure slash
+first transfinite cardinal
+floor, left
+floor, right
+Florin
+for all
+for any
+for each
+fraction one-fourth
+fraction one-half
+fraction one-quarter
+fraction slash
+fraction three-quarters
+fraktur I
+fraktur R
+function
+gamma, lower case
+Gamma, upper case
+general currency sign
+Georgian comma
+gradient of
+grave a
+grave e
+grave i
+grave o
+grave u
+greater than
+greater than or equal to
+Greek middle dot
+Guilder
+guillemet (droit)
+guillemet (gauche)
+guillemet français (fermant)
+guillemet français (ouvrant)
+guillemet français simple (fermant)
+guillemet français simple (ouvrant)
+hacek s
+half (fraction)
+hearts
+hook f
+horizontal ellipsis
+hyphen, discretionary
+hyphen, soft
+i acute
+I blackletter
+i circumflex
+I fraktur
+i grave
+i umlaut
+Icelandic eth, lower case
+Icelandic Eth, upper case
+Icelandic thorn, lower case
+Icelandic Thorn, upper case
+identical to
+if and only if
+if … then …
+imaginary part
+implication, material
+implied by
+implies
+in
+inches
+infinity
+integral
+integration
+intersected with
+intersection
+inverted comma, double (left)
+inverted comma, double (right)
+inverted comma, single (left)
+inverted comma, single (right)
+inverted exclamation mark
+inverted question mark
+iota, lower case
+Iota, upper case
+Irish Punt
+is a member of
+is a subset of
+is a subset of or equal to
+is an element of
+is greater than
+is greater than or equal to
+is in
+is less than
+is less than or equal to
+is not a member of
+is not an element of
+is not in
+joiner (zero width)
+kana conjoctive
+kappa, lower case
+Kappa, upper case
+ket
+lambda, lower case
+Lambda, upper case
+leader, three dot
+left and right arrow
+left and right arrow, double
+left angle bracket
+left angle quotation mark
+left arrow
+left arrow, double
+left ceiling
+left double quotation mark
+left floor
+left guillemot
+left single angle quotation mark
+left single quotation mark
+left-to-right mark
+less than
+less than or equal to
+ligature ae
+ligature oe
+ligature sz
+line over
+logical and
+logical conjunction
+logical disjunction
+logical negation
+logical not
+logical or
+long dash
+low asterisk
+low-9 quotation mark, double
+low-9 quotation mark, single
+lozenge
+macron
+masculine ordinal indicator
+material equivalence
+material implication
+member
+micro sign
+middle dot
+minus sign
+minutes
+modifier letter circumflex accent
+mu, lower case
+Mu, upper case
+multiply sign
+multiply sign, circled
+n tilde
+n-ary product
+n-ary summation
+nabla
+negation of equality
+negation, logical
+neutral double quotation mark
+non-breaking space
+non-joiner (zero width)
+not a member
+not a subset of
+not an element of
+not equal to
+not in
+not sign
+nu, lower case
+Nu, upper case
+null set
+numerals
+o acute
+o circumflex
+o grave
+o slash
+o tilde
+o umlaut
+oe ligature
+omega, lower case
+Omega, upper case
+omicron, lower case
+Omicron, upper case
+one (superscript)
+one-fourth (fraction)
+one-half (fraction)
+one-quarter (fraction)
+or (logical)
+ordinal indicator, feminine
+ordinal indicator, masculine
+orthogonal to
+overline
+P, script capital
+paragraph sign
+part, imaginary
+part, real
+partial
+partial derivative of
+partial differential
+per mille sign
+perpendicular
+phi, lower case
+Phi, upper case
+pi (symbol)
+pi, lower case
+Pi, upper case
+pilcrow
+plus or minus sign
+plus, circled
+pound sterling sign
+power set
+prime
+prime, double
+product (vector)
+product sign
+proper subset
+proper superset
+proportional to
+psi, lower case
+Psi, upper case
+Punt sign
+quantification, existential
+quantification, universal
+quantifier, existential
+quantifier, universal
+quarter (fraction)
+question mark, inverted
+question mark, turned
+quotation mark
+quotation mark, angle (left single)
+quotation mark, angle (left)
+quotation mark, angle (right single)
+quotation mark, angle (right)
+quotation mark, double (left)
+quotation mark, double (right)
+quotation mark, low-9 (double)
+quotation mark, low-9 (single)
+quotation mark, single (left)
+quotation mark, single (right)
+R blackletter
+R fraktur
+radical sign
+raised conjunction dot
+real part
+reflex subset
+reflex superset
+registered sign
+rho, lower case
+Rho, upper case
+right angle bracket
+right angle quotation mark
+right arrow
+right arrow, double
+right ceiling
+right double quotation mark
+right floor
+right guillemot
+right single angle quotation mark
+right single quotation mark
+right-to-left mark
+ring a
+s caron
+s sharp (German)
+script capital P
+seconds
+section sign
+set intersection
+set membership
+set membership, denial of
+set theoretic intersection
+set theoretic union
+set union
+set, empty
+set, null
+set, power
+shamrock
+sharp s (German)
+sigma (terminal), lower case
+sigma, lower case
+Sigma, upper case
+similar to
+single angle quotation mark (left)
+single angle quotation mark (right)
+single low-9 quotation mark
+single quotation mark (left)
+single quotation mark (right)
+slash (fraction)
+slash o
+small black circle
+small tilde
+soft hyphen
+space, em
+space, en
+space, non-breaking
+space, thin
+spacing acute
+spacing cedilla
+spacing diaeresis
+spacing macron
+spacing overscore
+spades
+square root
+squared
+subset of
+subset of or equal to
+subset, proper
+subset, reflex
+subtraction
+sum (direct)
+sum of
+summation
+superscript one
+superscript three
+superscript two
+superset of
+superset of or equal to
+superset, reflex
+symbol form of alef
+symbol form of pi
+symbol form of theta
+symbol form of upsilon with hook
+sz ligature
+tau, lower case
+Tau, upper case
+terminal sigma, lower case
+the union of … and …
+there exists
+therefore
+theta (symbol)
+theta, lower case
+Theta, upper case
+thin space
+thorn, lower case
+Thorn, upper case
+three (superscript)
+three dot leader
+three-quarters (fraction)
+tilde
+tilde a
+tilde n
+tilde o
+tilde operator
+times
+times, circled
+trade mark
+turned question mark
+two (superscript)
+u acute
+u circumflex
+u grave
+u umlaut
+umlaut
+umlaut a
+umlaut e
+umlaut i
+umlaut o
+umlaut u
+umlaut y
+union
+universal quantification
+universal quantifier
+up arrow
+up arrow, double
+up tack
+upsilon with hook symbol
+upsilon, lower case
+Upsilon, upper case
+valentine
+varies with
+vector product
+vee
+vertical bar (broken)
+vulgar fraction one-fourth
+vulgar fraction one-half
+vulgar fraction one-quarter
+vulgar fraction three-quarters
+wedge
+Weierstrass
+xi, lower case
+Xi, upper case
+y acute
+y umlaut
+yen sign
+yuan sign
+zero width joiner
+zero width non-joiner
+zeta, lower case
+Zeta, upper case
