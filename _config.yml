@@ -2,3 +2,7 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-hacker
+
+webrick: 
+  headers:
+    My-Header: My-Value
