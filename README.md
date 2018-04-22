@@ -92,7 +92,7 @@ according to the commands in the `scripts/compress-large-files` bash script.
 | [http-params](http-params)     | :abcd: Parameters browsers sometimes send when requesting server [URI](https://wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier") paths  
 | [http-security](http-security)   | :closed_lock_with_key: [HTTP security](https://w3.org/Protocols/rfc2616/rfc2616-sec15.html) info such as Content Security Policy
 | [http-servers](http-servers)    | :office: Information related to the usage of [web server software](https://w3.org/Servers.html)  
-| [http-status](http-status)     | :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes that denote the status of a web server during reply as specified in [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes")  
+| [http-status](http-status)     | :slot_machine: Numeric [HTTP status](https://httpstatuses.com) codes in server reply as [RFC7231](https://tools.ietf.org/html/rfc7231#section-6 "Response Status Codes") specifies
 | [inet-addrs](inet-addrs)      | :electric_plug: Numeric Internet addresses a.k.a. IP addresses--mostly version 4  
 | [inet-routes](inet-routes)     | :cloud: Data useful in the maintenance and use of an Internet [routing table](https://wikipedia.org/wiki/Routing_table)  
 | [inet-services](inet-services)   | :fountain: Lists of Internet protocols/daemons--similar to `/etc/services`  
