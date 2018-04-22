@@ -33,7 +33,7 @@ author: Dereck Curry
 
 # The following is a list of files to exclude from inclusion in the
 # generated gh-pages website.
-exclude : [ README.md , version.txt ]
+exclude : [ version.txt ]
 
 
 # Replace the number with the default number of blot posts you want on each
