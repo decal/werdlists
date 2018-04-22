@@ -1,8 +1,577 @@
-plugins:
-  - jemoji
+# The following configuration items need set up specifically for your site
+#
+# name - This is the site name. The site name is used in the title of
+# each page and blog post.
+#
+# brand - This is what will appear in the upper left of the navbar.
+#
+# description - If there isn't a title for a page or post, the site's
+# description will be used instead.
+#
+# url - This is the fully qualified url of the website. Include the
+# https://.
+#
+# email - The email address of the site administrator.
+#
+# author - The default author for all posts. This can be overridden in the
+# front matter of a post.
+#
+# Here's an example configuration:
+# name : The Dereck
+# brand : The Dereck
+# description : Dereck's Awesome Blog
+# url : https://thedereck.github.io
+# email : thedereck@thedereck.com
+# author : Dereck Curry
+name : gh-pages-blog
+brand : gh-pages-blog
+description : The Official gh-pages-blog GitHub Page
+url : https://thedereck.github.io/gh-pages-blog
+email : thedereck@thedereck.com
+author: Dereck Curry
 
-theme: jekyll-theme-hacker
 
-webrick: 
-  headers:
-    My-Header: My-Value
+# The following is a list of files to exclude from inclusion in the
+# generated gh-pages website.
+exclude : [ README.md , version.txt ]
+
+
+# Replace the number with the default number of blot posts you want on each
+# page. A value of 0 will indicate that you don't want to paginate, and all
+# blog posts will be on the index page.
+paginate : 10
+
+
+# To put a alert or notice on every page served, change the appropriate value
+# below from false to the message you want displayed (alert : Alert message
+# or notice : Notice message). Alerts tend to show in red or orange, while
+# notices in blue or green. But that is dependent upon the bootstrap theme
+# that you use.
+#
+# Here's an example configuration:
+# alert : This is a sample alert message.
+# notice : This is a sample notice message.
+alert : false
+notice : false
+
+
+# The favicon image served up to web browsers. Enable the local if you want
+# to serve up a file directly from the gh-pages-blog. The partial URL will be
+# appended to the site configured url above (basically don't include the part
+# that is included in the URL above). If you want to use a favicon that
+# is hosted elsewhere, disable the local and enable the remote and include the
+# full url (https://www.something.domain/directory/file.extention). For either
+# the local or remote, you'll need to include the file type.
+#
+# Here's an example configuration:
+# favicon :
+#   enabled : true
+#   local :
+#     enabled : false
+#     partial_url : false
+#     type : false
+#   remote :
+#     enabled : true
+#     full_url : https://www.gravatar.com/avatar/2f8947394b8acb62e1055f27.png
+#     type : png
+favicon :
+  enabled : true
+  local :
+    enabled : true
+    partial_url : /img/ghpb-favicon.png
+    type : png
+  remote :
+    enabled : false
+    full_url : false
+    type : false
+
+
+# These are the sections of on the right hand column of the page (or at the
+# bottom if the responsive design has moved stuff around to accommodate
+# smaller screen sizes). Any section can be enabled by simply setting the
+# enabled configuration option to true.
+#
+# brief_bio - This section is to contain a small amount of information
+# about either the GitHub account owner or the GitHub project. There are
+# a few sub-sections in brief bio that can be enabled by setting the
+# enabled option for each to true. These sections are the image, bio content,
+# social links, and GitHub projects.
+#
+# brief_bio : image - For the image used in brief bio, the url should be the
+# full link to the location of the image, even if the image is going to be
+# served by the GitHub pages.
+#
+# brief_bio : content - The content of the brief bio should be written in the
+# in the file located in the _includes/content/brief-bio file.
+#
+# brief_bio : social_links - The social links that are displayed in the brief
+# bio are the same ones that are configured in the social_links configuration
+# section below.
+#
+# brief_bio : github_projects - The GitHub projects that are displayed in the
+# brief bio are the same ones that are configured in the github_projects section
+# below.
+#
+# social_links - These are the same social links that will show in the brief
+# bio section, but they will be in their own navlist here. Like the brief bio
+# social links, they are configured in the social_links configuration section
+# below.
+#
+# github_projects - These are the same GitHub projects that will show in the
+# brief bio section, but they will be in their own navlist here. Like the
+# brief bio GitHub projects, they are configured in the github_projects
+# configuration section below.
+#
+# external_links - These are links to websites outside of this blog. The
+# links are configured below in the external_links section. The link can be
+# to any website.
+#
+# archive - This is a list of blog posts arranged by year in descending
+# order.
+#
+# categories - This is a list of blog posts arranged by the category of the
+# post. Post categories are set in the yml front matter of each post. It's
+# not a requirement that a post have a category. But if a category is to be
+# used, only one category may be set per blog post.
+#
+# tags - This is a list of blog posts arranged by the tags contained in
+# each of the posts. Post tags are set in the yml front matter of each post.
+# A blog post may have more than one tag. It's not a requirement that a blog
+# post have any tags at all.
+#
+# Here's an example configuration:
+# sections:
+#   brief_bio :
+#     enabled : true
+#     image :
+#       enabled : true
+#       url : https://www.gravatar.com/avatar/2f89473908df91055f27.png?s=200
+#     content :
+#       enabled : true
+#     social_links :
+#       enabled : true
+#     github_projects :
+#       enabled : true
+#   social_links :
+#     enabled : false
+#   github_projects :
+#     enabled : false
+#   external_links :
+#     enabled : true
+#   archive :
+#     enabled : true
+#   categories :
+#     enabled : true
+#   tags :
+#     enabled : true
+sections:
+  brief_bio :
+    enabled : true
+    image :
+      enabled : false
+      url : false
+    content :
+      enabled : true
+    social_links :
+      enabled : false
+    github_projects :
+      enabled : true
+  social_links :
+    enabled : false
+  github_projects :
+    enabled : false
+  external_links :
+    enabled : true
+  archive :
+    enabled : false
+  categories :
+    enabled : false
+  tags :
+    enabled : false
+
+
+# The navbar settings determine what menus are displayed on the navbar at the
+# top of the page. Any navbar menu can be enabled by setting the enabled
+# configuration setting to true. All of the navbar menu items are also navlist
+# items described above. They work just like the navlist settings, except
+# the navbar items are in dropdown menus.
+#
+# Here is an example configuration:
+# navbar :
+#   archive :
+#     enabled : false
+#   categories :
+#     enabled : false
+#   tags :
+#     enabled : false
+#   github_projects :
+#     enabled : false
+#   social_links :
+#     enabled : false
+#   external_links :
+#     enabled : false
+navbar :
+  archive :
+    enabled : true
+  categories :
+    enabled : true
+  tags :
+    enabled : true
+  github_projects :
+    enabled : false
+  social_links :
+    enabled : false
+  external_links :
+    enabled : false
+
+
+# The social links are links to various social networking sites. Although
+# these were originally added with the intent of for use with personal
+# accounts, they can easily be used for projects as well.
+#
+# follow_name : This is name or works that will come after the word "Follow "
+# in brief bio, social links navbar, and social links navlist.
+#
+# links: link: enabled - Set this value to true to enable the social link. If
+# a link is disabled, then it will not show in any of the lists or menus.
+#
+# links: link: name - The name of the social media site.
+#
+# links: link: font_awesome_icon - The Font Awesome icon to use for the site.
+# Font Awesome has icons for many social media sites. Using the icons instead
+# of graphic images allows for smooth scaling of the site.
+#
+# links: link: url - The url that the viewer should be redirected to when
+# the social media link is clicked.
+#
+# Here is an example configuration:
+# social_links :
+#   follow_name : Dereck
+#   links :
+#     - link :
+#       enabled : false
+#       name : Facebook
+#       font_awesome_icon : icon-facebook
+#       url : false
+#     - link :
+#       enabled : true
+#       name : GitHub
+#       font_awesome_icon : icon-github-alt
+#       url : https://github.com/TheDereck
+#     - link :
+#       enabled : true
+#       name: Google+
+#       font_awesome_icon : icon-google-plus
+#       url : https://plus.google.com/109660251296662910676?rel=author
+#     - link :
+#       enabled : true
+#       name : Linkedin
+#       font_awesome_icon : icon-linkedin
+#       url : http://www.linkedin.com/in/dereckcurry
+#     - link :
+#       enabled : false
+#       font_awesome_icon : icon-pinterest
+#       name : Pinterest
+#       url : false
+#     - link :
+#       enabled : true
+#       name : Twitter
+#       font_awesome_icon : icon-twitter
+#       url : https://www.twitter.com/dereckcurry
+social_links :
+  follow_name : Me
+  links :
+    - link :
+      enabled : true
+      name : Facebook
+      font_awesome_icon : icon-facebook
+      url : https://www.facebook.com/
+    - link :
+      enabled : true
+      name : GitHub
+      font_awesome_icon : icon-github-alt
+      url : https://github.com/
+    - link :
+      enabled : true
+      name: Google+
+      font_awesome_icon : icon-google-plus
+      url : https://plus.google.com/
+    - link :
+      enabled : true
+      name : Linkedin
+      font_awesome_icon : icon-linkedin
+      url : http://www.linkedin.com/
+    - link :
+      enabled : true
+      font_awesome_icon : icon-pinterest
+      name : Pinterest
+      url : http://www.pinterest.com
+    - link :
+      enabled : true
+      name : Twitter
+      font_awesome_icon : icon-twitter
+      url : https://www.twitter.com/
+
+
+# These are a list of GitHub projects that the blog owner would like to
+# showcase. Although the intent is the projects showcased would be the
+# those of the blog author, but there is nothing in the code that would
+# require that to be the case.
+#
+# header - This is what will appear in the navlist header and the navbar
+# dropdown list menu name.
+#
+# projects : project : name - The name of the GitHub project being
+# showcased.
+#
+# projects : project : url - The url of the GitHub project being showcased.
+#
+# Here is an example configuration:
+# github_projects :
+#   header : GitHub Projects
+#   projects :
+#   - project :
+#     name : gh-pages-blog
+#     url : https://github.com/thedereck/gh-pages-blog
+github_projects :
+  header : GitHub Projects
+  projects :
+  - project :
+    name : gh-pages-blog
+    url : https://github.com/thedereck/gh-pages-blog
+
+
+# These are links to other websites outside of the blog that are not part of
+# the social links or github projects. Although they could be either of those
+# as well.
+#
+# header - This is what will appear in the navlist header and the navbar
+# dropdown list menu name.
+#
+# links : link : name - The name of the external website.
+#
+# links : link : url - The url of the external website. Include the http://
+# or https://.
+#
+# Here is an example configuration:
+# external_links :
+#   header : Links
+#   links :
+#     - link :
+#       name : Baking Kookys
+#       url : http://www.bakingkookys.com
+#     - link :
+#       name : Lowcountry Blues Club
+#       url : http://lowcountrybluesclub.blogspot.com
+external_links :
+  header : More Great gh-pages-blog Sites
+  links :
+    - link :
+      name : The Dereck
+      url: https://thedereck.github.io
+
+
+# These are the Bootstrap settings. These Bootstrap settings will control both
+# the theme and responsive settings of this site.
+#
+# css - The name of the Bootstrap css. Using one of the min css should be
+# fine. This also controls the general theme of the website, so using a custom
+# Bootstrap css should work just fine. Also any of the Bootswatch settings
+# should work just fine, but you may need to tweak the css settings in the
+# css/gh-pages-blog.css if things clash.
+#
+# responsive : enabled - To enable a responsive Bootstrap, set this value to
+# true.
+#
+# responsive : css - The name of the Bootstrap responsive css file to use. It
+# should be just fine to use the min file.
+#
+# responsive : js : enabled - This either enables or disables the responsive
+# Bootstrap css. If you're going to use responsive css, you also need to use
+# a responsive Bootstrap js.
+#
+# responsive : js : src - The javascript to use for the responsive
+# Bootstrap. If you're going to use responsive css, you also need to use
+# a responsive Bootstrap js.
+#
+# Here's an example configuration:
+# bootstrap:
+#   css : bootstrap.min.css
+#   responsive :
+#     enabled : true
+#     css : bootstrap-responsive.min.css
+#   js :
+#     enabled : true
+#     src : bootstrap.min.js
+bootstrap:
+  css : bootstrap.min.css
+  responsive :
+    enabled : true
+    css : bootstrap-responsive.min.css
+  js :
+    enabled : true
+    src : bootstrap.min.js
+
+
+# These are the configuration settings for the jQuery javascript. jQuery is
+# needed for responsive Bootstrap and for the filter.html file.
+#
+# jquery : enabled - This enables or disables jQuery. Disabling will probably
+# cause the site to behave in a way that is unexpected.
+#
+# jquery : src - The source code file of the jQuery to use.
+#
+# Here's an example configuration:
+# jquery:
+#   enabled : true
+#   src : jquery-1.9.1.min.js
+jquery:
+  enabled : true
+  src : jquery-1.9.1.min.js
+
+
+# Font Awesome includes many different fonts that are used throughout the
+# site. Although not required, the Font Awesome fonts make the website look
+# much better.
+#
+# font_awesome : enabled - Enables or disables the use of Font Awesome.
+#
+# font_awesome : css - The css file to use for Font Awesome. The min css
+# should be sufficient.
+#
+# Here's an example configuration:
+# font_awesome :
+#   enabled : true
+#   css : font-awesome.min.css
+font_awesome :
+  enabled : true
+  css : font-awesome.min.css
+
+
+# This section of the configuration determines how syntax highlighting is
+# configured and the css file to be used.
+#
+# syntax_highlighting : enabled - Enables or disables the loading of the
+# css to be used for syntax highlighting of code blocks.
+#
+# syntax_highlighting : css - The name of the css file to use for syntax
+# highlighting.
+#
+# Here's an example configuration:
+# syntax_highlighting :
+#   enabled : true
+#   css : syntax.css
+syntax_highlighting :
+  enabled : true
+  css : syntax.css
+
+
+# This section of the configuration determines how the rss 2.0 xml file is
+# configured. The rss.xml is generated based upon the following settings,
+# as well as those above and on the post yml front-matter.
+#
+# enabled - This either enables or disables the generation of the rss.xml
+# file.
+#
+# managing_editor : enabled - Enables or disables the inclusion of the
+# managingEditor node in the xml.
+#
+# managing_editor : managing_editor - The email address and name of the
+# managing editor. The format is fairly specific in that the email
+# address is listed followed by an actual name in parenthesis:
+# thedereck@thedereck.com (Dereck Curry).
+#
+# webmaster : enabled - Enables or disables the inclusion of the
+# webmaster node in the xml.
+#
+# webmaster : webmaster - The email address and name of the
+# webmaster. The format is fairly specific in that the email address is
+# listed followed by an actual name in parenthesis:
+# thedereck@thedereck.com (Dereck Curry).
+#
+# ttl : enabled - Enables or disables the inclusion of a ttl setting.
+#
+# ttl : ttl - The numeric value of the ttl in minutes.
+#
+# image : enabled - Enables or disables the inclusion of an image to
+# represent the site in the xml.
+#
+# image : image - The full url of the image to use. Must include the
+# https://.
+#
+# Here's an example configuration:
+# rss :
+#   enabled : true
+#   managing_editor :
+#     enabled : true
+#     managing_editor : thedereck@thedereck.com (Dereck Curry)
+#   webmaster :
+#     enabled : true
+#     webmaster : thedereck@thedereck.com (Dereck Curry)
+#   ttl :
+#     enabled : true
+#     ttl : 300
+#   image :
+#     enabled : true
+#     image : https://www.gravatar.com/avatar/0f08df91055f27.png?s=200
+rss :
+  enabled : true
+  managing_editor :
+    enabled : false
+    managing_editor : false
+  webmaster :
+    enabled : false
+    webmaster : false
+  ttl :
+    enabled : true
+    ttl : 300
+  image :
+    enabled : false
+    image : false
+
+
+# This determines whether Disqus is enabled or disabled for the comments
+# on posts. You'll need to set up your own Disqus account for this to
+# work correctly.
+#
+# enabled - Determines whether Disqus is enabled or not.
+#
+# shortname - The Disqus shortname. This will be assigned by Disqus
+# when you sign up for an account.
+#
+# show_comment_count - Whether or not to show the comment count for posts
+# on the index page.
+#
+# Here's an example configuration:
+# disqus :
+#   enabled : false
+#   shortname : TheDereck
+#   show_comment_count : false
+disqus :
+  enabled : false
+  shortname : myshortname
+  show_comment_count : true
+
+
+# This section determines whether to use Google Analytics to track site
+# visitors and statistics. In the future, other analytic engines will most
+# likely be supported.
+#
+# enabled - Determines whether analytics are enabled or not.
+#
+# google_analytics : enabled - Determines whether Google Analytics in
+# particular is enabled or not.
+#
+# google_analytics : tracking_id - The tracking ID assigned by Google.
+#
+# Here's a sample configuration:
+# analytics :
+#   enabled : true
+#   google_analytics :
+#     enabled : true
+#     tracking_id : UA-1234567
+analytics :
+  enabled : false
+  google_analytics :
+    enabled : false
+    tracking_id : UA-1234567
