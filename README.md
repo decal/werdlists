@@ -1,17 +1,17 @@
 [![Twitter: @decalresponds](https://img.shields.io/badge/contact-@decalresponds-blue.svg)](https://twitter.com/decalresponds "@decalresponds")
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](issues/new "Ask Me Anything!")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/decal/werdlists/issues/new "Ask Me Anything!")
 [![werdlists](https://img.shields.io/badge/werd-lists-lightgrey.svg)](# "werdlists")
-[![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0 "Apache License 2.0")
+[![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://apache.org/licenses/LICENSE-2.0 "Apache License 2.0")
 [![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg)](# "repo-size")
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://gnu.org/software/bash/ "Made with Bash")
 
 * * *
-[![werdlists](logo.png)](# "Word Lists, Attack Strings, Miscellaneous Datasets and a PoC Wiki for Penetration Testing")
+[![werdlists](logo.png)](# "Word Lists, Attack Strings, Miscellaneous Datasets and Collections of Proof-of-Concept Test Cases With a Collection of Tools for Penetration Testers")
 * * *
 
 # "Word Lists" for Software Security Test Cases
 
-> Word lists, dictionary files, attack strings, miscellaneous datasets and a PoC wiki for penetration testers
+> Word lists, Dictionary Files, Attack Strings, Miscellaneous Datasets and Proof-of-Concept Test Cases With a Collection of Tools for Penetration Testers 
 
 * <a href="#intro">Brief Introduction to `werdlists`</a>
 * <a href="#inspire">Inspiration Taken from Similar Projects</a>
@@ -25,36 +25,37 @@ This project is a collection of word lists--they are mostly [whitespace-delimite
 or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionaries") folder contains inputs for [password cracking](https://wikipedia.org/wiki/Password_cracking),
 overall the files amassed here are intended to be useful in facilitating
 the creation of insecure [program state](https://wikipedia.org/wiki/State_(computer_science)#Program_state) (with the help of a [black-box fuzzer](https://wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
-utility, for example.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://unix.org/what_is_unix.html)
+tool.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://unix.org/what_is_unix.html)
 style [newline](https://wikipedia.org/wiki/Newline).   
 
 ## <a name="inspire"></a>Inspiration Taken from Similar Projects :thought_balloon:
-
-If you're already familiar with established repositories such as 
 [`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion"), 
+[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion") (maintained by my colleague at [IOActive](https://ioactive.com "IOActive") [Daniel Miessler](https://danielmiessler.com), 
 then `werdlists` is quite similar in mission as it's a centralized attack strings 
-and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource with its own unique style, organization, 
-original hand-crafted contents, verification/management scripts, expanded concepts, etc.
-`SecLists` is maintained by my colleague and co-worker at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com "Daniel Miessler").
+and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource.  However, it has its own unique style, organization, 
+original hand-crafted contents, verification/management scripts, expanded concepts, etc.  It also has an organized list of tools that links to the folder containing the datasets each one can be used with.
 
 ## <a name="repo"></a>Repository Directory Hierarchy and Structure :nut_and_bolt:
 
 The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
 All scripts use bash syntax and some data files were generated with a script.
-Folder names are detailed in the "Folder Names and Description of Contents" 
-section below.  All files in each folder are detailed in the `README.md` file
-for that folder. 
+The [`tools`](tools) folder lists security tools that the datasets contained in this repository can be provided as input for.
+In fact, there is a link provided adjacent to each tool name which references the folder storing datasets that would be most effective with that particular tool.
+Folder names are detailed in the <a href="#contents">Folder Names and Description of Contents</a>
+section below.  All files in each dataset directory are detailed in the local `README.md` file
+for that folder (as opposed to the global `README.md` in the root directory being read now.)
 
 ### <a name="naming"></a>Naming Scheme, Syntax and Meaning :speech_balloon:
 
 Most files have the `*.txt` extension signifying the `text/plain` [MIME type](https://wikipedia.org/wiki/Media_type)
+ans asc bin c conf cpp csv html inf ini json md rpz rst sh txt xml yaml yml zip zone
 Other file extensions in use are: `*.asc`, `*.csv`, `*.xml`, `*.html`, and `*.yml`
-These are for [Comma-Separated Values](https://wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
+Often used formats besides plain text include: [Comma-Separated Values](https://wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
 [Extended Markup Language](https://wikipedia.org/wiki/XML) (`application/xml`),
 [Hyper Text Markup Language](https://wikipedia.org/wiki/HTML) (`application/html`), etc.
 Any file that is larger than 1MB uncompressed will be compressed with [xz](https://wikipedia.org/wiki/Xz)
-according to the commands in the `scripts/compress-large-files` bash script. 
+according to the commands in the `scripts/compress-large-files` bash script.  File extensions in use are:
+`*.ans`, `*.asc`, `*.bin`, `*.c`, `*.conf`, `*.cpp`, `*.csv`, `*.html`, `*.inf`, `*.ini`, `*.json`, `*.md`, `*.rpz`, `*.rst`, `*.sh`, `*.txt`, `*.xml`, `*.yaml`, `*.yml`, `*.zip`, and `*.zone`.
 
 ## <a name="contents"></a>Folder Names and Description of Contents :clipboard:
 
@@ -147,3 +148,4 @@ according to the commands in the `scripts/compress-large-files` bash script.
 
 * * *
 
+ans asc bin c conf cpp csv html inf ini json md rpz rst sh txt xml yaml yml zip zone
