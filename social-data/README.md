@@ -1,10 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-| [country-names-abbrevs](country-names-abbrevs) |  list of country names with two-letter abbreviations <https://pkgstore.datahub.io/core/country-list/data_csv/data/d7c9d7cfb42cb69f4422dec222dbbaa8/data_csv.csv> 
-| [github-user-names](github-user-names) |  User names associated with [GitHub](https://github.com) accounts 
-| [osint-sources-list](osint-sources-list) |  [OSINT](https://wikipedia.org/wiki/Open-source_intelligence "Open-source Intelligence") sources 
-| [population-1960-2016](population-1960-2016) |  world population counts for world regions during the years 1960 through 2016 <https://pkgstore.datahub.io/core/population/population_csv/data/ead5be05591360d33ad1a37382f8f8b1/population_csv.csv> 
-| [social-media-sites](social-media-sites) |  a list of [social media](https://wikipedia.org/wiki/Social_media) web sites copied from [Namech_k](https://namechk.com) 
-
-* * *
-
+country-names-abbrevs: list of country names with two-letter abbreviations <https://pkgstore.datahub.io/core/country-list/data_csv/data/d7c9d7cfb42cb69f4422dec222dbbaa8/data_csv.csv>  
+github-user-names: User names associated with [GitHub](https://github.com) accounts  
+osint-sources-list: [OSINT](https://wikipedia.org/wiki/Open-source_intelligence "Open-source Intelligence") sources  
+population-1960-2016: world population counts for world regions during the years 1960 through 2016 <https://pkgstore.datahub.io/core/population/population_csv/data/ead5be05591360d33ad1a37382f8f8b1/population_csv.csv>  
+social-media-sites: a list of [social media](https://wikipedia.org/wiki/Social_media) web sites copied from [Namech_k](https://namechk.com)  

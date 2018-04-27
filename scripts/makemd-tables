@@ -24,7 +24,7 @@ if [ ! "$1" ]
 fi
 
 # for ardme in $(find . -type f -name 'README.md' -print | egrep '^[.]?/[a-z-]+/README.md$')
-for ardme in $1
+for ardme in $*
   do declare -i acnt=$(egrep -i '^[|]' $ardme | wc -l)
 
   [ $acnt -ne 0 ] && continue # keep going, no lines start with pipes, i.e. no markdown table
@@ -34,10 +34,17 @@ for ardme in $1
   echo '|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_' >> "${ardme}.new"
   echo '|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------' >> "${ardme}.new"
 
+  #cd $(dirname $ardme)
+
   (while read line
     do declare aname=$(echo $line | awk -F: '{print$1}') adesc=$(echo $line | cut -d ':' -f2-)
-    echo "| [${aname}](${aname}) | $adesc " >> "${ardme}.new"
+    cd $(dirname $ardme)
+    declare alink=$(ls -1 -- ${aname}.*)
+    cd ..
+    echo "| [${aname}](${alink}) | $adesc " >> "${ardme}.new"
   done) < $ardme
+
+  #cd ..
 
   echo >> "${ardme}.new"
   echo '* * *' >> "${ardme}.new"
