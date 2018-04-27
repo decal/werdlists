@@ -33,5 +33,7 @@ technical-manual-words: various forms of technical root words likely to be found
 tweet-word-ngrams: binary sequence and words parsed from tweets with cardinality  
 usgovt-manual-acronyms: [U.S. Government Manual](https://usgovernmentmanual.gov) Commonly Used Agency Acronyms  
 word-cluster-ngrams: word clusters parsed from the text in millions of tweets  
-yo-momma-jokes: over one thousand crude "yo momma!" jokes  
+worker-death-cases: sentences sorted by increasing length, each of which details unique cases of worker death 
+worker-death-summaries2017: [Occupational Health and Safety Adminstration](https://osha.gov "United States Department of Labor") [Archive Reports of Fatalities and Catastrophes](https://www.osha.gov/dep/fatcat/dep_fatcat_archive.html "Fatality Inspection Data Incident Files for Federal/State Summaries")
+yo-momma-jokes: over one thousand very crude "yo momma!" jokes  
 zoo-animal-list: an alphabetically sorted list of names for zoo-kept animals  

@@ -31,9 +31,9 @@ for ardme in $(find . -type f -name 'README.md' -print | egrep '^[.]?/[a-z-]+/RE
   cp -av "$ardme" "${ardme}.orig"
 
   (while read line
-    do declare aname=`echo $aline | awk -F: '{print$1}'`
-    declare adesc=`echo $aline | awk -F: '{print$2}'`
-    echo "| [$aname]($aname) | $adesc " >> "${ardme}.new"
+    do declare aname=$(echo $aline | awk -F: '{print$1}')
+    declare adesc=$(echo $aline | awk -F: '{print$2}')
+    echo "| [${aname}](${aname}) | $adesc " >> "${ardme}.new"
   done) < $ardme
 
   mv -v "${ardme}.new" "${ardme}"
