@@ -23,18 +23,25 @@ if [ ! "$1" ]
   exit 1
 fi
 
-for ardme in $(find . -type f -name 'README.md' -print | egrep '^[.]?/[a-z-]+/README.md$')
+# for ardme in $(find . -type f -name 'README.md' -print | egrep '^[.]?/[a-z-]+/README.md$')
+for ardme in $1
   do declare -i acnt=$(egrep -i '^[|]' $ardme | wc -l)
 
   [ $acnt -ne 0 ] && continue # keep going, no lines start with pipes, i.e. no markdown table
  
   cp -av "$ardme" "${ardme}.orig"
 
+  echo '|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_' >> "${ardme}.new"
+  echo '|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------' >> "${ardme}.new"
+
   (while read line
-    do declare aname=$(echo $aline | awk -F: '{print$1}')
-    declare adesc=$(echo $aline | awk -F: '{print$2}')
+    do declare aname=$(echo $line | awk -F: '{print$1}') adesc=$(echo $line | cut -d ':' -f2-)
     echo "| [${aname}](${aname}) | $adesc " >> "${ardme}.new"
   done) < $ardme
+
+  echo >> "${ardme}.new"
+  echo '* * *' >> "${ardme}.new"
+  echo >> "${ardme}.new"
 
   mv -v "${ardme}.new" "${ardme}"
 done
