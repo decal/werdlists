@@ -6,4 +6,5 @@ http-user-agents: user agent values from various browsers and other HTTP clients
 msie-user-agents: Microsoft Internet Explorer user agent strings  
 robots-user-agents: User agent list taken from [Robots Database](http://robotstxt.org/db.html "The Web Robots Pages")  
 safari-user-agents: Apple Safari user agent strings  
+user-agents-objects: <https://github.com/lancedikson/bowser/blob/master/src/useragents.js>  
 webcrawler-robots-database: legacy `webcrawler.com` robots database  

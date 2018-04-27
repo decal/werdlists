@@ -15,6 +15,7 @@
 
 * <a href="#intro">Brief Introduction to `werdlists`</a>
 * <a href="#inspire">Inspiration Taken from Similar Projects</a>
+  - <a href="#unique">Unique Features Only Available With `werdlists`</a>
 * <a href="#repo">Repository Directory Hierarchy and Structure</a>
   - <a href="#naming">Naming Scheme, Syntax and Meaning</a>
 * <a href="#contents">Folder Names and Description of Contents</a>
@@ -28,33 +29,37 @@ the creation of insecure [program state](https://wikipedia.org/wiki/State_(compu
 tool.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://unix.org/what_is_unix.html)
 style [newline](https://wikipedia.org/wiki/Newline).   
 
-## <a name="inspire"></a>Inspiration Taken from Similar Projects :thought_balloon:
-[`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion") (maintained by my colleague at [IOActive](https://ioactive.com "IOActive") [Daniel Miessler](https://danielmiessler.com), 
-then `werdlists` is quite similar in mission as it's a centralized attack strings 
-and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource.  However, it has its own unique style, organization, 
-original hand-crafted contents, verification/management scripts, expanded concepts, etc.  It also has an organized list of tools that links to the folder containing the datasets each one can be used with.
+## <a name="inspire"></a>Inspiration Taken From Similar Projects :thought_balloon:
+`werdlists` is very similar to [`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
+[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion").  (`SecLists` is maintained by my colleague at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com).
+Admittedly, `werdlists` is quite similar in mission as it's a centralized attack strings 
+and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource.  Regardless, `werdlists` expands on a number of concepts: it has its own unique style, organization, 
+original hand-crafted contents, dataset creation/management/validation scripts, scanner springboards, etc.
+
+### <a name="unique"></a>Unique Features Only Available With `werdlists` :100: 
+`werdlists` cross-references between the code repositories of third-party scanners and its own datasets folders each tool will benefit from.
+Moreover, there are specialized parsing scripts exclusive to `werdlists` that extract results produced through pairing test tools with its own data.  Output 
+strings are gathered from those results and fed back into the test tools.  In other words, there are a number of interactive and/or
+tunable feedback loops implemented.  Quite a few of the `werdlists` data files were created this way.
 
 ## <a name="repo"></a>Repository Directory Hierarchy and Structure :nut_and_bolt:
 
 The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
-All scripts use bash syntax and some data files were generated with a script.
+All scripts use bash syntax.  Some data files were generated with script(s) such as [`manpages-environ`](/decal/werdlists/scripts/manpages-environ).
+Other data files were manually composed by hand.  A handful were created by recycling output strings back into input parameter lists, i.e. [`dirbdirs-feedback`](/decal/werdlists/scripts/dirbdirs-feedback)
 The [`tools`](tools) folder lists security tools that the datasets contained in this repository can be provided as input for.
-In fact, there is a link provided adjacent to each tool name which references the folder storing datasets that would be most effective with that particular tool.
-Folder names are detailed in the <a href="#contents">Folder Names and Description of Contents</a>
-section below.  All files in each dataset directory are detailed in the local `README.md` file
-for that folder (as opposed to the global `README.md` in the root directory being read now.)
+Individual folders are detailed in the <a href="#contents">Folder Names and Description of Contents</a> section below.
+All files in each dataset directory are detailed in the local `README.md` file for that folder
+(as opposed to the global `README.md` in the root directory being read now.)
 
 ### <a name="naming"></a>Naming Scheme, Syntax and Meaning :speech_balloon:
 
 Most files have the `*.txt` extension signifying the `text/plain` [MIME type](https://wikipedia.org/wiki/Media_type)
-ans asc bin c conf cpp csv html inf ini json md rpz rst sh txt xml yaml yml zip zone
-Other file extensions in use are: `*.asc`, `*.csv`, `*.xml`, `*.html`, and `*.yml`
 Often used formats besides plain text include: [Comma-Separated Values](https://wikipedia.org/wiki/Comma-separated_values) (`text/csv`), 
 [Extended Markup Language](https://wikipedia.org/wiki/XML) (`application/xml`),
 [Hyper Text Markup Language](https://wikipedia.org/wiki/HTML) (`application/html`), etc.
 Any file that is larger than 1MB uncompressed will be compressed with [xz](https://wikipedia.org/wiki/Xz)
-according to the commands in the `scripts/compress-large-files` bash script.  File extensions in use are:
+according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scripts/xzlarge-files) bash script.  Other file extensions in use are:
 `*.ans`, `*.asc`, `*.bin`, `*.c`, `*.conf`, `*.cpp`, `*.csv`, `*.html`, `*.inf`, `*.ini`, `*.json`, `*.md`, `*.rpz`, `*.rst`, `*.sh`, `*.txt`, `*.xml`, `*.yaml`, `*.yml`, `*.zip`, and `*.zone`.
 
 ## <a name="contents"></a>Folder Names and Description of Contents :clipboard:
@@ -125,7 +130,7 @@ according to the commands in the `scripts/compress-large-files` bash script.  Fi
 | [string-enums](string-enums)    | :ferris_wheel: Enumerations of values that aren't too terribly unusual  
 | [system-admin](system-admin)    | :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
 | [system-notices](system-notices)  | :warning: Disclaimer/warning messages shown by networked computer systems  
-| [telco-data](telco-data)      | :telephone_receiver: Voice telecommunications technologies datum: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
+| [telco-data](telco-data)      | :telephone_receiver: Voice telecommunications technologies: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
 | [text-files](text-files)      | :pushpin: zine articles and such like those archived at [textfiles.com](https://textfiles.com)
 | [text-words](text-words)      | :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 | [top-secret](top-secret)      | :alien: Files and/or data related to documents that were/are classified  

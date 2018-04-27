@@ -14,10 +14,10 @@ if [ ! -f INDEX.md ]
   exit 1
 fi
 
-scripts/append-spaces-endofline 'INDEX.md'
+scripts/append-eolspaces 'README.md'
 
 for anmd in */README.md
-  do scripts/append-spaces-endofline "$anmd"
+  do scripts/append-eolspaces "$anmd"
 done
 
 exit 0

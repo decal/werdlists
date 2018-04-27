@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+#
+# Shorten and secure URL's in a [GFM](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) 
+# file's linking syntax (i.e. square brackets followed by parentheses as demonstrated above.)  
+# 'Shorten' by removing unnecessary `www` hostnames and 'secure' by converting `http:` schemes to `https:`.
+#
+# Written By:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Modified: Sat Apr 14 02:27:36 DST 2018
+# Tested On:     Ubuntu Bash in Windows Subsystem for Linux
+#
+
+[ ! -d scripts ] && echo
+
+[ -f scripts/shared/colors ] && source scripts/shared/colors
+[ -f scripts/shared/env ] && source scripts/shared/env 
+
+if [ ! "$1" ]
+  then echo -ne "${reset}"
+  echo -e "${yellowf}usage${boldon}:${reset} ${bluef}${ulon}$0${reset} ${greenb}MDFILE${reset}"
+  echo -e "  ${greenb}MDFILE${reset}  ${italicson}markdown file containing links to rewrite${reset}"
+  echo 
+
+  exit 1
+fi
+
+for ardme in $(find . -type f -name 'README.md' -print | egrep '^[.]?/[a-z-]+/README.md$')
+  do declare -i acnt=$(egrep -i '^[|]' $ardme | wc -l)
+
+  [ $acnt -ne 0 ] && continue # keep going, no lines start with pipes, i.e. no markdown table
+ 
+  cp -av "$ardme" "${ardme}.orig"
+
+  (while read line
+    do declare aname=`echo $aline | awk -F: '{print$1}'`
+    declare adesc=`echo $aline | awk -F: '{print$2}'`
+    echo "| [$aname]($aname) | $adesc " >> "${ardme}.new"
+  done) < $ardme
+
+  mv -v "${ardme}.new" "${ardme}"
+done
+
+exit 0
