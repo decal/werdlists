@@ -1,3 +1,8 @@
-perl-cpan-packages: Perl CPAN packages information downloaded from cpan.org  
-perl-cpan-pkgnames: Only namespace scopes defined by CPAN packages from cpan.org  
-wsl-pmall-output: Output of the pmall(1p) command on WSL  
+|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [perl-cpan-packages](perl-cpan-packages.txt.xz) |  Perl CPAN packages information downloaded from cpan.org 
+| [perl-cpan-pkgnames](perl-cpan-pkgnames.txt.xz) |  Only namespace scopes defined by CPAN packages from cpan.org 
+| [wsl-pmall-output](wsl-pmall-output.txt) |  Output of the pmall(1p) command on WSL 
+
+* * *
+
