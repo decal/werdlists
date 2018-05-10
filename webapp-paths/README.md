@@ -6,6 +6,7 @@
 | [apache-james-paths](apache-james-paths.txt) |  paths taken from the `quick-start.html` doc on <http://james.apache.org> 
 | [apache-path-names](apache-path-names.txt) |  path names commonly found under web root of an _Apache_ install 
 | [apache-tapestry-paths](apache-tapestry-paths.txt) |  Apache Tapestry paths created from source tree 
+| [cakephp-paths-list](cakephp-paths-list.txt) | Paths list created from the [CakePHP](https://cakephp.org) source tree
 | [coldfusion-cfmx-cfide](coldfusion-cfmx-cfide.txt) |  pathnames to admin pages on _Adobe ColdFusion_ app server 
 | [common-path-names](common-path-names.txt) |  several of the files in this folder, sorted and uniqified 
 | [cpan-module-paths](cpan-module-paths.txt) |  paths in CPAN (Comprehensive Perl Archive Network) modules 

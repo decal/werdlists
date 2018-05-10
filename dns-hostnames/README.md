@@ -1,6 +1,6 @@
 [werdlists](/decal/werdlists) `=>` _DNS Hostnames_
 
-|&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
+|&nbsp;&nbsp;&nbsp;&nbsp;**_File&nbsp;&nbsp;Name_**&nbsp;&nbsp;&nbsp;&nbsp;| **_Description of Contents_**
 |:---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | adaway-block-list          | hosts block list distributed by `adaway.org`  
 | alexa-host-names           | [Alexa](https://www.alexa.com/) URI host names sorted and uniqified  
@@ -52,3 +52,9 @@
 | wget-hsts-hosts            | HSTS (Strict Transport Security) host names saved by [GNU](https://gnu.org "GNU's Not UNIX!") [wget](https://gnu.org/software/wget "a free software package for retrieving files with the most widely-used Internet protocols")  
 | yahoo-ad-hosts             | host names of [Yahoo](http://yahoo.com) advertising web servers  
 | yahoo-server-hosts         | names of [Yahoo](http://yahoo.com) front-end web app servers  
+
+* * *
+
+|&nbsp;&nbsp;&nbsp;&nbsp;**_Tool&nbsp;&nbsp;Name_**&nbsp;&nbsp;&nbsp;&nbsp;| **_Description of Purpose_**
+|:---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| [Sublist3r](https://github.com/plazmaz/Sublist3r) | Fast subdomains enumeration tool for penetration testers

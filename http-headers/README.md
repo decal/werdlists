@@ -24,6 +24,14 @@
 | [rfc-request-headers](rfc-request-headers.txt) |  request header names that appear in an IETF RFC document 
 | [rfc-response-headers](rfc-response-headers.txt) |  response header names that appear in an IETF RFC document 
 | [security-policy-headers](security-policy-headers.txt) |  CSP (Content-Security-Policy) header name list 
+| [ssrf-headers-addr](ssrf-headers-addr.txt) | SSRF (Server-Side Request Forgery) request header names ending with the substring `-Addr`
+| [ssrf-headers-address](ssrf-headers-address.txt) | SSRF request header names ending with the substring `-Address`
+| [ssrf-headers-all](ssrf-headers-all.txt) | All of the SSRF request header names files' contents combined subsequent to unique sorting
+| [ssrf-headers-dns](ssrf-headers-dns.txt) | SSRF request header names ending with the substring `-DNS`
+| [ssrf-headers-host](ssrf-headers-host.txt) | SSRF request header names ending with the substring `-Host`
+| [ssrf-headers-ip](ssrf-headers-ip.txt) | SSRF request header names ending with the substring `-IP`
+| [ssrf-headers-server](ssrf-headers-server.txt) | SSRF request header names ending with the substring `-Server`
+| [ssrf-headers-vanilla](ssrf-headers-vanilla.txt) SSRF request header names without any specific appendage
 | [ssrf-http-headers](ssrf-http-headers.txt) |  HTTP headers that can be used for Server-Side Request Forgery 
 | [ssrf-request-headers](ssrf-request-headers.txt) |  request headers that can be used in SSRF attacks 
 | [ssrf-response-headers](ssrf-response-headers.txt) |  response headers host names for SSRF can be parsed from 
