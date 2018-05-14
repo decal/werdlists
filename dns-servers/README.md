@@ -1,6 +1,8 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [alexa-site-nameservers](alexa-site-nameservers.txt) |  the nameservers of [Alexa](https://www.alexa.com/) sites advertised by NS records 
+| [as112-arpa-zones](as112-arpa-zones.txt) | [AS112 Project](https://as112.net) zones
+| [black-hole-servers](black-hole-servers.txt) | [Blackhole DNS Servers](https://wikipedia.org/wiki/Blackhole_server) that return "nonexistent address" answers to reverse DNS lookups for private-use addresses
 | [bsdports-dns-tools](bsdports-dns-tools.txt) |  <https://github.com/freenas/iocage-ports/tree/master/dns> 
 | [dnsrd-syslog-codes](dnsrd-syslog-codes.txt) |  [DNS Resources Directory (DNSRD)](http://web.archive.org/web/*/www.dns.net/dnsrd/) 
 | [dns-root-servers](dns-root-servers.txt) |  root zone's nameserver record data for various resource types 

@@ -1,0 +1,4 @@
+PayPal-Client-MetaData-Id
+PayPal-Auth-Assertion
+PayPal-Partner-Attribution-Id
+PayPal-Request-Id
