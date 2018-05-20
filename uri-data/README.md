@@ -4,6 +4,7 @@
 | [google-cloud-launchers](google-cloud-launchers.txt) |  locations of [Google Compute Engine](https://cloud.google.com/compute/docs "Google Compute Engine Documentation") app launchers 
 | [humans-txt-example](humans-txt-example.txt) |  an instance of a [`humans.txt`](http://humanstxt.org) example file from <https://textpattern.com/humans.txt> 
 | [nntp-news-groups](nntp-news-groups.txt.xz) |  [USENET](http://www.usenet.org/) newsgroup listing as tin created dot-newsrc 
+| [origin-check-urls](origin-check-urls.txt.xz) | The `urls.txt` file from [mikispag/OriginCheck](https://github.com/mikispag/OriginCheck) on [GitHub](https://github.com)  
 | [pentest-bookmarks-list](pentest-bookmarks-list.md) |  The Open Penetration Testing Bookmarks Collection from <https://github.com/jhaddix/pentest-bookmarks> 
 | [security-txt-template](security-txt-template.txt) |  [`security.txt`](https://securitytxt.org/) template example from <https://github.com/quietray/securitytxt-project/blob/master/security.txt> 
 | [torproject-onion-services](torproject-onion-services.txt) |  a list of onion services run by the Tor Project from <https://onion.torproject.org> 

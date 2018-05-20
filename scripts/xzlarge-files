@@ -14,14 +14,10 @@
 
 readonly COMPRESS_CMD="xz -9v"
 
-if [ ! -f INDEX.md ]
-  then cd ..
-  
-  if [ ! -f INDEX.md ]
-    then echo -e "${blackfg}${yellowbg}***${reset} ${yellow}Try running this script from the git repository root!${reset}"
+if [ ! -d scripts ]
+  then echo -e "${blackfg}${yellowbg}***${reset} ${yellow}Try running this script from the git repository root!${reset}"
 
-    exit 1
-  fi
+  exit 1
 fi
 
 echo -e "${greenb}***${reset} ${greenf}Compressing large files..${reset}${newline}"
