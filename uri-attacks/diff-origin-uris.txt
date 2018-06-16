@@ -1,0 +1,7 @@
+http://example.com/
+http://example.com:8080/
+http://www.example.com/
+https://example.com:80/
+https://example.com/
+http://example.org/
+http://ietf.org/

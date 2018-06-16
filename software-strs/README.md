@@ -17,7 +17,8 @@
 | [java-platform-list](java-platform-list.txt) |  list of Java platform names taken from `libs.xml` `unixActions.jar` 
 | [kamilio-features-list](kamilio-features-list.txt) |  <https://www.kamailio.org/w/features/> 
 | [libressl-function-symbols](libressl-function-symbols.txt) |  symbols for SSL functions from `libressl-portable` 
-| [linux-distribution-list](linux-distribution-list.txt) |  list of Linux distribution names taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm> 
+| [linux-distribution-list](linux-distribution-list.txt) | list of Linux distribution names taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm> 
+| [luarocks-module-names](luarocks-module-names.txt) | module names listed with an empty string search using [LuaRocks](https://luarocks.org), i.e. `luarocks search ''`
 | [macos-homebrew-list](macos-homebrew-list.txt) |  list of [macOS homebrew](https://brew.sh) package names 
 | [macports-titles-list](macports-titles-list.txt) |  [MacPorts](https://www.macports.org) software titles list 
 | [mariadb-variables-list](mariadb-variables-list.txt) |  Full List of MariaDB Options, System and Status Variables <https://mariadb.com/kb/en/library/full-list-of-mariadb-options-system-and-status-variables/> 
