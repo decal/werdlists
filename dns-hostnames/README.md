@@ -49,6 +49,8 @@
 | tor-hsts-preloads          | Site list for [HTTP Strict Transport Security](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet) preloading on TOR  
 | tweet-link-hosts           | hosts parsed from tweet text on [Twitter](https://twitter.com)  
 | uber-subdomain-names       | subdomain names used by [Uber](https://uber.com)  
+| virtual-host-scanning      | hostnames useful for detecting a web server's [Name-based Virtual Hosting](https://en.wikipedia.org/wiki/Virtual_hosting#Name-based) configuration  
+| vhostscan-format-wordlist  | wordlist for finding name-based virtual hosts packaged with [virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery)  
 | wget-hsts-hosts            | HSTS (Strict Transport Security) host names saved by [GNU](https://gnu.org "GNU's Not UNIX!") [wget](https://gnu.org/software/wget "a free software package for retrieving files with the most widely-used Internet protocols")  
 | yahoo-ad-hosts             | host names of [Yahoo](http://yahoo.com) advertising web servers  
 | yahoo-server-hosts         | names of [Yahoo](http://yahoo.com) front-end web app servers  

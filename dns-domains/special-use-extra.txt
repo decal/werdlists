@@ -25,11 +25,13 @@ addr.
 adm.
 admin.
 a.e.f.ip6.arpa.  
+alt.
 arpa.
 b.e.f.ip6.arpa. 
 c.f.ip6.arpa.
 conf.
 config.
+dev.
 example.     
 example.com.
 example.net.
@@ -56,3 +58,4 @@ set.
 setup.
 test.
 tst.
+vm.
