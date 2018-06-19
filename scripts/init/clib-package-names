@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# software-strs/clib-package-names.txt
+#
+
+clib search | grep / | tr '[:cntrl:]' '\n' | awk '{print$2}' | sort -u | cut -d '/' -f2 
+
+exit 0

@@ -1,0 +1,8 @@
+FTP	21, 22
+LDAP	389, 636
+NNTP	any port
+POP3	any port
+IMAP	any port
+SMTP	any port
+FINGER	79
+DATETIME	13

@@ -1,0 +1,1182 @@
+acons key value alist
+sloppy-assq key alist
+sloppy-assv key alist
+sloppy-assoc key alist
+assq key alist
+assv key alist
+assoc key alist
+assq-ref alist key
+assv-ref alist key
+assoc-ref alist key
+assq-set! alist key val
+assv-set! alist key val
+assoc-set! alist key val
+assq-remove! alist key
+assv-remove! alist key
+assoc-remove! alist key
+make-arbiter name
+try-arbiter arb
+release-arbiter arb
+array-fill! ra fill
+array-copy-in-order!
+array-copy! src dst
+array-map-in-order!
+array-map! ra0 proc .  lra
+array-for-each proc ra0 .  lra
+array-index-map! ra proc
+array-equal? [ra0 [ra1 .  rest]]
+shared-array-root ra
+shared-array-offset ra
+shared-array-increments ra
+make-typed-array type fill .  bounds
+make-array fill .  bounds
+make-shared-array oldra mapfunc .  dims
+transpose-array ra .  args
+array-contents ra [strict]
+list->typed-array type shape lst
+list->array ndim lst
+async thunk
+async-mark a
+run-asyncs list_of_a
+system-async thunk
+system-async-mark proc [thread]
+noop .  args
+unmask-signals
+mask-signals
+call-with-blocked-asyncs proc
+call-with-unblocked-asyncs proc
+display-error frame port subr message args rest
+display-application frame [port [indent]]
+display-backtrace stack port [first [depth
+backtrace [highlights]
+not x
+boolean? obj
+bitvector? obj
+make-bitvector len [fill]
+bitvector .  bits
+bitvector-length vec
+bitvector-ref vec idx
+bitvector-set! vec idx val
+bitvector-fill! vec val
+list->bitvector list
+bitvector->list vec
+bit-count b bitvector
+bit-position item v k
+bit-set*! v kv obj
+bit-count* v kv obj
+bit-invert! v
+native-endianness
+bytevector? obj
+make-bytevector len [fill]
+bytevector-length bv
+bytevector=? bv1 bv2
+bytevector-fill! bv fill
+bytevector-copy! source source_start target
+bytevector-copy bv
+uniform-array->bytevector array
+bytevector-u8-ref bv index
+bytevector-s8-ref bv index
+bytevector-u8-set! bv index value
+bytevector-s8-set! bv index value
+bytevector->u8-list bv
+u8-list->bytevector lst
+bytevector-uint-ref bv index endianness size
+bytevector-sint-ref bv index endianness size
+bytevector-uint-set! bv index value endianness size
+bytevector-sint-set! bv index value endianness size
+bytevector->sint-list bv endianness size
+bytevector->uint-list bv endianness size
+uint-list->bytevector lst endianness size
+sint-list->bytevector lst endianness size
+bytevector-u16-ref bv index endianness
+bytevector-s16-ref bv index endianness
+bytevector-u16-native-ref bv index
+bytevector-s16-native-ref bv index
+bytevector-u16-set! bv index value endianness
+bytevector-s16-set! bv index value endianness
+bytevector-u16-native-set! bv index value
+bytevector-s16-native-set! bv index value
+bytevector-u32-ref bv index endianness
+bytevector-s32-ref bv index endianness
+bytevector-u32-native-ref bv index
+bytevector-s32-native-ref bv index
+bytevector-u32-set! bv index value endianness
+bytevector-s32-set! bv index value endianness
+bytevector-u32-native-set! bv index value
+bytevector-s32-native-set! bv index value
+bytevector-u64-ref bv index endianness
+bytevector-s64-ref bv index endianness
+bytevector-u64-native-ref bv index
+bytevector-s64-native-ref bv index
+bytevector-u64-set! bv index value endianness
+bytevector-s64-set! bv index value endianness
+bytevector-u64-native-set! bv index value
+bytevector-s64-native-set! bv index value
+bytevector-ieee-single-ref bv index endianness
+bytevector-ieee-single-native-ref bv index
+bytevector-ieee-single-set! bv index value
+bytevector-ieee-single-native-set! bv index value
+bytevector-ieee-double-ref bv index endianness
+bytevector-ieee-double-native-ref bv index
+bytevector-ieee-double-set! bv index value
+bytevector-ieee-double-native-set! bv index value
+string->utf8 str
+string->utf16 str [endianness]
+string->utf32 str [endianness]
+utf8->string utf
+utf16->string utf [endianness]
+utf32->string utf [endianness]
+char? x
+char=? [x [y .  rest]]
+char<? [x [y .  rest]]
+char<=? [x [y .  rest]]
+char>? [x [y .  rest]]
+char>=? [x [y .  rest]]
+char-ci=? [x [y .  rest]]
+char-ci<? [x [y .  rest]]
+char-ci<=? [x [y .  rest]]
+char-ci>? [x [y .  rest]]
+char-ci>=? [x [y .  rest]]
+char-alphabetic? chr
+char-numeric? chr
+char-whitespace? chr
+char-upper-case? chr
+char-lower-case? chr
+char-is-both? chr
+char->integer chr
+integer->char n
+char-upcase chr
+char-downcase chr
+char-titlecase chr
+char-general-category chr
+@abort tag args
+with-continuation-barrier proc
+debug-options-interface [setting]
+procedure-name proc
+procedure-source proc
+substring-move-left!
+substring-move-right!
+c-registered-modules
+c-clear-registered-modules
+close-all-ports-except .  ports
+variable-set-name-hint! var hint
+builtin-variable name
+sloppy-memq x lst
+sloppy-memv x lst
+sloppy-member x lst
+read-and-eval! [port]
+string->obarray-symbol o s [softp]
+intern-symbol o s
+unintern-symbol o s
+symbol-binding o s
+symbol-bound? o s
+symbol-set! o s v
+gentemp [prefix [obarray]]
+uniform-vector-read! uvec [port_or_fd [start [end]]]
+uniform-vector-write uvec [port_or_fd [start [end]]]
+uniform-array-read! ura [port_or_fd [start [end]]]
+uniform-array-write ura [port_or_fd [start [end]]]
+inet-aton address
+inet-ntoa inetid
+guardian-destroyed? guardian
+guardian-greedy? guardian
+destroy-guardian! guardian
+lazy-catch key thunk handler
+dynamic-args-call func dobj args
+make-keyword-from-dash-symbol symbol
+keyword-dash-symbol keyword
+cuserid
+primitive-make-property not_found_proc
+primitive-property-ref prop obj
+primitive-property-set! prop obj val
+primitive-property-del! prop obj
+standard-eval-closure module
+standard-interface-eval-closure module
+eval-closure-module eval_closure
+struct-vtable-tag handle
+generalized-vector? obj
+generalized-vector-length v
+generalized-vector-ref v idx
+generalized-vector-set! v idx val
+generalized-vector->list v
+gc-live-object-stats
+htons value
+ntohs value
+htonl value
+ntohl value
+issue-deprecation-warning .  msgs
+include-deprecated-features
+dynamic-link [filename]
+dynamic-object? obj
+dynamic-unlink dobj
+dynamic-pointer name dobj
+dynamic-func name dobj
+dynamic-call func dobj
+eq? [x [y .  rest]]
+eqv? [x [y .  rest]]
+equal? [x [y .  rest]]
+scm-error key subr message args data
+strerror err
+apply:nconc2last lst
+eval exp module_or_state
+defined? sym [module]
+self-evaluating? obj
+macroexpand exp
+macroexpanded? exp
+load-extension lib init
+program-arguments
+set-program-arguments lst
+chown object owner group
+open-fdes path flags [mode]
+open path flags [mode]
+close fd_or_port
+close-fdes fd
+stat object [exception_on_error]
+lstat str
+link oldpath newpath
+chdir str
+select reads writes excepts [secs [usecs]]
+fcntl object cmd [value]
+fsync object
+symlink oldpath newpath
+readlink path
+copy-file oldfile newfile
+sendfile out in count [offset]
+getcwd
+mkdir path [mode]
+rmdir path
+rename-file oldname newname
+delete-file str
+access? path how
+chmod object mode
+umask [mode]
+mkstemp! tmpl
+system-file-name-convention
+dirname filename
+basename filename [suffix]
+canonicalize-path path
+directory-stream? obj
+opendir dirname
+readdir port
+rewinddir port
+closedir port
+make-fluid [dflt]
+make-unbound-fluid
+fluid? obj
+fluid-ref fluid
+fluid-set! fluid value
+fluid-unset! fluid
+fluid-bound? fluid
+with-fluids* fluids values thunk
+with-fluid* fluid value thunk
+make-dynamic-state [parent]
+dynamic-state? obj
+current-dynamic-state
+set-current-dynamic-state state
+with-dynamic-state state proc
+pointer? obj
+make-pointer address [finalizer]
+pointer-address pointer
+pointer->scm pointer
+scm->pointer scm
+pointer->bytevector pointer len [offset [uvec_type]]
+bytevector->pointer bv [offset]
+set-pointer-finalizer! pointer finalizer
+dereference-pointer pointer
+string->pointer string [encoding]
+pointer->string pointer [length [encoding]]
+alignof type
+sizeof type
+pointer->procedure return_type func_ptr arg_types
+procedure->pointer return_type proc arg_types
+setvbuf port mode [size]
+file-port? obj
+open-file filename mode .  keyword_args
+gc-stats
+gc-dump
+object-address obj
+gc-disable
+gc-enable
+gc
+gettext msgid [domain [category]]
+ngettext msgid msgid_plural n [domain [category]]
+textdomain [domainname]
+bindtextdomain domainname [directory]
+bind-textdomain-codeset domainname [encoding]
+array? obj
+typed-array? obj type
+array-rank array
+array-length array
+array-dimensions ra
+array-type ra
+array-in-bounds? ra .  args
+array-ref v [idx0 [idx1 .  idxN]]
+array-set! v obj [idx0 [idx1 .  idxN]]
+array->list array
+make-generalized-vector type len [fill]
+class-of x
+%compute-slots class
+get-keyword key l default_value
+%initialize-object obj initargs
+%prep-layout! class
+%inherit-magic! class dsupers
+instance? obj
+class-name obj
+class-direct-supers obj
+class-direct-slots obj
+class-direct-subclasses obj
+class-direct-methods obj
+class-precedence-list obj
+class-slots obj
+generic-function-name obj
+generic-function-methods obj
+method-generic-function obj
+method-specializers obj
+method-procedure obj
+make-unbound
+unbound? obj
+assert-bound value obj
+@assert-bound-ref obj index
+%fast-slot-ref obj index
+%fast-slot-set! obj index value
+slot-ref-using-class class obj slot_name
+slot-set-using-class! class obj slot_name value
+slot-bound-using-class? class obj slot_name
+slot-exists-using-class? class obj slot_name
+slot-ref obj slot_name
+slot-set! obj slot_name value
+slot-bound? obj slot_name
+slot-exists? obj slot_name
+%allocate-instance class initargs
+%set-object-setter! obj setter
+%modify-instance old new
+%modify-class old new
+%invalidate-class class
+%invalidate-method-cache! gf
+generic-capability? proc
+enable-primitive-generic! .  subrs
+set-primitive-generic! subr generic
+primitive-generic-generic subr
+make .  args
+find-method .  l
+%method-more-specific? m1 m2 targs
+%goops-loaded
+make-guardian
+hashq key size
+hashv key size
+hash key size
+make-hash-table [n]
+make-weak-key-hash-table [n]
+make-weak-value-hash-table [n]
+make-doubly-weak-hash-table [n]
+hash-table? obj
+weak-key-hash-table? obj
+weak-value-hash-table? obj
+doubly-weak-hash-table? obj
+hash-clear! table
+hashq-get-handle table key
+hashq-create-handle! table key init
+hashq-ref table key [dflt]
+hashq-set! table key val
+hashq-remove! table key
+hashv-get-handle table key
+hashv-create-handle! table key init
+hashv-ref table key [dflt]
+hashv-set! table key val
+hashv-remove! table key
+hash-get-handle table key
+hash-create-handle! table key init
+hash-ref table key [dflt]
+hash-set! table key val
+hash-remove! table key
+hashx-get-handle hash assoc table key
+hashx-create-handle! hash assoc table key init
+hashx-ref hash assoc table key [dflt]
+hashx-set! hash assoc table key val
+hashx-remove! hash assoc table obj
+hash-fold proc init table
+hash-for-each proc table
+hash-for-each-handle proc table
+hash-map->list proc table
+hash-count pred table
+make-hook [n_args]
+hook? x
+hook-empty? hook
+add-hook! hook proc [append_p]
+remove-hook! hook proc
+reset-hook! hook
+run-hook hook .  args
+hook->list hook
+make-locale category_list locale_name [base_locale]
+locale? obj
+string-locale<? s1 s2 [locale]
+string-locale>? s1 s2 [locale]
+string-locale-ci<? s1 s2 [locale]
+string-locale-ci>? s1 s2 [locale]
+string-locale-ci=? s1 s2 [locale]
+char-locale<? c1 c2 [locale]
+char-locale>? c1 c2 [locale]
+char-locale-ci<? c1 c2 [locale]
+char-locale-ci>? c1 c2 [locale]
+char-locale-ci=? c1 c2 [locale]
+char-locale-downcase chr [locale]
+char-locale-upcase chr [locale]
+char-locale-titlecase chr [locale]
+string-locale-upcase str [locale]
+string-locale-downcase str [locale]
+string-locale-titlecase str [locale]
+locale-string->integer str [base [locale]]
+locale-string->inexact str [locale]
+nl-langinfo item [locale]
+ftell fd_port
+redirect-port old new
+dup->fdes fd_or_port [fd]
+dup2 oldfd newfd
+fileno port
+isatty? port
+fdopen fdes modes
+primitive-move->fdes port fd
+fdes->ports fd
+keyword? obj
+symbol->keyword symbol
+keyword->symbol keyword
+make-list n [init]
+cons* arg .  rest
+null? x
+list? x
+length lst
+append .  args
+append! .  args
+last-pair lst
+reverse lst
+reverse! lst [new_tail]
+list-ref list k
+list-set! list k val
+list-cdr-ref
+list-tail lst k
+list-cdr-set! list k val
+list-head lst k
+list-copy lst
+list .  objs
+memq x lst
+memv x lst
+member x lst
+delq! item lst
+delv! item lst
+delete! item lst
+delq item lst
+delv item lst
+delete item lst
+delq1! item lst
+delv1! item lst
+delete1! item lst
+filter pred list
+filter! pred list
+primitive-load filename
+%package-data-dir
+%library-dir
+%site-dir
+%global-site-dir
+%site-ccache-dir
+parse-path path [tail]
+parse-path-with-ellipsis path base
+search-path path filename .  rest
+%search-load-path filename
+%warn-auto-compilation-enabled
+primitive-load-path .  args
+make-syntax-transformer name type binding
+macro? obj
+macro-type m
+macro-name m
+macro-transformer m
+macro-binding m
+memoize-expression exp
+memoized? obj
+unmemoize-expression m
+memoized-expression-typecode m
+memoized-expression-data m
+memoized-typecode sym
+memoize-variable-access! m mod
+current-module
+set-current-module module
+interaction-environment
+module-local-variable module sym
+module-variable module sym
+module-transformer module
+module-import-interface module sym
+define! sym value
+module-reverse-lookup module variable
+%get-pre-modules-obarray
+exact? x
+inexact? x
+odd? n
+even? n
+finite? x
+inf? x
+nan? x
+inf
+nan
+abs x
+quotient x y
+remainder x y
+modulo x y
+euclidean-quotient x y
+euclidean-remainder x y
+euclidean/ x y
+floor-quotient x y
+floor-remainder x y
+floor/ x y
+ceiling-quotient x y
+ceiling-remainder x y
+ceiling/ x y
+truncate-quotient x y
+truncate-remainder x y
+truncate/ x y
+centered-quotient x y
+centered-remainder x y
+centered/ x y
+round-quotient x y
+round-remainder x y
+round/ x y
+gcd [x [y .  rest]]
+lcm [x [y .  rest]]
+logand [x [y .  rest]]
+logior [x [y .  rest]]
+logxor [x [y .  rest]]
+logtest j k
+logbit? index j
+lognot n
+modulo-expt n k m
+integer-expt n k
+ash n count
+round-ash n count
+bit-extract n start end
+logcount n
+integer-length n
+number->string n [radix]
+string->number string [radix]
+number? x
+complex? x
+real? x
+rational? x
+integer? x
+exact-integer? x
+= [x [y .  rest]]
+< [x [y .  rest]]
+> [x [y .  rest]]
+<= [x [y .  rest]]
+>= [x [y .  rest]]
+zero? z
+positive? x
+negative? x
+max [x [y .  rest]]
+min [x [y .  rest]]
++ [x [y .  rest]]
+1+ x
+- [x [y .  rest]]
+1- x
+* [x [y .  rest]]
+/ [x [y .  rest]]
+truncate x
+round x
+floor x
+ceiling x
+expt x y
+sin z
+cos z
+tan z
+sinh z
+cosh z
+tanh z
+asin z
+acos z
+atan z [y]
+asinh z
+acosh z
+atanh z
+make-rectangular real_part imaginary_part
+make-polar mag ang
+real-part z
+imag-part z
+numerator z
+denominator z
+magnitude z
+angle z
+exact->inexact z
+inexact->exact z
+rationalize x eps
+log z
+log10 z
+exp z
+exact-integer-sqrt k
+sqrt z
+object-properties obj
+set-object-properties! obj alist
+object-property obj key
+set-object-property! obj key value
+cons x y
+pair? x
+set-car! pair value
+set-cdr! pair value
+cdr x
+car x
+cddr x
+cdar x
+cadr x
+caar x
+cdddr x
+cddar x
+cdadr x
+cdaar x
+caddr x
+cadar x
+caadr x
+caaar x
+cddddr x
+cdddar x
+cddadr x
+cddaar x
+cdaddr x
+cdadar x
+cdaadr x
+cdaaar x
+cadddr x
+caddar x
+cadadr x
+cadaar x
+caaddr x
+caadar x
+caaadr x
+caaaar x
+%port-property port key
+%set-port-property! port key value
+char-ready? [port]
+drain-input port
+current-input-port
+current-output-port
+current-error-port
+current-load-port
+set-current-input-port port
+set-current-output-port port
+set-current-error-port port
+port-revealed port
+set-port-revealed! port rcount
+port-mode port
+close-port port
+close-input-port port
+close-output-port port
+port-for-each proc
+input-port? x
+output-port? x
+port? x
+port-closed? port
+eof-object? x
+force-output [port]
+flush-all-ports
+read-char [port]
+peek-char [port]
+unread-char cobj [port]
+unread-string str port
+seek fd_port offset whence
+truncate-file object [length]
+port-line port
+set-port-line! port line
+port-column port
+set-port-column! port column
+port-filename port
+set-port-filename! port filename
+port-encoding port
+set-port-encoding! port enc
+port-conversion-strategy port
+set-port-conversion-strategy! port sym
+%make-void-port mode
+print-options-interface [setting]
+simple-format destination message .  args
+newline [port]
+write-char chr [port]
+port-with-print-state port [pstate]
+get-print-state port
+set-procedure-minimum-arity! proc req opt rest
+procedure-minimum-arity proc
+procedure-properties proc
+set-procedure-properties! proc alist
+procedure-property proc key
+set-procedure-property! proc key val
+procedure? obj
+thunk? obj
+procedure-documentation proc
+procedure-with-setter? obj
+make-procedure-with-setter procedure setter
+procedure proc
+setter proc
+make-promise thunk
+force promise
+promise? obj
+eof-object
+open-bytevector-input-port bv [transcoder]
+make-custom-binary-input-port id read_proc
+get-u8 port
+lookahead-u8 port
+get-bytevector-n port count
+get-bytevector-n! port bv start count
+get-bytevector-some port
+get-bytevector-all port
+put-u8 port octet
+put-bytevector port bv [start [count]]
+unget-bytevector port bv [start [count]]
+open-bytevector-output-port [transcoder]
+make-custom-binary-output-port id write_proc
+%make-transcoded-port port
+get-string-n! port str start count
+random n [state]
+copy-random-state [state]
+seed->random-state seed
+datum->random-state datum
+random-state->datum state
+random:uniform [state]
+random:normal [state]
+random:solid-sphere! v [state]
+random:hollow-sphere! v [state]
+random:normal-vector! v [state]
+random:exp [state]
+random-state-from-platform
+%read-delimited! delims str gobble [port [start
+%read-line [port]
+write-line obj [port]
+read-options-interface [setting]
+read [port]
+read-hash-extend chr proc
+file-encoding port
+call-with-dynamic-root thunk handler
+dynamic-root
+read-string!/partial str [port_or_fdes [start
+write-string/partial str [port_or_fdes [start
+sigaction signum [handler [flags [thread]]]
+restore-signals
+alarm i
+setitimer which_timer interval_seconds
+getitimer which_timer
+pause
+sleep i
+usleep i
+raise sig
+system [cmd]
+system* .  args
+getenv nam
+primitive-exit [status]
+primitive-_exit [status]
+restricted-vector-sort! vec less startpos endpos
+sorted? items less
+merge alist blist less
+merge! alist blist less
+sort! items less
+sort items less
+stable-sort! items less
+stable-sort items less
+sort-list! items less
+sort-list items less
+supports-source-properties? obj
+source-properties obj
+set-source-properties! obj alist
+source-property obj key
+set-source-property! obj key datum
+cons-source xorig x y
+append-reverse revhead tail
+append-reverse! revhead tail
+concatenate lstlst
+concatenate! lstlst
+count pred list1 .  rest
+delete x lst [pred]
+delete! x lst [pred]
+delete-duplicates lst [pred]
+delete-duplicates! lst [pred]
+find pred lst
+find-tail pred lst
+length+ lst
+list-copy lst
+lset-difference! equal lst .  rest
+assoc key alist [pred]
+partition pred list
+partition! pred lst
+remove pred list
+remove! pred list
+make-srfi-4-vector type len [fill]
+string-null? str
+string-any-c-code char_pred s [start [end]]
+string-every-c-code char_pred s [start [end]]
+string-tabulate proc len
+string->list str [start [end]]
+reverse-list->string chrs
+string-join ls [delimiter [grammar]]
+string-copy str [start [end]]
+string-copy! target tstart s [start [end]]
+substring-move! str1 start1 end1 str2 start2
+string-take s n
+string-drop s n
+string-take-right s n
+string-drop-right s n
+string-pad s len [chr [start [end]]]
+string-pad-right s len [chr [start [end]]]
+string-trim s [char_pred [start [end]]]
+string-trim-right s [char_pred [start [end]]]
+string-trim-both s [char_pred [start [end]]]
+string-fill! str chr [start [end]]
+string-compare s1 s2 proc_lt proc_eq proc_gt [start1
+string-compare-ci s1 s2 proc_lt proc_eq proc_gt
+string= s1 s2 [start1 [end1 [start2 [end2]]]]
+string<> s1 s2 [start1 [end1 [start2 [end2]]]]
+string< s1 s2 [start1 [end1 [start2 [end2]]]]
+string> s1 s2 [start1 [end1 [start2 [end2]]]]
+string<= s1 s2 [start1 [end1 [start2 [end2]]]]
+string>= s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci= s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci<> s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci< s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci> s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci<= s1 s2 [start1 [end1 [start2 [end2]]]]
+string-ci>= s1 s2 [start1 [end1 [start2 [end2]]]]
+string-hash s [bound [start [end]]]
+string-hash-ci s [bound [start [end]]]
+string-prefix-length s1 s2 [start1 [end1 [start2
+string-prefix-length-ci s1 s2 [start1 [end1 [start2
+string-suffix-length s1 s2 [start1 [end1 [start2
+string-suffix-length-ci s1 s2 [start1 [end1 [start2
+string-prefix? s1 s2 [start1 [end1 [start2 [end2]]]]
+string-prefix-ci? s1 s2 [start1 [end1 [start2
+string-suffix? s1 s2 [start1 [end1 [start2 [end2]]]]
+string-suffix-ci? s1 s2 [start1 [end1 [start2
+string-index s char_pred [start [end]]
+string-index-right s char_pred [start [end]]
+string-rindex s char_pred [start [end]]
+string-skip s char_pred [start [end]]
+string-skip-right s char_pred [start [end]]
+string-count s char_pred [start [end]]
+string-contains s1 s2 [start1 [end1 [start2
+string-contains-ci s1 s2 [start1 [end1 [start2
+string-upcase! str [start [end]]
+string-upcase str [start [end]]
+string-downcase! str [start [end]]
+string-downcase str [start [end]]
+string-titlecase! str [start [end]]
+string-titlecase str [start [end]]
+string-capitalize! str
+string-capitalize str
+string-reverse str [start [end]]
+string-reverse! str [start [end]]
+string-append/shared .  rest
+string-concatenate ls
+string-concatenate-reverse ls [final_string [end]]
+string-concatenate/shared ls
+string-concatenate-reverse/shared ls [final_string
+string-map proc s [start [end]]
+string-map! proc s [start [end]]
+string-fold kons knil s [start [end]]
+string-fold-right kons knil s [start [end]]
+string-unfold p f g seed [base [make_final]]
+string-unfold-right p f g seed [base [make_final]]
+string-for-each proc s [start [end]]
+string-for-each-index proc s [start [end]]
+xsubstring s from [to [start [end]]]
+string-xcopy! target tstart s sfrom [sto [start
+string-replace s1 s2 [start1 [end1 [start2 [end2]]]]
+string-tokenize s [token_set [start [end]]]
+string-split str char_pred
+string-filter char_pred s [start [end]]
+string-delete char_pred s [start [end]]
+char-set? obj
+char-set= .  char_sets
+char-set<= .  char_sets
+char-set-hash cs [bound]
+char-set-cursor cs
+char-set-ref cs cursor
+char-set-cursor-next cs cursor
+end-of-char-set? cursor
+char-set-fold kons knil cs
+char-set-unfold p f g seed [base_cs]
+char-set-unfold! p f g seed base_cs
+char-set-for-each proc cs
+char-set-map proc cs
+char-set-copy cs
+char-set .  rest
+list->char-set list [base_cs]
+list->char-set! list base_cs
+string->char-set str [base_cs]
+string->char-set! str base_cs
+char-set-filter pred cs [base_cs]
+char-set-filter! pred cs base_cs
+ucs-range->char-set lower upper [error [base_cs]]
+ucs-range->char-set! lower upper error base_cs
+->char-set x
+char-set-size cs
+char-set-count pred cs
+char-set->list cs
+char-set->string cs
+char-set-contains? cs ch
+char-set-every pred cs
+char-set-any pred cs
+char-set-adjoin cs .  rest
+char-set-delete cs .  rest
+char-set-adjoin! cs .  rest
+char-set-delete! cs .  rest
+char-set-complement cs
+char-set-union .  rest
+char-set-intersection .  rest
+char-set-difference cs1 .  rest
+char-set-xor .  rest
+char-set-diff+intersection cs1 .  rest
+char-set-complement! cs
+char-set-union! cs1 .  rest
+char-set-intersection! cs1 .  rest
+char-set-difference! cs1 .  rest
+char-set-xor! cs1 .  rest
+char-set-diff+intersection! cs1 cs2 .  rest
+%char-set-dump charset
+log2-binary-factors n
+copy-bit index n newbit
+rotate-bit-field n count start end
+reverse-bit-field n start end
+integer->list n [len]
+list->integer lst
+booleans->integer
+%get-stack-size
+stack? obj
+make-stack obj .  args
+stack-id stack
+stack-ref stack index
+stack-length stack
+get-internal-real-time
+times
+get-internal-run-time
+current-time
+gettimeofday
+localtime time [zone]
+gmtime time
+mktime sbd_time [zone]
+tzset
+strftime format stime
+strptime format string
+%string-dump str
+%symbol-dump sym
+string? obj
+list->string
+string .  chrs
+make-string k [chr]
+string-length string
+string-bytes-per-char string
+string-ref str k
+string-set! str k chr
+substring str start [end]
+substring/read-only str start [end]
+substring/copy str start [end]
+substring/shared str start [end]
+string-append .  args
+string-normalize-nfc string
+string-normalize-nfd string
+string-normalize-nfkc string
+string-normalize-nfkd string
+string=? [s1 [s2 .  rest]]
+string-ci=? [s1 [s2 .  rest]]
+string<? [s1 [s2 .  rest]]
+string<=? [s1 [s2 .  rest]]
+string>? [s1 [s2 .  rest]]
+string>=? [s1 [s2 .  rest]]
+string-ci<? [s1 [s2 .  rest]]
+string-ci<=? [s1 [s2 .  rest]]
+string-ci>? [s1 [s2 .  rest]]
+string-ci>=? [s1 [s2 .  rest]]
+object->string obj [printer]
+call-with-output-string proc
+call-with-input-string string proc
+open-input-string str
+open-output-string
+get-output-string port
+eval-string string [module]
+make-struct-layout fields
+struct? x
+struct-vtable? x
+make-struct vtable tail_array_size .  init
+make-vtable fields [printer]
+struct-ref handle pos
+struct-set! handle pos val
+struct-vtable handle
+struct-vtable-name vtable
+set-struct-vtable-name! vtable name
+symbol? obj
+symbol-interned? symbol
+make-symbol name
+symbol->string s
+string->symbol string
+string-ci->symbol str
+gensym [prefix]
+symbol-hash symbol
+symbol-fref s
+symbol-pref s
+symbol-fset! s val
+symbol-pset! s val
+call-with-new-thread thunk [handler]
+yield
+cancel-thread thread
+set-thread-cleanup! thread proc
+thread-cleanup thread
+join-thread thread [timeout [timeoutval]]
+thread? obj
+make-mutex .  flags
+make-recursive-mutex
+lock-mutex m [timeout [owner]]
+try-mutex mutex
+unlock-mutex mx [cond [timeout]]
+mutex? obj
+mutex-owner mx
+mutex-level mx
+mutex-locked? mx
+make-condition-variable
+wait-condition-variable cv mx [t]
+signal-condition-variable cv
+broadcast-condition-variable cv
+condition-variable? obj
+current-thread
+all-threads
+thread-exited? thread
+total-processor-count
+current-processor-count
+copy-tree obj
+uniform-vector? obj
+uniform-vector-element-type v
+uniform-vector-element-size v
+uniform-vector-ref v idx
+uniform-vector-set! v idx val
+uniform-vector->list uvec
+uniform-vector-length v
+values .  args
+make-variable init
+make-undefined-variable
+variable? obj
+variable-ref var
+variable-set! var val
+variable-unset! var
+variable-bound? var
+vector? obj
+list->vector
+vector .  l
+make-vector k [fill]
+vector-copy vec
+vector->list v
+vector-fill! v fill
+vector-move-left! vec1 start1 end1 vec2 start2
+vector-move-right! vec1 start1 end1 vec2 start2
+major-version
+minor-version
+micro-version
+version
+effective-version
+make-soft-port pv modes
+make-weak-vector size [fill]
+list->weak-vector
+weak-vector .  l
+weak-vector? obj
+weak-vector-length wvect
+weak-vector-ref wvect k
+weak-vector-set! wvect k elt
+make-weak-key-alist-vector [size]
+make-weak-value-alist-vector [size]
+make-doubly-weak-alist-vector size
+weak-key-alist-vector? obj
+weak-value-alist-vector? obj
+doubly-weak-alist-vector? obj
+dynamic-link [filename]
+dynamic-object? obj
+dynamic-unlink dobj
+dynamic-pointer name dobj
+dynamic-func name dobj
+dynamic-call func dobj
+pipe
+getgroups
+setgroups group_vec
+getpw [user]
+setpw [arg]
+getgr [name]
+setgr [arg]
+getrlimit resource
+setrlimit resource soft hard
+kill pid sig
+waitpid pid [options]
+status:exit-val status
+status:term-sig status
+status:stop-sig status
+getppid
+getuid
+getgid
+geteuid
+getegid
+setuid id
+setgid id
+seteuid id
+setegid id
+getpgrp
+setpgid pid pgid
+setsid
+getsid pid
+ttyname port
+ctermid
+tcgetpgrp port
+tcsetpgrp port pgid
+execl filename .  args
+execlp filename .  args
+execle filename env .  args
+primitive-fork
+uname
+environ [env]
+tmpnam
+tmpfile
+utime pathname [actime [modtime [actimens [modtimens
+getpid
+putenv str
+setlocale category [locale]
+mknod path type perms dev
+nice incr
+sync
+crypt key salt
+chroot path
+getlogin
+getpriority which who
+setpriority which who prio
+getaffinity pid
+setaffinity pid mask
+getpass prompt
+flock file operation
+sethostname name
+gethostname
+gethost [host]
+getnet [net]
+getproto [protocol]
+getserv [name [protocol]]
+sethost [stayopen]
+setnet [stayopen]
+setproto [stayopen]
+setserv [stayopen]
+getaddrinfo name [service [hint_flags [hint_family
+gai-strerror error
+inet-netof address
+inet-lnaof address
+inet-makeaddr net lna
+inet-ntop family address
+inet-pton family address
+socket family style proto
+socketpair family style proto
+getsockopt sock level optname
+setsockopt sock level optname value
+shutdown sock how
+connect sock fam_or_sockaddr [address .  args]
+bind sock fam_or_sockaddr [address .  args]
+listen sock backlog
+make-socket-address family address .  args
+accept sock
+getsockname sock
+getpeername sock
+recv! sock buf [flags]
+send sock message [flags]
+recvfrom! sock buf [flags [start [end]]]
+sendto sock message fam_or_sockaddr [address .
+regexp? obj
+make-regexp pat .  flags
+regexp-exec rx str [start [flags]]

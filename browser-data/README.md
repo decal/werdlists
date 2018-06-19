@@ -8,6 +8,8 @@
 | [css-prefixes-webkit](css-prefixes-webkit.txt) |  CSS prefixes for the [WebKit](https://webkit.org/ "WebKit") API 
 | [firefox-privacy-addons](firefox-privacy-addons.txt) |  names and URL's to [FireFox addons](https://addons.mozilla.org/en-US/firefox/ "Add-ons for FireFox") that assist with privacy issues 
 | [firefox-security-settings](firefox-security-settings.txt) |  settings to change in `about:config` when hardening [Mozilla FireFox](https://www.mozilla.org/en-US/firefox/) 
+| [mozilla-allowed-protocols](mozilla-allowed-protocols.txt) |  Non-web protocols permitted by Mozilla   
+[ [mozilla-blocked-ports](mozilla-blocked-ports.txt) | The numbers of and default services for ports blocked by default in Mozilla <https://developer.mozilla.org/docs/Mozilla/Mozilla_Port_Blocking>  
 
 * * *
 

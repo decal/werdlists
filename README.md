@@ -45,8 +45,12 @@ tunable feedback loops implemented.  Quite a few of the `werdlists` data files w
 ## <a name="repo"></a>Repository Directory Hierarchy and Structure :nut_and_bolt:
 
 The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
-All scripts use bash syntax.  Some data files were generated with script(s) such as [`manpages-environ`](/decal/werdlists/scripts/manpages-environ).
-Other data files were manually composed by hand.  A handful were created by recycling output strings back into input parameter lists, i.e. [`dirbdirs-feedback`](/decal/werdlists/scripts/dirbdirs-feedback)
+There is a sub-directory of `scripts` called `init` where scripts that generate data files are kept.  If a script filename stored in `init` contains
+two dashes, then it's output should reflect the contents of the associated data file.  For example, compare [`manpages-environ`](/decal/werdlists/scripts/init/manpages-environ) 
+and [`clib-package-names`](/decal/werdlists/scripts/init/clib-package-names).  All scripts were written using bash syntax.
+The [`contrib`](/decal/werdlists/scripts/contrib) folder is for storing scripts contributed via pull request and the [`utils`](/decal/werdlists/scripts/utils) 
+folder contains utilities that aren't necessarily specific to the `werdlists` project, such as scripts for managing any wordlist file.
+Other data files were manually composed by hand and a small handful were created by recycling output strings back into input parameter lists, i.e. [`dirbdirs-feedback`](/decal/werdlists/scripts/init/dirbdirs-feedback)
 The [`tools`](tools) folder lists security tools that the datasets contained in this repository can be provided as input for.
 Individual folders are detailed in the <a href="#contents">Folder Names and Description of Contents</a> section below.
 All files in each dataset directory are detailed in the local `README.md` file for that folder
