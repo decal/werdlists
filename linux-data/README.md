@@ -19,6 +19,7 @@
 | [linux-errno-constants](linux-errno-constants.txt) |  preprocessor constants/messages collection from `errno` 
 | [linux-syscall-names](linux-syscall-names.txt) |  A list of Linux system call identifiers from kernel code 
 | [posix-header-files](posix-header-files.txt) |  a list of POSIX conformant header files <http://pubs.opengroup.org/onlinepubs/9699919799/idx/head.html> 
+| [shared-library-names](shared-library-names.txt) | a list of shared library names taken from `ldconfig -v`
 | [system-calls-32bit](system-calls-32bit.txt) |  x86 ABI functions listed by trinity Linux syscall fuzzer 
 | [system-calls-64bit](system-calls-64bit.txt) |  x86_64 ABI functions listed by trinity Linux syscall fuzzer 
 | [system-calls-wsl](system-calls-wsl.txt) |  Windows Subsystem for Linux syscalls from MSDN Release notes 
