@@ -17,6 +17,7 @@
 | [infosec-glossary-terms](infosec-glossary-terms.txt) |  glossary of information security terminology copied from RFC4949: <https://tools.ietf.org/html/rfc4949> 
 | [jargon-common-words](jargon-common-words.txt) |  common information technology jargon words 
 | [jargon-common-bases](jargon-common-bases.txt) |  common base words in information technology jargon 
+| [keyword-ideas-generator](keyword-ideas-generator.txt) | list constructed from the words shown by [keywordideasgenerator.com](https://www.keywordideasgenerator.com)  
 | [last-names-list](last-names-list.txt) |  list of last names often used by people in the Americas 
 | [linux-words-dict](linux-words-dict.txt) |  words taken from `/usr/share/dict/words` on Linux install 
 | [longest-english-words](longest-english-words.txt) |  alphabetized list of English words that are longer than twenty letters 
@@ -28,6 +29,12 @@
 | [one-hundred-thousand](one-hundred-thousand.txt) |  the numbers 1-97935 with one on each line 
 | [reliable-passgen-wordlist](reliable-passgen-wordlist.txt) |  `wordlist.txt` from [BURP](https://github.com/jwmarshall/BURP "Beaituful Unique Reliable Password generator") 
 | [rogets-thesaurus-ebook](rogets-thesaurus-ebook.txt.xz) |  Roget's Thesaurus EBook from [Project Gutenberg](https://www.gutenberg.org) 
+| [sdbf-count-1edit](sdbf-count-1edit.txt) | single character edits file packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [sdbf-count-1w](sdbf-count-1w.txt.xz) | individual word frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [sdbf-count-2l](sdbf-count-2l.txt) | double letter sequence frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [sdbf-count-2w](sdbf-count-2w.txt.gz) | double word sequence frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [sdbf-count-3l](sdbf-count-3l.txt) | triple letter sequence frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [sdbf-count-big](sdbf-count-big.txt) | big word frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
 | [secureblackbox-client-list](secureblackbox-client-list.txt) |  brief list of corporations with household names <https://www.secureblackbox.com/company/clients.aspx> 
 | [sfbay-companies-list](sfbay-companies-list.txt) |  [List of companies based in the San Francisco Bay Area](https://wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area) 
 | [spike-proxy-allwords](spike-proxy-allwords.txt) |  dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 

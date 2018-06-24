@@ -76,11 +76,12 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [browser-data](browser-data)    | :door: Data related to GUI browser software like [Chrome](https://google.com/chrome/ "Chrome Web Browser"), [FireFox](https://www.mozilla.org/en-US/firefox/new/ "Download FireFox"), etc.  
 | [cert-data](cert-data)       | :scroll: Information commonly utilized by cryptographic certificate materials  
 | [char-encodes](char-encodes)    | :ideograph_advantage: Various [character encodings](https://w3.org/International/articles/definitions-characters/ "Character encodings: Essential concepts") provided by different [locales](https://wikipedia.org/wiki/Locale_(computer_software) "Locale (computer software)")/[charsets](https://w3.org/International/articles/http-charset/index "Setting the HTTP charset parameter")  
+| [char-sequence](char-sequence) | :black_nib: various character sequences modeled after [ctype.h](https://wikibooks.org/wiki/C_Programming/ctype.h "character types header in the ANSI C standard library")  
 | [chat-data](chat-data)       | :open_mouth: Additional data on [IRC](https://wikipedia.org/wiki/Internet_Relay_Chat), [XMPP](https://wikipedia.org/wiki/XMPP) and other such messaging protocols  
 | [cipher-data](cipher-data)     | :blowfish: Data denoting or used by [cryptographic algorithm](https://wikipedia.org/wiki/Category:Cryptographic_algorithms) implementations  
 | [cmd-usage](cmd-usage)       | :hammer: Help text shown in a terminal when attempting to execute [CLI](https://wikipedia.org/wiki/Command-line_interface "Command-line interface") programs  
 | [cms-errors](cms-errors)      | :exclamation: Error codes and/or messages rendered by a [CMS](https://wikipedia.org/wiki/Content_management_system "Content Management System")  
-| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers ([reserved words](https://wikipedia.org/wiki/Reserved_word)) from defining standards 
+| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers, [reserved words](https://wikipedia.org/wiki/Reserved_word) and other syntax from defining standards 
 | [cpu-arch](cpu-arch)        | :factory: Low-level computer architecture and hardware subjects  
 | [crypt-output](crypt-output)    | :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://wikipedia.org/wiki/Cryptographic_hash_function)  
 | [database-strs](database-strs)   | :floppy_disk: Strings often encountered when working with [database](https://wikipedia.org/wiki/Database) software  

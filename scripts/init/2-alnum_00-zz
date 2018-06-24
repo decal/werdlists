@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+perl -wle 'my@arr=(q<0>,q<1>,q<2>,q<3>,q<4>,q<5>,q<6>,q<7>,q<8>,q<9>,q<a>,q<b>,q<c>,q<d>,q<e>,q<f>,q<g>,q<h>,q<i>,q<j>,q<k>,q<l>,q<m>,q<n>,q<o>,q<p>,q<q>,q<r>,q<s>,q<t>,q<u>,q<v>,q<w>,q<x>,q<y>,q<z>);for my$i (0 .. $#arr){for my$j (0.. $#arr){print $arr[$i].$arr[$j]}}'
+
+exit 0

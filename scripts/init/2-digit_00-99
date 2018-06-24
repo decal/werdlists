@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+perl -wle 'for my$w (q{0} .. q{9}){for my$x (q{0} .. q{9}){print STDOUT "${w}${x}"}}' 
+
+exit 0

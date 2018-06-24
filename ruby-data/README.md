@@ -7,6 +7,7 @@
 | [rubygems-dash-version](rubygems-dash-version.txt.xz) |  Output listing of raw [Rubygems](https://rubygems.org) command `gem search ''` 
 | [rubygems-names-only](rubygems-names-only.txt.xz) |  list of [Ruby](https://www.ruby-lang.org) gems--names only and nothing else.. 
 | [rubygems-name-version](rubygems-name-version.txt.xz) |  List of [Rubygems](https://rubygems.org) with name and version delimited by dash 
+| [rubylang-pubftp-index](rubylang-pubftp-index.txt) | Index file from the public FTP service on `ruby-lang.org` with Ruby version strings, URL's and SHA hashes <https://cache.ruby-lang.org/pub/ruby/index.txt> 
 | [undocumented-ruby-libraries](undocumented-ruby-libraries.txt) |  `undocumented_lib.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 
 | [undocumented-ruby-core](undocumented-ruby-core.txt) |  `undocumented_core.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 
 | [undocumented-ruby-extensions](undocumented-ruby-extensions.txt) |  `undocumented_ext.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 
