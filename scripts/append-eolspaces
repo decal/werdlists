@@ -33,7 +33,7 @@ cp -v -- "$1" /tmp 2>&1
 
 echo -e "${reset}"
 
-declare achar="$(echo '$1' | sed -r 's!([A-Z]{1}).*$!\1!g')"
+declare achar="$(echo '$1' | sed -E 's!([A-Z]{1}).*$!\1!g')"
 declare afile="${achar}.md"
 
 (while read line

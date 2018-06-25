@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+perl -wle 'for my$x (q{0} .. q{9}){for my$c (q{a} .. q{z}){for my$y (q{0} .. q{9}){print STDOUT "${x}${c}${y}"}}}'
+
+exit 0

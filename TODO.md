@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* fill in `scripts/init/README.md`
+
 * create a `README.md` for the contrib folder that details pull requests, i.e. `CONTRIBUTING.md`
 
 * create `dirbdirs-feedback` script (see `README.md`)

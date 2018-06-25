@@ -8,7 +8,7 @@
 | co-domain-records          | Resource records for the [.co TLD](https://wikipedia.org/wiki/.co) zone's DNSSEC signatures  
 | com-domain-names           | list of various commercial domain names in the com [TLD](https://wikipedia.org/wiki/Top-level_domain "Top-level domain")  
 | comdotbr-domain-names      | list of various commercial domain names in the [.br ccTLD](https://wikipedia.org/wiki/.br)  
-| disposable-email-domains   | [Disposable email address](https://wikipedia.org/wiki/Disposable_email_address) domains list
+| disposable-email-domains   | [Disposable email address](https://wikipedia.org/wiki/Disposable_email_address) domains list  
 | domain-prices-top1k        | Top one thousand most expensive domain names  
 | dshield-suspicious-domains | low and medium level sensitivity suspicious domains from `dshield.org`  
 | edu-domain-names           | various educational DNS domain names  
