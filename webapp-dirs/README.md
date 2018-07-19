@@ -1,6 +1,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apache-user-dirs](apache-user-dirs.txt) |  URL paths that reference Apache `mod_userdir` locations 
+| [big-directory-list](big-directory-list.txt) | `Bigdirectorylist.txt` from [BruteDirBuster](https://github.com/jhayes14/BruteDirBuster)
 | [common-dirnames-list](common-dirnames-list.txt) |  list of very common directory names found on web servers 
 | [javascript-dirnames-list](javascript-dirnames-list.txt) |  list of JavaScript related directories found in PWA's 
 | [long-dirnames-list](long-dirnames-list.txt) |  a list of directory names longer than web-dirnames-list 

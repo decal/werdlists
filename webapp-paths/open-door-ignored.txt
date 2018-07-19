@@ -1,0 +1,16 @@
+403.html
+403.php
+403.html
+403.asp
+404.html
+404.php
+404.html
+404.asp
+404/
+goto.php
+goto/
+error.php
+index.php
+notfound.php
+notfound.html
+notfound/

@@ -18,6 +18,9 @@
 | dnssearch-hosts-list       | hosts list packaged with the *dnssearch* utility  
 | dod-hosts-table            | Old School [DoD](https://www.defense.gov/ "U.S. Department of Defense") Internet Host Table (not in `/etc/hosts` format)  
 | expanded-intranet-hosts    | additional hosts generated from `common-intranet-hosts`  
+| fierce-lists-20000         | `20000.txt` from [fierce](https://github.com/mschwager/fierce "Fierce is a `DNS` reconnaissance tool for locating non-contiguous IP space.") repository's lists folder  
+| fierce-lists-5000          | `5000.txt` from fierce repository's lists folder  
+| fierce-lists-default       | `default.txt` from fierce repository's lists folder  
 | fierce-scanner-hosts       | `hosts.txt` file packaged with *fierce* DNS scanner  
 | host-names-large           | the largest list of host names in this folder  
 | host-names-medium          | a medium-sized list of host names only  
@@ -37,6 +40,7 @@
 | more-intranet-hosts        | `common-intranet-hosts` with numeric digits appended  
 | mvps-hosts-file            | hosts file downloaded from [MSFT MVP's site](http://mvps.org)  
 | nmap-vhosts-all            | virtual host names from nmap's `vhosts-full.lst` and `vhosts-default.lst`  
+| open-door-subdomains       | `subdomains.dat` file from [OpenDoor](https://github.com/stanislav-web/OpenDoor "OWASP WEB Directory Scanner")
 | pglyoyo-adservers-hostlist | <https://pgl.yoyo.org/adservers/serverlist.php>  
 | siph0n-subdomains-list     | subdomain name list from [~~siph0n~~](http://siph0n.net)  
 | someonewhocares-zero-hosts | [zero hosts file](http://someonewhocares.org/hosts/zero/) matching host names to [0.0.0.0](https://wikipedia.org/wiki/0.0.0.0)  

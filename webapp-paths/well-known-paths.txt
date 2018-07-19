@@ -19,6 +19,7 @@ HTTPS
 keybase.txt
 mud
 ni
+oauth-authorization-server
 openid-configuration
 openorg
 pki-validation

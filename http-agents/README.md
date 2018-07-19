@@ -7,6 +7,7 @@
 | [firefox-user-agents](firefox-user-agents.txt) |  [Mozilla FireFox](https://mozilla.org/firefox) user agent strings 
 | [http-user-agents](http-user-agents.txt) |  user agent values from various browsers and other HTTP clients 
 | [msie-user-agents](msie-user-agents.txt) |  [Microsoft Internet Explorer](https://windows.microsoft.com/internet-explorer) user agent strings 
+| [open-door-useragents](open-door-useragents.txt) | `useragents.dat` file from [OpenDoor](https://github.com/stanislav-web/OpenDoor "OWASP WEB Directory Scanner")
 | [robots-user-agents](robots-user-agents.txt) |  User agent list taken from [Robots Database](http://robotstxt.org/db.html "The Web Robots Pages") 
 | [safari-user-agents](safari-user-agents.txt) |  [Apple Safari](https://apple.com/safari) user agent strings 
 | [user-agents-objects](user-agents-objects.js) |  <https://github.com/lancedikson/bowser/blob/master/src/useragents.js> 

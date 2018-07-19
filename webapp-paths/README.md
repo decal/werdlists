@@ -32,6 +32,8 @@
 | [login-path-names](login-path-names.txt) |  pathnames that could reference login pages on a web server 
 | [magento-path-names](magento-path-names.txt) |  file names often found under Magento's directory hierarchy 
 | [nmap-rtsp-urls](nmap-rtsp-urls.txt) |  taken from nmap's `nselib/data/rtsp-urls.txt` 
+| [open-door-directories](open-door-directories.txt) | `directories.dat` file from [Open Door](https://github.com/stanislav-web/OpenDoor "OWASP WEB Directory Scanner")
+| [open-door-ignored](open-door-ignored.txt) | `ignored.dat` file from [Open Door](https://github.com/stanislav-web/OpenDoor "OWASP WEB Directory Scanner")
 | [oracle-business-intelligence](oracle-business-intelligence.txt) |  paths taken from _Oracle Business Intelligence_ docs 
 | [oracle-path-names](oracle-path-names.txt) |  pathnames usually served by _Oracle Application Server_ 
 | [oracle-robots-text](oracle-robots-text.txt) |  the `robots.txt` file containing documentation pathnames served at <http://www.oracle.com/robots.txt> 
