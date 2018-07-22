@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+*  [OpenRefine](https://github.com/OpenRefine)
+
 * fill in `scripts/init/README.md`
 
 * create a `README.md` for the contrib folder that details pull requests, i.e. `CONTRIBUTING.md`

@@ -9,6 +9,7 @@
 | [services-word-names](services-word-names.txt) |  list of service names potentially found in a web app 
 | [skipfish-word-names](skipfish-word-names.txt) |  words to form files with extensions from [skipfish](https://code.google.com/archive/p/skipfish/ "Skipfish is an active web application security reconnaissance tool") scanner 
 | [splunk-public-terms](splunk-public-terms.txt) |  words related to server and browser side web technologies.. the `etc/anonymizer/public-terms.txt` file from a [Splunk](https://www.splunk.com/) install 
+| [topics-by-domain](topics-by-domain.txt) | most popular web topics according to number of domain names via: <http://leandomainsearch.s3.amazonaws.com/topics_by_domain_count.txt>  
 | [various-common-words](various-common-words.txt) |  words that are commonly used to name files in web apps 
 | [webapp-words-combined](webapp-words-combined.txt) |  words from all of the above files uniquely combined 
 | [wordpress-plugins-list](wordpress-plugins-list.txt.xz) |  [WordPress plugins](https://wordpress.org/plugins/ "WordPress Plugins") combined sources from [NMap](https://nmap.org), [wp-plugin-checker](https://github.com/r0oth3x49/wp-plugin-checker), [dirs3arch](https://github.com/puniaze/dirs3arch), [Wordpress-scanner](https://github.com/RamadhanAmizudin/Wordpress-scanner/blob/master/base/data/list-plugins.txt), [WP-plugin-scanner](https://github.com/mintobit/WP-plugin-scanner/blob/master/plugins.txt), etc. 
@@ -16,4 +17,5 @@
 | [wordpress-timthumbs-paths](wordpress-timthumbs-paths.txt) |  template strings for paths to [WordPress](https://wordpress.org/) files 
 
 * * *
+
 

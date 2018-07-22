@@ -1,6 +1,7 @@
 User-Cache-Control
 UXTIME
 X-Accepted-OAuth-Scopes
+X-Age
 X-ATG-Version
 User-Pragma
 Dispatcher
@@ -34,9 +35,11 @@ X-Backend-Server
 X-Backoff
 X-BEServer
 X-Cache
+X-Cache-Group
 X-Cache-Hits
 X-Cache-Info
 X-Cache-Time
+X-Cacheable
 X-CalculatedFETarget
 X-Check-Cacheable
 X-Checksum-Md5
@@ -54,6 +57,7 @@ X-DiagInfo
 X-DIS-Request-ID
 X-Download-Options
 X-Drupal-Cache
+X-Drupal-Dynamic-Cache
 X-DuckDuckGo-Locale
 x-dw-request-base-id
 X-dynaTrace
@@ -67,6 +71,7 @@ X-FB-Trace-ID
 X-FEServer
 X-Firefox-Spdy
 X-Frame-Options
+X-Garden-Version
 X-Generated-By
 X-Generator
 X-GENIUS-HOST
@@ -91,6 +96,7 @@ X-ORACLE-DMS-RID
 X-OWA-Diagnostics-Info
 X-OWA-Error
 X-OWA-Version
+X-Pass-Why
 X-Permitted-Cross-Domain-Policies
 X-Pingback
 X-Pinterest-RID
@@ -140,6 +146,7 @@ X-WebKit-CSP
 X-WebCluster
 X-WebInstance
 X-WebServer
+X-WPE-Loopback-Upstream-Addr
 X-WSSecurity-Enabled
 X-WSSecurity-For
 X-XSS-Protection

@@ -26,10 +26,12 @@
 | [security-roadmap-taxonomy](security-roadmap-taxonomy.md) |  <https://itu.int/en/ITU-T/studygroups/2013-2016/17/ict/Pages/ict-part02.aspx> 
 | [sms2email-mailer-records](sms2email-mailer-records.txt) |  Cellular carriers' SMTP gateways for SMS messages 
 | [sms-spam-collection](sms-spam-collection.txt) |  various unsolicited commercial SMS messages in the UK 
+| [smtp2sms-email-addresses](smtp2sms-email-addresses.txt) | List of e-mail domains that act as SMTP gateways for SMS via: <http://www.tech-faq.com/how-to-send-text-messages-free.shtml>  
 | [star-codes-list](star-codes-list.txt) |  like `vertical-service-codedefs` entry below, but with more codes listed and briefer descriptions 
 | [telephony-acronyms-abbrevs](telephony-acronyms-abbrevs.txt) |  Telephony Acronyms and Abbreviations List From Hell 
 | [vertical-service-codedefs](vertical-service-codedefs.txt) |  [NANPA](https://www.nationalnanpa.com "North American Numbering Plan Association") vertical service code definitions 
 | [xfinity-voice-features](xfinity-voice-features.txt) |  [XFinity](https://my.xfinity.com/ "XFinity by Comcast") Voice Features, CLASS Services, [Star Codes](https://wikipedia.org/wiki/Vertical_service_code), etc. 
 
 * * *
+
 

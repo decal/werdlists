@@ -63,6 +63,7 @@ Injection-Date
 Injection-Info
 In-Reply-To
 Keywords
+Last-Event-Id
 Last-Modified
 Location
 Lock-Token

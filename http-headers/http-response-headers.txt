@@ -64,6 +64,7 @@ return-client-request-id
 Server
 Server-Timing
 Set-Cookie
+Source-Age
 SourceMap
 SS_FRIENDLY_EXT
 Status
