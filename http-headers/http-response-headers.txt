@@ -8,8 +8,8 @@ Access-Control-Max-Age
 Actual-Object-TTL
 Age
 Allow
-Alternate-Protocol
 Alt-Svc
+Alternate-Protocol
 Authentication-Info
 Backoff
 BK-Server
@@ -43,9 +43,9 @@ Link
 Location
 MDT-Type
 MI
-MS-Author-Via
 MS-ASProtocolCommands
 MS-ASProtocolVersions
+MS-Author-Via
 MS-Server-ActiveSync
 OData-MaxVersion
 OData-Version

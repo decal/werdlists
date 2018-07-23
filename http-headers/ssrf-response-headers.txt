@@ -1,7 +1,9 @@
+Proxied-By
+Served-By
 Server
 X-Backend-Server
-X-Proxied
-X-Server
-X-Served-By
-X-VServer
 X-MS-Server-Fqdn
+X-Proxied
+X-Served-By
+X-Server
+X-VServer

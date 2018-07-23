@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+#
+# Sort files containing line-based protocol (i.e. HTTP, SMTP, etc.) headers 
+# (case-insensitively) while skipping files not containing one header name
+# on each line.
+#
+# Written by:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last modified: Mon Jul 23 03:11:47 PDT 2018
+# Tested on:     macOS High Sierra
+#
+
+for f in $*
+  do #
+  declare -i first_len=$(head -n 1 $f | wc -c)
+  declare -i first_col_len=$(head -n 1 $f | awk '{print$1}' | wc -c)
+  declare -i last_len=$(tail -n 1 $f | wc -c)
+  declare -i last_col_len=$(tail -n 1 $f | awk '{print$1}' | wc -c)
+
+  ([ $first_len -ne $first_col_len ] || [ $last_len -ne $last_col_len ]) && echo "*** Skipping ${f}!" && continue
+
+  sort -uf $f > $f.tmp
+  mv -v $f.tmp $f
+done
+
+exit 0

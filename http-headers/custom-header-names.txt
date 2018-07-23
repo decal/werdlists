@@ -6,9 +6,8 @@ X-AspNet-Version
 X-ATG-Version
 X-Backend-Server
 X-cache
-X-Cache
-X-Cached
 X-Cache-Hits
+X-Cached
 X-Cloud-Trace-Context
 X-Confluence-Request-Time
 X-Content-Security-Policy
@@ -18,13 +17,12 @@ X-Conversion-Value
 X-Delivered-By
 X-Distil-Ajax
 X-dynaTrace-JS-Agent
+X-Edge-Location
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
-X-Edge-Location
 X-FB-Debug
 X-Forwarded-For
 X-Frame-Options
-X-FRAME-OPTIONS
 X-HTTP-Method-Override
 X-HubSpot-Messages-Uri
 X-Is-Using-CloudFront
@@ -39,11 +37,10 @@ X-Proxy-Origin
 X-Rack-Cache
 X-Rate-Limit
 X-Rate-Limit-Remaining
+X-Request-Id
+X-Request-Time
 X-Requested-By
 X-Requested-With
-X-Request-Id
-X-Request-ID
-X-Request-Time
 X-Result
 X-Robots-Tag
 X-RPHost
@@ -72,7 +69,6 @@ X-WebInstance
 X-WebKit-CSP
 X-WebServer
 X-Xss-Protection
-X-XSS-Protection
 X-Zendesk-API-Version
 X-Zendesk-Application-Version
 X-Zendesk-Origin-Server

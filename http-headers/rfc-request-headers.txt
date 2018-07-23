@@ -4,13 +4,13 @@ Accept-Encoding
 Accept-Language
 Accept-Push-Policy
 Accept-Ranges
+Access-Control-Allow-Credentials
+Access-Control-Allow-Origin
+Access-Control-Expose-Headers
 Age
 Allow
 Alt-Link
 Alt-Used
-Access-Control-Allow-Origin
-Access-Control-Allow-Credentials
-Access-Control-Expose-Headers
 Approved
 Archive
 Archived-At
@@ -58,9 +58,9 @@ If-None-Match
 If-Range
 If-Schedule-Tag-Match
 If-Unmodified-Since
+In-Reply-To
 Injection-Date
 Injection-Info
-In-Reply-To
 Keywords
 Last-Modified
 Location

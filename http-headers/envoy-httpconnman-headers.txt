@@ -1,5 +1,10 @@
-user-agent
 server
+user-agent
+x-b3-flags
+x-b3-parentspanid
+x-b3-sampled
+x-b3-spanid
+x-b3-traceid
 x-client-trace-id
 x-envoy-downstream-service-cluster
 x-envoy-downstream-service-node
@@ -10,10 +15,5 @@ x-envoy-ip-tags
 x-forwarded-client-cert
 x-forwarded-for
 x-forwarded-proto
-x-request-id
 x-ot-span-context
-x-b3-traceid
-x-b3-spanid
-x-b3-parentspanid
-x-b3-sampled
-x-b3-flags
+x-request-id

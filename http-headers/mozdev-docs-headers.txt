@@ -27,8 +27,8 @@ Content-Security-Policy-Report-Only
 Content-Type
 Cookie
 Cookie2
-DNT
 Date
+DNT
 ETag
 Expect
 Expires
@@ -67,8 +67,8 @@ Upgrade-Insecure-Requests
 User-Agent
 Vary
 Via
-WWW-Authenticate
 Warning
+WWW-Authenticate
 X-Content-Type-Options
 X-DNS-Prefetch-Control
 X-Forwarded-For
