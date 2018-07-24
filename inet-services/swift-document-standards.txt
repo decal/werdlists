@@ -1,0 +1,82 @@
+# Customer Payments & Checks
+101	Request for Transfer
+102 / 102+	Multiple Customer Credit Transfer
+103 / 103+ / 103 REMIT	Single Customer Credit Transfer
+104	Direct Debit and Request for Debit Transfer Message
+105	EDIFACT Envelope
+106	EDIFACT Envelope
+107	General Direct Message
+110	Advice of Check(s)
+111	Request for Stop Payment of a Check
+112	Status of a Request for Stop Payment of a Check
+121	Multiple Interbank Funds Transfer
+ 
+# Treasury Markets–Foreign Exchange, Money Markets & Derivatives
+300	Foreign Exchange Confirmation
+303	Forex/Currency Option Allocation Instruction
+304	Advice/Instruction of a 3rd Party Deal
+305	Foreign Currency Option Confirmation
+306	Foreign Currency Option Confirmation
+307	Advice/Instruction of a 3rd Party FX Deal
+308	Instruction for a Gross/Net Settlement of 3rd Party FX deals
+320	Fixed Loan/Deposit Confirmation
+321	Instruction to Settle a 3rd Party Loan /Deposit
+330	Call/Notice (Loan/Deposit Confirmation)
+340	Forward Rate Agreement Confirmation
+341	Forward Rate Agreement Settlement Confirmation
+350	Advice of Loan/Deposit Interest Payment
+360	Single Currency Interest Rate Derivative Confirmation
+361	Cross Currency Interest Rate Swap Confirmation
+362	Interest Rate Reset/Advice of Payment
+364	Single Currency Interest Rate Derivative Confirmation
+365	Cross Currency Interest Rate Swap Termination/Recouponing Confirmation
+380	Foreign Exchange Order
+381	Foreign Exchange Order Confirmation
+ 
+# Documentary Credits & Guarantees
+700	Issue of Documentary Credit
+701	Issue of Documentary Credit
+705	Pre-Advice of a Documentary Credit
+707	Amendment to a Documentary Credit
+710	Advice of a 3rd Bank’s Documentary Credit
+711	Advice of a 3rd Bank’s Documentary Credit
+720	Transfer of a Documentary Credit
+721	Transfer of a Documentary Credit
+730	Acknowledgement
+732	Advice of Discharge
+734	Advice of Refusal
+740	Authorization to Reimburse
+742	Reimbursement Claim
+747	Amendment to an Authorization to Reimburse
+750	Advice of Discrepancy
+752	Authorization to Pay, Accept or Negotiate
+754	Advice of Payment/Acceptance/Negotiations
+756	Advice of Reimbursement or Payment
+760	Guarantee/Standby LC
+767	Guarantee/ Standby LC Amendment
+768	Acknowledgement of a Guarantee/ Standby LC Message
+769	Advice of Reduction or Release
+ 
+# Cash Management & Customer Status
+900	Confirmation of Debit
+910	Confirmation of Credit
+920	Request Message
+935	Rate Change Advice
+940	Customer Statement Message
+941	Balance Report
+942	Interim Transaction Report
+950	Statement Message
+960	Request for Service Initiation Message
+961	Initiation Response Message
+962	Key Service Message
+963	Key Acknowledgement Message
+964	Error Message
+965	Error in Key Service Message
+966	Discontinue Service Message
+967	Discontinuation Acknowledgement Message
+970	Netting Statement
+971	Netting Balance Report
+972	Netting Interim Statement
+973	Netting Request Statement
+985	Status Enquiry
+986	Status Report

@@ -64,6 +64,7 @@ X-dynaTrace
 X-dynaTrace-JS-Agent
 X-EdgeConnect-MidMile-RTT
 X-EdgeConnect-Origin-MEX-Latency
+X-Edge-Location
 X-Fastly-Request-ID
 X-FB-Debug
 x-fb-rev

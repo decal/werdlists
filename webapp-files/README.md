@@ -7,6 +7,7 @@
 | [cms-backup-files](cms-backup-files.txt) |  file names typically used by Content Management Systems 
 | [githubrepos-mostused-filenames](githubrepos-mostused-filenames.txt) |  most used filenames in GitHub repositories 
 | [java-source-files](java-source-files.txt) |  files likely to appear in a Java development environment 
+| [javaee-github-filenames](javaee-github-filenames.txt) | file names extracted from repositories on the [javaee GitHub](https://github.com/javaee "Java Enterprise Edition") account
 | [misc-common-names](misc-common-names.txt) |  miscellaneous file names commonly used for web apps 
 | [mobile-app-files](mobile-app-files.txt) |  files found in the web root folder of a mobile application 
 | [pencilblue-file-names](pencilblue-file-names.txt) |  file names found in the pencilblue code repository 
