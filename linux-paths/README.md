@@ -5,6 +5,7 @@
 | [daemon-group-dirs](daemon-group-dirs.txt) |  directories with ownership by the daemon group 
 | [daemon-group-files](daemon-group-files.txt) |  files with ownership by the daemon group 
 | [hier-path-dirs](hier-path-dirs.txt) |  directories taken from the Linux `hier(7)` manual page 
+| [libc-library-files](libc-library-files.txt) | `files.txt` from [libc-binary-collection](https://github.com/molnarg/libc-binary-collection "A collection of more than 1000 binary libc files")
 | [mail-group-dirs](mail-group-dirs.txt) |  directories with ownership by the mail group 
 | [mail-group-files](mail-group-files.txt) |  files with ownership by the mail group 
 | [mail-user-dirs](mail-user-dirs.txt) |  directories with ownership by the `mail` user 

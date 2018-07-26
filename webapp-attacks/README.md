@@ -4,6 +4,7 @@
 | [dom-xss-points](dom-xss-points.txt) | points in the DOM where XSS attacks are likely to take place
 | [gnucitizen-attackapi-payloads](gnucitizen-attackapi-payloads.txt) |  [gnucitizen.org AttackAPI](http://www.gnucitizen.org/blog/attackapi/ "ATTACKAPI") payloads from <http://xssor.io/s/payload/attackapi.txt> 
 | [html-png-polyglot](html-png-polyglot.html) |  Another file with HTML/CSS/JS code that's also a PNG 
+| [html5sec-attack-vectors](html5sec-attack-vectors.txt) | `vectors.txt` file from the [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) GitHub repository
 | [joomla-components-targeted](joomla-components-targeted.txt) |  list of [Joomla](https://www.joomla.com) components vulnerable to [LFI](https://wikipedia.org/wiki/File_inclusion_vulnerability "File inclusion vulnerability") targeted on a honeypot from <http://tacticalwebappsec.blogspot.com/2011/11/mass-joomla-component-lfi-attacks.html> 
 | [mongodb-nosql-injection](mongodb-nosql-injection.txt) |  [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists) 
 | [png-html-polyglot](png-html-polyglot.html) |  a PNG image file also containing HTML, CSS and JavaScript 
