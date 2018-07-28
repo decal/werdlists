@@ -13,6 +13,7 @@
 | [incapsula-cidr-blocks](incapsula-cidr-blocks.txt) |  IPv4 and IPv6 [CIDR blocks](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_blocks) occupied by the **Incapsula** WAF 
 | [malc0de-ip-blacklist](malc0de-ip-blacklist.txt) |  malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses") 
 | [malware-domain-ips](malware-domain-ips.txt) |  IP addresses from [Malware Domain List](https://www.malwaredomainlist.com) 
+| [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository
 | [moby-ipv6-list](moby-ipv6-list.txt) |  common hex strings seen in [IPv6 addressing](https://www.ipv6.com/general/ipv6-addressing) taken from *Moby* 
 | [nmap-multicast-groups](nmap-multicast-groups.txt) |  taken from nmap's `nselib/data/mgroupnames.db` 
 | [org-unit-ident](org-unit-ident.txt.xz) |  Organizational Unit Identifiers from the [IEEE](https://ieee.org) 

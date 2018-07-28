@@ -29,6 +29,8 @@
 | [smtp2sms-email-addresses](smtp2sms-email-addresses.txt) | List of e-mail domains that act as SMTP gateways for SMS via: <http://www.tech-faq.com/how-to-send-text-messages-free.shtml>  
 | [star-codes-list](star-codes-list.txt) |  like `vertical-service-codedefs` entry below, but with more codes listed and briefer descriptions 
 | [telephony-acronyms-abbrevs](telephony-acronyms-abbrevs.txt) |  Telephony Acronyms and Abbreviations List From Hell 
+| [timezones-map-data](timezones-map-data.txt) | `map_data.txt` from the `resources/tests/timezone` folder of the *googlei18n* GitHub account's [libphonenumber](https://github.com/googlei18n/libphonenumber) repository
+| [unitedstates-english-geocoding](unitedstates-english-geocoding.txt) | `1.txt` from the `resources/tests/geocoding/en` folder of the *googlei18n* GitHub account's [libphonenumber](https://github.com/googlei18n/phonenumber) repository
 | [vertical-service-codedefs](vertical-service-codedefs.txt) |  [NANPA](https://www.nationalnanpa.com "North American Numbering Plan Association") vertical service code definitions 
 | [xfinity-voice-features](xfinity-voice-features.txt) |  [XFinity](https://my.xfinity.com/ "XFinity by Comcast") Voice Features, CLASS Services, [Star Codes](https://wikipedia.org/wiki/Vertical_service_code), etc. 
 
