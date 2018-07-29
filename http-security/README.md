@@ -16,6 +16,7 @@
 | [dirsearch-words-list](dirsearch-words-list.txt) |  words parsed from the [Go implementation of dirsearch](https://github.com/evilsocket/dirsearch) tool's `dict.txt` file <https://github.com/evilsocket/dirsearch/blob/master/dict.txt> 
 | [example-uri-refs](example-uri-refs.txt) |  Example URI's from the [RFC3986](https://tools.ietf.org/html/rfc3986 "Uniform Resource Identifier (URI): Generic Syntax") URI specification issues list 
 | [mozilla-cacerts-list](mozilla-cacerts-list.csv) |  Info and PEM's on Certificate Authorities used by Mozilla 
+| [ocsp-urls-list](ocsp-urls-list.txt) | list of [OCSP](https://wikipedia.org/wiki/Online_Certificate_Status_Protocol) URL's
 | [onion-links-list](onion-links-list.txt) |  List of [.onion](https://wikipedia.org/wiki/.onion) sites verified in 2017 left on `pastebin.com` 
 | [proc-model-defs](proc-model-defs.txt) |  [https://html.spec.whatwg.org/multipage/webappapis.html#definitions-2]("") 
 | [rails-secret-tokens](rails-secret-tokens.txt) |  [Ruby on Rails](http://rubyonrails.org) secret authorization token string values 
