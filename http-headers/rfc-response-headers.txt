@@ -24,6 +24,7 @@ Include-Referred-Token-Binding-ID
 Last-Modified
 Link
 Location
+Memento-DateTime
 P3P
 Pragma
 Proxy-Authenticate

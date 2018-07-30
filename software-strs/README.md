@@ -1,6 +1,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
+| [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`
 | [code-project-list](code-project-list.txt) |  popular code projects, well-known dependencies, API's, etc. 
 | [freebsd-dns-tools](freebsd-dns-tools.txt) |  a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns> 
 | [freeos-opersys-list](freeos-opersys-list.txt) |  comparison of free operating systems by freeos.com <http://www.freeos.com/Compare> 
@@ -19,6 +20,7 @@
 | [libressl-function-symbols](libressl-function-symbols.txt) |  symbols for SSL functions from `libressl-portable` 
 | [linux-distribution-list](linux-distribution-list.txt) | list of Linux distribution names taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm> 
 | [luarocks-module-names](luarocks-module-names.txt) | module names listed with an empty string search using [LuaRocks](https://luarocks.org), i.e. `luarocks search ''`
+| [lynis-tests-database](lynis-tests-database.txt) | `tests.db` file taken from the [lynis](https://github.com/CISOfy/lynis "Security auditing tool for UNIX-based systems") GitHub repository
 | [macos-homebrew-list](macos-homebrew-list.txt) |  list of [macOS homebrew](https://brew.sh) package names 
 | [macports-titles-list](macports-titles-list.txt) |  [MacPorts](https://www.macports.org) software titles list 
 | [mariadb-variables-list](mariadb-variables-list.txt) |  Full List of MariaDB Options, System and Status Variables <https://mariadb.com/kb/en/library/full-list-of-mariadb-options-system-and-status-variables/> 

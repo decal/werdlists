@@ -3,6 +3,7 @@ Served-By
 Server
 X-Backend-Server
 X-MS-Server-Fqdn
+X-Processed-By
 X-Proxied
 X-Served-By
 X-Server

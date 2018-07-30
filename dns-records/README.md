@@ -3,6 +3,7 @@
 | bind9-rec-types       | [BIND9](http://bind9.net) record types according to `named-rrchecker -T`    
 | bind-chaos-txt        | defined by default `CHAOS` `TXT` records in [ISC](https://www.isc.org/) BIND name daemon    
 | chaos-txt-rdata       | all well-known `CHAOS` `TXT` records including non-BIND names    
+| chaos-txt-extra       | records from `chaos-txt-rdata` along with some additional names and extensions for scanning/enumeration purposes
 | dig-numeric-types     | set arbitrary [dig](https://wikipedia.org/wiki/Dig_(command) ) types with a string representing 16 bits    
 | dig-record-types      | record types for the `IN` (INternet) resource record class    
 | dnsmasq-chaos-txt     | `CHAOS` `TXT` records specific to the [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) software    
@@ -18,3 +19,5 @@
 | root-zone-records       | [resource records](https://wikipedia.org/wiki/Domain_Name_System#DNS_resource_records) of varying types for top-level domains in the [DNS root zone](https://wikipedia.org/wiki/DNS_root_zone)    
 | suspect-networks-zone   | [DNS RPZ](https://dnsrpz.info/ "DNS Response Policy Zones") for data from <http://suspect-networks.io>  
 | header-flag-codes       | DNS query header flag field as defined by [RFC1035 section 4.1.1](https://tools.ietf.org/html/rfc1035#section-4.1.1)    
+
+* * *

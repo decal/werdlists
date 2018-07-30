@@ -107,6 +107,7 @@ X-Powered-By
 x-prism-latency
 x-prism-origin-latency
 x-prism-roundtrip
+X-Processed-By
 X-Proxied
 X-Proxy-Cache-Status
 X-QosStats
