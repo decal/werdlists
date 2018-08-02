@@ -11,7 +11,6 @@
 | [fgdump-userpass-list](fgdump-userpass-list.txt) |  list of usernames and passwords delimited by colon for use with the [fgdump](http://foofus.net/goons/fizzgig/fgdump/) tool 
 | [fuzzdb-unix-passwords](fuzzdb-unix-passwords.txt) |  `unix_passwords.txt` file taken from [fuzzdb](https://github.com/fuzzdb-project/fuzzdb "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery") 
 | [fuzzdb-user-passwds](fuzzdb-user-passwds.txt.xz) |  more passwords taken from [fuzzdb](https://github.com/fuzzdb-project/fuzzdb "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery") 
-| [hbgary-rootkit-passes](hbgary-rootkit-passes.txt) |  password list from [HBGaryFederal](http://web.archive.org/web/20110115164049/http://www.hbgaryfederal.com:80/) rootkit.com compromise 
 | [john-password-list](john-password-list.txt) |  the password.lst file distributed with [John The Ripper](http://www.openwall.com/john/ "John The Ripper password cracker at OpenWall") 
 | [l33t-dict-full](l33t-dict-full.txt.xz) |  dictionary of [leetspeak](https://wikipedia.org/wiki/leetspeak "Leet") passwords from <http://index-of.es/Word-Lists/gdataonline/L33t_Dict_Full.txt.gz> 
 | [military-pass-words](military-pass-words.txt) |  passwords typically found in military information systems 
