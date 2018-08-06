@@ -16,6 +16,7 @@
 | face-book-doms             | hostnames for FaceBook's bug bounty program  
 | fbi-blackshades-domains    | <https://info.publicintelligence.net/FBI-BlackshadesDomains.txt>  
 | fr-domain-names            | DNSSEC resource records within the [.fr ccTLD](https://wikipedia.org/wiki/.fr)  
+| free-web-hosts             | list of free web hosting services from <https://mirror1.malwaredomains.com/files/freewebhosts.txt>
 | georgia-blacklists-malware | parsed from <http://blacklists.cert.gov.ge/malwaredomains.txt>  
 | goscanssh-domain-blacklist | The GoScanSSH tool will skip testing an IP address if the reverse lookup points to a parent domain in this list <https://blog.talosintelligence.com/2018/03/goscanssh-analysis.html>  
 | gov-domain-names           | DNSSEC resource records within the [.gov TLD](https://wikipedia.org/wiki/.gov)  
