@@ -38,6 +38,7 @@
 | [sdbf-count-2w](sdbf-count-2w.txt.gz) | double word sequence frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
 | [sdbf-count-3l](sdbf-count-3l.txt) | triple letter sequence frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
 | [sdbf-count-big](sdbf-count-big.txt) | big word frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
+| [search-stop-words](search-stop-words.txt) | commonly used words that a search engine will be programmed to ignore
 | [secureblackbox-client-list](secureblackbox-client-list.txt) | brief list of corporations with household names <https://www.secureblackbox.com/company/clients.aspx> 
 | [sfbay-companies-list](sfbay-companies-list.txt) | [List of companies based in the San Francisco Bay Area](https://wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area) 
 | [spike-proxy-allwords](spike-proxy-allwords.txt) | dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 

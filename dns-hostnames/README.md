@@ -15,6 +15,7 @@
 | dnsbrute-names-large       | a large list of host names via the [dnsbrute](https://github.com/d4rkcat/dnsbrute "Multi-threaded DNS bruteforcing") tool  
 | dnsbrute-names-small       | a list half the size of the large one also from `dnsbrute`  
 | dnsinfo-gathertool-list    | [namelist.txt](https://raw.githubusercontent.com/crimefire/dns-information-gathering-tool/master/DNS%20Tool%20source%202/namelist.txt "namelist.txt")  
+| dnsmaper-subs-db           | `subs.db` file from [dnsmaper](https://github.com/le4f/dnsmaper) tool's repository on GitHub
 | dnssearch-hosts-list       | hosts list packaged with the *dnssearch* utility  
 | dod-hosts-table            | Old School [DoD](https://www.defense.gov/ "U.S. Department of Defense") Internet Host Table (not in `/etc/hosts` format)  
 | expanded-intranet-hosts    | additional hosts generated from `common-intranet-hosts`  
