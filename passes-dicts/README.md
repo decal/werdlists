@@ -5,6 +5,7 @@
 | [1mil-activedir-passwords](1mil-activedir-passwords.txt.xz) |  list of potential Active Directory passwords used by the `icebreaker` tool <https://github.com/DanMcInerney/icebreaker/blob/master/1mil-AD-passwords.txt> 
 | [500-worst-passwords](500-worst-passwords.txt) |  500 of the worst passwords that people tend to commonly use 
 | [best-1050-passes](best-1050-passes.txt) |  a copy of the file `best1050.txt` 
+| [brutex-password-medium](brutex-password-medium.txt) | `password_medium.txt` from [BruteX](https://github.com/1N3/BruteX "Automatically brute force all services running on a target.")
 | [case-mutation-full](case-mutation-full.txt.xz) |  dictionary of alternating capitalization passwords from <http://index-of.es/Word-Lists/gdataonline/Case_Mutation_Full.txt.gz> 
 | [english-wikipedia-words](english-wikipedia-words.txt) |  10,000 most used words in the English [Wikipedia](https://wikipedia.org/) 
 | [fifty-common-passwords](fifty-common-passwords.txt) |  50 common passwords that lack complexity 

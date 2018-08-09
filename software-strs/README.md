@@ -25,6 +25,7 @@
 | [macports-titles-list](macports-titles-list.txt) |  [MacPorts](https://www.macports.org) software titles list 
 | [mariadb-variables-list](mariadb-variables-list.txt) |  Full List of MariaDB Options, System and Status Variables <https://mariadb.com/kb/en/library/full-list-of-mariadb-options-system-and-status-variables/> 
 | [msedge-error-codes](msedge-error-codes.txt) | Microsoft Edge Error Codes from <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/console/error-and-status-codes>
+| [msft-crypto-oids](msft-crypto-oids.txt) | Object ID's associated with Microsoft cryptography <https://support.microsoft.com/en-us/help/287547/>
 ! [node-package-names](node-package-names.json) | The `names.json` file from [all-the-package-names](https://npmjs.com/package/all-the-package-names)  
 | [opensrc-softlic-compare](opensrc-softlic-compare.md) |  Comparison of text from popular [open source software licenses](https://opensource.org/licenses) 
 | [operating-system-list](operating-system-list.txt) |  a list of computer operating systems taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm> 

@@ -22,6 +22,7 @@
 | [rails-dot-files](rails-dot-files.txt) |  hidden files utilized by [Ruby on Rails](http://rubyonrails.org) 
 | [richfaces-file-names](richfaces-file-names.txt) |  files for [RichFaces](http://richfaces.jboss.org/ "JSF Component Framework") 
 | [ruby-rails-files](ruby-rails-files.txt) |  files found in the web root directory of Ruby on Rails apps 
+| [s3bucket-scanner-wordlist](s3bucket-scanner-wordlist.txt) | `wordlist.txt` from [s3-bucket-scanner](https://github.com/aljazceru/s3-bucket-scanner.txt "Scanner for public S3 buckets")
 | [various-common-names](various-common-names.txt) |  list of common filenames in general (without any restriction) 
 | [various-webroot-names](various-webroot-names.txt) |  list of file names commonly found in a web root directory 
 
