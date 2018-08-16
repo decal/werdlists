@@ -9,6 +9,7 @@
 | [bash-shell-options](bash-shell-options.txt) |  bash shell options as managed by [the `shopt` builtin](https://gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html "the shopt builtin") 
 | [binary-format-targets](binary-format-targets.txt) |  [executable](https://wikipedia.org/wiki/Executable) file formats and platforms 
 | [centos7-yum-pkgs](centos7-yum-pkgs.txt.xz) |  list of packages from `yum` in [CentOS](https://www.centos.org/ "The CentOS Project") 7 
+| [debian-packages-universe](debian-packages-universe.txt.xz) | list of Debian `universe` packages as compact compressed textlist <https://packages.ubuntu.com/cosmic/allpackages?format=txt.gz>
 | [dot-path-names](dot-path-names.txt) |  various path names, i.e. files and dirs prepended with a period 
 | [git-command-descs](git-command-descs.txt) |  git command names with manual page sections and descriptions 
 | [glibc-tunable-names](glibc-tunable-names.txt) |  options that match GNU libc runtime behavior with workload 

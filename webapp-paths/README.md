@@ -1,6 +1,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [acme-challenge-paths](acme-challenge-paths.txt) |  Path names within a `/.well-known/acme-challenge/` folder 
+| [admin-paths-cwd](admin-paths-cwd.txt) | list of administrative filenames and directories that may be in the CWD (Current Working Directory)
 | [admin-path-names](admin-path-names.txt) |  pathnames of various admin console pages found on web servers 
 | [adobecq-path-names](adobecq-path-names.txt) |  paths to content on _Adobe Experience Manager_ a.k.a. CQ 
 | [apache-james-paths](apache-james-paths.txt) |  paths taken from the `quick-start.html` doc on <http://james.apache.org> 

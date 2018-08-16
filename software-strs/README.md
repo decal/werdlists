@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [autoconf-archive-macros](autoconf-archive-macros.txt) | GNU autoconf m4 macros list from <https://gnu.org/software/autoconf>
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
 | [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`
 | [code-project-list](code-project-list.txt) |  popular code projects, well-known dependencies, API's, etc. 
