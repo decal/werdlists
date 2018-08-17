@@ -6,6 +6,7 @@
 | [github-fileexts-1to4chars](github-fileexts-1to4chars.txt) |  common GitHub file extensions 1 to 4 bytes in length 
 | [nmap-files-extensions](nmap-files-extensions.txt) |  taken from nmap's `nselib/data/http-web-files-extensions.lst` 
 | [splunk-bad-extensions](splunk-bad-extensions.txt) |  
+| [video-format-extnames](video-format-extnames.txt) | video file format extensions list from [tvsm](https://github.com/TonCherAmi/tvsm "A simple command-line TV show manager.") `config` file
 | [vim-autocmd-list](vim-autocmd-list.txt) |  file extensions and associated programs from vim autocmd 
 
 * * *

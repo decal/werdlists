@@ -22,6 +22,7 @@
 | [mobile-operator-churn](mobile-operator-churn.csv) |  CSV describing account churn of Mobile telecom operators 
 | [nanpa-class-codes](nanpa-class-codes.txt) |  [NANPA](https://www.nationalnanpa.com "North American Numbering Plan Association") vertical service code assignments 
 | [national-network-tones](national-network-tones.txt) |  Specifications/meanings of tones by country via [ITU-T](https://itu.int "International Telecommunication Union") 
+| [rejection-hotline-numbers](rejection-hotline-numbers.txt) | list of telephone numbers to [The Rejection Hotline](https://rejectionhotline.com "RejectionHotline.com") 
 | [sdf-outbound-rates](sdf-outbound-rates.csv.xz) |  CSV of outbound [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP") rates taken from the SDF FTP server 
 | [security-roadmap-taxonomy](security-roadmap-taxonomy.md) |  <https://itu.int/en/ITU-T/studygroups/2013-2016/17/ict/Pages/ict-part02.aspx> 
 | [sms2email-mailer-records](sms2email-mailer-records.txt) |  Cellular carriers' SMTP gateways for SMS messages 
