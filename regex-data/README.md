@@ -8,6 +8,7 @@
 | [sql-error-regexes](sql-error-regexes.txt) |  regular expressions to match SQL RDBMS error strings 
 | [test-regular-expressions](test-regular-expressions.txt) | a list of simple test regular expressions
 | [unix-date-regexp](unix-date-regexp.txt) |  a very long regexp meant to match UNIX date strings 
+| [url-capture-regex](url-capture-regex.txt) | regular expression to match URL's in terminal text from [iTerm2](https://iterm2.com "iTerm2 is a terminal emulator for macOS that does amazing things.") settings
 
 * * *
 

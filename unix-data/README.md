@@ -40,6 +40,7 @@
 | [unix-user-names](unix-user-names.txt) |  a long list of [UNIX](http://unix.org) user name possibilities 
 | [vms-unix-commands](vms-unix-commands.txt) |  translation of [VMS](https://www.hpe.com/us/en/servers/openvms.html "HP Enterprise OpenVMS") commands to [UNIX](http://unix.org) equivalents 
 | [vt100-codes-chart](vt100-codes-chart.txt) |  [VT100](https://www.vt100.net/) and VT52 Compatable Modes ESCape Codes Chart 
+| [xterm-control-sequences](xterm-control-sequences.txt) | XTerm control sequences whitepaper as a text file
 | [zsh-builtin-funcs](zsh-builtin-funcs.txt) |  Z shell builtin functions as revealed by the enable builtin 
 
 * * *
