@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [ack-types-list](ack-types-list.md) | list of file types supported by [ack](https://beyondgrep.com "ack is a tool like grep, optimized for programmers")
 | [exiftool-file-extens](exiftool-file-extens.txt) |  file extensions that exiftool can parse metadata from 
 | [file-extens-info](file-extens-info.txt.xz) |  list of file extensions and information via Botcrawl 
 | [file-extens-tools](file-extens-tools.txt) |  tools that can be used to inspect many types of files 

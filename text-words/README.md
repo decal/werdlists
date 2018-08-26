@@ -6,6 +6,7 @@
 | [bbs-subjects-list](bbs-subjects-list.txt) | list of forum topics from an electronic [bulletin board system](https://wikipedia.org/wiki/Bulletin_board_system "BBS")  
 | [buildings-word-list](buildings-word-list.txt) | list of words related to buildings from <http://domainsbot.com/Content/Data/terms/buildings.txt> 
 | [business-noun-words](business-noun-words.txt) | a list of words that can be categorized as business-related nouns
+| [common-english-words](common-english-words.txt) | a brief listing of the most commonly used words in English (the top 30)
 | [curse-words-list](curse-words-list.txt) | _**Warning!**_ list of vulgar (i.e. "curse") words 
 | [english-top-1000](english-top-1000.txt) | 1,000 most used words in the [English language](https://wikipedia.org/wiki/English_language)
 | [english-top-1500](english-top-1500.txt) | 1,500 most used words in the English language taken from [htpwdScan](https://github.com/lijiejie/htpwdScan "A python HTTP weak pass scanner")
