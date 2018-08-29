@@ -34,6 +34,7 @@
 | [manpage-environ-names](manpage-environ-names.txt) |  environment variables listed in Linux manual pages 
 | [misc-environ-assign](misc-environ-assign.txt) |  environment variable values that don't fall anywhere else 
 | [misc-environ-names](misc-environ-names.txt) |  miscellaneous environment variable names don't fit elsewhere 
+| [modrewrite-environ-names](modrewrite-environ-names.txt) | list of environment variable names used by the Apache httpd `mod_rewrite` DSO module <https://www.askapache.com/htaccess/mod_rewrite-variables-cheatsheet>  
 | [mosh-environ-names](mosh-environ-names.txt) |  [MObile SHell](https://mosh.org/ "Mosh: the mobile shell") specific environment variable names 
 | [msft-environ-names](msft-environ-names.txt) |  Environment variables documented on the MSDN web site 
 | [netbsd-environ-names](netbsd-environ-names.txt) |  [NetBSD](https://netbsd.org) environment variable names 
