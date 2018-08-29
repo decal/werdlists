@@ -4,6 +4,7 @@
 |:---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | 2letter-2digit-dotcom      | possibly unregistered two-letter, two-digit `.com` domain names  
 | azure-domain-names         | list of domain names from a reverse lookup on 64.4.6.100  
+| bitly-vanity-domains       | bitly vanity domains taken from a ruleset distributed with the [EFF HTTPS Everywhere](https://eff.org/https-everywhere "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.") browser extension <https://github.com/EFForg/https-everywhere/blob/master/src/chrome/content/rules/Bitly_branded_short_domains.xml>  
 | cctld-char-pairs           | a list of [ccTLD's](https://wikipedia.org/wiki/Country_code_top-level_domain "Country code top-level domain"), i.e. country code top-level domains)  
 | co-domain-records          | Resource records for the [.co TLD](https://wikipedia.org/wiki/.co) zone's DNSSEC signatures  
 | com-domain-names           | list of various commercial domain names in the com [TLD](https://wikipedia.org/wiki/Top-level_domain "Top-level domain")  
