@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# Generate RFC4646 style locale path names 
+
+for astr in $(cat locales.txt) 
+  do  declare lang=$(echo "$astr" | cut -d '_' -f1) uloc=$(echo "$astr" | cut -d '_' -f2)
+    declare lloc=$(echo "$uloc" | tr '[A-Z]' '[a-z]')
+  echo "/${lang}_${uloc}"
+  echo "/${lang}_${lloc}"
+  echo "/${lang}-${uloc}"
+  echo "/${lang}-${lloc}"
+  echo "/${lang}/${uloc}"
+  echo "/${lang}/${lloc}"
+done
+
+exit 0

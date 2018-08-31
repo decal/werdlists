@@ -4,6 +4,7 @@
 | [country-details-list](country-details-list.txt) |  3 ISO-3166 codes, population, area, capital and continent 
 | [iata-airport-codes](iata-airport-codes.txt) |  IATA 3-letter airport code identifiers 
 | [iso-lang-codes](iso-lang-codes.txt) |  ISO-639 abbreviated language codes for i18n (internationalization) 
+| [locale-language-country](locale-language-country.txt) | list of locales with associated language and country
 | [macos-installer-listiso](macos-installer-listiso.txt) | macOS High Sierra `installer(8)` output of `installer -listiso` after `tr` converts tabs to newlines and `sort -u` sorts a unique list
 | [pos-merchant-terminal](pos-merchant-terminal.txt) |  merchant codes list often seen on point-of-sale terminals 
 

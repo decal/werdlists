@@ -30,6 +30,7 @@
 | [jboss-path-names](jboss-path-names.txt) |  path names often handled by the _JBoss_ J2EE application server 
 | [jira-paths-list](jira-paths-list.txt) |  [Jira](https://www.atlassian.com/software/jira) path names to test for 
 | [joomla-path-names](joomla-path-names.txt) |  file names found in the directory hierarchy of Joomla sites 
+| [locales-path-list](locales-path-list.txt) | locale paths formatted in various manners, i.e. dash, underscore, slash, upper/lower case, etc.
 | [login-path-names](login-path-names.txt) |  pathnames that could reference login pages on a web server 
 | [magento-path-names](magento-path-names.txt) |  file names often found under Magento's directory hierarchy 
 | [nmap-rtsp-urls](nmap-rtsp-urls.txt) |  taken from nmap's `nselib/data/rtsp-urls.txt` 
