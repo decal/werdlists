@@ -1,0 +1,13 @@
+https://exploits.shodan.io/?q=
+http://www.cvedetails.com/version-search.php?vendor=&product=
+http://www.intelligentexploit.com/search-results.html?search=
+https://www.exploit-db.com/search/?action=search&text=
+http://packetstormsecurity.com/search/files/?q=
+http://exploitsdownload.com/search?q=
+http://www.exploitsearch.net/index.php?q=
+http://sebug.net/search?wd=
+http://secunia.com/community/advisories/search/?search=
+http://www.securelist.com/en/descriptions?behavior=&Search=Search&search_type=1&words=
+http://osvdb.org/vendors/search?name=
+http://www.1337day.com/search?search=
+http://www.rapid7.com/db/search?t=a&q=
