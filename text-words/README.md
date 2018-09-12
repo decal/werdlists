@@ -11,6 +11,7 @@
 | [english-top-1000](english-top-1000.txt) | 1,000 most used words in the [English language](https://wikipedia.org/wiki/English_language)
 | [english-top-1500](english-top-1500.txt) | 1,500 most used words in the English language taken from [htpwdScan](https://github.com/lijiejie/htpwdScan "A python HTTP weak pass scanner")
 | [english-words-various](english-words-various.txt.xz) | various english words taken from some old ZIP files 
+| [espionage-techniques-list](espionage-techniques-list.txt) | an alphabetized list of espionage techniques  
 | [etc-anonymizer-names](etc-anonymizer-names.txt) | copy of Splunk's `etc/anonymizer/names.txt` 
 | [female-names-list](female-names-list.txt) | alphabetized and capitalized list of female names 
 | [first-names-list](first-names-list.txt) | list of first names often used by people 

@@ -2,6 +2,7 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [compsec-cert-std](compsec-cert-std.txt) |  [NIST FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf) cryptographic product security validation 
 | [crypto-product-std](crypto-product-std.txt) |  ["Common Criteria"](https://wikipedia.org/wiki/Common_Criteria) compliance according to national authority 
+| [crypto-attacks-list](crypto-attacks-list.txt) | a list of cryptographic attack names including recent techniques against TLS  
 | [descrypt-admin-allsalts](descrypt-admin-allsalts.txt) |  Single DES of string "admin" with all salts 
 | [gnutls-cli-extra](gnutls-cli-extra.txt) |  Miscellaneous output of same [GnuTLS](https://www.gnutls.org/ "GNU Transport Layer Security Library") command as above 
 | [gnutls-cli-list](gnutls-cli-list.txt) |  Command output of [GnuTLS](https://www.gnutls.org/ "GNU Transport Layer Security Library") command line interface algorithm list 
