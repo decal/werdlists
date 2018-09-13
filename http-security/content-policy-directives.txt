@@ -13,10 +13,12 @@ media-src
 object-src
 plugin-types
 referrer
+report-to
 report-uri
 require-sri-for
 sandbox
 script-src
+sri-for
 style-src
 upgrade-insecure-requests
 worker-src

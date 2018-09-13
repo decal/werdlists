@@ -5,6 +5,7 @@
 | [file-extens-info](file-extens-info.txt.xz) |  list of file extensions and information via Botcrawl 
 | [file-extens-tools](file-extens-tools.txt) |  tools that can be used to inspect many types of files 
 | [github-fileexts-1to4chars](github-fileexts-1to4chars.txt) |  common GitHub file extensions 1 to 4 bytes in length 
+| [mime-types-database](mime-types-database.json) | database of MIME types in JSON format with associated file extensions from `node_modules/mime-db/db.json`  
 | [nmap-files-extensions](nmap-files-extensions.txt) |  taken from nmap's `nselib/data/http-web-files-extensions.lst` 
 | [splunk-bad-extensions](splunk-bad-extensions.txt) |  
 | [video-format-extnames](video-format-extnames.txt) | video file format extensions list from [tvsm](https://github.com/TonCherAmi/tvsm "A simple command-line TV show manager.") `config` file

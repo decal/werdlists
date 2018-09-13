@@ -23,6 +23,8 @@
 | [alpha-digit-alpha](alpha-digit-alpha) | make all strings consisting of an alphabetic letter, followed by a numeric digit and ending with another letter  
 | [digit-2alpha-digit](digit-2alpha-digit) | make all strings consisting of a numeric digit, followed by two alphabetic letters and ending with another number  
 | [digit-alpha-digit](digit-alpha-digit) | make all strings consisting of a numeric digit, followed by an alphabetic letter and ending with another number  
+| [generate-locales-short](generate-locales-short) | enumerate short list of locale path names from `locales.txt` file   
+| [generate-locales-long](generate-locales-long) | generate a longer list of locale path names  
   
 * * *  
   

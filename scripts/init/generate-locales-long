@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+
+# Generate RFC4646 style locale path names 
+
+for astr in $(cat locales.txt) 
+  do declare llng=$(echo "$astr" | cut -d '_' -f1) uloc=$(echo "$astr" | cut -d '_' -f2)
+  declare lloc=$(echo "$uloc" | tr '[A-Z]' '[a-z]') ulng=$(echo "$llng" | tr '[a-z]' '[A-Z]')
+
+  echo "/${llng}_${uloc}"
+  echo "/${llng}_${lloc}"
+  echo "/${llng}-${uloc}"
+  echo "/${llng}-${lloc}"
+  echo "/${llng}/${uloc}"
+  echo "/${llng}/${lloc}"
+
+  echo "/${lloc}/${llng}"
+  echo "/${uloc}/${llng}"
+  echo "/${lloc}-${llng}"
+  echo "/${uloc}-${llng}"
+  echo "/${lloc}_${llng}"
+  echo "/${uloc}_${llng}"
+
+  echo "/${ulng}_${uloc}"
+  echo "/${ulng}_${lloc}"
+  echo "/${ulng}-${uloc}"
+  echo "/${ulng}-${lloc}"
+  echo "/${ulng}/${uloc}"
+  echo "/${ulng}/${lloc}"
+
+  echo "/${lloc}/${ulng}"
+  echo "/${uloc}/${ulng}"
+  echo "/${lloc}-${ulng}"
+  echo "/${uloc}-${ulng}"
+  echo "/${lloc}_${ulng}"
+  echo "/${uloc}_${ulng}"
+
+  echo "/${llng}${uloc}"
+  echo "/${llng}${lloc}"
+  echo "/${ulng}${uloc}"
+  echo "/${ulng}${lloc}"
+
+  echo "/${lloc}${llng}"
+  echo "/${lloc}${ulng}"
+  echo "/${uloc}${llng}"
+  echo "/${uloc}${ulng}"
+done
+
+exit 0

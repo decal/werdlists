@@ -886,12 +886,6 @@
 /li-nl
 /li/NL
 /li/nl
-/Locale_Locale
-/Locale_locale
-/Locale-Locale
-/Locale-locale
-/Locale/Locale
-/Locale/locale
 /lo_LA
 /lo_la
 /lo-LA

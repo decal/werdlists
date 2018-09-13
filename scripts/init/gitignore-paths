@@ -5,7 +5,7 @@
 #
 # sort -u ~/github/*/*/.gitignore > /tmp/gitignore.out
 
-tr -d '*' < /tmp/gitignore.out | egrep -v '#' | egrep -v '^[[:space:]]*$' | sed -r 's!^[.]?[/]+!!g' | sort -u > /tmp/g.out
+tr -d '*' < /tmp/gitignore.out | egrep -v '#' | egrep -v '^[[:space:]]*$' | sed 's!^[.]?[/]+!!g' | sort -u > /tmp/g.out
 
 for p in $(egrep '/$' /tmp/g.out)
   do declare apath=$(echo $p | sed 's!/$!!')
@@ -14,6 +14,6 @@ for p in $(egrep '/$' /tmp/g.out)
   mv /tmp/g2.out /tmp/g.out
 done
 
-tr -d '\015' < /tmp/g.out | sed -r 's![[:space:]]+$!!g' | sed -r 's!^[[:space:]]+!!g' |  egrep -v '(\[|\])' | sed -r 's/^[!]//g' | egrep -i '^[0-9a-z._]' | sort -u  > /tmp/g3.out
+tr -d '\015' < /tmp/g.out | sed 's![[:space:]]+$!!g' | sed 's!^[[:space:]]+!!g' |  egrep -v '(\[|\])' | sed 's/^[!]//g' | egrep -i '^[0-9a-z._]' | sort -u  > /tmp/g3.out
 
 exit 0
