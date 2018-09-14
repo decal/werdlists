@@ -9,3 +9,4 @@ server-config.wsdd
 sun-jaxws.xml
 weblogic.xml
 web.xml
+struts.xml
