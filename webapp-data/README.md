@@ -1,3 +1,4 @@
+apache-httpd-programs: list of Apache httpd programs and descriptions  
 common-colon-logins: colon delimited lines of common user and pass combinations  
 github-api-emojis: Emoji icons supported by GitHub API in JSON format <https://api.github.com/emojis>  
 github-emojis-list: same as `github-api-emojis`, but only a single emoji names on each line  

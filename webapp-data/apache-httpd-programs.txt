@@ -1,0 +1,32 @@
+httpd
+Apache hypertext transfer protocol server
+apachectl
+Apache HTTP server control interface
+ab
+Apache HTTP server benchmarking tool
+apxs
+APache eXtenSion tool
+dbmmanage
+Create and update user authentication files in DBM format for basic authentication
+fcgistarter
+Start a FastCGI program
+htcacheclean
+Clean up the disk cache
+htdigest
+Create and update user authentication files for digest authentication
+htdbm
+Manipulate DBM password databases.
+htpasswd
+Create and update user authentication files for basic authentication
+httxt2dbm
+Create dbm files for use with RewriteMap
+logresolve
+Resolve hostnames for IP-addresses in Apache logfiles
+log_server_status
+Periodically log the server's status
+rotatelogs
+Rotate Apache logs without having to kill the server
+split-logfile
+Split a multi-vhost logfile into per-host logfiles
+suexec
+Switch User For Exec
