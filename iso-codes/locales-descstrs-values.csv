@@ -1,0 +1,843 @@
+Locale description,Short string,Hexadecimal value,Decimal value
+Afar,aa,0x1000,4096
+Afar (Djibouti),aa-DJ,0x1000,4096
+Afar (Eritrea),aa-ER,0x1000,4096
+Afar (Ethiopia),aa-ET,0x1000,4096
+Afrikaans,af,0x36,54
+Afrikaans (Namibia),af-NA,0x1000,4096
+Afrikaans (South Africa),af-ZA,0x436,1078
+Aghem,agq,0x1000,4096
+Aghem (Cameroon),agq-CM,0x1000,4096
+Akan,ak,0x1000,4096
+Akan (Ghana),ak-GH,0x1000,4096
+Albanian,sq,0x1C,28
+Albanian (Albania),sq-AL,0x41C,1052
+Albanian (Kosovo),sq-XK,0x1000,4096
+Albanian (Macedonia; FYRO),sq-MK,0x1000,4096
+Alsatian,gsw,0x84,132
+Alsatian (France),gsw-FR,0x484,1156
+Alsatian (Liechtenstein),gsw-LI,0x1000,4096
+Alsatian (Switzerland),gsw-CH,0x1000,4096
+Amharic,am,0x5E,94
+Amharic (Ethiopia),am-ET,0x45E,1118
+Arabic,ar,0x1,1
+Arabic (Algeria),ar-DZ,0x1401,5121
+Arabic (Bahrain),ar-BH,0x3C01,15361
+Arabic (Chad),ar-TD,0x1000,4096
+Arabic (Comoros),ar-KM,0x1000,4096
+Arabic (Djibouti),ar-DJ,0x1000,4096
+Arabic (Egypt),ar-EG,0xC01,3073
+Arabic (Eritrea),ar-ER,0x1000,4096
+Arabic (Iraq),ar-IQ,0x801,2049
+Arabic (Israel),ar-IL,0x1000,4096
+Arabic (Jordan),ar-JO,0x2C01,11265
+Arabic (Kuwait),ar-KW,0x3401,13313
+Arabic (Lebanon),ar-LB,0x3001,12289
+Arabic (Libya),ar-LY,0x1001,4097
+Arabic (Mauritania),ar-MR,0x1000,4096
+Arabic (Morocco),ar-MA,0x1801,6145
+Arabic (Oman),ar-OM,0x2001,8193
+Arabic (Palestinian Authority),ar-PS,0x1000,4096
+Arabic (Qatar),ar-QA,0x4001,16385
+Arabic (Saudi Arabia),ar-SA,0x401,1025
+Arabic (Somalia),ar-SO,0x1000,4096
+Arabic (South Sudan),ar-SS,0x1000,4096
+Arabic (Sudan),ar-SD,0x1000,4096
+Arabic (Syria),ar-SY,0x2801,10241
+Arabic (Tunisia),ar-TN,0x1C01,7169
+Arabic (U.A.E.),ar-AE,0x3801,14337
+Arabic (World),ar-001,0x1000,4096
+Arabic (Yemen),ar-YE,0x2401,9217
+Armenian,hy,0x2B,43
+Armenian (Armenia),hy-AM,0x42B,1067
+Assamese,as,0x4D,77
+Assamese (India),as-IN,0x44D,1101
+Asturian,ast,0x1000,4096
+Asturian (Spain),ast-ES,0x1000,4096
+Asu,asa,0x1000,4096
+Asu (Tanzania),asa-TZ,0x1000,4096
+Azerbaijani,az,0x2C,44
+Azerbaijani (Cyrillic),az-Cyrl,0x742C,29740
+Azerbaijani (Cyrillic; Azerbaijan),az-Cyrl-AZ,0x82C,2092
+Azerbaijani (Latin),az-Latn,0x782C,30764
+Azerbaijani (Latin; Azerbaijan),az-Latn-AZ,0x42C,1068
+Bafia,ksf,0x1000,4096
+Bafia (Cameroon),ksf-CM,0x1000,4096
+Bambara,bm,0x1000,4096
+Bambara (Latin),bm-Latn,0x1000,4096
+Bambara (Latin; Mali),bm-Latn-ML,0x1000,4096
+Bangla,bn,0x45,69
+Bangla (Bangladesh),bn-BD,0x845,2117
+Bangla (India),bn-IN,0x445,1093
+Basaa,bas,0x1000,4096
+Basaa (Cameroon),bas-CM,0x1000,4096
+Bashkir,ba,0x6D,109
+Bashkir (Russia),ba-RU,0x46D,1133
+Basque,eu,0x2D,45
+Basque (Basque),eu-ES,0x42D,1069
+Belarusian,be,0x23,35
+Belarusian (Belarus),be-BY,0x423,1059
+Bemba,bem,0x1000,4096
+Bemba (Zambia),bem-ZM,0x1000,4096
+Bena,bez,0x1000,4096
+Bena (Tanzania),bez-TZ,0x1000,4096
+Blin,byn,0x1000,4096
+Blin (Eritrea),byn-ER,0x1000,4096
+Bodo,brx,0x1000,4096
+Bodo (India),brx-IN,0x1000,4096
+Bosnian,bs,0x781A,30746
+Bosnian (Cyrillic),bs-Cyrl,0x641A,25626
+Bosnian (Cyrillic; Bosnia and Herzegovina),bs-Cyrl-BA,0x201A,8218
+Bosnian (Latin),bs-Latn,0x681A,26650
+Bosnian (Latin; Bosnia and Herzegovina),bs-Latn-BA,0x141A,5146
+Breton,br,0x7E,126
+Breton (France),br-FR,0x47E,1150
+Bulgarian,bg,0x2,2
+Bulgarian (Bulgaria),bg-BG,0x402,1026
+Burmese,my,0x55,85
+Burmese (Myanmar),my-MM,0x455,1109
+Catalan,ca,0x3,3
+Catalan (Andorra),ca-AD,0x1000,4096
+Catalan (Catalan),ca-ES,0x403,1027
+Catalan (France),ca-FR,0x1000,4096
+Catalan (Italy),ca-IT,0x1000,4096
+Central Atlas Tamazight (Arabic),tzm-Arab,0x1000,4096
+Central Atlas Tamazight (Arabic; Morocco),tzm-Arab-MA,0x45F,1119
+Central Atlas Tamazight (Latin; Morocco),tzm-Latn-MA,0x1000,4096
+Central Atlas Tamazight (Tifinagh; Morocco),tzm-Tfng-MA,0x105F,4191
+Central Kurdish,ku,0x92,146
+Central Kurdish (Arabic),ku-Arab,0x7C92,31890
+Central Kurdish (Iraq),ku-Arab-IQ,0x492,1170
+Chechen,ce,0x1000,4096
+Chechen (Russia),ce-RU,0x1000,4096
+Cherokee,chr,0x5C,92
+Cherokee (Cherokee),chr-Cher-US,0x45C,1116
+Cherokee (Cherokee),chr-Cher,0x7C5C,31836
+Chiga,cgg,0x1000,4096
+Chiga (Uganda),cgg-UG,0x1000,4096
+Chinese,zh,0x7804,30724
+Chinese (Simplified Han; Hong Kong SAR),zh-Hans-HK,0x1000,4096
+Chinese (Simplified Han; Macao SAR),zh-Hans-MO,0x1000,4096
+Chinese (Simplified),zh-Hans,0x4,4
+Chinese (Simplified) Legacy,zh-Hans,0x4,4
+Chinese (Simplified; PRC),zh-CN,0x804,2052
+Chinese (Simplified; Singapore),zh-SG,0x1004,4100
+Chinese (Traditional),zh-Hant,0x7C04,31748
+Chinese (Traditional) Legacy,zh-Hant,0x7C04,31748
+Chinese (Traditional; Hong Kong S.A.R.),zh-HK,0xC04,3076
+Chinese (Traditional; Macao S.A.R.),zh-MO,0x1404,5124
+Chinese (Traditional; Taiwan),zh-TW,0x404,1028
+Church Slavic,cu,0x1000,4096
+Church Slavic (Russia),cu-RU,0x1000,4096
+Colognian,ksh,0x1000,4096
+Cornish,kw,0x1000,4096
+Cornish (United Kingdom),kw-GB,0x1000,4096
+Corsican,co,0x83,131
+Corsican (France),co-FR,0x483,1155
+Croatian,hr,0x1A,26
+Croatian (Croatia),hr-HR,0x41A,1050
+Croatian (Latin; Bosnia and Herzegovina),hr-BA,0x101A,4122
+Czech,cs,0x5,5
+Czech (Czech Republic),cs-CZ,0x405,1029
+Danish,da,0x6,6
+Danish (Denmark),da-DK,0x406,1030
+Danish (Greenland),da-GL,0x1000,4096
+Dari,prs,0x8C,140
+Dari (Afghanistan),prs-AF,0x48C,1164
+Divehi,dv,0x65,101
+Divehi (Maldives),dv-MV,0x465,1125
+Duala,dua,0x1000,4096
+Duala (Cameroon),dua-CM,0x1000,4096
+Dutch,nl,0x13,19
+Dutch (Aruba),nl-AW,0x1000,4096
+Dutch (Belgium),nl-BE,0x813,2067
+Dutch (Bonaire; Sint Eustatius and Saba),nl-BQ,0x1000,4096
+Dutch (Curaçao),nl-CW,0x1000,4096
+Dutch (Netherlands),nl-NL,0x413,1043
+Dutch (Sint Maarten),nl-SX,0x1000,4096
+Dutch (Suriname),nl-SR,0x1000,4096
+Dzongkha,dz,0x1000,4096
+Dzongkha (Bhutan),dz-BT,0xC51,3153
+Edo,bin,0x66,102
+Edo (Nigeria),bin-NG,0x466,1126
+Embu,ebu,0x1000,4096
+Embu (Kenya),ebu-KE,0x1000,4096
+English,en,0x9,9
+English (American Samoa),en-AS,0x1000,4096
+English (Anguilla),en-AI,0x1000,4096
+English (Antigua and Barbuda),en-AG,0x1000,4096
+English (Australia),en-AU,0xC09,3081
+English (Austria),en-AT,0x1000,4096
+English (Bahamas),en-BS,0x1000,4096
+English (Barbados),en-BB,0x1000,4096
+English (Belgium),en-BE,0x1000,4096
+English (Belize),en-BZ,0x2809,10249
+English (Bermuda),en-BM,0x1000,4096
+English (Botswana),en-BW,0x1000,4096
+English (British Indian Ocean Territory),en-IO,0x1000,4096
+English (British Virgin Islands),en-VG,0x1000,4096
+English (Burundi),en-BI,0x1000,4096
+English (Cameroon),en-CM,0x1000,4096
+English (Canada),en-CA,0x1009,4105
+English (Caribbean),en-029,0x2409,9225
+English (Cayman Islands),en-KY,0x1000,4096
+English (Christmas Island),en-CX,0x1000,4096
+English (Cocos [Keeling] Islands),en-CC,0x1000,4096
+English (Cook Islands),en-CK,0x1000,4096
+English (Cyprus),en-CY,0x1000,4096
+English (Denmark),en-DK,0x1000,4096
+English (Dominica),en-DM,0x1000,4096
+English (Eritrea),en-ER,0x1000,4096
+English (Europe),en-150,0x1000,4096
+English (Falkland Islands),en-FK,0x1000,4096
+English (Fiji),en-FJ,0x1000,4096
+English (Finland),en-FI,0x1000,4096
+English (Gambia),en-GM,0x1000,4096
+English (Germany),en-DE,0x1000,4096
+English (Ghana),en-GH,0x1000,4096
+English (Gibraltar),en-GI,0x1000,4096
+English (Grenada),en-GD,0x1000,4096
+English (Guam),en-GU,0x1000,4096
+English (Guernsey),en-GG,0x1000,4096
+English (Guyana),en-GY,0x1000,4096
+English (Hong Kong SAR),en-HK,0x3C09,15369
+English (India),en-IN,0x4009,16393
+English (Indonesia),en-ID,0x3809,14345
+English (Ireland),en-IE,0x1809,6153
+English (Isle of Man),en-IM,0x1000,4096
+English (Israel),en-IL,0x1000,4096
+English (Jamaica),en-JM,0x2009,8201
+English (Jersey),en-JE,0x1000,4096
+English (Kenya),en-KE,0x1000,4096
+English (Kiribati),en-KI,0x1000,4096
+English (Lesotho),en-LS,0x1000,4096
+English (Liberia),en-LR,0x1000,4096
+English (Macao SAR),en-MO,0x1000,4096
+English (Madagascar),en-MG,0x1000,4096
+English (Malawi),en-MW,0x1000,4096
+English (Malaysia),en-MY,0x4409,17417
+English (Malta),en-MT,0x1000,4096
+English (Marshall Islands),en-MH,0x1000,4096
+English (Mauritius),en-MU,0x1000,4096
+English (Micronesia),en-FM,0x1000,4096
+English (Montserrat),en-MS,0x1000,4096
+English (Namibia),en-NA,0x1000,4096
+English (Nauru),en-NR,0x1000,4096
+English (Netherlands),en-NL,0x1000,4096
+English (New Zealand),en-NZ,0x1409,5129
+English (Nigeria),en-NG,0x1000,4096
+English (Niue),en-NU,0x1000,4096
+English (Norfolk Island),en-NF,0x1000,4096
+English (Northern Mariana Islands),en-MP,0x1000,4096
+English (Pakistan),en-PK,0x1000,4096
+English (Palau),en-PW,0x1000,4096
+English (Papua New Guinea),en-PG,0x1000,4096
+English (Pitcairn Islands),en-PN,0x1000,4096
+English (Puerto Rico),en-PR,0x1000,4096
+English (Republic of the Philippines),en-PH,0x3409,13321
+English (Rwanda),en-RW,0x1000,4096
+English (Saint Kitts and Nevis),en-KN,0x1000,4096
+English (Saint Lucia),en-LC,0x1000,4096
+English (Saint Vincent and the Grenadines),en-VC,0x1000,4096
+English (Samoa),en-WS,0x1000,4096
+English (Seychelles),en-SC,0x1000,4096
+English (Sierra Leone),en-SL,0x1000,4096
+English (Singapore),en-SG,0x4809,18441
+English (Sint Maarten),en-SX,0x1000,4096
+English (Slovenia),en-SI,0x1000,4096
+English (Solomon Islands),en-SB,0x1000,4096
+English (South Africa),en-ZA,0x1C09,7177
+English (South Sudan),en-SS,0x1000,4096
+English (St Helena; Ascension; Tristan da Cunha),en-SH,0x1000,4096
+English (Sudan),en-SD,0x1000,4096
+English (Swaziland),en-SZ,0x1000,4096
+English (Sweden),en-SE,0x1000,4096
+English (Switzerland),en-CH,0x1000,4096
+English (Tanzania),en-TZ,0x1000,4096
+English (Tokelau),en-TK,0x1000,4096
+English (Tonga),en-TO,0x1000,4096
+English (Trinidad and Tobago),en-TT,0x2C09,11273
+English (Turks and Caicos Islands),en-TC,0x1000,4096
+English (Tuvalu),en-TV,0x1000,4096
+English (Uganda),en-UG,0x1000,4096
+English (United Kingdom),en-GB,0x809,2057
+English (United States),en-US,0x409,1033
+English (US Minor Outlying Islands),en-UM,0x1000,4096
+English (US Virgin Islands),en-VI,0x1000,4096
+English (Vanuatu),en-VU,0x1000,4096
+English (World),en-001,0x1000,4096
+English (Zambia),en-ZM,0x1000,4096
+English (Zimbabwe),en-ZW,0x3009,12297
+Esperanto,eo,0x1000,4096
+Esperanto (World),eo-001,0x1000,4096
+Estonian,et,0x25,37
+Estonian (Estonia),et-EE,0x425,1061
+Ewe,ee,0x1000,4096
+Ewe (Ghana),ee-GH,0x1000,4096
+Ewe (Togo),ee-TG,0x1000,4096
+Ewondo,ewo,0x1000,4096
+Ewondo (Cameroon),ewo-CM,0x1000,4096
+Faroese,fo,0x38,56
+Faroese (Denmark),fo-DK,0x1000,4096
+Faroese (Faroe Islands),fo-FO,0x438,1080
+Filipino,fil,0x64,100
+Filipino (Philippines),fil-PH,0x464,1124
+Finnish,fi,0xB,11
+Finnish (Finland),fi-FI,0x40B,1035
+French,fr,0xC,12
+French (Algeria),fr-DZ,0x1000,4096
+French (Belgium),fr-BE,0x80C,2060
+French (Benin),fr-BJ,0x1000,4096
+French (Burkina Faso),fr-BF,0x1000,4096
+French (Burundi),fr-BI,0x1000,4096
+French (Cameroon),fr-CM,0x2C0C,11276
+French (Canada),fr-CA,0xC0C,3084
+French (Caribbean),fr-029,0x1C0C,7180
+French (Central African Republic),fr-CF,0x1000,4096
+French (Chad),fr-TD,0x1000,4096
+French (Comoros),fr-KM,0x1000,4096
+French (Congo DRC),fr-CD,0x240C,9228
+French (Congo),fr-CG,0x1000,4096
+French (Côte d’Ivoire),fr-CI,0x300C,12300
+French (Djibouti),fr-DJ,0x1000,4096
+French (Equatorial Guinea),fr-GQ,0x1000,4096
+French (France),fr-FR,0x40C,1036
+French (French Guiana),fr-GF,0x1000,4096
+French (French Polynesia),fr-PF,0x1000,4096
+French (Gabon),fr-GA,0x1000,4096
+French (Guadeloupe),fr-GP,0x1000,4096
+French (Guinea),fr-GN,0x1000,4096
+French (Haiti),fr-HT,0x3C0C,15372
+French (Luxembourg),fr-LU,0x140C,5132
+French (Madagascar),fr-MG,0x1000,4096
+French (Mali),fr-ML,0x340C,13324
+French (Martinique),fr-MQ,0x1000,4096
+French (Mauritania),fr-MR,0x1000,4096
+French (Mauritius),fr-MU,0x1000,4096
+French (Mayotte),fr-YT,0x1000,4096
+French (Monaco),fr-MC,0x180C,6156
+French (Morocco),fr-MA,0x380C,14348
+French (New Caledonia),fr-NC,0x1000,4096
+French (Niger),fr-NE,0x1000,4096
+French (Reunion),fr-RE,0x200C,8204
+French (Rwanda),fr-RW,0x1000,4096
+French (Saint Barthélemy),fr-BL,0x1000,4096
+French (Saint Martin),fr-MF,0x1000,4096
+French (Saint Pierre and Miquelon),fr-PM,0x1000,4096
+French (Senegal),fr-SN,0x280C,10252
+French (Seychelles),fr-SC,0x1000,4096
+French (Switzerland),fr-CH,0x100C,4108
+French (Syria),fr-SY,0x1000,4096
+French (Togo),fr-TG,0x1000,4096
+French (Tunisia),fr-TN,0x1000,4096
+French (Vanuatu),fr-VU,0x1000,4096
+French (Wallis and Futuna),fr-WF,0x1000,4096
+Frisian,fy,0x62,98
+Frisian (Netherlands),fy-NL,0x462,1122
+Friulian,fur,0x1000,4096
+Friulian (Italy),fur-IT,0x1000,4096
+Fulah,ff,0x67,103
+Fulah (Cameroon),ff-CM,0x1000,4096
+Fulah (Guinea),ff-GN,0x1000,4096
+Fulah (Latin),ff-Latn,0x7C67,31847
+Fulah (Latin; Senegal),ff-Latn-SN,0x867,2151
+Fulah (Mauritania),ff-MR,0x1000,4096
+Fulah (Nigeria),ff-NG,0x467,1127
+Galician,gl,0x56,86
+Galician (Galician),gl-ES,0x456,1110
+Ganda,lg,0x1000,4096
+Ganda (Uganda),lg-UG,0x1000,4096
+Georgian,ka,0x37,55
+Georgian (Georgia),ka-GE,0x437,1079
+German,de,0x7,7
+German (Austria),de-AT,0xC07,3079
+German (Belgium),de-BE,0x1000,4096
+German (Germany),de-DE,0x407,1031
+German (Italy),de-IT,0x1000,4096
+German (Liechtenstein),de-LI,0x1407,5127
+German (Luxembourg),de-LU,0x1007,4103
+German (Switzerland),de-CH,0x807,2055
+Greek,el,0x8,8
+Greek (Cyprus),el-CY,0x1000,4096
+Greek (Greece),el-GR,0x408,1032
+Greenlandic,kl,0x6F,111
+Greenlandic (Greenland),kl-GL,0x46F,1135
+Guarani,gn,0x74,116
+Guarani (Paraguay),gn-PY,0x474,1140
+Gujarati,gu,0x47,71
+Gujarati (India),gu-IN,0x447,1095
+Gusii,guz,0x1000,4096
+Gusii (Kenya),guz-KE,0x1000,4096
+Hausa,ha,0x68,104
+Hausa (Latin),ha-Latn,0x7C68,31848
+Hausa (Latin; Ghana),ha-Latn-GH,0x1000,4096
+Hausa (Latin; Niger),ha-Latn-NE,0x1000,4096
+Hausa (Latin; Nigeria),ha-Latn-NG,0x468,1128
+Hawaiian,haw,0x75,117
+Hawaiian (United States),haw-US,0x475,1141
+Hebrew,he,0xD,13
+Hebrew (Israel),he-IL,0x40D,1037
+Hindi,hi,0x39,57
+Hindi (India),hi-IN,0x439,1081
+Hungarian,hu,0xE,14
+Hungarian (Hungary),hu-HU,0x40E,1038
+Ibibio,ibb,0x69,105
+Ibibio (Nigeria),ibb-NG,0x469,1129
+Icelandic,is,0xF,15
+Icelandic (Iceland),is-IS,0x40F,1039
+Igbo,ig,0x70,112
+Igbo (Nigeria),ig-NG,0x470,1136
+Indonesian,id,0x21,33
+Indonesian (Indonesia),id-ID,0x421,1057
+Interlingua,ia,0x1000,4096
+Interlingua (France),ia-FR,0x1000,4096
+Interlingua (World),ia-001,0x1000,4096
+Inuktitut,iu,0x5D,93
+Inuktitut (Latin),iu-Latn,0x7C5D,31837
+Inuktitut (Latin; Canada),iu-Latn-CA,0x85D,2141
+Inuktitut (Syllabics),iu-Cans,0x785D,30813
+Inuktitut (Syllabics; Canada),iu-Cans-CA,0x45D,1117
+Invariant Language (Invariant Country),,0x7F,127
+Irish,ga,0x3C,60
+Irish (Ireland),ga-IE,0x83C,2108
+isiXhosa,xh,0x34,52
+isiXhosa (South Africa),xh-ZA,0x434,1076
+isiZulu,zu,0x35,53
+isiZulu (South Africa),zu-ZA,0x435,1077
+Italian,it,0x10,16
+Italian (Italy),it-IT,0x410,1040
+Italian (San Marino),it-SM,0x1000,4096
+Italian (Switzerland),it-CH,0x810,2064
+Italian (Vatican City),it-VA,0x1000,4096
+Japanese,ja,0x11,17
+Japanese (Japan),ja-JP,0x411,1041
+Javanese,jv-Latn,0x1000,4096
+Javanese,jv,0x1000,4096
+Javanese (Indonesia),jv-Latn-ID,0x1000,4096
+Javanese (Javanese),jv-Java,0x1000,4096
+Javanese (Javanese; Indonesia),jv-Java-ID,0x1000,4096
+Jola-Fonyi,dyo,0x1000,4096
+Jola-Fonyi (Senegal),dyo-SN,0x1000,4096
+Kabuverdianu,kea,0x1000,4096
+Kabuverdianu (Cabo Verde),kea-CV,0x1000,4096
+Kabyle,kab,0x1000,4096
+Kabyle (Algeria),kab-DZ,0x1000,4096
+Kako,kkj,0x1000,4096
+Kako (Cameroon),kkj-CM,0x1000,4096
+Kalenjin,kln,0x1000,4096
+Kalenjin (Kenya),kln-KE,0x1000,4096
+Kamba,kam,0x1000,4096
+Kamba (Kenya),kam-KE,0x1000,4096
+Kannada,kn,0x4B,75
+Kannada (India),kn-IN,0x44B,1099
+Kanuri,kr,0x71,113
+Kanuri (Nigeria),kr-NG,0x471,1137
+Kashmiri,ks,0x60,96
+Kashmiri (Devanagari),ks-Deva,0x1000,4096
+Kashmiri (Devanagari; India),ks-Deva-IN,0x860,2144
+Kashmiri (Perso-Arabic),ks-Arab,0x460,1120
+Kashmiri (Perso-Arabic),ks-Arab-IN,0x1000,4096
+Kazakh,kk,0x3F,63
+Kazakh (Kazakhstan),kk-KZ,0x43F,1087
+Khmer,km,0x53,83
+Khmer (Cambodia),km-KH,0x453,1107
+K'iche',quc-Latn,0x7C86,31878
+K'iche',quc,0x86,134
+K'iche' (Guatemala),quc-Latn-GT,0x486,1158
+Kikuyu,ki,0x1000,4096
+Kikuyu (Kenya),ki-KE,0x1000,4096
+Kinyarwanda,rw,0x87,135
+Kinyarwanda (Rwanda),rw-RW,0x487,1159
+Kiswahili,sw,0x41,65
+Kiswahili (Congo DRC),sw-CD,0x1000,4096
+Kiswahili (Kenya),sw-KE,0x441,1089
+Kiswahili (Tanzania),sw-TZ,0x1000,4096
+Kiswahili (Uganda),sw-UG,0x1000,4096
+Konkani,kok,0x57,87
+Konkani (India),kok-IN,0x457,1111
+Korean,ko,0x12,18
+Korean (Korea),ko-KR,0x412,1042
+Korean (North Korea),ko-KP,0x1000,4096
+Koyra Chiini,khq,0x1000,4096
+Koyra Chiini (Mali),khq-ML,0x1000,4096
+Koyraboro Senni,ses,0x1000,4096
+Koyraboro Senni (Mali),ses-ML,0x1000,4096
+Kurdish (Perso-Arabic; Iran),ku-Arab-IR,0x1000,4096
+Kwasio,nmg,0x1000,4096
+Kwasio (Cameroon),nmg-CM,0x1000,4096
+Kyrgyz,ky,0x40,64
+Kyrgyz (Kyrgyzstan),ky-KG,0x440,1088
+Lakota,lkt,0x1000,4096
+Lakota (United States),lkt-US,0x1000,4096
+Langi,lag,0x1000,4096
+Langi (Tanzania),lag-TZ,0x1000,4096
+Lao,lo,0x54,84
+Lao (Lao P.D.R.),lo-LA,0x454,1108
+Latin,la,0x76,118
+Latin (World),la-001,0x476,1142
+Latvian,lv,0x26,38
+Latvian (Latvia),lv-LV,0x426,1062
+Lingala,ln,0x1000,4096
+Lingala (Angola),ln-AO,0x1000,4096
+Lingala (Central African Republic),ln-CF,0x1000,4096
+Lingala (Congo DRC),ln-CD,0x1000,4096
+Lingala (Congo),ln-CG,0x1000,4096
+Lithuanian,lt,0x27,39
+Lithuanian (Lithuania),lt-LT,0x427,1063
+Low German,nds,0x1000,4096
+Low German (Germany),nds-DE,0x1000,4096
+Low German (Netherlands),nds-NL,0x1000,4096
+Lower Sorbian,dsb,0x7C2E,31790
+Lower Sorbian (Germany),dsb-DE,0x82E,2094
+Luba-Katanga,lu,0x1000,4096
+Luba-Katanga (Congo DRC),lu-CD,0x1000,4096
+Luo,luo,0x1000,4096
+Luo (Kenya),luo-KE,0x1000,4096
+Luxembourgish,lb,0x6E,110
+Luxembourgish (Luxembourg),lb-LU,0x46E,1134
+Luyia,luy,0x1000,4096
+Luyia (Kenya),luy-KE,0x1000,4096
+Macedonian (Former Yugoslav Republic of Macedonia),mk-MK,0x42F,1071
+Macedonian (FYROM),mk,0x2F,47
+Machame,jmc,0x1000,4096
+Machame (Tanzania),jmc-TZ,0x1000,4096
+Makhuwa-Meetto,mgh,0x1000,4096
+Makhuwa-Meetto (Mozambique),mgh-MZ,0x1000,4096
+Makonde,kde,0x1000,4096
+Makonde (Tanzania),kde-TZ,0x1000,4096
+Malagasy,mg,0x1000,4096
+Malagasy (Madagascar),mg-MG,0x1000,4096
+Malay,ms,0x3E,62
+Malay (Brunei Darussalam),ms-BN,0x83E,2110
+Malay (Latin; Singapore),ms-SG,0x1000,4096
+Malay (Malaysia),ms-MY,0x43E,1086
+Malayalam,ml,0x4C,76
+Malayalam (India),ml-IN,0x44C,1100
+Maltese,mt,0x3A,58
+Maltese (Malta),mt-MT,0x43A,1082
+Manipuri,mni,0x58,88
+Manipuri (India),mni-IN,0x458,1112
+Manx,gv,0x1000,4096
+Manx (Isle of Man),gv-IM,0x1000,4096
+Maori,mi,0x81,129
+Maori (New Zealand),mi-NZ,0x481,1153
+Mapudungun,arn,0x7A,122
+Mapudungun (Chile),arn-CL,0x47A,1146
+Marathi,mr,0x4E,78
+Marathi (India),mr-IN,0x44E,1102
+Masai,mas,0x1000,4096
+Masai (Kenya),mas-KE,0x1000,4096
+Masai (Tanzania),mas-TZ,0x1000,4096
+Mazanderani,mzn,0x1000,4096
+Mazanderani (Iran),mzn-IR,0x1000,4096
+Meru,mer,0x1000,4096
+Meru (Kenya),mer-KE,0x1000,4096
+Meta',mgo,0x1000,4096
+Meta' (Cameroon),mgo-CM,0x1000,4096
+Mohawk,moh,0x7C,124
+Mohawk (Mohawk),moh-CA,0x47C,1148
+Mongolian,mn,0x50,80
+Mongolian (Cyrillic),mn-Cyrl,0x7850,30800
+Mongolian (Cyrillic; Mongolia),mn-MN,0x450,1104
+Mongolian (Traditional Mongolian),mn-Mong,0x7C50,31824
+Mongolian (Traditional Mongolian; Mongolia),mn-Mong-MN,0xC50,3152
+Mongolian (Traditional Mongolian; PRC),mn-Mong-CN,0x850,2128
+Morisyen,mfe,0x1000,4096
+Morisyen (Mauritius),mfe-MU,0x1000,4096
+Mundang,mua,0x1000,4096
+Mundang (Cameroon),mua-CM,0x1000,4096
+Nama,naq,0x1000,4096
+Nama (Namibia),naq-NA,0x1000,4096
+Nepali,ne,0x61,97
+Nepali (India),ne-IN,0x861,2145
+Nepali (Nepal),ne-NP,0x461,1121
+Ngiemboon,nnh,0x1000,4096
+Ngiemboon (Cameroon),nnh-CM,0x1000,4096
+Ngomba,jgo,0x1000,4096
+Ngomba (Cameroon),jgo-CM,0x1000,4096
+N'ko,nqo,0x1000,4096
+N'ko (Guinea),nqo-GN,0x1000,4096
+North Ndebele,nd,0x1000,4096
+North Ndebele (Zimbabwe),nd-ZW,0x1000,4096
+Northern Luri,lrc,0x1000,4096
+Northern Luri (Iran),lrc-IR,0x1000,4096
+Northern Luri (Iraq),lrc-IQ,0x1000,4096
+Norwegian,no,0x14,20
+Norwegian (Bokmål),nb,0x7C14,31764
+Norwegian (Nynorsk),nn,0x7814,30740
+Norwegian; Bokmål (Norway),nb-NO,0x414,1044
+Norwegian; Bokmål (Svalbard and Jan Mayen),nb-SJ,0x1000,4096
+Norwegian; Nynorsk (Norway),nn-NO,0x814,2068
+Nuer,nus,0x1000,4096
+Nuer (South Sudan),nus-SS,0x1000,4096
+Nyankole,nyn,0x1000,4096
+Nyankole (Uganda),nyn-UG,0x1000,4096
+Occitan,oc,0x82,130
+Occitan (France),oc-FR,0x482,1154
+Odia,or,0x48,72
+Odia (India),or-IN,0x448,1096
+Oromo,om,0x72,114
+Oromo (Ethiopia),om-ET,0x472,1138
+Oromo (Kenya),om-KE,0x1000,4096
+Ossetian (Cyrillic; Georgia),os-GE,0x1000,4096
+Ossetian (Cyrillic; Russia),os-RU,0x1000,4096
+Ossetic,os,0x1000,4096
+Papiamento,pap,0x79,121
+Papiamento (Caribbean),pap-029,0x479,1145
+Pashto,ps,0x63,99
+Pashto (Afghanistan),ps-AF,0x463,1123
+Persian,fa,0x29,41
+Persian (Iran),fa-IR,0x429,1065
+Polish,pl,0x15,21
+Polish (Poland),pl-PL,0x415,1045
+Portuguese,pt,0x16,22
+Portuguese (Angola),pt-AO,0x1000,4096
+Portuguese (Brazil),pt-BR,0x416,1046
+Portuguese (Cabo Verde),pt-CV,0x1000,4096
+Portuguese (Equatorial Guinea),pt-GQ,0x1000,4096
+Portuguese (Guinea-Bissau),pt-GW,0x1000,4096
+Portuguese (Luxembourg),pt-LU,0x1000,4096
+Portuguese (Macao SAR),pt-MO,0x1000,4096
+Portuguese (Mozambique),pt-MZ,0x1000,4096
+Portuguese (Portugal),pt-PT,0x816,2070
+Portuguese (São Tomé and Príncipe),pt-ST,0x1000,4096
+Portuguese (Switzerland),pt-CH,0x1000,4096
+Portuguese (Timor-Leste),pt-TL,0x1000,4096
+Prussian,prg,0x1000,4096
+Prussian (World),prg-001,0x1000,4096
+Punjabi,pa,0x46,70
+Punjabi (Arabic),pa-Arab,0x7C46,31814
+Punjabi (India),pa-IN,0x446,1094
+Punjabi (Islamic Republic of Pakistan),pa-Arab-PK,0x846,2118
+Quechua,quz,0x6B,107
+Quechua (Bolivia),quz-BO,0x46B,1131
+Quechua (Ecuador),quz-EC,0x86B,2155
+Quechua (Peru),quz-PE,0xC6B,3179
+Ripuarian (Germany),ksh-DE,0x1000,4096
+Romanian,ro,0x18,24
+Romanian (Moldova),ro-MD,0x818,2072
+Romanian (Romania),ro-RO,0x418,1048
+Romansh,rm,0x17,23
+Romansh (Switzerland),rm-CH,0x417,1047
+Rombo,rof,0x1000,4096
+Rombo (Tanzania),rof-TZ,0x1000,4096
+Rundi,rn,0x1000,4096
+Rundi (Burundi),rn-BI,0x1000,4096
+Russian,ru,0x19,25
+Russian (Belarus),ru-BY,0x1000,4096
+Russian (Kazakhstan),ru-KZ,0x1000,4096
+Russian (Kyrgyzstan),ru-KG,0x1000,4096
+Russian (Moldova),ru-MD,0x819,2073
+Russian (Russia),ru-RU,0x419,1049
+Russian (Ukraine),ru-UA,0x1000,4096
+Rwa,rwk,0x1000,4096
+Rwa (Tanzania),rwk-TZ,0x1000,4096
+Saho,ssy,0x1000,4096
+Saho (Eritrea),ssy-ER,0x1000,4096
+Sakha,sah,0x85,133
+Sakha (Russia),sah-RU,0x485,1157
+Samburu,saq,0x1000,4096
+Samburu (Kenya),saq-KE,0x1000,4096
+Sami (Inari),smn,0x703B,28731
+Sami (Lule),smj,0x7C3B,31803
+Sami (Northern),se,0x3B,59
+Sami (Skolt),sms,0x743B,29755
+Sami (Southern),sma,0x783B,30779
+Sami; Inari (Finland),smn-FI,0x243B,9275
+Sami; Lule (Norway),smj-NO,0x103B,4155
+Sami; Lule (Sweden),smj-SE,0x143B,5179
+Sami; Northern (Finland),se-FI,0xC3B,3131
+Sami; Northern (Norway),se-NO,0x43B,1083
+Sami; Northern (Sweden),se-SE,0x83B,2107
+Sami; Skolt (Finland),sms-FI,0x203B,8251
+Sami; Southern (Norway),sma-NO,0x183B,6203
+Sami; Southern (Sweden),sma-SE,0x1C3B,7227
+Sango,sg,0x1000,4096
+Sango (Central African Republic),sg-CF,0x1000,4096
+Sangu,sbp,0x1000,4096
+Sangu (Tanzania),sbp-TZ,0x1000,4096
+Sanskrit,sa,0x4F,79
+Sanskrit (India),sa-IN,0x44F,1103
+Scottish Gaelic,gd,0x91,145
+Scottish Gaelic (United Kingdom),gd-GB,0x491,1169
+Sena,seh,0x1000,4096
+Sena (Mozambique),seh-MZ,0x1000,4096
+Serbian,sr,0x7C1A,31770
+Serbian (Cyrillic),sr-Cyrl,0x6C1A,27674
+Serbian (Cyrillic; Bosnia and Herzegovina),sr-Cyrl-BA,0x1C1A,7194
+Serbian (Cyrillic; Kosovo),sr-Cyrl-XK,0x1000,4096
+Serbian (Cyrillic; Montenegro),sr-Cyrl-ME,0x301A,12314
+Serbian (Cyrillic; Serbia),sr-Cyrl-RS,0x281A,10266
+Serbian (Latin),sr-Latn,0x701A,28698
+Serbian (Latin; Bosnia and Herzegovina),sr-Latn-BA,0x181A,6170
+Serbian (Latin; Kosovo),sr-Latn-XK,0x1000,4096
+Serbian (Latin; Montenegro),sr-Latn-ME,0x2C1A,11290
+Serbian (Latin; Serbia),sr-Latn-RS,0x241A,9242
+Sesotho (Lesotho),st-LS,0x1000,4096
+Sesotho sa Leboa,nso,0x6C,108
+Sesotho sa Leboa (South Africa),nso-ZA,0x46C,1132
+Setswana,tn,0x32,50
+Setswana (Botswana),tn-BW,0x832,2098
+Setswana (South Africa),tn-ZA,0x432,1074
+Shambala,ksb,0x1000,4096
+Shambala (Tanzania),ksb-TZ,0x1000,4096
+Shona,sn,0x1000,4096
+Shona (Latin),sn-Latn,0x1000,4096
+Shona (Latin; Zimbabwe),sn-Latn-ZW,0x1000,4096
+Sindhi,sd,0x59,89
+Sindhi (Arabic),sd-Arab,0x7C59,31833
+Sindhi (Devanagari),sd-Deva,0x1000,4096
+Sindhi (Devanagari; India),sd-Deva-IN,0x459,1113
+Sindhi (Islamic Republic of Pakistan),sd-Arab-PK,0x859,2137
+Sinhala,si,0x5B,91
+Sinhala (Sri Lanka),si-LK,0x45B,1115
+Slovak,sk,0x1B,27
+Slovak (Slovakia),sk-SK,0x41B,1051
+Slovenian,sl,0x24,36
+Slovenian (Slovenia),sl-SI,0x424,1060
+Soga,xog,0x1000,4096
+Soga (Uganda),xog-UG,0x1000,4096
+Somali,so,0x77,119
+Somali (Djibouti),so-DJ,0x1000,4096
+Somali (Ethiopia),so-ET,0x1000,4096
+Somali (Kenya),so-KE,0x1000,4096
+Somali (Somalia),so-SO,0x477,1143
+South Ndebele,nr,0x1000,4096
+South Ndebele (South Africa),nr-ZA,0x1000,4096
+Southern Sotho,st,0x30,48
+Southern Sotho (South Africa),st-ZA,0x430,1072
+Spanish,es,0xA,10
+Spanish (Argentina),es-AR,0x2C0A,11274
+Spanish (Belize),es-BZ,0x1000,4096
+Spanish (Bolivarian Republic of Venezuela),es-VE,0x200A,8202
+Spanish (Bolivia),es-BO,0x400A,16394
+Spanish (Brazil),es-BR,0x1000,4096
+Spanish (Chile),es-CL,0x340A,13322
+Spanish (Colombia),es-CO,0x240A,9226
+Spanish (Costa Rica),es-CR,0x140A,5130
+Spanish (Cuba),es-CU,0x5C0A,23562
+Spanish (Dominican Republic),es-DO,0x1C0A,7178
+Spanish (Ecuador),es-EC,0x300A,12298
+Spanish (El Salvador),es-SV,0x440A,17418
+Spanish (Equatorial Guinea),es-GQ,0x1000,4096
+Spanish (Guatemala),es-GT,0x100A,4106
+Spanish (Honduras),es-HN,0x480A,18442
+Spanish (Latin America),es-419,0x580A,22538
+Spanish (Mexico),es-MX,0x80A,2058
+Spanish (Nicaragua),es-NI,0x4C0A,19466
+Spanish (Panama),es-PA,0x180A,6154
+Spanish (Paraguay),es-PY,0x3C0A,15370
+Spanish (Peru),es-PE,0x280A,10250
+Spanish (Philippines),es-PH,0x1000,4096
+Spanish (Puerto Rico),es-PR,0x500A,20490
+Spanish (Spain),es-ES,0xC0A,3082
+Spanish (United States),es-US,0x540A,21514
+Spanish (Uruguay),es-UY,0x380A,14346
+Standard Moroccan Tamazight,zgh,0x1000,4096
+Standard Moroccan Tamazight (Tifinagh),zgh-Tfng,0x1000,4096
+Standard Moroccan Tamazight (Tifinagh; Morocco),zgh-Tfng-MA,0x1000,4096
+Swati,ss,0x1000,4096
+Swati (South Africa),ss-ZA,0x1000,4096
+Swati (Swaziland),ss-SZ,0x1000,4096
+Swedish,sv,0x1D,29
+Swedish (Åland Islands),sv-AX,0x1000,4096
+Swedish (Finland),sv-FI,0x81D,2077
+Swedish (Sweden),sv-SE,0x41D,1053
+Syriac,syr,0x5A,90
+Syriac (Syria),syr-SY,0x45A,1114
+Tachelhit,shi,0x1000,4096
+Tachelhit (Latin),shi-Latn,0x1000,4096
+Tachelhit (Latin; Morocco),shi-Latn-MA,0x1000,4096
+Tachelhit (Tifinagh),shi-Tfng,0x1000,4096
+Tachelhit (Tifinagh; Morocco),shi-Tfng-MA,0x1000,4096
+Taita,dav,0x1000,4096
+Taita (Kenya),dav-KE,0x1000,4096
+Tajik,tg,0x28,40
+Tajik (Cyrillic),tg-Cyrl,0x7C28,31784
+Tajik (Cyrillic; Tajikistan),tg-Cyrl-TJ,0x428,1064
+Tamazight,tzm,0x5F,95
+Tamazight (Latin),tzm-Latn,0x7C5F,31839
+Tamazight (Latin; Algeria),tzm-Latn-DZ,0x85F,2143
+Tamazight (Tifinagh),tzm-Tfng,0x785F,30815
+Tamil,ta,0x49,73
+Tamil (India),ta-IN,0x449,1097
+Tamil (Malaysia),ta-MY,0x1000,4096
+Tamil (Singapore),ta-SG,0x1000,4096
+Tamil (Sri Lanka),ta-LK,0x849,2121
+Tasawaq,twq,0x1000,4096
+Tasawaq (Niger),twq-NE,0x1000,4096
+Tatar,tt,0x44,68
+Tatar (Russia),tt-RU,0x444,1092
+Telugu,te,0x4A,74
+Telugu (India),te-IN,0x44A,1098
+Teso,teo,0x1000,4096
+Teso (Kenya),teo-KE,0x1000,4096
+Teso (Uganda),teo-UG,0x1000,4096
+Thai,th,0x1E,30
+Thai (Thailand),th-TH,0x41E,1054
+Tibetan,bo,0x51,81
+Tibetan (India),bo-IN,0x1000,4096
+Tibetan (PRC),bo-CN,0x451,1105
+Tigre,tig,0x1000,4096
+Tigre (Eritrea),tig-ER,0x1000,4096
+Tigrinya,ti,0x73,115
+Tigrinya (Eritrea),ti-ER,0x873,2163
+Tigrinya (Ethiopia),ti-ET,0x473,1139
+Tongan,to,0x1000,4096
+Tongan (Tonga),to-TO,0x1000,4096
+Tsonga,ts,0x31,49
+Tsonga (South Africa),ts-ZA,0x431,1073
+Turkish,tr,0x1F,31
+Turkish (Cyprus),tr-CY,0x1000,4096
+Turkish (Turkey),tr-TR,0x41F,1055
+Turkmen,tk,0x42,66
+Turkmen (Turkmenistan),tk-TM,0x442,1090
+Ukrainian,uk,0x22,34
+Ukrainian (Ukraine),uk-UA,0x422,1058
+Upper Sorbian,hsb,0x2E,46
+Upper Sorbian (Germany),hsb-DE,0x42E,1070
+Urdu,ur,0x20,32
+Urdu (India),ur-IN,0x820,2080
+Urdu (Islamic Republic of Pakistan),ur-PK,0x420,1056
+Uyghur,ug,0x80,128
+Uyghur (PRC),ug-CN,0x480,1152
+Uzbek,uz,0x43,67
+Uzbek (Cyrillic),uz-Cyrl,0x7843,30787
+Uzbek (Cyrillic; Uzbekistan),uz-Cyrl-UZ,0x843,2115
+Uzbek (Latin),uz-Latn,0x7C43,31811
+Uzbek (Latin; Uzbekistan),uz-Latn-UZ,0x443,1091
+Uzbek (Perso-Arabic),uz-Arab,0x1000,4096
+Uzbek (Perso-Arabic; Afghanistan),uz-Arab-AF,0x1000,4096
+Vai,vai,0x1000,4096
+Vai (Latin),vai-Latn,0x1000,4096
+Vai (Latin; Liberia),vai-Latn-LR,0x1000,4096
+Vai (Vai),vai-Vaii,0x1000,4096
+Vai (Vai; Liberia),vai-Vaii-LR,0x1000,4096
+Valencian (Spain),ca-ES-valencia,0x803,2051
+Venda,ve,0x33,51
+Venda (South Africa),ve-ZA,0x433,1075
+Vietnamese,vi,0x2A,42
+Vietnamese (Vietnam),vi-VN,0x42A,1066
+Volapük,vo,0x1000,4096
+Volapük (World),vo-001,0x1000,4096
+Vunjo,vun,0x1000,4096
+Vunjo (Tanzania),vun-TZ,0x1000,4096
+Walser,wae,0x1000,4096
+Walser (Switzerland),wae-CH,0x1000,4096
+Welsh,cy,0x52,82
+Welsh (United Kingdom),cy-GB,0x452,1106
+Wolaytta,wal,0x1000,4096
+Wolaytta (Ethiopia),wal-ET,0x1000,4096
+Wolof,wo,0x88,136
+Wolof (Senegal),wo-SN,0x488,1160
+Yangben,yav,0x1000,4096
+Yangben (Cameroon),yav-CM,0x1000,4096
+Yi,ii,0x78,120
+Yi (PRC),ii-CN,0x478,1144
+Yiddish,yi,0x3D,61
+Yiddish (World),yi-001,0x43D,1085
+Yoruba,yo,0x6A,106
+Yoruba (Benin),yo-BJ,0x1000,4096
+Yoruba (Nigeria),yo-NG,0x46A,1130
+Zarma,dje,0x1000,4096
+Zarma (Niger),dje-NE,0x1000,4096

@@ -34,6 +34,7 @@
 | org-domain-names           | DNSSEC resource records within the [.org TLD](https://wikipedia.org/wiki/.org)  
 | pgbs0dh-domain-records     | a list of DNSSEC resource records in the pgbs0dh TLD  
 | popular-subdomains-list    | List of most popular subdomains on the Internet  
+| public-suffix-list         | [Public Suffix List](https://publicsuffix.org "Public Suffix List") in JSON format  
 | special-use-domains        | DNS domain names categorized as "Special-Use" by [IANA](https://iana.org/)  
 | special-use-extra          | All domains from `special-use-domains` and additional names that might be considered "special", but in a non-standard way  
 | tlds-alpha-dom             | an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  

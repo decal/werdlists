@@ -108,7 +108,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [inet-routes](inet-routes)     | :cloud: Data useful in the maintenance and use of an Internet [routing table](https://wikipedia.org/wiki/Routing_table)  
 | [inet-services](inet-services)   | :fountain: Lists of Internet protocols/daemons--similar to `/etc/services`  
 | [infosec-people](infosec-people)  | :neckbeard: Noteworthy individuals known from [information security communities](http://infosecevents.net/communities/)  
-| [iso-codes](iso-codes)       | :heavy_check_mark: [ISO](https://iso.org "International Standardization Organization") code numbers and such  
+| [iso-codes](iso-codes)       | :heavy_check_mark: Codes, numbers and such as standardized by [ISO](https://iso.org "International Standardization Organization")  
 | [java-data](java-data)       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 | [linux-data](linux-data)      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
 | [linux-paths](linux-paths)     | :paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
