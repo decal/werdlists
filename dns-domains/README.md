@@ -32,6 +32,7 @@
 | net-domain-names           | various domain names within the `.net` top-level domain  
 | ntld-launch-dates          | New [gTLD](https://wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") launches in chronological order via <https://ntldstats.com/launch?start=>  
 | org-domain-names           | DNSSEC resource records within the [.org TLD](https://wikipedia.org/wiki/.org)  
+| paypal-domains-added       | list of various PayPal related domains (most likely to be malicious)  
 | pgbs0dh-domain-records     | a list of DNSSEC resource records in the pgbs0dh TLD  
 | popular-subdomains-list    | List of most popular subdomains on the Internet  
 | public-suffix-list         | [Public Suffix List](https://publicsuffix.org "Public Suffix List") in JSON format  

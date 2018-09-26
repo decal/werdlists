@@ -7,6 +7,7 @@
 | [html5sec-attack-vectors](html5sec-attack-vectors.txt) | `vectors.txt` file from the [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) GitHub repository
 | [joomla-components-targeted](joomla-components-targeted.txt) |  list of [Joomla](https://www.joomla.com) components vulnerable to [LFI](https://wikipedia.org/wiki/File_inclusion_vulnerability "File inclusion vulnerability") targeted on a honeypot from <http://tacticalwebappsec.blogspot.com/2011/11/mass-joomla-component-lfi-attacks.html> 
 | [mongodb-nosql-injection](mongodb-nosql-injection.txt) |  [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists) 
+| [mssql-injection-strings](mssql-injection-strings.txt) | SQL injection attack strings specified to [Microsoft SQL Server](https://microsoft.com/sql-server)  
 | [png-html-polyglot](png-html-polyglot.html) |  a PNG image file also containing HTML, CSS and JavaScript 
 | [sql-errors-data](sql-errors-data.txt) |  typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system") 
 | [wapples-vseries-rules](wapples-vseries-rules.txt) |  WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf> 
