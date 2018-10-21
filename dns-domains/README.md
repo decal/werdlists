@@ -40,7 +40,7 @@
 | special-use-extra          | All domains from `special-use-domains` and additional names that might be considered "special", but in a non-standard way  
 | tlds-alpha-dom             | an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  
 | top-level-names            | New [gTLD](https://wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") list taken from `ntldstats.com`  
-| top5000dns-prefixes-suffixes | Top 5000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
+| top5k-domain-affixes       | Top 5000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
 | uk-domain-names            | DNSSEC resource records within the [.uk ccTLD](https://wikipedia.org/wiki/.uk)  
 | upenn-domain-records       | resource records for upenn.edu domain and its subdomains  
 | ustld-dnssec-records       | list of DNSSEC records for domains in the [.us ccTLD](https://wikipedia.org/wiki/.us)  

@@ -14,7 +14,6 @@
 | [malc0de-ip-blacklist](malc0de-ip-blacklist.txt) |  malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses") 
 | [malware-domain-ips](malware-domain-ips.txt) |  IP addresses from [Malware Domain List](https://www.malwaredomainlist.com) 
 | [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository
-| [moby-ipv6-list](moby-ipv6-list.txt) |  common hex strings seen in [IPv6 addressing](https://www.ipv6.com/general/ipv6-addressing) taken from *Moby* 
 | [nmap-multicast-groups](nmap-multicast-groups.txt) |  taken from nmap's `nselib/data/mgroupnames.db` 
 | [org-unit-ident](org-unit-ident.txt.xz) |  Organizational Unit Identifiers from the [IEEE](https://ieee.org) 
 | [private-ipv4-abridged](private-ipv4-abridged.txt.xz) |  An abridged list of individually [Reserved IPv4 Addresses](https://wikipedia.org/wiki/Reserved_IP_addresses#IPv4) 

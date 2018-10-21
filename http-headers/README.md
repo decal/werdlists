@@ -32,7 +32,6 @@
 | [ssrf-headers-ip](ssrf-headers-ip.txt) | SSRF request header names ending with the substring `-IP`
 | [ssrf-headers-server](ssrf-headers-server.txt) | SSRF request header names ending with the substring `-Server`
 | [ssrf-headers-vanilla](ssrf-headers-vanilla.txt) SSRF request header names without any specific appendage
-| [ssrf-http-headers](ssrf-http-headers.txt) |  HTTP headers that can be used for Server-Side Request Forgery 
 | [ssrf-request-headers](ssrf-request-headers.txt) |  request headers that can be used in SSRF attacks 
 | [ssrf-response-headers](ssrf-response-headers.txt) |  response headers host names for SSRF can be parsed from 
 | [tusio-http-headers](tusio-http-headers.txt) |  headers used by resumable file transfer protocol, see [tus.io](https://tus.io "Open Protocol for Resumable File Uploads") 

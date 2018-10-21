@@ -47,6 +47,7 @@
 | [technical-manual-words](technical-manual-words.txt) | various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt> 
 | [tweet-word-ngrams](tweet-word-ngrams.txt.xz) |  binary sequence and words parsed from tweets with cardinality 
 | [usgovt-manual-acronyms](usgovt-manual-acronyms.txt) | [U.S. Government Manual](https://usgovernmentmanual.gov) Commonly Used Agency Acronyms 
+| [various-vocabulary-sorted](various-vocabulary-sorted.txt) | Various English words in lowercase and sorted  
 | [word-cluster-ngrams](word-cluster-ngrams.txt) | word clusters parsed from the text in millions of tweets 
 | [worker-death-cases](worker-death-cases.txt) | sentences sorted by increasing length, each of which details unique cases of worker death 
 | [worker-death-summaries2017](worker-death-summaries2017.csv) | [Occupational Health and Safety Adminstration](https://osha.gov "United States Department of Labor") [Archive Reports of Fatalities and Catastrophes](https://www.osha.gov/dep/fatcat/dep_fatcat_archive.html "Fatality Inspection Data Incident Files for Federal/State Summaries") 

@@ -8,9 +8,7 @@
 | [libc-library-files](libc-library-files.txt) | `files.txt` from [libc-binary-collection](https://github.com/molnarg/libc-binary-collection "A collection of more than 1000 binary libc files")
 | [mail-group-dirs](mail-group-dirs.txt) |  directories with ownership by the mail group 
 | [mail-group-files](mail-group-files.txt) |  files with ownership by the mail group 
-| [mail-user-dirs](mail-user-dirs.txt) |  directories with ownership by the `mail` user 
 | [mail-user-files](mail-user-files.txt) |  files with ownership by the `mail` user 
-| [mlocate-group-dirs](mlocate-group-dirs.txt) |  directories with ownership by the `mlocate` group 
 | [mlocate-group-files](mlocate-group-files.txt) |  files with ownership by the `mlocate` group 
 | [nogroup-group-dirs](nogroup-group-dirs.txt) |  directories with ownership by a GID not in `/etc/group` 
 | [nogroup-group-files](nogroup-group-files.txt) |  files with ownership by a GID not in `/etc/group` 
