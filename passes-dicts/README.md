@@ -20,6 +20,7 @@
 | [password-leetspeak-permutations](password-leetspeak-permutations.txt) | various leetspeak permutations of _password_ <https://testnetworkalpha.com/uni/Crack/Passwords/password-permutations.txt>  
 | [snmp-community-strings](snmp-community-strings.txt) |  [SNMP](http://snmp.com) commmunity strings taken from <https://raw.githubusercontent.com/1N3/BruteX/master/wordlists/snmp-strings.txt> 
 | [tpx-brute-users](tpx-brute-users.txt) | users list included with the [TPX-Brute](https://github.com/quentinhardy/TPX-Brute) tool--an IBM z/OS mainframe TPX panel account enumerator and brute forcer  
+| [two-word-full](two-word-full.txt.xz) | sorted dictionary of passwords consisting of two adjacent words  
 | [zxcvbn-passwords-list](zxcvbn-passwords-list.txt) |  passwords from `passwords.txt` included with *zxcvbn* 
 
 * * *

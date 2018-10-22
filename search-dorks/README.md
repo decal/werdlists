@@ -7,6 +7,7 @@
 | [googlehack-master-list](googlehack-master-list.txt) |  taken from the GitHub gist [GoogleHackMasterList.txt](https://gist.github.com/cmartinbaughman/5877945) 
 | [google-ssrf-vulns](google-ssrf-vulns.txt) |  pages vulnerable to request forgery or open redirect 
 | [google-various-dorks](google-various-dorks.txt) |  a popular search dorks list (not created by me) 
+| [yandex-search-operators](yandex-search-operators.csv) | Descriptions and examples of [Yandex](https://yandex.com) search operators  
 
 * * *
 

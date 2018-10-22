@@ -1,0 +1,6 @@
+Operator(s),Description,Examples 
+site:,Show approximately how many URLs are indexed by Baidu,site:baidu.com
+domain:,Learn whether the domain name has been indexed by Baidu and URL information,domain:baidu.com
+inurl:/ allinurl:,Find web pages having your keywords in a file path,inurl:news allinurl:news paper
+intitle:/ allintitle:,Find web pages having your keywords in a page title,intitle:news allintitle: news paper 
+filetype:,Find possible file types in any index sites. (PDF HTML XLS PPT DOC),filetype:pdf
