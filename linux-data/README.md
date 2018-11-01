@@ -2,8 +2,9 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apt-cache-search](apt-cache-search.txt.xz) |  list of Debian packages gathered via empty cache search string 
 | [apt-config-dump](apt-config-dump.txt) |  sample contents of Debian APT's configuration space 
-| [atomicorp-linux-features](atomicorp-linux-features.txt) |  Atomic Secure Linux features list <https://wiki.atomicorp.com/wiki/index.php/ASL> 
 | [archstrike-package-list](archstrike-package-list.txt) |  list of [pacman](https://www.archlinux.org/pacman/ "Pacman Home Page") packages distributed with [ArchStrike](https://archstrike.org) from <https://archstrike.org/packages/search/%20/name-description> 
+| [atomicorp-linux-features](atomicorp-linux-features.txt) |  Atomic Secure Linux features list <https://wiki.atomicorp.com/wiki/index.php/ASL> 
+| [audit-daemon-config](audit-daemon-config.rules) | Linux Audit Daemon Best Practices Configuration  
 | [bash-function-bindings](bash-function-bindings.txt) |  bash shell function bindings as listed with `bind -l` 
 | [bash-shell-builtins](bash-shell-builtins.txt) |  bash shell builtins as viewed via `enable -a` 
 | [bash-shell-options](bash-shell-options.txt) |  bash shell options as managed by [the `shopt` builtin](https://gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html "the shopt builtin") 

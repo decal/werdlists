@@ -1,0 +1,178 @@
+Category	Settings page	URI Command
+Settings home page	ms-settings:
+System		
+Display	ms-settings:display
+Night light
+ms-settings:nightlight
+Connect to a wireless display
+ms-settings-connectabledevices:devicediscovery
+Sound (build 17063)	ms-settings:sound
+Notifications & actions	ms-settings:notifications
+Quiet hours (build 17074)	ms-settings:quiethours
+Power & sleep	ms-settings:powersleep
+Battery	ms-settings:batterysaver
+Battery usage by app
+ms-settings:batterysaver-usagedetails
+Battery Saver settings
+ms-settings:batterysaver-settings
+Storage	ms-settings:storagesense
+Save locations
+ms-settings:savelocations
+Change how we free up space
+ms-settings:storagepolicies
+Tablet mode	ms-settings:tabletmode
+Multitasking	ms-settings:multitasking
+Projecting to this PC	ms-settings:project
+Shared experiences	ms-settings:crossdevice
+Remote Desktop	ms-settings:remotedesktop
+About	ms-settings:about
+Devices		
+Bluetooth & other devices	ms-settings:bluetooth
+Printers & scanners	ms-settings:printers
+Mouse	ms-settings:mousetouchpad
+Touchpad	ms-settings:devices-touchpad
+Typing	ms-settings:typing
+Wheel (Only available if Dial is paired)	ms-settings:wheel
+Pen & Windows Ink	ms-settings:pen
+AutoPlay	ms-settings:autoplay
+USB	ms-settings:usb
+Phone (build 16251)		
+Phone	ms-settings:mobile-devices
+Add a phone
+ms-settings:mobile-devices-addphone
+Network & Internet		ms-settings:network
+Status	ms-settings:network-status
+Show available networks
+ms-availablenetworks:
+Cellular & SIM	ms-settings:network-cellular
+Wi-Fi	ms-settings:network-wifi
+Manage known networks
+ms-settings:network-wifisettings
+Wi-Fi Calling	ms-settings:network-wificalling
+Ethernet	ms-settings:network-ethernet
+Dial-up	ms-settings:network-dialup
+DirectAccess (Only available if DirectAccess is enabled)	ms-settings:network-directaccess
+VPN	ms-settings:network-vpn
+Airplane mode	ms-settings:network-airplanemode
+Mobile hotspot	ms-settings:network-mobilehotspot
+Data usage	ms-settings:datausage
+Proxy	ms-settings:network-proxy
+Personalization		ms-settings:personalization
+Background	ms-settings:personalization-background
+Colors	ms-settings:colors
+Lock screen	ms-settings:lockscreen
+Themes	ms-settings:themes
+Fonts (build 17083)	ms-settings:fonts
+Start	ms-settings:personalization-start
+Taskbar	ms-settings:taskbar
+Apps		
+Apps & features	ms-settings:appsfeatures
+Manage optional features
+ms-settings:optionalfeatures
+Default apps	ms-settings:defaultapps
+Offline maps	ms-settings:maps
+Apps for websites	ms-settings:appsforwebsites
+Video playback (build 16215)	ms-settings:videoplayback
+Startup (build 17017)	ms-settings:startupapps
+Accounts		
+Your info	ms-settings:yourinfo
+Email & app accounts	ms-settings:emailandaccounts
+Sign-in options	ms-settings:signinoptions
+Windows Hello
+ms-settings:signinoptions-launchfaceenrollment
+Access work or school	ms-settings:workplace
+Family & other people	ms-settings:otherusers
+Sync your settings	ms-settings:sync
+Time & language		
+Date & time	ms-settings:dateandtime
+Region & language	ms-settings:regionlanguage
+Keyboard (removed in build 17083)	ms-settings:keyboard
+Speech	ms-settings:speech
+Gaming		
+Game bar	ms-settings:gaming-gamebar
+Game DVR	ms-settings:gaming-gamedvr
+Broadcasting	ms-settings:gaming-broadcasting
+Game Mode	ms-settings:gaming-gamemode
+TruePlay (build 16251)
+(formerly called Game Monitor)	ms-settings:gaming-trueplay
+Xbox Networking (build 16226)	ms-settings:gaming-xboxnetworking
+Extras	(Only available if "settings apps" are installed (e.g. by 3rd party))	
+Extras	ms-settings:extras
+Ease of Access		
+Display (build 17025)	ms-settings:easeofaccess-display
+Cursor, pointer and touch feedback (build 17040)	
+Magnifier	ms-settings:easeofaccess-magnifier
+High Contrast	ms-settings:easeofaccess-highcontrast
+Color Filters (build 17025)	
+Narrator	ms-settings:easeofaccess-narrator
+Audio (build 17035)	ms-settings:easeofaccess-audio
+Closed captions	ms-settings:easeofaccess-closedcaptioning
+Speech (build 17035)	ms-settings:easeofaccess-speechrecognition
+Keyboard	ms-settings:easeofaccess-keyboard
+Mouse	ms-settings:easeofaccess-mouse
+Eye Control (beta) (build 17035)	ms-settings:easeofaccess-eyegaze
+Other options	ms-settings:easeofaccess-otheroptions
+Cortana (build 16188)		ms-settings:cortana
+Talk to Cortana	ms-settings:cortana
+Permissions & history	ms-settings:cortana-permissions
+Notifications	ms-settings:cortana-notifications
+More details	ms-settings:cortana-moredetails
+Cortana Language
+ms-settings:cortana-language
+Privacy		ms-settings:privacy
+General	ms-settings:privacy
+Speech, inking, & typing	ms-settings:privacy-speechtyping
+Diagnostics & feedback	ms-settings:privacy-feedback
+Activity history (build 17040)	ms-settings:privacy-activityhistory
+Location	ms-settings:privacy-location
+Camera	ms-settings:privacy-webcam
+Microphone	ms-settings:privacy-microphone
+Notifications	ms-settings:privacy-notifications
+Account info	ms-settings:privacy-accountinfo
+Contacts	ms-settings:privacy-contacts
+Calendar	ms-settings:privacy-calendar
+Call history	ms-settings:privacy-callhistory
+Email	ms-settings:privacy-email
+Tasks	ms-settings:privacy-tasks
+Messaging	ms-settings:privacy-messaging
+Radios	ms-settings:privacy-radios
+Other devices	ms-settings:privacy-customdevices
+Background apps	ms-settings:privacy-backgroundapps
+App diagnostics	ms-settings:privacy-appdiagnostics
+Automatic file downloads	ms-settings:privacy-automaticfiledownloads
+Documents	ms-settings:privacy-documents
+Pictures	ms-settings:privacy-pictures
+Videos	ms-settings:privacy-documents
+Update & security		ms-settings:windowsupdate
+Windows Update	ms-settings:windowsupdate
+Check for updates
+ms-settings:windowsupdate-action
+Update history
+ms-settings:windowsupdate-history
+Restart options
+ms-settings:windowsupdate-restartoptions
+Advanced options
+ms-settings:windowsupdate-options
+Delivery Optimization
+ms-settings:delivery-optimization
+Windows Security (renamed in build 17083)	ms-settings:windowsdefender
+Open Windows Defender Security Center
+windowsdefender:
+Backup	ms-settings:backup
+Troubleshoot	ms-settings:troubleshoot
+Recovery	ms-settings:recovery
+Activation	ms-settings:activation
+Find My Device	ms-settings:findmydevice
+For developers	ms-settings:developers
+Windows Insider Program	ms-settings:windowsinsider
+Mixed reality		ms-settings:holographic
+Audio and speech	ms-settings:holographic-audio
+Environment	
+Headset display	
+Uninstall	
+Surface Hub		
+Accounts	ms-settings:surfacehub-accounts
+Team Conferencing	ms-settings:surfacehub-calling
+Team device management	ms-settings:surfacehub-devicemanagenent
+Session cleanup	ms-settings:surfacehub-sessioncleanup
+Welcome screen	ms-settings:surfacehub-welcome
