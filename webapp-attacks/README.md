@@ -2,6 +2,7 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [cors-bot-code](cors-bot-code.txt) |  [CORS](https://w3.org/TR/cors/ "Cross Origin Resource Sharing") test bot passes `X-Requested-With` and `X-Request` headers..from <http://xssor.io/s/payload/iamanewbotnamedcorsbot.txt> 
 | [dom-xss-points](dom-xss-points.txt) | points in the DOM where XSS attacks are likely to take place
+| [ecmascript-attack-vectors](ecmascript-attack-vectors.txt) | ECMAScript Attack Vectors from <https://github.com/google/caja/wiki/AttackVectors>  
 | [gnucitizen-attackapi-payloads](gnucitizen-attackapi-payloads.txt) |  [gnucitizen.org AttackAPI](http://www.gnucitizen.org/blog/attackapi/ "ATTACKAPI") payloads from <http://xssor.io/s/payload/attackapi.txt> 
 | [html-png-polyglot](html-png-polyglot.html) |  Another file with HTML/CSS/JS code that's also a PNG 
 | [html5sec-attack-vectors](html5sec-attack-vectors.txt) | `vectors.txt` file from the [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) GitHub repository
