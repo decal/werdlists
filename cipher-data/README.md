@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [all-certificate-records](all-certificate-records.csv) | <http://ccadb-public.secure.force.com/mozilla/AllCertificateRecordsCSVFormat>  
 | [compsec-cert-std](compsec-cert-std.txt) |  [NIST FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf) cryptographic product security validation 
 | [crypto-product-std](crypto-product-std.txt) |  ["Common Criteria"](https://wikipedia.org/wiki/Common_Criteria) compliance according to national authority 
 | [crypto-attacks-list](crypto-attacks-list.txt) | a list of cryptographic attack names including recent techniques against TLS  
