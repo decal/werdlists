@@ -8,6 +8,7 @@
 | [github-dmca-users](github-dmca-users.txt) |  links to GitHub accounts that have received [DMCA](https://wikipedia.org/wiki/Digital_Millennium_Copyright_Act "Digital Millenium Copyright Act") notices <https://github.com/github/dmca> 
 | [marketing-tech-landscape](marketing-tech-landscape.csv) |  top 5,000 marketing technology web sites 
 | [modern-web-history](modern-web-history.md) |  [A History of The Modern Web](https://github.com/whatwg/web-history "WHATWG web-history") 
+| [phishtank-developers-database](phishtank-developers-database.csv.xz) |  [PhishTank](https://phishtank.com "PhishTank is a collaborative clearing house for data and information about phishing on the Internet." ) downloadable database in CSV format via <https://phishtank.com/developer_info.php>  
 | [piidox-search-sites](piidox-search-sites.txt) |  list of [personally identifiable information](https://wikipedia.org/wiki/Personally_identifiable_information) search engines 
 | [simpl-redir-shortcuts](simpl-redir-shortcuts.txt) |  shortcuts for redirection on `simpl.info` 
 | [sites-using-cloudflare](sites-using-cloudflare.txt.xz) |  sites using CloudFlare WAF according to [GitHub @pirate](https://github.com/pirate) 

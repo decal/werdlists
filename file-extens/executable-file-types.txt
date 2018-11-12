@@ -1,0 +1,8 @@
+com
+exe
+zip
+dll
+pif
+vbs
+js
+scr

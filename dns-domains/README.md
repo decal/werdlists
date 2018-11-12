@@ -2,6 +2,7 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
 |:---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1k-domain-affixes          | 1,000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
 | 2letter-2digit-dotcom      | possibly unregistered two-letter, two-digit `.com` domain names  
 | azure-domain-names         | list of domain names from a reverse lookup on 64.4.6.100  
 | bitly-vanity-domains       | bitly vanity domains taken from a ruleset distributed with the [EFF HTTPS Everywhere](https://eff.org/https-everywhere "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.") browser extension <https://github.com/EFForg/https-everywhere/blob/master/src/chrome/content/rules/Bitly_branded_short_domains.xml>  
@@ -40,7 +41,6 @@
 | special-use-extra          | All domains from `special-use-domains` and additional names that might be considered "special", but in a non-standard way  
 | tlds-alpha-dom             | an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  
 | top-level-names            | New [gTLD](https://wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") list taken from `ntldstats.com`  
-| top5k-domain-affixes       | Top 5000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
 | uk-domain-names            | DNSSEC resource records within the [.uk ccTLD](https://wikipedia.org/wiki/.uk)  
 | upenn-domain-records       | resource records for upenn.edu domain and its subdomains  
 | ustld-dnssec-records       | list of DNSSEC records for domains in the [.us ccTLD](https://wikipedia.org/wiki/.us)  

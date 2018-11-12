@@ -1,0 +1,6 @@
+doc
+dot
+xls
+xlt
+xlsm
+xsltm
