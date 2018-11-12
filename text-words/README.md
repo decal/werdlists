@@ -46,6 +46,7 @@
 | [spike-proxy-allwords](spike-proxy-allwords.txt) | dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 
 | [technical-manual-words](technical-manual-words.txt) | various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt> 
 | [tweet-word-ngrams](tweet-word-ngrams.txt.xz) |  binary sequence and words parsed from tweets with cardinality 
+| [usenet-name-strings](usenet-name-strings.txt) |  strings parsed from USENET names
 | [usgovt-manual-acronyms](usgovt-manual-acronyms.txt) | [U.S. Government Manual](https://usgovernmentmanual.gov) Commonly Used Agency Acronyms 
 | [various-vocabulary-sorted](various-vocabulary-sorted.txt) | Various English words in lowercase and sorted  
 | [word-cluster-ngrams](word-cluster-ngrams.txt) | word clusters parsed from the text in millions of tweets 

@@ -3,6 +3,7 @@
 | [aria-roles-list](aria-roles-list.txt) |  list of [ARIA](https://w3.org/WAI/intro/aria) (Accessible Rich Internet Applications) role names 
 | [color-name-hex](color-name-hex.csv) |  CSV of [HTML color names](https://wikipedia.org/wiki/Web_colors#HTML_color_names) and their 6-digit hexadecimal encoding values 
 | [css-property-names](css-property-names.txt) |  Style sheet property names from [cssreference.io](https://cssreference.io) 
+| [html-encodings-list](html-encodings-list.json) |  HTML encodings via <https://encodings.spec.whatwg.org>  
 | [html-entities-list](html-entities-list.html) |  List of [HTML Entities](https://wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML), i.e. symbols prepended by ampersands 
 | [html-entities-spec](html-entities-spec.json) |  HTML entities with associated codepoints and characters <https://html.spec.whatwg.org/entities.json> 
 | [html5-tags-list](html5-tags-list.txt) |  A list of [HTML5](https://wikipedia.org/wiki/HTML5) tags (one-per-line) 

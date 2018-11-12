@@ -10,6 +10,7 @@
 | [open-door-useragents](open-door-useragents.txt) | `useragents.dat` file from [OpenDoor](https://github.com/stanislav-web/OpenDoor "OWASP WEB Directory Scanner")
 | [robots-user-agents](robots-user-agents.txt) |  User agent list taken from [Robots Database](http://robotstxt.org/db.html "The Web Robots Pages") 
 | [safari-user-agents](safari-user-agents.txt) |  [Apple Safari](https://apple.com/safari) user agent strings 
+| [user-agent-identifiers](user-agent-identifiers.txt) |  User agent identifiers parsed from <https://developer.whatismybrowser.com/explore>  
 | [user-agents-objects](user-agents-objects.js) |  <https://github.com/lancedikson/bowser/blob/master/src/useragents.js> 
 | [webcrawler-robots-database](webcrawler-robots-database.txt) |  legacy `webcrawler.com` robots database 
 
