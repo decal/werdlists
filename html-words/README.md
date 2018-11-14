@@ -13,6 +13,7 @@
 | [left-angle-bracket](left-angle-bracket.txt) |  70 '<' encodings from [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) 
 | [meta-name-extensions](meta-name-extensions.txt) |  Extension values for the `name=""` attribute of the HTML `<meta>` element via <https://wiki.whatwg.org/wiki/MetaExtensions>  
 | [microsoft-api-extensions](microsoft-api-extensions.txt) |  Microsoft JavaScript API extension identifiers via <https://developer.mozilla.org/en-US/docs/Web/API/Microsoft_Extension>  
+| [rel-value-extensions](rel-value-extensions.txt) |  Known values for the HTML `rel=""` attribute via <http://microformats.org/wiki/existing-rel-values>  
 | [rgb-code-names](rgb-code-names.txt) |  an 8-bit triplet of [HTML color codes](https://htmlcolorcodes.com) and the associated name 
 
 * * *

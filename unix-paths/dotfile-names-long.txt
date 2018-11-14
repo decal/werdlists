@@ -871,3 +871,12 @@
 .zshrc-config
 .zshrc-dirs
 .zuul.yml
+.byoburc
+.bbread
+.pine-debug
+.pine-debug1
+.pine-debug2
+.pine-debug3
+.pine-debug4
+.pine-crash
+.gopherrc

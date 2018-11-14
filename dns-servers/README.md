@@ -9,7 +9,6 @@
 | [dnsbrute-resolvers-list](dnsbrute-resolvers-list.txt) |  list of public-facing nameservers via `dnsbrute` tool 
 | [local-dns-zones](local-dns-zones.txt) | [RFC6303](https://tools.ietf.org/html/rfc6303 "Locally Served DNS Zones")
 | [pubdns-porn-tests](pubdns-porn-tests.txt) |  results for lookups of porn sites on public DNS resolvers <https://pastebin.com/raw/ztA7HQVE> 
-| [tld-whois-servers](tld-whois-servers.txt) |  the host names for [WHOIS](https://whois.icann.org/en) services listed by top-level domain 
 | [root-servers-list](root-servers-list.txt) |  list of the root domain nameservers from <https://iana.org/domains/root/servers> 
 | [xdns-asn-netdesc](xdns-asn-netdesc.txt) |  number of nameservers, autonomous system number, description 
 
