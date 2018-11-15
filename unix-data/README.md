@@ -23,6 +23,7 @@
 | [netbsd-sgid-games](netbsd-sgid-games.txt) |  paths to executables that have the set-GID bit set on [NetBSD](http://www.netbsd.com) 
 | [netbsd-sysctl-list](netbsd-sysctl-list.txt) |  symbols taken from [NetBSD](http://www.netbsd.com) [`sysctl`](http://netbsd.gw.com/cgi-bin/man-cgi?sysctl "get or set kernel state") entries 
 | [nmap-user-names](nmap-user-names.txt) |  taken from [NMap](https://nmap.org/ "Network Mapper") `nselib/data/usernames.lst` 
+| [rapid7-data-users](rapid7-data-users.csv) | user names parsed from Rapid7's archival summary data for annual National Exposure studies  
 | [real-users-list](real-users-list.txt) |  list of user names taken from a real/live [UNIX](http://unix.org) system 
 | [simple-users-list](simple-users-list.txt) |  list of simple user names taken from <https://raw.githubusercontent.com/1N3/BruteX/master/wordlists/simple-users.txt> 
 | [splunk-bad-directories](splunk-bad-directories.txt) |  directory names left out of default `splunkd` config 

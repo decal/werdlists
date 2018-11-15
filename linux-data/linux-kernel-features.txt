@@ -1,0 +1,81 @@
+ACPI    ACPI support is enabled.
+AGP     AGP (Accelerated Graphics Port) is enabled.
+ALSA    ALSA sound support is enabled.
+APIC    APIC support is enabled.
+APM     Advanced Power Management support is enabled.
+ARM     ARM architecture is enabled.
+AX25    Appropriate AX.25 support is enabled.
+BLACKFIN Blackfin architecture is enabled.
+CLK     Common clock infrastructure is enabled.
+CMA     Contiguous Memory Area support is enabled.
+DRM     Direct Rendering Management support is enabled.
+DYNAMIC_DEBUG Build in debug messages and enable them at runtime
+EDD     BIOS Enhanced Disk Drive Services (EDD) is enabled
+EFI     EFI Partitioning (GPT) is enabled
+EIDE    EIDE/ATAPI support is enabled.
+EVM     Extended Verification Module
+FB      The frame buffer device is enabled.
+FTRACE  Function tracing enabled.
+GCOV    GCOV profiling is enabled.
+HW      Appropriate hardware is enabled.
+IA-64   IA-64 architecture is enabled.
+IMA     Integrity measurement architecture is enabled.
+IOSCHED More than one I/O scheduler is enabled.
+IP_PNP  IP DHCP, BOOTP, or RARP is enabled.
+IPV6    IPv6 support is enabled.
+ISAPNP  ISA PnP code is enabled.
+ISDN    Appropriate ISDN support is enabled.
+JOY     Appropriate joystick support is enabled.
+KGDB    Kernel debugger support is enabled.
+KVM     Kernel Virtual Machine support is enabled.
+LIBATA  Libata driver is enabled
+LP      Printer support is enabled.
+LOOP    Loopback device support is enabled.
+M68k    M68k architecture is enabled.  These options have more detailed description inside of Documentation/m68k/kernel-options.txt.
+MDA     MDA console support is enabled.
+MIPS    MIPS architecture is enabled.
+MOUSE   Appropriate mouse support is enabled.
+MSI     Message Signaled Interrupts (PCI).
+MTD     MTD (Memory Technology Device) support is enabled.
+NET     Appropriate network support is enabled.
+NUMA    NUMA support is enabled.
+NFS     Appropriate NFS support is enabled.
+OSS     OSS sound support is enabled.
+PV_OPS  A paravirtualized kernel is enabled.
+PARIDE  The ParIDE (parallel port IDE) subsystem is enabled.
+PARISC  The PA-RISC architecture is enabled.
+PCI     PCI bus support is enabled.
+PCIE    PCI Express support is enabled.
+PCMCIA  The PCMCIA subsystem is enabled.
+PNP     Plug & Play support is enabled.
+PPC     PowerPC architecture is enabled.
+PPT     Parallel port support is enabled.
+PS2     Appropriate PS/2 support is enabled.
+RAM     RAM disk support is enabled.
+S390    S390 architecture is enabled.
+SCSI    Appropriate SCSI support is enabled.  A lot of drivers have their options described inside the Documentation/scsi/ sub-directory.
+SECURITY Different security models are enabled.
+SELINUX SELinux support is enabled.
+APPARMOR AppArmor support is enabled.
+SERIAL  Serial support is enabled.
+SH      SuperH architecture is enabled.
+SMP     The kernel is an SMP kernel.
+SPARC   Sparc architecture is enabled.
+SWSUSP  Software suspend (hibernation) is enabled.
+SUSPEND System suspend states are enabled.
+TPM     TPM drivers are enabled.
+TS      Appropriate touchscreen support is enabled.
+UMS     USB Mass Storage support is enabled.
+USB     USB support is enabled.
+USBHID  USB Human Interface Device support is enabled.
+V4L     Video For Linux support is enabled.
+VMMIO   Driver for memory mapped virtio devices is enabled.
+VGA     The VGA console has been enabled.
+VT      Virtual terminal support is enabled.
+WDT     Watchdog support is enabled.
+XT      IBM PC/XT MFM hard disk support is enabled.
+X86-32  X86-32, aka i386 architecture is enabled.
+X86-64  X86-64 architecture is enabled.  More X86-64 boot options can be found in Documentation/x86/x86_64/boot-options.txt .
+X86     Either 32-bit or 64-bit x86 (same as X86-32+X86-64)
+X86_UV  SGI UV support is enabled.
+XEN     Xen support is enabled

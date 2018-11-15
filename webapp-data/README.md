@@ -4,6 +4,7 @@
 | [common-colon-logins](common-colon-logins.txt) | colon delimited lines of common user and pass combinations  
 | [content-types-all](content-types-all.txt) | sorted and unique list of all files enumerating strings used as Content-Type request header  
 | [content-types-list](content-types-list.txt) | a list of MIME content types via IANA <https://iana.org/assignments/media-types/media-types.xhtml>  
+| [coupon-codes-list](coupon-codes-list.txt) | hand-crafted list of shopping cart application coupon code strings  
 | [github-api-emojis](github-api-emojis.txt) | Emoji icons supported by GitHub API in JSON format <https://api.github.com/emojis>  
 | [github-emojis-list](github-emojis-list.txt) | same as `github-api-emojis`, but only a single emoji names on each line  
 | [google-strings-list](google-strings-list.txt.xz) | very long list of strings parsed from Google [SERP's](https://wikipedia.org/wiki/Search_engine_results_page "Search Engine Results Pages")  

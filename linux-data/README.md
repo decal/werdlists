@@ -20,6 +20,7 @@
 | [kernel-git-shortlog](kernel-git-shortlog.txt) |  Kernel authors taken from source tree's `git shortlog` 
 | [libc-getconf-vars](libc-getconf-vars.txt) |  system configuration variable values from [`getconf(1)`](https://linux.die.net/man/1/getconf "get configuration values") 
 | [linux-errno-constants](linux-errno-constants.txt) |  preprocessor constants/messages collection from `errno` 
+| [linux-kernel-features](linux-kernel-features.txt) |  Linux kernel feature abbreviations and descriptions
 | [linux-syscall-names](linux-syscall-names.txt) |  A list of Linux system call identifiers from kernel code 
 | [posix-header-files](posix-header-files.txt) |  a list of POSIX conformant header files <http://pubs.opengroup.org/onlinepubs/9699919799/idx/head.html> 
 | [shared-library-names](shared-library-names.txt) | a list of shared library names taken from `ldconfig -v`
