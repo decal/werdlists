@@ -17,13 +17,11 @@ function img_src() {
   s += "GREEN";
   s += ".svg?logo=github&style=popout&longCache=true";
 
-  self.src = s;
-
-  return;
+  return s;
 }
 </script>
 
-<img onLoad="img_src();" />
+<img onload="this.onload=null; this.src=img_src();" />
 
 [![werdlists/http-headers](https://img.shields.io/badge/werdlists-http_headers-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
 
