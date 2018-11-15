@@ -1,8 +1,11 @@
-<script type="text/javascript">
-function img_src() {
+<!DOCTYPE html>
+<html><head><title>Test</title>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+function imgSource() {
   var s = "https://img.shields.io/badge/";
 
-  var apath = window.location.pathname;
+  var apath = document.location.pathname;
   var adirs = apath.split("/");
   var awerd = adirs[0];
   var afold = adirs[1];
@@ -19,9 +22,14 @@ function img_src() {
 
   return s;
 }
+//]]>
 </script>
-
-<img onload="this.onload=null; this.src=img_src();" />
+	</head>
+	<body>
+		<h1>Test</h1>
+<img src="pixel.gif" onLoad='this.src=imgSource();' />
+	</body>
+</html>
 
 [![werdlists/http-headers](https://img.shields.io/badge/werdlists-http_headers-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
 
