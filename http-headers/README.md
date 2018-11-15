@@ -1,40 +1,4 @@
----
-title: the example
----
-<!DOCTYPE html>
-<html><head><title>Test</title>
-<script type="text/javascript" charset="utf-8">
-//<![CDATA[
-function imgSource() {
-  var s = "https://img.shields.io/badge/";
-
-  var apath = document.location.pathname;
-  var adirs = apath.split("/");
-  var awerd = adirs[0];
-  var afold = adirs[1];
-  var afupc = afold.toUpperCase();
-  var awupc = awerd.toUpperCase();
-  var unupc = afupc.replace("-", "_");
-
-  s += awupc;
-  s += "-";
-  s += anupc;
-  s += "-";
-  s += "GREEN";
-  s += ".svg?logo=github&style=popout&longCache=true";
-
-  return s;
-}
-//]]>
-</script>
-	</head>
-	<body>
-		<h1>Test</h1>
-<img src="pixel.gif" onLoad='this.src=imgSource();' />
-	</body>
-</html>
-
-[![werdlists/http-headers](https://img.shields.io/badge/werdlists-http_headers-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
+[![](https://img.shields.io/badge/WERDLISTS-HTTP_HEADERS-yellow.svg?logo=github&style=popout&longCache=true)](# "")
 
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
