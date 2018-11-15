@@ -1,3 +1,6 @@
+---
+title: the example
+---
 <!DOCTYPE html>
 <html><head><title>Test</title>
 <script type="text/javascript" charset="utf-8">
