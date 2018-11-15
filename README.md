@@ -1,6 +1,8 @@
 [![Twitter: @decalresponds](https://img.shields.io/badge/contact-@decalresponds-blue.svg)](https://twitter.com/decalresponds "@decalresponds")
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/decal/werdlists/issues/new "Ask Me Anything!")
 [![werdlists](https://img.shields.io/badge/werd-lists-lightgrey.svg)](# "werdlists")
+[![stars](https://img.shields.io/github/stars/decal/werdlists.svg)](# "stars")
+[![forks](https://img.shields.io/github/forks/decal/werdlists.svg)](# "forks")
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://apache.org/licenses/LICENSE-2.0 "Apache License 2.0")
 [![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg)](# "repo-size")
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://gnu.org/software/bash/ "Made with Bash")

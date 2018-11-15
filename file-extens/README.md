@@ -11,7 +11,7 @@
 | [nmap-files-extensions](nmap-files-extensions.txt) |  taken from [NMap](https://nmap.org) file `nselib/data/http-web-files-extensions.lst`  
 | [splunk-bad-extensions](splunk-bad-extensions.txt) | bad file extensions from [Splunk](https://splunk.com) config file  
 | [video-format-extnames](video-format-extnames.txt) | video file format extensions list from [tvsm](https://github.com/TonCherAmi/tvsm "A simple command-line TV show manager.") `config` file  
-| [vim-autocmd-list](vim-autocmd-list.txt) |  file extensions and associated programs from `[vim](https://www.vim.org)` `autocmd`  
+| [vim-autocmd-list](vim-autocmd-list.txt) |  file extensions and associated programs from [vim](https://www.vim.org) `autocmd`  
 
 * * *
 
