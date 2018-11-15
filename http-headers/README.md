@@ -1,3 +1,30 @@
+<script type="text/javascript">
+function img_src() {
+  var s = "https://img.shields.io/badge/";
+
+  var apath = window.location.pathname;
+  var adirs = apath.split("/");
+  var awerd = adirs[0];
+  var afold = adirs[1];
+  var afupc = afold.toUpperCase();
+  var awupc = awerd.toUpperCase();
+  var unupc = afupc.replace("-", "_");
+
+  s += awupc;
+  s += "-";
+  s += anupc;
+  s += "-";
+  s += "GREEN";
+  s += ".svg?logo=github&style=popout&longCache=true";
+
+  self.src = s;
+
+  return;
+}
+</script>
+
+<img onLoad="img_src();" />
+
 [![werdlists/http-headers](https://img.shields.io/badge/werdlists-http_headers-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
 
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
@@ -6,14 +33,14 @@
 | [access-control-headers](access-control-headers.txt) |  [Cross Origin Resource Sharing](https://wikipedia.org/wiki/Cross-origin_resource_sharing) (CORS) header name list 
 | [amazon-http-headers](amazon-http-headers.txt) |  HTTP headers specific to Amazon 
 | [cloudfront-request-headers](cloudfront-request-headers.txt) |  Headers used by [Amazon AWS CloudFront](https://aws.amazon.com/cloudfront/ "CloudFront is a content delivery network offered by Amazon Web Services.") HTTP request 
-| [cors-request-headers](cors-request-headers.txt) |  list of CORS header names used only in HTTP requests 
-| [cors-response-headers](cors-response-headers.txt) |  list of CORS header names used only in HTTP responses 
+| [cors-request-headers](cors-request-headers.txt) |  CORS header names used only in HTTP requests 
+| [cors-response-headers](cors-response-headers.txt) |  CORS header names used only in HTTP responses 
 | [custom-header-names](custom-header-names.txt) |  HTTP request and response header names unspecified in RFC's 
 | [custom-request-headers](custom-request-headers.txt) |  non-standard HTTP request headers, i.e. lack RFC specs 
 | [custom-response-headers](custom-response-headers.txt) |  non-standard HTTP response headers, i.e. lack RFC specs 
 | [envoy-httpconnman-headers](envoy-httpconnman-headers.txt) |  headers used by the [Envoy](https://envoyproxy.io "Envoy is an open source edge and service proxy, designed for cloud-native applications.") HTTP connection manager 
-| [http-request-headers](http-request-headers.txt) |  the names of all standard HTTP request header fields 
-| [http-response-headers](http-response-headers.txt) |  the names of all standard HTTP response header fields 
+| [http-request-headers](http-request-headers.txt) |  names of all standard HTTP request header fields 
+| [http-response-headers](http-response-headers.txt) |  names of all standard HTTP response header fields 
 | [iana-headers-list](iana-headers-list.txt) |  A detailed list of message headers specified by IANA 
 | [iana-http-headers](iana-http-headers.txt) |  Uniquely Sorted List of IANA Message Headers Assignments 
 | [meetup-request-headers](meetup-request-headers.txt) |  HTTP request headers used by the MeetUp.com API 
