@@ -10,7 +10,7 @@
 | [example-in-db](example-in-db.zone) | example IN class zone database from [BIND](https://www.isc.org/downloads/bind/) source tree under `bin/tests/system`    
 | [examplecom-in-soa](examplecom-in-soa.zone) | zone file with `IN SOA` record for `example.com.`    
 | [iana-record-types](iana-record-types.txt) | record type strings as specified by [IANA](https://iana.org)       
-| [in-srv-protocols](in-srv-protocols.txt) | protocol names defined by [`IN SRV`] resource records   
+| [in-srv-protocols](in-srv-protocols.txt) | protocol names defined by `IN SRV` resource records   
 | [in-srv-services](in-srv-services.txt) | service names defined by `IN SRV` resource records from [NMap](https://nmap.org) source tree data of [NSE script dns-srv-enum](https://nmap.org/nsedoc/scripts/dns-srv-enum.html) <https://github.com/nmap/nmap/blob/master/nselib/data/dns-srv-names>    
 | [nsupdate-record-types](nsupdate-record-types.txt) | record types used in [nsupdate](https://wikipedia.org/wiki/Nsupdate) protocol messages    
 | [record-classes-long](record-classes-long.txt) | all record class strings as specified by [IANA](https://iana.org)    
