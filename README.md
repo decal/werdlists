@@ -33,7 +33,7 @@ style [newline](https://wikipedia.org/wiki/Newline).
 
 ## <a name="inspire"></a>Inspiration Taken From Similar Projects :thought_balloon:
 `werdlists` is very similar to [`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion").  (`SecLists` is maintained by my colleague at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com).
+[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion").  (`SecLists` is maintained by my former colleague at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com).
 Admittedly, `werdlists` is quite similar in mission as it's a centralized attack strings 
 and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource.  Regardless, `werdlists` expands on a number of concepts: it has its own unique style, organization, 
 original hand-crafted contents, dataset creation/management/validation scripts, scanner springboards, etc.
@@ -87,7 +87,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [cpu-arch](cpu-arch)        | :factory: Low-level computer architecture and hardware subjects  
 | [crypt-output](crypt-output)    | :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://wikipedia.org/wiki/Cryptographic_hash_function)  
 | [database-strs](database-strs)   | :floppy_disk: Strings often encountered when working with [database](https://wikipedia.org/wiki/Database) software  
-| [dns-domains](dns-domains)     | :globe_with_meridians: A list of domains that may or may not be found in the live DNS tree  
+| [dns-domains](dns-domains)     | :globe_with_meridians: A list of domains that may have been found in the live DNS tree at one point
 | [dns-hostnames](dns-hostnames)   | :flashlight: The host name part of an [FQDN](https://wikipedia.org/wiki/Fully_qualified_domain_name "Fully Qualified Domain Name")  
 | [dns-records](dns-records)     | :ticket: Data specific to [RR's](http://freesoft.org/CIE/Topics/78.htm "Resource Records") in the DNS system  
 | [dns-servers](dns-servers)     | :battery: Data provided to, produced by or related to DNS name servers  
@@ -121,13 +121,13 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [ntfs-paths](ntfs-paths)      | :open_file_folder: File [paths](https://msdn.microsoft.com/library/windows/desktop/aa365247.aspx#paths) expected to be seen in [NTFS](https://wikipedia.org/wiki/NTFS "New Technology File System") folders  
 | [owasp-data](owasp-data)      | :honeybee: Data from or for [OWASP](https://www.owasp.org "Open Web Application Security Project")  
 | [passes-dicts](passes-dicts)    | :key: Dictionary files for [brute-force attacks](https://wikipedia.org/wiki/Brute-force_attack) against account passwords  
-| [passes-sites](passes-sites)    | :unlock: Password lists that were publicized after major site compromises  
+| [passes-sites](passes-sites)    | :unlock: Hashed or unencrypted passwords that were publicized after the breach of a well-known site
 | [perl-data](perl-data)       | :camel: Data often seen in [PERL](http://www.perl.org) (Practical Extraction and Report Language)  
 | [php-data](php-data)        | :page_facing_up: Files containing information about the [PHP](http://www.php.net) programming language  
 | [postal-data](postal-data)     | :mailbox_with_mail: [United States Postal Service](https://www.usps.com/) information  
 | [python-data](python-data)     | :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime  
 | [radio-data](radio-data)      | :radio: Things commonly used in [radio frequency](https://wikipedia.org/wiki/Radio_frequency) transmissions  
-| [regex-data](regex-data)      | :speech_balloon: Regular expression patterns to mount attacks and match strings  
+| [regex-data](regex-data)      | :speech_balloon: Regular expression patterns used to launch/detect attacks 
 | [ruby-data](ruby-data)       | :gem: Data typically seen within the syntax of the [Ruby](https://www.ruby-lang.org) scripting language  
 | [search-dorks](search-dorks)    | :mag_right: General purpose search-engine queries likely to find insecure sites  
 | [smtp-messages](smtp-messages)   | :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers  
@@ -138,7 +138,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [system-admin](system-admin)    | :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  
 | [system-notices](system-notices)  | :warning: Disclaimer/warning messages shown by networked computer systems  
 | [telco-data](telco-data)      | :telephone_receiver: Voice telecommunications technologies: [POTS](https://wikipedia.org/wiki/Plain_old_telephone_service "Plain old telephone service"), [PCS](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/broadband-personal-communications-service-pcs "Personal Communications Services"), [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP"), [SMS](https://wikipedia.org/wiki/SMS "Short Message Service") etc.  
-| [text-files](text-files)      | :pushpin: zine articles and such like those archived at [textfiles.com](https://textfiles.com)
+| [text-files](text-files)      | :pushpin: zine articles and such like those archived at Jason Scott's [textfiles.com](https://textfiles.com)
 | [text-words](text-words)      | :pencil2: Lists of words likely to be found in an actual hard copy [dictionary](https://www.merriam-webster.com)  
 | [top-secret](top-secret)      | :alien: Files and/or data related to documents that were/are classified  
 | [unicode-data](unicode-data)    | :symbols: [Unicode](https://unicode.org/ "The Unicode Consortium") character usage and representation  
@@ -154,7 +154,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [webapp-files](webapp-files)    | :card_index: Files related to applications running on a [web server](https://wikipedia.org/wiki/Web_server)  
 | [webapp-paths](webapp-paths)    | :surfer: Path names related to applications running on a web server  
 | [webapp-words](webapp-words)    | :thought_balloon: Words related to applications running on a web server  
-| [web-sites](web-sites)       | :earth_americas: Addresses to and/or information on well known/organized WWW sites  
+| [web-sites](web-sites)       | :earth_americas: Addresses to and/or information on significant [WWW](https://wikipedia.org/wiki/World_Wide_Web) sites  
 | [wifi-networks](wifi-networks)   | :satellite: [IEEE 802.11](http://ieee802.org/11/ "The Working Group for WLAN Standards") [Wi-Fi](https://wikipedia.org/wiki/Wi-Fi) network information  
 | [windows-data](windows-data)    | :briefcase: Data only found within the [Microsoft Windows](https://wikipedia.org/wiki/Microsoft_Windows) series of OSes  
 

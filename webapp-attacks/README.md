@@ -1,3 +1,5 @@
+[![werdlists/webapp-attacks](https://img.shields.io/badge/werdlists-webapp_attacks-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-attacks")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [cors-bot-code](cors-bot-code.txt) |  [CORS](https://w3.org/TR/cors/ "Cross Origin Resource Sharing") test bot passes `X-Requested-With` and `X-Request` headers..from <http://xssor.io/s/payload/iamanewbotnamedcorsbot.txt> 
