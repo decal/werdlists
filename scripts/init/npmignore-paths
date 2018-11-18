@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Create a `dot-path-names.txt` file from an `.npmignore` file on MacOS
+#
+
+cat dot-npmignore.txt |egrep -i '^([.]|[/][.])' | sed -E 's!^[/]!!' | tr -d '\015' | sed -E 's![#].*$!!' | sed -E 's![*]$!!' | sed -E 's![/][*]?$!!' | sort -u > dot-path-names.txt
+
+exit 0
