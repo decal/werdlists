@@ -28,6 +28,7 @@
 | [linux-pids-assign](linux-pids-assign.txt) |  environment variable assignments found in the Linux process table 
 | [linux-pids-names](linux-pids-names.txt) |  environment variable names from the Linux process table 
 | [locale-environ-names](locale-environ-names.txt) |  environment variable names for multi-language support 
+| [macos-environ-names](macos-environ-names.txt) | MacOS environment variable names not related to `dyld` or `ps`  
 | [macos-dyld-names](macos-dyld-names.txt) |  MacOS dynamic link editor environment variable names 
 | [macos-pids-names](macos-pids-names.txt) |  environment variable names from the Mac OSX process table 
 | [mallopt-environ-names](mallopt-environ-names.txt) |  GNU libc memory allocation option environment variables 
@@ -47,6 +48,7 @@
 | [resolv-environ-names](resolv-environ-names.txt) |  DNS resolver library configuration environment variables 
 | [skygear-server-names](skygear-server-names.txt) |  Skygear Backend-as-a-Service environ names of `.env.example` 
 | [systemd-environ-names](systemd-environ-names.txt) |  system and service manager environment variable names 
+| [travis-environ-names](travis-environ-names.txt) | environment variables found in `.travis.yml` files
 | [ubuntu-environ-names](ubuntu-environ-names.txt) |  extracted from [Environment Variables article in Ubuntu Community Help Wiki](https://help.ubuntu.com/community/EnvironmentVariables) 
 | [unstd-cgi-environ](unstd-cgi-environ.txt) |  Less typical CGI (Common Gateway Interface) variable names 
 | [win10-set-assign](win10-set-assign.txt) |  list of environment variables displayed by MS-DOS command SET 
