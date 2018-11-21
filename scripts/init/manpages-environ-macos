@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+#
+# manpages-environ-macos v1.0
+#
+# Extract environment variable names from MacOS manual pages
+# (ensure that /usr/libexec/makewhatis has been executed)
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Wed Nov 21 01:00:20 PST 2018
+# Tested On:    Darwin 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64 i386
+#
+
+export PAGER=/bin/cat
+
+(for m in $(/usr/bin/man -k ' ' | sort -u | awk -F\( '{print$1}')
+  do declare -i aline=$(/usr/bin/man -- "$m" 2>/dev/null | sed -E 's![]*!!g' | egrep -n '^EENNVV' | tail -n 1 | awk -F: '{print$1}')
+
+  [ $aline -eq 0 ] && continue
+
+  /usr/bin/man -- "$m" 2>/dev/null | tail -n +${aline} | egrep '^[[:space:]]*[A-Z0-9_]+$' | sed -E 's!^[[:space:]]*!!g' 
+done) | sort -u
+
+exit 0

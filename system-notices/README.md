@@ -6,6 +6,7 @@
 | [safety-walkthrough-checklist](safety-walkthrough-checklist.md) |  SANS Security Leadership Essentials Facility Safety Inspection Checklist converted to markdown <https://www.sans.org/media/score/checklists/safetyWalkthrough.pdf> 
 | [shapesecurity-contrib-agreement](shapesecurity-contrib-agreement.md) |  Shape Security Contributor License Agreement <https://github.com/shapesecurity/CLA/> 
 | [stock-market-hours](stock-market-hours.md) |  hours of business for global stock market trading <https://1broker.com/?c=en/content/market-hours> 
+| [torexit-boilerplate-intro](torexit-boilerplate-intro.txt) |  TOR exit node Common Boilerplate introduction via <https://trac.torproject.org/projects/tor/wiki/doc/TorAbuseTemplates#CommonBoilerplateTorIntro>  
 | [usgov-compsys-cfaa](usgov-compsys-cfaa.txt) |  legal banner including CFAA used by U.S. government computer   
 | [usgov-monitor-consent](usgov-monitor-consent.asc) | United States government monitoring consent statement  
 

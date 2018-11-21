@@ -36,6 +36,7 @@ Expires
 facebook-api-version
 Frame-Options
 host_service
+Include-Referred-Token-Binding-ID
 Keep-Alive
 Large-Allocation
 Last-Modified

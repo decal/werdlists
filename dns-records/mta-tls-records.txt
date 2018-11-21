@@ -1,0 +1,2 @@
+_smtp._tls
+_mta-sts

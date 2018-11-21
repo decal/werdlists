@@ -21,6 +21,7 @@
 | [webapp-pentest-checklist](webapp-pentest-checklist.md) | Checklist for Web Application Penetration Testing <https://hackercombat.com/web-application-penetration-testing-checklist> 
 | [webapp-sql-injection](webapp-sql-injection.txt) | [RDBMS](https://wikipedia.org/wiki/Relational_database_management_system) query fragments for [SQL injection](https://www.owasp.org/index.php/SQL_Injection) testing 
 | [webapp-xss-scripts](webapp-xss-scripts.txt) | [JavaScript](https://wikipedia.org/wiki/JavaScript) code fragments for testing [Cross-Site Scripting](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29) 
+| [whitehat-top40vulns-list](whitehat-top40vulns-list.txt) | WhiteHat Security Top 40 Vulnerabilities List via <https://whitehatsec.com/faq/content/top-vulnerabilities-list>  
 | [wordpress-plugin-vulns](wordpress-plugin-vulns.yml) | list of [WordPress](https://www.wordpress.com) plugins with versions that have publicly known vulnerabilities 
 | [xml-vulns-attacks](xml-vulns-attacks.md) | sample attack syntaxes that exploit common XML vulnerabilities 
 | [xss-bypass-filter](xss-bypass-filter.txt) | [rvrsh3ll](https://gist.github.com/rvrsh3ll/09a8b933291f9f98e8ec "xxsfilterbypass.lst") 

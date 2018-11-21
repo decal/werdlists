@@ -1,0 +1,21 @@
+The IP address in question is a Tor exit node.
+https://www.torproject.org/overview.html
+
+There is little we can do to trace this matter further. As can be seen
+from the overview page, the Tor network is designed to make tracing of
+users impossible. The Tor network is run by some 5000 volunteers who
+use the free software provided by the Tor Project to run Tor routers.
+Client connections are routed through multiple relays, and are
+multiplexed together on the connections between relays. The system
+does not record logs of client connections or previous hops.
+
+This is because the Tor network is a censorship resistance, privacy,
+and anonymity system used by whistle blowers, journalists, Chinese
+dissidents skirting the Great Firewall, abuse victims, stalker
+targets, the US military, and law enforcement, just to name a few.
+See https://www.torproject.org/about/torusers.html.en for more info.
+
+Unfortunately, some people misuse the network. However, compared to
+the rate of legitimate use (the IP range in question processes nearly
+a gigabit of traffic per second), abuse complaints are rare.
+https://www.torproject.org/docs/faq-abuse.html.en

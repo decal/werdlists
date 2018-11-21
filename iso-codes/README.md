@@ -4,6 +4,7 @@
 | [country-details-list](country-details-list.txt) |  3 ISO-3166 codes, population, area, capital and continent 
 | [iata-airport-codes](iata-airport-codes.txt) |  IATA 3-letter airport code identifiers 
 | [iso-lang-codes](iso-lang-codes.txt) |  ISO-639 abbreviated language codes for i18n (internationalization) 
+| [iso8601w3c-datetime-formats](iso8601w3c-datetime-formats.txt) | a profile of ISO 8601, the standard for the international representation of dates and times via <https://w3.org/TR/NOTE-datetime>
 | [glosbe-all-languages](glosbe-all-languages.txt) | list of languages available in Glosbe <https://glosbe.com/all-languages>  
 | [locale-language-country](locale-language-country.txt) | list of locales with associated language and country  
 | [locales-descstrs-values](locales-descstrs-values.csv) | locale descriptions, short strings and hex/decimal values  

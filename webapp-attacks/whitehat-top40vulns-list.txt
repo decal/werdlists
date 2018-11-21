@@ -1,0 +1,39 @@
+Cross Site Scripting
+Information Leakage: Error Disclosure
+Unpatched Library
+Application Misconfiguration: Global Error Handling Disabled SQL Injection
+Application Misconfiguration: Debug
+Path Traversal
+UI Redressing: Clickjacking/Tapjacking
+Missing Access Strategy
+Cryptography: Insecure Digest
+Denial of Service: ReadLine
+Injection: HTTP Response Splitting
+Insufficient Session Expiration
+Insufficient Transport Layer Protection
+URL Redirector Abuse
+Unvalidated Automatic Library Activation
+Information Leakage: Logging
+Information Leakage: Session ID
+OS Command Injection
+Insufficient Authorization: HTTP Verb Tampering 
+Cryptography: Cipher Transformation Insecure 
+Information Leakage: SSN
+Cryptography: Insecure Cipher
+Cryptography: Improper Certificate Validation 
+Cryptography: Insecure Protocol
+Injection: Remote Code Execution
+Insufficient Authentication: Basic Authentication Usage 
+Cryptography: Provider Undefined
+Binary Protection: Missing PT_DENY_ATTACH
+Insecure Data Storage: Unencrypted SSN
+Unsafe Code Usage
+Cryptography: Insecure Cipher Mode
+LDAP Injection
+Directory Indexing
+Injection: HTTP Request Splitting
+Insufficient Authorization: CORS Policy
+Sensitive data location precision
+Denial of Service: ReadFile
+Remote File Inclusion
+Access Control: File Permissions

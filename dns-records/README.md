@@ -12,6 +12,7 @@
 | [iana-record-types](iana-record-types.txt) | record type strings as specified by [IANA](https://iana.org)       
 | [in-srv-protocols](in-srv-protocols.txt) | protocol names defined by `IN SRV` resource records   
 | [in-srv-services](in-srv-services.txt) | service names defined by `IN SRV` resource records from [NMap](https://nmap.org) source tree data of [NSE script dns-srv-enum](https://nmap.org/nsedoc/scripts/dns-srv-enum.html) <https://github.com/nmap/nmap/blob/master/nselib/data/dns-srv-names>    
+| [mta-tls-records](mta-tls-records.txt) | `IN TXT` records related to MTA (Mail Transfer Agent) encryption  
 | [nsupdate-record-types](nsupdate-record-types.txt) | record types used in [nsupdate](https://wikipedia.org/wiki/Nsupdate) protocol messages    
 | [record-classes-long](record-classes-long.txt) | all record class strings as specified by [IANA](https://iana.org)    
 | [record-types-in](record-types-in.txt) | record types specific to the `IN` class     

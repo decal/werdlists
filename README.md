@@ -83,15 +83,15 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [cipher-data](cipher-data)     | :blowfish: Data denoting or used by [cryptographic algorithm](https://wikipedia.org/wiki/Category:Cryptographic_algorithms) implementations  
 | [cmd-usage](cmd-usage)       | :hammer: Help text shown in a terminal when attempting to execute [CLI](https://wikipedia.org/wiki/Command-line_interface "Command-line interface") programs  
 | [cms-errors](cms-errors)      | :exclamation: Error codes and/or messages rendered by a [CMS](https://wikipedia.org/wiki/Content_management_system "Content Management System")  
-| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers, [reserved words](https://wikipedia.org/wiki/Reserved_word) and other syntax from defining standards 
-| [cpu-arch](cpu-arch)        | :factory: Low-level computer architecture and hardware subjects  
+| [code-keywords](code-keywords)   | :coffee: [Computer language](https://wikipedia.org/wiki/Computer_language) identifiers, [reserved words](https://wikipedia.org/wiki/Reserved_word) and similar syntax  
+| [cpu-arch](cpu-arch)        | :factory: Low-level [computer architecture](https://wikipedia.org/wiki/Computer_architecture) and hardware subjects  
 | [crypt-output](crypt-output)    | :sparkles: Cipher text string outputs created by [cryptographic hash functions](https://wikipedia.org/wiki/Cryptographic_hash_function)  
 | [database-strs](database-strs)   | :floppy_disk: Strings often encountered when working with [database](https://wikipedia.org/wiki/Database) software  
 | [dns-domains](dns-domains)     | :globe_with_meridians: A list of domains that may have been found in the live DNS tree at one point
 | [dns-hostnames](dns-hostnames)   | :flashlight: The host name part of an [FQDN](https://wikipedia.org/wiki/Fully_qualified_domain_name "Fully Qualified Domain Name")  
 | [dns-records](dns-records)     | :ticket: Data specific to [RR's](http://freesoft.org/CIE/Topics/78.htm "Resource Records") in the DNS system  
 | [dns-servers](dns-servers)     | :battery: Data provided to, produced by or related to DNS name servers  
-| [dns-toplevel](dns-toplevel)    | :top: TLD's or [Top Level Domains](https://wikipedia.org/wiki/Top-level_domain) are the uppermost part of DNS hierarchy  
+| [dns-toplevel](dns-toplevel)    | :top: TLD's or [Top Level Domains](https://wikipedia.org/wiki/Top-level_domain) in the uppermost part of the DNS hierarchy  
 | [environ-vars](environ-vars)   | :tent: [Environment variable](https://wikipedia.org/wiki/Environment_variable) names, settings, etc.  
 | [exploit-info](exploit-info)    | :8ball: Technical information on exploitation of security vulnerabilities  
 | [file-extens](file-extens)     | :anchor: Stuff on [Filename extensions](https://wikipedia.org/wiki/Filename_extension), i.e. the part after the dot
@@ -114,6 +114,8 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [java-data](java-data)       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 | [linux-data](linux-data)      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
 | [linux-paths](linux-paths)     | :paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
+| [macos-paths](macos-paths)     | :apple: Pathnames found on MacOS file systems   
+| [macos-data](macos-data)       | :apple: Data identifiers and such from Apple's MacOS operating system  
 | [malware-iocs](malware-iocs)    | :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 | [mobile-devs](mobile-devs)      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 | [net-attacks](net-attacks)     | :hotsprings: Info about attacks on telecommunications and Internetworks  
@@ -127,7 +129,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [postal-data](postal-data)     | :mailbox_with_mail: [United States Postal Service](https://www.usps.com/) information  
 | [python-data](python-data)     | :snake: Data used by the [Python](https://www.python.org/) scripting language interpreter at runtime  
 | [radio-data](radio-data)      | :radio: Things commonly used in [radio frequency](https://wikipedia.org/wiki/Radio_frequency) transmissions  
-| [regex-data](regex-data)      | :speech_balloon: Regular expression patterns used to launch/detect attacks 
+| [regex-data](regex-data)      | :speech_balloon: [Regular expression](https://wikipedia.org/wiki/Regular_expression) patterns used to launch/detect attacks 
 | [ruby-data](ruby-data)       | :gem: Data typically seen within the syntax of the [Ruby](https://www.ruby-lang.org) scripting language  
 | [search-dorks](search-dorks)    | :mag_right: General purpose search-engine queries likely to find insecure sites  
 | [smtp-messages](smtp-messages)   | :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers  

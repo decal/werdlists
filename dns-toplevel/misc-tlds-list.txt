@@ -3,3 +3,6 @@ home
 onion
 noconnect
 exit
+internal
+alt
+example
