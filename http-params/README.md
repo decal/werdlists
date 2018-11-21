@@ -3,6 +3,7 @@
 | [all-redirect-params](all-redirect-params.txt) |  all parameters for location redirects combined as one file 
 | [burp-parameter-names](burp-parameter-names.txt) |  strings used by [Burp Suite Scanner](https://portswigger.net/burp) when scanning for query variable names 
 | [common-redirect-params](common-redirect-params.txt) |  parameters commonly used in location redirects 
+| [debug-query-parameters](debug-query-parameters.txt) |  HTTP query parameter names related to debugging; this contains additions to `fuzzdb/attack/business-logic/CommonDebugParamNames.txt`
 | [http-get-flags](http-get-flags.txt) |  HTTP GET request parameters that aren't assigned to 
 | [http-query-params](http-query-params.txt) |  common variable names used in POST bodies and GET requests 
 | [http-query-values](http-query-values.txt) |  typical HTTP query variable assignment value strings 
