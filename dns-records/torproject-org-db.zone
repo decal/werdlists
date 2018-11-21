@@ -1,0 +1,230 @@
+; ds-in-parent = yes
+
+$TTL 3600
+
+$ORIGIN torproject.org.
+
+@    24h  IN  NS  ns1.torproject.org.
+@    24h  IN  NS  ns2.torproject.org.
+@    24h  IN  NS  ns3.torproject.org.
+@    24h  IN  NS  ns4.torproject.org.
+@    24h  IN  NS  ns5.torproject.org.
+@    24h  IN  NS  nsp.dnsnode.net.
+
+@      IN  MX  10 eugeni.torproject.org.
+
+
+ns1    24h  IN  A  38.229.72.12
+    24h  IN  AAAA  2620:0:6b0:b:1a1a:0:26e5:480c
+    24h  IN  TXT  "fallax" ; moly/rethem
+
+ns2    24h  IN  A  86.59.30.40
+    24h  IN  AAAA  2001:858:2:2:aabb:0:563b:1e28
+    24h  IN  TXT  "nova" ; sil
+
+ns3    24h  IN  A  95.216.159.212
+    24h  IN  AAAA  2a01:4f9:c010:17d9::1
+    24h  IN  TXT  "hetzner-hel1-02" ; hetzner cloud
+
+ns4    24h  IN  A  94.130.28.203
+    24h  IN  AAAA  2a01:4f8:10b:239f:0:ab4:203:1
+    24h  IN  TXT  "neriniflorum" ; hetzner
+
+ns5    24h  IN  A  89.45.235.22
+    24h  IN  AAAA  2001:6b0:5a:5000::6
+    24h  IN  TXT  "nutans" ; ipnett
+
+@    CAA  0 iodef "mailto:torproject-admin@torproject.org"
+    CAA  128 issue "globalsign.com"  ; cdn-fastly
+    CAA  128 issue "letsencrypt.org"
+    CAA  128 issuewild ";"
+
+; per <PMZ2MDQ3YD_5a66b41a688eb_1d0673fe91b0cb98c51870_sprut@zendesk.com>
+; Subject: [Fastly] Update: [Action Required] l.ssl- Re-vetting domains on Fastly shared certs
+
+; services
+; ========
+
+_xmpp-client._tcp  IN  SRV  5 0 5222 chamaemoly
+_xmpp-server._tcp  IN  SRV  5 0 5269 chamaemoly
+
+; @ A/AAAA records via services-auto
+
+archive      IN  CNAME  arlgirdense    ; also rsync.tpo
+backup      IN  CNAME  serra
+blog      IN  MX  0 .
+      IN  A  23.185.0.2
+      IN  AAAA  2620:12a:8000::2
+      IN  AAAA  2620:12a:8001::2
+bridges      IN  A  78.47.38.229      ; polyanthum
+      IN  AAAA  2a01:4f8:211:6e8:0:823:5:1  ; polyanthum
+      IN  MX  0 polyanthum
+;cdn-fastly    IN  CNAME  global.prod.fastly.net.
+;cdn-fastly    IN  CNAME  l.ssl.fastly.net.    ; US/EU Network (United States and Europe)
+cdn-fastly    IN  CNAME  l.global-ssl.fastly.net.  ; Global Network (United States, Europe, and Asia/Pacific)
+;check      IN  CNAME  chiwui
+check      IN  A  138.201.14.212
+collector    IN  CNAME  colchicifolium
+collector2    IN  CNAME  corsicum
+crm      IN  CNAME  gillii
+staging.crm    IN  CNAME  gillii
+test.crm    IN  CNAME  gillii
+db      IN  A  94.130.28.196      ; alberti
+      IN  AAAA  2a01:4f8:10b:239f:0:ab4:196:1  ; alberti
+      IN  MX  0 alberti
+donate      IN  CNAME  geyeri
+staging.donate    IN  CNAME  geyeri
+test.donate    IN  CNAME  geyeri
+exitlist    IN  NS  chiwui4
+exonerator    IN  CNAME  materculae
+gettor      IN  CNAME  static
+git      IN  CNAME  vineale
+git-rw      IN  CNAME  cupani
+gitweb      IN  CNAME  vineale
+jenkins      IN  CNAME  rouyi
+kvm1      IN  CNAME  textile
+kvm2      IN  CNAME  unifolium
+kvm3      IN  CNAME  macrum
+lists      IN  A  94.130.28.202      ; eugeni
+      IN  AAAA  2a01:4f8:10b:239f:0:ab4:202:1  ; eugeni
+      IN  MX  10 eugeni
+media      IN  CNAME  listera
+newsletter-master  IN  CNAME  nanodes
+rsync.media    IN  CNAME  listera
+metrics      IN  CNAME  meronense
+munin      IN  CNAME  schmitzi
+nagios      IN  CNAME  hetzner-hel1-01
+get.ooni    IN  CNAME  get.ooni.io.
+measurements.ooni  IN  CNAME  measurements.ooni.io.
+explorer.ooni    IN  CNAME  explorer.ooni.io.
+people      IN  CNAME  perdulce
+puppet      IN  CNAME  pauli
+rsync      IN  CNAME  arlgirdense    ; also archive
+rt      IN  A  138.201.212.230      ; rude
+      IN  AAAA  2a01:4f8:172:39ca:0:dad3:6:1  ; rude
+      IN  MX  10 rude
+storm      IN  A  78.47.38.231      ; bracteata
+      IN  AAAA  2a01:4f8:211:6e8:0:823:7:1  ; bracteata
+      IN  MX  10 eugeni.torproject.org.
+      IN  CAA  0 iodef "mailto:torproject-admin@torproject.org"
+      IN  CAA  128 issue "letsencrypt.org"
+      IN  CAA  128 issuewild "letsencrypt.org"
+*.storm      IN  A  78.47.38.231      ; bracteata
+      IN  AAAA  2a01:4f8:211:6e8:0:823:7:1  ; bracteata
+      IN  MX  0 .
+survey      IN  CNAME  subnotabile
+svn      IN  CNAME  gayi
+testnet      IN  CNAME  togashii
+atlas.testnet    IN  CNAME  togashii
+collector.testnet  IN  CNAME  togashii
+health.testnet    IN  CNAME  togashii
+trac      IN  CNAME  troodi
+onion      IN  CNAME  static
+; onionoo A/AAAA records via services-auto
+onionperf    IN  CNAME  static
+; www A/AAAA records via services-auto
+; for internal monitoring/testing only.  Don't publish.
+www-listera    IN  CNAME  listera
+www-stellatum    IN  CNAME  stellatum
+
+; TBB testing - #13300
+test-reports.tbb  IN  A  93.95.228.164
+
+fpcentral.tbb    IN  CNAME  forrestii
+; nightlies.tbb    IN  CNAME  archeotrichon
+
+; aliases of convenience
+dist-master    IN  CNAME  staticiforme
+static-master    IN  CNAME  staticiforme
+
+
+; vanity redirects
+bugs        IN  CNAME  static
+censorshipwiki      IN  CNAME  static
+safetyboard      IN  CNAME  static
+wiki        IN  CNAME  static
+
+; static-mirrors
+aus1        IN  CNAME  static
+aus2        IN  CNAME  static
+atlas        IN  CNAME  static
+cloud        IN  CNAME  static
+consensus-health    IN  CNAME  static
+deb        IN  CNAME  static
+extra        IN  CNAME  static
+help        IN  CNAME  static
+lektor-staging      IN  CNAME  static
+newsletter      IN  CNAME  static
+nyx        IN  CNAME  static
+; ooni A/AAAA records via services-auto
+rbm        IN  CNAME  static
+research      IN  CNAME  static
+research-staging    IN  CNAME  static
+snowflake      IN  CNAME  static
+spec        IN  CNAME  static
+stem        IN  CNAME  static
+styleguide      IN  CNAME  static
+support        IN  CNAME  static
+;support-staging      IN  CNAME  static
+tb-manual      IN  CNAME  static
+test-data.tbb      IN  CNAME  static
+test-data-2.tbb      IN  CNAME  static
+test-data-3.tbb      IN  CNAME  static
+www-staging      IN  CNAME  static
+
+; static mirrors for high-traffic sites
+cdn        IN  CNAME  dist
+
+; arm build machine at weasel's
+hedgei-vpn    IN A 192.168.124.18
+
+
+; "external" services
+; ===================
+
+labs    300  IN  A  161.47.6.182
+    300  IN  AAAA  2001:4801:7903:100:aff8:a2d8::ab4
+
+; HOSTS
+; =====
+; hosts from ud-ldap - include A/AAAA records, SSHFP and MX records if set.
+$INCLUDE "/var/lib/misc/thishost/dns-sshfp"
+; and extra info from puppet, such as TLSA records
+$INCLUDE "/srv/dns.torproject.org/puppet-extra/include-torproject.org"
+; and things from auto-dns
+; git@git-rw.torproject.org:admin/dns/auto-dns
+$INCLUDE "/srv/dns.torproject.org/var/services-auto/all"
+; letsencrypt challenges
+$INCLUDE "/srv/letsencrypt.torproject.org/var/hook/snippet"
+
+
+macppc      IN  A  50.195.45.81 ;old ip 74.95.122.145
+macx86      IN  A  50.195.45.82 ;old ip 74.95.122.149
+watsoni      IN  A  50.195.45.86
+chiwui2      IN  A  138.201.14.213
+chiwui4      IN  A  138.201.14.212
+
+; internal networks
+textile-priv    IN  A  172.30.131.1
+unifolium-priv    IN  A  172.30.132.1
+macrum-priv    IN  A  172.30.133.1
+kvm4-priv    IN  A  172.30.134.1
+kvm5-priv    IN  A  172.30.135.1
+
+mikrotik.sbg    IN  A  172.30.115.1
+      IN  SSHFP  1 2 9be360404ae5915219658bc40cdc7727d2a8790f945bd378af87f1b670fd5426
+$GENERATE 71-119 dhcp-$.sbg  IN A  172.30.115.$
+
+
+; mgmt network off peninsulare:
+
+peninsulare.cymru.mgmt    IN  A  10.107.107.1
+moly-ipmi.cymru.mgmt    IN  A  10.107.107.2
+tui-ipmi.cymru.mgmt    IN  A  10.107.107.3
+
+brulloi-kvm      IN  A  176.9.98.195
+
+
+localhost    IN  A  127.0.0.1
+
+; vim:set syn=dns:

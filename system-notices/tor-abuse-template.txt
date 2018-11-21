@@ -1,0 +1,43 @@
+Hi $TO$,
+
+I am very sorry to hear that. The IP you quote hosts a Tor exit node
+(open relay). I can offer you to block specific destination IPs and 
+ports, but the abuser doesn't use our relays specifically; he/she 
+will just be routed through a different exit node outside of our 
+control instead.
+
+You will be much better off blocking Tor temporarily from your side.
+Please only issue a temporary block to not affect other, legitimate
+users of Tor.
+
+Tor is a research project, funded by the National Science Foundation and
+previously DARPA (among others). Its primary goal is to provide people
+from hostile environments with encrypted and uncensored access to the
+Internet. For more than a third of the worlds population, the Internet
+is being either filtered or monitored. Every day, activists and bloggers
+are imprisoned or threatened for what we in the western  countries see
+as a Human Right.
+
+There are usage stats on the www.torproject.org website that show that
+more than 500,000 users from China, Iran and similar regimes (have to)
+use Tor to access the Internet every day.
+
+Torservers.net is a non-profit organization comprised of volunteers who 
+are willing to run Tor relays for the benefit of everyone.
+
+I hope that you understand the importance of Tor, and don't block the 
+whole Tor network because of a single attack/misuse.
+
+Please let me know if I can be of further assistance. You can find a
+guide on how to identify all Tor exit nodes on the Torproject website
+www.torproject.org. Please send Tor users through additional "screening"
+(CAPTCHA, etc) instead of just blocking them completely. 
+
+Thanks for your understanding. If you have further questions, feel free
+to contact us again.
+
+Yours sincerely,
+-- 
+$FROM$
+Abuse Department 
+https://www.torservers.net/

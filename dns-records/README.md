@@ -19,6 +19,7 @@
 | [record-types-long](record-types-long.txt) | all record type strings specified by [IANA](https://iana.org) regardless of class    
 | [root-zone-records](root-zone-records.txt.xz) | [resource records](https://wikipedia.org/wiki/Domain_Name_System#DNS_resource_records) of varying types for top-level domains in the [DNS root zone](https://wikipedia.org/wiki/DNS_root_zone)    
 | [suspect-networks-zone](suspect-networks-zone.rpz) | [DNS RPZ](https://dnsrpz.info/ "DNS Response Policy Zones") for data from <http://suspect-networks.io>  
+| [torproject-org-db](torproject-org-db.zone) | `torproject.org` DNS zone database via <https://gitweb.torproject.org/admin/dns/domains.git/plain/torproject.org?id=4b2bb1d72ddbfa9c09473fec18c1a2372ead908a>  
 | [header-flag-codes](header-flag-codes.txt) | DNS query header flag field as defined by [RFC1035 section 4.1.1](https://tools.ietf.org/html/rfc1035#section-4.1.1)    
 
 * * *

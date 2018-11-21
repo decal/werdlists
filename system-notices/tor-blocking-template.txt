@@ -1,0 +1,21 @@
+The attacker is using Tor. Tor will automatically select one of the
+hundreds of available exit servers, that's why you see changing IPs. We
+can block destination IPs for our small subset of Tor exit relays, but
+that won't really help, the attacker will not even notice the change in 
+exit relays available for him.
+
+The only real solution here is to take care of Tor users on your side.
+Please be aware that by blocking Tor, you also block all legitimate
+users! Please lift the ban after the attack is over, or take care of Tor
+users with other means (for example by only blocking access to sensitive
+content, displaying extra CAPTCHAs for Tor users, etc).
+
+You can detect Tor users via two mechanisms:
+
+https://check.torproject.org/cgi-bin/TorBulkExitList.py
+https://www.torproject.org/projects/tordnsel.html.en
+
+Please only issue a temporary ban so legitimate Tor users are not 
+affected for too long.
+
+Hope this helps!

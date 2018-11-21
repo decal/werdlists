@@ -1,0 +1,16 @@
+Hi $TO$,
+
+Thanks for your report. The request passed through one of our Tor exit
+nodes. We do not allow email to be sent from our systems (port 25 is 
+blocked), so the offender must have used a web based email account. 
+You should direct your complaint to the mail server given in the email 
+header, so they can close and/or track down the account.
+
+Please let me know if I can be of further assistance.
+
+I know this very unfortunate. Thanks for your understanding!
+Yours sincerely,
+-- 
+$FROM$
+Abuse Department 
+http://www.torservers.net/ 

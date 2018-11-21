@@ -1,0 +1,37 @@
+We're sorry to hear about this incident. It is not our goal to support
+or condone criminal activities. We provide our services to people behind
+censoring firewalls in oppressive regimes. Tor is key technology for
+Internet users and citizens in China, Iran, Syria, Kazakhstan and many
+other countries to be able to access uncensored media and exchange
+information freely. We strongly stand for this and see it as a modern
+human right. Unfortunately, this means we have to take a close watch on
+illegal activities and abuse of anonymizing technology like Tor.
+
+Your reports are very important to understand how usage of Tor is
+developing over time. As a network of 13 non-profit organizations in 10
+countries, we push quite some large amounts of data at various locations
+for Tor (20G+). Based on the limited amount of information we are
+legally allowed to look at to protect our users, and the number of
+reports like yours, we still feel that the balance is very much on the
+legal side. We are in close contact with "regular" ISPs, and it seems
+our level of "abuse per traffic/number of users" is on par with what
+they see.
+
+Please understand that Tor makes it technically impossible to single out
+individual users. We also are legally bound to respective privacy
+rights. What I can offer is to block certain destination ports and IP
+addresses, but I strongly advocate against these types of blocks because
+they will affect _all_ users of Tor, not only the "bad apples". You can
+also simply block Tor users -- again, all of them! -- on your end. If
+you need help with that, let us know. If levels of abuse turn out to
+become too high, please consider to lift the block after some time so
+friendly users of Tor can again access your resources. If you value the
+privacy of your visitors, we can also talk about less "either-or"
+strategies modeled around your service.
+
+Thanks for your understanding! Please use $XYZ to best
+reach us should any issues arise.
+
+-- 
+Moritz Bartl 
+Abuse Department
