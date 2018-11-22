@@ -12,6 +12,7 @@
 | [mongodb-nosql-injection](mongodb-nosql-injection.txt) | [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists) 
 | [mssql-injection-strings](mssql-injection-strings.txt) | SQL injection attack strings specified to [Microsoft SQL Server](https://microsoft.com/sql-server)  
 | [png-html-polyglot](png-html-polyglot.html) |  a PNG image file also containing HTML, CSS and JavaScript 
+| [portswigger-attack-definitions](portswigger-attack-definitions.txt) |  [PortSwigger](https://portswigger.net) attack definitions
 | [script-tag-encodings](script-tag-encodings.txt) | a list of various web encodings for the string `<script>`  
 | [sql-errors-data](sql-errors-data.txt) | typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system") 
 | [wapples-vseries-rules](wapples-vseries-rules.txt) | WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf> 

@@ -72,6 +72,8 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| [apple-paths](apple-paths)     | :apple: Pathnames found on MacOS file systems   
+| [apple-data](apple-data)       | :apple: Data identifiers and such from Apple's MacOS operating system  
 | [arpa-headers](arpa-headers)    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | [ascii-art](ascii-art)       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  
 | [biology-info](biology-info)    | :microscope: Reference information useful in the study of biological issues  
@@ -114,8 +116,6 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [java-data](java-data)       | :sunny: Data found in or related to source code of programs written with [Java](https://java.com)  
 | [linux-data](linux-data)      | :keycap_ten: Data identifiers and such from the [Linux](https://opensource.com/resources/linux "What is Linux?") operating system  
 | [linux-paths](linux-paths)     | :paperclips: [Pathnames](https://linuxsurvival.com/linux-pathnames/) found on [file systems](https://wikipedia.org/wiki/File_system) created by Linux installations  
-| [macos-paths](macos-paths)     | :apple: Pathnames found on MacOS file systems   
-| [macos-data](macos-data)       | :apple: Data identifiers and such from Apple's MacOS operating system  
 | [malware-iocs](malware-iocs)    | :skull: [IOC](https://wikipedia.org/wiki/Indicator_of_compromise "Indicator of Compromise") for identification of malware infections  
 | [mobile-devs](mobile-devs)      | :iphone: [Mobile device](https://wikipedia.org/wiki/Mobile_device) development for "handheld" form factors  
 | [net-attacks](net-attacks)     | :hotsprings: Info about attacks on telecommunications and Internetworks  

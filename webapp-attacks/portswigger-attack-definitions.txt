@@ -1,0 +1,150 @@
+# Name  Typical severity  Type index
+OS command injection  High  0x00100100
+SQL injection  High  0x00100200
+SQL injection (second order)  High  0x00100210
+ASP.NET tracing enabled  High  0x00100280
+File path traversal  High  0x00100300
+XML external entity injection  High  0x00100400
+LDAP injection  High  0x00100500
+XPath injection  High  0x00100600
+XML injection  Medium  0x00100700
+ASP.NET debugging enabled  Medium  0x00100800
+HTTP PUT method is enabled  High  0x00100900
+Out-of-band resource load (HTTP)  High  0x00100a00
+File path manipulation  High  0x00100b00
+PHP code injection  High  0x00100c00
+Server-side JavaScript code injection  High  0x00100d00
+Perl code injection  High  0x00100e00
+Ruby code injection  High  0x00100f00
+Python code injection  High  0x00100f10
+Expression Language injection  High  0x00100f20
+Unidentified code injection  High  0x00101000
+Server-side template injection  High  0x00101080
+SSI injection  High  0x00101100
+Cross-site scripting (stored)  High  0x00200100
+Web cache poisoning  High  0x00200180
+HTTP response header injection  High  0x00200200
+Cross-site scripting (reflected)  High  0x00200300
+Client-side template injection  High  0x00200308
+Cross-site scripting (DOM-based)  High  0x00200310
+Cross-site scripting (reflected DOM-based)  High  0x00200311
+Cross-site scripting (stored DOM-based)  High  0x00200312
+JavaScript injection (DOM-based)  High  0x00200320
+JavaScript injection (reflected DOM-based)  High  0x00200321
+JavaScript injection (stored DOM-based)  High  0x00200322
+Path-relative style sheet import  Information  0x00200328
+Client-side SQL injection (DOM-based)  High  0x00200330
+Client-side SQL injection (reflected DOM-based)  High  0x00200331
+Client-side SQL injection (stored DOM-based)  High  0x00200332
+WebSocket hijacking (DOM-based)  High  0x00200340
+WebSocket hijacking (reflected DOM-based)  High  0x00200341
+WebSocket hijacking (stored DOM-based)  High  0x00200342
+Local file path manipulation (DOM-based)  High  0x00200350
+Local file path manipulation (reflected DOM-based)  High  0x00200351
+Local file path manipulation (stored DOM-based)  High  0x00200352
+Client-side XPath injection (DOM-based)  Low  0x00200360
+Client-side XPath injection (reflected DOM-based)  Low  0x00200361
+Client-side XPath injection (stored DOM-based)  Low  0x00200362
+Client-side JSON injection (DOM-based)  Low  0x00200370
+Client-side JSON injection (reflected DOM-based)  Low  0x00200371
+Client-side JSON injection (stored DOM-based)  Low  0x00200372
+Flash cross-domain policy  High  0x00200400
+Silverlight cross-domain policy  High  0x00200500
+Cross-origin resource sharing  Information  0x00200600
+Cross-origin resource sharing: arbitrary origin trusted  High  0x00200601
+Cross-origin resource sharing: unencrypted origin trusted  Low  0x00200602
+Cross-origin resource sharing: all subdomains trusted  Low  0x00200603
+Cross-site request forgery  Medium  0x00200700
+SMTP header injection  Medium  0x00200800
+Cleartext submission of password  High  0x00300100
+External service interaction (DNS)  High  0x00300200
+External service interaction (HTTP)  High  0x00300210
+External service interaction (SMTP)  Information  0x00300220
+Referer-dependent response  Information  0x00400100
+Spoofable client IP address  Information  0x00400110
+User agent-dependent response  Information  0x00400120
+Password returned in later response  Medium  0x00400200
+Password submitted using GET method  Low  0x00400300
+Password returned in URL query string  Low  0x00400400
+SQL statement in request parameter  Medium  0x00400480
+Cross-domain POST  Information  0x00400500
+ASP.NET ViewState without MAC enabled  Low  0x00400600
+XML entity expansion  Medium  0x00400700
+Long redirection response  Information  0x00400800
+Serialized object in HTTP message  High  0x00400900
+Duplicate cookies set  Information  0x00400a00
+Input returned in response (stored)  Information  0x00400b00
+Input returned in response (reflected)  Information  0x00400c00
+Suspicious input transformation (reflected)  Information  0x00400d00
+Suspicious input transformation (stored)  Information  0x00400e00
+Request URL override  Information  0x00400f00
+Open redirection (reflected)  Low  0x00500100
+Open redirection (stored)  Medium  0x00500101
+Open redirection (DOM-based)  Low  0x00500110
+Open redirection (reflected DOM-based)  Low  0x00500111
+Open redirection (stored DOM-based)  Medium  0x00500112
+SSL cookie without secure flag set  Medium  0x00500200
+Cookie scoped to parent domain  Low  0x00500300
+Cross-domain Referer leakage  Information  0x00500400
+Cross-domain script include  Information  0x00500500
+Cookie without HttpOnly flag set  Low  0x00500600
+Session token in URL  Medium  0x00500700
+Password field with autocomplete enabled  Low  0x00500800
+Password value set in cookie  Medium  0x00500900
+File upload functionality  Information  0x00500980
+Frameable response (potential Clickjacking)  Information  0x005009a0
+Browser cross-site scripting filter disabled  Information  0x005009b0
+HTTP TRACE method is enabled  Information  0x00500a00
+Cookie manipulation (DOM-based)  Low  0x00500b00
+Cookie manipulation (reflected DOM-based)  Low  0x00500b01
+Cookie manipulation (stored DOM-based)  Low  0x00500b02
+Ajax request header manipulation (DOM-based)  Low  0x00500c00
+Ajax request header manipulation (reflected DOM-based)  Low  0x00500c01
+Ajax request header manipulation (stored DOM-based)  Low  0x00500c02
+Denial of service (DOM-based)  Information  0x00500d00
+Denial of service (reflected DOM-based)  Information  0x00500d01
+Denial of service (stored DOM-based)  Low  0x00500d02
+HTML5 web message manipulation (DOM-based)  Information  0x00500e00
+HTML5 web message manipulation (reflected DOM-based)  Information  0x00500e01
+HTML5 web message manipulation (stored DOM-based)  Information  0x00500e02
+HTML5 storage manipulation (DOM-based)  Information  0x00500f00
+HTML5 storage manipulation (reflected DOM-based)  Information  0x00500f01
+HTML5 storage manipulation (stored DOM-based)  Information  0x00500f02
+Link manipulation (DOM-based)  Low  0x00501000
+Link manipulation (reflected DOM-based)  Low  0x00501001
+Link manipulation (stored DOM-based)  Low  0x00501002
+Link manipulation (reflected)  Information  0x00501003
+Link manipulation (stored)  Information  0x00501004
+Document domain manipulation (DOM-based)  Medium  0x00501100
+Document domain manipulation (reflected DOM-based)  Medium  0x00501101
+Document domain manipulation (stored DOM-based)  Medium  0x00501102
+DOM data manipulation (DOM-based)  Information  0x00501200
+DOM data manipulation (reflected DOM-based)  Information  0x00501201
+DOM data manipulation (stored DOM-based)  Information  0x00501202
+CSS injection (reflected)  Medium  0x00501300
+CSS injection (stored)  Medium  0x00501301
+Client-side HTTP parameter pollution (reflected)  Low  0x00501400
+Client-side HTTP parameter pollution (stored)  Low  0x00501401
+Form action hijacking (reflected)  Medium  0x00501500
+Form action hijacking (stored)  Medium  0x00501501
+Database connection string disclosed  Medium  0x00600080
+Source code disclosure  Low  0x006000b0
+Directory listing  Information  0x00600100
+Email addresses disclosed  Information  0x00600200
+Private IP addresses disclosed  Information  0x00600300
+Social security numbers disclosed  Information  0x00600400
+Credit card numbers disclosed  Information  0x00600500
+Private key disclosed  Information  0x00600550
+Robots.txt file  Information  0x00600600
+Cacheable HTTPS response  Information  0x00700100
+Base64-encoded data in parameter  Information  0x00700200
+Multiple content types specified  Information  0x00800100
+HTML does not specify charset  Information  0x00800200
+HTML uses unrecognized charset  Information  0x00800300
+Content type incorrectly stated  Low  0x00800400
+Content type is not specified  Information  0x00800500
+SSL certificate  Medium  0x01000100
+Unencrypted communications  Low  0x01000200
+Strict transport security not enforced  Low  0x01000300
+Mixed content  Information  0x01000400
+Extension generated issue  Information  0x08000000
