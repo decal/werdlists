@@ -8,7 +8,11 @@
 | [alpha-upper-pairs](alpha-upper-pairs.txt) |  all possible pairings of uppercase alphabetic characters 
 | [_alpha-upper-pairs](_alpha-upper-pairs.txt) |  List of under-scored uppercase alphabetic letter pairings 
 | [__alpha-upper-pairs](__alpha-upper-pairs.txt) |  Two underscored prepended to uppercase letter pairings 
-| [noun-generation-formats](noun-generation-formats.txt) |  <https://gist.github.com/db48x/5816073> 
+| [english-bigram-frequencies](english-bigram-frequencies.txt) |  English bigrams sorted with frequency scores  
+| [english-monogram-frequencies](english-monogram-frequencies.txt) |  English monograms (individual letters) sorted with frequencies  
+| [english-trigram-frequencies](english-trigram-frequencies.txt) |  English trigrams sorted with frequency scores  
+| [english-quadgram-frequencies](english-quadgram-frequencies.txt.xz) |  English quadgrams sorted with frequency scores  
+| [noun-generation-formats](noun-generation-formats.txt) |  Typical noun formatting syntaxes in English via <https://gist.github.com/db48x/5816073> 
 
 * * *
 
