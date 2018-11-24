@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [all-node-packages](all-node-packages.txt) | Output from `all-the-package-names` NodeJS command
 | [autoconf-archive-macros](autoconf-archive-macros.txt) | GNU autoconf m4 macros list from <https://gnu.org/software/autoconf>
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
 | [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`

@@ -1,0 +1,13 @@
+NODE_DEBUG                ','-separated list of core modules that should print debug information
+NODE_DEBUG_NATIVE         ','-separated list of C++ core debug categories that should print debug output
+NODE_DISABLE_COLORS       set to 1 to disable colors in the REPL
+NODE_EXTRA_CA_CERTS       path to additional CA certificates file
+NODE_NO_WARNINGS          set to 1 to silence process warnings
+NODE_OPTIONS              set CLI options in the environment via a space-separated list
+NODE_PATH                 ':'-separated list of directories prefixed to the module search path
+NODE_PENDING_DEPRECATION  set to 1 to emit pending deprecation warnings
+NODE_PRESERVE_SYMLINKS    set to 1 to preserve symbolic links when resolving and caching modules
+NODE_REDIRECT_WARNINGS    write warnings to path instead of stderr
+NODE_REPL_HISTORY         path to the persistent REPL history file
+NODE_V8_COVERAGE          directory to output v8 coverage JSON to
+OPENSSL_CONF              load OpenSSL configuration from file
