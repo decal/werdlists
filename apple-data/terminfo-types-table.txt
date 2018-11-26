@@ -1,0 +1,1768 @@
+9term     	Plan9 terminal emulator for X
+Eterm     	Eterm with xterm-style color support (X Window System)
+Eterm-256color	Eterm with xterm 256-colors
+Eterm-88color	Eterm with 88 colors
+MtxOrb    	Generic Matrix Orbital LCD display
+MtxOrb162 	16x2 Matrix Orbital LCD display
+MtxOrb204 	20x4 Matrix Orbital LCD display
+NCR260VT300WPP	NCR 2900_260 vt300 wide mode pc+  kybd
+aaa       	ann arbor ambassador/30 lines
+aaa+dec   	ann arbor ambassador in dec vt100 mode
+aaa+rv    	ann arbor ambassador in reverse video
+aaa+unk   	ann arbor ambassador (internal - don't use this directly)
+aaa-18    	ann arbor ambassador/18 lines
+aaa-18-rv 	ann arbor ambassador/18 lines+reverse video
+aaa-20    	ann arbor ambassador/20 lines
+aaa-22    	ann arbor ambassador/22 lines
+aaa-24    	ann arbor ambassador/24 lines
+aaa-24-rv 	ann arbor ambassador/24 lines+reverse video
+aaa-26    	ann arbor ambassador/26 lines
+aaa-28    	ann arbor ambassador/28 lines
+aaa-30-ctxt	ann arbor ambassador/30 lines; saving context
+aaa-30-rv 	ann arbor ambassador/30 lines in reverse video
+aaa-30-rv-ctxt	ann arbor ambassador/30 lines reverse video; saving context
+aaa-30-s  	ann arbor ambassador/30 lines w/status
+aaa-30-s-rv	ann arbor ambassador/30 lines+status+reverse video
+aaa-36    	ann arbor ambassador/36 lines
+aaa-36-rv 	ann arbor ambassador/36 lines+reverse video
+aaa-40    	ann arbor ambassador/40 lines
+aaa-40-rv 	ann arbor ambassador/40 lines+reverse video
+aaa-48    	ann arbor ambassador/48 lines
+aaa-48-rv 	ann arbor ambassador/48 lines+reverse video
+aaa-60    	ann arbor ambassador/60 lines
+aaa-60-dec-rv	ann arbor ambassador/dec mode+59 lines+status+rev video
+aaa-60-rv 	ann arbor ambassador/60 lines+reverse video
+aaa-60-s  	ann arbor ambassador/59 lines+status
+aaa-60-s-rv	ann arbor ambassador/59 lines+status+reverse video
+aaa-db    	ann arbor ambassador 30/destructive backspace
+aaa-rv-unk	ann arbor unknown type
+aaa-s-ctxt	ann arbor ambassador/30 lines+status+save context
+aaa-s-rv-ctxt	ann arbor ambassador/30 lines+status+save context+reverse video
+aas1901   	Ann Arbor K4080 w/S1901 mod
+abm80     	amtek business machines 80
+abm85     	Kimtron ABM 85
+abm85e    	Kimtron ABM 85H in 920E mode
+abm85h    	Kimtron ABM 85H native mode
+abm85h-old	Kimtron ABM 85H with old firmware rev.
+act4      	microterm act iv
+act5      	microterm act v
+addrinfo  	(No description)
+adds980   	adds consul 980
+adm+sgr   	adm style highlight capabilities
+adm11     	LSI ADM-11
+adm1178   	lsi adm1178
+adm12     	lsi adm12
+adm1a     	lsi adm1a
+adm2      	lsi adm2
+adm20     	lear siegler adm20
+adm21     	lear siegler adm21
+adm22     	lsi adm22
+adm3      	lsi adm3
+adm31     	lsi adm31 with sw6 set for underline mode
+adm31-old 	old adm31
+adm36     	LSI ADM36
+adm3a     	lsi adm3a
+adm3a+    	adm3a plus
+adm42     	lsi adm42
+adm42-ns  	lsi adm-42 with no system line
+adm5      	lsi adm5
+aepro     	Apple II+ running ASCII Express Pro--vt52
+aixterm   	IBM Aixterm Terminal Emulator
+aixterm-16color	IBM Aixterm Terminal Emulator with 16 colors
+aixterm-m 	IBM AIXterm Monochrome Terminal Emulator
+aixterm-m-old	old IBM AIXterm Monochrome Terminal Emulator
+aj510     	Anderson-Jacobson model 510
+aj830     	anderson jacobson
+alto-h19  	alto emulating heathkit h19
+altos2    	altos II
+altos3    	altos III or V
+altos4    	altos IV
+altos7    	altos VII
+altos7pc  	altos PC VII
+amiga     	Amiga ANSI
+amiga-8bit	Amiga ANSI using 8-bit controls
+amiga-h   	Hans Verkuil's Amiga ANSI
+amiga-vnc 	Amiga using VNC console (black on light gray)
+ampex175  	ampex d175
+ampex175-b	ampex d175 using left arrow for erase
+ampex210  	ampex a210
+ampex219  	Ampex with Automargins
+ampex219w 	Ampex 132 cols
+ampex232  	Ampex Model 232
+ampex232w 	Ampex Model 232 / 132 columns
+ampex80   	ampex dialogue 80
+annarbor4080	ann arbor 4080
+ansi      	ansi/pc-term compatible with color
+ansi+arrows	(No description)
+ansi+arrows	ANSI normal-mode cursor-keys
+ansi+csr  	ANSI scroll-region plus cursor save & restore
+ansi+csr  	ansi scroll-region plus cursor save & restore
+ansi+cup  	(No description)
+ansi+cup  	ANSI absolute cursor-addressing
+ansi+enq  	ncurses extension for ANSI ENQ
+ansi+erase	(No description)
+ansi+erase	ANSI clear screen/line
+ansi+idc  	(No description)
+ansi+idc  	ANSI insert/delete characters
+ansi+idc1 	ANSI insert/delete one character
+ansi+idl  	(No description)
+ansi+idl  	ANSI insert/delete lines
+ansi+idl1 	(No description)
+ansi+idl1 	ANSI insert/delete one line
+ansi+inittabs	(No description)
+ansi+inittabs	ANSI initial tab-stops
+ansi+local	(No description)
+ansi+local	ANSI normal-mode parameterized cursor-keys
+ansi+local1	(No description)
+ansi+local1	ANSI normal-mode cursor-keys
+ansi+pp   	ansi printer port
+ansi+rca  	(No description)
+ansi+rca  	ANSI relative cursor-addressing
+ansi+rep  	(No description)
+ansi+rep  	ANSI repeat-character
+ansi+sgr  	ANSI graphic renditions
+ansi+sgr  	ansi graphic renditions
+ansi+sgrbold	ANSI graphic renditions; assuming terminal has bold; not dim
+ansi+sgrbold	ansi graphic renditions; assuming terminal has bold; not dim
+ansi+sgrdim	ANSI graphic renditions; assuming terminal has dim; not bold
+ansi+sgrdim	ansi graphic renditions; assuming terminal has dim; not bold
+ansi+sgrso	ANSI standout only
+ansi+sgrso	ansi standout only
+ansi+sgrul	ansi underline only
+ansi+tabs 	(No description)
+ansi+tabs 	ANSI tab-stops
+ansi-color-2-emx	ANSI.SYS color 2
+ansi-color-3-emx	ANSI.SYS color 3
+ansi-emx  	ANSI.SYS color
+ansi-generic	generic ansi standard terminal
+ansi-m    	ANSI X3.64-1979 terminal with ANSI.SYS compatible attributes
+ansi-mini 	any ansi terminal with pessimistic assumptions
+ansi-mr   	mem rel cup ansi
+ansi-mtabs	any ansi terminal with pessimistic assumptions
+ansi-nt   	Microsoft Windows NT console POSIX ANSI mode
+ansi.sys  	ANSI.SYS 3.1 and later versions
+ansi.sys-old	ANSI.SYS under PC-DOS 2.1
+ansi.sysk 	PC-DOS 3.1 ANSI.SYS with keypad redefined for vi
+ansi77    	ansi 3.64 standard 1977 version
+apollo    	apollo console
+apollo_15P	apollo 15 inch display
+apollo_19L	apollo 19 inch display
+apollo_color	apollo color display
+apple-80  	apple II with smarterm 80 col
+apple-ae  	ASCII Express
+apple-soroc	apple emulating soroc 120
+apple-uterm	Ultraterm for Apple micros
+apple-uterm-vb	Videx Ultraterm for Apple micros with Visible Bell
+apple-videx	Apple with videx videoterm 80 column board with inverse video
+apple-videx2	Apple II+ w/ Videx card (similar to Datamedia h1520)
+apple-videx3	Apple II with 80 col card
+apple-vm80	apple with viewmax-80
+apple2e   	Apple //e
+apple2e-p 	Apple //e via Pascal
+apple80p  	80-column apple with Pascal card
+appleII   	apple ii plus
+appleIIgs 	Apple 80 column firmware interface
+arm100    	Arm(RiscPC) ncurses compatible (for 640x480)
+arm100-w  	Arm(RiscPC) ncurses compatible (for 1024x768)
+atari     	atari st
+atari-old 	atari st
+aterm     	AfterStep terminal
+att2300   	AT&T 2300 Video Information Terminal 80 column mode
+att2350   	AT&T 2350 Video Information Terminal 80 column mode
+att4410   	AT&T 4410/5410 80 columns - version 2
+att4410v1-w	AT&T 4410/5410 132 columns - version 1
+att4415   	AT&T 4415/5420 80 cols
+att4415+nl	generic AT&T 4415/5420 changes for not changing labels
+att4415-nl	AT&T 4415/5420 without changing labels
+att4415-rv	AT&T 4415/5420 80 cols/rv
+att4415-rv-nl	AT&T 4415/5420 reverse video without changing labels
+att4415-w 	AT&T 4415/5420 132 cols
+att4415-w-nl	AT&T 4415/5420 132 cols without changing labels
+att4415-w-rv	AT&T 4415/5420 132 cols/rv
+att4415-w-rv-n	AT&T 4415/5420 132 cols reverse without changing labels
+att4418   	AT&T 5418 80 cols
+att4418-w 	AT&T 5418 132 cols
+att4420   	teletype 4420
+att4424   	teletype 4424
+att4424-1 	teletype 4424 in display function group I
+att4424m  	teletype 4424M
+att4426   	teletype 4426S
+att500    	AT&T 513 using page mode
+att505    	AT&T Personal Terminal 505 or 5430 GETSET terminal
+att505-24 	AT&T PT505 or 5430 GETSET version 1 24 lines
+att510a   	AT&T 510A Personal Terminal
+att510d   	AT&T 510D Personal Terminal
+att5310   	AT&T Model 53210 or 5320 matrix printer
+att5410-w 	AT&T 4410/5410 in 132 column mode
+att5410v1 	AT&T 4410/5410 80 columns - version 1
+att5420_2 	AT&T 5420 model 2 80 cols
+att5420_2-w	AT&T 5420 model 2 in 132 column mode
+att5425   	AT&T 4425/5425
+att5425-nl	AT&T 4425/5425 80 columns no labels
+att5425-w 	teletype 4425/5425 in 132 column mode
+att5620   	5620 terminal 88 columns
+att5620-1 	Teletype 5620 with old ROMs
+att5620-24	teletype dmd 5620 in a 24x80 layer
+att5620-34	teletype dmd 5620 in a 34x80 layer
+att5620-s 	5620 S layer
+att605    	AT&T 605 80 column 102key keyboard
+att605-pc 	ATT 605 in pc term mode
+att605-w  	AT&T 605-w 132 column 102 key keyboard
+att610    	AT&T 610; 80 column; 98key keyboard
+att610-103k	AT&T 610; 80 column; 103key keyboard
+att610-103k-w	AT&T 610; 132 column; 103key keyboard
+att610-w  	AT&T 610; 132 column; 98key keyboard
+att615    	AT&T 615; 80 column; 98key keyboard
+att615-103k	AT&T 615; 80 column; 103key keyboard
+att615-103k-w	AT&T 615; 132 column; 103key keyboard
+att615-w  	AT&T 615; 132 column; 98key keyboard
+att620    	AT&T 620; 80 column; 98key keyboard
+att620-103k	AT&T 620; 80 column; 103key keyboard
+att620-103k-w	AT&T 620; 132 column; 103key keyboard
+att620-w  	AT&T 620; 132 column; 98key keyboard
+att630    	AT&T 630 windowing terminal
+att630-24 	AT&T 630 windowing terminal 24 lines
+att6386   	AT&T WGS 6386 console
+att700    	AT&T 700 24x80 column display w/102key keyboard
+att730    	AT&T 730 windowing terminal
+att730-24 	AT&T 730-24 windowing terminal Version
+att730-41 	AT&T 730-41 windowing terminal Version
+att7300   	AT&T UNIX PC Model 7300
+att730r   	AT&T 730 rev video windowing terminal Version
+att730r-24	AT&T 730r-24 rev video windowing terminal Version
+att730r-41	AT&T 730r-41 rev video windowing terminal Version
+avatar    	avatar terminal emulator level 1
+avatar0   	avatar terminal emulator level 0
+avatar0+  	avatar terminal emulator level 0+
+avt       	avt w/80 columns
+avt+s     	concept avt status line changes
+avt-ns    	concept avt no status line
+avt-rv    	avt reverse video w/sl
+avt-rv-ns 	concept avt in reverse video mode/no status line
+avt-w     	concept avt 132 cols+status
+avt-w-ns  	concept avt in 132 column mode/no status line
+avt-w-rv  	avt wide+status+rv
+avt-w-rv-ns	concept avt in 132 column mode/no status line/reverse video
+aws       	Convergent Technologies AWS workstation under UTX and Xenix
+awsc      	Convergent Technologies AWS workstation under CTOS
+bantam    	perkin elmer 550
+basis     	BASIS108 computer with terminal translation table active
+beacon    	FCG Beacon System
+beehive   	harris beehive
+beehive3  	harris beehive 3m
+beehive4  	beehive 4
+beterm    	BeOS Terminal
+bg1.25    	bbn bitgraph 1.25
+bg1.25nv  	bbn bitgraph 1.25 (normal video)
+bg1.25rv  	bbn bitgraph 1.25 (reverse video)
+bg2.0     	bbn bitgraph 2.0 or later (no init)
+bg2.0rv   	bbn bitgraph 2.0 (reverse video)
+bitgraph  	bbn bitgraph 2.0 or later (normal video)
+blit      	blit running teletype rom
+bobcat    	HP 9000 model 300 console
+bq300     	Bull vt320 ISO Latin 1 80 columns terminal
+bq300-8   	Bull vt320 full 8 bits 80 columns
+bq300-8-pc	Questar 303 with PC keyboard in full 8 bits 80 columns
+bq300-8-pc-rv	Questar 303 with PC keyboard full 8 bits reverse mode 80 columns
+bq300-8-pc-w	Questar 303 with PC keyboard full 8 bits 132 columns
+bq300-8-pc-w-rv	Questar 303 with PC keyboard full 8 bits reverse 132 columns
+bq300-8rv 	Bull vt320 8-bit reverse mode 80 columns
+bq300-8w  	Bull vt320 8-bit 132 columns
+bq300-pc  	Questar 303 with PC keyboard ISO Latin 1 80 columns
+bq300-pc-rv	Questar 303 with PC keyboard reverse mode 80 columns
+bq300-pc-w	Questar 303 with PC keyboard 132 columns terminal
+bq300-pc-w-rv	Questar 303 with PC keyboard reverse mode 132 columns
+bq300-rv  	Bull vt320 reverse 80 columns
+bq300-w   	Bull vt320 132 columns
+bq300-w-8rv	Bull vt320 8-bit reverse mode 132 columns
+bq300-w-rv	Bull vt320 reverse mode 132 columns
+bsdos-pc  	IBM PC BSD/OS Console
+bsdos-pc-m	BSD/OS PC console mono
+bsdos-pc-nobold	BSD/OS PC console w/o bold
+bsdos-ppc 	PowerPC BSD/OS Console
+bsdos-sparc	Sun SPARC BSD/OS Console
+bterm     	bogl virtual terminal
+c100      	hds concept 100
+c100-rv   	c100 rev video
+c108      	concept 108 w/8 pages
+c108-4p   	concept 108 w/4 pages
+c108-rv   	concept 108 w/8 pages in reverse video
+c108-rv-4p	concept 108 w/4 pages in reverse video
+c108-w    	concept 108 w/8 pages in wide mode
+ca22851   	computer automation 22851
+cad68-2   	cad68 basic monitor transparent mode size 2 chars
+cad68-3   	cad68 basic monitor transparent mode size 3 chars
+cbblit    	blit running columbus code
+cbunix    	cb unix virtual terminal
+cci       	CCI Custom Zentec 8001
+cdc456    	cdc 456 terminal
+cdc721    	CDC Viking
+cdc721-esc	Control Data 721
+cdc721ll  	CDC Viking with long lines
+cdc721ll  	CDC Vikingll
+cdc752    	CDC 752
+cdc756    	CDC 756
+cg7900    	chromatics 7900
+cit101    	C.itoh fast vt100
+cit101e   	C. Itoh CIT-101e
+cit101e-132	CIT-101e with 132 cols
+cit101e-n 	CIT-101e w/o am
+cit101e-n132	CIT-101e with 132 cols w/o am
+cit101e-rv	Citoh CIT-101e (sets reverse video)
+cit500    	CIE Terminals CIT-500
+cit80     	citoh 80
+citoh     	c.itoh 8510a
+citoh-6lpi	citoh in 6 lines per inch mode
+citoh-8lpi	citoh in 8 lines per inch mode
+citoh-comp	citoh in compressed
+citoh-elite	citoh in elite
+citoh-pica	citoh in pica
+citoh-prop	citoh in proportional spacing mode
+coco3     	Tandy CoCo3 24*80 OS9 Level II
+color_xterm	color_xterm color terminal emulator for X
+commodore 	Commodore B-128 micro
+cons25    	freebsd console (25-line ansi mode)
+cons25-debian	freebsd console with debian backspace (25-line ansi mode)
+cons25-m  	freebsd console (25-line mono ansi mode)
+cons25l1  	freebsd console w/iso 8859-1 chars
+cons25l1-m	freebsd console w/iso 8859-1 chars (mono)
+cons25r   	freebsd console w/koi8-r cyrillic
+cons25r-m 	freebsd console w/koi8-r cyrillic (mono)
+cons25w   	freebsd console (25-line raw mode)
+cons30    	freebsd console (30-line ansi mode)
+cons30-m  	freebsd console (30-line mono ansi mode)
+cons43    	freebsd console (43-line ansi mode)
+cons43-m  	freebsd console (43-line mono ansi mode)
+cons50    	freebsd console (50-line ansi mode)
+cons50-m  	freebsd console (50-line mono ansi mode)
+cons50l1  	freebsd console w/iso 8859-1 chars (50 lines)
+cons50l1-m	freebsd console w/iso 8859-1 chars (50-line mono)
+cons50r   	freebsd console w/koi8-r cyrillic (50 lines)
+cons50r-m 	freebsd console w/koi8-r cyrillic (50-line mono)
+cons60    	freebsd console (60-line ansi mode)
+cons60-m  	freebsd console (60-line mono ansi mode)
+cons60l1  	freebsd console w/iso 8859-1 chars (60 lines)
+cons60l1-m	freebsd console w/iso 8859-1 chars (60-line mono)
+cons60r   	freebsd console w/koi8-r cyrillic (60 lines)
+cons60r-m 	freebsd console w/koi8-r cyrillic (60-line mono)
+contel300 	Contel Business Systems C-300 or C-320
+contel301 	Contel Business Systems C-301 or C-321
+cops10    	cops 10
+crt       	CRT 2.3 emulating VT220
+cs10      	Datamedia Color Scan 10
+cs10-w    	Datamedia Color Scan 10 with 132 columns
+ct8500    	tektronix ct8500
+ctrm      	C terminal emulator
+cyb110    	cybernex mdl-110
+cyb83     	cybernex xl-83
+cygwin    	ansi emulation for Cygwin
+cygwinB19 	ansi emulation for cygwin32
+cygwinDBG 	Debug Version for Cygwin
+d132      	datagraphix 132a
+d200      	Data General DASHER D200
+d210      	Data General DASHER D210 series
+d210-dg   	Data General DASHER D210 series in DG mode
+d211      	Data General DASHER D211 series
+d211-7b   	Data General DASHER D211 series in 7 bit mode
+d211-dg   	Data General DASHER D211 series in DG mode
+d216-dg   	Data General DASHER D216 series in DG mode
+d216-unix 	Data General DASHER D216+ in DG-UNIX mode
+d216-unix-25	Data General DASHER D216+ in DG-UNIX mode with 25 lines
+d217-unix 	Data General DASHER D217 in DG-UNIX mode
+d217-unix-25	Data General DASHER D217 in DG-UNIX mode with 25 lines
+d220      	Data General DASHER D220
+d220-7b   	Data General DASHER D220 in 7 bit mode
+d220-dg   	Data General DASHER D220 color terminal in DG mode
+d230c     	Data General DASHER D230C
+d230c-dg  	Data General DASHER D230C in DG mode
+d400      	Data General DASHER D400/D450 series
+d410      	Data General DASHER D410/D460 series
+d410-7b   	Data General DASHER D410/D460 series in 7 bit mode
+d410-7b-w 	Data General DASHER D410/D460 series in wide 7 bit mode
+d410-dg   	Data General DASHER D410/D460 series in DG mode
+d410-w    	Data General DASHER D410/D460 series in wide mode
+d412-dg   	Data General DASHER D412/D462 series in DG mode
+d412-unix 	Data General DASHER D412+/D462+ series in Unix mode
+d412-unix-25	Data General DASHER D412+/D462+ series in Unix mode with 25 lines
+d412-unix-s	Data General DASHER D412+/D462+ in Unix mode with status line
+d412-unix-sr	Data General DASHER D412+/D462+ in Unix mode with scrolling region
+d412-unix-w	Data General DASHER D412+/D462+ series in wide Unix mode
+d413-unix 	Data General DASHER D413/D463 series in DG-UNIX mode
+d413-unix-25	Data General DASHER D413/D463 series in DG-UNIX mode with 25 lines
+d413-unix-s	Data General DASHER D413/D463 in DG-UNIX mode with status line
+d413-unix-sr	Data General DASHER D413/D463 in DG-UNIX mode with scrolling region
+d413-unix-w	Data General DASHER D413/D463 series in wide DG-UNIX mode
+d414-unix 	Data General D414/D464 in DG-UNIX mode
+d414-unix-25	Data General D414/D464 in DG-UNIX mode with 25 lines
+d414-unix-s	Data General D414/D464 in DG-UNIX mode with status line
+d414-unix-sr	Data General D414/D464 in DG-UNIX mode with scrolling region
+d414-unix-w	Data General D414/D464 in wide DG-UNIX mode
+d430c-dg  	Data General D430C in DG mode
+d430c-dg-ccc	Data General D430C in DG mode with configurable colors
+d430c-unix	Data General D430C in DG-UNIX mode
+d430c-unix-25	Data General D430C in DG-UNIX mode with 25 lines
+d430c-unix-25-ccc	Data General D430C in DG-UNIX mode with 25 lines and configurable colors
+d430c-unix-ccc	Data General D430C in DG-UNIX mode with configurable colors
+d430c-unix-s	Data General D430C in DG-UNIX mode with status line
+d430c-unix-s-ccc	Data General D430C in DG-UNIX mode with status line and configurable colors
+d430c-unix-sr	Data General D430C in DG-UNIX mode with scrolling region
+d430c-unix-sr-ccc	Data General D430C in DG-UNIX mode with scrolling region and configurable colors
+d430c-unix-w	Data General D430C in wide DG-UNIX mode
+d430c-unix-w-ccc	Data General D430C in wide DG-UNIX mode with configurable colors
+d470c     	Data General DASHER D470C
+d470c-7b  	Data General DASHER D470C in 7 bit mode
+d470c-dg  	Data General DASHER D470C in DG mode
+d555      	Data General DASHER D555
+d555-7b   	Data General DASHER D555 in 7-bit mode
+d555-7b-w 	Data General DASHER D555 in wide 7-bit mode
+d555-dg   	Data General DASHER D555 series in DG mode
+d555-w    	Data General DASHER D555 in wide mode
+d577      	Data General DASHER D577
+d577-7b   	Data General DASHER D577 in 7-bit mode
+d577-7b-w 	Data General DASHER D577 in wide 7-bit mode
+d577-dg   	Data General DASHER D577/D578 series in DG mode
+d577-w    	Data General DASHER D577 in wide mode
+d578      	Data General DASHER D578
+d578-7b   	Data General DASHER D578 in 7-bit mode
+d800      	Direct 800/A
+ddr       	Rebus/DDR 3180 vt100 emulator
+dec+pp    	DEC autoprinter mode
+dec+sl    	DEC VTxx status line
+dec-vt100 	EWAN telnet's vt100 emulation
+dec-vt220 	DOS tnvt200 terminal emulator
+decansi   	ANSI emulation with DEC compatibility hacks
+delta     	delta data 5000
+dg+ccc    	Configurable color info for DG D430C terminals in DG mode
+dg+color  	Color info for Data General D470C terminals in ANSI mode
+dg+color8 	Color info for Data General D220 and D230C terminals in ANSI mode
+dg+fixed  	Fixed color info for DG D430C terminals in DG mode
+dg-generic	Generic Data General terminal in DG mode
+dg200     	data general dasher 200
+dg210     	Data General 210/211
+dg211     	Data General d211
+dg450     	data general 6134
+dg460-ansi	Data General Dasher 460 in ANSI-mode
+dg6053    	Data General DASHER 6053
+dg6053-old	data general 6053
+dgkeys+11 	Private entry describing 11 minimal-subset DG mode special keys
+dgkeys+15 	Private entry describing 15 DG mode special keys
+dgkeys+7b 	Private entry describing DG terminal 7-bit ANSI mode special keys
+dgkeys+8b 	Private entry describing DG terminal 8-bit ANSI mode special keys
+dgmode+color	Color info for Data General D470C terminals in DG mode
+dgmode+color8	Color info for Data General D220/D230C terminals in DG mode
+dgunix+ccc	Configurable color info for DG D430C terminals in DG-UNIX mode
+dgunix+fixed	Fixed color info for DG D430C terminals in DG-UNIX mode
+diablo1620	diablo 1620
+diablo1620-m8	diablo 1620 w/8 column left margin
+diablo1640	diablo 1640
+diablo1640-lm	diablo 1640 with indented left margin
+diablo1740-lm	diablo 1740 printer
+digilog   	digilog 333
+djgpp     	ansi emulation for DJGPP alpha
+djgpp203  	Entry for DJGPP 2.03
+djgpp204  	Entry for DJGPP 2.04
+dku7003   	Honeywell Bull DKU 7003 all features described
+dku7003-dumb	Honeywell Bull DKU 7003 dumb mode
+dku7102-old	BULL Questar 200 DKU7102 (microcode version < 6)
+dku7202   	BULL Questar 200 DKU7202 (colour/character attributes)
+dm1520    	datamedia 1520
+dm2500    	datamedia 2500
+dm3025    	datamedia 3025a
+dm3045    	datamedia 3045a
+dm80      	datamedia dt80/1
+dm80w     	datamedia dt80/1 in 132 char mode
+dmchat    	dmchat version of datamedia 2500
+dmterm    	deskmate terminal
+dp3360    	datapoint 3360
+dp8242    	datapoint 8242
+dt100     	Tandy DT-100 terminal
+dt100w    	Tandy DT-100 terminal (wide mode)
+dt110     	Tandy DT-110 emulating ansi
+dt80-sas  	Datamedia DT803/DTX for SAS usage
+dtc300s   	DTC 300s
+dtc382    	DTC 382
+dtterm    	CDE desktop terminal
+dumb      	80-column dumb tty
+dumb-emacs-ansi	Emacs dumb terminal with ANSI color codes
+dvtm      	dynamic virtual terminal manager
+dvtm-256color	dynamic virtual terminal manager with 256 colors
+dw1       	decwriter I
+dw2       	decwriter II
+dw3       	decwriter III
+dw4       	decwriter IV
+dwk       	dwk terminal
+ecma+color	color control for ECMA-48-compatible terminals
+ecma+italics	ECMA-48 italics
+ecma+sgr  	attribute capabilities for true ECMA-48 terminals
+ecma+strikeout	ECMA-48 strikeout/crossed-out
+elks      	default ELKS console
+elks-ansi 	ELKS ANSI console
+elks-glasstty	ELKS glass-TTY capabilities
+elks-vt52 	ELKS vt52 console
+emu       	emu native mode
+emu-220   	Emu-220 (vt200-7bit mode)
+emx-base  	DOS special keys
+env230    	envision 230 graphics terminal
+ep40      	execuport 4000
+ep48      	execuport 4080
+ergo4000  	microterm ergo 4000
+esprit    	Hazeltine Esprit I
+esprit-am 	hazeltine esprit auto-margin
+eterm     	gnu emacs term.el terminal emulation
+eterm-color	Emacs term.el terminal emulator term-protocol-version 0.96
+ex155     	Motorola Exorterm 155
+excel62   	datamedia Excel 62
+excel62-rv	datamedia Excel 62 in reverse video mode
+excel62-w 	datamedia Excel 62 in 132 char mode
+f100      	freedom model 100
+f100-rv   	freedom 100 in reverse video
+f110      	Liberty Freedom 110
+f110-14   	Liberty Freedom 110 14inch
+f110-14w  	Liberty Freedom 110 14in/132 cols
+f110-w    	Liberty Freedom 110 - 132 cols
+f1720     	fluke 1720A
+f200      	Liberty Freedom 200
+f200-w    	Liberty Freedom 200 - 132 cols
+f200vi    	Liberty Freedom 200 for vi
+f200vi-w  	Liberty Freedom 200 - 132 cols for vi
+falco     	falco ts-1
+falco-p   	falco ts-1 with paging option
+fbterm    	FbTerm for Linux with framebuffer
+fos       	Fortune system
+fox       	perkin elmer 1100
+gator     	HP 9000 model 237 emulating AAA
+gator-52  	HP 9000 model 237 emulating VT52
+gator-52t 	HP 9000 model 237 emulating extra-tall VT52
+gator-t   	HP 9000 model 237 emulating extra-tall AAA
+gigi      	dec gigi graphics terminal
+glasstty  	classic glass tty interpreting ASCII control characters
+gnome     	GNOME Terminal
+gnome+pcfkeys	VTE's variation on xterm+pcfkeys
+gnome+pcfkeys	gnome variation on xterm+pcfkeys
+gnome-2007	GNOME Terminal snapshot 2.18.1
+gnome-2008	GNOME Terminal snapshot 2.22.3
+gnome-2012	GNOME Terminal 3.6.0
+gnome-256color	GNOME Terminal with xterm 256-colors
+gnome-fc5 	GNOME Terminal
+gnome-rh62	Gnome terminal
+gnome-rh72	GNOME Terminal
+gnome-rh80	GNOME Terminal
+gnome-rh90	GNOME Terminal
+go140     	graphon go-140
+go140w    	graphon go-140 in 132 column mode
+go225     	Graphon 225
+graphos   	graphos III
+graphos-30	graphos III with 30 lines
+gs6300    	AT&T PC6300 with EMOTS terminal emulator
+gsi       	mystery gsi terminal
+gt40      	dec gt40
+gt42      	dec gt42
+guru      	ann arbor guru/33 lines 80 cols
+guru+rv   	guru changes for reverse video
+guru+s    	guru status line
+guru-24   	ann arbor guru 24 lines
+guru-44   	ann arbor guru 44 lines
+guru-44-s 	ann arbor guru/44 lines+status
+guru-76   	guru with 76 lines by 89 cols
+guru-76-lp	guru with page bigger than line printer
+guru-76-s 	ann arbor guru/76 lines+status
+guru-76-w 	guru 76 lines by 178 cols
+guru-76-w-s	ann arbor guru/76 lines+status+wide
+guru-76-wm	guru 76 lines by 178 cols with 255 cols memory
+guru-nctxt	guru with no saved context
+guru-rv   	ann arbor guru/33 lines+reverse video
+guru-s    	ann arbor guru/33 lines+status
+h19       	heathkit h19
+h19-a     	heathkit h19 ansi mode
+h19-bs    	heathkit w/keypad shifted
+h19-g     	heathkit w/block cursor
+h19-u     	heathkit with underscore cursor
+h19-us    	heathkit w/keypad shifted/underscore cursor
+h19k      	heathkit emulation provided by Kermit (no auto margin)
+ha8675    	harris 8675
+ha8686    	harris 8686
+hazel     	Hazeltine Executive 80
+hds200    	Human Designed Systems HDS200
+hft-c     	HFT with Color
+hft-c-old 	HFT with Color PC850
+hft-old   	AIWS High Function Terminal
+hirez100  	Selanar HiREZ-100
+hirez100-w	Selanar HiREZ-100 in 132-column mode
+hmod1     	Hazeltine Modular 1
+hp+arrows 	hp arrow definitions
+hp+color  	hp with colors
+hp+labels 	"standard" label info for new HP ttys
+hp+pfk+arrows	hp alternate arrow definitions
+hp+pfk+cr 	hp function keys with CR
+hp+pfk-cr 	hp function keys w/o CR
+hp+printer	"standard" printer info for HP ttys
+hp110     	hewlett-packard model 110 portable
+hp150     	hewlett packard Model 150
+hp2       	hewlett-packard extended capabilities newer version
+hp236     	hp236 internal terminal emulator
+hp2382a   	hewlett packard 2382a
+hp2392    	239x series
+hp2397a   	hewlett packard 2397A color terminal
+hp2621    	hp 2621 w/labels
+hp2621-48 	48 line 2621
+hp2621-a  	hp2621 with fn as arrows
+hp2621-ba 	2621 w/new rom and strap A set
+hp2621-fl 	hp 2621
+hp2621-k45	hp 2621 with 45 keyboard
+hp2621-nl 	hp 2621 with no labels
+hp2621-nt 	hp 2621 w/no tabs
+hp2621b   	hp 2621b with old style keyboard
+hp2621b-kx	hp 2621b with extended keyboard
+hp2621b-kx-p	hp 2621b with new keyboard & printer
+hp2621b-p 	hp 2621b with printer
+hp2621p   	hp 2621 with printer
+hp2621p-a 	hp2621p with fn as arrows
+hp2622    	hp 2622
+hp2623    	hp 2623
+hp2624    	Hewlett Packard 2624 B
+hp2624-10p	hewlett packard 2624 B w/ 10 pages of memory
+hp2624b-10p-p	hewlett packard 2624 B w/ extra memory & printer
+hp2624b-p 	hewlett packard 2624 B with printer
+hp2626    	hp 2626
+hp2626-12 	hewlett-packard 2626 12 lines
+hp2626-12-s	hewlett-packard 2626 11 lines plus status
+hp2626-12x40	hewlett-packard 2626 12 lines 40 columns
+hp2626-ns 	hp 2626 using all 24 lines
+hp2626-s  	hp 2626 using only 23 lines
+hp2626-x40	hewlett-packard 2626 40 columns
+hp2627a   	hp 2627 color terminal with no labels
+hp2627a-rev	hp 2627 with reverse video colors
+hp2627c   	hp 2627 color (cyan) terminal with no labels
+hp262x    	HP 262x terminals
+hp2640a   	hp 2640a
+hp2640b   	hp 264x series
+hp2641a   	HP 264?A series BRL entry
+hp2645    	HP 2645 series
+hp2648    	HP 2648a graphics terminal
+hp300h    	HP Catseye console
+hp700-wy  	HP700/41 emulating wyse30
+hp70092   	HP 700/92
+hp9837    	HP 9000/300 workstations
+hp9845    	HP 9845
+hp98550   	HP 9000 Series 300 color console
+hpansi    	hewlett packard 700/44 in HP-PCterm mode
+hpex      	hp extended capabilites
+hpex      	hp extended capabilities
+hpgeneric 	hewlett-packard generic terminal
+hpsub     	hp terminals -- capability subset
+hpterm    	hp X11 terminal emulator
+hpterm-color	HP X11 terminal emulator with color
+hurd      	The GNU Hurd console server
+hz1000    	hazeltine 1000
+hz1420    	hazeltine 1420
+hz1500    	hazeltine 1500
+hz1510    	hazeltine 1510
+hz1520    	Hazeltine 1520
+hz1520-noesc	hazeltine 1520
+hz1552    	hazeltine 1552
+hz1552-rv 	hazeltine 1552 reverse video
+hz2000    	hazeltine 2000
+i100      	General Terminal 100A (formerly Infoton 100)
+i400      	infoton 400
+iTerm.app 	iTerm.app terminal emulator for Mac OS X
+iTerm2.app	terminal emulator for Mac OS X
+ibcs2     	Intel Binary Compatibility Standard prescriptions
+ibm+16color	IBM aixterm color definitions
+ibm+color 	IBM color definitions
+ibm-apl   	IBM apl terminal simulator
+ibm-pc    	IBM Personal Computer (no ANSI.SYS)
+ibm-system1	ibm system/1 computer
+ibm3101   	IBM 3101-10
+ibm3151   	IBM 3151 display
+ibm3161   	IBM 3161/3163 display
+ibm3161-C 	IBM 3161-C NLS terminal using cartridge
+ibm3162   	IBM 3162 display
+ibm3164   	IBM 3164
+ibm327x   	line mode IBM 3270 style
+ibm5081   	IBM Megapel Color display
+ibm5081-c 	IBM 5081 1024x1024 256/4096 Megapel enhanced color display
+ibm5151   	IBM 5151 Monochrome display
+ibm5154   	IBM 5154 Color display
+ibm6153   	IBM 6153 Black & White display
+ibm6153-40	IBM 6153 Black & White display
+ibm6153-90	IBM 6153 Black & White display
+ibm6154   	IBM 6154 Color displays
+ibm6155   	IBM 6155 Black & White display
+ibm8503   	IBM 8503 B & W VGA display
+ibm8512   	IBM color VGA Terminal
+ibm8514   	IBM 8514/a color VGA display
+ibm8514-c 	IBM 8514 color display with standout and underline
+ibmaed    	IBM Experimental display
+ibmapa8c  	IBM 6154 Advanced Graphics Display
+ibmapa8c-c	IBM 6154 Advanced Color Graphics Display
+ibmega    	IBM Enhanced Color Display
+ibmega-c  	IBM Enhanced Color Display with standout and underline
+ibmmono   	IBM workstation monochrome
+ibmpc     	IBM PC/XT running PC/IX
+ibmpc3    	BSD/OS on the PC Console with bold instead of underline
+ibmpcx    	IBM PC xenix console display
+ibmvga    	IBM VGA display
+ibmvga-c  	IBM VGA display color termcap
+icl6404   	ICL 6404 aka Kokusai Display Systems 7372
+icl6404-w 	ICL 6404 aka Kokusai Display Systems 7372 132 cols
+ifmr      	Informer D304
+ims-ansi  	IMS Ultima II
+ims950    	ims televideo 950 emulation
+ims950-b  	bare ims950 no init string
+ims950-rv 	ims tvi950 rev video
+infoton   	(No description)
+interix   	OpenNT-term compatible with color
+interix-nti	OpenNT-nti compatible with color
+intertube 	Intertec InterTube
+intertube2	intertec data systems intertube 2
+intext    	Interactive Systems Corporation modified owl 1200
+intext2   	INTERACTIVE modified owl 1251
+iris-ansi 	IRIS emulating 40 line ANSI terminal (almost VT100)
+iris-ansi-ap	IRIS ANSI in application-keypad mode
+iris-color	IRIX ANSI with color
+iterm2-direct	iTerm2 with direct-color indexing
+jaixterm  	IBM Kanji Aixterm Terminal Eemulator
+jaixterm-m	IBM Kanji AIXterm Monochrome Terminal Emulator
+kaypro    	kaypro II
+kermit    	standard kermit
+kermit-am 	standard kermit plus auto-margin
+klone+acs 	alternate character set for ansi.sys displays
+klone+color	color control for ansi.sys and ISO6429-compatible displays
+klone+koi8acs	alternate character set for ansi.sys displays with KOI8 charset
+klone+sgr 	attribute control for ansi.sys displays
+klone+sgr-dumb	attribute control for ansi.sys displays (no ESC [ 11 m)
+klone+sgr8	attribute control for ansi.sys displays
+kon       	Kanji ON Linux console
+konsole   	KDE console window
+konsole+pcfkeys	konsole subset of xterm+pcfkeys
+konsole-16color	klone of xterm-16color
+konsole-256color	KDE console window with xterm 256-colors
+konsole-base	KDE console window
+konsole-direct	konsole with direct-color indexing
+konsole-linux	KDE console window with linux keyboard
+konsole-solaris	KDE console window with Solaris keyboard
+konsole-vt100	KDE console window with vt100 (sic) keyboard
+konsole-vt420pc	KDE console window with vt420 pc keyboard
+konsole-xf3x	KDE console window with keyboard for XFree86 3.x xterm
+konsole-xf4x	KDE console window with keyboard for XFree86 4.x xterm
+kt7       	kimtron model kt-7
+kt7ix     	kimtron model kt-7 or 70 in IX mode
+kterm     	kterm kanji terminal emulator (X window system)
+kterm-color	kterm with ANSI colors
+kvt       	KDE terminal
+lft       	IBM LFT PC850 Device
+linux     	linux console
+linux-16color	linux console with 16 colors
+linux-basic	linux console
+linux-c   	linux console 1.3.6+ for older ncurses
+linux-c-nc	linux console with color-change
+linux-koi8	linux with koi8 alternate character set
+linux-koi8r	linux with koi8-r alternate character set
+linux-lat 	linux with latin1 or latin2 alternate character set
+linux-m   	Linux console no color
+linux-m1  	Linux Minitel 1 "like" Couleurs
+linux-m1b 	Linux Minitel 1B "like" Monochrome (Gris/Blanc/Noir+Dim)
+linux-m2  	Linux Minitel 2 "like" Couleurs (Vert/Blanc/Noir+Bleu)
+linux-nic 	linux with ich/ich1 suppressed for non-curses programs
+linux-vt  	linux console using VT codes for graphics
+linux2.2  	linux 2.2.x console
+linux2.6  	linux 2.6.x console
+linux2.6.26	linux console w/o bce
+linux3.0  	linux 3.0 kernels
+lisa      	apple lisa console display (black on white)
+lisaterm  	Apple Lisa or Lisa/2 running LisaTerm vt100 emulation
+lisaterm-w	Apple Lisa with Lisaterm in 132 column mode
+liswb     	apple lisa console display (white on black)
+ln03      	dec ln03 laser printer
+ln03-w    	dec ln03 laser printer 132 cols
+lpr       	line printer
+luna      	LUNA68K Bitmap console
+m2-nam    	France Telecom Minitel 2 mode te'le'informatique
+mac       	Macintosh with MacTerminal
+mac-w     	Apple Macintosh with MacTerminal in 132 column mode
+mac-w     	Apple Macintosh with Macterminal in 132 column mode
+mach      	Mach Console
+mach-bold 	Mach Console with bold instead of underline
+mach-color	Mach Console with ANSI color
+mach-gnu  	GNU Mach
+mach-gnu-color	Mach Console with ANSI color
+mai       	MAI Basic Four in ansi mode
+masscomp  	masscomp workstation console
+masscomp1 	masscomp large screen version 1
+masscomp2 	masscomp large screen version 2
+megatek   	pegasus workstation terminal emulator
+memhp     	memory relative addressing for new HP ttys
+mgr       	Bellcore MGR (non X) window system terminal emulation
+mgr-linux 	Mgr window with Linux keyboard
+mgr-sun   	Mgr window with Sun keyboard
+mgt       	Multi GNOME Terminal
+mgterm    	(No description)
+mgterm    	MGL/MGL2 MobileGear Graphic Library
+microb    	micro bee series
+mime      	microterm mime1
+mime-fb   	full bright mime1
+mime-hb   	half bright mime1
+mime2a    	microterm mime2a (emulating an enhanced vt52)
+mime2a-s  	microterm mime2a (emulating an enhanced soroc iq120)
+mime314   	mime 314
+mime3a    	mime1 emulating 3a
+mime3ax   	mime1 emulating enhanced 3a
+minitel1  	minitel 1
+minitel1-nb	minitel 1 (40cols) noir & blanc sans couleurs avec bold et dim ...
+minitel12-80	minitel 12 (80cols)
+minitel1b 	minitel 1-bistandard (in 40cols mode)
+minitel1b-80	minitel 1-bistandard (standard teleinformatique)
+minitel1b-nb	minitel 1b (40cols) noir & blanc sans couleurs avec bold et dim ...
+minitel2-80	minitel 2 (80cols) avec filets vt100 (DEC)
+minix     	minix console (v1.7)
+minix     	minix console (v3)
+minix-1.7 	minix console (v1.7)
+minix-3.0 	minix console (v3.0)
+minix-old 	minix console (v1.5)
+minix-old-am	minix console with linewrap
+mlterm    	multi lingual terminal emulator
+mlterm+pcfkeys	fragment for PC-style fkeys
+mlterm-256color	mlterm 3.0 with xterm 256-colors
+mlterm-direct	mlterm with direct-color indexing
+mlterm2   	multi lingual terminal emulator
+mlterm3   	multi lingual terminal emulator
+mm340     	mime 340
+modgraph  	modgraph terminal emulating vt100
+modgraph2 	modgraph gx-1000 80x24 with keypad not enabled
+modgraph48	Modgraph w/48 lines
+mono-emx  	stupid monochrome ansi terminal with only one kind of emphasis
+morphos   	(No description)
+morphos   	MorphOS on Genesi Pegasos
+mrxvt     	multitabbed rxvt
+mrxvt-256color	multitabbed rxvt with 256 colors
+ms-vt-utf8	UTF-8 flavor of vt100+
+ms-vt100  	MS telnet imitating dec vt100
+ms-vt100+ 	windows XP vt100+ (sic)
+ms-vt100-color	windows 2000 ansi (sic)
+msk227    	MS-DOS Kermit 2.27 for the IBMPC
+msk22714  	UCB MS-DOS Kermit 2.27 UCB 227.14 IBM PC
+msk227am  	UCB MS-DOS Kermit 2.27 with automatic margins
+mt4520-rv 	micro-term 4520 reverse video
+mt70      	Morrow MD-70; native Morrow mode
+mterm     	Der Mouse term
+mterm-ansi	ANSI emulation
+mvterm    	SwitchTerm aka mvTERM
+nansi.sys 	PC-DOS Public Domain NANSI.SYS
+nansi.sysk	PC-DOS Public Domain NANSI.SYS with keypad redefined for vi
+ncr160vppp	NCR 2900_160 viewpoint
+ncr160vpwpp	NCR 2900_160 viewpoint wide mode
+ncr160vt100an	NCR 2900_160 vt100 with ansi kybd
+ncr160vt100pp	NCR 2900_160 vt100 with PC+ kybd
+ncr160vt100wan	NCR 2900_160 vt100 wide mode ansi kybd
+ncr160vt100wpp	NCR 2900_160 vt100 wide mode pc+  kybd
+ncr160vt200an	NCR 2900_160 vt200 with ansi kybd
+ncr160vt200pp	NCR 2900_160 vt200 with pc+ kybd
+ncr160vt200wan	NCR 2900_160 vt200 wide mode ansi kybd
+ncr160vt200wpp	NCR 2900_160 vt200 wide mode pc+  kybd
+ncr160vt300an	NCR 2900_160 vt300 with ansi kybd
+ncr160vt300pp	NCR 2900_160 vt300 with pc+ kybd
+ncr160vt300wan	NCR 2900_160 vt300 wide mode ansi kybd
+ncr160vt300wpp	NCR 2900_160 vt300 wide mode pc+  kybd
+ncr160wy50+pp	NCR 2900_160 wyse 50+
+ncr160wy50+wpp	NCR 2900_160 wyse 50+ wide mode
+ncr160wy60pp	NCR 2900_160 wyse 60
+ncr160wy60wpp	NCR 2900_160 wyse 60 wide mode
+ncr260intan	NCR Intecolor emulation of the 2900_260C with an ANSI keyboard
+ncr260intpp	NCR Intecolor emulation of the 2900_260C with a PC+ keyboard
+ncr260intwan	NCR Intecolor emulation of the 2900_260C with an ANSI keyboard
+ncr260intwpp	NCR Intecolor emulation of the 2900_260C with a PC+ keyboard in 132 column mode
+ncr260vppp	NCR 2900_260 viewpoint
+ncr260vpwpp	NCR 2900_260 viewpoint wide mode
+ncr260vt100an	NCR 2900_260 vt100 with ansi kybd
+ncr260vt100pp	NCR 2900_260 vt100 with PC+ kybd
+ncr260vt100wan	NCR 2900_260 vt100 wide mode ansi kybd
+ncr260vt100wpp	NCR 2900_260 vt100 wide mode pc+  kybd
+ncr260vt200an	NCR 2900_260 vt200 with ansi kybd
+ncr260vt200pp	NCR 2900_260 vt200 with pc+ kybd
+ncr260vt200wan	NCR 2900_260 vt200 wide mode ansi kybd
+ncr260vt200wpp	NCR 2900_260 vt200 wide mode pc+  kybd
+ncr260vt300an	NCR 2900_260 vt300 with ansi kybd
+ncr260vt300pp	NCR 2900_260 vt300 with pc+ kybd
+ncr260vt300wan	NCR 2900_260 vt300 wide mode ansi kybd
+ncr260wy325pp	NCR 2900_260 wyse 325
+ncr260wy325wpp	NCR 2900_260 wyse 325 wide mode
+ncr260wy350pp	NCR 2900_260 wyse 350
+ncr260wy350wpp	NCR 2900_260 wyse 350 wide mode
+ncr260wy50+pp	NCR 2900_260 wyse 50+
+ncr260wy50+wpp	NCR 2900_260 wyse 50+ wide mode
+ncr260wy60pp	NCR 2900_260 wyse 60
+ncr260wy60wpp	NCR 2900_260 wyse 60 wide mode
+ncr7900i  	ncr 7900 model 1
+ncr7900iv 	ncr 7900 model 4
+ncr7901   	ncr 7901 model
+ncrvt100an	NCR vt100 for the 2900 terminal
+ncrvt100wan	NCR VT100 emulation of the 2900 terminal
+ncsa      	NCSA Telnet 2.7 for Macintosh in vt220-8 mode
+ncsa-m    	NCSA Telnet 2.6 for Macintosh in vt220-8 mode
+ncsa-m-ns 	NCSA Telnet 2.6 for Macintosh in vt220-8 mode
+ncsa-ns   	NCSA Telnet 2.7 for Macintosh in vt220-8 mode
+ncsa-vt220	NCSA Telnet using vt220-compatible function keys
+ndr9500   	Newbury Data 9500
+ndr9500-25	NDR 9500 with 25th line enabled
+ndr9500-25-mc	NDR 500 with 25 lines and magic cookies
+ndr9500-25-mc-nl	NDR 9500 with 25 lines and magic cookies and no status line
+ndr9500-25-nl	NDR 9500 with 25 lines and no status line
+ndr9500-mc	NDR 9500 with magic cookies (enables underline inverse video invisible and blink)
+ndr9500-mc-nl	NDR 9500 with magic cookies and no status line
+ndr9500-nl	NDR 9500 with no status line
+nec5520   	nec 5520
+netbsd6   	NetBSD wscons in 25 line DEC VT100 mode
+newhp     	generic entry for new hewlett packard terminals
+newhpkeyboard	generic entry for HP extended keyboard
+news-29   	(No description)
+news-29   	SONY NEWS vt100 emulator with 29 lines
+news-29-euc	(No description)
+news-29-euc	SONY NEWS vt100 emulator with 29 lines and EUC
+news-29-sjis	(No description)
+news-29-sjis	SONY NEWS vt100 emulator with 29 lines and SJIS
+news-33   	(No description)
+news-33   	SONY NEWS vt100 with 33 lines
+news-33-euc	(No description)
+news-33-euc	SONY NEWS vt100 with 33 lines and EUC
+news-33-sjis	(No description)
+news-33-sjis	SONY NEWS vt100 with 33 lines and SJIS
+news-42   	(No description)
+news-42   	SONY NEWS vt100 with 42 lines
+news-42-euc	(No description)
+news-42-euc	SONY NEWS vt100 with 42 lines and EUC
+news-42-sjis	(No description)
+news-42-sjis	SONY NEWS vt100 with 42 lines and SJIS
+news-old-unk	SONY NEWS vt100 emulator common entry
+news-unk  	SONY NEWS vt100 emulator common entry
+news28    	sony vt100 emulator 28 lines
+news29    	sony vt100 emulator 29 lines
+next      	NeXT console
+nextshell 	NeXT Shell application
+northstar 	North Star Advantage
+nsterm    	AppKit Terminal.app
+nsterm    	AppKit Terminal.app v41+ w/MacRoman charset (color)
+nsterm+7  	AppKit Terminal.app v41+ basic capabilities w/ASCII charset
+nsterm+acs	AppKit Terminal.app v41+ basic capabilities w/VT100 alternate-charset
+nsterm+c  	AppKit Terminal.app v51+ full color support (including 16 colors)
+nsterm+c41	AppKit Terminal.app v41 color support
+nsterm+mac	AppKit Terminal.app v41+ basic capabilities w/MacRoman alternate-charset
+nsterm+s  	AppKit Terminal.app v41+ status-line (window titlebar) support
+nsterm-16color	AppKit Terminal.app v100.1.8 with MacOS X 10.3.9
+nsterm-16color	AppKit Terminal.app v240.2+ with Mac OS X version 10.5
+nsterm-256color	Terminal.app in OS X 10.8
+nsterm-7  	AppKit Terminal.app v41+ w/ASCII charset (color)
+nsterm-7-c	AppKit Terminal.app v51+ w/ASCII charset (full color)
+nsterm-acs	AppKit Terminal.app v41+ w/VT100 alternate-charset (color)
+nsterm-bce	AppKit Terminal.app v71+/v100.1.8+ with Mac OS X version 10.3/10.4 (bce)
+nsterm-build326	Terminal.app in OS X 10.9
+nsterm-build343	Terminal.app in OS X 10.10
+nsterm-build361	Terminal.app in OS X 10.11
+nsterm-build400	Terminal.app in OS X 10.13
+nsterm-c  	AppKit Terminal.app v51+ w/MacRoman charset (full color)
+nsterm-c-acs	AppKit Terminal.app v51+ w/VT100 alternate-charset (full color)
+nsterm-c-s	AppKit Terminal.app v51+ w/MacRoman charset (full color w/statusline)
+nsterm-c-s-7	AppKit Terminal.app v51+ w/ASCII charset (full color w/statusline)
+nsterm-c-s-acs	AppKit Terminal.app v51+ w/VT100 alternate-charset (full color w/statusline)
+nsterm-m  	AppKit Terminal.app v41+ w/MacRoman charset (monochrome)
+nsterm-m-7	AppKit Terminal.app v41+ w/ASCII charset (monochrome)
+nsterm-m-acs	AppKit Terminal.app v41+ w/VT100 alternate-charset (monochrome)
+nsterm-m-s	AppKit Terminal.app v41+ w/MacRoman charset (monochrome w/statusline)
+nsterm-m-s-7	AppKit Terminal.app v41+ w/ASCII charset (monochrome w/statusline)
+nsterm-m-s-acs	AppKit Terminal.app v41+ w/VT100 alternate-charset (monochrome w/statusline)
+nsterm-old	AppKit Terminal.app v41+ w/MacRoman charset (color)
+nsterm-s  	AppKit Terminal.app v41+ w/MacRoman charset (color w/statusline)
+nsterm-s-7	AppKit Terminal.app v41+ w/ASCII charset (color w/statusline)
+nsterm-s-acs	AppKit Terminal.app v41+ w/VT100 alternate-charset (color w/statusline)
+nwp511    	nwp-511 vt100
+nwp512    	old sony vt100 emulator 40 lines
+nwp512-a  	sony vt100 emulator 42 line
+nwp512-o  	sony vt100 emulator 40 lines
+nwp513    	sony vt100 emulator 33 lines
+nwp513-a  	old sony vt100 emulator 33 lines
+nwp513-o  	old sony vt100 emulator 33 lines
+nwp517    	nwp-517 vt200 80 cols 30 rows
+nwp517-w  	nwp-517 vt200 132 cols 50 rows
+oblit     	first version of blit rom
+oc100     	old 1 page concept 100
+ofcons    	DNARD OpenFirmware console
+oldpc3    	old IBM PC BSD/386 Console
+oldsun    	Sun Microsystems Workstation console
+omron     	Omron 8025AG
+opennt-100	OpenNT-term100 compatible with color
+opennt-100-nti	OpenNT-term100-nti compatible with color
+opennt-35 	OpenNT-term35 compatible with color
+opennt-35-nti	OpenNT-term35-nti compatible with color
+opennt-35-w	OpenNT-term35-w compatible with color
+opennt-50 	OpenNT-term50 compatible with color
+opennt-50-nti	OpenNT-term50-nti compatible with color
+opennt-50-w	OpenNT-term50-w compatible with color
+opennt-60 	OpenNT-term60 compatible with color
+opennt-60-nti	OpenNT-term60-nti compatible with color
+opennt-60-w	OpenNT-term60-w compatible with color
+opennt-w  	OpenNT-term-w compat with color
+opennt-w-vt	OpenNT-term-w-vt compat with color
+opus3n1+  	Esprit Opus3n1+ in wy60 mode with ANSI arrow keys
+origpc3   	IBM PC 386BSD Console
+osborne   	osborne I in 80-column mode
+osborne-w 	osborne I in 104-column mode
+osexec    	Osborne executive
+otek4112  	old tektronix 4110 series
+otek4115  	Tektronix 4115
+owl       	perkin elmer 1200
+p19       	h19-b with il1/dl1
+p8gl      	McDonnell-Douglas Prism-8 alternate definition
+pc-coherent	IBM PC console running Coherent
+pc-minix  	minix console on an Intel box
+pc-venix  	IBM PC console running Venix
+pc3       	BSD/OS on the PC Console
+pc6300plus	AT&T 6300 plus
+pcansi    	ibm-pc terminal programs claiming to be ansi
+pcansi-25 	ibm-pc terminal programs with 25 lines
+pcansi-25-m	ibm-pc terminal programs with 25 lines (mono mode)
+pcansi-33 	ibm-pc terminal programs with 33 lines
+pcansi-33-m	ibm-pc terminal programs with 33 lines (mono mode)
+pcansi-43 	ibm-pc terminal programs with 43 lines
+pcansi-43-m	ibm-pc terminal programs with 43 lines (mono mode)
+pcansi-m  	ibm-pc terminal programs claiming to be ansi (mono mode)
+pccon     	OpenBSD PC console
+pccon+base	base capabilities for OpenBSD PC console
+pccon+colors	ANSI colors for OpenBSD PC console
+pccon+keys	OpenBSD PC keyboard keys
+pccon+sgr+acs	sgr and default ASCII pseudographics for OpenBSD PC console
+pccon+sgr+acs0	sgr and simple ASCII pseudographics for OpenBSD PC console
+pccon-m   	OpenBSD PC console without colors
+pccon0    	OpenBSD PC console with simple ASCII pseudographics
+pccon0-m  	OpenBSD PC console without colors & with simple ASCII pseudographics
+pccons    	ANSI (mostly) Alpha PC console terminal emulation
+pcix      	PC/IX console
+pckermit  	UCB IBMPC Kermit 1.2
+pckermit120	UCB IBMPC Kermit 1.20
+pcmw      	PC running Microsoft Works
+pcplot    	pc-plot terminal emulation program
+pcvt25    	dec vt220 emulation with 25 lines
+pcvt25-color	dec vt220 emulation with 25 lines and color
+pcvt25w   	dec vt220 emulation with 25 lines and 132 cols
+pcvt28    	dec vt220 emulation with 28 lines
+pcvt28w   	dec vt220 emulation with 28 lines and 132 cols
+pcvt35    	dec vt220 emulation with 35 lines
+pcvt35w   	dec vt220 emulation with 35 lines and 132 cols
+pcvt40    	dec vt220 emulation with 40 lines
+pcvt40w   	dec vt220 emulation with 40 lines and 132 cols
+pcvt43    	dec vt220 emulation with 43 lines
+pcvt43w   	dec vt220 emulation with 43 lines and 132 cols
+pcvt50    	dec vt220 emulation with 50 lines
+pcvt50w   	dec vt220 emulation with 50 lines and 132 cols
+pcvtXX    	pcvt vt200 emulator (DEC VT220)
+pe1251    	perkin elmer 1251
+pe7000c   	perkin elmer 7000 series colour monitor
+pe7000m   	perkin elmer 7000 series monochrome monitor
+pilot     	Top Gun Telnet on the Palm Pilot Professional
+pmcons    	PMAX console
+prism12   	MDC Prism-12 in ANSI mode
+prism12-m 	MDC Prism-12 in MDC emulation mode
+prism12-m-w	MDC Prism-12 in MDC emulation and 132 column mode
+prism12-w 	MDC Prism-12 in 132 column mode
+prism14   	MDC Prism-14 in ANSII mode
+prism14-m 	MDC Prism-14 in MDC emulation mode
+prism14-m-w	MDC Prism-14 in MDC emulation and 132 column mode
+prism14-w 	MDC Prism-14 in 132 column mode
+prism2    	MDC Prism-2
+prism4    	MDC Prism-4
+prism5    	MDC Prism-5
+prism7    	MDC Prism-7
+prism8    	MDC Prism-8
+prism8-w  	MDC Prism-8 in 132 column mode
+prism9    	MDC Prism-9 in ANSII mode
+prism9-8  	MDC Prism-9 in P8 mode
+prism9-8-w	MDC Prism-9 in Prism 8 emulation and 132 column mode
+prism9-w  	MDC Prism-9 in 132 column mode
+pro350    	dec pro console
+ps300     	Picture System 300
+psterm    	NeWS psterm-80x34
+psterm-80x24	NeWS psterm 80x24
+psterm-90x28	NeWS psterm 90x28
+psterm-96x48	NeWS psterm 96x48
+psterm-fast	NeWS psterm fast version (flaky ctrl chars)
+pt100     	prime pt100/pt200
+pt100w    	prime pt100/pt200 in 132-column mode
+pt210     	TRS-80 PT-210 printing terminal
+pt250     	Prime PT250
+pt250w    	Prime PT250 in 132-column mode
+pty       	4bsd pseudo teletype
+putty     	PuTTY terminal emulator
+putty+fnkeys	fn-keys for PuTTY
+putty+fnkeys+esc	ESC[n~ fn-keys for PuTTY
+putty+fnkeys+linux	Linux fn-keys for PuTTY
+putty+fnkeys+sco	SCO fn-keys for PuTTY
+putty+fnkeys+vt100	VT100+ fn-keys for PuTTY
+putty+fnkeys+vt400	VT400 fn-keys for PuTTY
+putty+fnkeys+xterm	Xterm R6 fn-keys for PuTTY
+putty-256color	PuTTY 0.58 with xterm 256-colors
+putty-m1  	Putty Minitel 1 "like" Couleurs
+putty-m1b 	Putty Minitel 1B "like" Monochrome (Gris/Blanc/Noir)
+putty-m2  	Putty Minitel 2 "like" Couleurs (Vert/Blanc/Noir)
+putty-noapp	putty with cursor keys in normal mode
+putty-sco 	putty with SCO function keys
+putty-vt100	VT100+ keyboard layout
+qansi     	QNX ansi with console writes
+qansi-g   	QNX ANSI
+qansi-m   	QNX ansi with mouse
+qansi-t   	QNX ansi without console writes
+qansi-w   	QNX ansi for windows
+qdss      	qdss glass tty
+qnx       	qnx console
+qnxm      	QNX4 with mouse events
+qnxt      	QNX4 terminal
+qnxt2     	qnx 2.15 serial terminal
+qnxtmono  	Monochrome QNX4 terminal or console
+qnxw      	QNX4 windows
+qume5     	Qume Sprint 5
+qvt101    	qume qvt 101 and QVT 108
+qvt101+   	qume qvt 101 PLUS product
+qvt102    	qume qvt 102
+qvt103    	qume qvt 103
+qvt103-w  	qume qvt103 132 cols
+qvt119+   	qume qvt 119 and 119PLUS terminals
+qvt119+-25	QVT 119 PLUS with 25 data lines
+qvt119+-25-w	QVT 119 and 119 PLUS 132 by 25
+qvt119+-w 	QVT 119 and 119 PLUS in 132 column mode
+qvt203    	qume qvt 203 Plus
+qvt203-25 	QVT 203 PLUS with 25 by 80 column mode
+qvt203-25-w	QVT 203 PLUS with 25 by 132 columns
+qvt203-w  	qume qvt 203 PLUS in 132 cols (w/advanced video)
+rbcomm    	IBM PC with RBcomm and EMACS keybindings
+rbcomm-nam	IBM PC with RBcomm without autowrap
+rbcomm-w  	IBM PC with RBcomm in 132 column mode
+rca       	rca vp3301/vp3501
+rcons     	BSD rasterconsole
+rcons-color	BSD rasterconsole with ANSI color
+regent    	Adds Regent Series
+regent100 	Adds Regent 100
+regent20  	Adds Regent 20
+regent25  	Adds Regent 25
+regent40  	Adds Regent 40
+regent40+ 	Adds Regent 40+
+regent60  	Adds Regent 60
+rt6221    	Ramtek 6221 80x24
+rt6221-w  	Ramtek 6221 160x48
+rtpc      	IBM 6155 Extended Monochrome Graphics Display
+rxvt      	rxvt terminal emulator (X Window System)
+rxvt+pcfkeys	fragment for PC-style fkeys
+rxvt-16color	rxvt with 16 colors like aixterm
+rxvt-16color	xterm with 16 colors like aixterm
+rxvt-256color	rxvt 2.7.9 with xterm 256-colors
+rxvt-88color	rxvt 2.7.9 with xterm 88-colors
+rxvt-basic	rxvt terminal base (X Window System)
+rxvt-color	rxvt terminal emulator (X Window System)
+rxvt-cygwin	rxvt terminal emulator (X Window System) on cygwin
+rxvt-cygwin-native	rxvt terminal emulator (native MS Window System port) on cygwin
+rxvt-xpm  	rxvt terminal emulator (X Window System)
+sb1       	beehive superbee
+sb2       	fixed superbee
+sbi       	beehive superbee at Indiana U.
+scanset   	Tymshare Scan Set
+scoansi   	SCO Extended ANSI standard crt
+scoansi-new	SCO Extended ANSI standard crt (5.0.6)
+scoansi-old	SCO Extended ANSI standard crt (5.0.5)
+screen    	VT 100/ANSI X3.64 virtual terminal
+screen+fkeys	function-keys according to screen
+screen+italics	screen cannot support italics
+screen-16color	GNU Screen with 16 colors
+screen-16color-bce	GNU Screen with 16 colors and BCE
+screen-16color-bce-s	GNU Screen with 16 colors using BCE and status line
+screen-16color-bce-s	GNU Screen with 16 colors, BCE, and status line
+screen-16color-s	GNU Screen with 16 colors and status line
+screen-256color	GNU Screen with 256 colors
+screen-256color-bce	GNU Screen with 256 colors and BCE
+screen-256color-bce-s	GNU Screen with 256 colors using BCE and status line
+screen-256color-bce-s	GNU Screen with 256 colors, BCE, and status line
+screen-256color-s	GNU Screen with 256 colors and status line
+screen-bce	VT 100/ANSI X3.64 virtual terminal with bce
+screen-bce.Eterm	screen optimized for Eterm
+screen-bce.gnome	screen optimized for GNOME-Terminal
+screen-bce.konsole	screen optimized for KDE console window
+screen-bce.linux	screen optimized for linux console
+screen-bce.mrxvt	screen optimized for mrxvt
+screen-bce.rxvt	screen optimized for rxvt
+screen-bce.xterm-new	screen optimized for modern xterm
+screen-s  	VT 100/ANSI X3.64 virtual terminal with hardstatus line
+screen-w  	VT 100/ANSI X3.64 virtual terminal with 132 cols
+screen.Eterm	screen in Eterm
+screen.gnome	screen in GNOME Terminal
+screen.konsole	screen in KDE console window
+screen.konsole-256color	GNU Screen with konsole using 256 colors
+screen.linux	screen in linux console
+screen.linux-m1	Linux m1 specific for screen
+screen.linux-m1b	Linux m1b specific for screen
+screen.linux-m2	Linux m2 specific for screen
+screen.minitel1	Screen specific for minitel1
+screen.minitel1-nb	Screen specific for minitel1-nb
+screen.minitel1b	Screen specific for minitel1b
+screen.minitel1b-80	Screen specific for minitel1b-80 minitel2-80 and minitel12-80
+screen.minitel1b-nb	Screen specific for minitel1b-nb
+screen.mlterm	screen in mlterm
+screen.mlterm-256color	GNU Screen with mlterm using 256 colors
+screen.mrxvt	screen in mrxvt
+screen.putty	screen in putty
+screen.putty-256color	GNU Screen with putty using 256 colors
+screen.putty-m1	Putty m1 specific for screen
+screen.putty-m1b	Putty m1b specific for screen
+screen.putty-m2	Putty m2 specific for screen
+screen.rxvt	screen in rxvt
+screen.teraterm	disable ncv in teraterm
+screen.vte	screen in any VTE-based terminal
+screen.vte-256color	GNU Screen with vte using 256 colors
+screen.xterm-256color	GNU Screen with xterm using 256 colors
+screen.xterm-r6	screen customized for X11R6 xterm
+screen.xterm-xfree86	screen customized for modern xterm
+screen2   	old VT 100/ANSI X3.64 virtual terminal
+screen3   	older VT 100/ANSI X3.64 virtual terminal
+screwpoint	adds viewpoint with ^O bug
+scrhp     	screen relative addressing for new HP ttys
+sibo      	ELKS SIBO console
+simpleterm	 simpleterm 0.1.1
+simterm   	attpc running simterm
+soroc120  	soroc iq120
+soroc140  	soroc iq140
+st        	 simpleterm
+st-0.6    	simpleterm 0.6
+st-0.7    	simpleterm 0.7
+st-16color	simpleterm with 16-colors
+st-256color	simpleterm with 256 colors
+st-direct 	st with direct-color indexing
+st52      	Atari ST
+st52      	Atari ST with VT52 emulation
+st52-color	Atari ST with color
+st52-old  	Atari ST with VT52 emulation
+stv52     	MiNT virtual console
+stv52pc   	MiNT virtual console with PC charset
+sun       	Sun Microsystems Inc. workstation console
+sun+sl    	Sun Workstation window status line
+sun-1     	Sun 1-line window for sysline
+sun-12    	Sun 12-line window
+sun-17    	Sun 17-line window
+sun-24    	Sun 24-line window
+sun-34    	Sun 34-line window
+sun-48    	Sun 48-line window
+sun-c     	Sun Microsystems Workstation console with scrollable history
+sun-cgsix 	Sun SparcStation 5 console
+sun-color 	Sun Microsystems Workstation console with color support (IA systems)
+sun-e     	Sun Microsystems Workstation without insert character
+sun-e-s   	Sun Microsystems Workstation with status hacked for emacs
+sun-il    	Sun Microsystems console with working insert-line
+sun-s     	Sun Microsystems Workstation window with status line
+sun-type4 	Sun Workstation console with type 4 keyboard
+superbee-xsb	beehive super bee
+superbeeic	super bee with insert char
+superbrain	intertec superbrain
+swtp      	southwest technical products ct82
+synertek  	synertek ktm 3/80 tubeless terminal
+t10       	teleray 10 special
+t1061     	teleray 1061
+t1061f    	teleray 1061 with fast PROMs
+t16       	teleray 16
+t3700     	dumb teleray 3700
+t3800     	teleray 3800 series
+tab132    	tab 132/15
+tab132-rv 	tab132 in reverse-video mode
+tab132-w  	tab132 in wide mode
+tab132-w-rv	tab132 in reverse-video/wide mode
+tandem6510	adm3a repackaged by Tandem
+tandem653 	Tandem 653x multipage terminal
+tek       	tektronix 4012
+tek4013   	tektronix 4013
+tek4014   	tektronix 4014
+tek4014-sm	tektronix 4014 in small font
+tek4015   	tektronix 4015
+tek4015-sm	tektronix 4015 in small font
+tek4023   	tektronix 4023
+tek4024   	tektronix 4024/4025/4027
+tek4025-17	tek 4025 17 line window
+tek4025-17-ws	tek 4025 17 line window in workspace
+tek4025-cr	tek 4025 for curses and rogue
+tek4025-ex	tek 4025/4027 w/!
+tek4025a  	Tektronix 4025A
+tek4025ex 	tek 4025 w/!
+tek4105   	tektronix 4105
+tek4105-30	4015 emulating 30 line vt100
+tek4105a  	Tektronix 4105
+tek4106brl	Tektronix 4106 4107 or 4109
+tek4107   	tektronix terminals 4107 4109
+tek4112   	tektronix 4110 series
+tek4112-5 	4112 in 5 line dialog area
+tek4112-nd	4112 not in dialog area
+tek4113   	tektronix 4113 color graphics with 5 line dialog area
+tek4113-34	tektronix 4113 color graphics with 34 line dialog area
+tek4113-nd	tektronix 4113 color graphics with no dialog area
+tek4115   	newer tektronix 4115 entry with more ANSI capabilities
+tek4125   	tektronix 4125
+tek4205   	tektronix 4205
+tek4207   	Tektronix 4207 graphics terminal with memory
+tek4207-s 	Tektronix 4207 with sysline but no memory
+tek4404   	tektronix 4404
+teken     	syscons with teken
+teletec   	Teletec Datascreen
+teraterm  	Tera Term
+teraterm-256color	TeraTerm with xterm 256-colors
+teraterm2.3	Tera Term Pro
+teraterm4.59	Tera Term Pro
+teraterm4.97	Tera Term Pro
+terminator	Terminator no line wrap
+terminet1200	GE terminet 1200
+terminology	EFL-based terminal emulator
+terminology-0.6.1	EFL-based terminal emulator
+terminology-1.0.0	EFL-based terminal emulator
+termite   	VTE-based terminal
+ti700     	ti silent 700/733/735/745 or omni 800
+ti916     	Texas Instruments 916 VDT 8859/1 vt220 mode 7 bit CTRL
+ti916-132 	Texas Instruments 916 VDT vt220 132 column
+ti916-8   	Texas Instruments 916 VDT 8859/1 8 vt220 mode bit CTRL
+ti916-8-132	Texas Instruments 916 VDT 8-bit vt220 132 column
+ti924     	Texas Instruments 924 VDT 8859/1 7 bit CTRL
+ti924-8   	Texas Instruments 924 VDT 8859/1 8 bit CTRL
+ti924-8w  	Texas Instruments 924 VDT 8 bit - 132 column mode
+ti924w    	Texas Instruments 924 VDT 7 bit - 132 column mode
+ti926     	Texas Instruments 926 VDT 8859/1 7 bit CTRL
+ti926-8   	Texas Instruments 926 VDT 8859/1 8 bit CTRL
+ti928     	Texas Instruments 928 VDT 8859/1 7 bit CTRL
+ti928-8   	Texas Instruments 928 VDT 8859/1 8 bit CTRL
+ti931     	Texas Instruments 931 VDT
+ti_ansi   	basic entry for ti928
+tmux      	tmux terminal multiplexer
+tmux-256color	tmux with 256 colors
+trs16     	trs-80 model 16 console
+trs2      	Radio Shack Model II using P&T CP/M
+ts100     	falco ts100-sp
+ts100-ctxt	falco ts-100 saving context
+tt        	Don Libes' tk text widget terminal emulator
+tt505-22  	AT&T PT505 or 5430 GETSET version 1 22 lines
+tt52      	Atari TT medium and high resolution
+tty33     	model 33 or 35 teletype
+tty37     	model 37 teletype
+tty40     	teletype dataspeed 40/2
+tty43     	model 43 teletype
+tvi803    	televideo 803
+tvi9065   	televideo 9065
+tvi910    	televideo model 910
+tvi910+   	televideo 910+
+tvi912    	old televideo 912/914/920
+tvi912b   	TeleVideo TVI-912B or TVI-912C (half-intensity attribute)
+tvi912b+2p	TeleVideo TVI-912B/TVI-920B and TVI-912C/TVI-920C second page memory option support
+tvi912b+dim	TeleVideo TVI-912B/TVI-920B and TVI-912C/TVI-920C half-intensity attribute support
+tvi912b+mc	TeleVideo TVI-912B/TVI-920B and TVI-912C/TVI-920C full magic-cookie attribute support
+tvi912b+printer	TeleVideo TVI-912B/TVI-920B and TVI-912C/TVI-920C page print support
+tvi912b+vb	TeleVideo TVI-912B/TVI-920B and TVI-912C/TVI-920C second page memory option "visible bell" support
+tvi912b-2p	TeleVideo TVI-912B or TVI-912C (second page memory option; half-intensity attribute)
+tvi912b-2p-mc	TeleVideo TVI-912B or TVI-912C (second page memory option; magic cookies)
+tvi912b-2p-p	TeleVideo TVI-912B or TVI-912C (second page memory option; no attributes; page print)
+tvi912b-2p-unk	TeleVideo TVI-912B or TVI-912C (second page memory option; no attributes)
+tvi912b-mc	TeleVideo TVI-912B or TVI-912C (magic cookies)
+tvi912b-p 	TeleVideo TVI-912B or TVI-912C (no attributes; page print)
+tvi912b-unk	TeleVideo TVI-912B or TVI-912C (no attributes)
+tvi912b-vb	TeleVideo TVI-912B or TVI-912C (second page memory option "visible bell"; half-intensity attribute)
+tvi912b-vb-mc	TeleVideo TVI-912B or TVI-912C (second page memory option "visible bell"; magic cookies)
+tvi912b-vb-p	TeleVideo TVI-912B or TVI-912C (second page memory option "visible bell"; no attributes; page print)
+tvi912b-vb-unk	TeleVideo TVI-912B or TVI-912C (second page memory option "visible bell"; no attributes)
+tvi912cc  	tvi912 at cowell college
+tvi920b   	TeleVideo TVI-920B or TVI-920C (half-intensity attribute)
+tvi920b+fn	TeleVideo TVI-920B and TVI-920C function key support
+tvi920b-2p	TeleVideo TVI-920B or TVI-920C (second page memory option; half-intensity attribute)
+tvi920b-2p-mc	TeleVideo TVI-920B or TVI-920C (second page memory option; magic cookies)
+tvi920b-2p-p	TeleVideo TVI-920B or TVI-920C (second page memory option; no attributes; page print)
+tvi920b-2p-unk	TeleVideo TVI-920B or TVI-920C (second page memory option; no attributes)
+tvi920b-mc	TeleVideo TVI-920B or TVI-920C (magic cookies)
+tvi920b-p 	TeleVideo TVI-920B or TVI-920C (no attributes; page print)
+tvi920b-unk	TeleVideo TVI-920B or TVI-920C (no attributes)
+tvi920b-vb	TeleVideo TVI-920B or TVI-920C (second page memory option "visible bell"; half-intensity attribute)
+tvi920b-vb-mc	TeleVideo TVI-920B or TVI-920C (second page memory option "visible bell"; magic cookies)
+tvi920b-vb-p	TeleVideo TVI-920B or TVI-920C (second page memory option "visible bell"; no attributes; page print)
+tvi920b-vb-unk	TeleVideo TVI-920B or TVI-920C (second page memory option "visible bell"; no attributes)
+tvi921    	televideo model 921 with sysline same as page & real vi function
+tvi924    	televideo tvi924
+tvi925    	televideo 925
+tvi925-hi 	TeleVideo Model 925 with half intensity standout mode
+tvi92B    	televideo model 921 with sysline same as page & real vi function & no beeper
+tvi92D    	tvi92B with DTR instead of XON/XOFF & better padding
+tvi950    	televideo 950
+tvi950-2p 	televideo950 w/2 pages
+tvi950-4p 	televideo950 w/4 pages
+tvi950-rv 	televideo950 rev video
+tvi950-rv-2p	televideo950 rev video w/2 pages
+tvi950-rv-4p	televideo950 rev video w/4 pages
+tvi955    	televideo 955
+tvi955-hb 	televideo955 half-bright
+tvi955-w  	televideo955 w/132 cols
+tvi970    	televideo 970
+tvi970-2p 	televideo 970 with using 2 pages of memory
+tvi970-vb 	televideo 970 with visual bell
+tvipt     	televideo personal terminal
+tw100     	toswin vt100 window mgr
+tw52      	Toswin window manager with color
+tw52-m    	Toswin window manager monochrome
+tws-generic	Bull Questar tws terminals
+tws2102-sna	BULL Questar tws2102 for SNA
+tws2103   	BULL Questar tws2103
+tws2103-sna	BULL Questar tws2103 for SNA
+uniterm   	UniTerm VT220 emulator with 49 lines
+unknown   	unknown terminal type
+uts30     	sperry uts30 with cp/m@1R1
+uwin      	U/Win 3.2 console
+v3220     	LANPAR Vision II model 3220/3221/3222
+v5410     	att5410 in terms of a vt100
+vanilla   	dumb tty
+vc303     	volker-craig 303
+vc303a    	volker-craig 303a
+vc404     	volker-craig 404
+vc404-s   	volker-craig 404 w/standout mode
+vc414     	Volker-Craig 414H in sane escape mode.
+vc415     	volker-craig 415
+versaterm 	versaterm vt100 emulator for the Macintosh
+versaterm 	versaterm vt100 emulator for the macintosh
+vi200     	visual 200
+vi200-f   	visual 200 no function keys
+vi200-rv  	visual 200 reverse video
+vi300     	visual 300 ansi x3.64
+vi300-old 	visual 300 with old firmware (set edit extent reversed)
+vi50      	visual 50
+vi500     	visual 500
+vi50adm   	visual 50 in adm3a mode
+vi55      	Visual 55
+vi550     	visual 550 ansi x3.64
+vi603     	visual 603
+viewdata  	prestel/viewdata terminals
+viewdata-o	optimized version of viewdata prestel/viewdata terminals
+viewdata-rv	prestel/viewdata terminals with reverse capabilitie (as green)
+viewpoint 	adds viewpoint
+vip       	Bull Questar 3155-7800
+vip-H     	Questar 3155-vip7800 72 lines
+vip-Hw    	Questar 3155-vip7800 wide 72 lines
+vip-w     	Questar 3155-vip7800 wide
+visa50    	geveke visa 50 terminal in ansi 80 character mode
+vp3a+     	adds viewpoint 3a+
+vp60      	adds viewpoint60
+vp90      	adds viewpoint 90
+vremote   	virtual remote terminal
+vsc       	Signetics Vsc Video driver by RMC
+vt100     	dec vt100 (w/advanced video)
+vt100+4bsd	dec vt100 from 4.0BSD
+vt100+enq 	ncurses extension for vt100-style ENQ
+vt100+fnkeys	dec vt100 numeric keypad
+vt100+keypad	dec vt100 numeric keypad no fkeys
+vt100+pfkeys	dec vt100 numeric keypad
+vt100-nav 	vt100 without advanced video option
+vt100-nav-w	dec vt100 132 cols 14 lines (no advanced video option)
+vt100-putty	Reset PuTTY to pure vt100
+vt100-s   	vt100 for use with top sysline
+vt100-s-bot	vt100 for use with bottom sysline
+vt100-vb  	dec vt100 (w/advanced video) & no beep
+vt100-w   	dec vt100 132 cols (w/advanced video)
+vt100-w-nam	dec vt100 132 cols (w/advanced video no automargin)
+vt100nam  	vt100 no automargins
+vt102     	dec vt102
+vt102+enq 	ncurses extension for vt102-style ENQ
+vt102-nsgr	vt102 no sgr (use if you see snowflakes after highlight changes)
+vt102-w   	dec vt102 in wide mode
+vt125     	vt125 graphics terminal
+vt131     	dec vt131
+vt132     	DEC vt132
+vt200-js  	dec vt200 series with jump scroll
+vt220     	dec vt220
+vt220+keypad	dec vt220 numeric keypad
+vt220-8bit	dec vt220/200 in 8-bit mode
+vt220-nam 	VT220 in vt100 mode with no auto margins
+vt220-old 	DEC VT220 in vt100 emulation mode
+vt220-w   	DEC vt220 in wide mode
+vt220d    	DEC VT220 in vt100 mode with DEC function key labeling
+vt320     	dec vt320 7 bit terminal
+vt320-k3  	MS-Kermit 3.00's vt320 emulation
+vt320-k311	dec vt320 series as defined by kermit 3.11
+vt320-nam 	dec vt320 7 bit terminal with no am to make SAS happy
+vt320-w   	dec vt320 wide 7 bit terminal
+vt320-w-nam	dec vt320 wide 7 bit terminal with no am
+vt320nam  	DEC VT320 in vt100 emul. mode with NO AUTO WRAP mode
+vt340     	dec vt340 graphics terminal with 24 line page
+vt400     	dec vt400 24x80 column autowrap
+vt420     	DEC VT420
+vt420f    	DEC VT420 with VT kbd; VT400 mode; F1-F5 used as Fkeys
+vt420pc   	DEC VT420 w/PC keyboard
+vt420pcdos	DEC VT420 w/PC for DOS Merge
+vt50      	dec vt50
+vt50h     	dec vt50h
+vt510     	DEC VT510
+vt510pc   	DEC VT510 w/PC keyboard
+vt510pcdos	DEC VT510 w/PC for DOS Merge
+vt52      	dec vt52
+vt520     	DEC VT520
+vt520ansi 	Boundless VT520 ANSI
+vt525     	DEC VT525
+vt61      	dec vt61
+vte       	VTE aka GNOME Terminal
+vte+pcfkeys	VTE's variation on xterm+pcfkeys
+vte-2007  	VTE in GNOME Terminal snapshot 2.18.1
+vte-2008  	VTE in GNOME Terminal snapshot 2.22.3
+vte-2012  	VTE 0.34.1
+vte-2014  	VTE 0.35.1
+vte-2017  	VTE 0.50.2
+vte-256color	VTE with xterm 256-colors
+vte-direct	vte with direct-color indexing
+vwmterm   	(vwm term)
+wsiris    	iris emulating a 40 line visual 50 (approximately)
+wsvt25    	NetBSD wscons in 25 line DEC VT220 mode
+wsvt25m   	NetBSD wscons in 25 line DEC VT220 mode with Meta
+wy100     	wyse 100
+wy100q    	Wyse 100 for Quotron
+wy120     	Wyse 120/150
+wy120-25  	wyse 120/150 80-column 25-lines
+wy120-25-w	wyse 120/150 132-column 25-lines
+wy120-vb  	Wyse 120/150 visible bell
+wy120-w   	wyse 120/150 132-column
+wy120-w-vb	Wyse 120/150 132-column visible bell
+wy160     	Wyse 160
+wy160-25  	wyse 160 80-column 25-lines
+wy160-25-w	wyse 160 132-column 25-lines
+wy160-42  	wyse 160 80-column 42-lines
+wy160-42-w	wyse 160 132-column 42-lines
+wy160-43  	wyse 160 80-column 43-lines
+wy160-43-w	wyse 160 132-column 43-lines
+wy160-tek 	Wyse 160 Tektronix 4010/4014 emulator
+wy160-vb  	Wyse 160 visible bell
+wy160-w   	wyse 160 132-column
+wy160-w-vb	Wyse 160 132-column visible bell
+wy185     	wyse 185
+wy185-24  	wyse 185 with 24 data lines
+wy185-vb  	wyse 185+flash
+wy185-w   	wyse 185 in 132-column mode
+wy185-wvb 	wyse 185+flash+132 cols
+wy30      	Wyse 30
+wy30-mc   	wyse 30 with magic cookies
+wy30-vb   	wyse 30 visible bell
+wy325     	Wyse epc
+wy325-25  	wyse-325 25 lines
+wy325-25w 	wy325 132 columns
+wy325-42  	wyse-325 42 lines
+wy325-42w 	wyse-325 42 lines wide mode
+wy325-42w-vb	wyse-325 42 lines wide mode visual bell
+wy325-43  	wyse-325 43 lines
+wy325-43w 	wyse-325 43 lines wide mode
+wy325-43w-vb	wyse-325 43 lines wide mode visual bell
+wy325-vb  	wyse-325 with visual bell
+wy325-w   	wyse-325 in wide mode
+wy325-w-vb	wyse-325 wide mode reverse video
+wy350     	Wyse 350
+wy350-vb  	wyse 350 visible bell
+wy350-w   	wyse 350 132-column
+wy350-wvb 	wyse 350 132-column visible bell
+wy370     	Wyse 370 with 101 key keyboard
+wy370-105k	Wyse 370 with 105 key keyboard
+wy370-EPC 	Wyse 370 with 102 key keyboard
+wy370-nk  	wyse 370 without function keys
+wy370-rv  	Wyse 370 reverse video
+wy370-tek 	Wyse 370 Tektronix 4010/4014 emulator
+wy370-vb  	Wyse 370 with visible bell
+wy370-w   	Wyse 370 in 132-column mode
+wy370-wvb 	Wyse 370 with visible bell 132-columns
+wy50      	Wyse 50
+wy50-mc   	wyse 50 with magic cookies
+wy50-vb   	wyse 50 visible bell
+wy50-w    	wyse 50 132-column
+wy50-wvb  	wyse 50 132-column visible bell
+wy520     	wyse 520
+wy520-24  	wyse 520 with 24 data lines
+wy520-36  	wyse 520 with 36 data lines
+wy520-36pc	wyse 520 with 36 data lines and EPC keyboard
+wy520-36w 	wyse 520 with 132 columns and 36 data lines
+wy520-36wpc	wyse 520 with 36 data lines and EPC keyboard
+wy520-48  	wyse 520 with 48 data lines
+wy520-48pc	wyse 520 with 48 data lines and EPC keyboard
+wy520-48w 	wyse 520 with 48 data lines
+wy520-48wpc	wyse 520 with 48 data lines and EPC keyboard
+wy520-epc 	wyse 520 with EPC keyboard
+wy520-epc-24	wyse 520 with 24 data lines and EPC keyboard
+wy520-epc-vb	wyse 520 with visible bell and EPC keyboard
+wy520-epc-w	wyse 520 in 132-column mode with EPC keyboard
+wy520-epc-wvb	wyse 520 with visible bell 132-columns and EPC keyboard
+wy520-vb  	wyse 520 with visible bell
+wy520-w   	wyse 520 in 132-column mode
+wy520-wvb 	wyse 520 with visible bell 132-columns
+wy60      	Wyse 60
+wy60-25   	wyse 60 80-column 25-lines
+wy60-25-w 	wyse 60 132-column 25-lines
+wy60-42   	wyse 60 80-column 42-lines
+wy60-42-w 	wyse 60 132-column 42-lines
+wy60-43   	wyse 60 80-column 43-lines
+wy60-43-w 	wyse 60 132-column 43-lines
+wy60-vb   	Wyse 60 visible bell
+wy60-w    	wyse 60 132-column
+wy60-w-vb 	Wyse 60 132-column visible bell
+wy75      	wyse 75
+wy75-mc   	wyse 75 with magic cookies
+wy75-vb   	wyse 75 with visible bell
+wy75-w    	wyse 75 in 132 column mode
+wy75-wvb  	wyse 75 with visible bell 132 columns
+wy75ap    	Wyse WY-75 Applications and Cursor keypad
+wy85      	wyse 85
+wy85-8bit 	wyse 85 in 8-bit mode
+wy85-vb   	wyse 85 with visible bell
+wy85-w    	wyse 85 in 132-column mode
+wy85-wvb  	wyse 85 with visible bell 132-columns
+wy99-ansi 	Wyse WY-99GT in ansi mode (int'l PC keyboard)
+wy99a-ansi	Wyse WY-99GT in ansi mode (US PC keyboard)
+wy99f     	Wyse WY-99GT (int'l PC keyboard)
+wy99fa    	Wyse WY-99GT (US PC keyboard)
+wy99gt    	Wyse 99gt
+wy99gt-25 	wyse 99gt 80-column 25-lines
+wy99gt-25-w	wyse 99gt 132-column 25-lines
+wy99gt-tek	Wyse 99gt Tektronix 4010/4014 emulator
+wy99gt-vb 	Wyse 99gt visible bell
+wy99gt-w  	wyse 99gt 132-column
+wy99gt-w-vb	Wyse 99gt 132-column visible bell
+wyse-vp   	Wyse 50 in ADDS Viewpoint emulation mode with "enhance" on
+x10term   	xterm terminal emulator (X10 window system)
+x68k      	NetBSD/x68k ITE
+xerox1720 	xerox 1720
+xerox820  	Xerox 820
+xfce      	Xfce Terminal
+xiterm    	internationalized terminal emulator for X
+xnuppc    	Darwin PowerPC Console (color)
+xnuppc+100x37	Darwin PowerPC Console 100x37 support (800x600 pixels)
+xnuppc+112x37	Darwin PowerPC Console 112x37 support (896x600 pixels)
+xnuppc+128x40	Darwin PowerPC Console 128x40 support (1024x640 pixels)
+xnuppc+128x48	Darwin PowerPC Console 128x48 support (1024x768 pixels)
+xnuppc+144x48	Darwin PowerPC Console 144x48 support (1152x768 pixels)
+xnuppc+160x64	Darwin PowerPC Console 160x64 support (1280x1024 pixels)
+xnuppc+200x64	Darwin PowerPC Console 200x64 support (1600x1024 pixels)
+xnuppc+200x75	Darwin PowerPC Console 200x75 support (1600x1200 pixels)
+xnuppc+256x96	Darwin PowerPC Console 256x96 support (2048x1536 pixels)
+xnuppc+80x25	Darwin PowerPC Console 80x25 support (640x400 pixels)
+xnuppc+80x30	Darwin PowerPC Console 80x30 support (640x480 pixels)
+xnuppc+90x30	Darwin PowerPC Console 90x30 support (720x480 pixels)
+xnuppc+b  	Darwin PowerPC Console color-bold support
+xnuppc+basic	Darwin PowerPC Console basic capabilities
+xnuppc+c  	Darwin PowerPC Console ANSI color support
+xnuppc+f  	Darwin PowerPC Console fancy color support
+xnuppc+f2 	Darwin PowerPC Console alternate fancy color support
+xnuppc-100x37	Darwin PowerPC Console (color) 100x37
+xnuppc-100x37-m	Darwin PowerPC Console (monochrome) 100x37
+xnuppc-112x37	Darwin PowerPC Console (color) 112x37
+xnuppc-112x37-m	Darwin PowerPC Console (monochrome) 112x37
+xnuppc-128x40	Darwin PowerPC Console (color) 128x40
+xnuppc-128x40-m	Darwin PowerPC Console (monochrome) 128x40
+xnuppc-128x48	Darwin PowerPC Console (color) 128x48
+xnuppc-128x48-m	Darwin PowerPC Console (monochrome) 128x48
+xnuppc-144x48	Darwin PowerPC Console (color) 144x48
+xnuppc-144x48-m	Darwin PowerPC Console (monochrome) 144x48
+xnuppc-160x64	Darwin PowerPC Console (color) 160x64
+xnuppc-160x64-m	Darwin PowerPC Console (monochrome) 160x64
+xnuppc-200x64	Darwin PowerPC Console (color) 200x64
+xnuppc-200x64-m	Darwin PowerPC Console (monochrome) 200x64
+xnuppc-200x75	Darwin PowerPC Console (color) 200x75
+xnuppc-200x75-m	Darwin PowerPC Console (monochrome) 200x75
+xnuppc-256x96	Darwin PowerPC Console (color) 256x96
+xnuppc-256x96-m	Darwin PowerPC Console (monochrome) 256x96
+xnuppc-80x25	Darwin PowerPC Console (color) 80x25
+xnuppc-80x25-m	Darwin PowerPC Console (monochrome) 80x25
+xnuppc-80x30	Darwin PowerPC Console (color) 80x30
+xnuppc-80x30-m	Darwin PowerPC Console (monochrome) 80x30
+xnuppc-90x30	Darwin PowerPC Console (color) 90x30
+xnuppc-90x30-m	Darwin PowerPC Console (monochrome) 90x30
+xnuppc-b  	Darwin PowerPC Console (color w/color-bold)
+xnuppc-f  	Darwin PowerPC Console (fancy color)
+xnuppc-f2 	Darwin PowerPC Console (alternate fancy color)
+xnuppc-m  	Darwin PowerPC Console (monochrome)
+xnuppc-m-b	Darwin PowerPC Console (monochrome w/color-bold)
+xnuppc-m-f	Darwin PowerPC Console (fancy monochrome)
+xnuppc-m-f2	Darwin PowerPC Console (alternate fancy monochrome)
+xtalk     	IBM PC with xtalk communication program (versions up to 3.4)
+xterm     	xterm terminal emulator (X Window System)
+xterm+256color	xterm 256-color feature
+xterm+256setaf	xterm 256-color (set-only)
+xterm+88color	xterm 88-color feature
+xterm+alt+title	xterm 90 and 251 features combined
+xterm+alt1049	xterm 90 feature
+xterm+app 	fragment with cursor keys in application mode
+xterm+direct	xterm with direct-color indexing
+xterm+direct2	xterm with direct-color indexing
+xterm+edit	fragment for 6-key editing-keypad
+xterm+indirect	xterm with direct-color indexing (old)
+xterm+kbs 	fragment for backspace key
+xterm+noalt	xterm without altscreen
+xterm+noapp	fragment with cursor keys in normal mode
+xterm+pc+edit	fragment for pc-style editing keypad
+xterm+pcc0	fragment with modifyCursorKeys:0
+xterm+pcc1	fragment with modifyCursorKeys:1
+xterm+pcc2	fragment with modifyCursorKeys:2
+xterm+pcc3	fragment with modifyCursorKeys:3
+xterm+pce2	fragment with modifyCursorKeys:2
+xterm+pcf0	fragment with modifyFunctionKeys:0
+xterm+pcf2	fragment with modifyFunctionKeys:2
+xterm+pcfkeys	fragment for PC-style fkeys
+xterm+r6f2	xterm with oldFunctionKeys and modifyFunctionKeys:2
+xterm+sl  	access X title line and icon name
+xterm+sl-twm	access X title line (pacify twm-descended window managers)
+xterm+sm+1002	xterm any-event mouse
+xterm+sm+1003	testing xterm-mouse
+xterm+sm+1005	xterm UTF-8 mouse
+xterm+sm+1006	xterm SGR-mouse
+xterm+titlestack	xterm 251 feature
+xterm+tmux	advanced xterm features used in tmux
+xterm+vt+edit	fragment for vt220-style editing keypad
+xterm+x10mouse	X10 xterm mouse protocol
+xterm+x11hilite	X11 xterm mouse protocol with highlight
+xterm+x11mouse	X11 xterm mouse protocol
+xterm-1002	testing xterm-mouse
+xterm-1002	xterm any-event mouse
+xterm-1003	testing xterm-mouse
+xterm-1005	xterm UTF-8 mouse
+xterm-1006	xterm SGR-mouse
+xterm-16color	xterm with 16 colors like aixterm
+xterm-24  	xterm terminal emulator (X Window System)
+xterm-256color	xterm with 256 colors
+xterm-88color	xterm with 88 colors
+xterm-8bit	xterm terminal emulator 8-bit controls (X Window System)
+xterm-basic	modern xterm terminal emulator - common
+xterm-bold	xterm terminal emulator (X11R6 Window System) standout w/bold
+xterm-color	generic color xterm
+xterm-direct	xterm with direct-color indexing
+xterm-direct2	xterm with direct-color indexing (old)
+xterm-hp  	xterm with hpterm function keys
+xterm-new 	modern xterm terminal emulator
+xterm-nic 	xterm with ich/ich1 suppressed for non-curses programs
+xterm-noapp	xterm with cursor keys in normal mode
+xterm-old 	antique xterm version
+xterm-pcolor	xterm with color used for highlights and status line
+xterm-r5  	xterm R5 version
+xterm-r6  	xterm X11R6 version
+xterm-sco 	xterm with SCO function keys
+xterm-sun 	xterm with sunFunctionKeys true
+xterm-utf8	xterm with no VT100 line-drawing in UTF-8 mode
+xterm-vt220	xterm emulating vt220
+xterm-vt52	xterm emulating dec vt52
+xterm-x10mouse	X10 xterm mouse
+xterm-x11hilite	X11 mouse with highlight
+xterm-x11mouse	X11 mouse
+xterm-xf86-v32	xterm terminal emulator (XFree86 3.2 Window System)
+xterm-xf86-v33	xterm terminal emulator (XFree86 3.3 Window System)
+xterm-xf86-v333	xterm terminal emulator (XFree86 3.3.3 Window System)
+xterm-xf86-v40	xterm terminal emulator (XFree86 4.0 Window System)
+xterm-xf86-v43	xterm terminal emulator (XFree86 4.3 Window System)
+xterm-xf86-v44	xterm terminal emulator (XFree86 4.4 Window System)
+xterm-xfree86	xterm terminal emulator (XFree86)
+xterm-xi  	xterm on XI Graphics Accelerated X under BSD/OS 3.1
+xterm1    	xterm terminal emulator ignoring the alternate screen buffer
+xtermc    	xterm terminal emulator (color)
+xtermm    	xterm terminal emulator (monocrome)
+xterms-sun	small (80x24) xterm with sunFunctionKeys true
+z100      	heath/zenith z-100 pc with color monitor
+z100bw    	heath/zenith z-100 pc
+z29       	zenith z29b
+z29a      	heath/zenith 29 in ansi mode
+z29a-kc-uc	z29 ansi mode with keyckick and underscore cursor
+z29a-kc-uc	z29 ansi mode with keyclick and underscore cursor
+z29a-nkc-bc	z29 ansi mode with block cursor and no keyclick
+z29a-nkc-uc	z29 ansi mode with underscore cursor and no keyclick
+z340      	zstem vt340 terminal emulator 132col 42line
+z340-nam  	zstem vt340 terminal emulator 132col 42line (no automatic margins)
+z39-a     	Zenith 39 in ANSI mode
+zen30     	zentec 30
+zen50     	zentec zephyr
+ztx       	ztx-10 or 11
