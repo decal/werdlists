@@ -15,6 +15,7 @@
 | [portswigger-attack-definitions](portswigger-attack-definitions.txt) |  [PortSwigger](https://portswigger.net) attack definitions
 | [script-tag-encodings](script-tag-encodings.txt) | a list of various web encodings for the string `<script>`  
 | [sql-errors-data](sql-errors-data.txt) | typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system") 
+| [vulnerability-rating-taxonomy](vulnerability-rating-taxonomy.json)  |  [Bugcrowd](https://bugcrowd.com) Vulnerability Rating Taxonomy JSON via <https://github.com/bugcrowd/vulnerability-rating-taxonomy>  
 | [wapples-vseries-rules](wapples-vseries-rules.txt) | WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf> 
 | [webapp-attack-strings](webapp-attack-strings.txt) | Various HTTP `GET` query strings that represent attacks 
 | [webapp-charset-attacks](webapp-charset-attacks.txt) | Character set strings to test a web server's [content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation) behavior.. 
