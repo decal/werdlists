@@ -6,6 +6,8 @@
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
 | [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`
 | [code-project-list](code-project-list.txt) |  popular code projects, well-known dependencies, API's, etc. 
+| [cpan-config-options](cpan-config-options.txt) | configuration options shown giving by the `cpan` utility the interactive command `o conf`  
+| [cpanplus-packages-details](cpanplus-packages-details.txt.gz) |  list of [CPAN](https://cpan.org "Comprehensive Perl Archive Network") package details used by the `cpanplus` utility
 | [freebsd-dns-tools](freebsd-dns-tools.txt) |  a list of DNS tools in [FreeBSD Ports](https://wikipedia.org/wiki/FreeBSD_Ports) from <https://svnweb.freebsd.org/ports/head/dns> 
 | [freeos-opersys-list](freeos-opersys-list.txt) |  comparison of free operating systems by freeos.com <http://www.freeos.com/Compare> 
 | [freeos-opersys-downloads](freeos-opersys-downloads.md) |  links to free operating system downloads by freeos.com <http://www.freeos.com/Downloads> 
