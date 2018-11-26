@@ -19,6 +19,7 @@
 | [first20hours-google-20k](first20hours-google-20k.txt) | 20,000 words parsed from Google <https://github.com/first20hours/google-10000-english/blob/master/20k.txt> 
 | [fortune-global500-list](fortune-global500-list.txt) | [Fortune 500](https://wikipedia.org/wiki/Fortune_500) companies list with rank, company name, revenue.. <http://fortune.com/global500/> 
 | [geographic-stop-words](geographic-stop-words.txt) | geographical [stop words](https://wikipedia.org/wiki/Stop_words), i.e. words that are ignored during [natural language processing](https://wikipedia.org/wiki/Natural-language_processing) 
+| [indefinite-nouns-words](indefinite-nouns-words.txt) |  a list of indefinite nouns--in other words, not "proper" nouns and therefore do not need to be capitalized.. <https://gist.githubusercontent.com/gardner/25d36eea91523d5a30d3e5197c6cc2b3/raw/a42ac049336b388674ecd1f1f37dd2f0cbd02ae7/nouns.txt>  
 | [ieee-journal-names](ieee-journal-names.txt) | a list of journals published by the [IEEE](https://ieee.org "Institute of Electrical and Electronic Engineers") 
 | [infosec-glossary-terms](infosec-glossary-terms.txt) | glossary of information security terminology copied from RFC4949: <https://tools.ietf.org/html/rfc4949> 
 | [jargon-common-words](jargon-common-words.txt) | common information technology jargon words 
