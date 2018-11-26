@@ -6,6 +6,7 @@
 | [eharmony-unsalted-hashes](eharmony-unsalted-hashes.txt) | hexadecimal strings representing unsalted passwords used on: <https://eharmony.com>
 | [hbgary-rootkit-passes](hbgary-rootkit-passes.txt) | [rootkit.com](http://web.archive.org/web/20060602220045/http://rootkit.com/) passwords dump from [HBGaryFederal](http://web.archive.org/web/20110115164049/http://www.hbgaryfederal.com:80/) incident 
 | [linkedin-top-passes](linkedin-top-passes.txt) | most-used passwords from public [LinkedIn](https://www.linkedin.com) credentials dump 
+| [muslim-match-passwords](muslim-match-passwords.txt) |  passwords that originated from the mid-2016 breach of `muslimmatch.com` <
 | [myspace-top-passes](myspace-top-passes.txt) | most-used passwords from public [MySpace](https://myspace.com/) credentials dump 
 | [popular-letter-passes](popular-letter-passes.txt) | most popular passwords that use lowercase alphabetic letters
 

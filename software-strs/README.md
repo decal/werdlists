@@ -29,6 +29,7 @@
 | [macos-homebrew-list](macos-homebrew-list.txt) |  list of [macOS homebrew](https://brew.sh) package names 
 | [macports-titles-list](macports-titles-list.txt) |  [MacPorts](https://www.macports.org) software titles list 
 | [mariadb-variables-list](mariadb-variables-list.txt) |  Full List of MariaDB Options, System and Status Variables <https://mariadb.com/kb/en/library/full-list-of-mariadb-options-system-and-status-variables/> 
+| [metasyntactic-variable-names](metasyntactic-variable-names.txt)  |  Names used by hackers, such as 'foo' or 'bar' .. "in examples and understood to stand for whatever thing is under discussion" <http://www.catb.org/jargon/html/M/metasyntactic-variable.html>  
 | [msedge-error-codes](msedge-error-codes.txt) | Microsoft Edge Error Codes from <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/console/error-and-status-codes>
 | [msft-crypto-oids](msft-crypto-oids.txt) | Object ID's associated with Microsoft cryptography <https://support.microsoft.com/en-us/help/287547/>
 ! [node-package-names](node-package-names.json) | The `names.json` file from [all-the-package-names](https://npmjs.com/package/all-the-package-names)  

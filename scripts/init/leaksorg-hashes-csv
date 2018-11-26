@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+[ ! -d passes-sites ] && cd .. && [ ! -d passes-sites ] && cd .. && [ ! -d passes-sites ] && echo "*** Run from root folder as scripts/init/leaksorg-hashes-csv" && exit 1
+
+wget -k -- 'https://hashes.org/leaks.php'
+
+egrep -- '[<]code[>]' leaks.php | sed 's!^[[:space:]]*!!' | sed 's![<][/]code[>]!!g' | sed 's![<]code[>]!,!' | sed "s,$(printf '\033')\\[[0-9;]*[a-zA-Z],,g" | sed 's! ,!,!' > leaksorg-sites-hashes.csv
+
+rm -fi -- leaks.php
+
+mv -v -- leaksorg-sites-hashes.csv passes-sites
+
+chmod -v 0644 passes-sites/leaksorg-sites-hashes.csv
+
+ls -l -- passes-sites/leaksorg-sites-hashes.csv
+
+exit 0
