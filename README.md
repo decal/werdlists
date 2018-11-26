@@ -15,7 +15,7 @@
 
 > Word lists, Dictionary Files, Attack Strings, Miscellaneous Datasets and Proof-of-Concept Test Cases With a Collection of Tools for Penetration Testers 
 
-<font color="red">WARNING<b>:</b></font> REPOSITORY IS NEARING 1GB
+<span style="color: red">WARNING<b>:</b></span> REPOSITORY IS NEARING 1GB
 
 * <a href="#intro">Brief Introduction to `werdlists`</a>
 * <a href="#inspire">Inspiration Taken from Similar Projects</a>
