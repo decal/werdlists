@@ -9,6 +9,7 @@
 | [services-word-names](services-word-names.txt) |  list of service names potentially found in a web app 
 | [skipfish-word-names](skipfish-word-names.txt) |  words to form files with extensions from [skipfish](https://code.google.com/archive/p/skipfish/ "Skipfish is an active web application security reconnaissance tool") scanner 
 | [splunk-public-terms](splunk-public-terms.txt) |  words related to server and browser side web technologies.. the `etc/anonymizer/public-terms.txt` file from a [Splunk](https://www.splunk.com/) install 
+| [squidproxy-accesslogs-pathwords](squidproxy-accesslogs-pathwords.txt) |  words parsed from path names in a [Squid](https://squid-cache.org "Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.") proxy `access.log`  
 | [topics-by-domain](topics-by-domain.txt) | most popular web topics according to number of domain names via: <http://leandomainsearch.s3.amazonaws.com/topics_by_domain_count.txt>  
 | [various-common-words](various-common-words.txt) |  words that are commonly used to name files in web apps 
 | [webapp-words-combined](webapp-words-combined.txt) |  words from all of the above files uniquely combined 

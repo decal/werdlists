@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* Write script that checks `[ $(cat $file | wc -l) -eq $(sort -u $file | wc -l) ]`  
+
 * Utilize [simple-icons](https://github.com/simple-icons) to badge label entries, i.e. <https://img.shields.io/badge/csp-header-_.svg?logo=nginx&style=popout&longCache=true>  
 
 * Or as a [simple-icons](https://github.com/simple-icons) alternative.. <https://unpkg.com/simple-icons@latest/ticons/yammer.svg>

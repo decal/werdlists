@@ -1,0 +1,94 @@
+completes on signal names
+completes on network interfaces
+expands tildes in pathnames
+completes on process IDs
+completes on process group IDs
+completes on user IDs
+completes on group IDs
+ifconfig(8) and iwconfig(8) helper function
+bash alias completion
+bash export completion
+bash shell function completion
+bash complete completion
+service completion
+chown(1) completion
+chgrp(1) completion
+umount(8) completion
+mount(8) completion
+Linux rmmod(8) completion
+Linux insmod(8), modprobe(8) and modinfo(8) completion
+man(1) completion
+renice(8) completion
+kill(1) completion
+Linux and FreeBSD killall(1) completion
+GNU find(1) completion
+Linux ifconfig(8) completion
+Linux iwconfig(8) completion
+RedHat & Debian GNU/Linux if{up,down} completion
+Linux ipsec(8) completion (for FreeS/WAN)
+Postfix completion
+cvs(1) completion
+rpm completion
+apt-get(8) completion
+chsh(1) completion
+chkconfig(8) completion
+user@host completion
+host completion based on ssh's known_hosts
+ssh(1) completion
+scp(1) completion
+rsync(1) completion
+Linux route(8) completion
+GNU make(1) completion
+GNU tar(1) completion
+jar(1) completion
+Linux iptables(8) completion
+tcpdump(8) completion
+autorpm(8) completion
+ant(1) completion
+mysqladmin(1) completion
+gzip(1) completion
+bzip2(1) completion
+openssl(1) completion
+screen(1) completion
+lftp(1) bookmark completion
+ncftp(1) bookmark completion
+gdb(1) completion
+Postgresql completion
+psql(1) completion
+createdb(1) completion
+dropdb(1) completion
+gcc(1) completion
+Linux cardctl(8) completion
+Debian dpkg(8) completion
+Debian GNU dpkg-reconfigure(8) completion
+Debian Linux dselect(8) completion
+Java completion
+PINE address-book completion
+mutt completion
+Debian reportbug(1) completion
+Debian querybts(1) completion
+update-alternatives completion
+Python completion
+Perl completion
+rcs(1) completion
+lilo(8) completion
+links completion
+FreeBSD package management tool completion
+FreeBSD kernel module commands
+FreeBSD portupgrade completion
+FreeBSD portinstall completion
+Slackware Linux removepkg completion
+look(1) completion
+ypcat(1) and ypmatch(1) completion
+mplayer(1) completion
+KDE dcop completion
+wvdial(1) completion
+gpg(1) completion
+iconv(1) completion
+dict(1) completion
+cdrecord(1) completion
+mkisofs(8) completion
+mc(1) completion
+yum(8) completion
+yum-arch(8) completion
+ImageMagick completion

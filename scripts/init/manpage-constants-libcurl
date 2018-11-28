@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Extract libcurl handle option constants from manual page
+#
+
+PAGER=cat man curl_easy_setopt | sed -E 's!^[[:space:]]+([A-Z0-9_]+)$!:\1:!g' | egrep '^:' | cut -d ':' -f2 | sort -u 
+
+exit 0

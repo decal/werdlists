@@ -1,7 +1,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-| [apt-cache-search](apt-cache-search.txt.xz) |  list of Debian packages gathered via empty cache search string 
-| [apt-config-dump](apt-config-dump.txt) |  sample contents of Debian APT's configuration space 
+| [apt-cache-search](apt-cache-search.txt.xz) |  list of [Debian](https://debian.org) packages gathered via empty cache search string 
+| [apt-config-dump](apt-config-dump.txt) |  sample contents of [Debian APT](https://wiki.debian.org/Apt "Advanced Packaging Tool") packages' configuration space 
 | [archstrike-package-list](archstrike-package-list.txt) |  list of [pacman](https://www.archlinux.org/pacman/ "Pacman Home Page") packages distributed with [ArchStrike](https://archstrike.org) from <https://archstrike.org/packages/search/%20/name-description> 
 | [atomicorp-linux-features](atomicorp-linux-features.txt) |  Atomic Secure Linux features list <https://wiki.atomicorp.com/wiki/index.php/ASL> 
 | [audit-daemon-config](audit-daemon-config.rules) | Linux Audit Daemon Best Practices Configuration  
@@ -10,7 +10,7 @@
 | [bash-shell-options](bash-shell-options.txt) |  bash shell options as managed by [the `shopt` builtin](https://gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html "the shopt builtin") 
 | [binary-format-targets](binary-format-targets.txt) |  [executable](https://wikipedia.org/wiki/Executable) file formats and platforms 
 | [centos7-yum-pkgs](centos7-yum-pkgs.txt.xz) |  list of packages from `yum` in [CentOS](https://www.centos.org/ "The CentOS Project") 7 
-| [debian-packages-universe](debian-packages-universe.txt.xz) | list of Debian `universe` packages as compact compressed textlist <https://packages.ubuntu.com/cosmic/allpackages?format=txt.gz>
+| [debian-packages-universe](debian-packages-universe.txt.xz) | list of [Debian](https://debian.org) `universe` packages as compact compressed textlist <https://packages.ubuntu.com/cosmic/allpackages?format=txt.gz>
 | [dot-path-names](dot-path-names.txt) |  various path names, i.e. files and dirs prepended with a period 
 | [git-command-descs](git-command-descs.txt) |  git command names with manual page sections and descriptions 
 | [glibc-tunable-names](glibc-tunable-names.txt) |  options that match GNU libc runtime behavior with workload 
@@ -27,10 +27,10 @@
 | [system-calls-32bit](system-calls-32bit.txt) |  x86 ABI functions listed by trinity Linux syscall fuzzer 
 | [system-calls-64bit](system-calls-64bit.txt) |  x86_64 ABI functions listed by trinity Linux syscall fuzzer 
 | [system-calls-wsl](system-calls-wsl.txt) |  Windows Subsystem for Linux syscalls from MSDN Release notes 
-| [ubuntu-manual-pages](ubuntu-manual-pages.txt) |  list of Ubuntu manual page names (without section numbers) 
+| [ubuntu-manual-pages](ubuntu-manual-pages.txt) |  list of [Ubuntu](https://ubuntu.com) manual page names (without section numbers) 
 | [ubuntu-server-groups](ubuntu-server-groups.txt) |  common GID names found in [`/etc/group`](http://manpages.ubuntu.com/manpages/man5/group.5.html "user group file") on Ubuntu Server 
 | [ubuntu-server-users](ubuntu-server-users.txt) |  common UID names found in [`/etc/passwd`](http://manpages.ubuntu.com/manpages/man5/passwd.5.html "the password file") on Ubuntu Server 
-| [ubuntu-wsl-pkgs](ubuntu-wsl-pkgs.txt.xz) |  Ubuntu packages in Windows Subsystem for Linux [`apt-cache`](https://debian-handbook.info/browse/stable/sect.apt-cache.html "The apt-cache Command") search 
+| [ubuntu-wsl-pkgs](ubuntu-wsl-pkgs.txt.xz) |  [Ubuntu](https://ubuntu.com) packages in Windows Subsystem for Linux [`apt-cache`](https://debian-handbook.info/browse/stable/sect.apt-cache.html "The apt-cache Command") search 
 | [unsafe-filesystem-calls](unsafe-filesystem-calls.txt) |  Linux file I/O syscalls w/ side effects from maybe Python script 
 
 * * *

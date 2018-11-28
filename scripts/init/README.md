@@ -25,6 +25,7 @@
 | [digit-alpha-digit](digit-alpha-digit) | make all strings consisting of a numeric digit, followed by an alphabetic letter and ending with another number  
 | [generate-locales-short](generate-locales-short) | enumerate short list of locale path names from `locales.txt` file   
 | [generate-locales-long](generate-locales-long) | generate a longer list of locale path names  
+| [manpage-constants-libcurl](manpage-constants-libcurl) | extract libcurl handle option constants from manual page  
 | [publicsuffix](publicsuffix) | convert the public suffix data file from [Mozilla Cross-Reference](https://mxr.mozilla.org) to JSON <https://gist.github.com/hattya/1528011>  
   
 * * *  
