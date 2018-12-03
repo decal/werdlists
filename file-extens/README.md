@@ -6,6 +6,7 @@
 | [file-extens-info](file-extens-info.txt.xz) |  list of file extensions and information via Botcrawl  
 | [file-extens-tools](file-extens-tools.txt) |  tools that can be used to inspect many types of files  
 | [github-fileexts-1to4chars](github-fileexts-1to4chars.txt) |  common GitHub file extensions 1 to 4 bytes in length  
+| [graphicsmagick-image-types](graphicsmagick-image-types.txt) | GraphicsMagick Supported Formats via <http://graphicsmagick.org/formats.html>
 | [macro-file-types](macro-file-types.txt) | macro file types common in the replication of e-mail attachment viruses via <https://avg.com/en/signal/what-is-a-computer-virus>  
 | [mime-types-database](mime-types-database.json) | database of MIME types in JSON format with associated file extensions from `node_modules/mime-db/db.json`  
 | [nmap-files-extensions](nmap-files-extensions.txt) |  taken from [NMap](https://nmap.org) file `nselib/data/http-web-files-extensions.lst`  

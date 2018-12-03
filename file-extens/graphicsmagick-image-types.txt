@@ -1,0 +1,159 @@
+APP1      rw- Raw application information
+APP1JPEG  rw- Raw JPEG binary data
+ART       r-- PF1: 1st Publisher
+ARW       r-- Sony Alpha DSLR RAW
+AVS       rw+ AVS X image
+BIE       rw- Joint Bi-level Image experts Group
+BMP       rw+ Microsoft Windows bitmap image
+BMP2      -w- Microsoft Windows bitmap image v2
+BMP3      -w- Microsoft Windows bitmap image v3
+CACHE     --- Magick Persistent Cache image format
+CALS      rw- Continuous Acquisition and Life-cycle
+CAPTION   r-- Caption (requires separate size info)
+CIN       rw- Kodak Cineon Format
+CMYK      rw- Raw cyan, magenta, yellow, and black
+CMYKA     rw- Raw cyan, magenta, yellow, black, and
+CR2       r-- Canon Photo RAW
+CRW       r-- Canon Photo RAW
+CUR       r-- Microsoft Cursor Icon
+CUT       r-- DR Halo
+DCM       r-- Digital Imaging and Communications in
+DCR       r-- Kodak Photo RAW
+DCX       rw+ ZSoft IBM PC multi-page Paintbrush
+DNG       r-- Adobe Digital Negative
+DPS       r-- Display PostScript Interpreter
+DPX       rw- Digital Moving Picture Exchange
+EPDF      rw- Encapsulated Portable Document Format
+EPI       rw- Adobe Encapsulated PostScript
+EPS       rw- Adobe Encapsulated PostScript
+EPS2      -w- Adobe Level II Encapsulated PostScript
+EPS3      -w- Adobe Level III Encapsulated PostScript
+EPSF      rw- Adobe Encapsulated PostScript
+EPSI      rw- Adobe Encapsulated PostScript
+EPT       rw- Adobe Encapsulated PostScript with MS-DOS
+EPT2      rw- Adobe Level II Encapsulated PostScript
+EPT3      rw- Adobe Level III Encapsulated PostScript
+EXIF      rw- Exif digital camera binary data
+FAX       rw+ Group 3 FAX (Not TIFF Group3 FAX!)
+FITS      rw- Flexible Image Transport System
+FRACTAL   r-- Plasma fractal image
+FPX       rw- FlashPix Format
+GIF       rw+ CompuServe graphics interchange format
+GIF87     rw- CompuServe graphics interchange format
+GRADIENT  r-- Gradual passing from one shade to
+GRAY      rw+ Raw gray samples (8/16/32 bits,
+HISTOGRAM -w- Histogram of the image
+HRZ       r-- HRZ: Slow scan TV
+HTML      -w- Hypertext Markup Language and a
+ICB       rw+ Truevision Targa image
+ICC       rw- ICC Color Profile
+ICM       rw- ICC Color Profile
+ICO       r-- Microsoft icon
+ICON      r-- Microsoft icon
+IDENTITY  r-- Hald CLUT identity image
+IMAGE     r-- GraphicsMagick Embedded Image
+INFO      -w+ Image descriptive information and
+IPTC      rw- IPTC Newsphoto
+IPTCTEXT  rw- IPTC Newsphoto text format
+IPTCWTEXT rw- IPTC Newsphoto wide text format
+JBG       rw+ Joint Bi-level Image experts Group
+JBIG      rw+ Joint Bi-level Image experts Group
+JNG       rw- JPEG Network Graphics
+JP2       rw- JPEG-2000 JP2 File Format Syntax
+JPC       rw- JPEG-2000 Code Stream Syntax
+JPEG      rw- Joint Photographic Experts Group
+JPG       rw- Joint Photographic Experts Group
+K25       r-- Kodak Photo RAW
+KDC       r-- Kodak Photo RAW
+LABEL     r-- Text image format
+M2V       rw+ MPEG-2 Video Stream
+MAP       rw- Colormap intensities and indices
+MAT       r-- MATLAB image format
+MATTE     -w+ MATTE format
+MIFF      rw+ Magick Image File Format
+MNG       rw+ Multiple-image Network Graphics
+MONO      rw- Bi-level bitmap in least-significant-
+MPC       rw+ Magick Persistent Cache image format
+MPEG      rw+ MPEG-1 Video Stream
+MPG       rw+ MPEG-1 Video Stream
+MRW       r-- Minolta Photo Raw
+MSL       r-- Magick Scripting Language
+MTV       rw+ MTV Raytracing image format
+MVG       rw- Magick Vector Graphics
+NEF       r-- Nikon Electronic Format
+NULL      r-- Constant image of uniform color
+OTB       rw- On-the-air bitmap
+P7        rw+ Xv thumbnail format
+PAL       rw- 16bit/pixel interleaved YUV
+PALM      rw- Palm Pixmap
+PBM       rw+ Portable bitmap format (black and white)
+PCD       rw- Photo CD
+PCDS      rw- Photo CD
+PCL       -w- Page Control Language
+PCT       rw- Apple Macintosh QuickDraw/PICT
+PCX       rw- ZSoft IBM PC Paintbrush
+PDB       rw+ Palm Database ImageViewer Format
+PDF       rw+ Portable Document Format
+PEF       r-- Pentax Electronic File
+PFA       r-- TrueType font
+PFB       r-- TrueType font
+PGM       rw+ Portable graymap format (gray scale)
+PGX       r-- JPEG-2000 VM Format
+PICON     rw- Personal Icon
+PICT      rw- Apple Macintosh QuickDraw/PICT
+PIX       r-- Alias/Wavefront RLE image format
+PLASMA    r-- Plasma fractal image
+PNG       rw- Portable Network Graphics
+PNG24     rw- Portable Network Graphics, 24 bit RGB
+PNG32     rw- Portable Network Graphics, 32 bit RGBA
+PNG8      rw- Portable Network Graphics, 8-bit
+PNM       rw+ Portable anymap
+PPM       rw+ Portable pixmap format (color)
+PREVIEW   -w- Show a preview an image enhancement,
+PS        rw+ Adobe PostScript
+PS2       -w+ Adobe Level II PostScript
+PS3       -w+ Adobe Level III PostScript
+PSD       rw- Adobe Photoshop bitmap
+PTIF      rw- Pyramid encoded TIFF
+PWP       r-- Seattle Film Works
+RAF       r-- Fuji Photo RAW
+RAS       rw+ SUN Rasterfile
+RGB       rw+ Raw red, green, and blue samples
+RGBA      rw+ Raw red, green, blue, and matte samples
+RLA       r-- Alias/Wavefront image
+RLE       r-- Utah Run length encoded image
+SCT       r-- Scitex HandShake
+SFW       r-- Seattle Film Works
+SGI       rw+ Irix RGB image
+SHTML     -w- Hypertext Markup Language and a
+STEGANO   r-- Steganographic image
+SUN       rw+ SUN Rasterfile
+SVG       rw+ Scalable Vector Gaphics
+TEXT      rw+ Raw text
+TGA       rw+ Truevision Targa image
+TIFF      rw+ Tagged Image File Format
+TILE      r-- Tile image with a texture
+TIM       r-- PSX TIM
+TOPOL     r-- TOPOL X Image
+TTF       r-- TrueType font
+TXT       rw+ Raw text
+UIL       -w- X-Motif UIL table
+UYVY      rw- 16bit/pixel interleaved YUV
+VDA       rw+ Truevision Targa image
+VICAR     rw- VICAR rasterfile format
+VID       rw+ Visual Image Directory
+VIFF      rw+ Khoros Visualization image
+VST       rw+ Truevision Targa image
+WBMP      rw- Wireless Bitmap (level 0) image
+WMF       r-- Windows Metafile
+WPG       r-- Word Perfect Graphics
+X         rw- X Image
+X3F       r-- Foveon X3 (Sigma/Polaroid) RAW
+XBM       rw- X Windows system bitmap (black
+XC        r-- Constant image uniform color
+XCF       r-- GIMP image
+XMP       rw- Adobe XML metadata
+XPM       rw- X Windows system pixmap (color)
+XV        rw+ Khoros Visualization image
+XWD       rw- X Windows system window dump (color)
+YUV       rw- CCIR 601 4:1:1 or 4:2:2 (8-bit only)

@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [alternative-to-dmoz](alternative-to-dmoz.md) | Sitemap of `alternative.to` which is similar to [DMOZ](http://www.dmoz.org) categories via <http://alternative.to/sitemap>
 | [apache-httpd-programs](apache-http-programs.txt) | list of Apache httpd programs and descriptions  
 | [common-colon-logins](common-colon-logins.txt) | colon delimited lines of common user and pass combinations  
 | [content-types-all](content-types-all.txt) | sorted and unique list of all files enumerating strings used as Content-Type request header  
