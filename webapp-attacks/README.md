@@ -9,12 +9,12 @@
 | [html-png-polyglot](html-png-polyglot.html) |  Another file with HTML/CSS/JS code that's also a PNG 
 | [html5sec-attack-vectors](html5sec-attack-vectors.txt) | `vectors.txt` file from the [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) GitHub repository
 | [joomla-components-targeted](joomla-components-targeted.txt) | list of [Joomla](https://www.joomla.com) components vulnerable to [LFI](https://wikipedia.org/wiki/File_inclusion_vulnerability "File inclusion vulnerability") targeted on a honeypot from <http://tacticalwebappsec.blogspot.com/2011/11/mass-joomla-component-lfi-attacks.html> 
+| [local-file-includes](local-file-includes.txt) | locations of files that are typically provided in [LFI](https://wikipedia.org/wiki/File_inclusion_vulnerability#Local_File_Inclusion) attack queries  
 | [mongodb-nosql-injection](mongodb-nosql-injection.txt) | [nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists) 
 | [mssql-injection-strings](mssql-injection-strings.txt) | SQL injection attack strings specified to [Microsoft SQL Server](https://microsoft.com/sql-server)  
 | [png-html-polyglot](png-html-polyglot.html) |  a PNG image file also containing HTML, CSS and JavaScript 
 | [portswigger-attack-definitions](portswigger-attack-definitions.txt) |  [PortSwigger](https://portswigger.net) attack definitions
 | [script-tag-encodings](script-tag-encodings.txt) | a list of various web encodings for the string `<script>`  
-| [sql-errors-data](sql-errors-data.txt) | typical error messages returned by various types of [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system "Relational database management system") 
 | [vulnerability-rating-taxonomy](vulnerability-rating-taxonomy.json)  |  [Bugcrowd](https://bugcrowd.com) Vulnerability Rating Taxonomy JSON via <https://github.com/bugcrowd/vulnerability-rating-taxonomy>  
 | [wapples-vseries-rules](wapples-vseries-rules.txt) | WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf> 
 | [webapp-attack-strings](webapp-attack-strings.txt) | Various HTTP `GET` query strings that represent attacks 

@@ -8,8 +8,8 @@
 | [non-split-patterns](non-split-patterns.js) | Java regular expressions for patterns that appear to be (but actually aren't) sentence splits <https://gate.ac.uk/gate/plugins/ANNIE/resources/regex-splitter/non-split-patterns.txt>  
 | [regex-payload-list](regex-payload-list.txt) |  regexp known to exhaust all CPU resources on Chrome and NodeJS 
 | [regular-expression-guide](regular-expression-guide.txt) |  a cheat sheet for regular expressions 
-| [sms-shortcode-regexes](sms-shortcode-regexes.txt) |  patterns that match various SMS short codes 
-| [sql-error-regexes](sql-error-regexes.txt) |  regular expressions to match SQL RDBMS error strings 
+| [sms-shortcode-regexes](sms-shortcode-regexes.txt) |  patterns that match SMS [short codes](https://wikipedia.org/wiki/Short_code "Short codes are short digit sequences, significantly shorter than telephone numbers, that are used to address messages in Multimedia Messaging System and Short Messaging Service systems of mobile network operators.") in various countries   
+| [sql-error-regexes](sql-error-regexes.txt) |  regular expressions to match SQL [RDBMS](https://wikipedia.org/wiki/Relational_database_management_system "A database management system based on the relational model of data.") error strings   
 | [test-regular-expressions](test-regular-expressions.txt) | a list of simple test regular expressions
 | [unix-date-regexp](unix-date-regexp.txt) |  a very long regexp meant to match UNIX date strings 
 | [uri-regexp-putty](uri-regexp-putty.txt) | default regular expression configured in [PuTTY](https://putty.org "PuTTY is an SSH and telnet client") for matching URI's
