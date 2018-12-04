@@ -3,6 +3,7 @@
 | [bash-compgen-all](bash-compgen-all.txt) |  Words from Bourne Again Shell builtin `compgen` executed with all non-argument command-line flags
 | [cocoa-pods-list](cocoa-pods-list.txt) |  list of pods from [CocoaPods](https://cocoapods.org) parsed from output of command `pod search --simple ''`
 | [macos-appkitui-resources](macos-appkitui-resources.md) |  Apple MacOS AppKit UI Design Resources via <https://developer.apple.com/design/whats-new/>  
+| [macos-dscl-users](macos-dscl-users.txt) | list of macOS High Sierra user names displayed by the Directory Service command line utility via `dscl . -list /Users`  
 | [macos-environ-names](macos-environ-names.txt) |  MacOS environment variable names 
 | [macos-homebrew-list](macos-homebrew-list.txt) |  [macOS homebrew](https://brew.sh) package names
 | [macports-titles-list](macports-titles-list.txt) |  [MacPorts](https://www.macports.org) software titles list

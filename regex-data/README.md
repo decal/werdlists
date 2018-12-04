@@ -1,6 +1,8 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [common-php-regexes](common-php-regexes.txt) |  regular expression definitions for matching common strings and character classes in [PHP](http://www.php.net) 
+| [domxss-sink-regex](domxss-sink-regex.txt) | Pattern that matches DOM XSS "sinks" or JavaScript syntax which updates the current document   
+| [domxss-source-regex](domxss-source-regex.txt) | Pattern that matches DOM XSS "sources", i.e. JavaScript syntax that may contain user input   
 | [html5-email-spec](html5-email-spec.txt) |  [HTML5 spec](https://html.spec.whatwg.org/multipage/input.html#e-mail-state-(type%3Demail) "input tag with type=email") 
 | [javascript-regex-help](javascript-regex-help.md) | Javascript regular expression help
 | [non-split-patterns](non-split-patterns.js) | Java regular expressions for patterns that appear to be (but actually aren't) sentence splits <https://gate.ac.uk/gate/plugins/ANNIE/resources/regex-splitter/non-split-patterns.txt>  

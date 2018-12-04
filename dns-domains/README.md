@@ -24,6 +24,7 @@
 | goscanssh-domain-blacklist | The GoScanSSH tool will skip testing an IP address if the reverse lookup points to a parent domain in this list <https://blog.talosintelligence.com/2018/03/goscanssh-analysis.html>  
 | gov-domain-names           | DNSSEC resource records within the [.gov TLD](https://wikipedia.org/wiki/.gov)  
 | gov-domain-names           | various governmental domain names  
+| immortal-malware-domains   | This is a list of long-lived, "immortal", malware domains via <http://mirror2.malwaredomains.com/files/immortal_domains.txt>  
 | ldns-walk-pgbs0dh          | DNSSEC resource records for [IDNA](https://unicode.org/cldr/utility/idna.jsp "Unicode Utilities: Internationalized Domain Names (IDN)") encoded domain xn--pgbs0dh  
 | maildotcom-domains-list    | `MX` records served by the <https://www.mail.com> web mail site  
 | malware-domains-mirror     | taken from [malwaredomains.com](https://www.malwaredomains.com/)  

@@ -1,0 +1,1 @@
+/((src|href|data|location|code|value|action)\sU["'\]]*\s*\+?\s*=)|(replace|assign|navigate|getResponseHeader|open(Dialog)?|showModelDialog|eval|evaluate|execCommand|execScript|setTimeout|setInterval)\s*["'\]]*\s*\()/
