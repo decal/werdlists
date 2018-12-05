@@ -32,6 +32,7 @@
 | [ubuntu-server-users](ubuntu-server-users.txt) |  common UID names found in [`/etc/passwd`](http://manpages.ubuntu.com/manpages/man5/passwd.5.html "the password file") on Ubuntu Server 
 | [ubuntu-wsl-pkgs](ubuntu-wsl-pkgs.txt.xz) |  [Ubuntu](https://ubuntu.com) packages in Windows Subsystem for Linux [`apt-cache`](https://debian-handbook.info/browse/stable/sect.apt-cache.html "The apt-cache Command") search 
 | [unsafe-filesystem-calls](unsafe-filesystem-calls.txt) |  Linux file I/O syscalls w/ side effects from maybe Python script 
+| [virtual-memory-flags](virtual-memory-flags.txt) | Linux [kernel](https://kernel.org) virtual memory area constants defined in `/usr/include/linux/mm.h`  
 
 * * *
 
