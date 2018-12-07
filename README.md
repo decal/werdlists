@@ -74,7 +74,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| [apple-paths](apple-paths)     | :apple: Pathnames found on MacOS file systems   
+| [apple-paths](apple-paths)     | :rocket: Pathnames found on MacOS file systems   
 | [apple-data](apple-data)       | :apple: Data identifiers and such from Apple's MacOS operating system  
 | [arpa-headers](arpa-headers)    | :email: Header fields transmitted over [RFC2822](https://tools.ietf.org/html/rfc2822) style protocols like [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
 | [ascii-art](ascii-art)       | :art: "Low bit" a.k.a. 7-bit [ASCII art](https://wikipedia.org/wiki/ASCII_art) items without [control characters](https://wikipedia.org/wiki/Control_character)  

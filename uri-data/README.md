@@ -7,7 +7,7 @@
 | [origin-check-urls](origin-check-urls.txt.xz) | The `urls.txt` file from [mikispag/OriginCheck](https://github.com/mikispag/OriginCheck) on [GitHub](https://github.com)  
 | [pentest-bookmarks-list](pentest-bookmarks-list.md) |  The Open Penetration Testing Bookmarks Collection from <https://github.com/jhaddix/pentest-bookmarks> 
 | [security-txt-template](security-txt-template.txt) |  [`security.txt`](https://securitytxt.org/) template example from <https://github.com/quietray/securitytxt-project/blob/master/security.txt> 
-| [torproject-onion-services](torproject-onion-services.txt) |  a list of onion services run by the Tor Project from <https://onion.torproject.org> 
+| [torproject-onion-links](torproject-onion-links.txt) |  a list of `.onion` hyperlinks corresponding to clearnet sites operated by the Tor Project via <https://onion.torproject.org> 
 | [uri-scheme-names](uri-scheme-names.txt) |  URI protocol scheme names, see also: <https://w3.org/wiki/UriSchemes> 
 | [url-parser-examples](url-parser-examples.asc) |  table of URL parsing examples from [WHATWG](https://whatwg.org Web Hypertext Application Technology Working Group") <https://url.spec.whatwg.org/#example-url-parsing> 
 | [url-parse-table](url-parse-table.asc) |  an ASCII table representing the component parts that an URL is broken down into during the parsing process <https://nodejs.org/docs/latest/api/url.html> 

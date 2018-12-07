@@ -16,6 +16,7 @@
 | [openssl-ciphers-verbose](openssl-ciphers-verbose.txt) |  Verbose info on ciphers supported by [OpenSSL](https://www.openssl.org) library 
 | [openssl-digest-algorithms](openssl-digest-algorithms.txt) |  `echo $(openssl list -cipher-commands) | tr ' ' 'n'` 
 | [openssl-pubkey-algorithms](openssl-pubkey-algorithms.txt) |  `openssl list -public-key-algorithms | grep PEM | cut -d: -f3` 
+| [testssl-etc-curves](testssl-etc-curves.txt) | listing of elleptic curve algorithms identified by their [IANA](https://iana.org) name via <https://testssl.sh/2.9.5/etc/curves.txt>  
 | [tls-cipher-suites](tls-cipher-suites.txt) |  The macro constants that identify [Windows TLS cipher suites](https://msdn.microsoft.com/library/windows/desktop/aa374757.aspx "Cipher Suites in TLS/SSL (Schannel SSP)") 
 
 * * *
