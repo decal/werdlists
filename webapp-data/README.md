@@ -2,8 +2,9 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [alternative-to-dmoz](alternative-to-dmoz.md) | Sitemap of `alternative.to` which is similar to [DMOZ](http://www.dmoz.org) categories via <http://alternative.to/sitemap>
 | [apache-httpd-programs](apache-http-programs.txt) | list of Apache httpd programs and descriptions  
+| [apache-gitbox-repos](apache-gitbox-repos.txt) | `apache.org` GitBox Repositories <https://gitbox.apache.org/repos/asf>  
 | [common-colon-logins](common-colon-logins.txt) | colon delimited lines of common user and pass combinations  
-| [content-types-all](content-types-all.txt) | sorted and unique list of all files enumerating strings used as Content-Type request header  
+| [content-types-all](content-types-all.txt) | sorted and unique list of all files enumerating strings used as `Content-Type` request header  
 | [content-types-list](content-types-list.txt) | a list of MIME content types via IANA <https://iana.org/assignments/media-types/media-types.xhtml>  
 | [coupon-codes-list](coupon-codes-list.txt) | hand-crafted list of shopping cart application coupon code strings  
 | [github-api-emojis](github-api-emojis.txt) | Emoji icons supported by GitHub API in JSON format <https://api.github.com/emojis>  
@@ -17,7 +18,7 @@
 | [secureblackbox-activex-control](secureblackbox-activex-control.html) | <https://www.secureblackbox.com/kb/help/ref_dc_activex.html>  
 | [secureblackbox-flex-control](secureblackbox-flex-control.html) | <https://www.secureblackbox.com/kb/help/ref_dc_flex.html>  
 | [secureblackbox-java-applet](secureblackbox-java-applet.html) | <https://www.secureblackbox.com/kb/help/ref_dc_java.html>  
-| [siteminder-authreason-codes](siteminder-authreason-codes.txt) | SiteMinder AUTHREASON query parameter values..  
+| [siteminder-authreason-codes](siteminder-authreason-codes.txt) | [SiteMinder](https://www.siteminder.com/)  `AUTHREASON` query parameter values..  
 | [wahh-tasks-checklist](wahh-tasks-checklist.txt) | Web Application Hacker's Handbook tasks checklist  
 | [wahh-test-method](wahh-test-method.txt) | Web Application Hacker's Handbook test methodology  
 | [webapp-code-execution](webapp-code-execution.txt) | HTTP GET queries that may result in remote code execution  

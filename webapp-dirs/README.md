@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [apache-struts-dirnames](apache-struts-dirnames.txt) | Directories found in releases of the [Apache Struts](https://struts.apache.org "Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications.") MVC framework  
 | [apache-user-dirs](apache-user-dirs.txt) |  URL paths that reference Apache `mod_userdir` locations 
 | [big-directory-list](big-directory-list.txt) | `Bigdirectorylist.txt` from [BruteDirBuster](https://github.com/jhayes14/BruteDirBuster)
 | [common-dirnames-list](common-dirnames-list.txt) |  list of very common directory names found on web servers 

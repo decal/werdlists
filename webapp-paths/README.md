@@ -6,6 +6,7 @@
 | [adobecq-path-names](adobecq-path-names.txt) |  paths to content on _Adobe Experience Manager_ a.k.a. CQ 
 | [apache-james-paths](apache-james-paths.txt) |  paths taken from the `quick-start.html` doc on <http://james.apache.org> 
 | [apache-path-names](apache-path-names.txt) |  path names commonly found under web root of an _Apache_ install 
+| [apache-struts-filepaths](apache-struts-filepaths.txt) | Path names under the `webapp` directories (i.e the web root folder) found in Apache Struts release packages  
 | [apache-tapestry-paths](apache-tapestry-paths.txt) |  Apache Tapestry paths created from source tree 
 | [bbscan-request-rules](bbscan-request-rules.txt) | List of path names taken from the `rules` folder distributed with the [BBScan](https://github.com/lijiejie/BBScan "A tiny Batch weB vulnerability Scanner") tool 
 | [cakephp-paths-list](cakephp-paths-list.txt) | Paths list created from the [CakePHP](https://cakephp.org) source tree
@@ -23,6 +24,7 @@
 | [generic-path-names](generic-path-names.txt) |  general path names that could be used on any web server 
 | [github-gitignore-paths](github-gitignore-paths.txt) |  path names parsed from `.gitignore` files in various GitHub repositories via `scripts/make-gitignore-paths` 
 | [httpoxyscan-cgilist-paths](httpoxyscan-cgilist-paths.txt) |  [cgi_list.txt](https://github.com/1N3/HTTPoxyScan "HTTPoxyScan") 
+| [http301-redirect-syntax](http301-redirect-syntax.md) | HTTP 301 redirect syntax for various programming languages that support [CGI](https://wikipedia.org/wiki/Common_Gateway_Interface "Common Gateway Interface offers a standard protocol for web servers to execute programs that execute console applications running on a server that generates web pages dynamically.") programming.   
 | [ibm-bea-paths](ibm-bea-paths.txt) |  paths for both J2EE app servers IBM WebSphere and Oracle WebLogic 
 | [iis-path-names](iis-path-names.txt) |  path names commonly found under the web root of an _IIS_ install 
 | [j2ee-paths-large](j2ee-paths-large.txt.xz) |  long list of custom created J2EE targeted path names 

@@ -3,6 +3,7 @@
 | [3char-file-extensions](3char-file-extensions.txt) |  all three character file extensions 
 | [admin-paths-robots](admin-paths-robots.txt) |  paths from wild robots.txt that contain substring "admin" 
 | [admin-word-strings](admin-word-strings.txt) |  words that contain the substring "admin" 
+| [apache-struts-basenames.txt](apache-struts-basenames.txt) |  file names parsed from paths included in [Apache Struts](https://struts.apache.org) release packages  
 | [bo0om-fuzz-extensions](bo0om-fuzz-extensions.txt) |  file extensions list from GitHub repo [fuzz.txt](https://github.com/bo0om/fuzz.txt) 
 | [cms-backup-files](cms-backup-files.txt) |  file names typically used by Content Management Systems 
 | [githubrepos-mostused-filenames](githubrepos-mostused-filenames.txt) |  most used filenames in GitHub repositories 

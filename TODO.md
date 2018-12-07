@@ -1,6 +1,9 @@
 Things To Do
 ============
 
+* Clearly document web busting terminology
+  - dirs/dirnames, basenames, paths/dirpaths, filepaths, folders, words, queries, variables, names, hosts, domains, etc. 
+
 * Write script that checks `[ $(cat $file | wc -l) -eq $(sort -u $file | wc -l) ]`  
 
 * Utilize [simple-icons](https://github.com/simple-icons) to badge label entries, i.e. <https://img.shields.io/badge/csp-header-_.svg?logo=nginx&style=popout&longCache=true>  

@@ -4,6 +4,7 @@
 | [1k-most-common](1k-most-common.txt) |  1,000 most commonly used passwords.. 
 | [1mil-activedir-passwords](1mil-activedir-passwords.txt.xz) |  list of potential Active Directory passwords used by the `icebreaker` tool <https://github.com/DanMcInerney/icebreaker/blob/master/1mil-AD-passwords.txt> 
 | [500-worst-passwords](500-worst-passwords.txt) |  500 of the worst passwords that people tend to commonly use 
+| [antipublic-top-1000](antipublic-top-1000.txt) | word list taken from www_brute Chrome extension GitHub repository <https://github.com/USSCltd/www_brute/blob/master/antipublic-top-1000.txt>  
 | [basic-spanish-list](basic-spanish-list.txt) |  _very_ basic list of Spanish words
 | [best-1050-passes](best-1050-passes.txt) |  a copy of the file `best1050.txt` 
 | [brutex-password-medium](brutex-password-medium.txt) | `password_medium.txt` from [BruteX](https://github.com/1N3/BruteX "Automatically brute force all services running on a target.")
