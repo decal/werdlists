@@ -43,6 +43,7 @@
 | special-use-extra          | All domains from `special-use-domains` and additional names that might be considered "special", but in a non-standard way  
 | tlds-alpha-dom             | an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  
 | top-level-names            | New [gTLD](https://wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") list taken from `ntldstats.com`  
+| tor2web-domain-names       | Domain names that are clearnet proxies for TOR .. searched for: `site:*.onion.*`
 | uk-domain-names            | DNSSEC resource records within the [.uk ccTLD](https://wikipedia.org/wiki/.uk)  
 | upenn-domain-records       | resource records for upenn.edu domain and its subdomains  
 | ustld-dnssec-records       | list of DNSSEC records for domains in the [.us ccTLD](https://wikipedia.org/wiki/.us)  

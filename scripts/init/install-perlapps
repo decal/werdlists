@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+CPAN_FILE='perl-data/cpan-all-namespaces.txt.xz'
+
+while [ ! -d scripts ]; do
+  cd ..
+
+  [ `pwd` == '/' ] && break
+done
+
+if [ ! -f "$CPAN_FILE" ]; then 
+  printf "*!* Unable to locate CPAN namespaces file .. ${CPAN_FILE}\n"
+
+  exit 2
+fi
+
+printf $'*** This might take a while--you may want to grab some coffee!\n'
+
+for apack in $(xzgrep -iE '^App::[^:]+$' "$CPAN_FILE");do
+  nice cpan -T "$apack" 
+done
+
+exit 0

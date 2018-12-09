@@ -1,0 +1,2184 @@
+*011 sipbroker.com SIPBroker Alias Server   United
+*013 sipbroker.com SIPBroker ENUM Server   Brazil
+*018 gtalk2voip.com GTalk2VoIP  
+*210 proxy.freecall.net.au Freecall   Australia
+*220 sip.oiptel.com sip.oiptel.com
+*227 musimi.dk Musimi   Denmark  
+*233 sip.pacificvoice.net.au sip.pacificvoice.net.au
+*234 sip.pennytel.com PennyTel   Australia  
+*235 sip.netrex.nl sip.netrex.nl
+*237 as.bw.iprimus.net as.bw.iprimus.net  
+*239 voip.macronet.ro voip.macronet.ro
+*241 pbx.ewingit.com.au Ewing IT - PBX  
+*250 sip.voipbg.com sip.voipbg.com
+*253 gw01.transtech.dk Transtech Communication
+*258 voiptalk.org voiptalk   United Kingdom  
+*259 sip.therana.com sip.therana.com
+*261 draytel.org draytel.org   United Kingdom
+*262 asterisk.chuljin.com asterisk.chuljin.com
+*263 messaging.banana.org.uk messaging.banana.org.uk
+*268 gw2.austechpartnerships.com
+*270 voicegw.microvoxnet.com voicegw.microvoxnet.com
+*273 sip.lugs.ch sip.lugs.ch   Switzerland
+*275 sipbroker.com SIPBroker
+*279 sip.tlenofon.pl sip.tlenofon.pl   Poland, Republic
+*281 sailer.dynip.lugs.ch sailer.dynip.lugs.ch
+*284 gw1.austechpartnerships.com
+*287 stun.rnktel.com stun.rnktel.com
+*288 sip2.sipservers.net LiveVoip
+*290 sip.myasterisk.net sip.myasterisk.net
+*292 sip.easycall.pl sip.easycall.pl
+*302 voip.lightspeed.ca voip.lightspeed.ca
+*309 lon-pbx-1.gradwell.com gradwell.com  
+*317 ser.sipcode.com.br SipCode   Brazil  
+*322 llamadaip.zapto.org llamadaip.zapto.org   Argentina
+*325 pbx.atl.roamer1.net pbx.atl.roamer1.net
+*326 sip1.budgetphone.nl BudgetPhone   Netherlands
+*328 fax.ollett.com fax.ollett.com
+*331 telefoon.in telefoon.in  
+*332 asterisk.crystalstream.net
+*333 sipauth.deltathree.com tabtel  
+*335 voice.overloaded.ro voice.overloaded.ro
+*340 gateway.sipserve.net.nz sip serve new zealand
+*342 sip.hablalatino.net sip.hablalatino.net
+*343 siplogin.de Interfoni/Sipnetworks  
+*348 sip.media.it sip.media.it
+*349 sip.adamvozip.es Adam Telefona   Spain  
+*350 sip.voipfone.net sip.voipfone.net   United Kingdom
+*353 sip.varphonex.com sip.varphonex.com   United
+*355 natrelay.deltathree.com natrelay.deltathree.com
+*357 sip.bgopen.net bgopen.net   Bulgaria  
+*359 sip.bgopen.net bgopen.net   Bulgaria  
+*375 sip.cryptotel.com CRYPTOTEL
+*376 sip.ifon.pl sip.ifon.pl
+*377 sip.ipclouds.co.uk sip.ipclouds.co.uk
+*381 voip.apcs.com.au voip.apcs.com.au
+*387 ser01.sipcode.com.br SipCode   Brazil  
+*392 ethz.ch ETH Zurich
+*399 freespeech.ie freespeech.ie   Ireland, Republic
+*408 sip.squillo.it sip.squillo.it
+*412 pbx1.basnet.lv pbx1.basnet.lv
+*417 uk.sipno.org uk.sipno.org
+*418 acorna.com acorna.com
+*419 sipnet.ru SIPNET   Russian Federation  
+*422 sipways.com sipways.com
+*429 gw3.telasip.com gw3.telasip.com
+*430 blasterisk.blagblagblag.org
+*431 voipuser.org Voip User.org   United Kingdom
+*439 OpenPort.MeraTelecom.com OpenPort.MeraTelecom.com
+*445 copernicus.demon.co.uk copernicus.demon.co.uk
+*447 sip.ghe.com.au Great Huang Enterprise VOIP
+*453 sipproxy.go2call.com sipproxy.go2call.com
+*455 hera.e-tmc.com hera.e-tmc.com
+*459 cian.ws cian.ws
+*461 sip.rukavina.net sip.rukavina.net
+*462 in.callcentric.com Callcentric   United States
+*464 www.sitatel.com www.sitatel.com  
+*465 sip.fullcirclenetworks.com
+*473 sip.cyberring.com sip.cyberring.com
+*478 iptel.org iptel.org   Colombia  
+*481 sip.timminstechnologies.com
+*483 eip.eeip.us eip.eeip.us
+*489 sip.myphone.hu MyPhone - The Broadband Phone
+*495 usa1.llamadaip.org usa1.llamadaip.org
+*498 sip.litux.org sip.litux.org
+*503 octothorp.org octothorp.org
+*504 sip.salmark.net sip.salmark.net
+*507 incoming.vtnoc.net Viatalk  
+*510 sip.iparea.com sip.iparea.com
+*512 unfix.org Unfix   Switzerland  
+*516 rcthnat.onvoip.net rcthnat.onvoip.net
+*517 wyss.id.au wyss.id.au
+*519 sip.adamsatoms.com sip.adamsatoms.com
+*525 sip.voxtrotter.com sip.voxtrotter.com
+*527 voip.bobcat.ca voip.bobcat.ca
+*529 sip.myrien.net Myrien
+*531 usa3.llamadaip.org usa3.llamadaip.org
+*535 sip.invictasoft.pt Invictasoft
+*538 voip.lichti-edv.de Kaiserpfalz EDV-Service
+*539 voiper.ipkall.com voiper.ipkall.com
+*546 pbx.codefidence.com pbx.codefidence.com
+*549 voip.wankota.org voip.wankota.org
+*559 sip-in.les.net Les.net (1996) Inc.   Canada
+*560 linuxman.it linuxman.it
+*563 sip.directcall.com.au sip.directcall.com.au
+*567 sip.barnet.com.au sip.barnet.com.au
+*571 voip.chilitech.net voip.chilitech.net
+*584 rcthnat1.onvoip.net rcthnat1.onvoip.net
+*587 bluesip.net Bluesip   Germany, Federal Republic of
+*588 sip.inphonex.com sip.inphonex.com   United States
+*589 exactelis.net exactelis.net  
+*595 sip.denotos.com sip.denotos.com
+*597 pbx2.vsharing.com.br pbx2.vsharing.com.br
+*602 e164.org e164.org
+*607 sip.epygi.com sip.epygi.com
+*615 opal.com opal.com
+*617 sip.myvoip.be sip.myvoip.be
+*618 voiprakyat.or.id VoIP Rakyat   Indonesia
+*630 asterisk.nl.x11.net asterisk.nl.x11.net
+*633 sip.justip.no sip.justip.no
+*634 voip.servihosting.com voip.servihosting.com
+*637 sip.gradwell.net sip.gradwell.net
+*638 iax.gabcast.com iax.gabcast.com
+*643 venezuela.hopto.org venezuela.hopto.org
+*645 mouselike.org mouselike.org
+*649 vishq.com vishq.com
+*650 telephoneglobal.com.au telephoneglobal.com.au
+*651 tel.xtcn.com tel.xtcn.com
+*652 sip.gabcast.com Gabcast.com   Canada  
+*653 switch.richmedium.com switch.richmedium.com
+*654 sip.voipster.com sip.voipster.com
+*657 sip.vodini.com vodini.com   Philippines  
+*661 sip.teleserviciosvoip.com.ar Teleservicios VoIP
+*663 sip10.mynetfone.com.au MyNetFone   Australia
+*665 freedigits.net FreeDigits   United States
+*670 diehlnet.com diehlnet.com
+*673 ekiga.net ekiga.net   Greece  
+*676 asterisk.cubio.net asterisk.cubio.net
+*681 noimang2.conehat.com noimang2.conehat.com
+*682 sip.conehat.com sip.conehat.com
+*687 sip.htt-consult.com sip.htt-consult.com
+*692 invalid.name invalid.name
+*694 sip.kcip.com KCIP   United Kingdom  
+*698 sip.oztralia.com OZtell Australia   Australia
+*704 sip01.cliquevp.com sip01.cliquevp.com
+*706 proxy.sip.or.kr proxy.sip.or.kr
+*714 voice.redspot.dk voice.redspot.dk
+*715 sip.verner.net sip.verner.net
+*719 pbx.virsip.net ViR   Czech Republic  
+*722 pbx.ha-vel.cz ha-loo   Czech Republic  
+*723 sip.antisip.com 012 Goldenlines   United States
+*726 sip-megan.verner.net sip-megan.verner.net
+*729 pbx-network.de pbx-network.de   Germany, Federal
+*733 viasip.net viasip.net
+*735 sip.ajtel.net AJ-TEL Communications (ajtel)
+*746 sip.phonegnome.com PhoneGnome   United States
+*768 sip.plus.net sip.plus.net   United Kingdom
+*788 deu1.purtel.com purtel.com  
+*799 ob2.tario.ru tario.ru  
+*832 gw4.austechpartnerships.com ATP   Australia
+*850 proxy.ideasip.com IdeaSIP   Mexico  
+*878 truphone.com Truphone  
+*1800 Toll Free Service (N. America) Toll Free Service
+*1844 Toll Free Service (N. America) Toll Free Service
+*1855 Toll Free Service (N. America) Toll Free Service
+*1866 Toll Free Service (N. America) Toll Free Service
+*1877 Toll Free Service (N. America) Toll Free Service
+*1888 Toll Free Service (N. America) Toll Free Service
+*4673 hope.telephreak.org Telephreak (TheLastHope)
+*7361 robin.diversehost.net robin.diversehost.net
+*7364 sip.gmfcomp.com sip.gmfcomp.com
+*7365 sip.liran.name sip.liran.name
+*7366 fullcircle.myvnc.com fullcircle.myvnc.com
+*7367 aphone2.tpg.com.au aphone2.tpg.com.au
+*7369 voip.jildent.com.au voip.jildent.com.au
+*7371 freecall.in.th freecall.in.th   Thailand
+*7378 sip.vozipsystem.net sip.vozipsystem.net
+*7379 proxy-pp1.bti-sip.net proxy-pp1.bti-sip.net
+*7380 voip.phonecaster.de voip.phonecaster.de
+*7381 sip.fivn.com FIVN   Finland  
+*7384 dwam.pck.nerim.net DWAM   France
+*7386 sip2.adiptel.com sip2.adiptel.com
+*7393 voip.lynexsvc.com voip.lynexsvc.com   United
+*7394 sip.durutelekom.com sip.durutelekom.com
+*7396 sip.tootai.net sip.tootai.net   France
+*7400 voip.itnow.net.au I.T. Now   Australia
+*7402 terrasip.net terrasip.net   Spain  
+*7404 sip.auserver.com sip.auserver.com
+*7407 sip.asda.gr sip.asda.gr   Greece  
+*7409 sip.smartcall.cz Smartcall VoIP   Czech Republic
+*7410 sip.tecmina.com Techno Mina Communications
+*7413 sip.intxs.com sip.intxs.com
+*7414 gw04.transtech.dk gw04.transtech.dk
+*7415 gw03.transtech.dk gw03.transtech.dk
+*7416 cartwrjj-4.student.rose-hulman.edu
+*7417 volley.net volley.net
+*7418 proxy.joip.com proxy.joip.com
+*7420 sip.dialexia.com sip.dialexia.com   Canada
+*7426 sip.uk1.mobe-tel.com sip.uk1.mobe-tel.com
+*7427 pbx.voipme.si pbx.voipme.si  
+*7428 sip.tbm.net.ua sip.tbm.net.ua
+*7431 iax.mooo.com WR Roaming
+*7436 sip.gw.timhawes.com sip.gw.timhawes.com
+*7438 sip.arss.net sip.arss.net
+*7440 sip.flamegreen.net sip.flamegreen.net
+*7442 sip.studio.tellme.com sip.studio.tellme.com
+*7448 e164.iobb.net voip.iobb.net   Japan
+*7449 s1.easypabx.com easypabx   Brazil
+*7451 sip.evolui.net sip.evolui.net
+*7452 sip.foniristele.com sip.foniristele.com
+*7453 asterisk.auserver.com asterisk.auserver.com
+*7454 cronkite.prognet.com cronkite.prognet.com
+*7480 sip.teddy.cx sip.teddy.cx
+*7484 voip.0064.co.nz voip.0064.co.nz   New Zealand
+*7485 nufone.net nufone.net
+*7486 sip.sipfly.com sip.sipfly.com
+*7490 pbx.acfsys.net pbx.acfsys.net
+*7493 sip.xcall.us sip.xcall.us   Brazil
+*7494 telecom.eolix.com.ar telecom.eolix.com.ar
+*7496 sip1.altecom.net sip1.altecom.net
+*7500 agi.8866.org agi.8866.org
+*7501 voip.funkfeuer.at voip.funkfeuer.at
+*7502 uno.e3c.com.br uno.e3c.com.br
+*7505 sip.ipvoicesa.com IP VOICE   Argentina
+*7507 routing.pbx.bluegrass.net
+*7508 sip.yesss.at sip.yesss.at
+*7510 pbx.firepair.com pbx.firepair.com
+*7512 voip.radiovalladolid.com RedesMadrid.com VoIP
+*7519 keskus2.laajakaistapuhelin.net
+*7523 voip.ufg.br voip.ufg.br
+*7525 squirreldip.com squirreldip.com   Canada
+*7527 payman.MyLinksysRouter.com
+*7528 faro.cajacomun.es faro.cajacomun.es
+*7531 voip.phalse.org Routed Communications   United
+*7532 voip.alinea.bg voip.alinea.bg
+*7536 asterisk.anectis.com.ar asterisk.anectis.com.ar
+*7538 sip.camundanet.com camundaNET   Argentina
+*7539 buyersourcing.com buyersourcing.com
+*7544 sip.voiparea.net sip.voiparea.net
+*7546 giannikos.com.au giannikos.com.au
+*7548 sip.techvim.com sip.techvim.com
+*7553 ilawus.voip.pienotech.com
+*7554 pbx1.zerovoip.com pbx1.zerovoip.com
+*7557 Malcolm.id.au Malcolm Media   Australia
+*7558 sip.libretel.com sip.libretel.com
+*7562 sip.voicetrendz.com sip.voicetrendz.com
+*7564 ipbx.istyle.com.hk ipbx.istyle.com.hk   Hong
+*7565 sipnumber.net SipNumber   United States
+*7567 sip.espavoip.com sip.espavoip.com
+*7570 vt4.riu.edu.ar vt4.riu.edu.ar
+*7573 sip.voipedwin.info sip.voipedwin.info
+*7577 sip.neovoz.net sip.neovoz.net
+*7578 pbx.csr-online.net CSR online   Spain
+*7579 talk.orbtalk.co.uk Orbtalk   United Kingdom
+*7580 sip.ilive.com.br sip.ilive.com.br
+*7583 sip.ip-voice.ca sip.ip-voice.ca
+*7586 3eteam.vicp.net 3eteam.vicp.net
+*7588 sip.pebble-tree.co.uk sip.pebble-tree.co.uk
+*7589 tel.eventure.net.au tel.eventure.net.au
+*7592 sip.raggedstaff.net sip.raggedstaff.net
+*7597 sip.inf.uct.cl sip.inf.uct.cl   Chile
+*7599 nl.gratissip.nl nl.gratissip.nl
+*7600 voip.whisker.org.uk whisker.org.uk   United
+*7602 sti.inverluz.cl sti.inverluz.cl
+*7619 voice.agrilinkindia.com voice.agrilinkindia.com
+*7627 sip1.wdvoip.com.br sip1.wdvoip.com.br   Israel
+*7629 sip.sipgate.ru sipgate.ru
+*7632 sip.tzunami.com sip.tzunami.com   Israel
+*7633 register.parlino.com register.parlino.com
+*7634 sip.speedyvoice.info SpeedyVoice   Italy
+*7638 sip.voxeo.net sip.voxeo.net
+*7645 sip1.786tel.com www.786tel.com   Canada
+*7646 portalphone.net portalphone.net   United States
+*7649 sip.comtube.com sip.comtube.com   Russian
+*7650 tawagan.com tawagan.com
+*7654 sip.voip-engineering.net VoIP Engineering Japan
+*7656 home.janitha.com home.janitha.com
+*7658 legionracing.com legionracing.com   United
+*7659 sportreports.org sportreports.org
+*7663 sipbroker sipbroker
+*7665 sip.worldtelecommunications.net
+*7668 star.od.ua star.od.ua   Ukraine  
+*7669 voice.voip-project.co.uk
+*7670 callsmart.jp CallSmart World Connect   Japan
+*7673 voip.demcom.eu voip.demcom.eu
+*7674 roger.mcdev.com.au roger.mcdev.com.au
+*7675 voip.svanto.net voip.svanto.net   Netherlands
+*7676 siptel.pt siptel.pt   Portugal  
+*7678 ciberbrain.ciberdns.com.ar
+*7679 siptel.gr siptel.gr   Greece
+*7695 sip.pregi.net sip.pregi.net   India  
+*7697 chip.abc-komputer.poznan.pl
+*7702 math.acetix.ca math.acetix.ca
+*7707 voice.blackfin.co.uk voice.blackfin.co.uk
+*7708 du36.dns77.com du36.dns77.com   Bangladesh,
+*7710 sip.motodirect.net sip.motodirect.net
+*7713 iax.exgn.net iax.exgn.net
+*7721 bbtel.us bbtel.us
+*7723 sip.voiceover1p.de sip.voiceover1p.de
+*7725 sip2.syd.net2max.com Oztell   Australia
+*7726 sip.leyna.org sip.leyna.org
+*7728 aphone.tpg.com.au aphone.tpg.com.au
+*7730 sip.telfree.com.br sip.telfree.com.br
+*7731 sip.jackykeung.com sip.jackykeung.com
+*7732 sip.arphone.com sip.arphone.com
+*7735 voip.comune.prato.it voip.comune.prato.it
+*7736 voipgateway.us voipgateway.us
+*7737 sip.gepard.net GepardTel  
+*7739 sip.vitelity.net sip.vitelity.net
+*7745 93-112-235-201.fibertel.com.ar
+*7746 sip.hochstaetter.org sip.hochstaetter.org
+*7748 silentbob-2.geekgalaxy.com StarvingGeeks.net
+*7749 sip.syd.net2max.com sip.syd.net2max.com
+*7750 sip.aql.com sip.aql.com
+*7756 ivoxo.net ivoxo.net   United States  
+*7757 wa.koalavoip.com.au wa.koalavoip.com.au
+*7758 srv-sip-1.groupe-esc-rouen.fr
+*7761 sip.bris2600.com sip.bris2600.com   Germany,
+*7764 sip.tamix.com sip.tamix.com
+*7766 tecmold.com tecmold.com
+*7769 tecmold.net tecmold.net   Switzerland
+*7781 sip.ringydingy.net sip.ringydingy.net
+*7783 sip.iptelelefoniavoip.com CDigital - IP
+*7786 voice.scandesigns.com voice.scandesigns.com
+*7788 sip.ufanet.ru sip.ufanet.ru
+*7789 hello.zarco.org hello.zarco.org
+*7791 sip1.isa.com.co sip1.isa.com.co
+*7793 fvn-net.org FVN Alliance   Canada  
+*7801 sip.melonite-group.se Melonite VoIP 
+*7804 sip1.dsidata.sk sip1.dsidata.sk
+*7805 mbyte2.mvoip.net.br mbyte2.mvoip.net.br
+*7807 voip.interbs.com.ar interbs.com.ar   Argentina
+*7808 sip.add-voip.com.ar sip.add-voip.com.ar
+*7810 sip.fastlinkconnection.com.au
+*7811 muessig.voip-taunus.de muessig.voip-taunus.de
+*7813 sip.voiphit.com sip.voiphit.com
+*7815 sip.ansc.com.sg sip.ansc.com.sg
+*7818 sip2.mbyte.net.br sip2.mbyte.net.br   Brazil
+*7820 voip.ikatu.net voip.ikatu.net
+*7821 sip.vocatel.com sip.vocatel.com
+*7824 users.xsfone.co.uk users.xsfone.co.uk
+*7827 alpha.xtr.cc alpha.xtr.cc
+*7829 sip.hyz.com.br sip.hyz.com.br
+*7833 sip.klashma.com sip.klashma.com
+*7834 voice.rrbone-bb.net voice.rrbone-bb.net
+*7836 gate.tuzi.net gate.tuzi.net
+*7841 purdon.ca purdon.ca
+*7845 sip.1callu.com 1callu   Spain  
+*7847 sip.whitephone.com sip.whitephone.com
+*7850 sip.sninformatica.com.br sip.sninformatica.com.br
+*7852 proxy.ngnfone.com proxy.ngnfone.com
+*7854 did.coternet.net did.coternet.net
+*7858 sip.timepassindia.com sip.timepassindia.com
+*7859 sip.evsis.com.ar EVSIS.COM   Argentina
+*7860 sip.phriko.com sip.phriko.com
+*7861 antibala.com antibala.com
+*7863 sip.mcoms.co.uk MCOMS   United Kingdom
+*7864 bitlynx.com bitlynx.com   Canada  
+*7865 sip02.synerip.com SynerTel   Mexico  
+*7866 sushisip.com sushisip.com
+*7867 sip.cobby.com sip.cobby.com   Belgium
+*7871 jm.silk.com jm.silk.com
+*7872 voip2-mtl1.dringme.com voip2-mtl1.dringme.com
+*7873 sip.fonatrixx.ca Fonatrixx   Canada  
+*7876 hoangvietkhanh.com hoangvietkhanh.com
+*7878 wrth.strategicvoip.com wrth.strategicvoip.com
+*7892 inoc-dba.pch.net inoc-dba.pch.net
+*7895 sip.3c-russia.ru sip.3c-russia.ru
+*7897 sip.televoice-bg.info sip.televoice-bg.info
+*7899 sip.callgate.com.au sip.callgate.com.au
+*7901 sip.ttn.net sip.ttn.net
+*7903 wmp11.com wmp11.com
+*7906 sol-mh-svr3.unwirednet.net VOIPco.unwirednet.net
+*7908 sip02.livecalling.com sip02.livecalling.com
+*7911 sip.webdesk.com.au sip.webdesk.com.au
+*7913 sip.aicallnet.com sip.aicallnet.com
+*7915 sip.abbasiweb.com sip.abbasiweb.com
+*7919 treehuggerservices.com treehuggerservices.com
+*7921 scantec.pt scantec.pt   Portugal
+*7926 van1.voipportal.ca van1.voipportal.ca
+*7933 sip.keycom.net.ar sip.keycom.net.ar   United
+*7934 voip.cluenet.org voip.cluenet.org
+*7936 sip.serveur-web.org SERVEUR-WEB   France
+*7937 sip.teamti.com sip.teamti.com
+*7941 voip.esms.com voip.esms.com
+*7942 computerguysolutionsonline.com
+*7945 sip.maskina.com sip.maskina.com
+*7946 svn.zytara.com svn.zytara.com   Serbia
+*7947 sip.vita.com.ar sip.vita.com.ar
+*7950 sip.klubfm.info sip.klubfm.info
+*7951 jpillay.serveftp.com jpillay.serveftp.com
+*7952 sip.checchi.net sip.checchi.net
+*7954 pbx.foneanyware.net.au pbx.foneanyware.net.au
+*7957 sip.vol.at sip.vol.at
+*7960 ndlong.de ndlong.de
+*7961 voice.tokentok.com voice.tokentok.com
+*7963 arlab.pointclark.net arlab.pointclark.net
+*7966 voiceoverip.s0rs.geek.nz
+*7967 sip.bourget.cc Bourget.cc   Canada
+*7968 sip.brunka.net sip.brunka.net
+*7973 voicehost.co.uk voicehost.co.uk
+*7978 sip.sipsrv.com sip.sipsrv.com
+*7979 sip.redlibre.cl sip.redlibre.cl   Chile
+*7980 gw-1.voip.bitradius.com BitRadius, LLC   United
+*7983 stun.gis.net stun.gis.net
+*7985 pbx.tawi.fi voip.tawi.fi   Finland
+*7987 sip.telextreme.net sip.telextreme.net
+*7989 academy.co.uk academy.co.uk   United Kingdom
+*8011 proxy.entacall.com Entanet   United Kingdom
+*8014 ip-pabx.com ip-pabx.com
+*8020 sip.gosippy.com sip.gosippy.com
+*8024 armyops-portugal.com armyops-portugal.com
+*8025 sip.golden.cl sip.golden.cl
+*8026 sip.falesemparar.com.br sip.falesemparar.com.br
+*8027 homesip.net homesip.net   Nepal
+*8028 voice.prayerbuddy.org voice.prayerbuddy.org
+*8030 asterix.aiias.edu asterix.aiias.edu
+*8032 sip3.voipin.com.br sip3.voipin.com.br   Brazil
+*8033 fleet-communications.net
+*8037 tsa.ct.tesatelecom.com Telecom South America S/A
+*8038 sip.voipblue.de sip.voipblue.de
+*8040 sip.abms.com.au sip.abms.com.au
+*8041 main.subspace-conduit.net
+*8042 sip.kebu.it Kebu.it   Italy  
+*8049 sip.voxphone.net sip.voxphone.net
+*8052 did.callwithus.com CallWithUs   United States
+*8058 bassnotes.com bassnotes.com
+*8061 sip.dahvoice.com sip.dahvoice.com
+*8062 pbx.chrisam.com pbx.chrisam.com   Canada
+*8063 voip.cyberboom.com voip.cyberboom.com
+*8066 gsm.kallkool.com gsm.kallkool.com
+*8069 a009805.e164.kazu2525.net
+*8070 call.io call.io
+*8075 voip.tastyacres.us voip.tastyacres.us
+*8076 voip.ipl.pt voip.ipl.pt
+*8077 home.jochenseiler.com home.jochenseiler.com
+*8078 sip001.mitacs.com PlatinPlus   Austria
+*8079 node1.voicenode.at Macrogate   Austria
+*8081 sip.lanwork.ca sip.lanwork.ca
+*8082 shake.billfehring.com shake.billfehring.com
+*8083 sip.free-voip.eu sip.free-voip.eu
+*8087 pgp01.televolution.net pgp01.televolution.net
+*8093 claas.info claas.info   Netherlands
+*8099 sip1.ionoc.net sip1.ionoc.net
+*8101 sip.netprimates.com sip.netprimates.com
+*8103 telezin.net telezin.net
+*8109 gk.voipland.net gk.voipland.net   United States
+*8110 voip1.broadbandsolutions.com.au
+*8111 sip.voipmatrix.com sip.voipmatrix.com
+*8114 ttclimited.com ttclimited.com   Hong Kong
+*8115 voip.iconsa.ca voip.iconsa.ca
+*8118 sip.globallvoip.com sip.globallvoip.com
+*8119 freespeech.co.uk freespeech.co.uk   United
+*8120 s3.easypabx.com s3.easypabx.com
+*8121 voip-tele.com voip-tele.com
+*8123 meent.net meent.net
+*8124 sip.inum.net sip.inum.net   United States
+*8128 sip.nnz-home.ru sip.nnz-home.ru   Russian
+*8132 vs.kxe.net vs.kxe.net
+*8135 sip.thebellows.us sip.thebellows.us
+*8137 pbx.247t.fiaxon.com pbx.247t.fiaxon.com
+*8138 tadmin-sip.csumain.csu.edu.au
+*8140 pbx1.econovox.net pbx1.econovox.net
+*8142 sip.tpad.com iptel.org   United States
+*8144 prayersdirect.com prayersdirect.com
+*8146 scylla.uwa.edu.au scylla.uwa.edu.au
+*8147 sip.commonline.dk Commonline   Denmark
+*8148 sip.nguyenandi.com sip.nguyenandi.com
+*8152 sip.increatum.com sip.increatum.com   Canada
+*8153 sip00.nyon.netcool.ch sip00.nyon.netcool.ch
+*8157 sip.tawag.ph sip.tawag.ph   Brazil
+*8158 pbx.thepowerpig.org pbx.thepowerpig.org   United
+*8159 newyork.roamingnumbers.com
+*8162 sip.affan.us sip.affan.us
+*8165 www.sip2mobile.dk www.sip2mobile.dk
+*8166 s-p-voip.de s-p-voip.de
+*8167 sip.totopos.de sip.totopos.de
+*8171 sip.megavox.com.ar Megavox   Argentina
+*8173 trx-103-9.cb.arvig.net trx-103-9.cb.arvig.net
+*8176 sip.pbxes.com sip.pbxes.com   Germany, Federal
+*8178 pbx.portaluniverse.com pbx.portaluniverse.com
+*8179 sip.freecalls.gr Freecalls.gr   Greece
+*8183 bdl.pl bdl.pl
+*8188 sip.didan.net sip.didan.net
+*8202 sip.rumodigital.com rumodigital   Portugal
+*8204 voip1.ans.com.au voip1.ans.com.au
+*8205 nic.at43.at nic.at43.at
+*8211 voip.idesegar.com voip.idesegar.com   Indonesia
+*8212 blarneyphone.com blarneyphone.com   United
+*8222 voip.usu.ac.id voip.usu.ac.id
+*8223 virtualphoneline.com virtualphoneline.com
+*8224 kts.asuscomm.com kts.asuscomm.com
+*8226 ns1.a1ipfone.com ns1.a1ipfone.com
+*8227 vgw1.link2voip.com vgw1.link2voip.com   Canada
+*8232 sip.jumpingcrab.com sip.jumpingcrab.com   United
+*8233 sip.indextw.com sip.indextw.com
+*8236 lnetechnologies.com Holston Valley Telephone
+*8238 sip.imath.be imath.be   Belgium
+*8240 batavo.yi.org batavo.yi.org
+*8242 sip.chipz.org sip.chipz.org
+*8243 ast1.ozsite.net ast1.ozsite.net
+*8244 siptel.pixin.net Pixin Research   Canada
+*8245 gatecontrol.net BlasterPhone   United States
+*8249 vp4.cpsnet.com.ar vp4.cpsnet.com.ar
+*8252 sip.asanga.com sip.asanga.com
+*8253 sipname.ru sipname.ru
+*8254 dynsip.org dynsip.org
+*8255 callslive.com callslive.com
+*8257 voip.brightstaronline.info
+*8258 sip.domtelecom.be sip.domtelecom.be   Belgium
+*8263 sip.goldpricehotline.com
+*8280 het.m83.net het.m83.net
+*8283 sip.freeconet.pl Freeconet   Poland, Republic of
+*8284 sip.apolka.eu sip.apolka.eu
+*8285 tan.voipoffice.org tan.voipoffice.org
+*8287 servertelecom.com servertelecom.com   Brazil
+*8288 voip.inforsolutions.com.br
+*8289 kingswood-consulting.co.uk
+*8291 sip.broadvox.com sip.broadvox.com
+*8292 antongruettner.de antongruettner.de
+*8293 sip.leadervoip.com sip.leadervoip.com
+*8296 pcwarranties.co.uk pcwarranties.co.uk
+*8297 sip.davidson.co.za sip.davidson.co.za
+*8298 voip.aptela.com voip.aptela.com
+*8301 yourpcpros.com yourpcpros.com
+*8302 ww1.eniex.net ww1.eniex.net   Hungary
+*8303 serv2.martindv.es serv2.martindv.es   Spain
+*8306 sip.opennet.ro opennet.ro   Romania
+*8307 sip411.com sip411.com
+*8308 sip.tedecall.com.ve TedeCALL   Spain  
+*8311 lemming.strangled.net lemming.strangled.net
+*8312 ipgw.dr.codian.com ipgw.dr.codian.com
+*8313 crunch.telephreak.org crunch.telephreak.org
+*8315 pbxes.de pbxes.org   Germany, Federal Republic
+*8330 norai.net norai.net
+*8332 ftp.houseofmarley.net ftp.houseofmarley.net
+*8333 sip.corbina.ru sip.corbina.ru
+*8334 medsip.dyndns-office.com
+*8335 cl1.glphone.com cl1.glphone.com
+*8336 sip.zipring.com sip.zipring.com
+*8337 sip.sezampro.rs Orion VoIP   Serbia  
+*8338 sip.wmc-telecom.net sip.wmc-telecom.net
+*8339 sip.ip24.no sip.ip24.no
+*8341 amoreal.net.ru amoreal.net.ru   Russian
+*8344 sip.msalkeld.com sip.msalkeld.com
+*8345 officedigits.net officedigits.net
+*8347 sipretail.sagitel.net sipretail.sagitel.net
+*8348 did.voicenetwork.ca did.voicenetwork.ca
+*8349 voip-ext.forward.co.uk voip-ext.forward.co.uk
+*8351 sip.voipsergipe.com.br Voipsergipe   Brazil
+*8354 voip.e-rpl.com voip.e-rpl.com
+*8355 sip.alobizden.com sip.alobizden.com
+*8358 localphone.com Localphone   United Kingdom
+*8359 home.squiggle.gen.nz home.squiggle.gen.nz
+*8361 int.provy.it int.provy.it
+*8362 sip.soyuzltd.net sip.soyuzltd.net
+*8364 realfone.net realfone.net
+*8365 sip.pbxmobile.com sip.pbxmobile.com
+*8369 berlin.selfhost.de berlin.selfhost.de
+*8370 sip.sdf.org SDF Public Access Unix System
+*8371 ast1.701email.com Private Site
+*8373 sip.trincoll.edu Trinity College   United States
+*8375 fast1.openface.ca fast1.openface.ca
+*8376 sip.persuasion.net.au sip.persuasion.net.au
+*8377 sip.lightspeeddesign.com
+*8380 sip.call-it.biz sip.call-it.biz
+*8382 sip.denetron.com sip.denetron.com   Mexico
+*8384 pbx.steadfast.net Steadfast Networks   United
+*8385 pbx.colobox.com pbx.colobox.com
+*8390 opera.rednote.net opera.rednote.net
+*8393 sip.mace-eng.co.nz sip.mace-eng.co.nz   New
+*8403 asterisk.naumen.kz asterisk.naumen.kz
+*8404 talkdigits.net talkdigits.net
+*8408 voip.clearpointel.ca voip.clearpointel.ca   United
+*8410 sip.volejlevne.cz sip.volejlevne.cz
+*8417 vftp.de vftp.de
+*8418 telephoneim.com telephoneim.com
+*8419 sip1.exetel.com.au sip1.exetel.com.au   Australia
+*8421 calltheus.com calltheus.com   United States
+*8425 pbx.sipforever.com SIP Forever   France
+*8429 sip.caronet.ro CARO Network   Romania  
+*8432 ps1.family-first.us ps1.family-first.us   United
+*8434 sip.overnet.com.ua sip.overnet.com.ua
+*8435 pbx.californiatelecom.com
+*8436 sip.phoneclubusa.com sip.phoneclubusa.com
+*8437 sip.cbi.ro sip.cbi.ro
+*8439 sip.stooge.com.au sip.stooge.com.au
+*8442 sip.fjallon.info sip.fjallon.info   France
+*8443 sip.macphone.net sip.macphone.net   Macedonia
+*8445 sip.ipvfone.com IPVFone  
+*8452 sip.mdb.com sip.mdb.com
+*8455 cybertheque.org cybertheque.org
+*8456 dial-proxy.rf.com dial-proxy.rf.com   Bahrain
+*8457 sip.bizy-b.com.au bizy-b.com.au   Australia
+*8460 sip.e-fono.com e-fono   Argentina
+*8461 sip.unsl.edu.ar sip.unsl.edu.ar
+*8462 sip.confirmail.net sip.confirmail.net
+*8466 sip.us.xiando.net sip.us.xiando.net
+*8467 sip.interlab.ait.ac.th sip.interlab.ait.ac.th
+*8471 sip.reciphone.com sip.reciphone.com
+*8472 sip.futel.com.ar sip.futel.com.ar
+*8473 sip.nexchange.com.br sip.nexchange.com.br
+*8474 onj7.andrelouis.com onj7.andrelouis.com
+*8483 sipme.nl sipme.nl
+*8485 sipgate.net sipgate.net
+*8486 lag.securinet.qc.ca lag.securinet.qc.ca
+*8487 talkonaut.com talkonaut.com   United States
+*8490 sip.wispa.it sip.wispa.it
+*8493 sip.voiceware.pl sip.voiceware.pl
+*8498 ambnet.us ambnet.us
+*8499 oregun.johnholtplc.com oregun.johnholtplc.com
+*8510 hq.tl hq.tl   United States  
+*8511 sip.meent.info sip.meent.info
+*8512 sip.virtual-tel.com sip.virtual-tel.com
+*8513 neuvoip.net neuvoip.net
+*8520 trixbox.hays.org Hays Private PBX   United States
+*8525 sip.comediacom.com sip.comediacom.com
+*8526 obuscall.kicks-ass.net obuscall.kicks-ass.net
+*8530 voip.oceanbrowser.com voip.oceanbrowser.com   New
+*8531 sip-27369.accounts.vocalocity.com
+*8532 sip.corbina.net Beeline (Corbina MSK)   Russian
+*8535 voip.baty.be voip.baty.be
+*8536 emarketfacil.com.br Emarketfacil   Brazil
+*8544 voip.fe.up.pt voip.fe.up.pt
+*8553 calls.telsoftnet.net calls.telsoftnet.net
+*8555 sip.mtele.com sip.mtele.com
+*8565 gm.slctech.org PentaGRF Inc.   Canada
+*8567 sip.neotele.com sip.neotele.com
+*8570 sip.us1.voip.ms Use *9780
+*8572 sip22.vozipsystem.com sip22.vozipsystem.com
+*8573 voip.instalinks.net Instalinks   India
+*8581 sip.ipmax.cl sip.ipmax.cl
+*8597 sip.ipvox.cz sip.ipvox.cz
+*8598 voip.callnfax.com voip.callnfax.com   Israel
+*8601 voip.i-full.com.ar voip.i-full.com.ar
+*8602 sip27.doesntexist.org sip27.doesntexist.org
+*8603 sip.atenda.com sip.atenda.com
+*8604 sip.dfear.co.uk sip.dfear.co.uk   United Kingdom
+*8605 nacional.callme.cl nacional.callme.cl
+*8610 zeatel.com zeatel.com
+*8612 sip.commsplanet.com sip.commsplanet.com
+*8614 vocal3.ipsound.net IPSound Networks   Canada
+*8619 telia.com telia.com
+*8620 sip.netzgehirn.de sip.netzgehirn.de
+*8622 gw1.fonet.dk gw1.fonet.dk   Denmark  
+*8623 sip.newage.co.il sip.newage.co.il
+*8624 sip.fth-devel.net FTH   Germany, Federal
+*8625 mutisoft.com mutisoft.com   Turkey
+*8626 cluon.com cluon.com   United States
+*8627 voip.seastar.net voip.seastar.net   United States
+*8628 voip001.cenbase.com voip001.cenbase.com
+*8629 pbx.nwarc.bcwarn.net pbx.nwarc.bcwarn.net
+*8630 sip.eskietel.ca eskietel.ca   Canada  
+*8631 mysipaccount.net mysipaccount.net
+*8632 um.hawkvoip.com um.hawkvoip.com
+*8633 thrust.helix.net.nz thrust.helix.net.nz
+*8634 sip.kdots.com sip.kdots.com
+*8636 anysip.zappmobile.ro anysip.zappmobile.ro
+*8637 asterisk1.kist.org asterisk1.kist.org
+*8639 shrewd.knigma.org shrewd.knigma.org
+*8640 ftsindy.com ftsindy.com   United States
+*8642 sip.vipconnectz.com sip.vipconnectz.com
+*8644 bell-me.net bell-me.net
+*8645 sip.sliktalk.com SlikTalk   United States
+*8647 sip.callsbell.com sip.callsbell.com   Saudi
+*8649 oandeoffice.com oandeoffice.com   Canada
+*8650 sip.michielkookt.nl sip.michielkookt.nl
+*8651 nome.no torfinnnome.com   Norway
+*8654 sip.kkh.vn sip.kkh.vn   Viet Nam
+*8655 ata.nymgo.com ata.nymgo.com
+*8657 sip.generalvoip.net General VoIP LLC   United
+*8658 sip.mls.com.br sip.mls.com.br
+*8660 sip.sonny.idv.tw sip.sonny.idv.tw   Taiwan,
+*8661 voip.digitalcom.com.ar Digital Com   Argentina
+*8662 sip.interlansolutions.net
+*8668 sip.donbon.net sip.donbon.net
+*8670 pbx1.afknet.at AFK Network Solutions GmbH
+*8671 sip.rebelhosting.net sip.rebelhosting.net
+*8673 jasongarland.com jasongarland.com
+*8674 dfr.dyndns-home.com dfr.dyndns-home.com
+*8675 sip.kseon.ru sip.kseon.ru
+*8677 sip.siprealm.com sip.siprealm.com
+*8678 voip2-mtl1.gtcomm.net voip2-mtl1.gtcomm.net
+*8679 sip.tykecom.com sip.tykecom.com   Canada
+*8680 sip.seslivoip.com sip.seslivoip.com
+*8682 sunapemobil.com Sunapemobil   Canada  
+*8683 paco.id.au paco.id.au
+*8684 sip.clickphone.ro ClickPhone Romania   Romania
+*8686 vnum.net vnum.net   France  
+*8688 tel.shlink.de tel.shlink.de
+*8693 odunix.org odunix.org
+*8698 sip.fastvoip.com sip.fastvoip.com   Taiwan,
+*8699 relay2.online.kz relay2.online.kz
+*8701 idc.kz idc.kz
+*8702 voip.mediastre.am voip.mediastre.am
+*8703 sip.smilevoip.com sip.smilevoip.com
+*8705 sip.sestelekom.com sip.sestelekom.com
+*8706 sip.comtube.es sip.comtube.es
+*8709 sip13.youroute.net sip13.youroute.net   India
+*8710 lviv-ua.com lviv-ua.com   Ukraine
+*8712 delta.bouel.net delta.bouel.net
+*8713 over.uk.to Overkill Turbo Server   Brazil
+*8716 conference.freeswitch.org
+*8717 phone1.thinkred.com.au phone1.thinkred.com.au
+*8720 sip.vadimgrinco.com sip.vadimgrinco.com
+*8721 s105860x.trixbox.fonality.com
+*8722 e164.carolinadigitalphone.com Carolina Digital
+*8723 sip.arminco.com sip.arminco.com   Armenia
+*8724 voip.unitech.uz voip.unitech.uz
+*8725 ringfree.com ringfree.com
+*8726 dialtheworld.com dialtheworld.com
+*8727 cjl.cc cjl.cc
+*8730 lnx.oso.ca lnx.oso.ca
+*8732 gw01.mobilware.com gw01.mobilware.com
+*8733 sip.divafone.com Divafone ltd   Italy
+*8734 dildano.hawaga.org.uk dildano.hawaga.org.uk
+*8739 ippi.fr ippi   France  
+*8742 sip.tenet.ua sip.tenet.ua
+*8743 sip.voipmonitoring.net sip.voipmonitoring.net
+*8745 sip.voipsecurity.com.br SipCode   Brazil
+*8747 voip.sh.cvut.cz voip.sh.cvut.cz
+*8750 toby.net toby.net
+*8752 sip.sip611.com sip.sip611.com   United States
+*8759 sip.netfonia.us sip.netfonia.us
+*8760 sip.netblue.com.br sip.netblue.com.br
+*8761 carrierx.us carrierx.us
+*8763 mail.infomagia.com mail.infomagia.com   Peru
+*8764 sip.dihucar.com sip.dihucar.com
+*8765 sip.dihucar.net sip.dihucar.net
+*8766 sip.voipmyway.com sip.voipmyway.com   United
+*8769 proxy.azulcom.com proxy.azulcom.com
+*8770 datacenter1.com.br
+*8771 sip.nerdsonlinux.net sip.nerdsonlinux.net
+*8772 sip.tarjetasalpormayor.com
+*8774 res1.voip.tarasol.com.jo
+*8775 sip.us.to sip.us.to
+*8776 dedhed.littlekeith.com dedhed.littlekeith.com
+*8777 sip.otscom.com OTSCOM   Canada  
+*8779 sip.fonaline.com sip.fonaline.com
+*8793 sagui.org sagui.org
+*8794 home.o-k.org.ua home.o-k.org.ua
+*8795 bergnetworks.com BergNETWORKS
+*8796 flashphone.ru flashphone.ru
+*8797 voip.jbo.com.au voip.jbo.com.au
+*8800 sip.thompson.us sip.thompson.us
+*8803 my.wayrah.com my.wayrah.com   Somalia, Somali
+*8804 sip.supervone.com sip.supervone.com
+*8805 sip.fonoip.com sip.fonoip.com
+*8807 torrentflux.callasd.com torrentflux.callasd.com
+*8808 sip.azulcom.net sip.azulcom.net
+*8810 dndn.venturevoip.com dndn.venturevoip.com
+*8813 pbx.sokhapkin.com pbx.sokhapkin.com
+*8814 sip.alliance-sd.com sip.alliance-sd.com
+*8815 sip.talknet.ca sip.talknet.ca
+*8818 sip.logmeon.com.br sip.logmeon.com.br
+*8819 ingeniumvoip.com ingeniumvoip.com
+*8820 sip.one2kall.com sip.one2kall.com
+*8825 didx.net didx.net
+*8826 sip.faleja.com sip.faleja.com
+*8830 srinith.com srinith.com
+*8832 row.vocaltone.net row.vocaltone.net
+*8833 sip.yinum.com.br sip.yinum.com.br
+*8834 smartbyte.de SMARTbyte Computer   Germany,
+*8839 ser.sipcode.com.br SipCode   Brazil  
+*8840 arsenieciprian.com arsenieciprian.com
+*8842 connectionserver2.12voip.com
+*8843 sip.aussiehq.net.au AussieHQ / Jumba - PBX
+*8848 sipproxy.taho.com.br sipproxy.taho.com.br
+*8849 sip.voipmundi.com sip.voipmundi.com
+*8851 tudomais.com.br tudomais.com.br
+*8852 sip.hobofish.net sip.hobofish.net
+*8853 solas.concerttelecom.com Concert
+*8854 us.venturavoip.net us.venturavoip.net
+*8857 talk.skrewthis.com talk.skrewthis.com
+*8859 ivg.crnet.net ivg.crnet.net   United States
+*8860 ns1.bit.co.nz ns1.bit.co.nz
+*8861 sip.freddavison.com sip.freddavison.com
+*8862 galacticbell.com galacticbell.com
+*8863 sip.seistrup.dk Seistrup   Denmark  
+*8864 roshan.info roshan.info   Australia
+*8866 sip.webteyiz.com sip.webteyiz.com
+*8868 schneider.id.au schneider.id.au
+*8869 sip.my-comm-card.com sip.my-comm-card.com
+*8871 flatplanetphone.net flatplanetphone.net
+*8873 voip.xpand.org voip.xpand.org
+*8875 voip.pado.net voip.pado.net
+*8876 voip.w3.org voip.w3.org   India
+*8877 proxy.sipthor.net SIP2SIP.info   Netherlands
+*8878 jemworks.org jemworks.org
+*8890 pbx001001.telesprite.com
+*8891 sip.x-it.org sip.x-it.org
+*8892 voip.lipi.go.id voip.lipi.go.id
+*8894 sip.call-noodle.com sip.call-noodle.com
+*8895 sip-proxy.jibtel.com sip-proxy.jibtel.com
+*8899 sip.exxu.net sip.exxu.net
+*8900 sip.davidm.es sip.davidm.es
+*8902 sip.actfone.com sip.actfone.com   Maldives,
+*8903 mocicore.com MociCore   Canada  
+*8905 land1.iponlinephones.com iP online Phones
+*8907 sip.supremavoip.com.br sip.supremavoip.com.br
+*8908 try.wideopenwest.com
+*8910 sip.datenimperator.de sip.datenimperator.de
+*8911 sip.bastionnet.com sip.bastionnet.com
+*8913 unisign.com.ua unisign.com.ua
+*8914 sip.maxvoice.com.br MaxVoice   Brazil
+*8916 sip.omnianet.it sip.omnianet.it
+*8917 freepbx.tech-geeks.dk freepbx.tech-geeks.dk
+*8918 sip.btrex.com sip.btrex.com
+*8919 sip.obaip.com.br sip.obaip.com.br
+*8923 sip.aplworldwide.com sip.aplworldwide.com
+*8932 sip.kevinlynn.com sip.kevinlynn.com   United
+*8933 voip.contrabanda.org voip.contrabanda.org
+*8936 sip.dot.id.au sip.dot.id.au
+*8940 sip.tellfree.net sip.tellfree.net
+*8941 sip.ima.cz sip.ima.cz
+*8942 sip.huizenwireless.nl sip.huizenwireless.nl
+*8946 usgsy.com usgsy.com   United States
+*8947 treadles.ca treadles.ca
+*8950 asterisk.ev6.net asterisk.ev6.net
+*8952 gw809x.sofaware.net gw809x.sofaware.net
+*8953 djbobcat.webhop.net djbobcat.webhop.net   United
+*8954 sip.linphone.org sip.linphone.org   Germany,
+*8956 sip.truecard.biz sip.truecard.biz
+*8958 sip.voipms.com.br sip.voipms.com.br
+*8960 voip.mouthmun.com voip.mouthmun.com
+*8961 sipkom.com sipkom.com
+*8962 plm.swopusa.org plm.swopusa.org   United States
+*8966 depannone.com depannone.com
+*8967 kristinehamnk1.com kristinehamnk1.com
+*8968 ipvone.com ipvone.com
+*8969 voip1.tpnet.co.nz voip1.tpnet.co.nz
+*8972 sip.q9.ax.lt sip.q9.ax.lt
+*8974 sip.eridani.co.uk sip.eridani.co.uk
+*8976 thebearcave.net.nz thebearcave.net.nz   Canada
+*8977 sip.covert.org sip.covert.org
+*8978 sip.npr.org sip.npr.org
+*8979 sip.sat-service.dk sip.sat-service.dk
+*8980 sip.ip-telefon.name sip.ip-telefon.name
+*8981 ip-telefonshop.info ip-telefonshop.info
+*8983 voip.entercomargentina.com.ar
+*8986 telefonemundial.com telefonemundial.com   Brazil
+*8987 sip.dyndns.nu sip.dyndns.nu
+*8989 sip01.brains.net sip01.brains.net
+*8990 ip-telefonshop.org ip-telefonshop.org
+*8991 sip.legallyrussia.com sip.legallyrussia.com
+*8992 sip.globaltel.dk GlobalTel International
+*8993 sip.interlansolutions.com
+*8995 telecodex.com telecodex.com   Canada  
+*8996 sip.data-station.dk sip.data-station.dk
+*8999 vopi-service.com vopi-service.com
+*9010 sip.callbook.nu sip.callbook.nu
+*9014 sip.hebbnetworks.com Hebb Networks   United States
+*9015 vnsip.uni.cc vnsip.uni.cc
+*9016 sip4sip.net sip4sip.net
+*9017 sip.talkshoe.com sip.talkshoe.com
+*9018 sip.goughcommunications.com
+*9023 sip.voiptotal.info sip.voiptotal.info   Brazil
+*9024 sip.clickncallnow.com sip.clickncallnow.com
+*9025 gw1.carditel.com gw1.carditel.com   Spain
+*9026 sip.future-nine.com sip.future-nine.com   United
+*9030 sip.imtel.com sip.imtel.com
+*9031 sip.ligvoip.com.br sip.ligvoip.com.br   Brazil
+*9033 proxy.0cpm.nl proxy.0cpm.nl
+*9034 gw-1.voip.glis.cc gw-1.voip.glis.cc
+*9035 sip.prosoftstudio.com sip.prosoftstudio.com
+*9037 sipproxy.dogantelekom.com
+*9039 sip.voxgate.biz sip.voxgate.biz
+*9043 sip.to-ligado.com sip.to-ligado.com   Brazil
+*9048 sw1.voiptrex.com sw1.voiptrex.com
+*9050 voicebyip.com voicebyip.com   United States
+*9051 pbx.gen.net.uk pbx.gen.net.uk
+*9054 sip.yupeephone.com sip.yupeephone.com   United
+*9055 voip.inforeseau.net voip.inforeseau.net
+*9056 voip.howtoforge.dk voip.howtoforge.dk
+*9058 www.adisanggoro.net www.adisanggoro.net
+*9063 mypbxadmin.com mypbxadmin.com
+*9064 sip.callarc.com sip.callarc.com   United States
+*9066 ular.lviv.ua ular.lviv.ua
+*9067 sip.indvoip.com sip.indvoip.com
+*9068 mattos.blogsite.org mattos.blogsite.org
+*9071 on9.hk on9.hk
+*9073 sip.worldfone.us sip.worldfone.us   Australia
+*9074 sip.ahatelcom.com sip.ahatelcom.com
+*9078 sip1.wacrm.com sip1.wacrm.com
+*9080 trixbox.texmo.com trixbox.texmo.com
+*9083 framevoice.com framevoice.com   United States
+*9085 ipshka.com ipshka.com
+*9087 mail.digicom-ph.com mail.digicom-ph.com   United
+*9088 sip.voiceone.be sip.voiceone.be
+*9090 sip.vdmo.net sip.vdmo.net
+*9091 sip.iepa.net IEPA.net   Italy  
+*9092 sip.sohocomunicaciones.com.ar
+*9093 sip.foxhollow.ca sip.foxhollow.ca
+*9095 sip.vinota.com sip.vinota.com
+*9096 clash-server.net clash-server.net
+*9097 pepphone-free.de pepphone-free.de
+*9100 viphone.com.ua viphone.com.ua
+*9102 blo.me.uk blo.me.uk
+*9103 sip.globalnet.hn sip.globalnet.hn
+*9104 voice.omniphasic.com voice.omniphasic.com
+*9105 hyper.sinus.cz sinus.cz   Czech Republic
+*9106 voipservers.com.ar voipservers.com.ar
+*9107 sip.lancs.ca sip.lancs.ca
+*9108 sip.packetswitcher.net sip.packetswitcher.net
+*9121 sip.westcoasthosting.com westcoasthosting.com
+*9122 sip.ladigitalnetworks.com
+*9123 pmackinnon.ody.ca pmackinnon.ody.ca
+*9125 sip.carsenie.ro sip.carsenie.ro
+*9126 voip.latoday.net voip.latoday.net
+*9127 kallmall.com kallmall.com
+*9128 dvcpctelecom.com pctelecom
+*9129 sip.it-electronic.dk sip.it-electronic.dk
+*9131 sip.metroglobal.com.ar sip.metroglobal.com.ar
+*9132 sip.voixio.com sip.voixio.com
+*9134 sip.irisoptik.com sip.irisoptik.com
+*9136 www.netoxapps.com www.netoxapps.com
+*9140 e164.gl e164.gl
+*9141 pbxnyc.interceltelecoms.net
+*9142 sip.xweb.com.au sip.xweb.com.au
+*9143 msatt.64x.org MSATT   United Kingdom  
+*9145 news-galaxy.com news-galaxy.com
+*9147 wombles.org wombles.org
+*9151 sip.sipport.de sip.sipport.de
+*9153 sk880.sktalk.com sk880.sktalk.com
+*9155 voip.gameslum.org voip.gameslum.org
+*9156 sip.mak-tel.net sip.mak-tel.net   Macedonia
+*9157 outercore.com outercore.com
+*9158 5ac3fda5.bb.sky.com 5ac3fda5.bb.sky.com   United
+*9162 oltel.org oltel.org
+*9164 sip.clickkabayan.com sip.clickkabayan.com
+*9166 sip.e-utp.net sip.e-utp.net
+*9168 sip.evanshost.com sip.evanshost.com
+*9170 sip.comercialvoip.com sip.comercialvoip.com
+*9171 sip.crazyfoon.com sip.crazyfoon.com  
+*9172 digiPBX.info digiPBX.info
+*9173 sip.gountimed.com sip.gountimed.com
+*9178 voip.advancedat.us voip.advancedat.us   United
+*9179 voip.evers-online.net voip.evers-online.net
+*9181 numbox.fr numbox.fr   France  
+*9185 sip.ramalvoip.com.br sip.ramalvoip.com.br
+*9186 digicom.no-ip.biz digicom.no-ip.biz
+*9187 sip.torok.us sip.torok.us
+*9188 zoo.zwizwa.be zoo.zwizwa.be   Belgium
+*9189 sipmobile.ru sipmobile.ru   Russian Federation
+*9191 sip.exxu.com sip.exxu.com
+*9192 ezdray.com ezdray.com
+*9195 sip.unixbr.com.br sip.unixbr.com.br   Brazil
+*9196 softswitch.ic.kz Info-Center ISP   Kazakhstan
+*9198 gerdshikov.name gerdshikov.name
+*9202 crier.ohmllc.com crier.ohmllc.com
+*9204 trixzone.com trixzone.com
+*9205 sip2.melig.com.br sip2.melig.com.br
+*9206 shaw-group.biz shaw-group.biz
+*9207 caralbgms.dynip.sapo.pt caralbgms.dynip.sapo.pt
+*9209 sip.comtube.cn sip.comtube.cn  
+*9211 sip.exxu.org sip.exxu.org
+*9213 reg.sip2.org sip2.org   Czech Republic
+*9214 sip.fraser-green.com Fraser-Green   Norway
+*9216 voip.j5web.net J5 Network VoIP   Spain
+*9217 sipx.adelantos.com.py Adelantos   Paraguay
+*9218 mtgambier.net mtgambier.net   Australia
+*9219 sip.tartel.pl sip.tartel.pl
+*9222 vbx.bitnetix.com Bitnetix   United States
+*9223 sip.centervoice.com.br sip.centervoice.com.br
+*9224 v1.miriamtelecom.co.uk v1.miriamtelecom.co.uk
+*9225 nobulus.com nobulus.com
+*9229 sip.omnitor.se sip.omnitor.se
+*9234 sip.addphone.net AddPhone   Argentina
+*9235 sip.telebrasilvoip.com.br
+*9238 null-lab.hacklabs.org null-lab.hacklabs.org
+*9239 sip.unitele.es sip.unitele.es
+*9240 recon.unfx.net recon.unfx.net
+*9241 sip.eeyagi.net sip.eeyagi.net
+*9242 inextpbx.itsc.vn IT & Telecom Services Corp -
+*9243 login.zipdx.com login.zipdx.com
+*9244 keshercommunications.com Kesher Communications Ltd
+*9245 sip.webbond.net sip.webbond.net
+*9246 sip.thisisvoip.co.uk sip.thisisvoip.co.uk
+*9248 gippsweb.com gippsweb.com
+*9255 sip.voxtoip.com.br VoxToIP   Brazil  
+*9256 remote.kolapara.com remote.kolapara.com
+*9258 sip.halfmind.com sip.halfmind.com
+*9259 sip.virphone.net VirPhone.net   United States
+*9260 voip.milineavirtual.com voip.milineavirtual.com
+*9261 sip.voipx.org sip.voipx.org   United Kingdom
+*9263 sip.ph sip.ph   Philippines  
+*9264 totalteam.co.nz totalteam.co.nz
+*9265 sip.swill.org sip.swill.org
+*9266 gate.tms-itdienst.at plm.swopusa.org   United
+*9267 snulbug.mtview.ca.us snulbug.mtview.ca.us
+*9269 sip.x2n.net X2 Networks   Canada  
+*9270 ssh.diatech.info ssh.diatech.info
+*9271 sip.brightvic.info Bright-NET   Australia
+*9272 sip.tee-pad.com sip.tee-pad.com
+*9273 middling.me.uk middling.me.uk
+*9274 voip.giulio79.com voip.giulio79.com   Italy
+*9276 dev3.avecezar.org dev3.avecezar.org
+*9277 sip.boot-able.com.ar sip.boot-able.com.ar
+*9278 downward.id.au downward.id.au   Australia
+*9279 iptv.wiasys.net iptv.wiasys.net   Malaysia
+*9281 canphone.net canphone.net   United States
+*9282 voip.advancedat.com voip.advancedat.com
+*9287 sip.sipmobilevoip.net sip.sipmobilevoip.net
+*9288 sip.tomaszpado.com sip.tomaszpado.com
+*9294 sip.argeris.net sip.argeris.net
+*9296 sip.everdot.org sip.everdot.org
+*9297 tel.xifone.com tel.xifone.com
+*9299 sip.voipon.co.uk sip.voipon.co.uk
+*9300 sip.sis2k.net sip.sis2k.net   Canada
+*9303 sip.22call.com sip.22call.com
+*9305 tobytel.com tobytel.com
+*9306 pbx.xapt.ca pbx.xapt.ca
+*9309 sip.telefonex.com.br sip.telefonex.com.br
+*9310 sip.huergo.edu.ar Instituto Industrial Luis A.
+*9311 alpha-ss.inter-tel.com alpha-ss.inter-tel.com
+*9312 sip.dilovoip.com sip.dilovoip.com   Ireland,
+*9313 sip.bronxdotnet.nl sip.bronxdotnet.nl
+*9319 talkviaip.com talkviaip.com
+*9322 pbx.sinalco.com.ar pbx.sinalco.com.ar
+*9324 fobos.ricomcom.com fobos.ricomcom.com
+*9328 sip.voipbrasil.tk VoipBrasil   Brazil
+*9335 pbx2.gplhost.com pbx2.gplhost.com   Slovakia
+*9336 call.recnet.com call.recnet.com
+*9337 srr.pp.ru srr.pp.ru
+*9339 pbx.ronaldgibson.com pbx.ronaldgibson.com
+*9340 asterisk1.glassberg.org asterisk1.glassberg.org
+*9342 edm01.dlinkddns.com edm01.dlinkddns.com
+*9343 sip.tropo.com sip.tropo.com
+*9345 cubitel.org Cubitel ISP   Russian Federation
+*9346 voip.sip-service.com voip.sip-service.com
+*9347 pbx.koyamalabs.com pbx.koyamalabs.com   Japan
+*9349 thewall.unixway.org.ua thewall.unixway.org.ua
+*9351 sip.svpal.org sip.svpal.org
+*9352 sip.haiduc.net Haiduc NET   Romania
+*9353 lon-pbx-6.21cphone.net lon-pbx-6.21cphone.net
+*9357 sip.v3.ro V3 Telecom   Romania
+*9358 voip.aptus.co.tz Aptus VoIP   Tanzania
+*9359 sip.ipcomms.net sip.ipcomms.net
+*9360 daemonsg.dyndns-server.com
+*9362 sip.dreamtel.in sip.dreamtel.in
+*9368 sip.atlasbiz.com sip.atlasbiz.com   United
+*9371 sip.skypbx.net sip.skypbx.net   France
+*9372 Sip.paylink.fr Sip.paylink.fr
+*9373 sip.call-box.cn sip.call-box.cn
+*9374 danawellness.co.nz danawellness.co.nz
+*9376 sip.voip.kz sip.voip.kz
+*9378 daqiqa.com daqiqa.com
+*9380 fuckj00.net fuckj00.net
+*9383 sip.digitalriver.net.au sip.digitalriver.net.au
+*9384 sip.xol.jo sip.xol.jo
+*9385 asteriskmx.com asteriskmx.com
+*9387 gk.meewadaya.com gk.meewadaya.com
+*9393 santeli.net santeli.net
+*9395 buero-linz.pixelkinder.net
+*9396 sip.clubtropica.com sip.clubtropica.com
+*9397 sip.voipea.com www.voipea.com   Colombia
+*9398 ct1.dabba.net ct1.dabba.net
+*9399 sip.archermind.com ArcherMind Technology
+*9403 sip.ip-telefoni.gl sip.ip-telefoni.gl
+*9404 voip.linuxnet.se voip.linuxnet.se
+*9405 telematics.dk telematics.dk
+*9407 red.onecontact.ch red.onecontact.ch
+*9408 asterisk.ev4.org asterisk.ev4.org
+*9409 sip.telefoniamoderna.com
+*9410 servidorvoip40.com servidorvoip40.com
+*9411 voip.andredecarvalho.com voip.andredecarvalho.com
+*9412 ceng-ua.com ceng-ua.com
+*9414 sip.2mydns.com sip.2mydns.com   United States
+*9416 bill.ontelnet.com bill.ontelnet.com
+*9418 sandbox.wedjaa.net sandbox.wedjaa.net
+*9419 totalueberwachung.de totalueberwachung.de
+*9420 pbxes.4any.com pbxes.4any.com
+*9421 sip.gunionline.com sip.gunionline.com   Austria
+*9422 sip.easycall.gr sip.easycall.gr
+*9423 sunny.no-ip.net sunny.no-ip.net   Brazil
+*9425 elastix.koalastar.net elastix.koalastar.net
+*9426 sip.myactivedirectory.com
+*9427 s0rs-6xkdgr5xls.s0rs.net
+*9428 sip.rephou.com Testing Do Not Use Yet   United
+*9429 sip.abc-voip.com sip.abc-voip.com   Philippines
+*9430 sip.voipser.com.br VoIPser   Brazil  
+*9432 arbelosservices.com arbelosservices.com
+*9433 sip.lptelecom.com.br sip.lptelecom.com.br
+*9434 sip.1callu.de sip.1callu.de
+*9435 server.mmae.cl server.mmae.cl
+*9436 sip.voip323.com.ar sip.voip323.com.ar
+*9437 voip.dialdial.com voip.dialdial.com   United
+*9438 datacenter2go.com datacenter2go.com
+*9440 pbx.0x0b.net pbx.0x0b.net
+*9441 sip.networkseven.net sip.networkseven.net
+*9442 telopar.us telopar.us
+*9443 sip.magnussolution.com sip.magnussolution.com
+*9446 pennywellvoice.com pennywellvoice.com   United
+*9448 moootown.com moootown.com
+*9449 sip.drachma.com.au sip.drachma.com.au
+*9450 sip2.callmyway.net sip2.callmyway.net
+*9451 sip.insane.co.nz sip.insane.co.nz
+*9453 vmsbox.com vmsbox.com
+*9454 sip.renet.com.au sip.renet.com.au   Australia
+*9456 ubiqtech.net ubiqtech.net
+*9457 vozz.com.br vozz.com.br   Brazil  
+*9458 flaphone.com flaphone.com
+*9459 sip.voipsmash.com sip.voipsmash.com
+*9460 sip.biuro.crowley.pl sip.biuro.crowley.pl
+*9461 sip.skypetrunk.com sip.skypetrunk.com
+*9462 sip.liazo.fr sip.liazo.fr
+*9463 clan-ops.com.ar Clan OpS Argentina   Argentina
+*9466 sip01.cableway.com.ar sip01.cableway.com.ar
+*9467 starcourt.darktech.org starcourt.darktech.org
+*9468 sip.cyanidehouse.ru sip.cyanidehouse.ru
+*9469 lost.net.ua lost.net.ua   Ukraine
+*9470 sip.lavidesglobal.com sip.lavidesglobal.com
+*9472 r2voip.net r2voip.net
+*9473 platforma.tk24telecom.pl platforma.tk24telecom.pl
+*9474 sip.teleflash.com teleflash.com   Germany, Federal
+*9475 pbx.voipone.com.br pbx.voipone.com.br
+*9476 sip.eqnet.us EQNET   United States  
+*9477 sip2sip.net sip2sip.net
+*9478 sip.positive.hu sip.positive.hu   Hungary
+*9482 sip.kalaam-telecom.com sip.kalaam-telecom.com
+*9483 rhino-tde.net RHINO-TDE.NET   Spain
+*9484 public.saturn-net.ch public.saturn-net.ch
+*9485 sip.npl-usa.com sip.npl-usa.com
+*9486 thonos.net thonos.net   Chile  
+*9487 rajlabs.net rajlabs.net
+*9488 voip.fort-dks.dp.ua voip.fort-dks.dp.ua
+*9489 private-network.ru private-network.ru
+*9490 sauropod.org sauropod.org   United States
+*9491 sip.wizz-telecom.com sip.wizz-telecom.com
+*9492 landwarsin.asia landwarsin.asia
+*9494 sip.ip2pbx.net IP2PBX   United States
+*9495 pbx.sisdipe.com.br Sisdipe   Brazil  
+*9496 phone.sys.pro.br phone.sys.pro.br   Brazil
+*9497 box.aaida.ca box.aaida.ca
+*9498 sip.worldlink-mobile.net
+*9499 pires.us.to pires.us.to   Brazil
+*9501 sip.lietz.com.vn sip.lietz.com.vn
+*9502 leo.mobilcom.hu leo.mobilcom.hu
+*9503 tinyhost.cv.ua tinyhost.cv.ua
+*9504 sip.yourvoipcompany.com sip.yourvoipcompany.com
+*9505 sip.chuckwahlstrom.com sip.chuckwahlstrom.com
+*9506 talk.fedoraproject.org talk.fedoraproject.org
+*9508 vlaadi.com vlaadi.com
+*9509 webcard.com.mx webcard.com.mx   Mexico  
+*9510 call.ciberfta.com call.ciberfta.com
+*9511 youspeek.com Bluewire communications  
+*9512 sip.midiabyte.com.br Midiabyte Informatica
+*9516 voip.etoilediese.fr voip.etoilediese.fr
+*9517 gw1.unifycall.com gw1.unifycall.com
+*9518 incoming.voipwelcome.com VOIPo   United States
+*9519 sip.clicktelecom.co.in sip.clicktelecom.co.in
+*9520 betrj.zyns.com betrj.zyns.com
+*9521 voip.ithinksimple.net voip.ithinksimple.net
+*9523 voiper.xen.prgmr.com voiper.xen.prgmr.com
+*9524 sipsorcery.com SIPSorcery   Mexico  
+*9526 pbx.asplord.com pbx.asplord.com
+*9527 sip.ultivoice.com sip.ultivoice.com
+*9528 sip.voipprovedor.net sip.voipprovedor.net
+*9529 shak.ddns.info shak.ddns.info
+*9532 uk44.telenosis.co.uk uk44.telenosis.co.uk
+*9533 ippbx.rekayasa.com ippbx.rekayasa.com
+*9535 test test
+*9537 sip.tn.edu.tw sip.tn.edu.tw
+*9538 sip.goodman.tw sip.goodman.tw
+*9551 gehlsen.dk gehlsen.dk
+*9553 300100.odorik.cz Odorik.cz   Czech Republic
+*9557 sip.qsi.com.tw sip.qsi.com.tw
+*9558 080.myphs.net 080.myphs.net
+*9560 stc.euroset.ru stc.euroset.ru
+*9562 sip.aba12.com sip.aba12.com
+*9563 sip.thorley.biz sip.thorley.biz
+*9564 pbx.0cp.org pbx.0cp.org
+*9565 ipbx.tomatte.com ipbx.tomatte.com
+*9566 sip.avram.com.au sip.avram.com.au
+*9567 sipproxy42.govoip.com.br
+*9568 sipp.nic2globe.com NIC2GLOBE   Nicaragua
+*9569 sip.nanocom.co.il sip.nanocom.co.il   Israel
+*9570 srsvoip.com srsvoip.com
+*9571 center.aky.cl center.aky.cl
+*9572 sx.pathephone.eu Pathephone LLC. Europe.
+*9574 yayaphone.net yayaphone.net
+*9577 www2.socalroy.com www2.socalroy.com
+*9578 sip.neolix.com sip.neolix.com
+*9580 pbx.lair.us pbx.lair.us
+*9581 206-248-137-51.dsl.teksavvy.com
+*9582 sip.thefeaturephone.com sip.thefeaturephone.com
+*9583 sip.lapyme.com sip.lapyme.com
+*9584 mirrorservice.com mirrorservice.com
+*9585 sip.i2telecom.com sip.i2telecom.com
+*9586 sip.brasvoice.com.br sip.brasvoice.com.br
+*9587 pbx.goha.ru GoHa.Ru  
+*9589 sabavoip.com sabavoip.com   United States
+*9591 voiptravel.com.ar voiptravel.com.ar
+*9592 nayon.fr nayon.fr
+*9593 voip.designet.com voip.designet.com
+*9595 voip.newaccess.ch voip.newaccess.ch   Switzerland
+*9596 sip.voiproot.com sip.voiproot.com
+*9597 sip.embratel.net.br Embratel   Brazil
+*9598 sip.nullcow.com NULLCOW
+*9599 bgspirit.org bgspirit.org
+*9600 sip.meent.eu sip.meent.eu
+*9602 sip.comtube.ru Comtube   Russian Federation
+*9604 pbx.aci.com.uy pbx.aci.com.uy   Uruguay
+*9611 pbx.abilityone.net pbx.abilityone.net
+*9613 sip.onetoone.com.mx sip.onetoone.com.mx
+*9614 server1.amrocomputers.net Amro Computers
+*9615 global2call.com global2call.com
+*9616 sipreg.midwestsip.com sipreg.midwestsip.com
+*9617 nokia.com nokia.com
+*9618 vs1.contractsg.com vs1.contractsg.com   United
+*9619 madnetwork.org madnetwork.org   Germany, Federal
+*9621 sip.4m.com.pe sip.4m.com.pe
+*9622 daveoxley.co.uk daveoxley.co.uk
+*9623 sip1.oktel.com.au sip1.oktel.com.au
+*9624 home.warten.co.uk home.warten.co.uk   United
+*9625 pbx.srvj1.com pbx.srvj1.com
+*9626 saadsip.saad.com.sa saadsip.saad.com.sa
+*9632 sipb.fulcrumit.eu sipb.fulcrumit.eu
+*9633 viatalk.com.np viatalk.com.np
+*9634 sip-inbound.yourphone.net.au
+*9635 sip.telefoneinternet.com.br Telefone Internet
+*9637 pbx.sip-sip.com pbx.sip-sip.com
+*9638 sip.lingona.com sip.lingona.com
+*9639 sip.hyundai.com.ar Hyundai Motor Argentina S.A.
+*9641 sip.vox1.com.br sip.vox1.com.br   Brazil
+*9642 phone.avelia.no Avelia   Norway
+*9643 sip.encours.org sip.encours.org
+*9648 home.blop.be home.blop.be
+*9649 sip.teiavoip.com.br sip.teiavoip.com.br
+*9650 vpntw.9966.org vpntw.9966.org
+*9651 sip.doro.com sip.doro.com
+*9654 sip.olden.ch sip.olden.ch   Switzerland
+*9655 sip.visualhosting.net sip.visualhosting.net
+*9656 sip1.talkisfree.com sip1.talkisfree.com
+*9657 sip.gsmsupport.com sip.gsmsupport.com
+*9658 sip.globalvoipbrasil.com.br
+*9659 atc0.co.uk atc0.co.uk   United Kingdom
+*9660 l33tphreak.com l33tphreak.com
+*9661 haven.thecrisb.co.uk haven.thecrisb.co.uk
+*9662 sip2.isip-iphone.com sip2.isip-iphone.com
+*9663 sip.badweather.net sip.badweather.net   Canada
+*9665 pauldasilva.net pauldasilva.net   United States
+*9666 sip.knauber.name sip.knauber.name   France
+*9667 voipforu.com voipforu.com
+*9668 neginfinity.net neginfinity.net
+*9669 ainex.net AINEX Networking   Germany, Federal
+*9672 zeevoice.com zeevoice.com
+*9673 sip.webwarp.com sip.webwarp.com
+*9674 opensips.org opensips.org   United States
+*9675 sip.ispbrasil.com.br sip.ispbrasil.com.br
+*9677 dns1.acuarius.org dns1.acuarius.org
+*9678 voip.rtcubed.net voip.rtcubed.net
+*9679 sip.yufeng.net sip.yufeng.net   China, People's
+*9680 pbx.negor.gov.ph pbx.negor.gov.ph
+*9681 z3.saladisdead.com z3.saladisdead.com
+*9682 talk37.ru talk37.ru   Russian Federation
+*9683 voip.olehphone.com voip.olehphone.com
+*9685 sip.mivor.cz sip.mivor.cz
+*9686 jquantlib.org jquantlib.org   United Kingdom
+*9689 remote.theoremllp.com remote.theoremllp.com
+*9690 pegasusrepair.com pegasusrepair.com
+*9691 firstreef.net First Reef sailing   United
+*9692 FarhadRaeis.DynDNS.org FarhadRaeis.DynDNS.org
+*9694 psip.pcphoneunlimited.com
+*9695 pbx.sdcsolutions.com pbx.sdcsolutions.com
+*9696 sip.omatthey.com sip.omatthey.com
+*9697 sip.globellone.com sip.globellone.com
+*9698 sip.iptogo.net sip.iptogo.net
+*9699 carbonlife.office-on-the.net
+*9702 pbx1.callsouth.com callsouth
+*9703 revolvermusic.managevoip.net Entanet   United
+*9704 telmax.undo.it telmax.undo.it
+*9705 sip.arquiterra.com.mx sip.arquiterra.com.mx
+*9706 sip.dyna.cn sip.dyna.cn
+*9707 pbx.purpleoranges.com.au
+*9709 pbx1.wice.ca pbx1.wice.ca
+*9711 alansspace.info AlansSpace (private)   United
+*9712 collo.net collo.net
+*9713 sip.crazyvoip.com.br sip.crazyvoip.com.br
+*9714 sip.mymesra.biz Mymesra   Malaysia  
+*9716 sip.capcom.net sip.capcom.net
+*9717 sip.fsfeurope.org sip.fsfeurope.org
+*9719 pbx.trinler.net pbx.trinler.net
+*9721 jameswhale.net jameswhale.net
+*9722 sip.myvoipreselling.com sip.myvoipreselling.com
+*9723 reengle.com reengle.com
+*9726 waterloo.achris.net waterloo.achris.net
+*9727 revidox.com.ve revidox.com.ve   Venezuela
+*9728 sip.resnet.tuskegee.edu sip.resnet.tuskegee.edu
+*9730 sip.greymouse.com.au sip.greymouse.com.au
+*9732 sip.netcq.cc sip.netcq.cc   China, People's
+*9733 datastorm.nl datastorm.nl
+*9734 pbx.oak-wood.co.uk pbx.oak-wood.co.uk
+*9735 mirfon.ru MIRFON LTD   Russian Federation
+*9736 sip.cybernetik.net sip.cybernetik.net
+*9739 sip.86call.net sip.86call.net
+*9740 ncall.net ncall.net
+*9741 vsch01.searchtecnologia.com.br
+*9744 seo-3rb.com seo-3rb.com
+*9745 sip.micuentavoip.com sip.micuentavoip.com
+*9747 sip.cavitus.com sip.cavitus.com
+*9749 emeavcs.tandberg.com emeavcs.tandberg.com
+*9750 remote.aucklandit.co.nz remote.aucklandit.co.nz
+*9751 hosting.virtual.net.mx hosting.virtual.net.mx
+*9752 pbx.civicosnetworking.com
+*9754 voizphoneip.com.ar voizphoneip.com.ar
+*9755 s.mondial-tel.com s.mondial-tel.com
+*9756 unitrunks.open-asterisk.org
+*9757 sip.voipinoy.org sip.voipinoy.org
+*9759 voip.responsiveweb.net voip.responsiveweb.net
+*9760 sip.osu.cz sip.osu.cz
+*9761 sip.xoit.biz sip.xoit.biz
+*9762 sip.ovatel.cz sip.ovatel.cz
+*9764 sip.sflphone.org sip.sflphone.org
+*9765 phones.mavericklabel.com MaverickLabel.Com
+*9767 sip.rejas.se sip.rejas.se
+*9768 lab.bryceporter.info lab.bryceporter.info
+*9770 pbx.bramptontel.com pbx.bramptontel.com   Canada
+*9771 sip.skype.com sip.skype.com
+*9773 as.commx.net as.commx.net
+*9774 ims01.digisat.com DigiSat Technology Limited
+*9775 sx01.glovip.com sx01.glovip.com
+*9777 incubator.jict.co.id voip.jict.co.id   Indonesia
+*9778 server1.vip-connect.com server1.vip-connect.com
+*9779 sip.ellenburg.net sip.ellenburg.net   United
+*9780 sip.us1.voip.ms sip.us1.voip.ms
+*9782 sip.us3.voip.ms sip.us3.voip.ms   United States
+*9783 sip.us4.voip.ms sip.us4.voip.ms
+*9784 sip.zantala.com sip.zantala.com   United States
+*9785 sipmarket.net sipmarket.net
+*9786 pbx2.dxpbx.net pbx2.dxpbx.net
+*9789 voip.eunet.rs voip.eunet.rs
+*9791 sip.zadarma.com sip.zadarma.com   Russian
+*9792 sip.eumx.net sip.eumx.net
+*9793 sip.askew.net sip.askew.net
+*9795 sip.vbw.com.br sip.vbw.com.br
+*9796 voip.ouze.org voip.ouze.org
+*9798 osobowice.pl osobowice.pl
+*9800 sip.ms6.com.br sip.ms6.com.br
+*9801 sip.voip24.ch sip.voip24.ch   Switzerland
+*9802 sip.tagcomp.com sip.tagcomp.com
+*9804 moon.solmu.org moon.solmu.org
+*9805 cdr.aircellvoip.com cdr.aircellvoip.com
+*9806 iraktel.com iraktel.com
+*9808 ohmycalls.com ohmycalls.com
+*9809 sip2.fonedigits.com sip2.fonedigits.com
+*9811 sip.fpinet.net sip.fpinet.net
+*9813 ochakov.com ochakov.com
+*9814 pbx.panmetro.com pbx.panmetro.com
+*9815 sip.voipmaisbarato.com.br
+*9816 ast01.co-link.be ast01.co-link.be
+*9818 globalvoipnumber.com globalvoipnumber.com
+*9819 banana.jannah.net banana.jannah.net
+*9820 esip.lupercalia.com Lupercalia, LLC   United
+*9821 danilevin.com.ar Dani Levin   Argentina
+*9822 mysip.net.ru mysip.net.ru
+*9823 pro2000.no-ip.com pro2000.no-ip.com
+*9824 sip.myowntelco.net myowntelco   Canada
+*9825 asinger.tzo.org asinger.tzo.org
+*9826 smtp.datatek.kz smtp.datatek.kz
+*9827 sip.wojner.de sip.wojner.de
+*9828 dwam.net DWAM   France
+*9829 sip.mmhd.de MMHD   Germany, Federal Republic of
+*9831 sip.voi.t-com.sk sip.voi.t-com.sk
+*9832 sip.solution4voip.com sip.solution4voip.com
+*9833 bingoFone.com bingoFone.com
+*9834 box.nanu.net box.nanu.net
+*9835 sip.mydean.com sip.mydean.com
+*9837 candemir.org candemir.org
+*9838 chatter.gokall.com chatter.gokall.com
+*9839 ciutel.servequake.com ciutel.servequake.com
+*9841 sip.herrenhauspark.com sip.herrenhauspark.com
+*9842 clubdelinternet.net clubdelinternet.net
+*9843 sip.mahumphrey.org sip.mahumphrey.org
+*9845 octopusline.net octopusline.net
+*9846 sip.piratenpartei-hessen.de
+*9847 sip.nzvoiz.com sip.nzvoiz.com
+*9848 sip.gladvoip.com sip.gladvoip.com
+*9849 kolez.com kolez.com
+*9850 mail.kz mail.kz
+*9851 pbx.extrahip.net pbx.extrahip.net   Canada
+*9854 sip.opentime.com.br sip.opentime.com.br   Brazil
+*9856 home.mainak.com home.mainak.com   United States
+*9857 sip.nt-wireless.com sip.nt-wireless.com
+*9858 podlinez.net podlinez.net
+*9859 sip.surevoip.co.uk sip.surevoip.co.uk
+*9861 mphome.webhop.info mphome.webhop.info
+*9862 byod.thaitelplus.com byod.thaitelplus.com
+*9863 sip.fcvoiptelecom.com sip.fcvoiptelecom.com
+*9864 sip.etransmed.net sip.etransmed.net
+*9865 sp.fuzzyconcepts.net sp.fuzzyconcepts.net
+*9868 lcvleo.com lcvleo.com   Brazil
+*9874 sip.dainus.net sip.dainus.net
+*9875 sip.suzukimotos.com.ar Mar Maquinarias SA /
+*9876 darkvoip.net darkvoip.net Free Community PBX
+*9878 8la8la.com 8la8la.com
+*9879 sip.qxip.net qxip.net   Netherlands  
+*9880 sip.rk1.ru sip.rk1.ru
+*9881 login.ukrvincom.net login.ukrvincom.net
+*9882 mysipserver.3utilities.com
+*9883 sip.ribcom.com sip.ribcom.com
+*9884 pbx.bredeweg.net pbx.bredeweg.net
+*9886 phonetula.ru phonetula.ru
+*9889 voip.signprint.ch voip.signprint.ch
+*9891 tpe.xn--fiqs1oonmtlddop27u4huotn.tw
+*9892 musurit.com musurit.com
+*9893 lgsmit.com lgsmit.com
+*9894 sip.dimension-virtual.com
+*9896 routed.com routed.com
+*9898 sip.westcoasthosting.net sip.westcoasthosting.net
+*9899 sip.telefonialibre.com.ar
+*9903 voice.freeconferencecallhd.com
+*9904 sip.ayaantel.com ayaantel.com   Australia
+*9905 sip.tedecall.com TedeCALL   Spain  
+*9907 comcast.moocon.de comcast.moocon.de
+*9908 tnvoip2.nsc.no tnvoip2.nsc.no
+*9909 sip.amaxama.com sip.amaxama.com   United States
+*9911 sip.vozia.org sip.vozia.org
+*9913 sip.pennysip.com sip.pennysip.com
+*9914 sip.balkancall.net sip.balkancall.net
+*9915 sip.introlution.be Introlution   Belgium
+*9916 sip.mobbuzz.ro Mobbuzz   Romania  
+*9918 sip1.tktelco.net sip1.tktelco.net
+*9919 itnetworld.co.nz itnetworld.co.nz
+*9923 sparcs1.cpsc.ucalgary.ca sparcs1.cpsc.ucalgary.ca
+*9924 voip.qeleq.com voip.qeleq.com
+*9925 sip.comfytel.com ComfyTel   Canada  
+*9926 sip.eudata.be sip.eudata.be
+*9927 chepil.com.ua chepil.com.ua   Ukraine
+*9928 pbx.esi1call.com pbx.esi1call.com
+*9930 bellsip.com bellsip.com   Germany, Federal
+*9933 pbx.tms-it.net pbx.tms-it.net   Austria
+*9934 sip.angelphone.net sip.angelphone.net
+*9939 sip.baikaltech.org sip.baikaltech.org
+*9940 sip-net.eu sip-net.eu
+*9942 sip.bramatelecom.com sip.bramatelecom.com
+*9943 sip.myvoiptraffic.com sip.myvoiptraffic.com
+*9946 woo-sang.com woo-sang.com
+*9950 data.clash-media.com data.clash-media.com
+*9951 voip.cssreload.com voip.cssreload.com
+*9952 asterisk.senticom.com.ar
+*9953 sip.wfone.it sip.wfone.it
+*9954 ipbxs.tel3g.com.br ipbxs.tel3g.com.br
+*9955 friendsofdave.org friendsofdave.org   United
+*9956 telefonicatux.com telefonicatux.com
+*9960 bobstanden.com bobstanden.com
+*9962 dx.8fenqian.com 8fenqian.com   China, People's
+*9963 sip.fonswitch.com FonSWITCH Inc.   United States
+*9964 sip.itembox.cn sip.itembox.cn
+*9965 voip1.itele.fo voip1.itele.fo
+*9967 sip.jchen.org sip.jchen.org
+*9968 pbx.lex.gs pbx.lex.gs
+*9972 aeiisp.com aeiisp.com
+*9973 ve2tmq.ca ve2tmq.ca   Canada  
+*9979 vpbx24.de vpbx24.de
+*9980 pathephone.com Pathephone LLC.   United States
+*9983 intech.leetcom.net intech.leetcom.net   Colombia
+*9985 voip.dnseurope.net voip.dnseurope.net
+*9986 sip.oron.cn sip.oron.cn
+*9987 sip.sznost.cn sip.sznost.cn
+*9988 sip.voipcall.cn sip.voipcall.cn
+*9989 switch.thoughtwave.net ThoughtWave Technologies
+*10002 sip.angacom.com.ar sip.angacom.com.ar
+*10003 sip.securepatient.net ThoughtWave Technologies
+*10004 services.sip.is services.sip.is
+*10007 sip.canalfone.com.br sip.canalfone.com.br
+*10009 asterisk.limedaley.com asterisk.limedaley.com
+*10010 sip.pontogeek.com.br sip.pontogeek.com.br
+*10011 telecom.tlig.com.br Tlig Brasil   Brazil
+*10013 sip.spvoip.com.br sip.spvoip.com.br
+*10015 sip.lignetfacil.com.br sip.lignetfacil.com.br
+*10016 sip.msgvoip.com.br sip.msgvoip.com.br
+*10017 adyar.lkms.in adyar.lkms.in
+*10018 anc.dollarthriftyalaska.com
+*10019 sbc.dialany.com sbc.dialany.com
+*10020 sip.group-agora.com sip.group-agora.com
+*10021 sip.hemserver.net sip.hemserver.net
+*10023 no.bigbox.info no.bigbox.info
+*10024 pond-weed.com pond-weed.com
+*10025 firewall.ncca.org NCCA   United States
+*10026 gstroop767.org gstroop767.org
+*10027 tx-0.org tx-0.org
+*10028 agamenon.dotlinux.com.ar
+*10029 sip.isbests.com sip.isbests.com   United States
+*10031 sip.tawag.net sip.tawag.net
+*10032 voip.tringtringnow.com voip.tringtringnow.com
+*10033 sip3.backend.org.ua SIPIKO  
+*10034 pbx.nets.kr.ua pbx.nets.kr.ua   Ukraine
+*10035 pbx.trisys.com pbx.trisys.com
+*10036 pbx.telosity.com pbx.telosity.com
+*10037 sip.gnrs.com.br sip.gnrs.com.br
+*10038 mainbrain.ca mainbrain.ca
+*10039 thesmithfamily-online.info
+*10040 sip.marvelserv.com sip.marvelserv.com
+*10041 sip.globalphone.com.br sip.globalphone.com.br
+*10042 sip.phone4you.co.za sip.phone4you.co.za
+*10043 enother.net enother.net   United States
+*10045 7sip.com 7sip.com   France
+*10046 g2globalcommunications.com
+*10048 internetphone.dk internetphone.dk
+*10049 sip.sipeo.org sip.sipeo.org
+*10050 sip.tedecall.net TedeCALL   Spain  
+*10052 sip.poppelreuter.de sip.poppelreuter.de
+*10053 sip.comclark.com sip.comclark.com
+*10054 sip.quoruminformation.net
+*10056 sip2.bgrcomunicaciones.com
+*10057 static.theplanet.com
+*10060 vinety.us.to vinety.us.to
+*10061 apbx.us.to apbx.us.to
+*10062 pbx.viapbx.com pbx.viapbx.com
+*10063 sip.voixter.net sip.voixter.net
+*10064 pbx.tour-morgantown.com pbx.tour-morgantown.com
+*10065 turbobridge.com turbobridge.com   United States
+*10066 dynsip.net dynsip.net
+*10067 uc.jungheinrich.com uc.jungheinrich.com
+*10068 sipphonenumber.net sipphonenumber.net
+*10069 sip.hatifi.com sip.hatifi.com
+*10070 raqme.net raqme.net
+*10071 raqma.com raqma.com
+*10073 ettasil.com ettasil.com
+*10074 iphonehome.com iphonehome.com
+*10075 bilosipbx.com bilosipbx.com
+*10076 ip-phonenumber.com ip-phonenumber.com
+*10077 ipbx.iraqme.com ipbx.iraqme.com
+*10078 myfonenumber.com myfonenumber.com
+*10079 qlicatel.com qlicatel.com
+*10080 sipphonenumber.com sipphonenumber.com
+*10081 sip.bilosbox.com sip.bilosbox.com
+*10082 sip.bilospbx.com sip.bilospbx.com
+*10084 proxy.tollfreenation.com proxy.tollfreenation.com
+*10085 alcazarnetworks.com
+*10086 jleal.wayphone.net jleal.wayphone.net
+*10088 not.endofinternet.net not.endofinternet.net
+*10089 gw112.phono.com gw112.phono.com
+*10090 sip.seiweb.com.br sip.seiweb.com.br
+*10093 8mhz.co.cc 8mhz.co.cc
+*10096 sip.goood.lv www.goood.lv   Latvia  
+*10097 voip.e2realty.us voip.e2realty.us
+*10098 sip.jaw.cz sip.jaw.cz
+*10099 sip.finotel.com sip.finotel.com
+*10101 sip1.ex.lv SERVISNET SIA   Latvia  
+*10103 pbx.farline.net pbx.farline.net
+*10105 router.inetlog.ru router.inetlog.ru
+*10106 proxy.spykas.com proxy.spykas.com
+*10107 sip.sonetel.com sip.sonetel.com
+*10108 vng.novert.net vng.novert.net
+*10109 pbx.acrefence.com pbx.acrefence.com
+*10110 phone2sip.uk.to phone2sip.uk.to
+*10111 sam.klikopok.nl sam.klikopok.nl
+*10113 sip.talkemirates.com sip.talkemirates.com
+*10114 aphone6.tpgi.com.au aphone6.tpgi.com.au
+*10115 sip.freecanadiancall.ca sip.freecanadiancall.ca
+*10116 sonetel.net Sonetel   Sweden  
+*10119 voip.redesmadrid.com RedesMadrid.com   Spain
+*10120 sip.voip.fqg.ca FQG VoIP   Canada  
+*10121 valdez-bicard.com.sv valdez-bicard.com.sv
+*10122 phone2sip.net phone2sip.net   Spain  
+*10123 phone2sip.us.to phone2sip.us.to
+*10125 in-addr.btopenworld.com
+*10126 sip.voicebuy.com sip.voicebuy.com
+*10127 3p.citysounds.fm 3p.citysounds.fm
+*10128 sip.gextel.com sip.gextel.com
+*10129 voip.itsfera.org voip.itsfera.org
+*10130 crazygiant.net crazygiant.net
+*10132 sip.voippro.com sip.voippro.com
+*10133 voice.fnbconnect.co.za voice.fnbconnect.co.za
+*10134 voip.voixpeer.com voip.voixpeer.com  
+*10135 basa.it.cx basa.it.cx  
+*10136 ideaconcept.com.ar IdeaConcept Argentina
+*10141 rovio.crabdance.com rovio.crabdance.com
+*10143 sip1.widevoip.com sip1.widevoip.com
+*10144 eu.sip.ssl7.net eu.sip.ssl7.net
+*10145 mycheap.mobi mycheap.mobi
+*10146 theleuker.info theleuker.info
+*10147 sip.telefonicaweb.net sip.telefonicaweb.net
+*10148 sip.myvicidial.us sip.myvicidial.us
+*10149 sip.faleclinn.com sip.faleclinn.com
+*10150 sip.datacallsretail.com sip.datacallsretail.com
+*10152 rovio.aa.am rovio.aa.am
+*10153 sip.Voipcaptain.com sip.Voipcaptain.com
+*10155 stpaulinternet.net stpaulinternet.net
+*10156 sip.tabesh.com sip.tabesh.com
+*10157 sip.crm-data.net sip.crm-data.net
+*10159 powerbob.oicp.net powerbob.oicp.net
+*10160 b.antpedia.cn b.antpedia.cn   China, People's
+*10162 sip.xp-evolution.com sip.xp-evolution.com
+*10163 ovidiudan.com ovidiudan.com
+*10165 sip.compass-inc.net sip.compass-inc.net
+*10166 sip.t-onecom.com sip.t-onecom.com
+*10167 toto.fr toto.fr
+*10168 sip.voipmove.com sip.voipmove.com
+*10169 sip1.tmxusa.net sip1.tmxusa.net
+*10170 makrotopia.org makrotopia.org
+*10171 contact.org.ua *Contact   Ukraine  
+*10172 sr22.navacore.net Navacore Communications
+*10173 x1s.izivox.net IXO Systems (izivox.com)   Finland
+*10174 bridgewatersystems.com
+*10176 pbx.kr.ua pbx.kr.ua
+*10177 sip.joylyn.eu sip.joylyn.eu
+*10179 sip.nordicom.no sip.nordicom.no
+*10180 avonuser.chickenkiller.com
+*10181 newyork.atwabvoice.com newyork.atwabvoice.com
+*10183 sip.voiptus.net.au Voiptus - VoIP Telephonic
+*10184 sip.sipglobalphone.com sip.sipglobalphone.com
+*10185 liberalvoip.net LiberalVoip.ru   Russian
+*10186 sip.omniavoip.org sip.omniavoip.org
+*10187 sip.cheapbuzzer.com sip.cheapbuzzer.com
+*10188 productvormgeving.nl productvormgeving.nl
+*10189 productidee.nl productidee.nl
+*10190 ambientautomation.eu ambientautomation.eu
+*10191 sublab.org sublab.org
+*10192 b2voip.de b2voip.de
+*10195 sip.newgenjamaica.com sip.newgenjamaica.com
+*10196 sip.uniba.it sip.uniba.it
+*10197 sip.g3ip.com sip.g3ip.com
+*10198 sip.tobytel.net sip.tobytel.net
+*10200 voip.ultratone.com.my voip.ultratone.com.my
+*10201 sip.hivevoicecloud.net sip.hivevoicecloud.net
+*10202 hassan.dyndns-at-home.com
+*10204 traficosip.com traficosip.com
+*10205 dream.ca-osp.com dream.ca-osp.com
+*10206 voipnow1.modulis.ca voipnow1.modulis.ca
+*10208 sip.infoperf.com sip.infoperf.com
+*10209 oacsys.com oacsys.com   Spain
+*10210 tomnok.yourhda.com "private dynamic"   Belgium
+*10211 logicerr.homenet.org logicerr.homenet.org
+*10212 sip1.mob-voip.net sip1.mob-voip.net
+*10213 sbc.sip-panel.net sbc.sip-panel.net
+*10215 welttheorie.de welttheorie.de
+*10216 voip-cool.net voip-cool.net
+*10218 xcelor8.com xcelor8.com
+*10219 sbc.itgbg.com sbc.itgbg.com
+*10220 sip.voipdobrasil.com.br sip.voipdobrasil.com.br
+*10222 sip40.terranet.se sip40.terranet.se   Sweden
+*10223 sip.pcfone.com sip.pcfone.com
+*10224 serv-01.vectortel.ru serv-01.vectortel.ru
+*10225 netbuntu.net Netbuntu PBX   United States
+*10226 sip.gazanyavoip.com sip.gazanyavoip.com
+*10227 vpbx01.dvop.net vpbx01.dvop.net
+*10228 tf.arctele.com tf.arctele.com
+*10230 sip.qip.ru sip.qip.ru
+*10231 sip.savacom.com.br sip.savacom.com.br
+*10232 sip.a1webhosting.net sip.a1webhosting.net
+*10233 podlinez.com podlinez.com
+*10234 sip.tesz.info sip.tesz.info
+*10235 sip.aloha.rs sip.aloha.rs
+*10236 akumat.pl akumat.pl   Poland, Republic of
+*10237 pbx.omni.com.au pbx.omni.com.au
+*10238 sip.unigoldclub.com sip.unigoldclub.com
+*10239 kkdevs.com kkdevs.com
+*10240 sip.connecttalk.com sip.connecttalk.com
+*10241 server3.jtnc.ca server3.jtnc.ca
+*10242 vox4all.com vox4all   Portugal  
+*10243 sip.yasuikado.com sip.yasuikado.com
+*10244 sip.voiceall.net sip.voiceall.net
+*10245 208.198.17.93.rev.sfr.net
+*10246 digiumbd.finndial.net digiumbd.finndial.net
+*10247 sip.dhammavideo.com sip.dhammavideo.com
+*10248 sip.networksistemas.com.br
+*10249 sip.anndre.com sip.anndre.com
+*10250 sip5.voiceflex.com sip5.voiceflex.com
+*10251 s1.click.net.ph s1.click.net.ph
+*10252 sipgw1.ace-ins.com sipgw1.ace-ins.com
+*10253 VFRZEXW1.video.vrnetze.de
+*10254 wsartori.com wsartori.com
+*10255 sip.goober.com sip.goober.com
+*10257 sip1.cellip.com sip1.cellip.com
+*10258 sip2.orangepad.com sip2.orangepad.com
+*10259 myGlobalConference.com myGlobalConference.com
+*10260 decenttalk.co.nz decenttalk.co.nz
+*10261 pbxes.wp1948pj.co.cc pbxes.wp1948pj.co.cc
+*10262 call.rayct.com call.rayct.com
+*10263 sip.synety.com sip.synety.com
+*10264 sip.voipilla.com sip.voipilla.com
+*10265 jfmorneau.net jfmorneau.net
+*10266 heberge-hd.net heberge-hd.net   France
+*10267 p.sippp.com p.sippp.com
+*10268 sip.dialcheap.com sip.dialcheap.com
+*10269 sip.megafone.hu sip.megafone.hu   Hungary
+*10270 pbx.yu.net pbx.yu.net
+*10271 sipnet.net sipnet.net
+*10272 voip.telcomglobal.net voip.telcomglobal.net
+*10274 pan.wxnz.net pan.wxnz.net
+*10275 call.recnet.net call.recnet.net
+*10276 adsl14360.estpak.ee adsl14360.estpak.ee
+*10277 freestyle.myvoiplogin.com
+*10278 sip.freetring.com sip.freetring.com
+*10279 sip.cvnguyen.net sip.cvnguyen.net   Australia
+*10280 ip.twingo.com.mx ip.twingo.com.mx
+*10281 sip.linkercall.com sip.linkercall.com
+*10282 CMTor1.ciktel.com CMTor1.ciktel.com
+*10283 proxy.manface.info proxy.manface.info
+*10284 omdvoip.net omdvoip.net
+*10285 dbvrsystems.com dbvrsystems.com
+*10286 sip.cpnet.ca sip.cpnet.ca
+*10287 fxylite.com fxylite.com
+*10288 voip.shwa.be voip.shwa.be   Canada  
+*10289 sip.meentzen.net sip.meentzen.net
+*10290 max.terpstra.ca max.terpstra.ca
+*10291 bsinnett.com bsinnett.com
+*10292 bareback.does-it.net bareback.does-it.net
+*10293 mail.interfacerehab.com mail.interfacerehab.com
+*10294 5982.s1.minisipserver.com
+*10295 sip.sipinvite.com sip.sipinvite.com
+*10296 voip1.sitevoip.net voip1.sitevoip.net
+*10297 sw.mark.ru sw.mark.ru
+*10298 voip.gltcall.com voip.gltcall.com
+*10299 0x21h.net 0x21h.net
+*10300 sip.untc.net sip.untc.net
+*10301 sip01.ru sip01.ru
+*10302 voip.capalon.com voip.capalon.com
+*10303 sip.telitec.com sip.telitec.com
+*10304 sbc.voxbeam.com. sbc.voxbeam.com.
+*10305 sip.verimor.com.tr Verimor   Turkey  
+*10306 spider7.syd.bizcubed.com
+*10307 fixe2mob.com fixe2mob.com   France  
+*10308 madeenaplus.com madeenaplus.com
+*10309 sip.00call.com sip.00call.com
+*10310 skynetipphone.net skynetipphone.net
+*10312 sip.vazduh.ro sip.vazduh.ro
+*10313 sip.ovh.es sip.ovh.es
+*10314 sip.callpirates.com sip.callpirates.com
+*10315 xtel.helloworld.cn xtel.helloworld.cn
+*10316 xtel.cn xtel.cn
+*10317 voiplinesip.com voiplinesip.com
+*10318 sip.serviko.ru Serviko Irkutsk   Russian
+*10319 sbp.poweredbyclear.com sbp.poweredbyclear.com
+*10320 sip.sunlick.com sip.sunlick.com   Hong Kong
+*10321 sip.allvoip.co.nz sip.allvoip.co.nz
+*10322 sip1.vgate.com.au sip1.vgate.com.au
+*10323 sip.netlife.com.ua sip.netlife.com.ua   Ukraine
+*10325 sip.000353.org sip.000353.org
+*10326 sip.davidegugliotta.it sip.davidegugliotta.it
+*10327 sip.phonebridge.co.uk sip.phonebridge.co.uk
+*10328 jasenko.minidns.net jasenko.minidns.net
+*10329 dev.citynet.ua dev.citynet.ua
+*10330 sipfrom.thespout.ca sipfrom.thespout.ca
+*10331 sip.voip512.com sip.voip512.com
+*10332 sip.cibervoip.com CiberVoIP   Andorra
+*10333 sip.vmobile.eu sip.vmobile.eu
+*10334 voip.twish.com.br voip.twish.com.br
+*10335 sip.zadarma.net sip.zadarma.net
+*10336 sip.montes.co sip.montes.co
+*10337 sip.montes.org.uk sip.montes.org.uk
+*10338 us.elwan.in us.elwan.in
+*10339 dreivierteleins.de dreivierteleins.de
+*10340 sip.123105.com sip.123105.com
+*10341 sip.centavoip.com.ar Centavoip   Argentina
+*10342 sip.voinet.ru VOINET   Russian Federation
+*10343 gw01.yourdaddy.dk gw01.yourdaddy.dk
+*10345 sip.sirioncall.com sip.sirioncall.com
+*10346 sip.dic.at sip.dic.at   Austria  
+*10347 liberty-chat.be liberty-chat.be
+*10348 sip.123105.net sip.123105.net
+*10349 asterisk.unipi.it asterisk.unipi.it
+*10350 sip.toptelephony.gr sip.toptelephony.gr
+*10351 sip.rebvoice.com sip.rebvoice.com
+*10352 sip.newpace.ca sip.newpace.ca
+*10354 sip.alterfon.ru sip.alterfon.ru
+*10355 ippbx.nl ippbx.nl
+*10356 pbx.comsd.com comsd.com
+*10359 sip.irmatel.com sip.irmatel.com
+*10360 voip.tisin.com voip.tisin.com
+*10361 voip.tubick.com voip.tubick.com
+*10363 forssa.pholibox.net forssa.pholibox.net
+*10364 sip.callda.com sip.callda.com
+*10365 main.merezha.net main.merezha.net   Ukraine
+*10367 sip.opennet.hu sip.opennet.hu
+*10368 voip.0rzz.net voip.0rzz.net
+*10370 VPBX.nonotel.es VPBX.nonotel.es
+*10371 siptele.ru siptele.ru
+*10372 sevcor.com sevcor.com
+*10373 sip.ggew-net.de sip.ggew-net.de
+*10374 voipeador.com voipeador.com
+*10375 newyork.bitvoip.info newyork.bitvoip.info
+*10377 ats.morinzhgeologia.lv ats.morinzhgeologia.lv
+*10378 sip.dwsphone.com sip.dwsphone.com
+*10381 mcbridepcrepair.com mcbridepcrepair.com
+*10382 sip.indomaguro.co.id sip.indomaguro.co.id
+*10383 Karim.voipito.com Karim.voipito.com
+*10384 sip.supervoip.com sip.supervoip.com
+*10385 srv3.logicsolutions.ru srv3.logicsolutions.ru
+*10386 xr.64.net.ru xr.64.net.ru
+*10387 freevoice.com.es freevoice.com.es
+*10388 sip.glamourtel.com glamourtel.com   Germany,
+*10389 sip.iking.ca sip.iking.ca   Canada
+*10391 pbx2.vt77.com pbx2.vt77.com
+*10392 smart.0038.net smart.0038.net
+*10393 sip.voast.net sip.voast.net
+*10394 outgoing.cheapvoipinc.com
+*10395 s1.cloudcall.hk s1.cloudcall.hk
+*10396 sip.mo-callnet.com sip.mo-callnet.com
+*10397 sip.mir-tele.com sip.mir-tele.com
+*10398 sip.digitalnexus.org sip.digitalnexus.org
+*10400 bill.altersip.ru bill.altersip.ru
+*10401 pbx.denwa.biz pbx.denwa.biz
+*10402 yami.dyndns-free.com yami.dyndns-free.com
+*10403 sip.daphone.ro sip.daphone.ro   Romania
+*10404 voip.mlinkbatam.com voip.mlinkbatam.com
+*10405 sip.vesterling.us sip.vesterling.us
+*10406 sip.telvida.com sip.telvida.com
+*10407 sip3.gltl.com.ua sip3.gltl.com.ua
+*10408 sip.voip-phone.com.ua sip.voip-phone.com.ua
+*10409 sip.toptelecom.ru sip.toptelecom.ru
+*10410 natelephone.com natelephone.com
+*10411 freelycall.com freelycall.com   Zimbabwe
+*10412 alicemedia.ca alicemedia.ca
+*10413 sip.ironhelp.net sip.ironhelp.net
+*10414 sip.bonuscupon.com.ar sip.bonuscupon.com.ar
+*10416 sip.xtremetele.com sip.xtremetele.com
+*10417 ippbx.mebtalk2.com ippbx.mebtalk2.com
+*10418 sip.perspektivbredband.se
+*10419 voip.universal-hosting.com Universal Hosting, LLC
+*10420 iga.bg iga.bg
+*10421 voice.i2go.info voice.i2go.info
+*10422 craigmalton.com craigmalton.com
+*10423 c44-4.condornet.sk c44-4.condornet.sk
+*10424 tandem.ckts.info tandem.ckts.info
+*10425 sip.cheapvoip4u.com sip.cheapvoip4u.com
+*10426 sip.sipcel.eu sip.sipcel.eu
+*10427 sip.pyranah.com sip.pyranah.com
+*10428 sip.joshscomputer.com sip.joshscomputer.com
+*10429 sip.processavoip.net sip.processavoip.net
+*10430 sip.auth.gr sip.auth.gr
+*10431 sip.televoipme.com sip.televoipme.com
+*10432 sip.cleanvoip.com sip.cleanvoip.com
+*10433 sip.frynga.com sip.frynga.com
+*10434 vi.mobily.com.sa vi.mobily.com.sa   Saudi
+*10435 sip.erteq.com sip.erteq.com
+*10436 sip.rendoo.net sip.rendoo.net
+*10437 comunic.md comunic.md
+*10438 sip.voipjumper.com sip.voipjumper.com
+*10439 sip.intertelecom.ua sip.intertelecom.ua
+*10440 alego.mangosip.ru alego.mangosip.ru
+*10441 sip.falobarato.com sip.falobarato.com
+*10442 sip.truenet.biz sip.truenet.biz
+*10443 unstable.damnserver.com unstable.damnserver.com
+*10444 sip.zebra.ru sip.zebra.ru
+*10445 sip.macintoshliquidation.com
+*10446 sip.wlan-mallorca.com sip.wlan-mallorca.com
+*10447 sip.kwaves.com sip.kwaves.com
+*10448 sip.freephonebridge.com sip.freephonebridge.com
+*10449 sv1voip.s3solutions.pt sv1voip.s3solutions.pt
+*10450 immae.fr immae.fr
+*10451 sip.rentandroam.com Rent&Roam Communication
+*10452 voip.crep.dhs.org Jean's VoIP server   Canada
+*10453 pbx.clawfest.com pbx.clawfest.com
+*10454 eocomms.com eocomms.com
+*10455 sipgw.feoshop.com.ua sipgw.feoshop.com.ua
+*10456 sip.didlogic.net sip.didlogic.net
+*10457 vsip.univest.ua vsip.univest.ua   Ukraine
+*10458 qth.cohutta.org qth.cohutta.org   United States
+*10459 sip.jmurraysolutions.com sip.jmurraysolutions.com
+*10460 sip01.synertic.ca sip01.synertic.ca
+*10461 tomlynn.com tomlynn.com
+*10462 sip.gazetayakutia.ru sip.gazetayakutia.ru
+*10463 sip.paws4pets.pt sip.paws4pets.pt
+*10464 voiplip.589.ca voiplip.589.ca
+*10465 sip.australianphone.com.au Australian Phone
+*10466 voipzag.com voipzag.com
+*10467 sip.jr9.org sip.jr9.org
+*10468 pbx.net-telco.net pbx.net-telco.net
+*10469 sip.pcvoip.com.br sip.pcvoip.com.br
+*10470 sip.cdigital.com.ar CDigital   Argentina
+*10471 sip.voxpark.com.br sip.voxpark.com.br
+*10472 sip.knauber.net sip.knauber.net
+*10473 mt0.com.ar mt0.com.ar
+*10474 sip.ipal.pl IPAL   Poland, Republic of
+*10475 sip.age2talk.net sip.age2talk.net
+*10476 sipgate.us sipgate.us
+*10477 msk.sip.beeline.ru msk.sip.beeline.ru
+*10478 sip.highfsb.ca sip.highfsb.ca
+*10479 info.maisonblv.net info.maisonblv.net
+*10481 fgmlnet.pabxip.net.br fgmlnet.pabxip.net.br
+*10482 fgml.sipbroker.com.br fgml.sipbroker.com.br
+*10483 enother.com enother.com
+*10484 ggtel.hostingvoip.com.br
+*10485 sip.llamadasporinternet.com
+*10486 sip.megafon.bg sip.megafon.bg
+*10487 voip01.proteus.ec voip01.proteus.ec
+*10488 my015.jaring.my my015.jaring.my
+*10489 lab1.sufon.com lab1.sufon.com
+*10490 sip.jdbnic.com sip.jdbnic.com
+*10491 voip.marsupi.org voip.marsupi.org
+*10492 pbx.lorea.org pbx.lorea.org
+*10493 sase.igocool.com sase.igocool.com
+*10494 pbx.t31.org pbx.t31.org
+*10495 sipki.com sipki.com
+*10496 home.nickdawson.net home.nickdawson.net
+*10497 tel.wolfpharma.com tel.wolfpharma.com
+*10498 tuba.voip01.com tuba.voip01.com   Netherlands
+*10499 sip.jeronimus.net sip.jeronimus.net
+*10500 sip.palycoms.com sip.palycoms.com
+*10501 pbx.53.ain.net.au pbx.53.ain.net.au
+*10502 ektngn.usi.ru ektngn.usi.ru
+*10503 sip.mmets.com sip.mmets.com
+*10504 sip.gocons.com sip.gocons.com
+*10505 sip.on9.cc sip.on9.cc
+*10506 sip.digiguys.nl sip.digiguys.nl
+*10507 proxy.emm.elion.ee proxy.emm.elion.ee
+*10508 Sip.plazacall.com Sip.plazacall.com
+*10509 tel3.telecallmart.com tel3.telecallmart.com
+*10510 openrcs.com openrcs.com
+*10511 sip.hotvoip.com sip.hotvoip.com
+*10512 sip.ip73.com sip.ip73.com
+*10513 sip.voscall.com sip.voscall.com
+*10514 sip.meuramal.com sip.meuramal.com
+*10515 sip.sip4b.com sip.sip4b.com
+*10516 sip.phonepower.com sip.phonepower.com
+*10517 sip.perufon.com sip.perufon.com
+*10518 www.call2.ir www.call2.ir
+*10519 sip.17call.com.tw sip.17call.com.tw
+*10520 sip.esuara.com sip.esuara.com
+*10521 setheb.net setheb   United States
+*10522 sip.alltele.se sip.alltele.se
+*10523 sip.myvirtualphone.net sip.myvirtualphone.net
+*10524 sip.netgsm.com.tr sip.netgsm.com.tr
+*10525 sip.komturk.com.tr sip.komturk.com.tr
+*10526 voip.softphone.vn voip.softphone.vn
+*10527 sip.banglatel.com sip.banglatel.com   Australia
+*10528 sip.telecomax.net sip.telecomax.net
+*10529 pbx.arkh-edu.ru AO IOO   Russian Federation
+*10530 sip.vpsradio.com sip.vpsradio.com   Spain
+*10531 sip.halopolska.net sip.halopolska.net
+*10532 sip.i3voice.com sip.i3voice.com
+*10533 pbx.wildghosts.com pbx.wildghosts.com
+*10534 sip.cheapconnect.nl sip.cheapconnect.nl
+*10535 sip.voipits.com sip.voipits.com
+*10536 sip.call-talk.com sip.call-talk.com
+*10537 astx.koltelecom.com astx.koltelecom.com
+*10538 concordia.aflex-ukraine.com
+*10539 sip1.voiceglobe.net sip1.voiceglobe.net
+*10540 sip.rtsit.com sip.rtsit.com
+*10541 voip.kirtikar.com voip.kirtikar.com
+*10542 sip.netphone.com.ar sip.netphone.com.ar
+*10543 sip.ca.anveo.com sip.ca.anveo.com
+*10544 carlgoyette.com carlgoyette.com   Canada
+*10545 sip.tenangjaya.net sip.tenangjaya.net
+*10546 roaldev.com roaldev
+*10547 interstar.it.pn interstar.it.pn
+*10548 sip.sprintinet.ru sip.sprintinet.ru
+*10549 calls4freenorthamerica.cloudns.org MyPBX.com
+*10550 sip.clubtelco.com sip.clubtelco.com
+*10551 abzieher.net abzieher.net
+*10552 tel.heydudeshoes.com tel.heydudeshoes.com
+*10553 www.minutoscolombia.org www.minutoscolombia.org
+*10554 fb-bln-vdsl.dyn.uu.org fb-bln-vdsl.dyn.uu.org
+*10555 sip.sipmobile.org sip.sipmobile.org
+*10556 ippbx.jabarnet.net.id PT. Jabar Telematika
+*10557 10829.144650.sip.pbxww.com
+*10558 pbx.plugthis.in pbx.plugthis.in
+*10559 sip.itview.com sip.itview.com
+*10560 sip.androidcursos.com sip.androidcursos.com
+*10561 ec2-54-197-89-139.compute-1.amazonaws.com
+*10562 thunder.sip.twilio.com thunder.sip.twilio.com
+*10563 dznet-pbx.dznet.pwnz.org dznet.pwnz.org   United
+*10564 sip.nordtelekom.hu sip.nordtelekom.hu   Hungary
+*10565 sip.tj sip.tj
+*10566 sp.fireos.com.co sp.fireos.com.co
+*10567 sjoelund.se sjoelund.se
+*10568 sip.safabhe.com sip.safabhe.com   Guinea,
+*10569 sip.telecube.net.au sip.telecube.net.au
+*10570 num2sip.com num2sip.com
+*10571 sip.altertours.ru sip.altertours.ru
+*10572 sip.smartvoip.com.co sip.smartvoip.com.co
+*10573 ostel.co ostel.co
+*10574 sip.cheapvoip.com sip.cheapvoip.com
+*10575 sip.chamley.eu sip.chamley.eu
+*10576 sip.nexus.co.za sip.nexus.co.za
+*10577 voip.telnamobile.com voip.telnamobile.com
+*10578 sip2.bestech-europe.com sip2.bestech-europe.com
+*10579 gotele.dk gotele.dk
+*10580 pbx.nexusbroadcast.com pbx.nexusbroadcast.com
+*10581 deltontek.com deltontek.com
+*10582 gw1.sip.us gw1.sip.us
+*10583 sip.mavericktea.com sip.mavericktea.com
+*10584 woxko.es woxko.es
+*10585 xp.telexfree.com xp.telexfree.com
+*10586 sip.net-uno.net sip.net-uno.net   Venezuela
+*10587 sip.thoroquelsystems.com Thoroquel Systems, LLC
+*10588 yamacall.com yamacall.com
+*10589 seketel.com seketel  
+*10590 voip.sipservice.ch voip.sipservice.ch
+*10591 register001.digikabel.hu
+*10592 sip.browsercalls.com sip.browsercalls.com
+*10593 iax.mkini.net iax.mkini.net
+*10594 sip.voicetrading.com sip.voicetrading.com
+*10595 sip.dabahia.com sip.dabahia.com
+*10596 sip.unwsolution.com sip.unwsolution.com
+*10597 sip10.showmypc.com sip10.showmypc.com
+*10598 voice.darwinistic.com voice.darwinistic.com
+*10599 doba.onpbx.ru doba.onpbx.ru
+*10600 voice.italkworld.com voice.italkworld.com
+*10601 sip.callingo.net sip.callingo.net
+*10602 vgw-nyc01.pbxcore.eu vgw-nyc01.pbxcore.eu
+*10603 sip.tetelca.com.ve sip.tetelca.com.ve
+*10604 phone.plivo.com phone.plivo.com
+*10605 netbvoip.net netbvoip.net
+*10606 sip.sip2voip.com sip.sip2voip.com
+*10607 link.voipvoice.it link.voipvoice.it
+*10609 fb38448.spdns.de fb38448.spdns.de
+*10610 mrle.ddns.net mrle.ddns.net
+*10611 tco.net.eu.org tco.net.eu.org   United States
+*10612 pbxmty.com pbxmty.com   Mexico
+*10613 sw0.edtn.abca.telalta.ca
+*10614 sip.ufree.org sip.ufree.org
+*10615 sip.aaisham.com sip.aaisham.com
+*10616 binoy.co binoy.co
+*10617 sip.onthenet.com.au sip.onthenet.com.au
+*10618 sip.zecly.com sip.zecly.com
+*10619 sip.mexicobarato.com sip.mexicobarato.com
+*10620 pbxes.net pbxes.net
+*10621 sip.voicemailtel.net sip.voicemailtel.net
+*10622 sip.telephonic-solutions.com
+*10623 sip.tor.yakdigitalphone.ca
+*10624 globe.jhcloos.com globe.jhcloos.com
+*10625 bg-call.com bg-call.com
+*10626 egsoluciones.com.ar egsoluciones.com.ar
+*10627 z.1air.co z.1air.co
+*10628 voip.ghostservices.net Ghost Business Services
+*10629 sip.iwebcab.com sip.iwebcab.com
+*10630 kegeltjes.duckdns.org kegeltjes.duckdns.org
+*10631 sip.voipblazer.com sip.voipblazer.com
+*10632 sip.cosmovoip.com sip.cosmovoip.com
+*10633 equiknox.net equiknox.net   Canada  
+*10634 380939727279.pp.ua 380939727279.pp.ua
+*10635 sip.42com.com sip.42com.com
+*10636 pbx.defrances.co pbx.defrances.co
+*10637 www.net2sip.com www.net2sip.com
+*10638 in.multitel.net in.multitel.net  
+*10639 sip.revoltcloud.com sip.revoltcloud.com
+*10640 sip.mercosur.com.co sip.mercosur.com.co
+*10641 sip.1voc.com sip.1voc.com
+*10642 sipsrv.voip100.com sipsrv.voip100.com
+*10643 pbx.aureasocial.org pbx.aureasocial.org
+*10644 sip.muff.pl sip.muff.pl   Poland, Republic of
+*10645 sip.homelinuxserver.org sip.homelinuxserver.org
+*10646 voipnum.com voipnum.com   Ukraine  
+*10647 sip.maxi-tel.com sip.maxi-tel.com
+*10648 sp0934.privatedns.org sp0934.privatedns.org
+*10649 sip.codatel.com.au sip.codatel.com.au
+*10650 sip.hspair.com sip.hspair.com
+*10651 sip.teledome.net sip.teledome.net
+*10652 fp.layered.net fp.layered.net
+*10653 voip.migroup.co.id VOIP MIG   Indonesia
+*10654 sip88.asterisk.fi sip88.asterisk.fi
+*10655 sip.sipconvergence.co.uk
+*10656 voland.us.to voland.us.to
+*10657 itaewon.us.to itaewon.us.to
+*10658 voip.intelnetcom.ru voip.intelnetcom.ru
+*10659 svitbox.com svitbox.com
+*10660 voip.paradisegems.ca voip.paradisegems.ca
+*10661 sip.stuntgraphics.com sip.stuntgraphics.com
+*10662 sip.sipmission.com sip.sipmission.com
+*10663 call2friends.com call2friends.com
+*10664 pbx3.refreshpbx.com pbx3.refreshpbx.com
+*10665 deadhexagon.com deadhexagon.com   United States
+*10666 sip.mybayan.net sip.mybayan.net
+*10667 palsip.com palsip.com   Turkey
+*10668 sip.innokeen.com innokeen.com   United States
+*10669 sip03.palfal.com palfal.com   Canada  
+*10670 jabber.ru jabber.ru
+*10671 phone.bamono.com phone.bamono.com
+*10672 sip.lucaswyte.com Sonetel   United States
+*10673 sip.emeel.us sip.emeel.us
+*10674 rtsip.vopium.com rtsip.vopium.com
+*10675 voxis.eu voxis.eu
+*10676 dobrofon.com dobrofon.com
+*10677 call2sip.ru call2sip.ru
+*10678 dial.ngnx.net dial.ngnx.net
+*10679 sip.biaochen.net sip.biaochen.net
+*10680 sip.sheard.net sip.sheard.net
+*10681 voip.waveguide.se voip.waveguide.se   Sweden
+*10682 voipap.net voipap.net
+*10683 pbx.kaffenet.net pbx.kaffenet.net
+*10684 sip.net2u.ru sip.net2u.ru
+*10685 brunozp.onthewifi.com brunozp.onthewifi.com
+*10686 ipex416.net ipex416.net
+*10687 voip.ilkom.net voip ilkom unsri   Indonesia
+*10688 sip.stuntcalls.com sip.stuntcalls.com
+*10689 zero-nine.biz zero-nine.biz   United States
+*10690 sip.happytel.cl sip.happytel.cl
+*10691 sip1.grupovtel.com sip1.grupovtel.com
+*10692 sip.nuby.cl sip.nuby.cl
+*10693 abelitin.cloudns.pro abelitin.cloudns.pro
+*10694 sip.rural-telecom.fr sip.rural-telecom.fr
+*10695 sip.jasondolan.uk sip.jasondolan.uk
+*10696 owa.legguk.com owa.legguk.com
+*10697 sip.sipfar.com sipfar.com   Indonesia
+*10698 pbx.mephi.ru pbx.mephi.ru
+*10699 a90872.dynu.net a90872.dynu.net
+*10700 sip.jasondolan.co.uk sip.jasondolan.co.uk
+*10701 sip.oliverv.com sip.oliverv.com
+*10702 sip.equinoxx.com.br sip.equinoxx.com.br
+*10703 zaledia.com zaledia.com networks   Switzerland
+*10704 voip.qsystemsengineering.com Vintage Telecom
+*10705 sip.mymeetings.org sip.mymeetings.org
+*10706 12682.etollfree-cloud.net
+*10707 pbxg.gcvon.net pbxg.gcvon.net
+*10708 hg.eventphone.de hg.eventphone.de
+*10709 sip.amazedialer.com sip.amazedialer.com
+*10710 aws.vasil.website aws.vasil.website
+*10711 sip.duh.org duh.org (private PBX)   United
+*10712 sip.gzcom.com sip.gzcom.com
+*10713 sip.rural-internet.com sip.rural-internet.com
+*10714 sip.albox-online.net sip.albox-online.net
+*10715 sip.voiptalk.co sip.voiptalk.co
+*10716 bilu.fast-vip.com bilu.fast-vip.com   Brazil
+*10717 sip.acman.cn sip.acman.cn   China, People's
+*10718 boina.datemas.de boina.datemas.de   Germany,
+*10719 sip.supratel.es sip.supratel.es
+*10720 sip.triolan.net.ua sip.triolan.net.ua
+*10721 sip1.bungi.com bungi.com   United States
+*10722 nyagw.voipbackbone.net nyagw.voipbackbone.net
+*10723 spvdialler.jamiemurray.net
+*10724 Pbx02.everconnect.dk Pbx02.everconnect.dk
+*10725 ip.b24-8846-1464911118.bitrixphone.com
+*10726 sip.voipmuch.com VoIP Much Phone Company
+*10727 voip.acvoip.ca ACVoIP   Canada  
+*10728 planta.proditanquesing.com
+*10729 sapp.ccilconnect.com sapp.ccilconnect.com
+*10730 sip2.iconnect4u.nl sip2.iconnect4u.nl
+*10731 ovh-vps-01.vran.as ovh-vps-01.vran.as
+*10732 mrle.dd-dns.de mrle.dd-dns.de
+*10733 tex-host.ru tex-host.ru   Russian Federation
+*10734 voip.hydrosila.com voip.hydrosila.com   Ukraine
+*10735 sip.fcn.pl sip.fcn.pl
+*10736 borderdns.com borderdns.com
+*10737 sip.siptalk.com.au sip.siptalk.com.au   Australia
+*10738 enumo.ignorelist.com enumo.ignorelist.com
+*10739 phone.2talk.com.au phone.2talk.com.au
+*10740 Sip.atelecom.biz Sip.atelecom.biz
+*10741 sip.palmgren.nu sip.palmgren.nu
+*10742 montealegre.furquilha.org.br
+*10743 sip.ephone.gr sip.ephone.gr
+*10744 sip.relayrobin.com sip.relayrobin.com
+*10745 enum.omnitelecom.com enum.omnitelecom.com
+*10746 sip1.007voip.com sip1.007voip.com
+*10747 musaipi.ge musaipi.ge
+*10748 sip.ot.rs sip.ot.rs
+*10749 sip.telecube.com.au sip.telecube.com.au
+*10750 pbx.vozdacura.org pbx.vozdacura.org
+*10751 as1.doorvaani.com as1.doorvaani.com
+*10752 hilton.org.mx hilton.org.mx
+*10753 sip.ventengo.de sip.ventengo.de
+*10754 sip.viptel.sk sip.viptel.sk
+*10755 jtw.dk jtw.dk
+*10756 sconk.dk sconk.dk
+*10757 sip3.nbncalling.com.au sip3.nbncalling.com.au
+*10758 mytelespace.net mytelespace.net
+*10759 sip.nitul.net sip.NITUL.net   Bangladesh,
+*10760 sip.ukrcall.net sip.ukrcall.net
+*10761 komeko.mynetgear.com komeko.mynetgear.com
+*10762 sip.tunepbx.com sip.tunepbx.com
+*10763 privisip.com privisip.com
+*10764 sip.zadarma.ru sip.zadarma.ru
+*10765 sip.algomatel.net sip.algomatel.net
+*10766 sip.yeg.tel sip.yeg.tel
+*10767 sip1.danvikfhs.no Danvik Folkehgskole   Norway
+*10768 dsf.3cx.us dsf.3cx.us   United States
+*10769 sip.panggilanmalaysia.com
+*10770 voip.sutsetjaya.com voip.sutsetjaya.com
+*10771 docs.linuxe.org docs.linuxe.org
+*10772 dub.softether.net dub.softether.net
+*10773 cnet.teknogeekz.com cnet.teknogeekz.com
+*10774 myspacebox.net myspacebox.net
+*10775 ns542553.ip-158-69-249.net
+*10776 docs.linuxe.changeip.org
+*10777 voip.zacharuk.ca voip.zacharuk.ca
+*10778 pbx.txsystems.net pbx.txsystems.net
+*10779 dlag.us.to dlag.us.to
+*10780 phones2000.chrisune.com phones2000.chrisune.com
+*10781 sip.flextel.net sip.flextel.net
+*10782 sip.madhukaruna.com Madhu Karuna   Germany,
+*10783 bridge.cipherpunk.pw bridge.cipherpunk.pw
+*10784 sip.telbuzzy.com sip.telbuzzy.com
+*10785 voip3.nextgentelecom.co.uk
+*10786 ruvoip.net ruvoip.net
+*10787 sip.tg sip.tg
+*10788 talk.yay.com talk.yay.com
+*10789 pbx.netexconsult.com pbx.netexconsult.com
+*10790 longoconsulting.us longoconsulting.us
+*10791 pbx15.login.pcsvoip.com pbx15.login.pcsvoip.com
+*10792 sip.telsome.es sip.telsome.es
+*10793 sip.lhr.aspect-cloud.net
