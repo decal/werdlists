@@ -9,6 +9,7 @@
 | [utf8-demo-samples](utf8-demo-samples.txt) |  sample UTF-8 encodings that must elicit positive test cases 
 | [utf8-edge-cases](utf8-edge-cases.txt) |  malformed UTF-8 text including edge cases to test decoders 
 | [utf8-greek-revelation](utf8-greek-revelation.txt) |  New Testament book of "Revelation" in Greek language 
+| [whatwg-encoding-labels](whatwg-encoding-labels.csv) |  [WHATWG](https://whatwg.org) encoding labels and names as a list of CSV's  
 
 * * *
 

@@ -45,6 +45,7 @@ Downgraded-Original-Recipient
 Downgraded-References
 dynaTrace
 Early-Data
+Embedding-CSP
 ETag
 Expect
 Expires

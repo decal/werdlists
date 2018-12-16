@@ -10,6 +10,7 @@
 | bigbad-hosts-list          | only `subdom-brute-list.txt` is larger than this file  
 | brutex-wordlists-namelist  | <https://github.com/1N3/BruteX/blob/master/wordlists/namelist.txt>  
 | brutex-wordlists-nameslist | <https://github.com/1N3/BruteX/blob/master/wordlists/nameslist.txt>  
+| cloudfail-data-subdomains  | <https://github.com/m0rtem/CloudFail/blob/master/data/subdomains.txt>
 | common-intranet-hosts      | host names commonly found on private intranets  
 | dns-dictionary-hosts       | `hosts.txt` taken from *DNSDictionary* tool  
 | dnsbrute-names-large       | a large list of host names via the [dnsbrute](https://github.com/d4rkcat/dnsbrute "Multi-threaded DNS bruteforcing") tool  

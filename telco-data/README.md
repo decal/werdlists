@@ -26,6 +26,7 @@
 | [sdf-outbound-rates](sdf-outbound-rates.csv.xz) |  CSV of outbound [VoIP](https://wikipedia.org/wiki/Voice_over_IP "Voice over IP") rates taken from the SDF FTP server 
 | [security-roadmap-taxonomy](security-roadmap-taxonomy.md) |  <https://itu.int/en/ITU-T/studygroups/2013-2016/17/ict/Pages/ict-part02.aspx> 
 | [sipbroker-peering-codes](sipbroker-peering-codes.txt) |  [SIPBroker](https://sipbroker.com) peering codes parsed from their web site via <http://sipbroker.com/sipbroker/action/providerWhitePages>  
+| [sip-methods-table](sip-methods-table.md) |  Table describing SIP request methods and the RFC documents they were specified in via <https://wikipedia.org/wiki/List_of_SIP_request_methods>
 | [sms2email-mailer-records](sms2email-mailer-records.txt) |  Cellular carriers' SMTP gateways for SMS messages 
 | [sms-spam-collection](sms-spam-collection.txt) |  various unsolicited commercial SMS messages in the UK 
 | [smtp2sms-email-addresses](smtp2sms-email-addresses.txt) | List of e-mail domains that act as SMTP gateways for SMS via: <http://www.tech-faq.com/how-to-send-text-messages-free.shtml>  
