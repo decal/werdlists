@@ -5,6 +5,7 @@
 | [areacode-database-rows](areacode-database-rows.csv) |  Database containing details on area codes from [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association") 
 | [att-800-numbers](att-800-numbers.txt) |  businesses with 800 numbers from [AT&T](https://att.net "American Telephone and Telegraph") 
 | [areacode-states-locations](areacode-states-locations.txt) |  Information about area codes in the United States 
+| [callemall-api-errors](callemall-api-errors.txt) | [call-em-all.com](https://call-em-all.com) SOAP API <https://dev.call-em-all.com/SoapApi>  
 | [country-codes-alphabetical](country-codes-alphabetical.txt) |  Country codes assigned by [ITU-T](https://itu.int "International Telecommunication Union") (alphabetical order) 
 | [country-codes-notes](country-codes-notes.txt) |  Define single letter notes referenced in country code files 
 | [country-codes-numerical](country-codes-numerical.txt) |  Country codes assigned by [ITU-T](https://itu.int "International Telecommunication Union") (numerical order) 

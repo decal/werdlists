@@ -1,0 +1,185 @@
+-1  Unexpected Error Check Exceptions Log
+0  Operation Successful :
+101  PhoneNumber does not contain 10 digits
+102  PhoneNumber is not in the continental US, Puerto Rico, Hawaii, or Canada
+103  PhoneNumber is on the Opt Out list
+104  Authentication failed - username or pin is invalid. Please contact support to setup or confirm your Account User ID or PIN.
+105  Account is inactive. Please contact customer support
+106  Account does not have enough credits
+107  Account is not authorized to use the API. Your Account must first be configured to use the API. Contact Support to configure the API for your account.
+108  You supplied an invalid messageID
+109  MaxPhoneCount must be >= 1
+110  Phone number exceeded call limit
+111  Current local time of phone number is outside of your calling window
+112  Unexpected value for checkMaxPhoneCount; Expecting 0 or 1
+113  Unexpected value for maxPhoneCount; maxPhoneCount must be >= 1
+114  Unexpected value for checkCallingWindow; Expecting 0 or 1
+115  Unexpected value for broadcastType; Expecting 1, 2 or 3
+116  Unexpected value for phoneNumberSource; Expecting 1, 2 or 3
+117  phoneNumberSource=2, but phoneNumberCSV is not supplied
+118  phoneNumberSource=1, but listID is not supplied
+119  launchDateTime must be in MM/DD/YYYY HH:MM AM/PM format
+120  launchDateTime must be in the future
+121  launchDateTime is outside of your calling window
+122  Not enough credits to launch this broadcast
+123  No good records found in phoneNumberCSV
+124  Unexpected value for getBroadcastSummary; Expecting 0 or 1
+125  Unexpected value for getBroadcastDetails; Expecting 0 or 1
+126  Unexpected value for surveyResultFilter; Expecting *,0,1,2,3,4,5,6,7,8, or 9
+127  Unexpected value for callResultFilter; Expecting 0,1,2,3,4,5,6,7,8, or 9
+128  Can not filter results by both surveyResultsFilter and callResultFilter. Only pass in one or the other
+129  getBroadcastDetails=1, but neither callResultFilter or surveyResultFilter is supplied
+130  getBroadcastDetails=0, but either callResultFilter or surveyResultFilter is supplied
+131  BroadcastID was not found
+132  Access denied - broadcastID does not belong to this account
+133  CallerID does not contain 10 digits
+134  Caller ID number can not be a call-em-all number
+135  BroadcastID is not numeric
+136  Broadcast is not active
+137  phoneNumberSource=3, but commaDelimitedPhoneNumbers is not supplied
+138  No good records found in submitted data
+139  Access denied, AudioID specified does not belong to this account
+140  ListID specified was not found
+141  Empty Binary Message not allowed
+142  Invalid AudioType specified
+143  Attempt to delete from an invalid listID
+144  An invalid AudioID was specified
+145  There is a billing problem with the account
+146  Access Denied - PersonID does not belong to this account
+147  Access Denied - PersonID does not belong to list
+150  Data validation error: A messageID was supplied for an SMS broadcast
+151  Data validation error: A messageIDVM was supplied for an SMS broadcast
+152  Data validation error: A TTS Parameter was specified for an SMS Broadcast
+155  You specified an invalid listID
+156  Attempt to delete an invalid listID
+160  Required parameter 'username' is missing or contains invalid data
+161  Required parameter 'pin' is missing or contains invalid data
+162  Required parameter 'broadcastID' is missing or contains invalid data
+163  Required parameter 'phoneNumber' is missing or contains invalid data
+164  Required parameter 'messageID' is missing or contains invalid data
+165  Required parameter 'sourceURL' is missing or contains invalid data
+166  Required parameter 'phoneNumberSource' is missing or contains invalid data
+167  Required parameter 'broadcastType' is missing or contains invalid data
+168  Required parameter 'phoneNumberSource' is missing or contains invalid data
+169  Required parameter 'broadcastName' is missing or contains invalid data
+170  Required parameter 'TTSText' is missing or contains invalid data
+171  Required parameter 'personID' is missing or contains invalid data
+172  Required parameter 'listID' is missing or contains invalid data
+173  Required parameter 'lastName' is missing or contains invalid data
+174  Required parameter 'address1' is missing or contains invalid data
+175  Required parameter 'city' is missing or contains invalid data
+176  Required parameter 'state' is missing or contains invalid data
+177  Required parameter 'zip' is missing or contains invalid data
+178  Required parameter 'cardNumber' is missing or contains invalid data
+179  Required parameter 'expYear' is missing or contains invalid data
+180  Required parameter 'expMonth' is missing or contains invalid data
+181  Required parameter 'CVN' is missing or contains invalid data
+182  Required parameter 'phone' is missing or contains invalid data
+183  Required parameter 'email' is missing or contains invalid data
+184  Required parameter 'firstName' is missing or contains invalid data
+185  Required parameter 'cardType' is missing or contains invalid data
+186  Required parameter 'audioID' is missing or contains invalid data
+187  Required parameter 'APIKey' is missing or contains invalid data
+188  Required parameter 'keyword' is missing or contains invalid data
+189  Unexpected value for broadcast type 0-voice, 1-SMS
+190  SMSMsg is blank or missing
+191  Invalid audioformat specified 0=WAV, 1=MP3
+192  Survey Options specified for SMS broadcast
+193  A survey structure was submitted that had errors
+194  AudioID in survey structure is invalid
+195  An invalid value was specified for 'Throttle' must be null or a valid positive integer
+196  Requested keyword is not available
+197  An invalid value for answerHandling was provided valid values are 0,1,2
+198  Cannot check availability of another Accounts sub-keywords
+199  Unexpected value for IsSalesIntro expected 0 or 1
+200  Unexpected value for IsFavorite expected 0 or 1
+201  Keywords must be between 3 and 20 digits alpha-numeric and dash only
+202  Unexpected value for IsAutoreplyOn expected 0 or 1
+203  IsAutoreplyOn specified but AutoReplyMessage is blank
+204  Required parameter 'listName' is missing or contains invalid data
+205  No listID found with that name
+206  Supplied Username/Phonenumber is invalid must be numeric with length >= 5 and <= 15
+207  TimeZone contains an invalid value
+208  ObservesDST contains and invalid value, expected either 1-Yes, Observes Daylight saving or 0-No, Does not
+209  Access Denied, your account is not authorized for this function
+210  Contact Support, your WB Profile has not been configured
+211  UDID Length Invalid
+212  UDID Not found, please verify
+213  Keyword specified was not found on account
+214  Invite Failed :
+215  Cannot link to the everyone list
+216  Required parameter 'jobName' is missing or contains invalid data
+217  Error Deleting schedule, verify jobName with GetSchedules
+218  Required parameter 'newListName' is missing or contains invalid data
+219  Persons array has to be populated.
+220  Unexpected error while deleting person from list.
+250  pageSize contains an invalid value; acceptable values 1 - 100; suggest values 20 - 50
+251  whatPage contains an invalid value; acceptable values 1 - N
+252  pageSize specified, but whatPage is null
+253  Cannot delete audioID entry referenced by a pending broadcast
+254  UDID Already exists in the system
+255  Username/Phonenumber Already exists in the system
+256  Error must populate numbersToAdd array
+257  Error deleting phonenumber :
+258  messageCounter must be numeric and > 0
+259  Unexpected value for sortField expected 0 or 1
+260  Cannot delete broadcast, still in active status, cancel first
+261  File specified could not be located:
+262  Request audio does not belong to requesting account
+263  Invalid MessageType specified expected 0, 1, 2 or 3
+264  Invitation NOT Sent, check response code
+265  WhiteBox settings are incomplete
+266  Broadcast does not contain any valid audio
+267  Required Data Missing or incorrect format :
+268  Failed to Initialize Scheduler
+269  Repeat Until time is less than or equal to Start time
+270  Error Parsing StartTime and or Duration
+271  Error during CreateTask
+272  Error creating Trigger
+273  Error processing days of week
+274  Invalid characters in text or size exceeded for field :
+275  StartDate cannot be greater than EndDate
+276  Status contains invalid data, expection '*', '0', '1' or '2'
+277  Provided audio or TTSText audio exceeded max length of 255 seconds
+278  Text in SMSMsg is longer than 160 characters
+279  StartDate provided was not recognized, use MM/DD/YYYY HH:MM:SS am/pm
+280  StopDate provided was not recognized, use MM/DD/YYYY HH:MM:SS am/pm
+281  Decryption failed contact support
+282  Security Violation detected
+283  You must provide a ListID or commaDelimitedPhoneNumbers
+284  You cannot provide both a ListID and commaDelimitedNumbers
+285  Selective recipients have not accepted an SMS invitation
+287  All call detail records provided are invalid.
+288  No call detail records provided.
+289  Broadcast type is not supported.
+290  No audio provided.
+291  Invalid authorization type.
+292  Invalid authorization status.
+293  Function is only available for master users.
+294  Invalid reason code.
+295  Cannot create a broadcast two years ahead in the future.
+296  This broadcast will raise your unique phone number count for this month over your subscription level. Please either increase your subscription level or remove numbers from this broadcast.
+297  Invalid value whether to delete groups.
+298  Invalid value whether to move contacts to trash.
+299  Url cannot be empty.
+300  Invalid expiration date format.
+301  Toll free number was not provided for text broadcast.
+302  Opt back in consent for phone number was not marked with yes.
+303  Abide by Terms Of Use for phone number was not marked with yes.
+304  Phone number has not been previously opted out.
+305  User is not fully onboarded. Please log in to your account and complete activation.
+306  Text in SMSMsg is longer than allowed
+307  Invalid notification event type
+308  Invalid notification subscription ID
+604  Username already exists
+605  PinCode is not valid
+700  Credit Failure Contact support for information
+900  Credit Card Processing Failed:
+901  Insufficient Credits:
+902  PhoneNumber Rejected:
+903  DB Exception:
+904  Could not convert Audio, please email it to support so that we can analyze it.
+998  TTSUpload Record was missing PhoneNumnber
+999  TTSUpload Record has invalid or empty template string specified
+
+https://dev.call-em-all.com/SoapApi

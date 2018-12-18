@@ -1,0 +1,28 @@
+.gitignore,Git
+.npmignore,NPM
+.dockerignore,Docker
+.coffeelintignore,CoffeeLint
+.slugignore,Slug Compiler
+.atomignore,Atom
+.hgignore,Mercurial
+.vscodeignore,Visual Studio Code
+.eslintignore,ESLint
+.chefignore,Chef
+.cvsignore,CVS
+.bzrignore,Bazaar
+.boringignore,Darcs
+.mtn-ignore,Monotone
+ignore-glob,Fossil
+.jshintignore,JSHint
+.tfignore,Team Foundation
+.p4ignore,Perforce
+.flooignore,Floobits
+.cfignore,Cloud Foundry
+.jpmignore,Jetpack
+.stylelintignore,StyleLint
+.stylintignore,Stylint
+.swagger-codegen-ignore,Swagger Codegen
+.stignore,Syncthing
+.helmignore,Kubernetes Helm
+.upignore,Vagrant Up
+.prettierignore,Prettier

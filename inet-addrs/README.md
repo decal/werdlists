@@ -14,10 +14,11 @@
 | [incapsula-cidr-blocks](incapsula-cidr-blocks.txt) |  IPv4 and IPv6 [CIDR blocks](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_blocks) occupied by the **Incapsula** WAF 
 | [malc0de-ip-blacklist](malc0de-ip-blacklist.txt) |  malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses") 
 | [malware-domain-ips](malware-domain-ips.txt) |  IP addresses from [Malware Domain List](https://www.malwaredomainlist.com) 
-| [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository
+| [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository  
 | [nmap-multicast-groups](nmap-multicast-groups.txt) |  taken from nmap's `nselib/data/mgroupnames.db` 
-| [org-unit-ident](org-unit-ident.txt.xz) |  Organizational Unit Identifiers from the [IEEE](https://ieee.org) 
-| [private-ipv4-abridged](private-ipv4-abridged.txt.xz) |  An abridged list of individually [Reserved IPv4 Addresses](https://wikipedia.org/wiki/Reserved_IP_addresses#IPv4) 
+| [org-unit-ident](org-unit-ident.txt.xz) |  Organizational Unit Identifiers from the [IEEE](https://ieee.org)  
+| [privaddr-range-edges](privaddr-range-edges.txt) |  Private address range edges, i.e. the beginning and end of blocks in RFC1918 [Private Address Space](https://tools.ietf.org/html/rfc1918#section-3)  
+| [private-ipv4-abridged](private-ipv4-abridged.txt.xz) |  An abridged list of individually [Reserved IPv4 Addresses](https://wikipedia.org/wiki/Reserved_IP_addresses#IPv4)  
 | [private-ipv4-blocks](private-ipv4-blocks.txt) |  Netblocks for [Special-Use IPv4 Addresses](https://tools.ietf.org/search/rfc5735 "RFC5735") 
 | [private-ipv4-ranges](private-ipv4-ranges.txt) |  Same as above, but in start-end notation instead of [CIDR](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing "Class Internet-Domain Routing") 
 | [private-ipv6-blocks](private-ipv6-blocks.txt) |  [IPv6 CIDR blocks](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing#IPv6_CIDR_blocks) taken from [Special-Purpose IP Address Registries](https://tools.ietf.org/html/rfc6890 "RFC6890") 

@@ -4,6 +4,7 @@
 |:---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | 1k-domain-affixes          | 1,000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
 | 2letter-2digit-dotcom      | possibly unregistered two-letter, two-digit `.com` domain names  
+| adstxt-alexa-domains       | Domains with [`ads.txt`](https://wikipedia.org/wiki/ads.txt) collected from [Alexa](https://alexa.com)  
 | azure-domain-names         | list of domain names from a reverse lookup on 64.4.6.100  
 | bitly-vanity-domains       | bitly vanity domains taken from a ruleset distributed with the [EFF HTTPS Everywhere](https://eff.org/https-everywhere "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.") browser extension <https://github.com/EFForg/https-everywhere/blob/master/src/chrome/content/rules/Bitly_branded_short_domains.xml>  
 | cctld-char-pairs           | a list of [ccTLD's](https://wikipedia.org/wiki/Country_code_top-level_domain "Country code top-level domain"), i.e. country code top-level domains)  

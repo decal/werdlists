@@ -15,6 +15,7 @@
 | [git-command-descs](git-command-descs.txt) |  git command names with manual page sections and descriptions 
 | [glibc-tunable-names](glibc-tunable-names.txt) |  options that match GNU libc runtime behavior with workload 
 | [icmpv6-iptables-rules](icmpv6-iptables-rules.sh) |  [ICMPv6](https://wikipedia.org/wiki/Internet_Control_Message_Protocol_for_IPv6 "Internet Control Message Protocol for IPv6") iptables rule set 
+| [ignorefiles-name-desc](ignorefiles-name-desc.csv) | Ignore file names and descriptions of associated software packages in CSV  
 | [kali-dpkg-list](kali-dpkg-list.txt.xz) |  A list of package names gathered with apt-cache on [Kali Linux](https://www.kali.org) 
 | [kali-tools-listing](kali-tools-listing.txt) | An alphabetized list of security tools packaged with the [Kali Linux](https://kali.org) distribution  
 | [kernel-git-shortlog](kernel-git-shortlog.txt) |  Kernel authors taken from source tree's `git shortlog` 
