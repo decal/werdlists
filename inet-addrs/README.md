@@ -2,6 +2,7 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [cisco-umbrella-network](cisco-umbrella-network.txt) |  <https://umbrella.cisco.com/blog/global-network/> 
 | [classa-rir-blocks](classa-rir-blocks.txt) |  Class A assignments to [IRR's (Internet Routing Registries)](http://www.irr.net/docs/list.html "List of Routing Registries") 
+| [cloudfront-cidr-blocks](cloudfront-cidr-blocks.json) | [CloudFront](https://cloudfront.net "CloudFront") CIDR Blocks represented as "pretty-printed" JSON via `json_pp`  
 | [danmeuk-torlist-ipaddrs](danmeuk-torlist-ipaddrs.txt) | TOR node list from `www.dan.me.uk` via <https://www.dan.me.uk/torlist>
 | [donotscan-ipv4-ranges](donotscan-ipv4-ranges.csv) |  ranges of [IPv4 addresses](https://wikipedia.org/wiki/IP_address#IPv4_addresses) that needn't be bothered 
 | [dshield-block-list](dshield-block-list.txt) |  recommended list of netblocks to block from [dshield.org](https://dshield.org) 

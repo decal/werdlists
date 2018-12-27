@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* Markdown link checker/editor
+
 * Clearly document web busting terminology
   - dirs/dirnames, basenames, paths/dirpaths, filepaths, folders, words, queries, variables, names, hosts, domains, etc. 
 

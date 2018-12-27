@@ -4,6 +4,7 @@
 | [adjective-words-list](adjective-words-list.txt) | list of various English adjective words 
 | [alfred-hitchcock-movies](alfred-hitchcock-movies.md) | all films produced by [Alfred Hitchcock](http://www.imdb.com/name/nm0000033/ "Alfred Hitchcock - IMDb") <http://infolab.stanford.edu/pub/movies/Hitch.html> 
 | [bbs-subjects-list](bbs-subjects-list.txt) | list of forum topics from an electronic [bulletin board system](https://wikipedia.org/wiki/Bulletin_board_system "BBS")  
+| [book-titles-list](book-titles-list.txt.xz) | Loosely formatted list of book titles  
 | [buildings-word-list](buildings-word-list.txt) | list of words related to buildings from <http://domainsbot.com/Content/Data/terms/buildings.txt> 
 | [business-noun-words](business-noun-words.txt) | a list of words that can be categorized as business-related nouns
 | [common-english-words](common-english-words.txt) | a brief listing of the most commonly used words in English (the top 30)
@@ -29,6 +30,7 @@
 | [linux-words-dict](linux-words-dict.txt) | words taken from `/usr/share/dict/words` on Linux install 
 | [longest-english-words](longest-english-words.txt) | alphabetized list of English words that are longer than twenty letters 
 | [mrrobot-season3-subtitles](mrrobot-season3-subtitles.txt) | Subtitles for season three of the _Mr. Robot_ television series <https://www.podnapisi.net/subtitles/search/mr-robot-2015/SOM?seasons=3> 
+| [multi-lingual-vernacular](multi-lingual-vernacular.txt.xz) | Popular vernacular from common languages along with associated numeric rating of each  
 | [not-found-translations](not-found-translations.txt) | "Not Found" translations on [iBiblio](http://ibiblio.org) 
 | [obama-nobel-speech](obama-nobel-speech.txt) | [Barack Obama's 2009 Nobel Peace Prize](https://wikipedia.org/wiki/2009_Nobel_Peace_Prize#Barack_Obama) award acceptance speech 
 | [objects-name-list](objects-name-list.txt) | listing that contains names of various objects from <http://domainsbot.com/Content/Data/terms/objects.txt> 

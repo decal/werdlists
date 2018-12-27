@@ -26,6 +26,7 @@
 | [generate-locales-short](generate-locales-short) | enumerate short list of locale path names from `locales.txt` file   
 | [generate-locales-long](generate-locales-long) | generate a longer list of locale path names  
 | [manpage-constants-libcurl](manpage-constants-libcurl) | extract libcurl handle option constants from manual page  
+| [parse-v8flags](parse-v8flags) | parse command-line options from `~/.v8flags.*.json` files  
 | [publicsuffix](publicsuffix) | convert the public suffix data file from [Mozilla Cross-Reference](https://mxr.mozilla.org) to JSON <https://gist.github.com/hattya/1528011>  
   
 * * *  

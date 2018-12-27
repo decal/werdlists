@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+#
+# parse-v8flags v1.0
+#
+# parse command line options from a ~/.v8flags.*.json file
+#
+# Written By:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last Updated: Thu Dec 27 11:16:22 PST 2018
+# Tested On:    Darwin 17.7.0 x86_64
+#
+
+if [ ! "$1" ]
+  then echo
+  echo "usage: $0 V8FLAGS [...]"
+  echo 
+  echo '  V8FLAGS  path to .v8flags.json file to parse command line options from'
+  echo
+
+  exit 1
+fi
+
+for afile in $*
+  do (cat -- "$afile" | tr ',' '\n' | tr -d ']' | tr -d '[' | tr -d '"'
+  echo)
+done | sort -u
+
+exit 0
