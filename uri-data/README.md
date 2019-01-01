@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [duckduckgo-trackers-whitelist](duckduckgo-trackers-whitelist.txt) |  Text file of line-based domain-specific language for whitelisting tracker false positives; hosted on primary web server at [DuckDuckGo](https://duckduckgo.com) via <https://duckduckgo.com/contentblocking/trackers-whitelist.txt>  
 | [ftp-server-urls](ftp-server-urls.txt) |  various well-known [FTP](https://wikipedia.org/wiki/File_Transfer_Protocol) service sites 
 | [google-cloud-launchers](google-cloud-launchers.txt) |  locations of [Google Compute Engine](https://cloud.google.com/compute/docs "Google Compute Engine Documentation") app launchers 

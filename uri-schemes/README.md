@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [browser-about-uris](browser-about-uris.txt) |  browser-specific URI's that rely on the `about:` scheme 
 | [chrome-winobj-urls](chrome-winobj-urls.txt) |  URL's that successfully load on Windows using the `chrome:` scheme (list compiled by correlating with [WinObjEx64](https://github.com/hfiref0x/WinObjEx64)) 
 | [curl-config-protocols](curl-config-protocols.txt) |  output of the command `curl-config --protocols` 
