@@ -1,4 +1,5 @@
 [![werdlists/web-sites](https://img.shields.io/badge/werdlists-web_sites-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/web-sites")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [active-search-engines](active-search-engines.txt) |  list of active general purpose search engine names from <https://wikipedia.org/wiki/Template:Web_search_engines> 

@@ -1,4 +1,5 @@
 [![werdlists/environ-vars](https://img.shields.io/badge/werdlists-environ_vars-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/environ-vars")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [adobe-expmgr-names](adobe-expmgr-names.txt) |  [Adobe Experience Manager](https://adobe.com/marketing-cloud/experience-manager.html) environment variables of quickstart 

@@ -1,4 +1,5 @@
 [![werdlists/string-enums](https://img.shields.io/badge/werdlists-string_enums-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/string-enums")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [alpha-lower-chars](alpha-lower-chars.txt) |  Individual alphabetic letters without any capitalization 

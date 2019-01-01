@@ -1,4 +1,5 @@
 [![werdlists/uri-schemes](https://img.shields.io/badge/werdlists-uri_schemes-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/uri-schemes")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [browser-about-uris](browser-about-uris.txt) |  browser-specific URI's that rely on the `about:` scheme 

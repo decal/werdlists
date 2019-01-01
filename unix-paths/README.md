@@ -1,4 +1,5 @@
 [![werdlists/unix-paths](https://img.shields.io/badge/werdlists-unix_paths-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/unix-paths")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [common-home-dirs](common-home-dirs.txt) |  common directory names found within a user's home path 

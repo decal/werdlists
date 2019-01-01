@@ -1,4 +1,5 @@
 [![werdlists/char-encodes](https://img.shields.io/badge/werdlists-char_encodes-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/char-encodes")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ascii-code-table](ascii-code-table.txt) |  ASCII standard code table in ASCII art taken from IETF *RFC20* 

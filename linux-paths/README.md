@@ -1,4 +1,5 @@
 [![werdlists/linux-paths](https://img.shields.io/badge/werdlists-linux_paths-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/linux-paths")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [crontab-group-dirs](crontab-group-dirs.txt) |  directories with ownership by the crontab group 

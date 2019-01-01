@@ -1,4 +1,5 @@
 [![werdlists/cpu-arch](https://img.shields.io/badge/werdlists-cpu_arch-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/cpu-arch")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [macos-arch-info](macos-arch-info.md) |  parsed from `arch(3)` manual page on MacOS  

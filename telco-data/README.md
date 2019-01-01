@@ -1,4 +1,5 @@
 [![werdlists/telco-data](https://img.shields.io/badge/werdlists-telco_data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/telco-data")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ansi-t1-refslist](ansi-t1-refslist.txt) |  <https://web.archive.org/web/20060929025357fw_/http://www.its.bldrdoc.gov/projects/devglossary/t1g-forw.html> 

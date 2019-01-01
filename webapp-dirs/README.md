@@ -1,4 +1,5 @@
 [![werdlists/webapp-dirs](https://img.shields.io/badge/werdlists-webapp_dirs-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-dirs")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apache-struts-dirnames](apache-struts-dirnames.txt) | Directories found in releases of the [Apache Struts](https://struts.apache.org "Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications.") MVC framework  

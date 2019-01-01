@@ -1,4 +1,5 @@
 [![werdlists/uri-data](https://img.shields.io/badge/werdlists-uri_data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/uri-data")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [duckduckgo-trackers-whitelist](duckduckgo-trackers-whitelist.txt) |  Text file of line-based domain-specific language for whitelisting tracker false positives; hosted on primary web server at [DuckDuckGo](https://duckduckgo.com) via <https://duckduckgo.com/contentblocking/trackers-whitelist.txt>  

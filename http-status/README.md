@@ -1,4 +1,5 @@
 [![werdlists/http-status](https://img.shields.io/badge/werdlists-http_status-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-status")
+
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ezproxy-status-codes](ezproxy-status-codes.txt) |  [EZproxy](https://www.oclc.org/support/services/ezproxy/documentation/cfg/logformat.en.html) 
