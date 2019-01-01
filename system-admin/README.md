@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [10immutable-security-laws](10immutable-security-laws.txt) |  See <https://technet.microsoft.com/library/hh278941.aspx> 
 | [azure-security-alerts](azure-security-alerts.txt) | Azure Security Center Alerts <https://docs.microsoft.com/azure/security-center/security-center-alerts-type>  
 | [bofh-excuses-file](bofh-excuses-file.txt) |  excuses list file from the [Bastard Operator From Hell Style Excuse Server](http://pages.cs.wisc.edu/~ballard/bofh/) by Jeff Ballard 

@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [all-brew-packages](all-brew-packages.txt) | All [Homebrew](https://brew.sh) packages listed with the command: `brew search`
 | [all-node-packages](all-node-packages.txt) | Output from `all-the-package-names` NodeJS command
 | [autoconf-archive-macros](autoconf-archive-macros.txt) | GNU autoconf m4 macros list from <https://gnu.org/software/autoconf>

@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [anti-spam-autoresponse](anti-spam-autoresponse.txt) |  why your approach to fighting spam won't work <https://gist.github.com/philchristensen/1130439> 
 | [google-data-collection](google-data-collection.txt) |  Google data collection policy extracted from the Google LLC entry of the Privacy Shield List via <https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>  
 | [nist-copyright-comments](nist-copyright-comments.cpp) |  NIST source code copyright message in C++ style comments 

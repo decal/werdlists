@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [alpha-lower-chars](alpha-lower-chars.txt) |  Individual alphabetic letters without any capitalization 
 | [alpha-lower-pairs](alpha-lower-pairs.txt) |  All possible pairings of lowercase alphabetic characters 
 | [_alpha-lower-pairs](_alpha-lower-pairs.txt) |  List of under-scored lowercase alphabetic letter pairings 
