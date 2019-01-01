@@ -3,13 +3,13 @@
 | [acronyms-defined-dict](acronyms-defined-dict.txt) | dictionary of acronyms defined from technical jargon 
 | [adjective-words-list](adjective-words-list.txt) | list of various English adjective words 
 | [alfred-hitchcock-movies](alfred-hitchcock-movies.md) | all films produced by [Alfred Hitchcock](http://www.imdb.com/name/nm0000033/ "Alfred Hitchcock - IMDb") <http://infolab.stanford.edu/pub/movies/Hitch.html> 
-| [bbs-subjects-list](bbs-subjects-list.txt) | list of forum topics from an electronic [bulletin board system](https://wikipedia.org/wiki/Bulletin_board_system "BBS")  
-| [book-titles-list](book-titles-list.txt.xz) | Loosely formatted list of book titles  
+| [bbs-subjects-list](bbs-subjects-list.txt) | list of forum topics from an electronic [bulletin board system](https://wikipedia.org/wiki/Bulletin_board_system "BBS") 
+| [book-titles-list](book-titles-list.txt.xz) | Loosely formatted list of book titles 
 | [buildings-word-list](buildings-word-list.txt) | list of words related to buildings from <http://domainsbot.com/Content/Data/terms/buildings.txt> 
-| [business-noun-words](business-noun-words.txt) | a list of words that can be categorized as business-related nouns
-| [common-english-words](common-english-words.txt) | a brief listing of the most commonly used words in English (the top 30)
+| [business-noun-words](business-noun-words.txt) | a list of words that can be categorized as business-related nouns 
+| [common-english-words](common-english-words.txt) | a brief listing of the most commonly used words in English (the top 30) 
 | [curse-words-list](curse-words-list.txt) | _**Warning!**_ list of vulgar (i.e. "curse") words 
-| [english-connective-words](english-connective-words.txt) list of "connective" English words--these are words that can often be dropped from simple search queries  
+| [english-connective-words](english-connective-words.txt) | list of "connective" English words--these are words that can often be dropped from simple search queries 
 | [english-top-1000](english-top-1000.txt) | 1,000 most used words in the [English language](https://wikipedia.org/wiki/English_language)
 | [english-top-1500](english-top-1500.txt) | 1,500 most used words in the English language taken from [htpwdScan](https://github.com/lijiejie/htpwdScan "A python HTTP weak pass scanner")
 | [english-words-various](english-words-various.txt.xz) | various english words taken from some old ZIP files 
@@ -51,13 +51,13 @@
 | [spike-proxy-allwords](spike-proxy-allwords.txt) | dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 
 | [technical-manual-words](technical-manual-words.txt) | various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt> 
 | [tweet-word-ngrams](tweet-word-ngrams.txt.xz) |  binary sequence and words parsed from tweets with cardinality 
-| [usenet-name-strings](usenet-name-strings.txt) |  strings parsed from USENET names
+| [usenet-name-strings](usenet-name-strings.txt) |  strings parsed from USENET names 
 | [usgovt-manual-acronyms](usgovt-manual-acronyms.txt) | [U.S. Government Manual](https://usgovernmentmanual.gov) Commonly Used Agency Acronyms 
-| [various-vocabulary-sorted](various-vocabulary-sorted.txt) | Various English words in lowercase and sorted  
+| [various-vocabulary-sorted](various-vocabulary-sorted.txt) | Various English words in lowercase and sorted 
 | [word-cluster-ngrams](word-cluster-ngrams.txt) | word clusters parsed from the text in millions of tweets 
 | [worker-death-cases](worker-death-cases.txt) | sentences sorted by increasing length, each of which details unique cases of worker death 
 | [worker-death-summaries2017](worker-death-summaries2017.csv) | [Occupational Health and Safety Adminstration](https://osha.gov "United States Department of Labor") [Archive Reports of Fatalities and Catastrophes](https://www.osha.gov/dep/fatcat/dep_fatcat_archive.html "Fatality Inspection Data Incident Files for Federal/State Summaries") 
-| [yo-momma-jokes](yo-momma-jokes.txt) | over one thousand very crude ["yo momma!" jokes](https://yomamajokesgalore.com/ "Yo Mama Jokes Galore!")
+| [yo-momma-jokes](yo-momma-jokes.txt) | over one thousand _very_ crude ["yo momma!" jokes](https://yomamajokesgalore.com/ "Yo Mama Jokes Galore!") 
 | [zoo-animal-list](zoo-animal-list.txt) | an alphabetically sorted list of names for zoo-kept animals 
 
 * * *

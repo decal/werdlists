@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [anti-virus-software](anti-virus-software) |  list of Anti-Virus software suites groked from [VirusTotal](https://www.virustotal.com) 
 | [clsid-shell-locations](clsid-shell-locations) |  <https://winaero.com/blog/clsid-guid-shell-list-windows-10/> 
 | [clsids-various-list](clsids-various-list) | Unique list of various CLSID's from Windows 8 and Windows 10 <https://wikipedia.org/wiki/Windows_Master_Control_Panel_shortcut>   
