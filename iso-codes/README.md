@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [country-2char-codes](country-2char-codes.csv) |  CSV of 2-letter country code abbreviations 
 | [country-details-list](country-details-list.txt) |  3 ISO-3166 codes, population, area, capital and continent 
 | [iata-airport-codes](iata-airport-codes.txt) |  IATA 3-letter airport code identifiers 

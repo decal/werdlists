@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apt-cache-search](apt-cache-search.txt.xz) |  list of [Debian](https://debian.org) packages gathered via empty cache search string 
 | [apt-config-dump](apt-config-dump.txt) |  sample contents of [Debian APT](https://wiki.debian.org/Apt "Advanced Packaging Tool") packages' configuration space 
 | [archstrike-package-list](archstrike-package-list.txt) |  list of [pacman](https://www.archlinux.org/pacman/ "Pacman Home Page") packages distributed with [ArchStrike](https://archstrike.org) from <https://archstrike.org/packages/search/%20/name-description> 
