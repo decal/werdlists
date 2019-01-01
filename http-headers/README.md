@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [about-http-headers](about-http-headers.txt) |  Descriptions for the most common HTTP header fields 
 | [access-control-headers](access-control-headers.txt) |  [Cross Origin Resource Sharing](https://wikipedia.org/wiki/Cross-origin_resource_sharing) (CORS) header name list 
 | [amazon-http-headers](amazon-http-headers.txt) |  HTTP headers specific to Amazon 

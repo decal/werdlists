@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [all-redirect-params](all-redirect-params.txt) |  all parameters for location redirects combined as one file 
 | [burp-parameter-names](burp-parameter-names.txt) |  strings used by [Burp Suite Scanner](https://portswigger.net/burp) when scanning for query variable names 
 | [common-redirect-params](common-redirect-params.txt) |  parameters commonly used in location redirects 

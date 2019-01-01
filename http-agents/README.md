@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [badbotlist-user-agents](badbotlist-user-agents.conf) |  [Apache HTTP Server](https://httpd.apache.org) configuration to reject requests containing bad user agents <https://gist.github.com/idea34/1377722> 
 | [chrome-user-agents](chrome-user-agents.txt) |  [Google Chrome](https://chrome.google.com) user agent strings 
 | [common-user-agents](common-user-agents.txt) |  common user agent strings 

@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [aria-roles-list](aria-roles-list.txt) |  list of [ARIA](https://w3.org/WAI/intro/aria) (Accessible Rich Internet Applications) role names 
 | [aria-states-properties](aria-states-properties.txt) |  list of aria states and properties via <https://w3.org/WAI/PF/aria/states_and_properties>  
 | [code-syntax-coloring](code-syntax-coloring.js) |  JavaScript function to create HTML `<font>` color tags for provided code syntax  
