@@ -1,4 +1,4 @@
-[![werdlists/cmd-usage](https://img.shields.io/badge/werdlists-cmd-usage-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/cmd-usage")
+[![werdlists/cmd-usage](https://img.shields.io/badge/werdlists-cmd_usage-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/cmd-usage")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [debian-dns-commands](debian-dns-commands.txt) |  path names to DNS commands on a Debian GNU/Linux operating system installation 

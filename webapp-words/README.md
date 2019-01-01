@@ -1,4 +1,4 @@
-[![werdlists/webapp-words](https://img.shields.io/badge/werdlists-webapp-words-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-words")
+[![werdlists/webapp-words](https://img.shields.io/badge/werdlists-webapp_words-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-words")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apache-struts-folders](apache-struts-folders.txt) |  folders extracted from path names in [Apache Struts](https://struts.apache.org "Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications.") release packages   

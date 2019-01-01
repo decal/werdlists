@@ -1,4 +1,4 @@
-[![werdlists/dns-domains](https://img.shields.io/badge/werdlists-dns-domains-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-domains")
+[![werdlists/dns-domains](https://img.shields.io/badge/werdlists-dns_domains-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-domains")
 # DNS Domains
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
