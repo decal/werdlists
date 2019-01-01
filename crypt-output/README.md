@@ -1,3 +1,4 @@
+[![werdlists/crypt-output](https://img.shields.io/badge/werdlists-crypt-output-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/crypt-output")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [000000-hash-values](000000-hash-values.txt) |  the string "000000" ciphered by many popular hash functions 

@@ -1,3 +1,4 @@
+[![werdlists/char-sequence](https://img.shields.io/badge/werdlists-char-sequence-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/char-sequence")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [1-alnum_0-z](1-alnum_0-z.txt) | list containing one of each alphanumeric character  

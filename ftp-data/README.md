@@ -1,3 +1,4 @@
+[![werdlists/ftp-data](https://img.shields.io/badge/werdlists-ftp-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/ftp-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ftp-commands-bnf](ftp-commands-bnf.txt) |  FTP commands optional/mandatory arguments in [Bach-Naurus Form](https://wikipedia.org/wiki/Backus%E2%80%93Naur_form) 

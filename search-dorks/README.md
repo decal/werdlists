@@ -1,3 +1,4 @@
+[![werdlists/search-dorks](https://img.shields.io/badge/werdlists-search-dorks-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/search-dorks")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [github-commented-dorks](github-commented-dorks.txt) |  annotated queries for finding sensitive code on GitHub 

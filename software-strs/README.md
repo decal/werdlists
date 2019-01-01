@@ -1,3 +1,4 @@
+[![werdlists/software-strs](https://img.shields.io/badge/werdlists-software-strs-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/software-strs")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [all-brew-packages](all-brew-packages.txt) | All [Homebrew](https://brew.sh) packages listed with the command: `brew search`

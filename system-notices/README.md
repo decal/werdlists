@@ -1,3 +1,4 @@
+[![werdlists/system-notices](https://img.shields.io/badge/werdlists-system-notices-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/system-notices")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [anti-spam-autoresponse](anti-spam-autoresponse.txt) |  why your approach to fighting spam won't work <https://gist.github.com/philchristensen/1130439> 

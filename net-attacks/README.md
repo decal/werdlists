@@ -1,3 +1,4 @@
+[![werdlists/net-attacks](https://img.shields.io/badge/werdlists-net-attacks-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/net-attacks")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ddos-attack-glossary](ddos-attack-glossary.txt) |  names/descriptions of distributed [denial of service attacks](https://wikipedia.org/wiki/Denial-of-service_attack) 

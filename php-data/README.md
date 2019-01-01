@@ -1,3 +1,4 @@
+[![werdlists/php-data](https://img.shields.io/badge/werdlists-php-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/php-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [composer-packages-list](composer-packages-list.txt.xz) |  names of packages available from [PHP](https://secure.php.net) `composer.phar` 

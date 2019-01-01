@@ -1,3 +1,4 @@
+[![werdlists/database-strs](https://img.shields.io/badge/werdlists-database-strs-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/database-strs")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [columns-pascalcase-list](columns-pascalcase-list.txt) |  a list of common column names in PascalCase naming 

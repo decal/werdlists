@@ -1,3 +1,4 @@
+[![werdlists/passes-dicts](https://img.shields.io/badge/werdlists-passes-dicts-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/passes-dicts")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [10k-most-common](10k-most-common.txt) |  10,000 most commonly used passwords in one file (one per line) 

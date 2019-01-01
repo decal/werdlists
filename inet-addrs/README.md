@@ -1,3 +1,4 @@
+[![werdlists/inet-addrs](https://img.shields.io/badge/werdlists-inet-addrs-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/inet-addrs")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [cisco-umbrella-network](cisco-umbrella-network.txt) |  <https://umbrella.cisco.com/blog/global-network/> 

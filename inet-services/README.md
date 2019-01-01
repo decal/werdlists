@@ -1,3 +1,4 @@
+[![werdlists/inet-services](https://img.shields.io/badge/werdlists-inet-services-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/inet-services")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bgp-looking-telnet](bgp-looking-telnet.txt) |  [BGP Looking Glass](https://www.bgp4.net/) telnet servers sampled from [Advanced Internet Routing Resources](http://www.bgp4.as) 

@@ -1,3 +1,4 @@
+[![werdlists/iso-codes](https://img.shields.io/badge/werdlists-iso-codes-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/iso-codes")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [country-2char-codes](country-2char-codes.csv) |  CSV of 2-letter country code abbreviations 

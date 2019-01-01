@@ -1,3 +1,4 @@
+[![werdlists/code-keywords](https://img.shields.io/badge/werdlists-code-keywords-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/code-keywords")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [awk-builtin-variables](awk-builtin-variables.txt) |  builtin variable names and values for [AWK](https://wikipedia.org/wiki/AWK) language 

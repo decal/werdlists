@@ -1,3 +1,4 @@
+[![werdlists/file-extens](https://img.shields.io/badge/werdlists-file-extens-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/file-extens")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ack-types-list](ack-types-list.md) | list of file types supported by [ack](https://beyondgrep.com "ack is a tool like grep, optimized for programmers")  

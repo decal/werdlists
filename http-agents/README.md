@@ -1,3 +1,4 @@
+[![werdlists/http-agents](https://img.shields.io/badge/werdlists-http-agents-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-agents")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [badbotlist-user-agents](badbotlist-user-agents.conf) |  [Apache HTTP Server](https://httpd.apache.org) configuration to reject requests containing bad user agents <https://gist.github.com/idea34/1377722> 

@@ -1,3 +1,4 @@
+[![werdlists/social-data](https://img.shields.io/badge/werdlists-social-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/social-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [github-user-names](github-user-names.txt) |  User names associated with [GitHub](https://github.com) accounts 

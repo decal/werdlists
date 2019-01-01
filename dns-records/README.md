@@ -1,3 +1,4 @@
+[![werdlists/dns-records](https://img.shields.io/badge/werdlists-dns-records-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-records")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_File&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_ |
 |:--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bind9-rec-types](bind9-rec-types.txt) | [BIND9](http://bind9.net) record types according to `named-rrchecker -T`    
