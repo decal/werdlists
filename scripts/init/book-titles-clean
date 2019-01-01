@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+xzcat *.txt.xz | wc -l
+
+xzcat *.txt.xz | strings > btl.strs
+
+wc -l btl.strs
+
+sort -uif btl.strs > btl.str
+
+wc -l btl.str
+
+sed -E 's!^[[:space:]]*!!' btl.str | sed -E 's![[:space:]]*$!!' | sort -uif > btl.txt
+
+wc -l btl.txt
+
+tail -n +2 btl.txt | head -242970 > book-titles-list.txt
+
+rm -f btl.*
+
+wc -l book-titles-list.txt
+
+ls -lh book-titles-list.txt
+
+exit 0
