@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [adobe-top-passes](adobe-top-passes.txt) | the top 100 passwords from a compromise at [Adobe](https://adobe.com/) 
 | [airport-wifi-passwords](airport-wifi-passwords.txt) | list of keys and SSID's for public Wi-Fi access points in airports around the world
 | [ashley-madison-passwords](ashley-madison-passwords.txt) | list of passwords from the Ashley Madison incident

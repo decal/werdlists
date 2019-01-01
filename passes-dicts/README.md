@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [10k-most-common](10k-most-common.txt) |  10,000 most commonly used passwords in one file (one per line) 
 | [1k-most-common](1k-most-common.txt) |  1,000 most commonly used passwords.. 
 | [1mil-activedir-passwords](1mil-activedir-passwords.txt.xz) |  list of potential Active Directory passwords used by the `icebreaker` tool <https://github.com/DanMcInerney/icebreaker/blob/master/1mil-AD-passwords.txt> 
