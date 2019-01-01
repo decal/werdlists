@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [3char-file-extensions](3char-file-extensions.txt) |  all three character file extensions 
 | [admin-paths-robots](admin-paths-robots.txt) |  paths from wild robots.txt that contain substring "admin" 
 | [admin-word-strings](admin-word-strings.txt) |  words that contain the substring "admin" 

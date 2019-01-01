@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [active-search-engines](active-search-engines.txt) |  list of active general purpose search engine names from <https://wikipedia.org/wiki/Template:Web_search_engines> 
 | [alexa-top1mil-sites](alexa-top1mil-sites.txt.xz) |  [Alexa](https://www.alexa.com) list of top 1 million web sites 
 | [amazon-aws-namespaces](amazon-aws-namespaces.txt) | [AWS](https://aws.amazon.com "Amazon Web Services") name spaces (paths found in `aws.amazon.com` URL's)  

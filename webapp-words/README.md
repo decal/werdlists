@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apache-struts-folders](apache-struts-folders.txt) |  folders extracted from path names in [Apache Struts](https://struts.apache.org "Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications.") release packages   
 | [burp-word-list](burp-word-list.txt.xz) |  word list taken from [Burp Proxy](https://portswigger.net/burp "Burp Suite Scanner") attack tool 
 | [dirb-list-words](dirb-list-words.txt) |  file names taken parsed from the [dirb](https://dirb.sourceforge.net) `wordlists` folder 

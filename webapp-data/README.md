@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [alternative-to-dmoz](alternative-to-dmoz.md) | Sitemap of `alternative.to` which is similar to [DMOZ](http://www.dmoz.org) categories via <http://alternative.to/sitemap>
 | [apache-httpd-programs](apache-http-programs.txt) | list of Apache httpd programs and descriptions  
 | [apache-gitbox-repos](apache-gitbox-repos.txt) | `apache.org` GitBox Repositories <https://gitbox.apache.org/repos/asf>  
