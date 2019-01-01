@@ -2,6 +2,7 @@
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [active-search-engines](active-search-engines.txt) |  list of active general purpose search engine names from <https://wikipedia.org/wiki/Template:Web_search_engines> 
 | [alexa-top1mil-sites](alexa-top1mil-sites.txt.xz) |  [Alexa](https://www.alexa.com) list of top 1 million web sites 
+| [amazon-aws-namespaces](amazon-aws-namespaces.txt) | [AWS](https://aws.amazon.com "Amazon Web Services") name spaces (paths found in `aws.amazon.com` URL's)  
 | [amazon-macie-types](amazon-macie-types.md) | [Amazon Macie](https://aws.amazon.com/macie/ "A machine learning-powered security service to discover, classify and protect sensitive data.") data object content types via <https://docs.aws.amazon.com/macie/latest/userguide/macie-classify-objects-content-type.html>  
 | [censorship-test-urls](censorship-test-urls.csv.xz) |  URL testing list intended for discovering web site censorship <https://github.com/citizenlab/test-lists> 
 | [content-access-guidelines](content-access-guidelines.txt) |  Web Content Accessibility Guidelines by [W3C](https://w3.org "World Wide Web Consortium") 

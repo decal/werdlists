@@ -9,6 +9,7 @@
 | [github-linguist-languages](github-linguist-languages.yml) |  all languages [GitHub](https://github.com) detects 
 | [javascript-future-words](javascript-future-words.txt) |  Reserved identifiers for future JavaScript syntax 
 | [javascript-reserved-words](javascript-reserved-words.txt) |  Words that can't be used in current JavaScript syntax 
+| [nodejs-repl-words](nodejs-repl-words.txt) |  Words extracted from [NodeJS](https://nodejs.org "JavaScript runtime built on Chrome's V8 JavaScript engine") REPL by pressing Tab key at prompt  
 | [openssl-header-constants](openssl-header-constants.txt) |  Preprocessor constants defined in OpenSSL header files 
 | [openssl-library-functions](openssl-library-functions.txt) |  [OpenSSL](https://openssl.org) man page functions
 | [operator-precedence-table](operator-precedence-table.asc) | [C Operator Precedence](https://en.cppreference.com/w/c/language/operator_precedence) table showing precedence order and [associativity](https://wikipedia.org/wiki/Operator_associativity)  

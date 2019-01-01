@@ -14,6 +14,7 @@
 | [unix-date-regexp](unix-date-regexp.txt) |  a very long regexp meant to match UNIX date strings 
 | [uri-regexp-putty](uri-regexp-putty.txt) | default regular expression configured in [PuTTY](https://putty.org "PuTTY is an SSH and telnet client") for matching URI's
 | [url-capture-regex](url-capture-regex.txt) | regular expression to match URL's in terminal text from [iTerm2](https://iterm2.com "iTerm2 is a terminal emulator for macOS that does amazing things.") settings
+| [urlregexp-loose-url](urlregexp-loose-url.txt) | Regular expression to match URL's in a body of plain text <https://raw.githubusercontent.com/webmodules/urlregexp/master/loose-url.regexp>  
 
 * * *
 

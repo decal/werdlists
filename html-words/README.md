@@ -9,6 +9,7 @@
 | [html-entities-spec](html-entities-spec.json) |  HTML entities with associated codepoints and characters <https://html.spec.whatwg.org/entities.json> 
 | [html5-tags-list](html5-tags-list.txt) |  A list of [HTML5](https://wikipedia.org/wiki/HTML5) tags (one-per-line) 
 | [iso8859-characters-list](iso8859-characters-list.txt) |  Character entity references for [ISO 8859-1](https://wikipedia.org/wiki/ISO/IEC_8859-1) characters <https://w3.org/TR/html401/sgml/entities.html#h-24.2.1> 
+| [javascript-codereview-coverage](javascript-codereview-coverage.txt) |  List of common issues/bugs to check for during code review of JavaScript syntax  
 | [javascript-reserved-words](javascript-reserved-words.txt) |  reserved words in [JavaScript](https://wikipedia.org/wiki/JavaScript) 
 | [left-angle-bracket](left-angle-bracket.txt) |  70 '<' encodings from [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) 
 | [meta-name-extensions](meta-name-extensions.txt) |  Extension values for the `name=""` attribute of the HTML `<meta>` element via <https://wiki.whatwg.org/wiki/MetaExtensions>  

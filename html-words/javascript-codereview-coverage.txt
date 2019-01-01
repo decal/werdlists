@@ -1,0 +1,67 @@
+Flow Control
+  if
+  else
+  else if
+  while
+  try / catch / throw
+
+Interaction
+  console.log
+  alert
+  confirm
+  prompt
+
+String
+  ''
+  '\''
+  '\n'
+  'a' + 'b'
+  a === b
+  a !== b
+  string.length
+  string[x]
+
+Boolean
+  true
+  false
+
+Number
+  1
+  1 + 2
+  1 - 2
+  1 / 2
+  1 * 2
+  1 % 2
+  1 > 2
+  2 < 1
+  parseInt()
+
+Array
+  []
+  [x]
+  [x, y]
+  array[x]
+  array.length
+  array.push(x)
+  array.pop()
+
+Object
+  {}
+  {a: b}
+  {'has space': b}
+  object[x]
+  Object.keys()
+
+Functions
+  function () {}
+  fn()
+  function () { return x }
+  var x = fn()
+  function (x) { return y }
+  var x = fn(y)
+  function (x, y) { return z }
+  var x = fn(x, y)
+  var x ; function () { return x }
+  var x = function () { } ; x()
+  fn(function (...) {...})
+  function (...) { return function (..) {...} }
