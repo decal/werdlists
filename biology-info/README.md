@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [amino-acid-codes](amino-acid-codes.txt) |  individual letters representing [amino acids](https://wikipedia.org/wiki/Amino_acid) in [organic chemistry](https://wikipedia.org/wiki/Organic_chemistry) 
 | [biotech-acronyms-list](biotech-acronyms-list.txt) |  a list of acronyms used in Biotechnology jargon 
 | [diy-bio-equip](diy-bio-equip.yaml) |  do-it-yourself biology equipment in YAML from <http://diyhpl.us> 

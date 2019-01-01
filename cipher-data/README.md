@@ -1,10 +1,10 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-| [all-certificate-records](all-certificate-records.csv) | <http://ccadb-public.secure.force.com/mozilla/AllCertificateRecordsCSVFormat>  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [all-certificate-records](all-certificate-records.csv) | <http://ccadb-public.secure.force.com/mozilla/AllCertificateRecordsCSVFormat> 
 | [compsec-cert-std](compsec-cert-std.txt) |  [NIST FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf) cryptographic product security validation 
 | [crypto-product-std](crypto-product-std.txt) |  ["Common Criteria"](https://wikipedia.org/wiki/Common_Criteria) compliance according to national authority 
 | [crypto-attacks-list](crypto-attacks-list.txt) | a list of cryptographic attack names including recent techniques against TLS  
-| [descrypt-admin-allsalts](descrypt-admin-allsalts.txt) |  Single DES of string "admin" with all salts 
+| [descrypt-admin-allsalts](descrypt-admin-allsalts.txt) |  Single [DES](https://wikipedia.org/wiki/Data_Encryption_Standard "Data Encryption Standard") of string "admin" with all salts 
 | [gnutls-cli-extra](gnutls-cli-extra.txt) |  Miscellaneous output of same [GnuTLS](https://www.gnutls.org/ "GNU Transport Layer Security Library") command as above 
 | [gnutls-cli-list](gnutls-cli-list.txt) |  Command output of [GnuTLS](https://www.gnutls.org/ "GNU Transport Layer Security Library") command line interface algorithm list 
 | [http2-ciphers-blacklist](http2-ciphers-blacklist.txt) |  Ciphers rejected by the [HTTP2 protocol specification](http://httpwg.org/specs/rfc7540.html "Hypertext Transfer Protocol Version 2 %28HTTP/2%29") 

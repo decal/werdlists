@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ascii-boobs-list](ascii-boobs-list.asc) |  ASCII art one-liners of breasts are teh tits 
 | [ascii-code-table](ascii-code-table.asc) |  decimal intersect lookup of [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") bytes is easy to hex convert 
 | [ascii-world-map](ascii-world-map.asc) |  <http://plewylli.sdf-eu.org/help.shtml#asciimap> 

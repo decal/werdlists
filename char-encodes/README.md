@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ascii-code-table](ascii-code-table.txt) |  ASCII standard code table in ASCII art taken from IETF *RFC20* 
 | [control-chars-table](control-chars-table.txt) |  control characters table extracted from IETF *RFC20* 
 | [graphic-chars-table](graphic-chars-table.txt) |  graphic characters table extracted from IETF *RFC20* 

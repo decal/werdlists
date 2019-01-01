@@ -1,7 +1,5 @@
-> `[=` [![DECAL GITHUB](https://img.shields.io/badge/DECAL-GITHUB-Yellow.svg?logo=github&style=popout&longCache=true)](https://decal.github.io "DECAL GITHUB") `=>` [![WERD LISTS](https://img.shields.io/badge/WERD-LISTS-Purple.svg?logo=github&style=popout&longCache=true)](https://decal.github.io/werdlists "WERD LISTS") `=>` [![HTTP HEADERS](https://img.shields.io/badge/HTTP-HEADERS-RoyalBlue.svg?logo=github&style=popout)](https://decal.github.io/werdlists/http-headers "HTTP HEADERS") `=]`
-  
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [about-http-headers](about-http-headers.txt) |  Descriptions for the most common HTTP header fields 
 | [access-control-headers](access-control-headers.txt) |  [Cross Origin Resource Sharing](https://wikipedia.org/wiki/Cross-origin_resource_sharing) (CORS) header name list 
 | [amazon-http-headers](amazon-http-headers.txt) |  HTTP headers specific to Amazon 
