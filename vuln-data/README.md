@@ -1,4 +1,4 @@
-[![werdlists/vuln-data](https://img.shields.io/badge/werdlists-vuln-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/vuln-data")
+[![werdlists/vuln-data](https://img.shields.io/badge/werdlists-vuln-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/vuln-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [cve-data-refs](cve-data-refs.zip.xz) |  References from [MITRE CVE](https://cve.mitre.org "Common Vulnerabilities and Exposures") to other vulnerability database entries 

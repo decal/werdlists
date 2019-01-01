@@ -1,4 +1,4 @@
-[![werdlists/http-security](https://img.shields.io/badge/werdlists-http-security-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-security")
+[![werdlists/http-security](https://img.shields.io/badge/werdlists-http-security-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-security")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [abnormal-http-traffic](abnormal-http-traffic.txt) | Abnormal HTTP traffic including [SQL injection](https://wikipedia.org/wiki/SQL_injection) attacks  

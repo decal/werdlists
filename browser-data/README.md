@@ -1,4 +1,4 @@
-[![werdlists/browser-data](https://img.shields.io/badge/werdlists-browser-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/browser-data")
+[![werdlists/browser-data](https://img.shields.io/badge/werdlists-browser-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/browser-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [caniuse-features-lists](caniuse-features-lists.md) |  Categorized lists of browser features from [caniuse.com](https://caniuse.com/#index "Can I use... Support tables for HTML5, CSS3, etc") 

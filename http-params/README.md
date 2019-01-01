@@ -1,4 +1,4 @@
-[![werdlists/http-params](https://img.shields.io/badge/werdlists-http-params-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-params")
+[![werdlists/http-params](https://img.shields.io/badge/werdlists-http-params-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-params")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [all-redirect-params](all-redirect-params.txt) |  all parameters for location redirects combined as one file 

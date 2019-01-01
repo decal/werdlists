@@ -1,4 +1,4 @@
-[![werdlists/ascii-art](https://img.shields.io/badge/werdlists-ascii-art-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/ascii-art")
+[![werdlists/ascii-art](https://img.shields.io/badge/werdlists-ascii-art-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/ascii-art")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ascii-boobs-list](ascii-boobs-list.asc) |  ASCII art one-liners of breasts are teh tits 

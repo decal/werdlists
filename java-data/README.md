@@ -1,4 +1,4 @@
-[![werdlists/java-data](https://img.shields.io/badge/werdlists-java-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/java-data")
+[![werdlists/java-data](https://img.shields.io/badge/werdlists-java-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/java-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [java-code-leakages](java-code-leakages.txt) |  strings which are commonly shown in a Java [stack trace](https://wikipedia.org/wiki/Stack_trace) 

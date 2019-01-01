@@ -1,4 +1,4 @@
-[![werdlists/unicode-data](https://img.shields.io/badge/werdlists-unicode-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/unicode-data")
+[![werdlists/unicode-data](https://img.shields.io/badge/werdlists-unicode-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/unicode-data")
 adobe-glyph-list: [Adobe Glyph List](https://wikipedia.org/wiki/Adobe_Glyph_List "Adobe Glyph List")  
 character-names-verbose: <http://alanwood.net/demos/ent4_index.html>  
 idn-table-arabic: Version 1.0 of Arabic IDN table from <https://donuts.domains/wp-content/themes/bootstrap/files/idn-table-arab-1.0.txt>  

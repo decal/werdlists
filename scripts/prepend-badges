@@ -12,7 +12,7 @@ which prepend |&> /dev/null
 for r in $(ls -1d werdlists/*-*/README.md | grep -v -- 'webapp-attacks'); do
   # [![werdlists/webapp-attacks](https://img.shields.io/badge/werdlists-webapp_attacks-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-attacks")
   declare adir=$(echo $r | awk -F/ '{print$2}')
-  declare astr="[![werdlists/${adir}](https://img.shields.io/badge/werdlists-${adir}-purple/.svg?logo=github&style=popout&longCache=true)](# \"werdlists/${adir}\")"
+  declare astr="[![werdlists/${adir}](https://img.shields.io/badge/werdlists-${adir}-purple.svg?logo=github&style=popout&longCache=true)](# \"werdlists/${adir}\")"
 
   prepend "$r" $'\n'
   prepend "$r" "$astr"

@@ -1,4 +1,4 @@
-[![werdlists/text-words](https://img.shields.io/badge/werdlists-text-words-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/text-words")
+[![werdlists/text-words](https://img.shields.io/badge/werdlists-text-words-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/text-words")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [acronyms-defined-dict](acronyms-defined-dict.txt) | dictionary of acronyms defined from technical jargon 

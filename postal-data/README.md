@@ -1,4 +1,4 @@
-[![werdlists/postal-data](https://img.shields.io/badge/werdlists-postal-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/postal-data")
+[![werdlists/postal-data](https://img.shields.io/badge/werdlists-postal-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/postal-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [american-casino-contacts](american-casino-contacts.csv) |  addresses and telephone numbers of American casinos circa 2007 

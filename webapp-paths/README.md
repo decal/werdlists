@@ -1,4 +1,4 @@
-[![werdlists/webapp-paths](https://img.shields.io/badge/werdlists-webapp-paths-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-paths")
+[![werdlists/webapp-paths](https://img.shields.io/badge/werdlists-webapp-paths-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/webapp-paths")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [acme-challenge-paths](acme-challenge-paths.txt) |  Path names within a `/.well-known/acme-challenge/` folder 

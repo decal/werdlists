@@ -1,4 +1,4 @@
-[![werdlists/http-methods](https://img.shields.io/badge/werdlists-http-methods-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-methods")
+[![werdlists/http-methods](https://img.shields.io/badge/werdlists-http-methods-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-methods")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [dav-methods-rfc](dav-methods-rfc.txt) |  Distributed Authoring & Versioning actions by [RFC4918 section 9](https://tools.ietf.org/html/rfc4918#section-9) 

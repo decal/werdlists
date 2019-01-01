@@ -1,4 +1,4 @@
-[![werdlists/infosec-people](https://img.shields.io/badge/werdlists-infosec-people-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/infosec-people")
+[![werdlists/infosec-people](https://img.shields.io/badge/werdlists-infosec-people-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/infosec-people")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [apple-webserver-credits](apple-webserver-credits.txt) |  Credits for reports concerning Apple's web servers 

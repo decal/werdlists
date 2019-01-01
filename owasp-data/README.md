@@ -1,4 +1,4 @@
-[![werdlists/owasp-data](https://img.shields.io/badge/werdlists-owasp-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/owasp-data")
+[![werdlists/owasp-data](https://img.shields.io/badge/werdlists-owasp-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/owasp-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [owasp-incident-database](owasp-incident-database.csv.xz) | The OWASP Incident Database

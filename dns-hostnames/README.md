@@ -1,4 +1,4 @@
-[![werdlists/dns-hostnames](https://img.shields.io/badge/werdlists-dns-hostnames-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-hostnames")
+[![werdlists/dns-hostnames](https://img.shields.io/badge/werdlists-dns-hostnames-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-hostnames")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_File&nbsp;&nbsp;Name_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **_Description of Contents_**
 |:---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | adaway-block-list          | hosts block list distributed by `adaway.org`  

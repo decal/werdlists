@@ -1,4 +1,4 @@
-[![werdlists/unix-data](https://img.shields.io/badge/werdlists-unix-data-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/unix-data")
+[![werdlists/unix-data](https://img.shields.io/badge/werdlists-unix-data-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/unix-data")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bash-builtin-funcs](bash-builtin-funcs.txt) |  BASH builtin functions as revealed by the enable builtin 

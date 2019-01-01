@@ -1,4 +1,4 @@
-[![werdlists/dns-toplevel](https://img.shields.io/badge/werdlists-dns-toplevel-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-toplevel")
+[![werdlists/dns-toplevel](https://img.shields.io/badge/werdlists-dns-toplevel-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/dns-toplevel")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------
 | [arpa-domains-list](arpa-domains-list.txt) |  list of sub-domains under the `.arpa` top-level domain

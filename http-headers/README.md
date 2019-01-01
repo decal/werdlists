@@ -1,4 +1,4 @@
-[![werdlists/http-headers](https://img.shields.io/badge/werdlists-http-headers-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
+[![werdlists/http-headers](https://img.shields.io/badge/werdlists-http-headers-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/http-headers")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [about-http-headers](about-http-headers.txt) |  Descriptions for the most common HTTP header fields 

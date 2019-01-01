@@ -1,4 +1,4 @@
-[![werdlists/inet-routes](https://img.shields.io/badge/werdlists-inet-routes-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/inet-routes")
+[![werdlists/inet-routes](https://img.shields.io/badge/werdlists-inet-routes-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/inet-routes")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [autonomous-system-list](autonomous-system-list.txt.xz) |  complete number and name listing for each registered [ASN](https://wikipedia.org/wiki/Autonomous_system_(Internet) "Autonomous System Number") 

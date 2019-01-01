@@ -1,4 +1,4 @@
-[![werdlists/text-files](https://img.shields.io/badge/werdlists-text-files-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/text-files")
+[![werdlists/text-files](https://img.shields.io/badge/werdlists-text-files-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/text-files")
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [home-security-checklist](home-security-checklist.txt) |  <https://www.safewise.com/checklists/home-security> 

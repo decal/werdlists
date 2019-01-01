@@ -1,4 +1,4 @@
-[![werdlists/ntfs-paths](https://img.shields.io/badge/werdlists-ntfs-paths-purple/.svg?logo=github&style=popout&longCache=true)](# "werdlists/ntfs-paths")
+[![werdlists/ntfs-paths](https://img.shields.io/badge/werdlists-ntfs-paths-purple.svg?logo=github&style=popout&longCache=true)](# "werdlists/ntfs-paths")
 |&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [invalid-filenames-microsoft](invalid-filenames-microsoft.txt) |  invalid filenames for Microsoft operating systems 
