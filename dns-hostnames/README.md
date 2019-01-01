@@ -1,6 +1,4 @@
-[werdlists](/decal/werdlists) `=>` _DNS Hostnames_
-
-|&nbsp;&nbsp;&nbsp;&nbsp;**_File&nbsp;&nbsp;Name_**&nbsp;&nbsp;&nbsp;&nbsp;| **_Description of Contents_**
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_File&nbsp;&nbsp;Name_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **_Description of Contents_**
 |:---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | adaway-block-list          | hosts block list distributed by `adaway.org`  
 | alexa-host-names           | [Alexa](https://www.alexa.com/) URI host names sorted and uniqified  

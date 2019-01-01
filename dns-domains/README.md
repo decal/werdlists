@@ -1,6 +1,6 @@
 # DNS Domains
 
-|&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Description of Contents
 |:---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | 1k-domain-affixes          | 1,000 DNS prefixes and suffixes parsed from <https://gist.githubusercontent.com/marcanuy/06cb00bc36033cd12875/raw/ef0f614af9d14b0ee1d039a32e29fc2641efe366/gistfile1.txt>  
 | 2letter-2digit-dotcom      | possibly unregistered two-letter, two-digit `.com` domain names  

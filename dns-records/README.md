@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_File&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_ |
-|:----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_File&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_ |
+|:--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bind9-rec-types](bind9-rec-types.txt) | [BIND9](http://bind9.net) record types according to `named-rrchecker -T`    
 | [bind-chaos-txt](bind-chaos-txt.txt) | defined by default `CHAOS` `TXT` records in [ISC](https://www.isc.org/) BIND name daemon    
 | [chaos-txt-rdata](chaos-txt-rdata.txt) | all well-known `CHAOS` `TXT` records including non-BIND names    
