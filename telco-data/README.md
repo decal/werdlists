@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ansi-t1-refslist](ansi-t1-refslist.txt) |  <https://web.archive.org/web/20060929025357fw_/http://www.its.bldrdoc.gov/projects/devglossary/t1g-forw.html> 
 | [areacode-database-cols](areacode-database-cols.csv) |  Describes columns in [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association") area codes database below 
 | [areacode-database-rows](areacode-database-rows.csv) |  Database containing details on area codes from [NANPA](https://www.nationalnanpa.com/ "North American Numbering Plan Association") 

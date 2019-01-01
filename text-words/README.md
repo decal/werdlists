@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [acronyms-defined-dict](acronyms-defined-dict.txt) | dictionary of acronyms defined from technical jargon 
 | [adjective-words-list](adjective-words-list.txt) | list of various English adjective words 
 | [alfred-hitchcock-movies](alfred-hitchcock-movies.md) | all films produced by [Alfred Hitchcock](http://www.imdb.com/name/nm0000033/ "Alfred Hitchcock - IMDb") <http://infolab.stanford.edu/pub/movies/Hitch.html> 
