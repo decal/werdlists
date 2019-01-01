@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [adobe-expmgr-names](adobe-expmgr-names.txt) |  [Adobe Experience Manager](https://adobe.com/marketing-cloud/experience-manager.html) environment variables of quickstart 
 | [apache-environ-names](apache-environ-names.txt) |  non-suEXEC environment variables specific to [Apache httpd](https://httpd.apache.org) 
 | [apache-mesos-envinfos](apache-mesos-envinfos.txt) |  info on environment variables associated w/ [Apache Mesos](https://mesos.apache.org) 

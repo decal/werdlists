@@ -1,5 +1,5 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
-|:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
+|:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [ack-types-list](ack-types-list.md) | list of file types supported by [ack](https://beyondgrep.com "ack is a tool like grep, optimized for programmers")  
 | [executable-file-types](executable-file-types.txt) | executable file types common in the replication of e-mail attachment viruses via <https://avg.com/en/signal/what-is-a-computer-virus>  
 | [exiftool-file-extens](exiftool-file-extens.txt) |  file extensions that [exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/ "ExifTool by Phil Harvey") can parse metadata from  
