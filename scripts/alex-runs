@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+#
+# abc
+#
+
+while true; do
+  which alex |&> /dev/null
+
+  [ $? -eq 0 ] && break
+
+  npm install -g alex
+done
+
+declare -i anum=1 acnt=0
+
+alex --html -- *-*/*.html > /tmp/alex-html.out &
+
+for anext in asc md csv ini rst txt text; do
+  anum+=1 
+  
+  alex -- *-*/*.${anext} |&> /tmp/alex-${anext}.out &
+done
+
+while [ $acnt -ne $anum ]; do
+  acnt+=1
+
+  COLS=1024 ps ax | egrep '[:space:]+[a]lex[:space:]*'
+
+  wait 
+done
+
+exit 0

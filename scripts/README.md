@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Script&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Purpose_
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| alex-runs                  | check for insensitive/inconsiderate writing that would violate the contributor covenant code of conduct <https://contributor-covenant.org>  
 | append-eolspaces           | append spaces to the end of lines in `README.md` files to cause markdown to insert a newline  
 | xzlarge-files              | automatically compress files that are larger than a pre-determined size (_default is 1MB_)  
 | checkout-readmes           | get fresh copies of local `README.md` files in the event they were accidentally corrupted
