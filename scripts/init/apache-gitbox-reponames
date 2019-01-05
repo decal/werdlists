@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Parse repository names from Apache GitBox web interface
+#
+
+lynx -dump 'https://gitbox.apache.org/repos/asf' | egrep '[.]git ' | awk -F\] '{print$2}' | awk '{print$1}' | cut -d '.' -f1 | sort -u
+
+exit 0

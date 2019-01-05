@@ -2,8 +2,9 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-| [all-brew-packages](all-brew-packages.txt) | All [Homebrew](https://brew.sh) packages listed with the command: `brew search`
-| [all-node-packages](all-node-packages.txt) | Output from `all-the-package-names` NodeJS command
+| [all-brew-packages](all-brew-packages.txt) | All [Homebrew](https://brew.sh) packages listed with the command: `brew search`  
+| [all-node-packages](all-node-packages.txt) | Output from `all-the-package-names` NodeJS command  
+| [apache-gitbox-reponames](apache-gitbox-reponames.txt) | Software repository names extracted from [Apache GitBox](https://gitbox.apache.org "Active Git Repositories Managed by the Apache Infrastructure Team") web interface <https://gitbox.apache.org/repos/asf>  
 | [autoconf-archive-macros](autoconf-archive-macros.txt) | GNU autoconf m4 macros list from <https://gnu.org/software/autoconf>
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
 | [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`

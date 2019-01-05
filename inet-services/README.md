@@ -15,6 +15,7 @@
 | [telnet-service-locations](telnet-service-locations.txt) | URI's to Internet [Telnet](https://wikipedia.org/wiki/Telnet "Telnet is a protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection.") servers  
 | [tld-whois-servers](tld-whois-servers.txt) |  [WHOIS servers list for all domain types](http://www.nirsoft.net/whois_servers_list.html) 
 | [ubuntu-etc-services](ubuntu-etc-services.txt) |  `/etc/services` file from [Ubuntu Linux](https://www.ubuntu.com) `netbase` package 
+| [vpn-comparison-chart](vpn-comparison-chart.csv) |  Detailed comparison of many VPN providers in CSV format
 | [websphere-port-numbers](websphere-port-numbers.txt) |  HTTP ports from the [IBM WebSphere Application Server](https://ibm.com/cloud/websphere-application-platform) listener configurations in `serverindex.xml` 
 | [whois-servers-list](whois-servers-list.txt) |  <ftp://ftp.freeshell.org/pub/computers/internet/whois-servers.list> 
 
