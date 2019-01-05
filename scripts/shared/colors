@@ -62,8 +62,10 @@ function initColor()
   readonly reset="$rst"
 }
 
-if ! [ "${esc}" -a "${reset}" ] 
-  then readonly export INIT_COLOR=1
+if ! [ "${esc}" -a "${reset}" ]; then
+  readonly export INIT_COLOR=1
+
   initColor 
-  echo -ne "${reset}"
+
+  echo -ne "$reset"
 fi

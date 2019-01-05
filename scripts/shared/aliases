@@ -1,16 +1,17 @@
-alias echoen="echo -en"
-alias putsen="echo -en"
-alias echone="echo -ne"
-alias putsne="echo -ne"
-alias echon="echo -n"
-alias putsn="echo -n"
-alias echoe="echo -e"
-alias putse="echo -e"
-alias echen="echo -en"
-alias puten="echo -en"
-alias echne="echo -ne"
-alias putne="echo -ne"
-alias echn="echo -n"
-alias putn="echo -n"
-alias eche="echo -e"
-alias pute="echo -e"
+#!/usr/bin/env bash
+#
+##############################
+# Mocha Shell Script WebMock #
+############################## 
+#
+
+alias echoen='echo -en' putsen='echo -en'
+alias echone='echo -ne' putsne='echo -ne'
+alias echon='echo -n'   putsn='echo -n'
+alias echoe='echo -e'   putse='echo -e'
+alias echen='echo -en'  puten='echo -en'
+alias echne='echo -ne'  putne='echo -ne'
+alias echn='echo -n'    putn='echo -n'
+alias eche='echo -e'    pute='echo -e'
+
+exit 0

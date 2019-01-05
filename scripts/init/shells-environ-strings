@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Extract strings resembling environment variable names from shell binaries
+#
+
+for ash in $(grep '^/' /etc/shells); do
+  [ ! -f $ash ] && continue
+
+  strings "$ash" | egrep '^[A-Z0-9_]{2,}$' | grep -v '^[0-9_]+' | grep -v '^[0-9_]' | egrep -v '[U]{3,}'
+done | sort -u
+
+exit 0
