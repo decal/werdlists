@@ -135,7 +135,7 @@ according to the commands in the [`scripts/xzlarge-files`](/decal/werdlists/scri
 | [search-dorks](search-dorks)    | :mag_right: General purpose search-engine queries likely to find insecure sites  
 | [smtp-messages](smtp-messages)   | :envelope: Messages (i.e. signatures, auto-replies, etc.) sent by [SMTP](https://wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") servers  
 | [soap-messages](soap-messages)   | :incoming_envelope: [SOAP](https://wikipedia.org/wiki/SOAP "Simple Object Access Protocol") (Simple Object Access Protocol) messages  
-| [social-data](social-data)     | :eyes: Sociological or [social media](https://wikipedia.org/wiki/Social_media) related data sets  
+| [social-data](social-data)     | :eyes: Sociological or [social media](https://wikipedia.org/wiki/Social_media) related data sets including logins and user names  
 | [software-strs](software-strs)   | :minidisc: Strings describing [software engineering](https://wikipedia.org/wiki/Software_engineering), [programming languages](https://wikipedia.org/wiki/Programming_language), etc.  
 | [string-enums](string-enums)    | :ferris_wheel: Enumerations of values that aren't too terribly unusual  
 | [system-admin](system-admin)    | :necktie: System administration and [BOFH](https://wikipedia.org/wiki/Bastard_Operator_From_Hell) related materials  

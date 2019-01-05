@@ -4,6 +4,7 @@
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [aria-roles-list](aria-roles-list.txt) |  list of [ARIA](https://w3.org/WAI/intro/aria) (Accessible Rich Internet Applications) role names 
 | [aria-states-properties](aria-states-properties.txt) |  list of aria states and properties via <https://w3.org/WAI/PF/aria/states_and_properties>  
+| [char-escape-sequences](char-escape-sequences.txt) |  Character escape sequences <https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet#Character_escape_sequences>  
 | [code-syntax-coloring](code-syntax-coloring.js) |  JavaScript function to create HTML `<font>` color tags for provided code syntax  
 | [color-name-hex](color-name-hex.csv) |  CSV of [HTML color names](https://wikipedia.org/wiki/Web_colors#HTML_color_names) and their 6-digit hexadecimal encoding values 
 | [css-property-names](css-property-names.txt) |  Style sheet property names from [cssreference.io](https://cssreference.io) 
