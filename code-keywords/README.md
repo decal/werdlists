@@ -10,7 +10,8 @@
 | [gcc-clang-enums](gcc-clang-enums.txt) |  constants of `enum clang` declared in `libcpp/include/cpplib.h` 
 | [github-linguist-languages](github-linguist-languages.yml) |  all languages [GitHub](https://github.com) detects 
 | [javascript-future-words](javascript-future-words.txt) |  Reserved identifiers for future JavaScript syntax 
-| [javascript-reserved-words](javascript-reserved-words.txt) |  Words that can't be used in current JavaScript syntax 
+| [javascript-reserved-short](javascript-reserved-short.txt) |  Words that can't be used in current JavaScript syntax 
+| [javascript-reserved-long](javascript-reserved-long.txt) |  A longer version of JavaScript reserved words that includes browser-side and Java language words <https://www.w3schools.com/js/js_reserved.asp>  
 | [nodejs-docs-apilinks](nodejs-docs-apilinks.json) | Links to source code of NodeJS identifiers <https://nodejs.org/docs/latest/apilinks.json>  
 | [nodejs-repl-words](nodejs-repl-words.txt) |  Words extracted from [NodeJS](https://nodejs.org "JavaScript runtime built on Chrome's V8 JavaScript engine") REPL by pressing Tab key at prompt  
 | [openssl-header-constants](openssl-header-constants.txt) |  Preprocessor constants defined in OpenSSL header files 
