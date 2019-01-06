@@ -50,6 +50,7 @@
 | [search-stop-words](search-stop-words.txt) | commonly used words that a search engine will be programmed to ignore
 | [secureblackbox-client-list](secureblackbox-client-list.txt) | brief list of corporations with household names <https://www.secureblackbox.com/company/clients.aspx> 
 | [sfbay-companies-list](sfbay-companies-list.txt) | [List of companies based in the San Francisco Bay Area](https://wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area) 
+| [sierrasoftworks-bender-quotes](sierrasoftworks-bender-quotes.json) | list of [Bender](https://wikipedia.org/wiki/Bender_(Futurama)) quotes via <https://raw.githubusercontent.com/SierraSoftworks/bender/master/configs/quotes.json>  
 | [spike-proxy-allwords](spike-proxy-allwords.txt) | dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 
 | [technical-manual-words](technical-manual-words.txt) | various forms of technical root words likely to be found in a manual from <http://scrapmaker.com/data/wordlists/technology/TechnicalManualWords(1495).txt> 
 | [tweet-word-ngrams](tweet-word-ngrams.txt.xz) |  binary sequence and words parsed from tweets with cardinality 
