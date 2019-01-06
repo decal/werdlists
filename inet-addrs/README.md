@@ -20,6 +20,7 @@
 | [malware-domain-ips](malware-domain-ips.txt) |  IP addresses from [Malware Domain List](https://www.malwaredomainlist.com) 
 | [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository  
 | [nmap-multicast-groups](nmap-multicast-groups.txt) |  taken from nmap's `nselib/data/mgroupnames.db` 
+| [non-aliased-prefixes](non-aliased-prefixes.txt.xz) |  Non-aliased prefixes list of IPv6 addresses <https://alcatraz.net.in.tum.de/ipv6-hitlist-service/open/non-aliased-prefixes.txt.xz>  
 | [org-unit-ident](org-unit-ident.txt.xz) |  Organizational Unit Identifiers from the [IEEE](https://ieee.org)  
 | [privaddr-range-edges](privaddr-range-edges.txt) |  Private address range edges, i.e. the beginning and end of blocks in RFC1918 [Private Address Space](https://tools.ietf.org/html/rfc1918#section-3)  
 | [private-ipv4-abridged](private-ipv4-abridged.txt.xz) |  An abridged list of individually [Reserved IPv4 Addresses](https://wikipedia.org/wiki/Reserved_IP_addresses#IPv4)  
