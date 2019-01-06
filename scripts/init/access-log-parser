@@ -1,0 +1,61 @@
+#!/usr/bin/env ruby
+# coding: utf-8
+#
+# Script to parse SQUID proxy access logs like <https://www.secrepo.com/squid/access.log.gz> 
+#
+# Written by:    Derek Callaway [decal (AT) sdf {D0T} org]
+# Last modified: Tue Nov 27 14:14:17 PST 2018
+# Tested on:     macOS High Sierra Version 10.13.6 [Darwin 17.7.0 x86_64]
+# Note that:     This script created `webapp-paths/biomedical-porn-datasets.txt.xz`
+#
+
+require 'uri'
+
+if ARGV.empty?
+  STDERR.puts("usage: #{$0} LOGPATH")
+  STDERR.puts
+  STDERR.puts("  LOGPATH  location of log file to parse") 
+  STDERR.puts("           (styled after Apache httpd's LogFormat)")
+  STDERR.puts
+  STDERR.puts("ex. #{$0} access_log.1")
+
+  exit(1)
+end
+
+def parse_access_log(logpath)
+  File.readlines(logpath).each do |l|
+    l.rstrip!
+
+    next if l.empty?
+
+    c = l.split
+
+    next if !c or c.size <= 5
+
+    auri = c[6]
+
+    auri.gsub!(%r{[^[:ascii:]]+}, '')
+
+    begin
+      u = URI(auri)
+
+      STDOUT.puts(u.path)
+    rescue Exception => e
+      STDERR.puts("==> #{e}")
+    end
+  end
+end
+
+ARGV.each do |a|
+  s = a.dup
+
+  s.rstrip!
+
+  next if s.empty? or !File.exists?(s)
+
+  STDERR.puts("*** Parsing file: #{s}") if $DEBUG
+
+  parse_access_log(s)
+end
+
+exit 0
