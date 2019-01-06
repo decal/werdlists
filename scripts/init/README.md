@@ -23,6 +23,7 @@
 | [alpha-2digit-alpha](alpha-2digit-alpha) | make all strings consisting of an alphabetic letter, followed by two numeric digits and ending with another letter  
 | [alpha-digit-alpha](alpha-digit-alpha) | make all strings consisting of an alphabetic letter, followed by a numeric digit and ending with another letter  
 | [apache-gitbox-reponames](apache-gitbox-reponames) | extract repository names from Apache GitBox web interface <https://gitbox.apache.org/repos/asf>  
+| [clang-module-headers](clang-module-headers) | extract header file names from clang/llvm module cache under `/var/tmp` on macOS  
 | [digit-2alpha-digit](digit-2alpha-digit) | make all strings consisting of a numeric digit, followed by two alphabetic letters and ending with another number  
 | [digit-alpha-digit](digit-alpha-digit) | make all strings consisting of a numeric digit, followed by an alphabetic letter and ending with another number  
 | [generate-locales-short](generate-locales-short) | enumerate short list of locale path names from `locales.txt` file   

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+strings /var/tmp/org.llvm.clang.decal/ModuleCache/3SHFPCCP0LJIH/* | egrep '[.](h|c){1,}$' | tr '/' '\n' | sort -u | egrep '[.]h$' | grep -v ',' | sort -u
+
+exit 0
