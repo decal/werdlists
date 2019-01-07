@@ -6,6 +6,7 @@
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://apache.org/licenses/LICENSE-2.0 "Apache License 2.0")
 [![repo-size](https://img.shields.io/github/repo-size/decal/werdlists.svg)](# "repo-size")
 [![last commit](https://badgen.net/github/last-commit/decal/werdlists)](# "last-commit")
+[![watchers](https://badgen.net/github/watchers/decal/werdlists)](# "watchers")
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://gnu.org/software/bash/ "Made with Bash")
 
 * * *
