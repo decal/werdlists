@@ -8,6 +8,7 @@
 [![last commit](https://badgen.net/github/last-commit/decal/werdlists)](# "last-commit")
 [![watchers](https://badgen.net/github/watchers/decal/werdlists)](# "watchers")
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://gnu.org/software/bash/ "Made with Bash")
+[![PayPal](https://badgen.net/badge/donate/paypal/blue)](https://paypal.me/decal/5 "[ PayPal.Me $5! ]")
 
 * * *
 [![werdlists](logo.png)](# "Word Lists, Attack Strings, Miscellaneous Datasets and Collections of Proof-of-Concept Test Cases With a Collection of Tools for Penetration Testers")
