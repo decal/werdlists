@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* convert `dns-domains` and other folders to specified README markdown table format 
+
 * split `text-words/security-words-dictionary.txt` into word types (noun, adjective, etc.)
   - write a tool namer script that utilizes those files
 

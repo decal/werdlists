@@ -50,7 +50,7 @@
 | [sdbf-count-big](sdbf-count-big.txt) | big word frequency counts packaged with [Smart DNS Brute Forcer](https://github.com/jfrancois/SDBF)  
 | [search-stop-words](search-stop-words.txt) | commonly used words that a search engine will be programmed to ignore
 | [secureblackbox-client-list](secureblackbox-client-list.txt) | brief list of corporations with household names <https://www.secureblackbox.com/company/clients.aspx> 
-| [security-words-dictionary](security-words-dictionary.txt) | dictionary of some real and some made-up security words created manually by yours truly  
+| [security-words-dictionary](security-words-dictionary.txt) | dictionary of some actual real, but mostly made-up security words created manually by yours truly  
 | [sfbay-companies-list](sfbay-companies-list.txt) | [List of companies based in the San Francisco Bay Area](https://wikipedia.org/wiki/List_of_companies_based_in_the_San_Francisco_Bay_Area) 
 | [sierrasoftworks-bender-quotes](sierrasoftworks-bender-quotes.json) | list of [Bender](https://wikipedia.org/wiki/Bender_(Futurama)) quotes via <https://raw.githubusercontent.com/SierraSoftworks/bender/master/configs/quotes.json>  
 | [spike-proxy-allwords](spike-proxy-allwords.txt) | dictionary distributed with [ImmunitySec](http://www.immunitysec.com/ "Immunity Inc.") [SPIKE Proxy dpkg](https://packages.debian.org/sid/net/spikeproxy) 

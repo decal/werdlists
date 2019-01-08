@@ -11,6 +11,7 @@
 | bitly-vanity-domains       | bitly vanity domains taken from a ruleset distributed with the [EFF HTTPS Everywhere](https://eff.org/https-everywhere "HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.") browser extension <https://github.com/EFForg/https-everywhere/blob/master/src/chrome/content/rules/Bitly_branded_short_domains.xml>  
 | cctld-char-pairs           | a list of [ccTLD's](https://wikipedia.org/wiki/Country_code_top-level_domain "Country code top-level domain"), i.e. country code top-level domains)  
 | co-domain-records          | Resource records for the [.co TLD](https://wikipedia.org/wiki/.co) zone's DNSSEC signatures  
+| collectmaldata-malicious-domains | a list of malicious domains created by the CollectMalData tool <https://github.com/jamieres/CollectMalData>  
 | com-domain-names           | list of various commercial domain names in the com [TLD](https://wikipedia.org/wiki/Top-level_domain "Top-level domain")  
 | comdotbr-domain-names      | list of various commercial domain names in the [.br ccTLD](https://wikipedia.org/wiki/.br)  
 | disposable-email-domains   | [Disposable email address](https://wikipedia.org/wiki/Disposable_email_address) domains list  
