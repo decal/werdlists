@@ -2,8 +2,10 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [blog-article-links](blog-article-links.txt.xz) | list of hyperlinks to blog articles (some of which are on the same site) via <https://www.seopowa.com/wp-content/uploads/2011/06/1.017.234-autoapprove_blogs_NO_duplicate_URLS-1.txt>  
 | [duckduckgo-trackers-whitelist](duckduckgo-trackers-whitelist.txt) |  Text file of line-based domain-specific language for whitelisting tracker false positives; hosted on primary web server at [DuckDuckGo](https://duckduckgo.com) via <https://duckduckgo.com/contentblocking/trackers-whitelist.txt>  
 | [ftp-server-urls](ftp-server-urls.txt) |  various well-known [FTP](https://wikipedia.org/wiki/File_Transfer_Protocol) service sites 
+| [forum-links-list](forum-links-list.txt) | list of 177K links to various PHP forum sites (some of which no longer resolve) via <http://www.seopowa.com/wp-content/uploads/2011/06/LinksList177k_SeoPowa.com_1.txt>  
 | [google-cloud-launchers](google-cloud-launchers.txt) |  locations of [Google Compute Engine](https://cloud.google.com/compute/docs "Google Compute Engine Documentation") app launchers 
 | [humans-txt-example](humans-txt-example.txt) |  an instance of a [`humans.txt`](http://humanstxt.org) example file from <https://textpattern.com/humans.txt> 
 | [nntp-news-groups](nntp-news-groups.txt.xz) |  [USENET](http://www.usenet.org/) newsgroup listing as tin created dot-newsrc 

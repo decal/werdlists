@@ -13,6 +13,7 @@
 | cloudfail-data-subdomains  | <https://github.com/m0rtem/CloudFail/blob/master/data/subdomains.txt>
 | common-intranet-hosts      | host names commonly found on private intranets  
 | dns-dictionary-hosts       | `hosts.txt` taken from *DNSDictionary* tool  
+| dns-underscore-hosts       | examples of host names for IN SRV or DNS-SD records that contain underscores
 | dnsbrute-names-large       | a large list of host names via the [dnsbrute](https://github.com/d4rkcat/dnsbrute "Multi-threaded DNS bruteforcing") tool  
 | dnsbrute-names-small       | a list half the size of the large one also from `dnsbrute`  
 | dnsinfo-gathertool-list    | [namelist.txt](https://raw.githubusercontent.com/crimefire/dns-information-gathering-tool/master/DNS%20Tool%20source%202/namelist.txt "namelist.txt")  
