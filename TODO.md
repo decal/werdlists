@@ -1,6 +1,9 @@
 Things To Do
 ============
 
+* split `text-words/security-words-dictionary.txt` into word types (noun, adjective, etc.)
+  - write a tool namer script that utilizes those files
+
 * Markdown link checker/editor
 
 * Clearly document web busting terminology
