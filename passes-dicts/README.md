@@ -13,6 +13,7 @@
 | [case-mutation-full](case-mutation-full.txt.xz) |  dictionary of alternating capitalization passwords from <http://index-of.es/Word-Lists/gdataonline/Case_Mutation_Full.txt.gz> 
 | [conficker-worm-dictionary](conficker-worm-dictionary.txt) |  word list used by the *Conficker* worm to brute force NetBIOS `ADMIN$` shares
 | [english-wikipedia-words](english-wikipedia-words.txt) |  10,000 most used words in the English [Wikipedia](https://wikipedia.org/) 
+| [fabian-honeypot-passes](fabian-honeypot-passes.txt) |  almost 1MB worth of passwords collected from decentralized honeypots via <https://pw.fabian-fingerle.de/pass.txt>  
 | [fifty-common-passwords](fifty-common-passwords.txt) |  50 common passwords that lack complexity 
 | [fgdump-userpass-list](fgdump-userpass-list.txt) |  list of usernames and passwords delimited by colon for use with the [fgdump](http://foofus.net/goons/fizzgig/fgdump/) tool 
 | [fuzzdb-unix-passwords](fuzzdb-unix-passwords.txt) |  `unix_passwords.txt` file taken from [fuzzdb](https://github.com/fuzzdb-project/fuzzdb "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery") 

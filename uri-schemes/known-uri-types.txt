@@ -83,6 +83,7 @@ nfs:
 nntp:
 notes:
 opaquelocktoken:
+otpauth:
 palm:
 paparazzi:
 platform:
