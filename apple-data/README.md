@@ -9,6 +9,7 @@
 | [iokit-fundamentals-glossary](iokit-fundamentals-glossary.md) |  IOKit Fundamentals Glossary in Markdown format via <https://developer.apple.com/library/archive/documentation/DeviceDrivers/Conceptual/IOKitFundamentals/Glossary/Glossary.html>  
 | [macos-appkitui-resources](macos-appkitui-resources.md) |  Apple MacOS AppKit UI Design Resources via <https://developer.apple.com/design/whats-new/>  
 | [macos-brew-commands](macos-brew-commands.txt) |  commands available on a [MacOS](https://wikipedia.org/wiki/MacOS) install with [Homebrew](https://brew.sh/) packages installed 
+| [macos-diskimage-installers](macos-diskimage-installers.txt) |  macOS disk image installer files with the extension `.dmg`  
 | [macos-dscl-users](macos-dscl-users.txt) | list of macOS High Sierra user names displayed by the Directory Service command line utility via `dscl . -list /Users`  
 | [macos-environ-names](macos-environ-names.txt) |  MacOS environment variable names 
 | [macos-homebrew-list](macos-homebrew-list.txt) |  [macOS homebrew](https://brew.sh) package names  
