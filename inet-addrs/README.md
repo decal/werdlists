@@ -28,6 +28,7 @@
 | [private-ipv4-blocks](private-ipv4-blocks.txt) |  Netblocks for [Special-Use IPv4 Addresses](https://tools.ietf.org/search/rfc5735 "RFC5735") 
 | [private-ipv4-ranges](private-ipv4-ranges.txt) |  Same as above, but in start-end notation instead of [CIDR](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing "Class Internet-Domain Routing") 
 | [private-ipv6-blocks](private-ipv6-blocks.txt) |  [IPv6 CIDR blocks](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing#IPv6_CIDR_blocks) taken from [Special-Purpose IP Address Registries](https://tools.ietf.org/html/rfc6890 "RFC6890") 
+| [spamassassin-blacklist-from](spamassassin-blacklist-from.txt) |  John Bokma's blacklist; manually crafted SpamAssassin `user_prefs` file with custom `blacklist_from` statement list to block the desired addresses via <http://johnbokma.com/spam/blacklist.txt> 
 | [spammer-mail-addrs](spammer-mail-addrs.txt) |  Spammer e-mail addresses from [linuxbrit.co.uk Wayback Machine archive](https://web.archive.org/web/*/linuxbrit.co.uk/) 
 | [special-cidr-blocks](special-cidr-blocks.txt) |  List of "special" [Intranet CIDR blocks](https://wikipedia.org/wiki/Private_network "Private network") 
 | [suspect-network-blocks](suspect-network-blocks.txt) |  [suspect_networks.txt](https://suspect-networks.io/downloads/suspect_networks.txt) 

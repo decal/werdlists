@@ -1,0 +1,141 @@
+# John Bokma's blacklist - use at your own risk
+# Last update: Thu Feb 12 19:58:40 2004 GMT
+# See http://johnbokma.com/spam/blacklist.txt for the latest version
+# See http://johnbokma.com/spam/spamdomains.html for an HTML version
+
+
+PLEASE DO NOT USE WGET TO DOWNLOAD THIS BLACK LIST DAILY OR EVEN
+HOURLY. I HAVEN'T UPDATED IT FOR 2+ YEARS, AND IT'S NOT SURE IF
+I AM GOING TO UPDATE IT SOON.
+
+FROM SEPTEMBER 2006 ON I WILL ADD PEOPLE WHO ABUSE MY SITE BY
+HAMMERING IT FOR THIS FILE TO THE LIST BELOW.
+
+
+blacklist_from  *@advertisingbymail.com
+blacklist_from  *@getquicknews.com
+blacklist_from  *@getquickernews.com
+blacklist_from  *@myquicknews.com
+blacklist_from  *@mygreateststuff.com
+blacklist_from  *@incluudes.com
+blacklist_from  *@thiergreatstuff.com
+blacklist_from  *@greatnewsnow.com
+blacklist_from  *@yourperfectstuff.com
+blacklist_from  *@ourgreatstuff.com
+blacklist_from  *@bestbuyuu.com
+blacklist_from  *@reply.mb00.net
+blacklist_from  *@richemmdsz.com
+blacklist_from  *@theirperfectstuff.com
+blacklist_from  *@countriesgreateststuff.com
+blacklist_from  *@yourgreatstuff.com
+blacklist_from  *@getwebrx.com
+blacklist_from  *@yourgreateststuff.com
+blacklist_from  *@purchze3.com
+blacklist_from  *@bargainemailoffers.com
+blacklist_from  *@progressivedeals.com
+blacklist_from  *@offerstars.com
+blacklist_from  *@online-value.com
+blacklist_from  *@busyprofessional.com
+blacklist_from  *@chinalove.info
+blacklist_from  *@eqmail.us
+blacklist_from  *@myperfectstuff.com
+blacklist_from  *@reply.katillist.com
+blacklist_from  *@yearendsaver.com
+blacklist_from  *@ebargainoffers.com
+blacklist_from  *@hjyt6.com
+blacklist_from  *@friutgg.com
+blacklist_from  *@whatupmedia.com
+blacklist_from  *@vista333.com
+blacklist_from  *@postalbureau.com
+blacklist_from  *@needtodateaperson.com
+blacklist_from  *@deylyp.com
+blacklist_from  *@co344.net
+blacklist_from  *@valuevalet.com
+blacklist_from  *@dq09.net
+blacklist_from  *@hemperfidee.com
+blacklist_from  *@lookingforagooddate.com
+blacklist_from  *@stocksnut.com
+blacklist_from  *@topofferz.net
+blacklist_from  *@looknforlove.com
+blacklist_from  *@youremailsaving.com
+blacklist_from  *@popggg.com
+blacklist_from  *@co344.com
+blacklist_from  *@evrydayp.com
+blacklist_from  *@ttdmeds.com
+blacklist_from  *@erc4v.com
+blacklist_from  *@ewbatzz.com
+blacklist_from  *@fluxorsects.com
+blacklist_from  *@sentry33221.com
+blacklist_from  *@anotherdayanotherdollar.net
+blacklist_from  *@colordyedcrate.com
+blacklist_from  *@ldirct.com
+blacklist_from  *@rxconfirmation.net
+blacklist_from  *@66hydroprosters.com
+blacklist_from  *@ahottieiswhatiwant.com
+blacklist_from  *@freewebe.com
+blacklist_from  *@lsfdt.com
+blacklist_from  *@planetaccess.com
+blacklist_from  *@practizze.com
+blacklist_from  *@rxrecommend.net
+blacklist_from  *@sponsored-sites.com
+blacklist_from  *@abcflash.net
+blacklist_from  *@creatorr.com
+blacklist_from  *@datinganiceperson.com
+blacklist_from  *@eachdyprm.com
+blacklist_from  *@flexalotts.com
+blacklist_from  *@honytonkzor.com
+blacklist_from  *@lifesrvtdt.com
+blacklist_from  *@lsavedrt.com
+blacklist_from  *@ltdrt.com
+blacklist_from  *@45pharmes.com
+blacklist_from  *@getmyprize.com
+blacklist_from  *@lifesvrsdet.com
+blacklist_from  *@lifsrs.com
+blacklist_from  *@334meds.com
+blacklist_from  *@cashadvancez.biz
+blacklist_from  *@lesevdt.com
+blacklist_from  *@levrsdt.com
+blacklist_from  *@lfdct.com
+blacklist_from  *@lfsdrct.com
+blacklist_from  *@lfsrvrdt.com
+blacklist_from  *@lvesfrdt.com
+blacklist_from  *@powermarketingideas.com
+blacklist_from  *@vkw4830amcoe.com
+blacklist_from  *@webmarketflash.com
+blacklist_from  *.greatoffers-mail.com
+blacklist_from  *.greatoffersbymail.com
+blacklist_from  *@godealz.com
+blacklist_from  *@lesvedrt.com
+blacklist_from  *@lifesvrdct.com
+blacklist_from  *@lsvrdirect.com
+blacklist_from  *@rxprovider.net
+blacklist_from  *@seeingnoone.com
+blacklist_from  *@yah293ja.com
+blacklist_from  *@lookingforasingleperson.com
+blacklist_from  *@rxannounce.net
+blacklist_from  *@salabrasteron.com
+blacklist_from  *.j8j87hyrf.com
+blacklist_from  *@lfesevdrt.com
+blacklist_from  *@rxadministrator.net
+blacklist_from  *@verifiedcleavenge.com
+blacklist_from  *.ewsifh398.com
+blacklist_from  *.gh834jsws.com
+blacklist_from  *.hjk78dr.com
+blacklist_from  *.k7ed64eh7.com
+blacklist_from  *.kj78i7yd.com
+blacklist_from  *.n78hd5d.com
+blacklist_from  *@holidaydeal4u.biz
+blacklist_from  *@interactive-promotions.com
+blacklist_from  *@net2938ty.com
+blacklist_from  *@yajk2728nmc.com
+blacklist_from  *.esrw48u.com
+blacklist_from  *.ezsj78j.com
+blacklist_from  *.fd6tjk8.com
+blacklist_from  *.r3rw345t.com
+blacklist_from  *.stock-wiz.com
+blacklist_from  *@01millenium.com
+blacklist_from  *@1stopinnovation.com
+blacklist_from  *@954access.net
+blacklist_from  *@pretzm01.net
+blacklist_from  *@pretzmail.net
+blacklist_from  *@realdealtime.net

@@ -1,0 +1,486 @@
+100Fio Networks
+1net1
+2wire
+3BB
+3com
+8level
+A-Link
+Above Cable
+Accton
+Acer
+ACorp
+Actiontec
+Adaptec
+ADB
+ADDON
+Advantek
+Aethra
+Aethra Starvoice
+AGK Nordic
+AirLAN
+Airlink 101
+AirLive
+Airnet
+AirRouter
+AirTies
+Alcatel Lucent
+Alice
+Alice Box
+Allied Data
+Allied Telesyn
+AllNet
+Alpha
+Alvarion
+Ambit
+Amped Wireless
+Ansel
+Aolynk
+AOpen
+AP Router
+Apple
+Arris
+Articonet
+Artnet
+Asante
+Asmax
+Asus
+ATEL
+Ativa
+Atlantis Land
+ATnT
+AusLinx
+AWB Networks
+Axesstel
+AZiO
+Aztech
+Bandluxe
+Bandridge
+Baudtec
+Bausch
+Baytec
+Beam
+bebo
+BEC Technologies
+Beeline
+Beetel
+Belgacom
+Belkin
+Bell
+Benq
+Best Data
+BeWAN
+Billion
+Binatone
+BlackBox
+Blanc
+Blitzz
+Blue Thunder
+Bountiful WiFi
+bRoad Lanner
+Broadnext
+BT
+Bticino
+Buffalo
+Cabac
+Cable N Wireless
+Calix
+Cambridge Industries Group
+Cameo
+Canyon
+Caremo
+CastleNet
+Cayman
+CBN
+CD-R King
+Cerberus Adsl
+Cisco
+Cisco Linksys
+CNET
+Comcast
+Compaq
+Compex
+CompUSA
+Comstar
+Comtrend
+Conceptronic
+Conexant
+Corecess
+Coredy
+Corega
+Cosy
+Cradlepoint
+Creative
+Crypto
+CT Systems
+CTC Union
+Cyberoam
+D-Link
+DABS
+Dana
+Dasan
+Davolink
+Dell
+Dick Smith Elec
+Digicom
+Digiconnect
+Digisol
+Digitus
+DirecWay
+Dovado
+Draytek
+DSLink
+Dynalink
+Dynamode
+Dynex
+E Tec
+E-Tech
+Easy Touch
+ECI
+Ecom
+Econ
+Edimax
+EE
+Efficient Siemens
+eHome
+Eicon Networks
+Elcon
+Eltex
+Eminent
+Encore
+Energy Imports
+EnGenius
+Ericsson
+Etec
+Eusso
+Everest
+Fiber Home
+Fiberline
+Flextronics
+FPT
+Franklin Wireless
+FreeWiFiLink
+FRITZ BOX
+Frys
+Fujitsu Siemens
+Gateway
+Geek ADSL
+Geewan
+Gembird
+Gemtek
+Generic
+Genexis
+Gennet OxyGEN
+GetNet
+Gezz
+Gigabyte
+Gigafast
+Gnet
+Grandstream
+Gravis Plus
+Great Speed
+Green Packet
+GreyFox
+GVC
+Hama
+Hame
+Hamlet
+Hatari
+Hawking
+Hewlett Packard
+Hiro
+Hitron Technologies
+Homeline
+HooToo
+Hot
+HotBrick
+Hotline
+Huawei
+Hyundai
+iBall
+ice.net
+ICIDU
+Icotera
+IDream
+iiNet
+Inca
+Inexq
+Infomark
+Infosmart
+Innomedia
+Innotech
+Intel
+Intelbras
+Intellinet
+Inteno
+Intercross
+Intertex
+Intracom
+Inventel
+IOGear
+IPSTAR
+Iskratel
+ITI
+Jaht
+Jensen Scandinavia
+Justec
+Kaiomy
+Kasda
+Kcorp
+KEEBOX
+Keyteck
+Kingnet
+Kobian
+KONIG
+Kozumi
+Kraun
+Kyocera
+L7 Networks
+La Fonera
+LanTech
+LB-Link
+Lectron
+Legrand
+Level One
+Leviton
+LG
+Libya
+Linetec
+Link-Max
+LinkPro
+LinksKey
+Linksys
+LogN
+Longshine
+Loopcomm
+Lucent Technologies
+Luxul
+MacSense
+Maplin
+Marconi
+MaxGate
+Maxim Networking
+Mecer
+MediaLink
+Medion
+Mentor
+Microcom
+Microlink
+Micronet
+Microsoft
+Minitar
+Mobily
+Modecom
+MoFi
+Motorola
+Mototech
+MS-Tech
+MSI
+MTN
+Multilaser
+Multitech
+MyMax
+MyTech
+Net-Lynx
+NetBox Blue
+Netcomm
+Netcoretek
+Netgear
+Netis
+NetMaster
+Netopia
+Netvigator
+Network Everywhere
+neufbox
+New Link
+Nexian
+Nexland
+Nexxt Solutions
+Noganet
+Nokia
+Nokia Siemens
+NovaTech
+Novatel Wireless
+NTech Wireless Tech
+Nucom
+O2
+Octtel
+Olitec
+On Networks
+Open Networks
+Opticom
+Orcon
+Origo
+OTE
+Ovislink
+Ozenda
+Pace Plc
+Paradigm
+Paradyne
+ParkerVision
+Pass and Seymour
+PCI
+pcWRT
+Peak
+Pegasus
+Pentagram
+Pheenet
+Philips
+Phoebe
+Pikatel
+Ping Communication
+Pirelli
+Planet
+Planex
+PLDT
+Pluscom
+Portal
+PowerNet
+Primatel
+Primus Lingo
+Pro-Nets
+Prolink
+Pronet
+Pronets
+PTI
+Q-Tec
+Quanta
+Qubs
+Quick Eagle Networks
+Quicktel
+RadioLabs
+Ramp Networks
+ReadyNet
+RealTek
+Repotec
+Retail Plus
+Riger
+Riger Corporation
+Rogers
+Rosewill
+Ruckus
+Sabrent
+Safecom
+Sagem
+Sagemcom
+Samsung
+SBS
+Schmid
+Scientific Atlanta
+Securifi
+Seowonintech
+ShenZhen ICC Tech
+Shiro Corp
+Shock
+Siemens
+Sierra Wireless
+Simple Mobility
+Sitecom
+Sitel
+SmartRG
+SMC
+SmoothWall
+Soho
+SohoSpeed
+Solwise
+Sonicwall
+Soniq
+Sorenson VRS
+Sparkcom
+SparkLAN
+Spectrum
+Speedcom
+SpeedUp
+Sphairon
+Sphirewall
+ST Labs
+Starbridge
+StarTech
+Steren
+Sterlite
+SunRocket
+Surecom
+Sweex
+Symantec
+Symbol
+Synology
+T-Com
+Tactio
+TDS
+Techmade
+Technicolor
+Tecom
+TekComm
+Telekom
+Telenet
+Telewell
+Telindus
+Telio
+Telkom
+Telmex
+Telrad
+Telsec
+Telsey
+Telstra
+Teltonika
+Telus
+Tenda
+Tendia
+Teracom
+Thomson
+Thomson Alcatel
+Tilgin
+Top Global
+Topcom
+Tornado
+Toshiba
+TOT
+Totolink
+TP-Link
+Trellis
+TrendChip
+Trendnet
+Trust
+Twister
+Ubee
+Ubiquiti
+Umax
+Unex
+Uniden
+Unihero
+US Robotics
+UStec
+UTStarcom
+V-Link
+Verizon
+Viking II
+Virata
+Virgin Media
+VisionNet
+vividwireless
+Vizio
+Vodafone
+Vonage
+Vood
+Vtech
+W-linx
+Wayjet
+Web Excel
+Westell
+Western Digital
+WiFiRanger
+Wise
+Wisenet
+Witpack
+X-linx
+X-Micro
+Xavi
+Xincom
+Xperio Labs
+Xterasys
+Xtremeit
+Zero One Tech
+Zhone
+ZIO
+Zioncom
+Zonet
+Zoom
