@@ -8,6 +8,7 @@
 | [http-methods-lower](http-methods-lower.txt) |  Lowercase HTTP methods 
 | [http-methods-rfc](http-methods-rfc.txt) |  HTTP methods specified in [RFC7231 section 4.3](https://tools.ietf.org/html/rfc7231#section-4.3) 
 | [http-meth-wafflez](http-meth-wafflez.txt) |  HTTP method WAF bypass strings 
+| [http-protocol-constants](http-protocol-constants.h) |  List of HTTP methods, statuses and errno messages defined as preprocessor constants in the C programming langauge via <https://raw.githubusercontent.com/nodejs/http-parser/master/http_parser.h> 
 
 * * *
 
