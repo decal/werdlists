@@ -6,6 +6,7 @@
 | alexa-host-names           | [Alexa](https://www.alexa.com/) URI host names sorted and uniqified  
 | alexa-top50-global         | The top 50 global web sites from <http://alexa.com/topsites>  
 | altdns-host-lists          | a list of hostnames via the [altdns](https://github.com/infosec-au/altdns "Subdomain discovery through alterations and permutations") tool  
+| amazon-aws-hostnames       | Amazon AWS host names list
 | av-update-hosts            | anti-virus signature update host names  
 | bigbad-hosts-list          | only `subdom-brute-list.txt` is larger than this file  
 | brutex-wordlists-namelist  | <https://github.com/1N3/BruteX/blob/master/wordlists/namelist.txt>  
@@ -35,6 +36,7 @@
 | hphosts-file-optimized     | hosts file with multiple host names per line  
 | hphosts-partial-database   | [hosts-partial.txt](https://hosts-file.net/hphosts-partial.txt)  
 | huge-hosts-combine         | unique combo of a half-dozen subdomain lists in this folder  
+| incapsula-scevron-hosts    | list of [Incapsula](https://incapsula.com) client host names determined by my [SCEVRON](https://github.com/decal/scevron "SCan EVerthing with Ruby rONin") research presented at Derbycon 4.0 "Family Rootz" 
 | inet-hosts-sample          | sample of real host names from Internet [zone files](https://wikipedia.org/wiki/Zone_file)  
 | intranet-hosts-list        | combination of several intranet host lists files  
 | intranet-hosts-short       | a short list of intranet hostnames without numbers appended  

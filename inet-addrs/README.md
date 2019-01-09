@@ -16,6 +16,7 @@
 | [georgia-blacklists-suspicious](georgia-blacklists-suspicious.txt) |  downloaded from <http://blacklists.cert.gov.ge/suspicioutIPs.txt> 
 | [goscanssh-ipaddr-blacklist](goscanssh-ipaddr-blacklist.txt) |  <https://blog.talosintelligence.com/2018/03/goscanssh-analysis.html> 
 | [incapsula-cidr-blocks](incapsula-cidr-blocks.txt) |  IPv4 and IPv6 [CIDR blocks](https://wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_blocks) occupied by the **Incapsula** WAF 
+| [ipv4-bogons-full](ipv4-bogons-full.txt) |  list of IPv4 bogon CIDR blocks 
 | [malc0de-ip-blacklist](malc0de-ip-blacklist.txt) |  malc0de.com [IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt "malicious IP addresses") 
 | [malware-domain-ips](malware-domain-ips.txt) |  IP addresses from [Malware Domain List](https://www.malwaredomainlist.com) 
 | [masscan-exclude-conf](masscan-exclude-conf.txt) | `exclude.conf` file from the [masscan](https://github.com/robertdavidgraham/masscan) GitHub repository  
