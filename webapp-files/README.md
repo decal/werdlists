@@ -23,6 +23,7 @@
 | [phpx-all-names](phpx-all-names.txt) |  all other php-data lists regardless of PHP version 
 | [private-file-names](private-file-names.txt) |  short list of file names that may contain sensitive data 
 | [rails-dot-files](rails-dot-files.txt) |  hidden files utilized by [Ruby on Rails](http://rubyonrails.org) 
+| [restricted-file-annotated](restricted-files-annotated.txt) |  files that shouldn't be accessible under the web root folder (with comments) 
 | [richfaces-file-names](richfaces-file-names.txt) |  files for [RichFaces](http://richfaces.jboss.org/ "JSF Component Framework") 
 | [ruby-rails-files](ruby-rails-files.txt) |  files found in the web root directory of Ruby on Rails apps 
 | [s3bucket-scanner-wordlist](s3bucket-scanner-wordlist.txt) | `wordlist.txt` from [s3-bucket-scanner](https://github.com/aljazceru/s3-bucket-scanner.txt "Scanner for public S3 buckets")

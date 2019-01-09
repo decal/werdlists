@@ -3,6 +3,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [bash-builtin-funcs](bash-builtin-funcs.txt) |  BASH builtin functions as revealed by the enable builtin 
+| [common-unixbin-paths](common-unixbin-paths.txt) |  paths to common UNIX binary executables 
 | [errno-all-locales](errno-all-locales.txt.xz) |  the errno names and descriptions for all system locales 
 | [errno-description-list](errno-description-list.csv) |  errors in preprocessor constant, numeric and string form 
 | [fish-builtin-names](fish-builtin-names.txt) |  the names of builtin keywords in the fish shell 
