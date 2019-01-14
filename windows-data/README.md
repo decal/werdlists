@@ -19,6 +19,7 @@
 | [windows-exes-list](windows-exes-list) |  a list of `.EXE` files on [Windows 10](https://microsoft.com/windows10 "Windows 10") 
 | [windows-exes64-list](windows-exes64-list) |  a list of 64-bit `.EXE` files on Windows 10 
 | [windows-server-commands](windows-server-commands) |  a list of `cmd.exe` commands for Microsoft Windows Server 
+| [windowsupdate-link-patterns](windowsupdate-link-patterns) | Windows Update related hyperlinks, some of which contain asterisk wildcard operator syntax via <https://serverfault.com/questions/50620/what-host-names-and-ports-would-need-to-be-opened-in-a-firewall-to-allow-windows> 
 | [win10-mssettings-uris](win10-mssettings-uris) | list of Windows 10 `mssettings:` URI's <https://docs.microsoft.com/windows/uwp/launch-resume/launch-settings-app>  
 | [win10-shell-commands](win10-shell-commands) |  complete list of [Windows 10 Shell Commands](http://www.winhelponline.com/blog/shell-commands-to-access-the-special-folders/) 
 | [win10-source-tree](win10-source-tree) |  "Windows source tree reproduction based on debugging symbols and checked builds" <https://github.com/honorarybot/WinSrcTree> 

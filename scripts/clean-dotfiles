@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#
+# Remove extraneous entries from files comprised of hidden "dot" file/directory path names
+#
+
+
+if [ ! "$1" ]; then
+  echo
+  echo "usage: $0 LISTFILE"
+  echo
+  echo '  LISTFILE  location of dot paths list file'
+  echo
+
+  exit 1
+fi
+
+egrep -v '[0-9]+[^0-9]*[0-9]+[^0-9]*[0-9]+' -- "$1" | egrep -v '(cpp|cc|java|o.cmd|html|php|css|gif|plist|icloud|[ts]w[op]|png|js)$' | egrep -v '^[.][~]'
+
+exit 0

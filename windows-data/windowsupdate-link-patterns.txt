@@ -1,0 +1,13 @@
+c.microsoft.com
+*.c.microsoft.com
+windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
+update.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+windowsupdate.com
+download.windowsupdate.com
+download.microsoft.com
+*.download.windowsupdate.com
+test.stats.update.microsoft.com
+ntservicepack.microsoft.com

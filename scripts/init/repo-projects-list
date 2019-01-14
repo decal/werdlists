@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#
+# Commands used to create `software-strs/repo-projects-list.txt`
+#
+
+
+projfile=$(mktemp "${HOME}/project-list-XXXXXXX.html")
+
+[ -s "$projfile" ] && exit "*** ${projfile} exists and is non-empty!" && exit 1
+
+rm -f -- "$projfile"
+
+nice wget -U 'MSIE' -O "$projfile" -k 'https://repo.or.cz/?a=project_list'
+
+grep -E ' href="/[^.]+[.]git">summary' "$projfile" | awk -F= '{print$3}' | awk -F/ '{print$2}' | awk -F\" '{print$1}' | sed -E 's![.]git$!!g' | sort -u 
+
+rm -f -- "$projfile"
+
+exit 0

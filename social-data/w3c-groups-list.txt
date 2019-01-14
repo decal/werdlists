@@ -1,0 +1,156 @@
+
+Authoring Tool Accessibility Guidelines Working Group
+CC/PP Working Group
+CSV on the Web Working Group
+Compound Document Formats Working Group
+DOM Working Group
+Data on the Web Best Practices Working Group
+Device Independence Working Group
+Digital Publishing Interest Group
+Efficient Extensible Interchange Working Group
+Evaluation and Repair Tools Working Group
+ExpandAccessibility Guidelines
+ExpandAccessible Platform Architectures
+ExpandAccessible Rich Internet Applications
+ExpandAudio
+ExpandAutomotive
+ExpandBrowser Testing and Tools
+ExpandCascading Style Sheets (CSS)
+ExpandChinese Web
+ExpandDataset Exchange
+ExpandDevices and Sensors
+ExpandDistributed Tracing
+ExpandEducation and Outreach
+ExpandImmersive Web
+ExpandInternationalization
+ExpandInternationalization Tag Set (ITS)
+ExpandJSON-LD
+ExpandMedia and Entertainment
+ExpandPatents and Standards
+ExpandPointer Events
+ExpandPrivacy
+ExpandPublishing
+ExpandSVG
+ExpandSecond Screen
+ExpandService Workers
+ExpandSpatial Data on the Web
+ExpandTimed Text
+ExpandTracking Protection
+ExpandVerifiable Claims
+ExpandWAI
+ExpandWeb Application Security
+ExpandWeb Authentication
+ExpandWeb Commerce
+ExpandWeb Fonts
+ExpandWeb Payments
+ExpandWeb Performance
+ExpandWeb Platform
+ExpandWeb Real-Time Communications
+ExpandWeb Security
+ExpandWeb of Things
+ExpandWebAssembly
+Forms Working Group
+GRDDL Working Group
+Geolocation Working Group
+Government Linked Data Working Group
+HTML 5 Japanese Interest Group
+HTML Media Extensions Working Group
+HTML5 Chinese Interest Group
+HTML5 Korean Interest Group
+Hypertext Coordination Group
+Independent User Interface (Indie UI) Working Group
+Internationalization Architecture Working Group
+Internationalization Guidelines, Education & Outreach (GEO) Working Group
+Internationalization Tag Set (ITS) Working Group
+Linked Data Platform (LDP) Working Group
+Math Working Group
+Media Annotations Working Group
+Media Fragments Working Group
+Mobile Web Best Practices Working Group
+Mobile Web For Social Development (MW4D) Interest Group
+Mobile Web Initiative Device Description Working Group
+Mobile Web Test Suites Working Group
+Model-Based User Interfaces Working Group
+MultilingualWeb-LT Working Group
+Multimodal Interaction Working Group
+Near Field Communications Working Group
+OWL Working Group
+P3P Policy and Outreach Working Group
+P3P Specification Working Group
+Patent Policy Working Group
+Permissions and Obligations Expression Working Group
+Points of Interest Working Group
+Policy Languages Interest Group
+Protocol for Web Description Resources (POWDER) Working Group
+Protocols and Formats Working Group
+Provenance Working Group
+Quality Assurance Interest Group
+Quality Assurance Working Group
+RDB2RDF Working Group
+RDF Core Working Group
+RDF Data Shapes Working Group
+RDF Working Group
+RDFa Working Group
+Research and Development Working Group
+Rule Interchange Format Working Group
+SOAP-JMS Binding Working Group
+SPARQL Working Group
+SVG Interest Group
+SYMM Working Group
+Semantic Annotations for Web Services Description Language Working Group
+Semantic Web Best Practices and Deployment Working Group
+Semantic Web Coordination Group
+Semantic Web Deployment Working Group
+Semantic Web Education and Outreach (SWEO) Interest Group
+Semantic Web Health Care and Life Sciences Interest Group
+Semantic Web Interest Group
+Semantic Web Services Interest Group
+Service Modeling Language Working Group
+Social Interest Group
+Social Web Working Group
+Spatial Data on the Web Working Group
+System Applications Working Group
+TV Control Working Group
+URI Coordination Group
+Ubiquitous Web Applications Working Group
+User Agent Accessibility Guidelines Working Group
+Voice Browser Working Group
+WAI Coordination Group
+WAI Research and Development Interest Group
+Web API Working Group
+Web Annotation Working Group
+Web Application Formats Working Group
+Web Applications Working Group
+Web Cryptography Working Group
+Web Events Working Group
+Web Notification Working Group
+Web Ontology Working Group
+Web Performance Interest Group
+Web Security Context Working Group
+Web Services Addressing Working Group
+Web Services Architecture Working Group
+Web Services Choreography Working Group
+Web Services Coordination Group
+Web Services Description Working Group
+Web Services Policy Working Group
+Web Services Resource Access Working Group
+Web Testing Interest Group
+Web and Mobile Interest Group
+WebCGM Working Group
+XHTML2 Working Group
+XML Binary Characterization Working Group
+XML Coordination Group
+XML Core Working Group
+XML Linking Working Group
+XML Plenary Interest Group
+XML Print and Page Layout Working Group
+XML Processing Model Working Group
+XML Protocol Working Group
+XML Query Working Group
+XML Schema Interest Group
+XML Schema Patterns for Databinding Working Group
+XML Schema Working Group
+XML Security Specifications Maintenance Working Group
+XML Security Working Group
+XSLT Working Group
+eGovernment Interest Group
