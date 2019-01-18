@@ -7,6 +7,7 @@
 | [dirb-list-words](dirb-list-words.txt) |  file names taken parsed from the [dirb](https://dirb.sourceforge.net) `wordlists` folder 
 | [drupal-modules-list](drupal-modules-list.txt) |  [Drupal](https://www.drupal.org/) modules list from `nselib/data/drupal-modules.lst` 
 | [drupal-themes-list](drupal-themes-list.txt) |  [Drupal](https://www.drupal.org/) themes list from `nselib/data/drupal-themes.lst` 
+| [duckduckgo-bangs-words](duckduckgo-bangs-words.txt) | [DuckDuckGo](https://duckduckgo.com) bangs words list via <https://duckduckgo.com/bangs_lite.html> 
 | [phpx-all-words](phpx-all-words.txt) |  words uniquely parsed from all [PHP](http://www.php.net) files in `webapp-files` 
 | [private-word-names](private-word-names.txt) |  words that form private file names after extension appendage 
 | [services-word-names](services-word-names.txt) |  list of service names potentially found in a web app 
