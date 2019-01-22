@@ -4,6 +4,7 @@
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [composer-packages-list](composer-packages-list.txt.xz) |  names of packages available from [PHP](https://secure.php.net) `composer.phar` 
 | [php-class-names](php-class-names.txt) |  PHP class names from <https://poggit.pmmp.io/fqn.txt> 
+| [php-config-settings](php-config-settings.ini) |  Examples of hardened `php.ini` settings
 | [php-developer-advice](php-developer-advice.md) |  "How to be a better PHP Developer" <http://webcheatsheet.com/php/better_php_developer.php> 
 | [php-function-names](php-function-names.txt) |  Alphabetically sorted list of PHP function identifiers 
 

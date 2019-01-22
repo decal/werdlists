@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+vim --version | egrep '^[+-]+[a-z]+' | tr ' ' '\n' | sort -u | tail -n +2
+
+exit 0

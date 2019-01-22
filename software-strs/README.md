@@ -56,6 +56,7 @@
 | [strings-docker-bin](strings-docker-bin.txt) |  output of strings on docker container utility binary 
 | [symantec-removal-tools](symantec-removal-tools.txt) |  list of malware removal/fix tools by Symantec 
 | [vidgame-malware-removed](vidgame-malware-removed.txt) |  list of malware from <https://vidga.me/transparency/malware/removed.txt> 
+| [vim-feature-flags](vim-feature-flags.txt) |  list of [VIM](https://www.vim.org "im is a highly configurable text editor for efficiently creating and changing any kind of text. ") editor feature flags 
 | [virtualsplat-abbrev-dict](virtualsplat-abbrev-dict.txt) |  [Abbreviation Dictionary](virtualsplat.com/abbrevs) 
 | [windows-sdb-strings](windows-sdb-strings.txt) |  Strings dumped from Windows Application Compatibility Databases using `SDBExplorer.exe` 
 

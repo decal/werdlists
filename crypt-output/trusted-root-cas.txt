@@ -1,0 +1,153 @@
+subject=CN = ACCVRAIZ1, OU = PKIACCV, O = ACCV, C = ES
+subject=C = ES, O = FNMT-RCM, OU = AC RAIZ FNMT-RCM
+subject=C = CO, O = Sociedad Cameral de Certificaci\C3\B3n Digital - Certic\C3\A1mara S.A., CN = AC Ra\C3\ADz Certic\C3\A1mara S.A.
+subject=C = IT, L = Milan, O = Actalis S.p.A./03358520967, CN = Actalis Authentication Root CA
+subject=C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+subject=C = SE, O = AddTrust AB, OU = AddTrust TTP Network, CN = AddTrust Class 1 CA Root
+subject=C = US, O = AffirmTrust, CN = AffirmTrust Commercial
+subject=C = US, O = AffirmTrust, CN = AffirmTrust Networking
+subject=C = US, O = AffirmTrust, CN = AffirmTrust Premium
+subject=C = US, O = AffirmTrust, CN = AffirmTrust Premium ECC
+subject=C = US, O = Amazon, CN = Amazon Root CA 1
+subject=C = US, O = Amazon, CN = Amazon Root CA 2
+subject=C = US, O = Amazon, CN = Amazon Root CA 3
+subject=C = US, O = Amazon, CN = Amazon Root CA 4
+subject=CN = Atos TrustedRoot 2011, O = Atos, C = DE
+subject=C = ES, CN = Autoridad de Certificacion Firmaprofesional CIF A62634068
+subject=C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+subject=C = NO, O = Buypass AS-983163327, CN = Buypass Class 2 Root CA
+subject=C = NO, O = Buypass AS-983163327, CN = Buypass Class 3 Root CA
+subject=C = SK, L = Bratislava, O = Disig a.s., CN = CA Disig Root R2
+subject=C = CN, O = China Financial Certification Authority, CN = CFCA EV ROOT
+subject=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO Certification Authority
+subject=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+subject=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+subject=C = EU, O = AC Camerfirma SA CIF A82743287, OU = http://www.chambersign.org, CN = Chambers of Commerce Root
+subject=C = EU, O = AC Camerfirma SA CIF A82743287, OU = http://www.chambersign.org, CN = Global Chambersign Root
+subject=C = FR, O = Dhimyotis, CN = Certigna
+subject=C = FR, O = Certinomis, OU = 0002 433998903, CN = Certinomis - Root CA
+subject=C = FR, O = Certplus, CN = Class 2 Primary CA
+subject=C = FR, O = Certplus, CN = Certplus Root CA G1
+subject=C = FR, O = Certplus, CN = Certplus Root CA G2
+subject=C = PL, O = Unizeto Sp. z o.o., CN = Certum CA
+subject=C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA
+subject=C = PL, O = Unizeto Technologies S.A., OU = Certum Certification Authority, CN = Certum Trusted Network CA 2
+subject=C = EU, L = Madrid (see current address at www.camerfirma.com/address), serialNumber = A82743287, O = AC Camerfirma S.A., CN = Chambers of Commerce Root - 2008
+subject=CN = ComSign CA, O = ComSign, C = IL
+subject=C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+subject=O = "Cybertrust, Inc", CN = Cybertrust Global Root
+subject=C = DE, O = D-Trust GmbH, CN = D-TRUST Root CA 3 2013
+subject=C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 2009
+subject=C = DE, O = D-Trust GmbH, CN = D-TRUST Root Class 3 CA 2 EV 2009
+subject=O = Digital Signature Trust Co., CN = DST Root CA X3
+subject=C = DE, O = Deutsche Telekom AG, OU = T-TeleSec Trust Center, CN = Deutsche Telekom Root CA 2
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root CA
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G2
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Assured ID Root G3
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G3
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert High Assurance EV Root CA
+subject=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Trusted Root G4
+subject=C = TR, L = Ankara, O = E-Tu\C4\9Fra EBG Bili\C5\9Fim Teknolojileri ve Hizmetleri A.\C5\9E., OU = E-Tugra Sertifikasyon Merkezi, CN = E-Tugra Certification Authority
+subject=C = ES, O = Agencia Catalana de Certificacio (NIF Q-0801176-I), OU = Serveis Publics de Certificacio, OU = Vegeu https://www.catcert.net/verarrel (c)03, OU = Jerarquia Entitats de Certificacio Catalanes, CN = EC-ACC
+subject=C = EE, O = AS Sertifitseerimiskeskus, CN = EE Certification Centre Root CA, emailAddress = pki@sk.ee
+subject=O = Entrust.net, OU = www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU = (c) 1999 Entrust.net Limited, CN = Entrust.net Certification Authority (2048)
+subject=C = US, O = "Entrust, Inc.", OU = www.entrust.net/CPS is incorporated by reference, OU = "(c) 2006 Entrust, Inc.", CN = Entrust Root Certification Authority
+subject=C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2012 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - EC1
+subject=C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2009 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G2
+subject=C = NL, O = DigiNotar, CN = DigiNotar Root CA, emailAddress = info@diginotar.nl
+subject=C = NL, O = DigiNotar B.V., CN = DigiNotar PKIoverheid CA Organisatie - G2
+subject=C = CN, O = "GUANG DONG CERTIFICATE AUTHORITY CO.,LTD.", CN = GDCA TrustAUTH R5 ROOT
+subject=C = US, O = GeoTrust Inc., CN = GeoTrust Global CA
+subject=C = US, O = GeoTrust Inc., CN = GeoTrust Primary Certification Authority
+subject=C = US, O = GeoTrust Inc., OU = (c) 2007 GeoTrust Inc. - For authorized use only, CN = GeoTrust Primary Certification Authority - G2
+subject=C = US, O = GeoTrust Inc., OU = (c) 2008 GeoTrust Inc. - For authorized use only, CN = GeoTrust Primary Certification Authority - G3
+subject=C = US, O = GeoTrust Inc., CN = GeoTrust Universal CA
+subject=C = US, O = GeoTrust Inc., CN = GeoTrust Universal CA 2
+subject=OU = GlobalSign ECC Root CA - R4, O = GlobalSign, CN = GlobalSign
+subject=OU = GlobalSign ECC Root CA - R5, O = GlobalSign, CN = GlobalSign
+subject=C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+subject=OU = GlobalSign Root CA - R2, O = GlobalSign, CN = GlobalSign
+subject=OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+subject=C = EU, L = Madrid (see current address at www.camerfirma.com/address), serialNumber = A82743287, O = AC Camerfirma S.A., CN = Global Chambersign Root - 2008
+subject=C = US, O = "The Go Daddy Group, Inc.", OU = Go Daddy Class 2 Certification Authority
+subject=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
+subject=C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions ECC RootCA 2015
+subject=C = GR, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions RootCA 2011
+subject=C = GR, L = Athens, O = Hellenic Academic and Research Institutions Cert. Authority, CN = Hellenic Academic and Research Institutions RootCA 2015
+subject=C = HK, O = Hongkong Post, CN = Hongkong Post Root CA 1
+subject=C = US, O = Internet Security Research Group, CN = ISRG Root X1
+subject=C = US, O = IdenTrust, CN = IdenTrust Commercial Root CA 1
+subject=C = US, O = IdenTrust, CN = IdenTrust Public Sector Root CA 1
+subject=C = ES, O = IZENPE S.A., CN = Izenpe.com
+subject=C = LU, O = LuxTrust S.A., CN = LuxTrust Global Root 2
+subject=C = HU, L = Budapest, O = Microsec Ltd., CN = Microsec e-Szigno Root CA 2009, emailAddress = info@e-szigno.hu
+subject=C = HU, L = Budapest, O = NetLock Kft., OU = Tan\C3\BAs\C3\ADtv\C3\A1nykiad\C3\B3k (Certification Services), CN = NetLock Arany (Class Gold) F\C5\91tan\C3\BAs\C3\ADtv\C3\A1ny
+subject=C = US, O = Network Solutions L.L.C., CN = Network Solutions Certificate Authority
+subject=C = CH, O = WISeKey, OU = Copyright (c) 2005, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GA CA
+subject=C = CH, O = WISeKey, OU = OISTE Foundation Endorsed, CN = OISTE WISeKey Global Root GB CA
+subject=C = FR, O = OpenTrust, CN = OpenTrust Root CA G1
+subject=C = FR, O = OpenTrust, CN = OpenTrust Root CA G2
+subject=C = FR, O = OpenTrust, CN = OpenTrust Root CA G3
+subject=C = BM, O = QuoVadis Limited, OU = Root Certification Authority, CN = QuoVadis Root Certification Authority
+subject=C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 1 G3
+subject=C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2
+subject=C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2 G3
+subject=C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3
+subject=C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 3 G3
+subject=C = DE, O = Deutscher Sparkassen Verlag GmbH, OU = S-TRUST Certification Services, CN = S-TRUST Universal Root CA
+subject=C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority ECC
+subject=C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com EV Root Certification Authority RSA R2
+subject=C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority ECC
+subject=C = US, ST = Texas, L = Houston, O = SSL Corporation, CN = SSL.com Root Certification Authority RSA
+subject=C = PL, O = Krajowa Izba Rozliczeniowa S.A., CN = SZAFIR ROOT CA2
+subject=C = JP, O = "Japan Certification Services, Inc.", CN = SecureSign RootCA11
+subject=C = US, O = SecureTrust Corporation, CN = SecureTrust CA
+subject=C = US, O = SecureTrust Corporation, CN = Secure Global CA
+subject=C = JP, O = "SECOM Trust Systems CO.,LTD.", OU = Security Communication RootCA2
+subject=C = JP, O = SECOM Trust.net, OU = Security Communication RootCA1
+subject=C = FI, O = Sonera, CN = Sonera Class2 CA
+subject=C = NL, O = Staat der Nederlanden, CN = Staat der Nederlanden EV Root CA
+subject=C = NL, O = Staat der Nederlanden, CN = Staat der Nederlanden Root CA - G2
+subject=C = NL, O = Staat der Nederlanden, CN = Staat der Nederlanden Root CA - G3
+subject=C = US, O = "Starfield Technologies, Inc.", OU = Starfield Class 2 Certification Authority
+subject=C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Root Certificate Authority - G2
+subject=C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+subject=C = CH, O = SwissSign AG, CN = SwissSign Gold CA - G2
+subject=C = CH, O = SwissSign AG, CN = SwissSign Platinum CA - G2
+subject=C = CH, O = SwissSign AG, CN = SwissSign Silver CA - G2
+subject=C = ch, O = Swisscom, OU = Digital Certificate Services, CN = Swisscom Root CA 2
+subject=C = US, O = Symantec Corporation, OU = Symantec Trust Network, CN = Symantec Class 1 Public Primary Certification Authority - G4
+subject=C = US, O = Symantec Corporation, OU = Symantec Trust Network, CN = Symantec Class 1 Public Primary Certification Authority - G6
+subject=C = US, O = Symantec Corporation, OU = Symantec Trust Network, CN = Symantec Class 2 Public Primary Certification Authority - G4
+subject=C = US, O = Symantec Corporation, OU = Symantec Trust Network, CN = Symantec Class 2 Public Primary Certification Authority - G6
+subject=C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 2
+subject=C = DE, O = T-Systems Enterprise Services GmbH, OU = T-Systems Trust Center, CN = T-TeleSec GlobalRoot Class 3
+subject=C = DE, O = TC TrustCenter GmbH, OU = TC TrustCenter Class 3 CA, CN = TC TrustCenter Class 3 CA II
+subject=C = TR, L = Gebze - Kocaeli, O = Turkiye Bilimsel ve Teknolojik Arastirma Kurumu - TUBITAK, OU = Kamu Sertifikasyon Merkezi - Kamu SM, CN = TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+subject=C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Global Root CA
+subject=C = TW, O = TAIWAN-CA, OU = Root CA, CN = TWCA Root Certification Authority
+subject=C = TW, O = Government Root Certification Authority
+subject=O = TeliaSonera, CN = TeliaSonera Root CA v1
+subject=C = PA, ST = Panama, L = Panama City, O = TrustCor Systems S. de R.L., OU = TrustCor Certificate Authority, CN = TrustCor ECA-1
+subject=C = PA, ST = Panama, L = Panama City, O = TrustCor Systems S. de R.L., OU = TrustCor Certificate Authority, CN = TrustCor RootCert CA-1
+subject=C = PA, ST = Panama, L = Panama City, O = TrustCor Systems S. de R.L., OU = TrustCor Certificate Authority, CN = TrustCor RootCert CA-2
+subject=C = GB, O = Trustis Limited, OU = Trustis FPS Root CA
+subject=C = TR, L = Ankara, O = T\C3\9CRKTRUST Bilgi \C4\B0leti\C5\9Fim ve Bili\C5\9Fim G\C3\BCvenli\C4\9Fi Hizmetleri A.\C5\9E., CN = T\C3\9CRKTRUST Elektronik Sertifika Hizmet Sa\C4\9Flay\C4\B1c\C4\B1s\C4\B1 H5
+subject=C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust ECC Certification Authority
+subject=C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+subject=C = US, ST = UT, L = Salt Lake City, O = The USERTRUST Network, OU = http://www.usertrust.com, CN = UTN-USERFirst-Client Authentication and Email
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 2007 VeriSign, Inc. - For authorized use only", CN = VeriSign Class 3 Public Primary Certification Authority - G4
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 2006 VeriSign, Inc. - For authorized use only", CN = VeriSign Class 3 Public Primary Certification Authority - G5
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 2008 VeriSign, Inc. - For authorized use only", CN = VeriSign Universal Root Certification Authority
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 1999 VeriSign, Inc. - For authorized use only", CN = VeriSign Class 1 Public Primary Certification Authority - G3
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 1999 VeriSign, Inc. - For authorized use only", CN = VeriSign Class 2 Public Primary Certification Authority - G3
+subject=C = US, O = "VeriSign, Inc.", OU = VeriSign Trust Network, OU = "(c) 1999 VeriSign, Inc. - For authorized use only", CN = VeriSign Class 3 Public Primary Certification Authority - G3
+subject=C = US, O = VISA, OU = Visa International Service Association, CN = Visa eCommerce Root
+subject=C = US, OU = www.xrampsecurity.com, O = XRamp Security Services Inc, CN = XRamp Global Certification Authority
+subject=C = RO, O = certSIGN, OU = certSIGN ROOT CA
+subject=C = TW, O = "Chunghwa Telecom Co., Ltd.", OU = ePKI Root Certification Authority
+subject=C = US, O = "thawte, Inc.", OU = Certification Services Division, OU = "(c) 2006 thawte, Inc. - For authorized use only", CN = thawte Primary Root CA
+subject=C = US, O = "thawte, Inc.", OU = "(c) 2007 thawte, Inc. - For authorized use only", CN = thawte Primary Root CA - G2
+subject=C = US, O = "thawte, Inc.", OU = Certification Services Division, OU = "(c) 2008 thawte, Inc. - For authorized use only", CN = thawte Primary Root CA - G3

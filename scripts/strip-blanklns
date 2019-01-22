@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+egrep -v '^[[:space:]]*$' $*
+
+exit 0

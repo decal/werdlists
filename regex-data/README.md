@@ -10,6 +10,7 @@
 | [non-split-patterns](non-split-patterns.js) | Java regular expressions for patterns that appear to be (but actually aren't) sentence splits <https://gate.ac.uk/gate/plugins/ANNIE/resources/regex-splitter/non-split-patterns.txt>  
 | [regex-payload-list](regex-payload-list.txt) |  regexp known to exhaust all CPU resources on Chrome and NodeJS 
 | [regular-expression-guide](regular-expression-guide.txt) |  a cheat sheet for regular expressions 
+| [shebang-path-eregexp](shebang-path-eregexp.txt) |  [POSIX Extended Regular Expression](https://www.regular-expressions.info/posix.html#ere "The Extended Regular Expressions or ERE flavor standardizes a flavor similar to the one used by the UNIX egrep command.") to match the interpreter directive in the initial line of a shell script.
 | [sms-shortcode-regexes](sms-shortcode-regexes.txt) |  patterns that match SMS [short codes](https://wikipedia.org/wiki/Short_code "Short codes are short digit sequences, significantly shorter than telephone numbers, that are used to address messages in Multimedia Messaging System and Short Messaging Service systems of mobile network operators.") in various countries   
 | [sql-error-regexes](sql-error-regexes.txt) |  regular expressions to match SQL [RDBMS](https://wikipedia.org/wiki/Relational_database_management_system "A database management system based on the relational model of data.") error strings   
 | [test-regular-expressions](test-regular-expressions.txt) | a list of simple test regular expressions
