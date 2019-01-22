@@ -38,6 +38,7 @@
 | [msedge-error-codes](msedge-error-codes.txt) | Microsoft Edge Error Codes from <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/console/error-and-status-codes>
 | [msft-crypto-oids](msft-crypto-oids.txt) | Object ID's associated with Microsoft cryptography <https://support.microsoft.com/en-us/help/287547/>
 | [node-package-names](node-package-names.txt) | Parsed from the `names.json` file via [all-the-package-names](https://npmjs.com/package/all-the-package-names)  
+| [opencsw-software-list](opencsw-software-list.txt) |  list of software projects maintained as Solaris SVR4 packages by [OpenCSW](https://opencsw.org) which are incompatible with [Blastwave.org](https://wikipedia.org/wiki/Blastwave.org "Blastwave.org was a privately held corporation specializing in building and supporting open source software packages for Oracle Solaris") packages  
 | [opensrc-softlic-compare](opensrc-softlic-compare.md) |  Comparison of text from popular [open source software licenses](https://opensource.org/licenses) 
 | [operating-system-list](operating-system-list.txt) |  a list of computer operating systems taken from <http://www.operating-system.org/betriebssystem/_english/os-liste.htm> 
 | [opsys-names-list](opsys-names-list.txt) |  list of many operating system names 

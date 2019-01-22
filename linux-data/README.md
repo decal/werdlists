@@ -14,6 +14,7 @@
 | [centos7-yum-pkgs](centos7-yum-pkgs.txt.xz) |  list of packages from `yum` in [CentOS](https://www.centos.org/ "The CentOS Project") 7 
 | [debian-packages-universe](debian-packages-universe.txt.xz) | list of [Debian](https://debian.org) `universe` packages as compact compressed textlist <https://packages.ubuntu.com/cosmic/allpackages?format=txt.gz>
 | [dot-path-names](dot-path-names.txt) |  various path names, i.e. files and dirs prepended with a period 
+| [essential-packages-list](essential-packages-list.txt) |  the list of packages that are essentially required for Debian style distributions as maintained by the `build-essentials` package via <file:///usr/share/misc/essential-packages-list>   
 | [git-command-descs](git-command-descs.txt) |  git command names with manual page sections and descriptions 
 | [glibc-tunable-names](glibc-tunable-names.txt) |  options that match GNU libc runtime behavior with workload 
 | [icmpv6-iptables-rules](icmpv6-iptables-rules.sh) |  [ICMPv6](https://wikipedia.org/wiki/Internet_Control_Message_Protocol_for_IPv6 "Internet Control Message Protocol for IPv6") iptables rule set 
