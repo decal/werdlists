@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# abc
+# Catches insensitive/inconsiderate writing
 #
 
 while true; do
