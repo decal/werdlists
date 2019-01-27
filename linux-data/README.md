@@ -12,6 +12,8 @@
 | [bash-shell-options](bash-shell-options.txt) |  bash shell options as managed by [the `shopt` builtin](https://gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html "the shopt builtin") 
 | [binary-format-targets](binary-format-targets.txt) |  [executable](https://wikipedia.org/wiki/Executable) file formats and platforms 
 | [centos7-yum-pkgs](centos7-yum-pkgs.txt.xz) |  list of packages from `yum` in [CentOS](https://www.centos.org/ "The CentOS Project") 7 
+| [common-command-options](common-command-options.txt) | list of command-line options and the function typically associated with that letter
+<https://likegeeks.com/linux-bash-scripting-awesome-guide-part3/> 
 | [debian-packages-universe](debian-packages-universe.txt.xz) | list of [Debian](https://debian.org) `universe` packages as compact compressed textlist <https://packages.ubuntu.com/cosmic/allpackages?format=txt.gz>
 | [dot-path-names](dot-path-names.txt) |  various path names, i.e. files and dirs prepended with a period 
 | [essential-packages-list](essential-packages-list.txt) |  the list of packages that are essentially required for Debian style distributions as maintained by the `build-essentials` package via <file:///usr/share/misc/essential-packages-list>   

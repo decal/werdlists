@@ -1,3 +1,5 @@
+Accept-CH
+Accept-CH-Lifetime
 Accept-Patch
 Accept-Ranges
 Access-Control-Allow-Credentials
@@ -32,6 +34,7 @@ Date
 device_type
 elapsed-time
 ETag
+Expect-CT
 Expires
 facebook-api-version
 Frame-Options
@@ -59,11 +62,14 @@ Proxy-Authenticate
 Proxy-Authentication-Info
 Public-Key-Pins
 Push-Policy
+Referer
+Referrer-Policy
 Refresh
 Retry-After
 return-client-request-id
 Server
 Server-Timing
+Service-Worker-Allowed
 Set-Cookie
 Source-Age
 SourceMap

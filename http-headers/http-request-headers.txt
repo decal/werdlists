@@ -20,6 +20,7 @@ Auto-Submitted
 Bcc
 Cache-Control
 Cc
+CDN-Loop
 Comments
 Connection
 Content-Disposition
@@ -63,6 +64,7 @@ If-Unmodified-Since
 In-Reply-To
 Injection-Date
 Injection-Info
+Key
 Keywords
 Last-Event-Id
 Last-Modified
@@ -112,6 +114,7 @@ Retry-After
 Return-Path
 Schedule-Reply
 Schedule-Tag
+Sec-Metadata
 Sec-WebSocket-Accept
 Sec-WebSocket-Extensions
 Sec-WebSocket-Key
@@ -119,6 +122,7 @@ Sec-WebSocket-Protocol
 Sec-WebSocket-Version
 Sender
 Server
+Service-Worker
 Servlet-Engine
 Set-Cookie
 Set-Cookie2
@@ -135,6 +139,8 @@ Trailer
 Transfer-Encoding
 Upgrade
 User-Agent
+Variant-Key
+Variants
 Vary
 VBR-Info
 Via
