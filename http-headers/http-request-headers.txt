@@ -136,6 +136,8 @@ Supersedes
 TE
 Timeout
 To
+traceparent
+tracestate
 Trailer
 Transfer-Encoding
 Upgrade

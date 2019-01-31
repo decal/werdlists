@@ -6,6 +6,8 @@
 | [cisco-joy-ports](cisco-joy-ports.txt) |  <https://raw.githubusercontent.com/cisco/joy/master/data/ports.txt> 
 | [curl-config-protocols](curl-config-protocols.txt) |  output displayed when executing `curl-config --protocols` 
 | [ietf-rfc-index](ietf-rfc-index.txt.xz) |  "contains citations for all RFCs in numeric order" <https://www.rfc-editor.org/rfc-index.txt> 
+| [inet-services-all](inet-services-all.txt) | `services(5)` style file created by parsing all files within this folder
+via `scripts/all-inet-services` 
 | [nmap-services-file](nmap-services-file.txt) |  [NMap's Well-Known Port List](https://nmap.org/book/nmap-services.html) `nmap-services` file 
 | [oracle-port-list](oracle-port-list.txt) |  [Oracle App Server Install Guide Default Port Numbers](https://docs.oracle.com/cd/B14101_13/install.1012/install/ports.htm) 
 | [rpc-prognum-names](rpc-prognum-names.txt) |  RPC program number database as documented by the `rpc(5)` manual page 

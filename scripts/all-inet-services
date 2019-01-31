@@ -5,6 +5,7 @@
 # Note: needs to run on macOS because of `sed -E`
 #
 
-sort -u inet-services/*services-*.txt | sed 's!#.*$!!' | sed -E 's!0[.][0-9]+!!' | grep / | awk '{print$1 " " $2}' | sort -u
+sort -u inet-services/*services-*.txt | sed 's!#.*$!!' | sed -E 's!0[.][0-9]+!!' | grep / | \
+  awk '{print$1 " " $2 " " $3 " " $4}' | egrep '[^[:space:]]+[[:space:]]+[^[:space:]]+' | sort -ubnk2 
 
 exit 0
