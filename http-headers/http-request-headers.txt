@@ -115,6 +115,7 @@ Return-Path
 Schedule-Reply
 Schedule-Tag
 Sec-Metadata
+Sec-Required-CSP
 Sec-WebSocket-Accept
 Sec-WebSocket-Extensions
 Sec-WebSocket-Key

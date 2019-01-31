@@ -8,6 +8,7 @@
 | [html5-email-spec](html5-email-spec.txt) |  [HTML5 spec](https://html.spec.whatwg.org/multipage/input.html#e-mail-state-(type%3Demail) "input tag with type=email") 
 | [javascript-regex-help](javascript-regex-help.md) | Javascript regular expression help
 | [non-split-patterns](non-split-patterns.js) | Java regular expressions for patterns that appear to be (but actually aren't) sentence splits <https://gate.ac.uk/gate/plugins/ANNIE/resources/regex-splitter/non-split-patterns.txt>  
+| [procmailrc-address-regexes](procmailrc-address-regexes.txt) | protocol header e-mail address regular expressions from `.procmailrc` 
 | [regex-payload-list](regex-payload-list.txt) |  regexp known to exhaust all CPU resources on Chrome and NodeJS 
 | [regular-expression-guide](regular-expression-guide.txt) |  a cheat sheet for regular expressions 
 | [shebang-path-eregexp](shebang-path-eregexp.txt) |  [POSIX Extended Regular Expression](https://www.regular-expressions.info/posix.html#ere "The Extended Regular Expressions or ERE flavor standardizes a flavor similar to the one used by the UNIX egrep command.") to match the interpreter directive in the initial line of a shell script.

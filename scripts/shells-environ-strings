@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+for s in $(cat software-strs/shells-environ-strings.txt); do
+  declare astr=$(eval echo \$$s)
+
+  if [ ! -z "$astr" ]; then
+    builtin echo -n "$s: "
+    builtin echo $astr
+  fi
+done
+
+exit 0

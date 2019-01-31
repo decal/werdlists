@@ -14,7 +14,10 @@
 | [swift-document-standards](swift-document-standards.txt) | [SWIFT Document Standards](https://edibasics.com/edi-resources/document-standards/swift) published on the [EDI Basics](https://edibasics.com "Your resource for learning about EDI") web site
 | [telnet-service-locations](telnet-service-locations.txt) | URI's to Internet [Telnet](https://wikipedia.org/wiki/Telnet "Telnet is a protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection.") servers  
 | [tld-whois-servers](tld-whois-servers.txt) |  [WHOIS servers list for all domain types](http://www.nirsoft.net/whois_servers_list.html) 
-| [ubuntu-etc-services](ubuntu-etc-services.txt) |  `/etc/services` file from [Ubuntu Linux](https://www.ubuntu.com) `netbase` package 
+| [services-tcp-scan](services-tcp-scan.txt) | services file provided by the
+[tcp-scan](https://github.com/royhills/tcp-scan "Bandwidth-optimised half-open TCP portscanner") tool 
+<https://raw.githubusercontent.com/royhills/tcp-scan/master/tcp-scan-services> 
+| [services-ubuntu-etc](services-ubuntu-etc.txt) |  `/etc/services` file from [Ubuntu Linux](https://www.ubuntu.com) `netbase` package 
 | [vpn-comparison-chart](vpn-comparison-chart.csv) |  Detailed comparison of many [VPN](https://wikipedia.org/wiki/Virtual_private_network) providers in CSV format <https://thatoneprivacysite.net>  
 | [websphere-port-numbers](websphere-port-numbers.txt) |  HTTP ports from the [IBM WebSphere Application Server](https://ibm.com/cloud/websphere-application-platform) listener configurations in `serverindex.xml` 
 | [whois-servers-list](whois-servers-list.txt) |  <ftp://ftp.freeshell.org/pub/computers/internet/whois-servers.list> 

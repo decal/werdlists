@@ -5,6 +5,9 @@
 | [anti-spam-autoresponse](anti-spam-autoresponse.txt) |  why your approach to fighting spam won't work <https://gist.github.com/philchristensen/1130439> 
 | [google-data-collection](google-data-collection.txt) |  Google data collection policy extracted from the Google LLC entry of the Privacy Shield List via <https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>  
 | [nist-copyright-comments](nist-copyright-comments.cpp) |  NIST source code copyright message in C++ style comments 
+| [oracle-opensource-license](oracle-opensource-license.txt) | [Oracle](https://oracle.com) open source software license text
+| [oracle-sun-acquisition](oracle-sun-acquisition.txt) | Text included in licenses from Oracle's Sun Microsystems
+buy-out 
 | [pped-acceptable-usepolicy](pped-acceptable-usepolicy.txt) |  U.S. Navy PPED (Personal Portable Electronic Device) Acceptable Use Policy 
 | [safety-walkthrough-checklist](safety-walkthrough-checklist.md) |  SANS Security Leadership Essentials Facility Safety Inspection Checklist converted to markdown <https://www.sans.org/media/score/checklists/safetyWalkthrough.pdf> 
 | [shapesecurity-contrib-agreement](shapesecurity-contrib-agreement.md) |  Shape Security Contributor License Agreement <https://github.com/shapesecurity/CLA/> 

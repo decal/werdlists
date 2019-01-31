@@ -57,6 +57,9 @@
 | subdomain3-cdn-servers     | list of [Content delivery network](https://wikipedia.org/wiki/Content_delivery_network) servers from `cdn_servers.txt` of [subdomain3](https://github.com/yanxiu0614/subdomain3 "A new generation of tool for discovering subdomains")
 | subdomain3-nextsub-full    | list of subdomains from `next_sub_full.txt` of *subdomain3*
 | subdomain3-wydomain-list   | larger list of subdomains from `wydomain.csv` of *subdomain3*
+| subrake-hostnames-list     | list of host names from [subrake](https://github.com/hash3liZer/Subrake "A powerful low-level socket
+scanner for enumerating subdomains, HTTP/HTTPS codes and CNAME records. 2.x to 3.x times faster.") tool
+<https://raw.githubusercontent.com/hash3liZer/Subrake/master/wordlists/small.lst>  
 | top-million-subdomains     | large list of subdomain names [cldrn GitHub](https://github.com/cldrn/pentesting)  
 | tor-hsts-preloads          | Site list for [HTTP Strict Transport Security](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet) preloading on TOR  
 | tweet-link-hosts           | hosts parsed from tweet text on [Twitter](https://twitter.com)  

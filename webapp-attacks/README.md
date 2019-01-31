@@ -14,6 +14,7 @@
 | [mssql-injection-strings](mssql-injection-strings.txt) | SQL injection attack strings specified to [Microsoft SQL Server](https://microsoft.com/sql-server)  
 | [png-html-polyglot](png-html-polyglot.html) |  a PNG image file also containing HTML, CSS and JavaScript 
 | [portswigger-attack-definitions](portswigger-attack-definitions.txt) |  [PortSwigger](https://portswigger.net) attack definitions
+<https://portswigger.net/kb/issues> 
 | [script-tag-encodings](script-tag-encodings.txt) | a list of various web encodings for the string `<script>`  
 | [vulnerability-rating-taxonomy](vulnerability-rating-taxonomy.json)  |  [Bugcrowd](https://bugcrowd.com) Vulnerability Rating Taxonomy JSON via <https://github.com/bugcrowd/vulnerability-rating-taxonomy>  
 | [wapples-vseries-rules](wapples-vseries-rules.txt) | WAPPLES V-Series virtual WAF rules <https://www.pentasecurity.co.kr/wp-content/uploads/2018/01/WAPPLES-V-Series-whitepaper.pdf> 

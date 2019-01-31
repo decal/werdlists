@@ -1,4 +1,4 @@
-# Name  Typical severity  Type index
+# "Name" Severity Index
 OS command injection  High  0x00100100
 SQL injection  High  0x00100200
 SQL injection (second order)  High  0x00100210
