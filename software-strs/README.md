@@ -8,6 +8,7 @@
 | [autoconf-archive-macros](autoconf-archive-macros.txt) | GNU autoconf m4 macros list from <https://gnu.org/software/autoconf>
 | [bsd-symbol-list](bsd-symbol-list.txt) |  symbols from strings'ing binaries on BSD operating systems 
 | [clib-package-names](clib-package-names.txt) | list of package names parsed from the command `clib search ''`
+| [cloud-storage-providers](cloud-storage-providers.txt) | list of cloud storage providers via <https://rclone.org> 
 | [code-project-list](code-project-list.txt) |  popular code projects, well-known dependencies, API's, etc. 
 | [cpan-config-options](cpan-config-options.txt) | configuration options shown giving by the `cpan` utility the interactive command `o conf`  
 | [cpanplus-packages-details](cpanplus-packages-details.txt.gz) |  list of [CPAN](https://cpan.org "Comprehensive Perl Archive Network") package details used by the `cpanplus` utility  

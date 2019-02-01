@@ -47,6 +47,7 @@ Downgraded-References
 dynaTrace
 Early-Data
 Embedding-CSP
+EPR
 ETag
 Expect
 Expires

@@ -1,0 +1,35 @@
+Amazon Drive
+Amazon S3  
+Backblaze B2  
+Box  
+Ceph  
+DigitalOcean Spaces  
+Dreamhost  
+Dropbox  
+FTP  
+Google Cloud Storage  
+Google Drive  
+HTTP  
+Hubic  
+Jottacloud  
+IBM COS S3  
+Memset Memstore  
+Mega  
+Microsoft Azure Blob Storage  
+Microsoft OneDrive  
+Minio  
+Nextcloud  
+OVH  
+OpenDrive  
+Openstack Swift  
+Oracle Cloud Storage  
+ownCloud  
+pCloud  
+put.io  
+QingStor  
+Rackspace Cloud Files  
+SFTP  
+Wasabi  
+WebDAV  
+Yandex Disk  
+The local filesystem  

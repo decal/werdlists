@@ -41,6 +41,7 @@ Expect-CT
 Expires
 facebook-api-version
 Frame-Options
+From-Origin
 host_service
 Include-Referred-Token-Binding-ID
 Keep-Alive
