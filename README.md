@@ -34,7 +34,7 @@ or line-based.  Although the [`passes-dicts`](passes-dicts "Password Dictionarie
 overall the files amassed here are intended to be useful in facilitating
 the creation of insecure [program state](https://wikipedia.org/wiki/State_(computer_science)#Program_state) (with the help of a [black-box fuzzer](https://wikipedia.org/wiki/Fuzzing#Types_of_fuzzers) or scanning
 tool.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki/ASCII "American Standard Code for Information Interchange") with the [UNIX](http://unix.org/what_is_unix.html)
-style [newline](https://wikipedia.org/wiki/Newline).   
+style [newline](https://wikipedia.org/wiki/Newline).  Beware that this project does not attempt in any way to be minimalist or lack verbosity! 
 
 ## <a name="inspire"></a>Inspiration Taken From Similar Projects :thought_balloon:
 `werdlists` is very similar to [`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
@@ -44,15 +44,14 @@ and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource. 
 original hand-crafted contents, dataset creation/management/validation scripts, scanner springboards, etc.
 
 ### <a name="unique"></a>Unique Features Only Available With `werdlists` :100: 
-`werdlists` cross-references between the code repositories of third-party scanners and its own datasets folders each tool will benefit from.
-Moreover, there are specialized parsing scripts exclusive to `werdlists` that extract results produced through pairing test tools with its own data.  Output 
-strings are gathered from those results and fed back into the test tools.  In other words, there are a number of interactive and/or
+`werdlists` cross-references between the code repositories of third-party scanners and its own datasets that each tool will benefit from.
+Moreover, there are specialized parsing scripts exclusive to `werdlists` that extract results produced through pairing test tools with its own data.  Output strings are gathered from those results and fed back into the test tools.  In other words, there are a number of interactive and/or
 tunable feedback loops implemented.  Quite a few of the `werdlists` data files were created this way.
 
 ## <a name="repo"></a>Repository Directory Hierarchy and Structure :nut_and_bolt:
 
 The [`scripts`](scripts) folder consists of [shell scripts](https://www.shellscript.sh "Shell Scripting Tutorial") used for repository maintenance.
-There is a sub-directory of `scripts` called `init` where scripts that generate data files are kept.  If a script filename stored in `init` contains
+There is a sub-directory of `scripts` called `init` where scripts that initialize data files are stored.  If a script filename stored in `init` contains
 two dashes, then it's output should reflect the contents of the associated data file.  For example, compare [`manpages-environ`](/decal/werdlists/scripts/init/manpages-environ) 
 and [`clib-package-names`](/decal/werdlists/scripts/init/clib-package-names).  All scripts were written using bash syntax.
 The [`contrib`](/decal/werdlists/scripts/contrib) folder is for storing scripts contributed via pull request and the [`utils`](/decal/werdlists/scripts/utils) 
@@ -60,8 +59,7 @@ folder contains utilities that aren't necessarily specific to the `werdlists` pr
 Other data files were manually composed by hand and a small handful were created by recycling output strings back into input parameter lists, i.e. [`dirbdirs-feedback`](/decal/werdlists/scripts/init/dirbdirs-feedback)
 The [`tools`](tools) folder lists security tools that the datasets contained in this repository can be provided as input for.
 Individual folders are detailed in the <a href="#contents">Folder Names and Description of Contents</a> section below.
-All files in each dataset directory are detailed in the local `README.md` file for that folder
-(as opposed to the global `README.md` in the root directory being read now.)
+All files in each dataset directory are detailed in the local `README.md` file for that folder (as opposed to the global `README.md` in the root directory being read now.)
 
 ### <a name="naming"></a>Naming Scheme, Syntax and Meaning :speech_balloon:
 

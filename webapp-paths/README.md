@@ -49,7 +49,7 @@
 | [paths-below-webinf](paths-below-webinf.txt) |  paths most commonly found under the `WEB-INF` directory 
 | [proxy-ssrf-paths](proxy-ssrf-paths.txt) |  Paths to be used in requests that test SSRF attacks on proxies 
 | [quick-hit-paths](quick-hit-paths.txt) |  pathnames that are most likely to exist 
-| [restricted-file-paths](restricted-file-paths.txt) | paths to files often under the web root directory in need of access control  
+| [restricted-paths-annotated](restricted-paths-annotated.txt) | paths to files often in web root directories needing access control (annotated by single-line comments.) 
 | [search-engine-settings](search-engine-settings.txt) |  [Search Engines](https://github.com/philc/vimium/wiki/Search-Engines) 
 | [sharepoint-path-names](sharepoint-path-names.txt) |  common _Microsoft SharePoint_ path names 
 | [skipfish-path-names](skipfish-path-names.txt) |  web path names used by the `skipfish` web app recon tool 

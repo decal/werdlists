@@ -1,6 +1,8 @@
 Things To Do
 ============
 
+* run `fdupes -nrd .` from the root project directory occassionally
+
 * convert `dns-domains` and other folders to specified README markdown table format 
 
 * split `text-words/security-words-dictionary.txt` into word types (noun, adjective, etc.)
@@ -46,16 +48,6 @@ Things To Do
 * script to check each dir for missing `README.md` entries
 
 * `scripts/write-index-lines` after fixing missing index entries and commit/push/tweet!
-
-* https://www.askapache.com/htaccess/apache-status-code-headers-errordocument/
-
-* getstatuscode.com
-
-* http://gif.phpnet.org/frederic/programs/http_status_codes/http_status_code_definitions.htm
-
-* http://www.mccormickfamily.com/become-an-author/56-http-status-codes
-
-* https://wikipedia.org/wiki/List_of_HTTP_Status_Codes
 
 * add newer IIS HTTP status codes from [The HTTP status code in IIS 7.0, IIS 7.5, and IIS 8.0](https://support.microsoft.com/en-us/help/943891/the-http-status-code-in-iis-7-0--iis-7-5--and-iis-8-0)
 
