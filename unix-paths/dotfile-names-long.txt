@@ -231,7 +231,9 @@
 .filezilla
 .finished-upgraders
 .firebaserc
-..fish
+.fish
+.fish_history
+.fish_smarthistory
 .fishsrv.pl
 .fixdep.cmd
 .fixtures.yaml

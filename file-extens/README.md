@@ -7,6 +7,7 @@
 | [exiftool-file-extens](exiftool-file-extens.txt) |  file extensions that [exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/ "ExifTool by Phil Harvey") can parse metadata from  
 | [file-extens-info](file-extens-info.txt.xz) |  list of file extensions and information via Botcrawl  
 | [file-extens-tools](file-extens-tools.txt) |  tools that can be used to inspect many types of files  
+| [file-extensions-various](file-extensions-various.txt) |  file extension names between one and eighteen bytes
 | [github-fileexts-1to4chars](github-fileexts-1to4chars.txt) |  common GitHub file extensions 1 to 4 bytes in length  
 | [graphicsmagick-image-types](graphicsmagick-image-types.txt) | GraphicsMagick Supported Formats via <http://graphicsmagick.org/formats.html>
 | [macro-file-types](macro-file-types.txt) | macro file types common in the replication of e-mail attachment viruses via <https://avg.com/en/signal/what-is-a-computer-virus>  

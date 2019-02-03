@@ -57,6 +57,7 @@
 | [top-robots-parsed](top-robots-parsed.txt) |  most popular entries from `RobotsDisallowed` repository parsed 
 | [top1k-robots-sitemaps](top1k-robots-sitemaps.txt) |  Sitemap paths from `robots.txt` of top 1,000 Alexa sites 
 | [unix-traverse-passwd](unix-traverse-passwd.txt) |  UNIX path names for directory traversing to passwd file 
+| [w3brute-admin-paths](w3brute-admin-paths.txt) | administrative pathnames taken from `adminPaths` SQLite3 database of the [w3brute](https://github.com/aprilahijriyan/w3brute "Automatic Web Application Brute Force Attack Tool") tool 
 | [web-inf-paths](web-inf-paths.txt) |  list of path names typically found under the `WEB-INF` directory 
 | [web-inf-paths](web-inf-paths.txt) |  typical path names to be founder under a `WEB-INF` folder 
 | [weblogic-j2ee-paths](weblogic-j2ee-paths.txt) |  common paths found on the J2EE WebLogic application server 
