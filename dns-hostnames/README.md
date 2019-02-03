@@ -67,6 +67,7 @@ scanner for enumerating subdomains, HTTP/HTTPS codes and CNAME records. 2.x to 3
 | virtual-host-scanning      | hostnames useful for detecting a web server's [Name-based Virtual Hosting](https://en.wikipedia.org/wiki/Virtual_hosting#Name-based) configuration  
 | vhostscan-format-wordlist  | wordlist for finding name-based virtual hosts packaged with [virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery)  
 | wget-hsts-hosts            | HSTS (Strict Transport Security) host names saved by [GNU](https://gnu.org "GNU's Not UNIX!") [wget](https://gnu.org/software/wget "a free software package for retrieving files with the most widely-used Internet protocols")  
+| wydomain-dnspod-names      | list that includes anglicized Chinese words, originally `dnspod.csv` of the [wydomain](https://github.com/ring04h/wydomain "discover subdomains of your target domain") tool 
 | yahoo-ad-hosts             | host names of [Yahoo](http://yahoo.com) advertising web servers  
 | yahoo-server-hosts         | names of [Yahoo](http://yahoo.com) front-end web app servers  
 

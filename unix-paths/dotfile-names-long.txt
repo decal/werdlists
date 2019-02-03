@@ -126,6 +126,7 @@
 .cpanel
 .cproject
 .cron.yml
+.cshdirs
 .cshrc
 .cs-interface.txt
 .csscomb.json

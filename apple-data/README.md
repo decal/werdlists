@@ -2,6 +2,9 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [apple-pay-partners](apple-pay-partners.txt) | Apple Pay partners or brick and mortar stores that accept iPhone payments 
+| [apple-pay-sitesapps](apple-pay-sitesapps.txt) | Business that accept Apple Pay online 
+| [apple-pay-rejectors](apple-pay-rejectors.txt) | Businesses that reject Apple Pay both cyber and physical 
 | [bash-compgen-all](bash-compgen-all.txt) |  Words from Bourne Again Shell builtin `compgen` executed with all non-argument command-line flags  
 | [cocoa-pods-list](cocoa-pods-list.txt) |  list of pods from [CocoaPods](https://cocoapods.org) parsed from output of command `pod search --simple ''`  
 | [darwin-public-symbols](darwin-public-symbols.txt) |  Darwin public symbols list via <http://oboguev.net/kernel-etc/kernel-interface-OSX.html>  

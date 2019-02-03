@@ -51,4 +51,5 @@
 | uk-domain-names            | DNSSEC resource records within the [.uk ccTLD](https://wikipedia.org/wiki/.uk)  
 | upenn-domain-records       | resource records for upenn.edu domain and its subdomains  
 | ustld-dnssec-records       | list of DNSSEC records for domains in the [.us ccTLD](https://wikipedia.org/wiki/.us)  
+| wooyun-chinese-domains     | list of chinese domains distributed with [POC-T](https://github.com/Xyntax/POC-T "Pentest Over Concurrent Toolkit")
 | zeus-dga-domains           | domains used by Zeus malware that were created by a [DGA](https://wikipedia.org/wiki/Domain_generation_algorithm "Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain names that can be used as rendezvous points with their command and control servers.")  

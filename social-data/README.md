@@ -11,6 +11,7 @@
 | [social-media-sites](social-media-sites.txt) |  a list of [social media](https://wikipedia.org/wiki/Social_media) web sites copied from [Namech_k](https://namechk.com) 
 | [usernames-hailmary-botnet](usernames-hailmary-botnet.txt) | list of user names utilized by the [Hail Mary Cloud](https://wikipedia.org/wiki/Hail_Mary_Cloud) botnet  
 | [w3c-groups-list](w3c-groups-list.txt) | W3C Interest Groups, Working Groups and Past Groups via <https://w3.org/Consortium/activities> 
+| [web-accounts-list](web-accounts-list.json) | JSON config packaged with the [WhatsMyName](https://github.com/WebBreacher/WhatsMyName "This repository has the unified data required to perform user enumeration on various websites.") tool containing nearly 200 social network URI's to check for usernames
 
 * * *
 
