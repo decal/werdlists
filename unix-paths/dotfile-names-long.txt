@@ -406,6 +406,7 @@
 .integration-daemon-stop
 .ipsws
 .irbrc
+.ircrc
 .istanbul.yml
 .iterm2_shell_integration.fish
 .jamignore
@@ -636,6 +637,7 @@
 .rbenv-version
 .rbtp
 .rdsTempFiles
+.rcrc
 .readme
 .read_me
 ._ReadMe.md

@@ -8,6 +8,7 @@
 | [apache-struts-basenames.txt](apache-struts-basenames.txt) |  file names parsed from paths included in [Apache Struts](https://struts.apache.org) release packages  
 | [bo0om-fuzz-extensions](bo0om-fuzz-extensions.txt) |  file extensions list from GitHub repo [fuzz.txt](https://github.com/bo0om/fuzz.txt) 
 | [cms-backup-files](cms-backup-files.txt) |  file names typically used by Content Management Systems 
+| [cmsfuzz-misc-files](cmsfuzz-misc-files.txt) | file names commonly found on Content Management Systems taken from the `others/misc.txt` file distributed with [CMSFuzz](https://github.com/nahamsec/CMSFuzz "Fuzzer for wordpress, cold fusion, drupal, joomla, and phpnuke.") 
 | [githubrepos-mostused-filenames](githubrepos-mostused-filenames.txt) |  most used filenames in GitHub repositories 
 | [java-source-files](java-source-files.txt) |  files likely to appear in a Java development environment 
 | [javaee-github-filenames](javaee-github-filenames.txt) | file names extracted from repositories on the [javaee GitHub](https://github.com/javaee "Java Enterprise Edition") account

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+decal@UFO:~/src/network_cmds-543.200.16$ find . -type d -maxdepth 1 -print | awk -F. '{print$2}' | sort -u | awk -F/ '{print$2}' | sort -u >> ~/GIT/decal/werdlists/apple-data/network-cmds-list.txt
+
+
+exit 0
