@@ -26,6 +26,7 @@
 | fierce-lists-5000          | `5000.txt` from fierce repository's lists folder  
 | fierce-lists-default       | `default.txt` from fierce repository's lists folder  
 | fierce-scanner-hosts       | `hosts.txt` file packaged with *fierce* DNS scanner  
+| fuzsub-merged-dictionaries | merged file of all dictionaries packaged with [FuzSub](https://github.com/DavexPro/FuzSub "A Tool For Fuzzing Sub-domain.") tool 
 | host-names-large           | the largest list of host names in this folder  
 | host-names-medium          | a medium-sized list of host names only  
 | host-names-small           | list of host names that's manageably sized  
