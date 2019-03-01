@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+if [ ! "$1" ]; then
+  echo "usage: $0 FILE"
+  echo
+  echo '  FILE  file to uniqify after trimming'
+  echo
+
+  exit 1
+fi
+
+awk '{gsub(/[ \t\v\r]+$/, "", $0);print$0;}' "$1" | sort -u
+
+exit 0

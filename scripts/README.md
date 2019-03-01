@@ -8,6 +8,7 @@
 | extend-hosts               | append various comnbinations of letters and numbers to DNS hostnames in given file(s)  
 | header-constants           | extract preprocessor constants from C/C++ style header files (_useful for creating test inputs_)
 | index-files                | compare each folder's file listing to its local `README.md` and display missing file names
+| list-trimmer               | uniqify list file after trimming whitespace from each line
 | manpages-environ           | extract environment variable names from UNIX (i.e. `roff`) style manual pages
 | optimd-links               | remove unnecessary prepended `www` hosts from URL's and convert `http:` schemes to `https:`  
 | sort-headers               | sort line-based protocol (i.e. "ARPA") message headers such as those in HTTP and SMTP  

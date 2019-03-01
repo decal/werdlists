@@ -14,6 +14,7 @@
 | [country-code-org](country-code-org.csv) |  CSV data file taken from <http://countrycodes.org> 
 | [country-exit-codes](country-exit-codes.txt) |  international exit codes by country sorted alphabetically 
 | [country-service-restrictions](country-service-restrictions.txt) |  an outline of services missing in each country 
+| [dialing-prefix-list](dialing-prefix-list.csv) |  CSV list of international dialing prefixes
 | [dualtone-multifreq-digits](dualtone-multifreq-digits.md) |  table of [DTMF](https://wikipedia.org/wiki/Dual-tone_multi-frequency_signaling "Dual Tone Multi-Frequency") digits, frequencies and lengths <http://www.blueboxing.org/ccitt5.html> 
 | [geographical-codes-numerical](geographical-codes-numerical.txt) |  Geographical codes from [ITU-T](https://itu.int "International Telecommunication Union") (numerical order) 
 | [itu-cybersecurity-definition](itu-cybersecurity-definition.md) |  Cybersecurity as defined by the [International Telecommunication Union](https://wikipedia.org/wiki/International_Telecommunication_Union) 
