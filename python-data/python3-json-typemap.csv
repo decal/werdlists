@@ -1,0 +1,9 @@
+Python3,JSON
+dictionary,object
+list,array
+tuple,N/A
+bytes,N/A
+float,real 
+True,true
+False,false
+None,null

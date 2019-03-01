@@ -11,7 +11,8 @@
 | [nntp-news-groups](nntp-news-groups.txt.xz) |  [USENET](http://www.usenet.org/) newsgroup listing as tin created dot-newsrc 
 | [origin-check-urls](origin-check-urls.txt.xz) | The `urls.txt` file from [mikispag/OriginCheck](https://github.com/mikispag/OriginCheck) on [GitHub](https://github.com)  
 | [pentest-bookmarks-list](pentest-bookmarks-list.md) |  The Open Penetration Testing Bookmarks Collection from <https://github.com/jhaddix/pentest-bookmarks> 
-| [phpsites-blogwikis-shortlist.txt](phpsites-blogwikis-shortlist.txt) | Short list of around 4K links to PHP blog and wiki sites
+| [phpsites-blogwikis-shortlist](phpsites-blogwikis-shortlist.txt) | Short list of around 4K links to PHP blog and wiki sites
+| [popular-youtube-channels](popular-youtube-channels.md) |  A categorized list of popular [YouTube](https://youtube.com) channel links in MarkDown format  
 | [react-samples-list](react-samples-list.md) |  Markdown-formatted list of GitHub repositories storing [React](https://reactjs.org "A JavaScript library for building user interfaces") samples  
 | [security-txt-template](security-txt-template.txt) |  [`security.txt`](https://securitytxt.org/) template example from <https://github.com/quietray/securitytxt-project/blob/master/security.txt> 
 | [torproject-onion-links](torproject-onion-links.txt) |  a list of `.onion` hyperlinks corresponding to clearnet sites operated by the Tor Project via <https://onion.torproject.org> 
