@@ -25,6 +25,7 @@
 | [gnulinux-distribution-names](gnulinux-distribution-names.txt) |  Linux distribution names extracted from the GNU/Linux Distribution Timeline <http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.svg> 
 | [gnu-cvs-repos](gnu-cvs-repos.txt) |  [Repository Listing](http://cvs.savannah.gnu.org/viewvc) 
 | [go-by-example](go-by-example.txt) |  list of topics from [Go By Example](https://gobyexample.com) 
+| [google-code-projects](google-code-projects.txt) |  [Google Code](https://code.google.com) project names list <https://gist.github.com/google-code-export/e032aca41c9fb1904429>  
 | [http-server-platforms](http-server-platforms.txt) |  HTTP server software platform list 
 | [icon-naming-spec](icon-naming-spec.txt) |  "standard icon names that should be used by artists when creating themes, and by developers when writing applications" <https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html> 
 | [java-platform-list](java-platform-list.txt) |  list of Java platform names taken from `libs.xml` `unixActions.jar` 

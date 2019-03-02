@@ -24,6 +24,7 @@
 | [siteminder-authreason-codes](siteminder-authreason-codes.txt) | [SiteMinder](https://www.siteminder.com/)  `AUTHREASON` query parameter values..  
 | [wahh-tasks-checklist](wahh-tasks-checklist.txt) | Web Application Hacker's Handbook tasks checklist  
 | [wahh-test-method](wahh-test-method.txt) | Web Application Hacker's Handbook test methodology  
+| [wappalyzer-fingerprint-patterns](wappalyzer-fingerprint-patterns.json) | `wappalyzer_fingerprints.json` copied from the aquatone source tree <https://github.com/michenriksen/aquatone/blob/master/static/wappalyzer_fingerprints.json>  
 | [webapp-code-execution](webapp-code-execution.txt) | HTTP GET queries that may result in remote code execution  
 | [webapp-common-logins](webapp-common-logins.txt) | credentials commonly used to login to web applications  
 | [webapp-file-prepends](webapp-file-prepends.txt) | Strings often found prepended to filenames on the web  
