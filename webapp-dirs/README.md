@@ -10,6 +10,7 @@
 | [long-dirnames-list](long-dirnames-list.txt) |  a list of directory names longer than web-dirnames-list 
 | [private-dirnames-list](private-dirnames-list.txt) |  a list of directories possibly containing sensitive data 
 | [test-dirnames-list](test-dirnames-list.txt) |  a list of test directories 
+| [weakfilescan-common-directories](weakfilescan-common-directories.txt) | `directory_common.lst` file from [weakfilescan](https://github.com/ring04h/weakfilescan) 
 | [web-dirnames-list](web-dirnames-list.txt) |  list of directory names commonly found on web sites 
 
 * * *

@@ -4,6 +4,7 @@
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [anaconda-python27-packages](anaconda-python27-packages.txt) |  list of Anaconda packages for Python version 2.7 
 | [anaconda-python36-packages](anaconda-python36-packages.txt) |  list of Anaconda packages for Python version 3.6 
+| [magic-methods-table](magic-methods-table.md) |  MarkDown table outlining Python magic methods (i.e. those that start and end with a pair of underscores)  
 | [pickle-protocol-opcodes](pickle-protocol-opcodes.txt) |  Constants defining character meanings in serialized pickle protocol data
 | [pylibsxml-vulns-features](pylibsxml-vulns-features.txt) |  Python XML libraries vulnerabilities and features <https://bitbucket.org/tiran/defusedxml> 
 | [python3-json-typemap](python3-json-typemap.csv) |  Map of native types between [Python3](https://docs.python.org/3/ "Python 3.x Documentation") and [JSON](https://www.json.org "JavaScript Object Notation")  
