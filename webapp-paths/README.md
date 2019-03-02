@@ -12,6 +12,7 @@
 | [apache-tapestry-paths](apache-tapestry-paths.txt) |  Apache Tapestry paths created from source tree 
 | [bbscan-request-rules](bbscan-request-rules.txt) | List of path names taken from the `rules` folder distributed with the [BBScan](https://github.com/lijiejie/BBScan "A tiny Batch weB vulnerability Scanner") tool 
 | [biomedical-porn-datasets](biomedical-porn-datasets.txt.xz) | Locations parsed from a proxy log that ended up containing **_pornographic_**, biological and medical style paths; extracted from <https://www.secrepo.com/squid/access.log.gz>  
+| [breacher-paths-list](breacher-paths-list.txt) | `paths.txt` file distributed with [Breacher](https://github.com/s0md3v/Breacher "An advanced multithreaded admin panel finder written in python.") 
 | [cakephp-paths-list](cakephp-paths-list.txt) | Paths list created from the [CakePHP](https://cakephp.org) source tree
 | [coldfusion-cfmx-cfide](coldfusion-cfmx-cfide.txt) |  pathnames to admin pages on _Adobe ColdFusion_ app server 
 | [common-path-names](common-path-names.txt) |  several of the files in this folder, sorted and uniqified 

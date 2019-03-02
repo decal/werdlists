@@ -3,6 +3,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [all-redirect-params](all-redirect-params.txt) |  all parameters for location redirects combined as one file 
+| [arjun-params-db](arjun-params-db.txt) | `params.txt` via [Arjun](https://github.com/s0md3v/Arjun)
 | [burp-parameter-names](burp-parameter-names.txt) |  strings used by [Burp Suite Scanner](https://portswigger.net/burp) when scanning for query variable names 
 | [common-redirect-params](common-redirect-params.txt) |  parameters commonly used in location redirects 
 | [debug-query-parameters](debug-query-parameters.txt) |  HTTP query parameter names related to debugging; this contains additions to `fuzzdb/attack/business-logic/CommonDebugParamNames.txt`

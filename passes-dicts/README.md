@@ -9,6 +9,7 @@
 | [antipublic-top-1000](antipublic-top-1000.txt) | word list taken from www_brute Chrome extension GitHub repository <https://github.com/USSCltd/www_brute/blob/master/antipublic-top-1000.txt>  
 | [basic-spanish-list](basic-spanish-list.txt) |  _very_ basic list of Spanish words
 | [best-1050-passes](best-1050-passes.txt) |  a copy of the file `best1050.txt` 
+| [brutespray-passwords-list](brutespray-passwords-list.txt) | A combination of all `password` files packaged with the [brutespray](https://github.com/x90skysn3k/brutespray "Brute-Forcing From NMap output - Automatically attempts default creds on found services.")  
 | [brutex-password-medium](brutex-password-medium.txt) | `password_medium.txt` from [BruteX](https://github.com/1N3/BruteX "Automatically brute force all services running on a target.")
 | [case-mutation-full](case-mutation-full.txt.xz) |  dictionary of alternating capitalization passwords from <http://index-of.es/Word-Lists/gdataonline/Case_Mutation_Full.txt.gz> 
 | [conficker-worm-dictionary](conficker-worm-dictionary.txt) |  word list used by the *Conficker* worm to brute force NetBIOS `ADMIN$` shares
