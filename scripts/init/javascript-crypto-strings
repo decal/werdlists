@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+
+const crypto = require('crypto');
+const process = require('process');
+
+const ciphers = crypto.getCiphers();
+const curves = crypto.getCurves();
+const hashes = crypto.getHashes();
+
+const alist = [ ciphers, curves, hashes ];
+
+alist.sort().filter(function(el,i,a){return i===a.indexOf(el)});
+
+alist.map(x => x.map(y => process.stdout.write(y + "\n")));
+
+process.exit(0);

@@ -29,6 +29,7 @@
 | [digit-alpha-digit](digit-alpha-digit) | make all strings consisting of a numeric digit, followed by an alphabetic letter and ending with another number  
 | [generate-locales-short](generate-locales-short) | enumerate short list of locale path names from `locales.txt` file   
 | [generate-locales-long](generate-locales-long) | generate a longer list of locale path names  
+| [javascript-crypto-strings](javascript-crypto-strings) | list cipher, hash and curve strings from NodeJS `crypto` module  
 | [manpage-constants-libcurl](manpage-constants-libcurl) | extract libcurl handle option constants from manual page  
 | [network-cmds-list](network-cmds-list) | parse tool names from Apple's open source `network_cmds` project directory 
 | [parse-v8flags](parse-v8flags) | parse command-line options from `~/.v8flags.*.json` files  

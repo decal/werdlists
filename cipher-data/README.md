@@ -11,6 +11,7 @@
 | [gnutls-cli-list](gnutls-cli-list.txt) |  Command output of [GnuTLS](https://www.gnutls.org/ "GNU Transport Layer Security Library") command line interface algorithm list 
 | [http2-ciphers-blacklist](http2-ciphers-blacklist.txt) |  Ciphers rejected by the [HTTP2 protocol specification](http://httpwg.org/specs/rfc7540.html "Hypertext Transfer Protocol Version 2 %28HTTP/2%29") 
 | [java-example-keystore](java-example-keystore.bin) |  Example of cryptographic [JKS (Java KeyStore)](https://wikipedia.org/wiki/Keystore) file 
+| [javascript-crypto-strings](javascript-crypto-strings.txt) |  strings listed by `get*()` functions in the NodeJS `crypto` module 
 | [nodejs-crypto-ciphers](nodejs-crypto-ciphers.txt) |  cipher identifiers defined by the [NodeJS](https://nodejs.org/) crypto module 
 | [nodejs-crypto-hashes](nodejs-crypto-hashes.txt) |  hash identifiers defined by the [NodeJS](https://nodejs.org/) crypto module 
 | [openssl-cipher-algorithms](openssl-cipher-algorithms.txt) |  `openssl list -cipher-algorithms | cut -d' ' -f1 | sort -u` 
