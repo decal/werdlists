@@ -9,7 +9,6 @@
 | amazon-aws-hostnames       | Amazon AWS host names list
 | av-update-hosts            | anti-virus signature update host names  
 | bigbad-hosts-list          | only `subdom-brute-list.txt` is larger than this file  
-| brutex-wordlists-namelist  | <https://github.com/1N3/BruteX/blob/master/wordlists/namelist.txt>  
 | brutex-wordlists-nameslist | <https://github.com/1N3/BruteX/blob/master/wordlists/nameslist.txt>  
 | cloudfail-data-subdomains  | <https://github.com/m0rtem/CloudFail/blob/master/data/subdomains.txt>
 | common-intranet-hosts      | host names commonly found on private intranets  
