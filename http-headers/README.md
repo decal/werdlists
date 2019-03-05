@@ -28,7 +28,8 @@
 | [security-policy-headers](security-policy-headers.txt) |  [Content Security Policy](https://wikipedia.org/wiki/Content_Security_Policy) (CSP) header name list 
 | [ssrf-headers-addr](ssrf-headers-addr.txt) | [Server-Side Request Forgery](https://www.owasp.org/index.php/Server_Side_Request_Forgery) (SSRF) request header names ending with the substring `-Addr`
 | [ssrf-headers-address](ssrf-headers-address.txt) | SSRF request header names ending with the substring `-Address`
-| [ssrf-headers-all](ssrf-headers-all.txt) | All of the SSRF request header names files' contents combined subsequent to unique sorting
+| [ssrf-headers-all](ssrf-headers-all.txt) | All of the SSRF request header names files' contents combined subsequent to unique sorting along with those that have been manually added
+| [ssrf-headers-auto](ssrf-headers-extra.txt) | SSRF request headers automatically generated from `ssrf-headers-all` by `scripts/ssrf-headers-auto`
 | [ssrf-headers-dns](ssrf-headers-dns.txt) | SSRF request header names ending with the substring `-DNS`
 | [ssrf-headers-host](ssrf-headers-host.txt) | SSRF request header names ending with the substring `-Host`
 | [ssrf-headers-ip](ssrf-headers-ip.txt) | SSRF request header names ending with the substring `-IP`

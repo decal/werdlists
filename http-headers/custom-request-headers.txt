@@ -33,6 +33,7 @@ X-DNS-Prefetch-Control
 X-Forwarded-For
 X-Forwarded-Host
 X-Forwarded-Proto
+X-Forwarded-Scheme
 X-Forwarded-Server
 X-Forwarded-SSL
 X-Forwarded-SSL-Cipher

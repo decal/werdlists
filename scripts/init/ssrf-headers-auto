@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+# coding: utf-8
+# 
+# Generate HTTP request headers potentially useful for SSRF attacks
+# 
+# Written by:   Derek Callaway [decal (AT) sdf {D0T} org]
+# Last updated: Mon Mar  4 17:26:44 PST 2019
+# Tested on: macOS High Sierra
+# 
+
+firsts, seconds = [], []
+
+File.readlines('ssrf-headers-all.txt').each do |l|
+	l.rstrip!
+
+	w = l.split('-')
+
+	next if !w or w.empty? or w.size != 2 or w.first == "X" or w.first == "C" or w.last =~ /Forward/i
+
+	firsts << w.first
+	seconds << w[1]
+end
+
+firsts.sort!.uniq!
+seconds.sort!.uniq!
+
+results = []
+
+firsts.each do |f|
+	seconds.each do |s|
+		results << "#{f}-#{s}"
+		results << "X-#{f}-#{s}"
+	end
+end
+
+results.sort!.uniq!
+
+results.each do |r|
+	STDOUT.puts(r)
+end
+
+exit 0

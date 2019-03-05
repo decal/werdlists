@@ -34,6 +34,7 @@
 | [parse-v8flags](parse-v8flags) | parse command-line options from `~/.v8flags.*.json` files  
 | [publicsuffix](publicsuffix) | convert the public suffix data file from [Mozilla Cross-Reference](https://mxr.mozilla.org) to JSON <https://gist.github.com/hattya/1528011>  
 | [shells-environ-strings](shells-environ-strings) | extract strings resembling environment variable names from shell binaries  
+| [ssrf-headers-auto](ssrf-headers-auto) | generate request header names potentially useful for SSRF attacks from an existing list of headers  
   
 * * *  
   
