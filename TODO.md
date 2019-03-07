@@ -1,6 +1,12 @@
 Things To Do
 ============
 
+* Apply Open Knowledge International Standards <https://okfn.org>
+  - <https://dataportals.org>
+  - <https://opendatacommons.org>
+  - <https://opendatahandbook.org>
+	- <https://opendefinition.org>
+
 * run `fdupes -nrd .` from the root project directory occassionally
 
 * convert `dns-domains` and other folders to specified README markdown table format 
