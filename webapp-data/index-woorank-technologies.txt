@@ -1,0 +1,1039 @@
+1C-Bitrix
+3dCart
+A-Frame
+AD EBiS
+AOLserver
+AT Internet Analyzer
+AT Internet XiTi
+AWeber
+Accelerated Mobile Pages
+Accounting
+Acquia Cloud
+Act-On
+AdInfinity
+AdRiver
+AdRoll
+Adcash
+AddShoppers
+AddThis
+AddToAny
+Adnegah
+Adobe ColdFusion
+Adobe DTM
+Adobe Enterprise
+Adobe Experience Manager
+Adobe GoLive
+Adobe Muse
+Adobe RoboHelp
+Adobe Sign
+Advanced Web Stats
+Advert Stream
+Advertising Networks
+Adyen
+Adzerk
+Aegea
+Afosto
+AfterBuy
+Ahoy
+Ahrefs
+Aircall
+Airee
+Akamai
+Akka HTTP
+Algolia Realtime Search
+All in One SEO Pack
+AlloyUI
+Amaya
+Amazon Cloudfront
+Amazon EC2
+Amazon ECS
+Amazon S3
+Amazon SES
+Amber
+Ametys
+Amiro.CMS
+Amplitude
+Analytics
+Anetwork
+Angular
+Angular Material
+AngularDart
+AngularJS
+Ant Design
+Apache
+Apache JSPWiki
+Apache Tomcat
+Apache Traffic Server
+Apache Wicket
+ApexPages
+Apostrophe CMS
+AppNexus
+Arastta
+ArcGIS API for JavaScript
+Artifactory
+ArvanCloud
+AsciiDoc
+Asciinema
+Atlassian Bitbucket
+Atlassian Confluence
+Atlassian FishEye
+Atlassian Jira
+Atlassian Jira Issue Collector
+Aurelia
+Autopilot
+Avangate
+Awesomplete
+BEM
+BIGACE
+Bablic
+Backbone.js
+Backdrop
+Banshee
+Barracuda Essentials
+BaseHTTP
+BigCommerce
+Bigware
+BittAds
+Bizweb
+Blackboard
+Blip.tv
+Blogger
+Blogs
+Bluefish
+Bluehost
+Boa
+Boba.js
+Bold Chat
+BoldGrid
+Bolt
+Bonfire
+Bootstrap
+Bootstrap Table
+Bounce Exchange
+Braintree
+Brightspot
+BrowserCMS
+Bubble
+BugSnag
+Bugzilla
+Build CI Systems
+Bulma
+Burning Board
+Business Catalyst
+BuySellAds
+CDN
+CDN77
+CFML
+CKEditor
+CMS
+CMS Made Simple
+CMSimple
+CPG Dragonfly
+CRM
+CS Cart
+Cache Tools
+CacheFly
+Caddy
+CakePHP
+Captch Me
+Captchas
+Carbon Ads
+Cargo
+Catberry.js
+Cecil
+CentOS
+Chameleon
+Chamilo
+Chart.js
+Chartbeat
+Cherokee
+CherryPy
+Chevereto
+Chitika
+Citrix
+Ckan
+ClickHeat
+ClickTale
+Clicky
+Clientexec
+Clipboard.js
+CloudCart
+CloudFlare
+Cloudcoins
+Cloudera
+CodeIgniter
+CodeMirror
+CoinHive
+CoinHive Captcha
+Coinhave
+Coinimp
+Coinlab
+ColorMeShop
+Comandia
+Comment Systems
+Commerce Server
+Concrete5
+Connect
+Containers
+Contao
+Contenido
+Contensis
+ContentBox
+Contentful
+Control Systems
+ConversionLab
+Coppermine
+Cosmoshop
+Cotonti
+CouchDB
+Cowboy
+CppCMS
+Craft CMS
+Craft Commerce
+Crazy Egg
+Criteo
+Cross Pixel
+Crypto-Loot
+Cryptominer
+CubeCart
+Cufon
+D3
+DHTMLX
+DM Polopoly
+DNN
+DTG
+Dancer
+Danneo CMS
+Dart
+Darwin
+DataLife Engine
+DataTables
+Database Managers
+Databases
+Datadome
+Debian
+DedeCMS
+Dev Tools
+DirectAdmin
+Discourse
+Discuz! X
+Disqus
+Django
+Document Management Systems
+Documentation Tools
+Docusaurus
+Dojo
+Dokeos
+DokuWiki
+Dotclear
+DoubleClick Ad Exchange (AdX)
+DoubleClick Campaign Manager (DCM)
+DoubleClick Floodlight
+DoubleClick for Publishers (DFP)
+DovetailWRP
+Doxygen
+DreamWeaver
+Drupal
+Drupal Commerce
+Dynamicweb
+Dynatrace
+EC-CUBE
+EPages
+EPiServer
+EPrints
+EasyEngine
+Ecommerce
+EdgeCast
+Editors
+Elcodi
+Eleanor CMS
+Elementor
+Eloqua
+Ember.js
+Ensighten
+Enyo
+Epoch
+Epom
+Erlang
+Etherpad
+Exhibit
+Express
+ExpressionEngine
+ExtJS
+FAST ESP
+FWP
+Facebook
+Facebook Business Manager
+Fact Finder
+FancyBox
+Fastly
+Fat-Free Framework
+Fbits
+Fedora
+Feed Readers
+Fingerprintjs
+Firebase
+Fireblade
+Flarum
+Flask
+Flat UI
+FlexCMP
+FlexSlider
+Flickity
+FluxBB
+Flyspray
+Font Awesome
+Font Scripts
+Fork CMS
+Fortune3
+Foswiki
+FreeBSD
+FreeTextBox
+Freespee
+Freshchat
+Freshmarketer
+Froala Editor
+FrontPage
+Fusion Ads
+Future Shop
+G-WAN
+GX WebManager
+Gallery
+Gambio
+Gatsby
+Gauges
+Gentoo
+Gerrit
+Get Satisfaction
+GetSimple CMS
+Ghost
+GitBook
+GitHub Pages
+GitLab
+Gitea
+GlassFish
+Glyphicons
+GoSquared
+GoStats
+Gogs
+Google AdSense
+Google Analytics
+Google Analytics Enhanced eCommerce
+Google App Engine
+Google Charts
+Google Cloud
+Google Code Prettify
+Google Font API
+Google Maps
+Google PageSpeed
+Google Plus
+Google Search Console
+Google Sites
+Google Tag Manager
+Google Wallet
+Google Web Server
+Google Web Toolkit
+Graffiti CMS
+Grav
+Gravatar
+Gravity Forms
+Green Valley CMS
+HERE
+HHVM
+HTTP/2
+Hammer.js
+Handlebars
+Haravan
+Haskell
+HeadJS
+Heap
+Hello Bar
+Hexo
+Hiawatha
+Highcharts
+Highlight.js
+Highstock
+Hinza Advanced CMS
+Hippo
+Hogan.js
+Hosting Panels
+Hotaru CMS
+Hotjar
+HubSpot
+Hugo
+Hybris
+IBM Coremetrics
+IBM HTTP Server
+IBM WebSphere Commerce
+IBM WebSphere Portal
+IIS
+INFOnline
+IPB
+IaaS
+Ideasoft
+IdoSell Shop
+Immutable.js
+ImpressCMS
+ImpressPages
+InProces
+Incapsula
+Indexhibit
+Indico
+Indy
+InfernoJS
+Infusionsoft
+Inspectlet
+InstantCMS
+IntenseDebate
+Intercom
+Intershop
+Invenio
+Inwemo
+Ionicons
+Issue Trackers
+JAlbum
+JBoss Application Server
+JBoss Web
+JET Enterprise
+JS Charts
+JSEcoin
+JTL Shop
+Jahia DX
+Jalios
+Java
+Java Servlet
+JavaScript Frameworks
+JavaScript Graphics
+JavaScript Infovis Toolkit
+JavaScript Libraries
+JavaServer Faces
+JavaServer Pages
+Jekyll
+Jenkins
+Jetshop
+Jetty
+Jimdo
+Jirafe
+Jive
+JobberBase
+Joomla
+K2
+KISSmetrics
+Kajabi
+Kampyle
+Kamva
+Kemal
+Kendo UI
+Kentico CMS
+KeyCDN
+KineticJS
+Klarna Checkout
+Knockout.js
+Koa
+Koala Framework
+KobiMaster
+Koha
+Kohana
+Koken
+Kolibri CMS
+Komodo CMS
+Koobi
+Kooboo CMS
+Kotisivukone
+LEPTON
+LMS
+Landing Page Builders
+Laravel
+Laterpay
+Lazy.js
+Leaflet
+Less
+Liferay
+Lift
+LightMon Engine
+Lightbox
+Lightspeed eCom
+LinkSmart
+Linkedin
+List.js
+LiteSpeed
+Lithium
+Live Chat
+LiveAgent
+LiveChat
+LiveHelp
+LiveJournal
+LivePerson
+LiveStreet CMS
+Livefyre
+Liveinternet
+Locomotive
+Lodash
+Lotus Domino
+Lua
+Lucene
+Luigi’s Box
+MHonArc
+MODX
+MadAdsMedia
+Magento
+MailChimp
+MakeShopKorea
+Mambo
+ManyContacts
+Maps
+Marionette.js
+Marked
+Marketing Automation
+Marketo
+Material Design Lite
+Materialize CSS
+MathJax
+Matomo
+Mattermost
+Mautic
+MaxCDN
+MaxSite CMS
+Media Servers
+MediaElement.js
+MediaWiki
+Medium
+Meebo
+Melis CMS V2
+Mermaid
+Message Boards
+Meteor
+Methode
+Microsoft ASP.NET
+Microsoft Azure Web Apps
+Microsoft Excel
+Microsoft HTTPAPI
+Microsoft PowerPoint
+Microsoft Publisher
+Microsoft SharePoint
+Microsoft Word
+Mietshop
+Milligram
+Minero.cc
+MiniBB
+MiniServ
+Mint
+Miscellaneous
+Mixpanel
+MkDocs
+Mobify
+Mobile Frameworks
+Mobirise
+MochiKit
+MochiWeb
+Modernizr
+Modified
+Moguta.CMS
+MoinMoin
+Mojolicious
+Mollom
+Moment Timezone
+Moment.js
+Mondo Media
+MongoDB
+Mongrel
+Monkey HTTP Server
+Mono
+Mono.net
+MooTools
+Moodle
+Moon
+MotoCMS
+Mouse Flow
+Movable Type
+Mozard Suite
+Mura CMS
+Mustache
+MyBB
+MyBlogLog
+MySQL
+Mynetcap
+NEO - Omnichannel Commerce Platform
+NVD3
+Navegg
+Neos CMS
+Neos Flow
+Nepso
+Netlify
+Neto
+Netsuite
+Nette Framework
+Network Devices
+Network Storage
+New Relic
+Next.js
+NextGEN Gallery
+Nginx
+Node.js
+NodeBB
+Now
+Nuxt.js
+OWL Carousel
+OXID eShop
+October CMS
+Octopress
+Odoo
+Olark
+OneAPM
+OneStat
+Open AdStream
+Open Classifieds
+Open Journal Systems
+Open Web Analytics
+Open eShop
+OpenCart
+OpenCms
+OpenGSE
+OpenLayers
+OpenNemas
+OpenResty
+OpenSSL
+OpenText Web Solutions
+OpenUI5
+OpenX
+Operating Systems
+Ophal
+Optimizely
+Oracle Application Server
+Oracle Commerce
+Oracle Commerce Cloud
+Oracle Dynamic Monitoring Service
+Oracle HTTP Server
+Oracle Recommendations On Demand
+Oracle Web Cache
+Orchard CMS
+Outbrain
+Outlook Web App
+PDF.js
+PHP
+PHP-Fusion
+PHP-Nuke
+PHPDebugBar
+PaaS
+Pagekit
+Pagevamp
+Paper.js
+Pardot
+Pars Elecom Portal
+Parse.ly
+Paths.js
+PayPal
+Payment Processors
+Pelican
+PencilBlue
+Percussion
+Perl
+Phabricator
+Phaser
+Phenomic
+Photo Galleries
+Phusion Passenger
+Pimcore
+Pinterest
+Planet
+Play
+Plentymarkets
+Plesk
+Pligg
+Plone
+Plotly
+Po.st
+Polyfill
+Polymer
+Posterous
+PostgreSQL
+Powergap
+Prebid
+Prefix-Free
+PrestaShop
+Prism
+Programming Languages
+Project Wonderful
+ProjectPoi
+Projesoft
+Prototype
+Protovis
+Proximis Omnichannel
+Proximis Web to Store
+PubMatic
+Pure CSS
+Pygments
+PyroCMS
+Python
+Quantcast
+Question2Answer
+Quick.CMS
+Quick.Cart
+Quill
+RBS Change
+RCMS
+RD Station
+RackCache
+RainLoop
+Rakuten Digital Commerce
+Ramda
+Raphael
+Raspbian
+Raychat
+Rayo
+React
+Recurly
+Red Hat
+Reddit
+Redmine
+Reinvigorate
+Remote Access
+RequireJS
+Resin
+Reveal.js
+Revel
+Revslider
+Rich Text Editors
+Rickshaw
+RightJS
+Riot
+RiteCMS
+Roadiz CMS
+Robin
+RockRMS
+RoundCube
+Rubicon Project
+Ruby
+Ruby on Rails
+Ruxit
+RxJS
+S.Builder
+SAP
+SDL Tridion
+SEO
+SIMsite
+SMF
+SOBI 2
+SPDY
+SPIP
+SQLite
+SUSE
+SWFObject
+SaaS
+Sails.js
+Salesforce
+Salesforce Commerce Cloud
+Sarka-SPIP
+Sazito
+Scala
+Scientific Linux
+SeamlessCMS
+Search Engines
+Segment
+Select2
+Semantic-ui
+Sencha Touch
+Sentry
+Serendipity
+Shapecss
+ShareThis
+ShellInABox
+ShinyStat
+Shopatron
+Shopcada
+Shoper
+Shopery
+Shopfa
+Shopify
+Shoptet
+Shopware
+Signal
+Silva
+SilverStripe
+SimpleHTTP
+Simplébo
+Site Meter
+SiteCatalyst
+SiteEdit
+Sitecore
+Sitefinity
+Sivuviidakko
+Sizmek
+Slick
+Slimbox
+Slimbox 2
+Smart Ad Server
+SmartSite
+Smartstore
+Snap
+Snap.svg
+Snoobi
+SobiPro
+Socket.io
+Solodev
+Solr
+Solusquare OmniCommerce Cloud
+Solve Media
+SonarQubes
+SoundManager
+Sphinx
+Spree
+Sqreen
+Squarespace
+SquirrelMail
+Squiz Matrix
+Stackla
+Starlet
+Statcounter
+Static Site Generator
+Store Systems
+Storeden
+Strato
+Stripe
+SublimeVideo
+Subrion
+Sucuri
+Sulu
+SumoMe
+SunOS
+Supersized
+Svbtle
+SweetAlert
+SweetAlert2
+Swiftlet
+Swiftype
+Symfony
+SyntaxHighlighter
+TWiki
+TYPO3 CMS
+Tag Managers
+Taiga
+Tawk.to
+Tealeaf
+Tealium
+Telescope
+Tengine
+Textalk
+Textpattern CMS
+Thelia
+ThinkPHP
+Ticimax
+Tictail
+TiddlyWiki
+Tiki Wiki CMS Groupware
+Tilda
+Timeplot
+TinyMCE
+Titan
+TomatoCart
+TornadoServer
+TotalCode
+Trac
+TrackJs
+Transifex
+Tray
+Tumblr
+TweenMax
+Twilight CMS
+TwistPHP
+TwistedWeb
+Twitter
+Twitter Emoji (Twemoji)
+Twitter Flight
+Twitter typeahead.js
+TypePad
+Typecho
+Typekit
+UIKit
+UMI.CMS
+UNIX
+Ubercart
+Ubuntu
+UltraCart
+Umbraco
+Unbounce
+Underscore.js
+Usabilla
+User Onboarding
+UserEngage
+UserLike
+UserRules
+UserVoice
+Ushahidi
+VIVVO
+VP-ASP
+VTEX Enterprise
+VTEX Integrated Store
+Vaadin
+Vanilla
+Varnish
+Venda
+Veoxa
+Video Players
+VideoJS
+VigLink
+Vigbo
+Vignette
+Vimeo
+VirtueMart
+Visual WebGUI
+Visual Website Optimizer
+VisualPath
+Volusion (V1)
+Vue.js
+W3 Total Cache
+W3Counter
+WEBXPAY
+WHMCS
+WP Rocket
+WP-Statistics
+Warp
+Web Frameworks
+Web Mail
+Web Server Extensions
+Web Servers
+Web2py
+WebGUI
+WebPublisher
+WebSite X5
+Webcams
+Webdev
+Webix
+Webs
+WebsPlanet
+WebsiteBaker
+Webtrekk
+Webtrends
+Weebly
+Widgets
+Wikinggruppen
+Wikis
+WikkaWiki
+Windows Server
+Wink
+Wix
+Wolf CMS
+Woltlab Community Framework
+WooCommerce
+Woopra
+WordPress
+WordPress Super Cache
+Wordlift
+X-Cart
+XMB
+XOOPS
+XRegExp
+XWiki
+Xajax
+Xanario
+XenForo
+Xitami
+Xonic
+XpressEngine
+YUI
+YUI Doc
+YaBB
+Yahoo Advertising
+Yahoo! Ecommerce
+Yahoo! Web Analytics
+Yandex.Direct
+Yandex.Metrika
+Yaws
+Yieldlab
+Yii
+Yoast SEO
+YouTube
+ZK
+ZURB Foundation
+Zabbix
+Zanox
+Zen Cart
+Zend
+Zendesk Chat
+Zenfolio
+Zepto
+Zinnia
+Zone.js
+Zope
+a-blog cms
+actionhero.js
+amCharts
+animate.css
+basket.js
+cPanel
+cgit
+comScore
+deepMiner
+e107
+eSyndiCat
+eZ Publish
+ef.js
+enduro.js
+git
+gitweb
+govCMS
+gunicorn
+hapi.js
+iPresta
+iWeb
+ikiwiki
+imperia CMS
+ip-label
+jQTouch
+jQuery
+jQuery Migrate
+jQuery Mobile
+jQuery Sparklines
+jQuery UI
+jQuery-pjax
+jqPlot
+libwww-perl-daemon
+lighttpd
+math.js
+mini_httpd
+mod_auth_pam
+mod_dav
+mod_fastcgi
+mod_jk
+mod_perl
+mod_python
+mod_rack
+mod_rails
+mod_ssl
+mod_wsgi
+nopCommerce
+osCSS
+osCommerce
+osTicket
+ownCloud
+papaya CMS
+parcel
+particles.js
+phpAlbum
+phpBB
+phpCMS
+phpMyAdmin
+phpSQLiteCMS
+phpwind
+pirobase CMS
+prettyPhoto
+punBB
+reCAPTCHA
+sIFR
+sNews
+script.aculo.us
+scrollreveal
+shine.js
+styled-components
+three.js
+thttpd
+total.js
+uCore
+uCoz
+vBulletin
+vibecommerce
+webEdition
+webpack
+wpCache
+xCharts
+xtCommerce

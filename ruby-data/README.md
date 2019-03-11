@@ -7,6 +7,7 @@
 | [ruby-encoding-names](ruby-encoding-names.txt) |  list of encoding names from [Encoding.name_list](https://ruby-doc.org/core-2.2.0/Encoding.html#method-c-name_list) in `irb(1)` 
 | [ruby-parsing-rules](ruby-parsing-rules.txt) |  keywords and parsing rules used by the "Interactive [Ruby](https://www.ruby-lang.org)" parser, [IRB](http://ruby-doc.org/stdlib-2.0.0/libdoc/irb/rdoc/IRB.html) 
 | [rubygems-dash-version](rubygems-dash-version.txt.xz) |  Output listing of raw [Rubygems](https://rubygems.org) command `gem search ''` 
+| [rubygems-index-names](rubygems-index-names.txt.xz) | list of gem names served by URI at <https://index.rubygems.org/names>  
 | [rubygems-names-only](rubygems-names-only.txt.xz) |  list of [Ruby](https://www.ruby-lang.org) gems--names only and nothing else.. 
 | [rubygems-name-version](rubygems-name-version.txt.xz) |  List of [Rubygems](https://rubygems.org) with name and version delimited by dash 
 | [rubylang-pubftp-index](rubylang-pubftp-index.txt) | Index file from the public FTP service on `ruby-lang.org` with Ruby version strings, URL's and SHA hashes <https://cache.ruby-lang.org/pub/ruby/index.txt> 

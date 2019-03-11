@@ -2,6 +2,7 @@ Things To Do
 ============
 
 * Apply Open Knowledge International Standards <https://okfn.org>
+  - <https://www.w3.org/wiki/DataSetRDFDumps>
   - <https://dataportals.org>
   - <https://opendatacommons.org>
   - <https://opendatahandbook.org>

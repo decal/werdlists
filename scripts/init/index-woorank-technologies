@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -x
+
+wget --no-check-certificate --user-agent='MSIE' --output-document=".wooranktech$$.html" 'https://index.woorank.com/en/technologies'
+
+cat .wooranktech$$.html | tr ',' '\n' | egrep '^"displayName":' | awk -F: '{print$2}' | cut -d '"' -f2 | sort -u
+
+rm -f .wooranktech$$.html
+
+exit 0

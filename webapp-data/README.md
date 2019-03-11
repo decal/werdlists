@@ -12,6 +12,7 @@
 | [github-api-emojis](github-api-emojis.txt) | Emoji icons supported by GitHub API in JSON format <https://api.github.com/emojis>  
 | [github-emojis-list](github-emojis-list.txt) | same as `github-api-emojis`, but only a single emoji names on each line  
 | [google-strings-list](google-strings-list.txt.xz) | very long list of strings parsed from Google [SERP's](https://wikipedia.org/wiki/Search_engine_results_page "Search Engine Results Pages")  
+| [index-woorank-technologies](index-woorank-technologies.txt) | list of technologies that WooRank can detect on a web site <https://index.woorank.com/en/technologies>  
 | [mime-types-list](mime-types-list.txt) | MIME (Multipurpose Internet Media eXtensions) types list parsed from `freeformatter.com` <https://freeformatter.com/mime-types-list.html>  
 | [npm-crawler-modules](npm-crawler-modules.txt.xz) | [NodeJS](https://nodejs.org) modules list created by `npm-crawler` tool <https://github.com/grant/npm-crawler/blob/master/modules.txt>
 | [npm-modules-list](npm-modules-list.txt) | [NodeJS](https://nodejs.org) modules list from `~/node_modules` directory  

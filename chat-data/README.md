@@ -2,6 +2,7 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+| [cmu-language-list](cmu-langauge-list.txt) | `LangList.txt` file included in the [datasets-CMU-Wilderness](https://github.com/festvox/datasets-CMU-Wilderness "CMU Wilderness Multilingual Speech Dataset") repository <http://www.festvox.org/cmu_wilderness>  
 | [ctcp-command-names](ctcp-command-names.txt) |  [Client-to-client protocol](https://wikipedia.org/wiki/Client-to-client_protocol) command name strings 
 | [freenode-channel-sizes](freenode-channel-sizes.txt) |  channels from [freenode](https://freenode.net) IRC sorted by joined client count 
 | [inspircd-anope-commands](inspircd-anope-commands.txt) |  commands accepted by anope IRC services daemon via InspIRCd <https://wiki.inspircd.org/Commands> 
