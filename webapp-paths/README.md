@@ -23,6 +23,7 @@
 | [drupal-path-names](drupal-path-names.txt) |  path names typically found under the web root of a [Drupal](https://www.drupal.org "Open Source CMS") install 
 | [falcon-jsp-paths](falcon-jsp-paths.txt) |  _FalconPathScan_ `.php` extensions changed to `.jsp` 
 | [falcon-path-scan](falcon-path-scan.txt) |  The `paths.txt` file distributed with the _FalconPathScan_ 
+| [fingerprinter-db-paths](fingerprinter-db-paths.txt.xz) |  Path names extracted from JSON data files distributed with the [Fingerprinter](https://github.com/erwanlr/Fingerprinter "CMS/LMS/Library etc Versions Fingerprinter") tool <https://github.com/erwanlr/Fingerprinter/tree/master/db>  
 | [font-file-names](font-file-names.txt) |  List of names for various OpenType and TrueType font files 
 | [forcepoint-ink-files](forcepoint-ink-files.txt) |  file names for scanning custom extensions 
 | [generic-path-names](generic-path-names.txt) |  general path names that could be used on any web server 

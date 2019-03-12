@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#
+# Create webapp-data/fingerprinter-db-paths.txt
+#
+
+git clone https://github.com/erwanlr/Fingerprinter
+
+cd Fingerprinter/db
+
+cat *.json | tr ',' '\n' | tr ':' '\n' | egrep -v '^[{[]' | egrep -v '"[0-9]+' | egrep -v '^"[0-9]a-f]+"' | awk -F\" '{print$2}' | sort -u
+
+cd ../..
+
+rm -ri Fingerprinter
+
+exit 0

@@ -55,6 +55,7 @@ MS-ASProtocolCommands
 MS-ASProtocolVersions
 MS-Author-Via
 MS-Server-ActiveSync
+NEL
 OData-MaxVersion
 OData-Version
 Origin-Cache-Control
