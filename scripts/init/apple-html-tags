@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Parse and format HTML tags from document hosted at developer.apple.com
+#
+
+cat HTMLTags.html  | tr '<h3' '\n'  | tr '</h3' '\n' | grep 'class="jump' | awk -F\> '{print"<" $2 ">";}' | sort -u
+
+exit 0

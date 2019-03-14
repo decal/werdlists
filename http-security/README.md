@@ -25,6 +25,7 @@
 | [rails-secret-tokens](rails-secret-tokens.txt) |  [Ruby on Rails](http://rubyonrails.org) secret authorization token string values 
 | [referrer-policy-directives](referrer-policy-directives.txt) |  [Referrer Policy](https://w3.org/TR/referrer-policy/) directives 
 | [rfc1918-common-addrs](rfc1918-common-addrs.txt) |  [RFC1918](https://tools.ietf.org/html/rfc1918 "Address Allocations for Private Internets") based [IPv4 private network address spaces](https://wikipedia.org/wiki/Private_network#Private_IPv4_address_spaces) for [SSRF](https://www.owasp.org/index.php/Server_Side_Request_Forgery) attacks 
+[scripting-media-types](scripting-media-types.txt) | list of web scripting media types  
 | [snort-http-inspect](snort-http-inspect.txt) |  Snort HTTP inspect module global configuration variables 
 | [transport-security-state](transport-security-state.json.xz) |  [HSTS](https://www.chromium.org/hsts "HTTP Strict Transport Security") preloaded list in machine-readable format <https://cs.chromium.org/chromium/src/net/http/transport_security_state_static.json> 
 | [uri-spec-issues](uri-spec-issues.html) |  Messages to the URI-WG mailing list about ambiguous URI syntax 

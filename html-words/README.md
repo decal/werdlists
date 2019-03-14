@@ -16,6 +16,7 @@
 | [javascript-codereview-coverage](javascript-codereview-coverage.txt) |  List of common issues/bugs to check for during code review of JavaScript syntax  
 | [javascript-event-handlers](javascript-event-handlers.txt) |  JavaScript event handlers list from the [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet#Event_Handlers)  
 | [javascript-reserved-words](javascript-reserved-words.txt) |  reserved words in [JavaScript](https://wikipedia.org/wiki/JavaScript) 
+| [html-tags-all](html-tags-all.txt) |  List containing entries from all other HTML tag files combined  
 | [meta-name-extensions](meta-name-extensions.txt) |  Extension values for the `name=""` attribute of the HTML `<meta>` element via <https://wiki.whatwg.org/wiki/MetaExtensions>  
 | [microsoft-api-extensions](microsoft-api-extensions.txt) |  Microsoft JavaScript API extension identifiers via <https://developer.mozilla.org/en-US/docs/Web/API/Microsoft_Extension>  
 | [rel-value-extensions](rel-value-extensions.txt) |  Known values for the HTML `rel=""` attribute via <http://microformats.org/wiki/existing-rel-values>  

@@ -4,6 +4,7 @@
 |:--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [country-2char-codes](country-2char-codes.csv) |  CSV of 2-letter country code abbreviations 
 | [country-details-list](country-details-list.txt) |  3 ISO-3166 codes, population, area, capital and continent 
+| [cucumber-gherkin-locales](cucumber-gherkin-locales.txt) |  Languages that Gherkin supports <https://docs.cucumber.io/gherkin/reference/>  
 | [iata-airport-codes](iata-airport-codes.txt) |  IATA 3-letter airport code identifiers 
 | [iso-lang-codes](iso-lang-codes.txt) |  ISO-639 abbreviated language codes for i18n (internationalization) 
 | [iso8601w3c-datetime-formats](iso8601w3c-datetime-formats.txt) | a profile of ISO 8601, the standard for the international representation of dates and times via <https://w3.org/TR/NOTE-datetime>

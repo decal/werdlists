@@ -1,5 +1,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;_Script&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Function_  
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+| apple-html-tags            | parse and format HTML tags from document hosted at Apple's developer site  
 | book-titles-clean          | clean up book titles list
 | clib-package-names         |  
 | gitignore-paths            |  
