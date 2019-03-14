@@ -11,6 +11,7 @@
 | [basic-cgi-environ](basic-cgi-environ.txt) |  Standard or common [CGI](https://wikipedia.org/wiki/Common_Gateway_Interface "Common Gateway Interface") environment variable names 
 | [binutils-ld-names](binutils-ld-names.txt) |  [GNU binutils](https://gnu.org/software/binutils/) linker environment variables 
 | [byobu-environ-names](byobu-environ-names.txt) |  variables defined by the text-based window manager wrapper 
+| [buildkite-environ-assign](buildkite-environ-assign.txt) |  environment variable assignments used by a [Buildkite](https://buildkite.com "Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.") instance <https://buildkite.com/rails/rails/builds/59034#d593f546-8c9a-45f8-8701-a2b92fbea9a7>  
 | [common-gateway-names](common-gateway-names.txt) |  environment variables used for dynamic web scripting 
 | [configure-help-environs](configure-help-environs.txt) |  environment variables parsed from `./configure --help` 
 | [curl-environ-names](curl-environ-names.txt) |  variables set to define proxies for the `curl(1)` tool 

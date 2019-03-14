@@ -9,6 +9,6 @@ if [ ! "$1" ]; then
   exit 1
 fi
 
-awk '{gsub(/[ \t\v\r]+$/, "", $0);print$0;}' "$1" | sort -u
+awk '{gsub(/^[ \t\v\r]+/, "", $0);gsub(/[ \t\v\r]+$/, "", $0);print$0;}' "$1" | sort -u
 
 exit 0
