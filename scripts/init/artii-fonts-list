@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Sanitize, strip and uniqify the artii gem's list of available fonts
+#
+
+which artii
+
+[ $? -ne 0 ] && gem install artii
+
+artii -l 2>&1 | egrep -ih '^[a-z0-9_][a-z0-9_-]+$' | ../list-trimmer -
+
+exit 0

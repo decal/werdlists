@@ -10,6 +10,7 @@
 | [free-bsd-groups](free-bsd-groups.txt) |  common GID names found in [`/etc/group`](https://www.freebsd.org/cgi/man.cgi?group(5) "format of the group permissions file") on [FreeBSD](http://www.freebsd.com) 
 | [freebsd-sysctl-vars](freebsd-sysctl-vars.txt) |  [FreeBSD](http://www.freebsd.com) [`sysctl(8)`](https://www.freebsd.org/cgi/man.cgi?sysctl(8) "get or set kernel state") variables with types and changeability 
 | [free-bsd-users](free-bsd-users.txt) |  common UID names found in [`/etc/passwd`](https://www.freebsd.org/cgi/man.cgi?passwd(5) "format of the password file") on [FreeBSD](http://www.freebsd.com) 
+| [home-history-paths](home-history-paths.txt) |  path names of various hidden history files relative to `$HOME` 
 | [leap-seconds-list](leap-seconds-list.txt) |  list of leap seconds for computing international atomic time 
 | [linux-error-strings](linux-error-strings.txt) |  strings returned by [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf "WG14/N1256") function [strerror](https://linux.die.net/man/3/strerror "return string describing error number") on [Linux](https://www.linuxfoundation.org/) 
 | [locale-charmap-list](locale-charmap-list.txt) |  a list of all charmaps available with system locale info 

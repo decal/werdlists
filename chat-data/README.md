@@ -9,6 +9,7 @@
 | [inspircd-anope-commands](inspircd-anope-commands.txt) |  commands accepted by anope IRC services daemon via InspIRCd <https://wiki.inspircd.org/Commands> 
 | [inspircd-helpop-cmds](inspircd-helpop-cmds.txt) |  commands returned by HELPOP in [InspIRCd](https://inspircd.org) servers 
 | [inspircd-numerics-replies](inspircd-numerics-replies.txt) |  list of formats for InspIRCd servers' numeric code replies <http://decal.sdf.org/spotfedsonline/inspircd-numerics.txt> 
+| [rfc1459-numeric-replies](rfc1459-numeric-replies.yml) |  __This file is a transcription of [RFC1459,  Section 6](https://tools.ietf.org/html/rfc1459 "Internet Relay Chat") into [YAML](https://yaml.org "YAML Ain't Markup Language")__ via <https://gist.githubusercontent.com/proxypoke/2264878/raw/4a7f9a003f10b3aaa6e58ee92077fb0116874207/numreplies.yaml>  
 
 * * *
 

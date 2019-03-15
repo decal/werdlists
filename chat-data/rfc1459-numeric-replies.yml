@@ -1,0 +1,1002 @@
+# This file is a transcription of RFC 1459 section 6 into YAML, so that
+# programs written in any language may utilize it. It describes the
+# various numeric replies an IRC server may send, their canonical name,
+# number and a short description, if available.
+#
+# Copywrong (c) 2012 slowpoke (Proxy) < proxypoke at lavabit dot com >
+# This file is licensed under the terms of the WTFPL v2.
+#
+#
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#                    Version 2, December 2004
+#
+# Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+#
+# Everyone is permitted to copy and distribute verbatim or modified
+# copies of this license document, and changing it is allowed as long
+# as the name is changed.
+#
+#            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+
+
+# ========================= [ ERROR REPLIES ] =========================
+# This is section 6.1 in the RFC.
+
+ERROR_REPLIES:
+  401:
+    name: ERR_NOSUCKNICK
+    reply: <nickname> :No such nick/channel
+    desc: >
+      Used to indicate the nickname parameter supplied to a command is
+      currently unused.
+
+  402:
+    name: ERR_NOSUCHSERVER
+    reply: <server name> :No such server
+    desc: >
+      Used to indicate the server name given currently doesn't exist.
+
+  403:
+    name: ERR_NOSUCHCHANNEL
+    reply: <channel name> :No such channel
+    desc: >
+      Used to indicate the given channel name is invalid.
+
+  404:
+    name: ERR_CANNOTSENDTOCHAN
+    reply: <channel name> :Cannot send to channel
+    desc: >
+      Sent to a user who is either (a) not on a channel which is mode +n
+      or (b) not a chanop (or mode +v) on a channel which has mode +m set
+      and is trying to send a PRIVMSG message to that channel.
+
+  405:
+    name: ERR_TOOMANYCHANNELS
+    reply: <channel name> :You have joined too many channels
+    desc: >
+      Sent to a user when they have joined the maximum number of allowed
+      channels and they try to join another channel.
+
+  406:
+    name: ERR_WASNOSUCHNICK
+    reply: <nickname> :There was no such nickname
+    desc: >
+      Returned by WHOWAS to indicate there is no history information for
+      that nickname.
+
+  407:
+    name: ERR_TOOMANYTARGETS
+    reply: <target> :Duplicate recipients. No message delivered
+    desc: >
+      Returned to a client which is attempting to send PRIVMSG/NOTICE
+      using the user@host destination format and for a user@host which
+      has several occurrences.
+
+  409:
+    name: ERR_NOORIGIN
+    reply: :No origin specified
+    desc: >
+      PING or PONG message missing the originator parameter which is
+      required since these commands must work without valid prefixes.
+
+  411:
+    name: ERR_NORECIPIENT
+    reply: :No recipient given (<command>)
+    desc: >
+      n/a
+
+  412:
+    name: ERR_NOTEXTTOSEND
+    reply: :No text to send
+    desc: >
+      412 - 414 are returned by PRIVMSG to indicate that the message
+      wasn't delivered for some reason.
+
+  413:
+    name: ERR_NOTTOPLEVEL
+    reply: <mask> :No toplevel domain specified
+    desc: >
+      412 - 414 are returned by PRIVMSG to indicate that the message
+      wasn't delivered for some reason. ERR_NOTOPLEVEL and
+      ERR_WILDTOPLEVEL are errors that are returned when an invalid use
+      of "PRIVMSG $<server>" or "PRIVMSG #<host>" is attempted.
+
+  414:
+    name: ERR_WILDTOPLEVEL
+    reply: <mask> :Wildcard in toplevel domain
+    desc: >
+      412 - 414 are returned by PRIVMSG to indicate that the message
+      wasn't delivered for some reason. ERR_NOTOPLEVEL and
+      ERR_WILDTOPLEVEL are errors that are returned when an invalid use
+      of "PRIVMSG $<server>" or "PRIVMSG #<host>" is attempted.
+
+  421:
+    name: ERR_UNKNOWNCOMMAND
+    reply: <command> :Unknown command
+    desc: >
+      Returned to a registered client to indicate that the command sent
+      is unknown by the server.
+  422:
+    name: ERR_NOMOTD
+    reply: :MOTD File is missing
+    desc: >
+      Server's MOTD file could not be opened by the server.
+
+  423:
+    name: ERR_NOADMININFO
+    reply: <server> :No administrative info available
+    desc: >
+      Returned by a server in response to an ADMIN message when there is
+      an error in finding the appropriate information.
+
+  424:
+    name: ERR_FILEERROR
+    reply: :File error doing <file op> on <file>
+    desc: >
+      Generic error message used to report a failed file operation during
+      the processing of a message.
+      
+  431:
+    name: ERR_NONICKNAMEGIVEN
+    reply: :No nickname given
+    desc: >
+      Returned when a nickname parameter expected for a command and isn't
+      found.
+      
+  432:
+    name: ERR_ERRONEUSNICKNAME
+    reply: <nick> :Erroneus nickname
+    desc: >
+      Returned after receiving a NICK message which contains characters
+      which do not fall in the defined set. See section x.x.x for
+      details on valid nicknames.
+      
+  433:
+    name: ERR_NICKNAMEINUSE
+    reply: <nick> :Nickname is already in use
+    desc: >
+      Returned when a NICK message is processed that results in an
+      attempt to change to a currently existing nickname.
+      
+  436:
+    name: ERR_NICKCOLLISION
+    reply: <nick> :Nickname collision KILL
+    desc: >
+      Returned by a server to a client when it detects a nickname
+      collision (registered of a NICK that already exists by another
+      server).
+      
+  441:
+    name: ERR_USERNOTINCHANNEL
+    reply: <nick> <channel> :They aren't on that channel
+    desc: >
+      Returned by the server to indicate that the target user of the
+      command is not on the given channel.
+      
+  442:
+    name: ERR_NOTONCHANNEL
+    reply: <channel> :You're not on that channel
+    desc: >
+      Returned by the server whenever a client tries to perform a
+      channel effecting command for which the client isn't a member.
+      
+  443:
+    name: ERR_USERONCHANNEL
+    reply: <user> <channel> :is already on channel
+    desc: >
+      Returned when a client tries to invite a user to a channel they
+      are already on.
+      
+  444:
+    name: ERR_NOLOGIN
+    reply: <user> :User not logged in
+    desc: >
+      Returned by the summon after a SUMMON command for a user was
+      unable to be performed since they were not logged in.
+      
+  445:
+    name: ERR_SUMMONDISABLED
+    reply: :SUMMON has been disabled
+    desc: >
+      Returned as a response to the SUMMON command. Must be returned by
+      any server which does not implement it.
+      
+  446:
+    name: ERR_USERSDISABLED
+    reply: :USERS has been disabled
+    desc: >
+      Returned as a response to the USERS command. Must be returned by
+      any server which does not implement it.
+      
+  451:
+    name: ERR_NOTREGISTERED
+    reply: :You have not registered
+    desc: >
+      Returned by the server to indicate that the client must be
+      registered before the server will allow it to be parsed in detail.
+      
+  461:
+    name: ERR_NEEDMOREPARAMS
+    reply: <command> :Not enough parameters
+    desc: >
+      Returned by the server by numerous commands to indicate to the
+      client that it didn't supply enough parameters.
+      
+  462:
+    name: ERR_ALREADYREGISTRED
+    reply: :You may not reregister
+    desc: >
+      Returned by the server to any link which tries to change part of
+      the registered details (such as password or user details from
+      second USER message).
+      
+  463:
+    name: ERR_NOPERMFORHOST
+    reply: :Your host isn't among the privileged
+    desc: >
+      Returned to a client which attempts to register with a server
+      which does not been setup to allow connections from the host the
+      attempted connection is tried.
+      
+  464:
+    name: ERR_PASSWDMISMATCH
+    reply: :Password incorrect
+    desc: >
+      Returned to indicate a failed attempt at registering a connection
+      for which a password was required and was either not given or
+      incorrect.
+      
+  465:
+    name: ERR_YOUREBANNEDCREEP
+    reply: :You are banned from this server
+    desc: >
+      Returned after an attempt to connect and register yourself with a
+      server which has been setup to explicitly deny connections to you.
+      
+  467:
+    name: ERR_KEYSET
+    reply: <channel> :Channel key already set
+    desc: >
+      n/a
+
+  471:
+    name: ERR_CHANNELISFULL
+    reply: <channel> :Cannot join channel (+l)
+    desc: >
+      n/a
+
+  472:
+    name: ERR_UNKNOWNMODE
+    reply: <char> :is unknown mode char to me
+    desc: >
+      n/a
+
+  473:
+    name: ERR_INVITEONLYCHAN
+    reply: <channel> :Cannot join channel (+i)
+    desc: >
+      n/a
+
+  474:
+    name: ERR_BANNEDFROMCHAN
+    reply: <channel> :Cannot join channel (+b)
+    desc: >
+      n/a
+
+  475:
+    name: ERR_BADCHANNELKEY
+    reply: <channel> :Cannot join channel (+k)
+    desc: >
+      n/a
+
+  481:
+    name: ERR_NOPRIVILEGES
+    reply: :Permission Denied- You're not an IRC operator
+    desc: >
+      Any command requiring operator privileges to operate must return
+      this error to indicate the attempt was unsuccessful.
+      
+  482:
+    name: ERR_CHANOPRIVSNEEDED
+    reply: <channel> :You're not channel operator
+    desc: >
+      Any command requiring 'chanop' privileges (such as MODE messages)
+      must return this error if the client making the attempt is not a
+      chanop on the specified channel.
+      
+  483:
+    name: ERR_CANTKILLSERVER
+    reply: :You cant kill a server!
+    desc: >
+      Any attempts to use the KILL command on a server are to be
+      refused and this error returned directly to the client.
+      
+  491:
+    name: ERR_NOOPERHOST
+    reply: :No O-lines for your host
+    desc: >
+      If a client sends an OPER message and the server has not been
+      configured to allow connections from the client's host as an
+      operator, this error must be returned.
+      
+  501:
+    name: ERR_UMODEUNKNOWNFLAG
+    reply: :Unknown MODE flag
+    desc: >
+      Returned by the server to indicate that a MODE message was sent
+      with a nickname parameter and that the a mode flag sent was not
+      recognized.
+      
+  502:
+    name: ERR_USERSDONTMATCH
+    reply: :Cant change mode for other users
+    desc: >
+      Error sent to any user trying to view or change the user mode for
+      a user other than themselves.
+    
+
+
+# ======================= [ COMMAND RESPONSES ] =======================
+# This is section 6.2 in the RFC.
+
+COMMAND_RESPONSES:
+  300:
+    name: RPL_NONE
+    reply: n/a
+    desc: >
+      Dummy reply number. Not used.
+
+  302:
+    name: RPL_USERHOST
+    reply: :[<reply>{<space><reply>}]
+    desc: >
+      Reply format used by USERHOST to list replies to the query list.
+      The reply string is composed as follows:
+
+      <reply> ::= <nick>['*'] '=' <'+'|'-'><hostname>
+
+      The '*' indicates whether the client has registered as an
+      Operator. The '-' or '+' characters represent whether the client
+      has set an AWAY message or not respectively.
+
+  303:
+    name: RPL_ISON
+    reply: :[<nick> {<space><nick>}]
+    desc: >
+      Reply format used by ISON to list replies to the query list.
+
+  301:
+    name: RPL_AWAY
+    reply: <nick> :<away message>
+    desc: >
+      n/a
+
+  305:
+    name: RPL_UNAWAY
+    reply: :You are no longer marked as being away
+    desc: >
+      n/a
+
+  306:
+    name: RPL_NOWAWAY
+    reply: :You have been marked as being away
+    desc: >
+      These replies are used with the AWAY command (if allowed).
+      RPL_AWAY is sent to any client sending a PRIVMSG to a client which
+      is away. RPL_AWAY is only sent by the server to which the client
+      is connected. Replies RPL_UNAWAY and RPL_NOWAWAY are sent when the
+      client removes and sets an AWAY message.
+
+  311:
+    name: RPL_WHOISUSER
+    reply: <nick> <user> <host> * :<real name>
+    desc: >
+      n/a
+
+  312:
+    name: RPL_WHOISSERVER
+    reply: <nick> <server> :<server info>
+    desc: >
+      n/a
+
+  313:
+    name: RPL_WHOISOPERATOR
+    reply: <nick> :is an IRC operator
+    desc: >
+      n/a
+
+  317:
+    name: RPL_WHOISIDLE
+    reply: <nick> <integer> :seconds idle
+    desc: >
+      n/a
+
+  318:
+    name: RPL_ENDOFWHOIS
+    reply: <nick> :End of /WHOIS list
+    desc: >
+      n/a
+
+  319:
+    name: RPL_WHOISCHANNELS
+    reply: <nick> :{[@|+]<channel><space>}
+    desc: >
+      Replies 311 - 313, 317 - 319 are all replies generated in response
+      to a WHOIS message. Given that there are enough parameters
+      present, the answering server must either formulate a reply out of
+      the above numerics (if the query nick is found) or return an error
+      reply. The '*' in RPL_WHOISUSER is there as the literal character
+      and not as a wild card. For each reply set, only RPL_WHOISCHANNELS
+      may appear more than once (for long lists of channel names). The
+      '@' and '+' characters next to the channel name indicate whether a
+      client is a channel operator or has been granted permission to
+      speak on a moderated channel. The RPL_ENDOFWHOIS reply is used to
+      mark the end of processing a WHOIS message.
+
+  314:
+    name: RPL_WHOWASUSER
+    reply: <nick> <user> <host> * :<real name>
+    desc: >
+      n/a
+
+  369:
+    name: RPL_ENDOFWHOWAS
+    reply: <nick> :End of WHOWAS
+    desc: >
+      When replying to a WHOWAS message, a server must use the replies
+      RPL_WHOWASUSER, RPL_WHOISSERVER or ERR_WASNOSUCHNICK for each
+      nickname in the presented list. At the end of all reply batches,
+      there must be RPL_ENDOFWHOWAS (even if there was only one reply
+      and it was an error).
+
+  321:
+    name: RPL_LISTSTART
+    reply: Channel :Users Name
+    desc: >
+      n/a
+
+  322:
+    name: RPL_LIST
+    reply: <channel> <# visible> :<topic>
+    desc: >
+      n/a
+
+  323:
+    name: RPL_LISTEND
+    reply: :End of /LIST
+    desc: >
+      Replies RPL_LISTSTART, RPL_LIST, RPL_LISTEND mark the start,
+      actual replies with data and end of the server's response to a
+      LIST command. If there are no channels available to return, only
+      the start and end reply must be sent.
+
+  324:
+    name: RPL_CHANNELMODEIS
+    reply: <channel> <mode> <mode params>
+    desc: >
+      n/a
+
+  331:
+    name: RPL_NOTOPIC
+    reply: <channel> :No topic is set
+    desc: >
+      n/a
+
+  332:
+    name: RPL_TOPIC
+    reply: <channel> :<topic>
+    desc: >
+      When sending a TOPIC message to determine the channel topic, one
+      of two replies is sent. If the topic is set, RPL_TOPIC is sent
+      back else RPL_NOTOPIC. 
+
+  341:
+    name: RPL_INVITING
+    reply: <channel> <nick>
+    desc: >
+      Returned by the server to indicate that the attempted INVITE
+      message was successful and is being passed onto the end client.
+
+  342:
+    name: RPL_SUMMONING
+    reply: <user> :Summoning user to IRC
+    desc: >
+      Returned by a server answering a SUMMON message to indicate that
+      it is summoning that user.
+
+  351:
+    name: RPL_VERSION
+    reply: <version>.<debuglevel> <server> :<comments>
+    desc: >
+      Reply by the server showing its version details. The <version> is
+      the version of the software being used (including any patchlevel
+      revisions) and the <debuglevel> is used to indicate if the server
+      is running in "debug mode".
+
+      The "comments" field may contain any comments about the version or
+      further version details.
+
+  352:
+    name: RPL_WHOREPLY
+    reply: >
+      <channel> <user> <host> <server> <nick> <H|G>[*][@|+] :<hopcount>
+      <real name>
+    desc: >
+      n/a
+
+  315:
+    name: RPL_ENDOFWHO
+    reply: <name> :End of /WHO list
+    desc: >
+      The RPL_WHOREPLY and RPL_ENDOFWHO pair are used to answer a WHO
+      message. The RPL_WHOREPLY is only sent if there is an appropriate
+      match to the WHO query. If there is a list of parameters supplied
+      with a WHO message, a RPL_ENDOFWHO must be sent after processing
+      each list item with <name> being the item.
+
+  353:
+    name: RPL_NAMREPLY
+    reply: <channel> :[[@|+]<nick> [[@|+]<nick> [...]]]
+    desc: >
+      n/a
+
+  366:
+    name: RPL_ENDOFNAMES
+    reply: <channel> :End of /NAMES list
+    desc: >
+      To reply to a NAMES message, a reply pair consisting of
+      RPL_NAMREPLY and RPL_ENDOFNAMES is sent by the server back to the
+      client. If there is no channel found as in the query, then only
+      RPL_ENDOFNAMES is returned. The exception to this is when a NAMES
+      message is sent with no parameters and all visible channels and
+      contents are sent back in a series of RPL_NAMEREPLY messages with
+      a RPL_ENDOFNAMES to mark the end.
+
+  364:
+    name: RPL_LINKS
+    reply: <mask> <server> :<hopcount> <server info>
+    desc: >
+      n/a
+
+  365:
+    name: RPL_ENDOFLINKS
+    reply: <mask> :End of /LINKS list
+    desc: >
+      In replying to the LINKS message, a server must send replies back
+      using the RPL_LINKS numeric and mark the end of the list using an
+      RPL_ENDOFLINKS reply.v 
+
+  367:
+    name: RPL_BANLIST
+    reply: <channel> <banid>
+    desc: >
+      n/a
+
+  368:
+    name: RPL_ENDOFBANLIST
+    reply: <channel> :End of channel ban list
+    desc: >
+      When listing the active 'bans' for a given channel, a server is
+      required to send the list back using the RPL_BANLIST and
+      RPL_ENDOFBANLIST messages. A separate RPL_BANLIST is sent for each
+      active banid. After the banids have been listed (or if none
+      present) a RPL_ENDOFBANLIST must be sent.
+
+  371:
+    name: RPL_INFO
+    reply: :<string>
+    desc: >
+      n/a
+
+  374:
+    name: RPL_ENDOFINFO
+    reply: :End of /INFO list
+    desc: >
+      A server responding to an INFO message is required to send all its
+      'info' in a series of RPL_INFO messages with a RPL_ENDOFINFO reply
+      to indicate the end of the replies.
+
+  375:
+    name: RPL_MOTDSTART
+    reply: :- <server> Message of the day - 
+    desc: >
+      n/a
+
+  372:
+    name: RPL_MOTD
+    reply: :- <text>
+    desc: >
+      n/a
+
+  376:
+    name: RPL_ENDOFMOTD
+    reply: :End of /MOTD command
+    desc: >
+      When responding to the MOTD message and the MOTD file is found,
+      the file is displayed line by line, with each line no longer than
+      80 characters, using RPL_MOTD format replies. These should be
+      surrounded by a RPL_MOTDSTART (before the RPL_MOTDs) and an
+      RPL_ENDOFMOTD (after).
+
+  381:
+    name: RPL_YOUREOPER
+    reply: :You are now an IRC operator
+    desc: >
+      RPL_YOUREOPER is sent back to a client which has just successfully
+      issued an OPER message and gained operator status.
+
+  382:
+    name: RPL_REHASHING
+    reply: <config file> :Rehashing
+    desc: >
+      If the REHASH option is used and an operator sends a REHASH
+      message, an RPL_REHASHING is sent back to the operator.
+
+  391:
+    name: RPL_TIME
+    reply: <server> :<string showing server's local time>
+    desc: >
+      When replying to the TIME message, a server must send the reply
+      using the RPL_TIME format above. The string showing the time need
+      only contain the correct day and time there. There is no further
+      requirement for the time string.
+
+  392:
+    name: RPL_USERSSTART
+    reply: :UserID Terminal Host
+    desc: >
+      n/a
+
+  393:
+    name: RPL_USERS
+    reply: :%-8s %-9s %-8s
+    desc: >
+      n/a
+
+  394:
+    name: RPL_ENDOFUSERS
+    reply: :End of users
+    desc: >
+      n/a
+
+  395:
+    name: RPL_NOUSERS
+    reply: :Nobody logged in
+    desc: >
+      If the USERS message is handled by a server, the replies
+      RPL_USERSTART, RPL_USERS, RPL_ENDOFUSERS and RPL_NOUSERS are used.
+      RPL_USERSSTART must be sent first, following by either a sequence
+      of RPL_USERS or a single RPL_NOUSER. Following this is
+      RPL_ENDOFUSERS.
+
+  200:
+    name: RPL_TRACELINK
+    reply: Link <version & debug level> <destination> <next server>
+    desc: >
+      n/a
+
+  201:
+    name: RPL_TRACECONNECTING
+    reply: Try. <class> <server>
+    desc: >
+      n/a
+
+  202:
+    name: RPL_TRACEHANDSHAKE
+    reply: H.S. <class> <server>
+    desc: >
+      n/a
+
+  203:
+    name: RPL_TRACEUNKNOWN
+    reply: ???? <class> [<client IP address in dot form>]
+    desc: >
+      n/a
+
+  204:
+    name: RPL_TRACEOPERATOR
+    reply: Oper <class> <nick>
+    desc: >
+      n/a
+
+  205:
+    name: RPL_TRACEUSER
+    reply: User <class> <nick>
+    desc: >
+      n/a
+
+  206:
+    name: RPL_TRACESERVER
+    reply: >
+      Serv <class> <int>S <int>C <server> <nick!user|*!*>@<host|server>
+    desc: >
+      n/a
+
+  208:
+    name: RPL_TRACENEWTYPE
+    reply: <newtype> 0 <client name>
+    desc: >
+      n/a
+
+  261:
+    name: RPL_TRACELOG
+    reply: File <logfile> <debug level>
+    desc: >
+      The RPL_TRACE* are all returned by the server in response to the
+      TRACE message. How many are returned is dependent on the the TRACE
+      message and whether it was sent by an operator or not. There is no
+      predefined order for which occurs first. Replies RPL_TRACEUNKNOWN,
+      RPL_TRACECONNECTING and RPL_TRACEHANDSHAKE are all used for
+      connections which have not been fully established and are either
+      unknown, still attempting to connect or in the process of
+      completing the 'server handshake'. RPL_TRACELINK is sent by any
+      server which handles a TRACE message and has to pass it on to
+      another server. The list of RPL_TRACELINKs sent in response to a
+      TRACE command traversing the IRC network should reflect the actual
+      connectivity of the servers themselves along that path.
+      RPL_TRACENEWTYPE is to be used for any connection which does not
+      fit in the other categories but is being displayed anyway.
+
+  211:
+    name: RPL_STATSLINKINFO
+    reply: >
+      <linkname> <sendq> <sent messages> <sent bytes> <received
+      messages> <received bytes> <time open>
+    desc: >
+      n/a
+
+  212:
+    name: RPL_STATSCOMMANDS
+    reply: <command> <count>
+    desc: >
+      n/a
+
+  213:
+    name: RPL_STATSCLINE
+    reply: C <host> * <name> <port> <class>
+    desc: >
+      n/a
+
+  214:
+    name: RPL_STATSNLINE
+    reply: N <host> * <name> <port> <class>
+    desc: >
+      n/a
+
+  215:
+    name: RPL_STATSILINE
+    reply: I <host> * <host> <port> <class>
+    desc: >
+      n/a
+
+  216:
+    name: RPL_STATSKLINE
+    reply: K <host> * <username> <port> <class>
+    desc: >
+      n/a
+
+  218:
+    name: RPL_STATSYLINE
+    reply: Y <class> <ping frequency> <connect frequency> <max sendq>
+    desc: >
+      n/a
+
+  219:
+    name: RPL_ENDOFSTATS
+    reply: <stats letter> :End of /STATS report
+    desc: >
+      n/a
+
+  241:
+    name: RPL_STATSLLINE
+    reply: L <hostmask> * <servername> <maxdepth>
+    desc: >
+      n/a
+
+  242:
+    name: RPL_STATSUPTIME
+    reply: :Server Up %d days %d:%02d:%02d
+    desc: >
+      n/a
+
+  243:
+    name: RPL_STATSOLINE
+    reply: O <hostmask> * <name>
+    desc: >
+      n/a
+
+  244:
+    name: RPL_STATSHLINE
+    reply: H <hostmask> * <servername>
+    desc: >
+      n/a
+
+  221:
+    name: RPL_UMODEIS
+    reply: <user mode string>
+    desc: >
+      To answer a query about a client's own mode, RPL_UMODEIS is sent
+      back.
+
+  251:
+    name: RPL_LUSERCLIENT
+    reply: >
+      :There are <integer> users and <integer> invisible on <integer>
+      servers
+    desc: >
+      n/a
+
+  252:
+    name: RPL_LUSEROP
+    reply: <integer> :operator(s) online
+    desc: >
+      n/a
+
+  253:
+    name: RPL_LUSERUNKNOWN
+    reply: <integer> :unknown connection(s)
+    desc: >
+      n/a
+
+  254:
+    name: RPL_LUSERCHANNELS
+    reply: <integer> :channels formed
+    desc: >
+      n/a
+
+  255:
+    name: RPL_LUSERME
+    reply: :I have <integer> clients and <integer> servers
+    desc: >
+      In processing an LUSERS message, the server sends a set of replies
+      from RPL_LUSERCLIENT, RPL_LUSEROP, RPL_USERUNKNOWN,
+      RPL_LUSERCHANNELS and RPL_LUSERME. When replying, a server must
+      send back RPL_LUSERCLIENT and RPL_LUSERME. The other replies are
+      only sent back if a non-zero count is found for them.
+
+  256:
+    name: RPL_ADMINME
+    reply: <server> :Administrative info
+    desc: >
+      n/a
+
+  257:
+    name: RPL_ADMINLOC1
+    reply: :<admin info>
+    desc: >
+      n/a
+
+  258:
+    name: RPL_ADMINLOC2
+    reply: :<admin info>
+    desc: >
+      n/a
+
+  259:
+    name: RPL_ADMINEMAIL
+    reply: :<admin info>
+    desc: >
+      When replying to an ADMIN message, a server is expected to use
+      replies RLP_ADMINME through to RPL_ADMINEMAIL and provide a text
+      message with each. For RPL_ADMINLOC1 a description of what city,
+      state and country the server is in is expected, followed by
+      details of the university and department (RPL_ADMINLOC2) and
+      finally the administrative contact for the server (an email
+      address here is required) in RPL_ADMINEMAIL. 
+
+
+
+# ======================= [ RESERVED NUMERICS ] =======================
+# This is section 6.3 in the RFC.
+#
+# 
+# From the RFC about this section:
+#
+# These numerics are not described above since they fall into one of
+# the following categories:
+# 
+#    1. no longer in use;
+#    2. reserved for future planned use;
+#    3. in current use but are part of a non-generic 'feature' of the
+#       current IRC server.
+
+RESERVED_NUMERALS:
+  209:
+    name: RPL_TRACECLASS  
+    reply: n/a
+    desc: >
+      n/a
+
+  217:
+    name: RPL_STATSQLINE
+    reply: n/a
+    desc: >
+      n/a
+
+  231:
+    name: RPL_SERVICEINFO   
+    reply: n/a
+    desc: >
+      n/a
+
+  232:
+    name: RPL_ENDOFSERVICES
+    reply: n/a
+    desc: >
+      n/a
+
+  233:
+    name: RPL_SERVICE   
+    reply: n/a
+    desc: >
+      n/a
+
+  234:
+    name: RPL_SERVLIST
+    reply: n/a
+    desc: >
+      n/a
+
+  235:
+    name: RPL_SERVLISTEND     
+    reply: n/a
+    desc: >
+      n/a
+
+  316:
+    name: RPL_WHOISCHANOP   
+    reply: n/a
+    desc: >
+      n/a
+
+  361:
+    name: RPL_KILLDONE
+    reply: n/a
+    desc: >
+      n/a
+
+  362:
+    name: RPL_CLOSING   
+    reply: n/a
+    desc: >
+      n/a
+
+  363:
+    name: RPL_CLOSEEND
+    reply: n/a
+    desc: >
+      n/a
+
+  373:
+    name: RPL_INFOSTART   
+    reply: n/a
+    desc: >
+      n/a
+
+  384:
+    name: RPL_MYPORTIS
+    reply: n/a
+    desc: >
+      n/a
+
+  466:
+    name: ERR_YOUWILLBEBANNED   
+    reply: n/a
+    desc: >
+      n/a
+
+  476:
+    name: ERR_BADCHANMASK
+    reply: n/a
+    desc: >
+      n/a
+
+  492:
+    name: ERR_NOSERVICEHOST 
+    reply: n/a
+    desc: >
+      n/a
