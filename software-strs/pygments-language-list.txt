@@ -1,0 +1,83 @@
+ActionScript
+Ada
+ANTLR
+AppleScript
+Assembly (various)
+Asymptote
+Awk
+Befunge
+Boo
+BrainFuck
+C, C++
+C#
+Clojure
+CoffeeScript
+ColdFusion
+Common Lisp
+Coq
+Cryptol (incl. Literate Cryptol)
+Crystal
+Cython
+D
+Dart
+Delphi
+Dylan
+Elm
+Erlang
+Ezhil Ezhil - A Tamil programming language
+Factor
+Fancy
+Fennel
+Fortran
+F#
+GAP
+Gherkin (Cucumber)
+GL shaders
+Groovy
+Haskell (incl. Literate Haskell)
+HLSL
+IDL
+Io
+Java
+JavaScript
+Lasso
+LLVM
+Logtalk
+Lua
+Matlab
+MiniD
+Modelica
+Modula-2
+MuPad
+Nemerle
+Nimrod
+Objective-C
+Objective-J
+Octave
+OCaml
+PHP
+Perl
+PovRay
+PostScript
+PowerShell
+Prolog
+Python 2.x and 3.x (incl. console sessions and tracebacks)
+REBOL
+Red
+Redcode
+Ruby (incl. irb sessions)
+Rust
+S, S-Plus, R
+Scala
+Scheme
+Scilab
+Smalltalk
+SNOBOL
+Tcl
+Vala
+Verilog
+VHDL
+Visual Basic.NET
+Visual FoxPro
+XQuery
+Zephir
