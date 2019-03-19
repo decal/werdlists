@@ -34,6 +34,7 @@
 | [javascript-crypto-strings](javascript-crypto-strings) | list cipher, hash and curve strings from NodeJS `crypto` module  
 | [manpage-constants-libcurl](manpage-constants-libcurl) | extract libcurl handle option constants from manual page  
 | [network-cmds-list](network-cmds-list) | parse tool names from Apple's open source `network_cmds` project directory 
+| [parse-pastebin-html](parse-pastebin-html) | Remove HTML tags from a pastebin page so only the pasted file contents remain--used on `google-camera-dorks.txt`  
 | [parse-v8flags](parse-v8flags) | parse command-line options from `~/.v8flags.*.json` files  
 | [publicsuffix](publicsuffix) | convert the public suffix data file from [Mozilla Cross-Reference](https://mxr.mozilla.org) to JSON <https://gist.github.com/hattya/1528011>  
 | [shells-environ-strings](shells-environ-strings) | extract strings resembling environment variable names from shell binaries  

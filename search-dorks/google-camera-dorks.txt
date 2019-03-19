@@ -1,0 +1,36 @@
+
+allintitle:"Network Camera NetworkCamera" (disconnected)
+intitle:"EvoCam" inurl:"webcam.html"
+intitle:"Live NetSnap Cam-Server feed"
+intitle:"Live View / - AXIS
+intitle:"Live View / - AXIS 206M"
+intitle:"Live View / - AXIS 206W"
+intitle:"Live View / - AXIS 210?
+intitle:"Live View / - AXIS"
+intitle:"Toshiba Network Camera" user login
+intitle:"WJ-NT104 Main Page"
+intitle:"i-Catcher Console - Web Monitor"
+intitle:"live view" intitle:axis
+intitle:"netcam live image" (disconnected)
+intitle:"sony network camera snc-m1?
+intitle:"sony network camera snc-p1?
+intitle:axis intitle:"video server"
+intitle:liveapplet
+intitle:liveapplet inurl:LvAppl
+intitle:snc-cs3 inurl:home/
+intitle:snc-rz30 inurl:home/
+intitle:snc-z20 inurl:home/
+intitle:start inurl:cgistart
+inurl:"CgiStart?page="
+inurl:"MultiCameraFrame?Mode=Motion" (disconnected)
+inurl:/view.shtml
+inurl:ViewerFrame?Mode=
+inurl:ViewerFrame?Mode=Refresh
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG) (disconnected)
+inurl:indexFrame.shtml Axis
+inurl:view/index.shtml
+inurl:view/indexFrame.shtml
+inurl:view/view.shtml
+liveapplet
+site:.viewnetcam.com -www.viewnetcam.com

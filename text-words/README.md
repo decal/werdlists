@@ -37,7 +37,7 @@
 | [mrrobot-season3-subtitles](mrrobot-season3-subtitles.txt) | Subtitles for season three of the _Mr. Robot_ television series <https://www.podnapisi.net/subtitles/search/mr-robot-2015/SOM?seasons=3> 
 | [multi-lingual-vernacular](multi-lingual-vernacular.txt.xz) | Popular vernacular from common languages along with associated numeric rating of each  
 | [not-found-translations](not-found-translations.txt) | "Not Found" translations on [iBiblio](http://ibiblio.org) 
-| [nouns-abuse-list.txt](nouns-abuse-list.txt) | list of nounns that [RobinAbuseBot](https://github.com/llamasoft/RobinAbuseBot "A random insult generating abuse bot for Reddit's Robin chat.") constructs insults with via <https://github.com/llamasoft/RobinAbuseBot/blob/master/RobinAbuseBot.user.js>  
+| [nouns-abuse-list.txt](nouns-abuse-list.txt) | list of nouns that [RobinAbuseBot](https://github.com/llamasoft/RobinAbuseBot "A random insult generating abuse bot for Reddit's Robin chat.") constructs insults with via <https://github.com/llamasoft/RobinAbuseBot/blob/master/RobinAbuseBot.user.js>  
 | [obama-nobel-speech](obama-nobel-speech.txt) | [Barack Obama's 2009 Nobel Peace Prize](https://wikipedia.org/wiki/2009_Nobel_Peace_Prize#Barack_Obama) award acceptance speech 
 | [objects-name-list](objects-name-list.txt) | listing that contains names of various objects from <http://domainsbot.com/Content/Data/terms/objects.txt> 
 | [occupations-frequency-list](occupations-frequency-list.txt.xz) |  list of occupations sorted by numeric score--higher means more popular from <http://sunlight.s3.amazonaws.com/all_occupations.txt> 

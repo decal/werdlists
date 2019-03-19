@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#
+# Parse from pastebin
+#
+
+
+lynx -dump camera-dorks.html  | egrep -ha '[0-9]+\.'  | head -43 | cut -d '.' -f2- | sed -E 's![[:space:]]+!!g' | tail -n +7 | sort -u
+
+exit 0
