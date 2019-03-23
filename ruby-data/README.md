@@ -12,6 +12,7 @@
 | [rubygems-name-version](rubygems-name-version.txt.xz) |  List of [Rubygems](https://rubygems.org) with name and version delimited by dash 
 | [rubygems-with-changelog](rubygems-with-changelog.csv) |  Rubygems with a `changelog.*` file in their source repository, ordered by highest SourceRank <https://www.snip2code.com/Snippet/1736982>  
 | [rubylang-pubftp-index](rubylang-pubftp-index.txt) | Index file from the public FTP service on `ruby-lang.org` with Ruby version strings, URL's and SHA hashes <https://cache.ruby-lang.org/pub/ruby/index.txt> 
+| [tilt-template-engines](tilt-template-engines.md) | List of Ruby template engines supported by [Tilt](https://github.com/rtomayko/tilt "Generic interface to multiple ruby template enginees")  
 | [undocumented-ruby-libraries](undocumented-ruby-libraries.txt) |  `undocumented_lib.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 
 | [undocumented-ruby-core](undocumented-ruby-core.txt) |  `undocumented_core.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 
 | [undocumented-ruby-extensions](undocumented-ruby-extensions.txt) |  `undocumented_ext.txt` file from `documenting-ruby.org` for the [Ruby Documentation Project](http://documenting-ruby.org "A concerted effort to augment and enhance Ruby MRI documentation") 

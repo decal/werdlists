@@ -20,6 +20,7 @@
 | dnsmaper-subs-db           | `subs.db` file from [dnsmaper](https://github.com/le4f/dnsmaper) tool's repository on GitHub
 | dnssearch-hosts-list       | hosts list packaged with the *dnssearch* utility  
 | dod-hosts-table            | Old School [DoD](https://www.defense.gov/ "U.S. Department of Defense") Internet Host Table (not in `/etc/hosts` format)  
+| edu-host-names             | names of hosts that typically appear on a `.edu` network 
 | expanded-intranet-hosts    | additional hosts generated from `common-intranet-hosts`  
 | fierce-lists-20000         | `20000.txt` from [fierce](https://github.com/mschwager/fierce "Fierce is a `DNS` reconnaissance tool for locating non-contiguous IP space.") repository's lists folder  
 | fierce-lists-5000          | `5000.txt` from fierce repository's lists folder  
