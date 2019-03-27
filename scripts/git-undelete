@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#
+# Undelete script I wrote for git when accidentally removing some things with rmlint
+#
+
+for f in $(git status -s | egrep -ah '^ D' | awk '{print$2}');do git checkout -- $f;done
+
+exit 0

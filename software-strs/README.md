@@ -49,6 +49,7 @@
 | [perl-release-dates](perl-release-dates.txt) |  [Perl](https://www.perl.org) version strings and their corresponding release dates 
 | [program-language-designed](program-language-designed.txt) |  List of design reasons for programming languages 
 | [programming-language-list](programming-language-list.txt) |  <https://wikipedia.org/wiki/List_of_programming_languages> 
+| [programming-languages-tokei](programming-languages-tokei.json) | the list of programming languages supported by [tokei](https://tokei.rs "A program that allows you to count your code, quickly.") via <https://raw.githubusercontent.com/XAMPPRocky/tokei/master/languages.json>  
 | [pygments-langauge-list](pygments-language-list.txt) | list of languages that [Pygments](https://pygments.org "Python syntax highlighter") supports via <http://pygments.org/languages/>
 | [repo-projects-list](repo-projects-list.txt) |  Repository names extracted from "all projects list" page on GitWeb site via <https://repo.or.cz/?a=project_list>
 | [rfceditor-abbrevs-list](rfceditor-abbrevs-list.txt) |  January 2018 RFC Editor Abbreviations List from <https://www.rfc-editor.org/materials/abbrev.expansion.txt> 

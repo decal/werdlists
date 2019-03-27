@@ -9,6 +9,7 @@
 | [esoteric-programming-languages](esoteric-programming-languages.txt) |  list of esoteric programming language names from <https://esolangs.org/wiki/Language_list> 
 | [gcc-clang-enums](gcc-clang-enums.txt) |  constants of `enum clang` declared in `libcpp/include/cpplib.h` 
 | [github-linguist-languages](github-linguist-languages.yml) |  all languages [GitHub](https://github.com) detects 
+| [google-charts-reserved](google-charts-reserved.txt) | Reserved words used for Google Charts via <https://developers.google.com/chart/interactive/docs/querylanguage>  
 | [javascript-future-words](javascript-future-words.txt) |  Reserved identifiers for future JavaScript syntax 
 | [javascript-reserved-short](javascript-reserved-short.txt) |  Words that can't be used in current JavaScript syntax 
 | [javascript-reserved-long](javascript-reserved-long.txt) |  A longer version of JavaScript reserved words that includes browser-side and Java language words <https://www.w3schools.com/js/js_reserved.asp>  

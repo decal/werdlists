@@ -6,6 +6,7 @@
 | checkout-readmes           | get fresh copies of local `README.md` files in the event they were accidentally corrupted
 | default-permissions        | set default permission bits on all filesystem entries in the repository
 | extend-hosts               | append various comnbinations of letters and numbers to DNS hostnames in given file(s)  
+| git-undelete               | undelete files that were accidentally removed 
 | header-constants           | extract preprocessor constants from C/C++ style header files (_useful for creating test inputs_)
 | index-files                | compare each folder's file listing to its local `README.md` and display missing file names
 | list-trimmer               | uniqify list file after trimming whitespace from each line

@@ -5,6 +5,7 @@
 | [owasp-incident-database](owasp-incident-database.csv.xz) | The OWASP Incident Database
 | [owasp-top10-2017](owasp-top10-2017.txt) |  The Top 10 types of web insecurities for 2017 by OWASP 
 | [owasp-test-method](owasp-test-method.md) |  an outline of the OWASP test methodology 
+| [owasp-testing-guide](owasp-testing-guide.json) |  JSON file including list of links to OWASP test info as included with [HUNT](https://github.com/bugcrowd/HUNT "HUNT Suite Proxy Extensions")  
 | [waf-crs-rules](waf-crs-rules.txt) |  OWASP Core Rule Set for Web Application Firewalls 
 | [xss-owasp-cheatsheet](xss-owasp-cheatsheet.txt) |  OWASP XSS Filter Evasion Cheat Sheet based on original by RSnake via <https://owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet>  
 

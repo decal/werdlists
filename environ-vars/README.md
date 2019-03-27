@@ -7,6 +7,7 @@
 | [apache-mesos-envinfos](apache-mesos-envinfos.txt) |  info on environment variables associated w/ [Apache Mesos](https://mesos.apache.org) 
 | [apache-ssl-environ](apache-ssl-environ.txt) |  environment variables used by Apache's [mod_ssl](https://wikipedia.org/wiki/Mod_ssl) module 
 | [apache-suexec-names](apache-suexec-names.txt) |  environment variables strings'd from Apache suEXEC binary 
+| [aws-environ-names](aws-environ-names.txt) |  [AWS](https://aws.amazon.com "Amazon Web Services") environment variables via <https://github.com/aws/aws-cli>  
 | [bashenv-declared-environ](bashenv-declared-environ.txt) |  variables discovered in `bash` by running `declare -p` 
 | [basic-cgi-environ](basic-cgi-environ.txt) |  Standard or common [CGI](https://wikipedia.org/wiki/Common_Gateway_Interface "Common Gateway Interface") environment variable names 
 | [binutils-ld-names](binutils-ld-names.txt) |  [GNU binutils](https://gnu.org/software/binutils/) linker environment variables 
