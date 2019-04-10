@@ -1,3 +1,4 @@
+b3
 server
 user-agent
 x-b3-flags
@@ -6,12 +7,16 @@ x-b3-sampled
 x-b3-spanid
 x-b3-traceid
 x-client-trace-id
+x-datadog-parent-id
+x-datadog-sampling-priority
+x-datadog-trace-id
 x-envoy-downstream-service-cluster
 x-envoy-downstream-service-node
 x-envoy-external-address
 x-envoy-force-trace
 x-envoy-internal
 x-envoy-ip-tags
+x-envoy-original-dst-host
 x-forwarded-client-cert
 x-forwarded-for
 x-forwarded-proto
