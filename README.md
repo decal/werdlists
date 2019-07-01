@@ -37,8 +37,8 @@ tool.)  The vast majority of files are simply [ASCII](https://wikipedia.org/wiki
 style [newline](https://wikipedia.org/wiki/Newline).  Beware that this project does not attempt in any way to be minimalist or lack verbosity! 
 
 ## <a name="inspire"></a>Inspiration Taken From Similar Projects :thought_balloon:
-`werdlists` is very similar to [`fuzzdb`](/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
-[`SecLists`](/danielmiessler/SecLists/ "The security tester's companion").  `SecLists` is maintained by my former colleague at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com).
+`werdlists` is very similar to [`fuzzdb`](https://github.com/fuzzdb-project/fuzzdb/ "The attack pattern dictionary") and 
+[`SecLists`](https://github.com/danielmiessler/SecLists/ "The security tester's companion").  `SecLists` is maintained by my former colleague at [IOActive](https://ioactive.com "IOActive"), [Daniel Miessler](https://danielmiessler.com).
 Admittedly, `werdlists` is quite similar in mission as it's a centralized attack strings 
 and [input](https://wikipedia.org/wiki/Input_(computer_science)) data resource.  Regardless, `werdlists` expands on a number of concepts: it has its own unique style, organization, 
 original hand-crafted contents, dataset creation/management/validation scripts, scanner springboards, etc.
