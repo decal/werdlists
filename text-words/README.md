@@ -13,6 +13,7 @@
 | [business-noun-words](business-noun-words.txt) | a list of words that can be categorized as business-related nouns 
 | [common-english-words](common-english-words.txt) | a brief listing of the most commonly used words in English (the top 30) 
 | [curse-words-list](curse-words-list.txt) | _**Warning!**_ list of vulgar (i.e. "curse") words 
+| [elasticlunr-default-stop](elasticlunr-default-stop.txt) | list of ElasticLunr stop words from <http://elasticlunr.com/docs/stop_word_filter.js.html>
 | [english-connective-words](english-connective-words.txt) | list of "connective" English words--these are words that can often be dropped from simple search queries 
 | [english-top-1000](english-top-1000.txt) | 1,000 most used words in the [English language](https://wikipedia.org/wiki/English_language)
 | [english-top-1500](english-top-1500.txt) | 1,500 most used words in the English language taken from [htpwdScan](https://github.com/lijiejie/htpwdScan "A python HTTP weak pass scanner")
