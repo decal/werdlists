@@ -48,6 +48,8 @@
 | tlds-alpha-dom             | an alphabetically sorted list of top-level domains from [ICANN](https://www.icann.org/)  
 | top-level-names            | New [gTLD](https://wikipedia.org/wiki/Generic_top-level_domain "Generic top-level domain") list taken from `ntldstats.com`  
 | tor2web-domain-names       | Domain names that are clearnet proxies for TOR .. searched for: `site:*.onion.*`
+| subdomain-takeover-hosts   | Subdomain takeover hosts from [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz/issues/26)
+| subdomain-takeover-potential | Potential subdomain takeover with approved registration from [can-i-takeover-xyz](https://github.com/EdOverflow/can-i-take-over-xyz/issues/26)
 | uk-domain-names            | DNSSEC resource records within the [.uk ccTLD](https://wikipedia.org/wiki/.uk)  
 | upenn-domain-records       | resource records for upenn.edu domain and its subdomains  
 | ustld-dnssec-records       | list of DNSSEC records for domains in the [.us ccTLD](https://wikipedia.org/wiki/.us)  
