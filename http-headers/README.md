@@ -3,6 +3,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Folder&nbsp;&nbsp;Name_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| _Description of Contents_
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 | [about-http-headers](about-http-headers.txt) |  Descriptions for the most common HTTP header fields 
+| [acah-headers-list](acah-headers-list.txt) | Taken from [StackOverflow](https://stackoverflow.com/questions/13146892/cors-access-control-allow-headers-wildcard-being-ignored) post about Access-Control-Allow-Headers
 | [access-control-headers](access-control-headers.txt) |  [Cross Origin Resource Sharing](https://wikipedia.org/wiki/Cross-origin_resource_sharing) (CORS) header name list 
 | [amazon-http-headers](amazon-http-headers.txt) |  HTTP headers specific to Amazon 
 | [cloudfront-request-headers](cloudfront-request-headers.txt) |  Headers used by [Amazon AWS CloudFront](https://aws.amazon.com/cloudfront/ "CloudFront is a content delivery network offered by Amazon Web Services.") HTTP request 
