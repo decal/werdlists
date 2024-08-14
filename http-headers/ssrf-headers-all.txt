@@ -488,6 +488,7 @@ X-Remote-DNS
 X-Remote-Host
 X-Remote-IP
 X-Remote-Server
+X-SendFile
 X-Served-By
 X-Served-By-Addr
 X-Served-By-Address
